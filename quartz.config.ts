@@ -6,9 +6,7 @@ const config: QuartzConfig = {
     pageTitle: "🦆 Pettifoggery",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     baseUrl: "lpc-quartz.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
