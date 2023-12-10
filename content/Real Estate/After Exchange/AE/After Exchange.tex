@@ -1,0 +1,1184 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+
+\newenvironment{env-8afce0a9-3fbf-4b07-9afa-bda503913335}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{firebrick}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-5a4de3b9-ebaa-4587-98ac-a9dcebde61c3}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-66cad7eb-90fd-464d-8d27-987282bf513e}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{green}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-8539d7c0-f759-44df-baf4-9844eccd09fd}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{aquamarine}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-3a86e777-1520-47b7-92b8-87a7ef358c1c}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{orange}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-0fbc6ef9-97c6-48f2-85c1-74f41f9fb7af}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gold}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-58f7d64b-4191-4e68-b7be-72dd2a9f054a}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darkred}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-80b3123b-91bb-4455-9dab-6cca25d38653}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{pink}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-6ad543ac-b935-4627-ac41-3d26d91b2ad8}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-424095bc-d800-47da-9504-a9e979d9ac26}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-084f3267-2c8e-42c2-8e14-84f01aea7cee}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{purple}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-f5193f51-a35f-4b69-8fd2-a79baa4190c3}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darksalmon}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-fc01b7b2-e70c-451d-8f3f-bb57ed8250fc}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gray}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={After Exchange},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{After Exchange}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\hypertarget{consequences-of-exchange}{%
+\section{Consequences of Exchange}\label{consequences-of-exchange}}
+
+\hypertarget{effects}{%
+\subsection{Effects}\label{effects}}
+
+A binding contract exists from which normally neither party may withdraw
+without incurring liability for breach. At common law, the beneficial
+ownership in the property passes to the buyer, who becomes entitled to
+any increase in value of the property but bears the risk of any loss
+damage.
+
+The seller retains legal title until completion, but holds the
+beneficial interest on behalf of the buyer. Seller entitled to remain in
+possession of the property and to any rental income, unless otherwise
+agreed. Must pay any outgoings until completion. Owes a duty of care to
+the buyer, and liable in damages if loss is caused through neglect or
+destruction (Clarke v Ramuz {[}1891{]} 2 QB 456; Phillips v Lamdin
+{[}1949{]} 2 KB 33). Duty does not terminate even if the seller vacates
+the property before completion.
+
+\hypertarget{immediately-after}{%
+\subsection{Immediately After}\label{immediately-after}}
+
+\begin{itemize}
+\tightlist
+\item
+  Seller's solicitor
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Should inform the client that exchange has happened.
+  \item
+    If exchange telephonic, copy of the contract signed by seller
+    immediately sent to buyer's solicitor (to fulfil any undertaking
+    given during the phone call).
+  \item
+    Any received deposit immediately paid into client deposit account.
+  \end{itemize}
+\item
+  Buyer's solicitor
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Inform client and lender that exchange has happened
+  \item
+    If exchange telephonic, send seller's solicitor the signed contract
+    and deposit cheque in accordance with the undertaking given, after
+    checking the contract is dated and contains the agreed completion
+    date.
+  \item
+    Protect the contract by registration, where appropriate.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{registration-of-contract}{%
+\subsection{Registration of Contract}\label{registration-of-contract}}
+
+In practice, registration is uncommon since completion often takes place
+shortly after exchange But should be registered if:
+
+\begin{itemize}
+\tightlist
+\item
+  There is a long delay (\textgreater2 months) before exchange and
+  completion
+\item
+  Reason to doubt the seller's good faith
+\item
+  Dispute between seller and buyer
+\item
+  Seller delays completion beyond the contractual date.
+\end{itemize}
+
+Registered land: protect by entry of a notice on the register of title.
+
+\hypertarget{buyer-in-possession}{%
+\subsection{Buyer in Possession}\label{buyer-in-possession}}
+
+\hypertarget{buyers-occupation-before-completion}{%
+\subsubsection{Buyer's Occupation Before
+Completion}\label{buyers-occupation-before-completion}}
+
+Seller entitled to retain possession until completion, unless otherwise
+agreed. Buyer's request to enter and occupy the premises before
+completion should be regarded with caution (loss of incentive to
+complete on time, hard to regain possession of property if required).
+
+If the buyer is allowed to possess before completion, ensure the buyer's
+occupation is as licensee and not a tenant, to avoid security of tenure
+issues.
+
+SCPCs contain no provisions allowing a buyer to take possession prior to
+completion, nor any provisions regulating such occupation.
+
+\hypertarget{tenanted-property}{%
+\subsection{Tenanted Property}\label{tenanted-property}}
+
+\begin{itemize}
+\tightlist
+\item
+  SCPC 5.2.6: seller not to give or formally withhold any licence or
+  approve under the lease without the buyer's consent.
+\item
+  SCPC 6.1.5: neither party is to agree a new rent figure unless the
+  other agrees.
+\end{itemize}
+
+\hypertarget{death-of-a-contracting-party}{%
+\subsection{Death of a Contracting
+Party}\label{death-of-a-contracting-party}}
+
+Death of one of the contracting parties between contract and completion
+does not affect the validity of the contract. Benefit and burden of the
+contract pass to the deceased's personal representatives, who are bound
+to complete.
+
+If completion does not take place by the contractual completion date,
+there is a breach of contract. If time was not originally of the
+essence, may be made so by service of a notice to complete addressed to
+the deceased and executors named in the seller's will. A copy of the
+notice must be sent to the Public Trustee.
+
+\hypertarget{death-of-co-seller}{%
+\subsubsection{Death of Co-seller}\label{death-of-co-seller}}
+
+\begin{itemize}
+\tightlist
+\item
+  Property owned by beneficial co-owners is held on a trust of land.
+\item
+  If following death there remain {\(\geq 2\)} trustees of the legal
+  estate, the transaction can proceed to completion.
+\item
+  Else, (for a beneficial joint tenancy) appoint another trustee, so
+  there are at least 2.
+\end{itemize}
+
+\hypertarget{death-of-buyer}{%
+\subsubsection{Death of Buyer}\label{death-of-buyer}}
+
+Personal representatives of the deceased bound to complete the contract.
+Delay in completion may occur:
+
+\begin{itemize}
+\tightlist
+\item
+  Transfer deed will need redrafting
+\item
+  PRs cannot complete until they have obtained a grant of representation
+\item
+  Mortgage offer usually revoked.
+\item
+  Survivor of joint buyers can be forced to complete.
+\end{itemize}
+
+\hypertarget{pre-completion-steps}{%
+\subsection{Pre-completion Steps}\label{pre-completion-steps}}
+
+\begin{enumerate}
+\tightlist
+\item
+  Preparation of the transfer deed
+\item
+  Redemption of seller's mortgage and creation of buyer's mortgage
+\item
+  Pre-completion searches by the buyer
+\item
+  Ensuring financial aspects in order.
+\end{enumerate}
+
+Conventionally 4 weeks between exchange and completion, but 2 weeks or
+less not uncommon. Sometimes exchange and completion are simultaneous.
+
+\hypertarget{request-for-completion-information}{%
+\section{Request for Completion
+Information}\label{request-for-completion-information}}
+
+After exchange, the buyer's solicitor requests completion information
+from the seller's solicitor (``requisitions on title''). Note that
+although historically, title was deduced at this stage, evidence of
+title is now almost always supplied to the buyer before exchange. The
+contract usually contains a clause excluding the buyer's right to raise
+requisitions once contracts have been exchanged (SCPC 7.2.1). If after
+exchange an undisclosed incumbrance/ defect is discovered by the buyer's
+solicitor, they will be able to require it to be remedied/ assert
+remedies.
+
+\begin{itemize}
+\tightlist
+\item
+  SCPC 7.2.2: buyer must raise any further title requisitions within 6
+  working days of a matter coming to her attention
+\item
+  SCPC 7.3.1: seller's solicitor must reply to requisitions 4 working
+  days after receiving them from buyer's solicitor.
+\end{itemize}
+
+\hypertarget{standard-form-requests}{%
+\subsection{Standard Form Requests}\label{standard-form-requests}}
+
+Law stationers produce a standard form including common questions. Add
+more to the bottom. Send 2 copies to seller's solicitor, who will return
+one copy with their answers.
+
+\hypertarget{discharge-of-sellers-existing-mortgage}{%
+\subsection{Discharge of Seller's Existing
+Mortgage}\label{discharge-of-sellers-existing-mortgage}}
+
+Use TA13 Completion Information and Undertakings. Form contains a
+request for confirmation that existing mortgages will be discharged on
+completion. The answer to the question takes effect as an undertaking to
+discharge mortgages referred to.
+
+\hypertarget{transfer-deed}{%
+\section{Transfer Deed}\label{transfer-deed}}
+
+\hypertarget{preparation}{%
+\subsection{Preparation}\label{preparation}}
+
+\begin{itemize}
+\tightlist
+\item
+  Usually the buyer's duty to prepare
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Transfer prepared shortly after exchange and sent to seller for
+    approval with buyer's Request for Completion Information
+  \item
+    Draft transfer be sent {\(\geq 12\)} working days before completion
+    date (SCPC 7.3.2)
+  \end{itemize}
+\item
+  Seller may reserve the right by contractual condition to prepare the
+  transfer himself (s 48(1) LPA 1925).
+\end{itemize}
+
+SCPC: seller's solicitor must submit the draft transfer to seller's
+solicitor when they approve the draft contract, which may be well before
+exchange of contracts.
+
+\hypertarget{form-of-transfer}{%
+\subsection{Form of Transfer}\label{form-of-transfer}}
+
+Transfer must be a deed to effect transfer of the legal estate to the
+buyer (s 52 LPA 1925). Must reflect the terms of the contract.
+
+\hypertarget{registered-land}{%
+\subsubsection{Registered Land}\label{registered-land}}
+
+Prescribed form of wording must be used. Standard Land Registry forms
+are usually used. A traditional conveyance cannot be used.
+
+\hypertarget{agreeing-the-transfer}{%
+\subsection{Agreeing the Transfer}\label{agreeing-the-transfer}}
+
+Buyer's solicitor must have access to:
+
+\begin{enumerate}
+\tightlist
+\item
+  The contract
+\item
+  Official copy entries
+\item
+  Precedent on which to base the transfer under preparation.
+\end{enumerate}
+
+Once the draft has been prepared, 2 copies should be sent to the
+seller's solicitor for their approval. Amendments should be restricted
+to those necessary for the fulfilment of the document's legal purpose.
+Must be returned 4 working days after delivery to the buyer's solicitor
+(SCPC 7.3.2).
+
+When amendments have been finalised, the buyer's solicitor should
+prepare an engrossment (clean copy) of the transfer. Seller to execute
+(sign). If the buyer also needs to execute, this is commonly done before
+sending to the seller's solicitor.
+
+SCPC 6.3.2: buyer must deliver engrossment of the transfer to the seller
+at least 5 working days before completion.
+
+\hypertarget{execution-and-delivery}{%
+\subsection{Execution and Delivery}\label{execution-and-delivery}}
+
+A valid deed must (s 1 LP(MP)A 1989):
+
+\begin{enumerate}
+\tightlist
+\item
+  Indicate clearly that it is a deed
+\item
+  Be signed by the necessary parties in the presence of a witness; and
+\item
+  Be delivered.
+\end{enumerate}
+
+Signature of the seller is required to transfer the legal estate (s 52
+LPA 1925). Buyer required to execute if the transfer contains a
+covenant/ declaration on his behalf (e.g., indemnity covenant in respect
+of existing covenants, or a declaration by buyers relating to trusts on
+which they hold the property). If there is another party (e.g., lender
+to release a mortgage), they should also sign.
+
+Deed must be delivered: parties must be intended to be bound by it. This
+takes effect on delivery. Common for the buyer to deliver the transfer
+to the seller ``in escrow'' (conditionally) so the operation of the
+transfer is postponed until completion.
+
+\begin{env-8539d7c0-f759-44df-baf4-9844eccd09fd}
+
+Action
+
+The letter accompanying the transfer should explain to the client:
+
+\begin{itemize}
+\tightlist
+\item
+  Contents and puropse
+\item
+  Clear instructions relating to execution of the transfer
+\item
+  When to return by
+\item
+  Ask client not to date the transfer
+\end{itemize}
+
+\end{env-8539d7c0-f759-44df-baf4-9844eccd09fd}
+
+\hypertarget{other}{%
+\subsection{Other}\label{other}}
+
+\hypertarget{plans}{%
+\subsubsection{Plans}\label{plans}}
+
+If the contract provides for the use of a plan, the transfer will also
+refer to the plan. Not normally considered necessary for the sale of the
+whole of a seller's property.
+
+\hypertarget{transfer-of-whole}{%
+\subsubsection{Transfer of Whole}\label{transfer-of-whole}}
+
+A transfer of the whole of a registered title will follow TR1.
+
+\hypertarget{pre-completion-searches}{%
+\section{Pre-completion Searches}\label{pre-completion-searches}}
+
+\hypertarget{bankruptcy-searches}{%
+\subsection{Bankruptcy Searches}\label{bankruptcy-searches}}
+
+\hypertarget{against-buyer-borrower}{%
+\subsubsection{Against buyer/ Borrower}\label{against-buyer-borrower}}
+
+Lender will require a clear bankruptcy search against the name of the
+buyer/ borrower before releasing mortgage funds. Unless a full search of
+the register has been made on Form K15, the lender's solicitor should
+submit Form K16 electronically to Land Registry, completed with full and
+correct names of the borrower. A search certificate will be returned. If
+there is an adverse entry revealed, lender's instructions must be
+immediately obtained.
+
+\begin{env-f5193f51-a35f-4b69-8fd2-a79baa4190c3}
+
+Conduct
+
+If the bankruptcy search reveals an adverse entry, the buyer's solicitor
+can certify that the entry does not relate to the borrower (relates to
+someone else with the same name). But this is construed as an
+undertaking given by the solicitor.
+
+\end{env-f5193f51-a35f-4b69-8fd2-a79baa4190c3}
+
+Can also check Insolvency Service website, which will also reveal date
+of birth.
+
+\hypertarget{against-the-seller}{%
+\subsubsection{Against the Seller}\label{against-the-seller}}
+
+For registered land, most conveyancing solicitors do not consider a
+bankruptcy check on an individual seller necessary. s 86(5) LRA 2002
+provides that where no notice or restriction relating to bankruptcy
+appears on the title, a buyer for value acting in good faith without
+notice of the bankruptcy petition will take good title from the
+bankruptcy seller. May be worth doing in a v high value transaction.
+
+\hypertarget{company-search}{%
+\subsection{Company Search}\label{company-search}}
+
+May be done as a pre-contract search. Update at this stage of the
+transaction.
+
+\hypertarget{powers-of-attorney}{%
+\subsection{Powers of Attorney}\label{powers-of-attorney}}
+
+If the transfer deed is to be executed by a person acting under the
+authority of an enduring or lasting power of attorney, do a search with
+the Office of Public Guardian to check whether or not registration of
+the power is effected/ pending.
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule()
+Power & Registered & Pending \\
+\midrule()
+\endhead
+Enduring & Transaction may proceed to completion, provided the buyer has
+no actual knowledge of any circumstances that would revoke the power.
+Power no longer revocable without notification to the Public Guardian.
+Office copy of the power should be obtained from the Office of Public
+Guardian. & Do not proceed. Suggests mental incapacity of the donor. \\
+Lasting & As above. & Do not proceed. Only comes into effect once
+registered. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{local-land-searches-and-enquiries}{%
+\subsection{Local Land Searches and
+Enquiries}\label{local-land-searches-and-enquiries}}
+
+Searches invariably made before exchange of contracts. Only repeat prior
+to completion if:
+
+\begin{enumerate}
+\tightlist
+\item
+  {\(> 2\)} months between exchange and completion and the search is not
+  covered/ replaced by insurance.
+\item
+  Information received by the buyer's solicitor suggests a further
+  search may be advisable.
+\item
+  Contract conditional on the satisfactory results of later searches.
+\end{enumerate}
+
+\hypertarget{inspection-of-the-property}{%
+\subsection{Inspection of the
+Property}\label{inspection-of-the-property}}
+
+May be necessary just before completion.
+
+\hypertarget{results-of-searches}{%
+\subsection{Results of Searches}\label{results-of-searches}}
+
+If the searches reveal something unexpected:
+
+\begin{itemize}
+\tightlist
+\item
+  Contact the seller's solicitor immediately to find out exactly what
+  the issue is and if it can be rectified before completion.
+\item
+  For a Land Charges Department search, apply for an official copy of
+  the entry using Form K19 (reveal name and address of the person with
+  the benefit of the charge).
+\item
+  Keep the client, lender and other solicitors involved informed.
+\end{itemize}
+
+\hypertarget{removing-entry-from-the-register}{%
+\subsubsection{Removing Entry From the
+Register}\label{removing-entry-from-the-register}}
+
+An application form for the removal of an entry from the register in
+either registered or unregistered land will be accepted by the Chief
+Land Registrar only if it is signed by the person with the benefit of
+the charge or a person acting on his behalf.
+
+An application form signed by the seller's solicitors, or an undertaking
+given by them on completion to secure the removal of the charge may not,
+therefore, suffice, unless the seller is the person with the benefit of
+the charge (see Holmes v Kennard (H) and Son (A Firm) (1985) 49 P \& CR
+202).
+
+\hypertarget{irrelevant-land-charges-entries}{%
+\subsubsection{Irrelevant Land Charges
+Entries}\label{irrelevant-land-charges-entries}}
+
+Charges registered at the Land Charges Department can only validly be
+entered against the name of an estate owner in relation to the period in
+which he owned the land in question. Sometimes the system throws up
+irrelevant ones. Often seller's solicitor asked to certify that an entry
+is irrelevant (undertaking).
+
+\hypertarget{entries-that-cannot-be-removed}{%
+\subsubsection{Entries That Cannot Be
+Removed}\label{entries-that-cannot-be-removed}}
+
+If a seller is unwilling/ unable to remove an adverse entry revealed by
+a pre-completion search, check contract terms to see if seller is in
+breach.
+
+\hypertarget{official-certificates-of-search}{%
+\subsubsection{Official Certificates of
+Search}\label{official-certificates-of-search}}
+
+An official certificate of search issued by Land Registry is not
+conclusive in favour of the\\
+searcher, who will thus take his interest in the land subject to
+whatever entries are on the\\
+register, irrespective of whether or not they were revealed by the
+search certificate (Parkash v Irani Finance Ltd {[}1970{]} Ch 101).
+
+\hypertarget{priority-periods}{%
+\subsection{Priority Periods}\label{priority-periods}}
+
+An official certificate of search issued by Land Registry following a
+search made on Form OS1 or OS2 gives a priority period to the searcher
+of 30 working days from the Certificate Date in the search. The searcher
+will take priority over any entry made during the priority period,
+provided that completion takes place and a correct application for
+registration of the transaction is received by the appropriate Land
+Registry Office by 12 noon on the day when the priority period given by
+the search expires.
+
+The expiry of the priority period is shown on the search certificate.
+Cannot be extended.
+
+Land Charge Searches:
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule()
+& Local & Central \\
+\midrule()
+\endhead
+Form: & LLC1 & K15 \\
+When to make: & in every transaction & unregistered land only \\
+Time to make: & before exchange & part of investigation of title \\
+Send to: & local authority/Land Registry & Plymouth \\
+Search against: & description of land & owners' names \\
+Information revealed: & mainly public incumbrances & mainly private
+incumbrances \\
+Protection of search: & none & priority for 15 working days \\
+\bottomrule()
+\end{longtable}
+
+Land Registry vs Land Charges searches:
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule()
+& Land Registry & Land Charges Department \\
+\midrule()
+\endhead
+Form: & OS1 or OS2 & K15 \\
+When to use: & registered land & unregistered land \\
+Search against: & title number & owners' names \\
+Protectiongiven: & search not conclusive but compensation available &
+conclusive in favour of searcher \\
+Fee: & standard fee for each search & fee for each name searched \\
+Priority period: & 30 working days & 15 working days \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{preparing-for-completion}{%
+\section{Preparing for Completion}\label{preparing-for-completion}}
+
+\hypertarget{sellers-checklist}{%
+\subsection{Seller's Checklist}\label{sellers-checklist}}
+
+\begin{enumerate}
+\tightlist
+\item
+  Check transfer deed approved and replies given to buyer's Request for
+  Completion Information
+\item
+  Receive engrossed transfer deed from buyer
+\item
+  Obtain seller's signature and witness to transfer deed
+\item
+  Obtain redemption figure for seller's mortgage
+\item
+  Obtain receipts etc. where apportionments are to be made.
+\item
+  Prepare completion statement and send 2 copies to the buyer
+\item
+  Remind client to do final meter readings
+\item
+  Prepare undertakings to be given on completion
+\item
+  Contact lender to confirm arrangements for discharge of mortgage and
+  payment.
+\item
+  Check file for queries
+\item
+  Prepare list of matters
+\item
+  Locate deeds and documents to be inspected/ handed over and prepare
+  certified copies for the buyer
+\item
+  Prepare 2 copies of schedule of deeds to be handed to the buyer.
+\item
+  Prepare inventory and receipt for chattels
+\item
+  Check vacant possession and arrangement for handing over keys
+\item
+  Receive instructions from buyer's solicitor to act as their agent on
+  completion
+\item
+  Inform estate agents of completion arrangements
+\item
+  Prepare bill.
+\end{enumerate}
+
+\hypertarget{buyers-checklist}{%
+\subsection{Buyer's Checklist}\label{buyers-checklist}}
+
+\begin{enumerate}
+\tightlist
+\item
+  Ensure transfer deed approved and Request for Completion Information
+  answered
+\item
+  Engross transfer and mortgage deeds
+\item
+  Get buyer to execute mortgage deed, transfer deed (and plan) and
+  return
+\item
+  Send (executed) transfer deed to seller's solicitor for client's
+  execution.
+\item
+  Pre-completion searches
+\item
+  Report on title to lender in format specified by lender and request
+  mortgage advance
+\item
+  Receive and check completion statement and copies of last receipts.
+\item
+  Prepare and agree any undertaking to be given or received on
+  completion
+\item
+  Confirm final arrangements with lender
+\item
+  Ensure any life policy required by the lender has been obtained.
+\item
+  Check file for queries
+\item
+  Prepare account and bill for client, submit together with a copy of
+  the completion statement.
+\item
+  Receive mortgage advance from lender and balance of funds from buyer.
+  Pay into client account and clear funds.
+\item
+  Arrange for final inspection by lender's valuer, if necessary.
+\item
+  Prepare matters to deal with on completion.
+\item
+  Check arrangements for vacant possession and handing over keys.
+\item
+  Instruct seller's solicitor to act as agent on completion.
+\item
+  Arrange time/ place of completion.
+\item
+  Ensure estate agents aware.
+\item
+  Arrange to send completion money to seller's solicitor.
+\item
+  SDLT forms.
+\end{enumerate}
+
+\hypertarget{client-mortgage}{%
+\subsection{Client Mortgage}\label{client-mortgage}}
+
+\hypertarget{seller}{%
+\subsubsection{Seller}\label{seller}}
+
+Seller must obtain from the seller's lender a ``redemption statement''
+showing the exact amount to discharge the seller's mortgage. Daily rate
+usually included.
+
+Lender must inform Land Registry of the discharge of mortgage: Form DS1
+or electronic ED system.
+
+\hypertarget{buyer}{%
+\subsubsection{Buyer}\label{buyer}}
+
+After completing investigation of title, the solicitor acting for the
+buyer's lender reports to the lender that that title to the property is
+safe, marketable and acceptable security. City of London Law Society's
+form of certificate often used. Solicitor acting for buyer's lender must
+also make a formal request for the advance money from the lender.
+Mortgage deed should be prepared for signature by the borrowers.
+
+\hypertarget{apportionment}{%
+\subsection{Apportionment}\label{apportionment}}
+
+Outgoings attaching to the land can be split between parties on
+completion. Calculations shown on completion statement. SCPC 9.3
+includes apportionment provisions. SCPC 9.3.3: buyer is deemed to own
+the property for the entirety of the day of completion.
+
+\hypertarget{completion-statement}{%
+\subsection{Completion Statement}\label{completion-statement}}
+
+Shows the money required to complete the transaction. Usually requested
+by the buyer when the Request for Completion Information is sent to the
+seller. Usually only necessary when sum due includes apportionments/
+other sums in excess of the balance of purchase price (Carne v De Bono
+{[}1988{]} 3 All ER 485). 2 copies to be sent to the buyer.
+
+\hypertarget{sdlt}{%
+\subsection{SDLT}\label{sdlt}}
+
+SDLT return should be made to HMRC, giving details of the transaction
+and the buyer. Can be submitted online or by post using Form SDLT1. If
+by post, seller must sign. If the buyer's solicitor is also acting for a
+lender, a SDLT return should be completed by the solicitor and approved
+by the buyer before the loan is used to finance the purchase. Solicitor
+should check it has adequate cleared funds from the client to cover SDLT
+payment.
+
+If steps are not taken and the buyer refuses to pay SDLT, it will not be
+possible to register the transaction at the Land Registry, so the lender
+will have no security for its loan (and solicitor may be liable).
+
+\hypertarget{money}{%
+\subsection{Money}\label{money}}
+
+Check figures sent by seller's solicitor. Think about if bridging
+finance or a further loan is necessary. Solicitor may be guilty of a
+criminal offence if they assist someone suspected of money laundering.
+Be wary.
+
+\hypertarget{completion-checklist}{%
+\subsection{Completion Checklist}\label{completion-checklist}}
+
+To be prepared and sent to any agents.
+
+\begin{enumerate}
+\tightlist
+\item
+  Documents to be available at completion:\\
+  (a) contract;\\
+  (b) evidence of title;\\
+  (c) copy transfer deed;\\
+  (d) replies to Request for Completion Information;\\
+  (e) completion statement.
+\item
+  Documents to be inspected by buyer:\\
+  (a) title deeds, where in unregistered land these are not to be handed
+  over on\\
+  completion (e.g., on a sale of part);\\
+  (b) power(s) of attorney;\\
+  (c) grant of administration;\\
+  (d) receipts/demands for apportionments if not previously supplied.
+\item
+  Documents, etc, to be handed to buyer on completion:\\
+  (a) where the property is unregistered land, title deeds and a
+  schedule of deeds and a\\
+  certified copy of any memorandum endorsed on retained deeds;\\
+  (b) original lease (on purchase of a lease);\\
+  (c) executed transfer deed;\\
+  (d) Form DS1/discharged mortgage or undertaking in respect of
+  discharge of\\
+  mortgage(s);\\
+  (e) receipt for money paid for chattels;\\
+  (f) keys of the property (if these are not available the seller's
+  solicitor should be asked\\
+  to telephone the keyholder to request the release of the keys).
+\item
+  Documents, etc, to be handed to seller on completion:\\
+  (a) executed duplicate transfer deed/counterpart lease (where
+  appropriate);\\
+  (b) receipted schedule of any deeds received from seller;\\
+  (c) release of deposit if held by third party in capacity of
+  stakeholder.
+\item
+  Unregistered land only, endorsements on documents (if required by
+  buyer):\\
+  (a) endorsement of sale on most recently dated retained document of
+  title (sale of\\
+  part);\\
+  (b) abstract or epitome to be marked up as compared with the original
+  deeds (in\\
+  respect of any document the original of which is not handed over on
+  completion).
+\end{enumerate}
+
+\begin{env-fc01b7b2-e70c-451d-8f3f-bb57ed8250fc}
+
+Summary
+
+\begin{itemize}
+\tightlist
+\item
+  In anticipation of completion, the TR1 which will transfer the legal
+  title from the seller to the buyer will need to be executed.~ The
+  seller will always execute this document and the buyer will also do so
+  if the buyer is "doing something" in the TR1 such as giving an
+  indemnity covenant or declaring a beneficial interest under a trust.~
+\item
+  On completion, the buyer's~solicitor will send the balance of the
+  purchase price (as the seller will already have been given the deposit
+  on exchange).~
+\item
+  On receipt of the money, the seller's solicitor will complete the
+  transaction by dating the TR1.~~
+\item
+  Once the TR1 has been dated, the buyer's solicitor will need to date
+  the mortgage deed.~ This cannot be done until after the TR1 has been
+  dated, as technically, the buyer does not own the property until then
+  and so would not be in a position to grant~a mortgage over it.~
+\item
+  The seller's solicitor will send the TR1 to the buyer's solicitor.~~
+  SDLT must then be paid, if due.~ The application to register the buyer
+  as the new registered proprietor cannot take place until this has been
+  done.~
+\item
+  Once SDLT, if due, has been paid, an application to Land Registry must
+  be made to have the buyer registered as the new registered proprietor
+  of the land in the title and to register the new mortgage.~ This must
+  be done before the expiry of the priority period of the OS1 search
+  that should have been carried out prior to completion.~
+\item
+  Land Registry will process the application for registration and insert
+  buyer as the new registered proprietor and the details of the new
+  charge.~ Once this has been done, Land Registry will forward an
+  official copy of the entries on the register, known as a Title
+  Information Document (or TID) to the buyer's solicitor.~ Although this
+  is not strictly a document of title, it is for buyer to keep as
+  evidence that it is the new owner. It should be checked to ensure that
+  the transfer has been correctly carried out.~
+\item
+  Once the TID has been checked, the solicitor acting for the buyer will
+  need to deal with the safe custody of the TID and other papers.~ Where
+  the property has been bought with the aid of a mortgage, as here, it
+  is usual for these papers~to be lodged with the lender.~
+\item
+  Finally, when all~the above matters have been dealt with and the
+  bill~paid, it is~possible to close the file.
+\end{itemize}
+
+\end{env-fc01b7b2-e70c-451d-8f3f-bb57ed8250fc}
+
+\end{document}

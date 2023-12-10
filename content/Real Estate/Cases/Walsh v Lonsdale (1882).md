@@ -1,0 +1,32 @@
+---
+aliases: 
+tags: 
+date created: Sunday, December 10th 2023, 12:02:33 am
+date modified: Sunday, December 10th 2023, 12:39:15 am
+---
+
+# Walsh v Lonsdale (1882)
+
+**FACTS:** By way of a valid agreement, Lonsdale agreed to grant to Walsh a seven-year lease over a cotton mill in return for an annual payment of rent. No deed was executed as required to create a legal lease of this duration. Walsh took possession of the mill. Lonsdale demanded that Walsh pay a year’s rent in advance in accordance with the clause in the agreement. Lonsdale was not paid. The legal issue for the court was, what was the nature of the relationship between the parties. This would determine whether the rent clause in the agreement was enforceable entitling Lonsdale to exercise a remedy. On the facts there could be both an implied annual periodic tenancy and an equitable seven-year lease.
+
+**HELD:** Walsh occupied under a seven-year equitable lease. There was only one lease; the equitable lease on the terms of the agreement for lease.
+
+---
+
+Defendant on 29 May 1879, agreed to grant and plaintiff to accept a lease of a mill for seven years at the rent of 30s a year for each loom run, plaintiff not to run less than 540 looms, lease to contain such stipulations as were inserted in a certain lease of 1 May, which was a lease at a fixed rent made payable in advance and contained a stipulation that there should be at all times payable in advance on demand one whole year’s rent in addition to the proportion if any, of the yearly rent due and unpaid for the period previous to such demand. Plaintiff was let into possession and paid rent quarterly not in advance, up to 1 January 1882, inclusive, having run in 1881 560 looms. In March 1882, defendant demanded payment of £1,005 14s, £840 as one whole year’s rent for 560 looms at 30s and £165 14s as the proportionate part of the rent from 1 January last, and put in a distress. Plaintiff thereupon commenced his action for damages for illegal distress, and for specific performance, and moved for an injunction. The judge granted the injunction on the terms of plaintiff paying the £1,005 14s into court. Plaintiff appealed: Held (1) since Jud Acts the rule no longer held that a person occupying under an executory agreement for a lease was only made tenant from year to year at law by the payment of rent, but that he was to be treated in every court as holding on the terms of the agreement; (2) plaintiff holding under the agreement, was subject to the same right of distress as if a lease had been granted, and if under the terms of the lease a year’s rent would have been payable in advance on demand a distress for that was lawful.  
+
+  
+
+Semble: such lease ought to receive a minimum rent of £810 30s apiece on 540 looms, and the stipulation in the lease of 1 May, as to payment in advance would be applicable to such minimum rent though not to the whole rent, and defendant being willing to submit to the injunction on having £810 paid into court, order varied accordingly, the court being inclined to the view that there was a right to distress for that amount though the time had not arrived for finally determining the question.  
+
+  
+
+There is an agreement for a lease under which possession has been given. Now, since Jud Acts, possession is held under the agreement. There are not two estates as there were formerly, one estate at common law by reason of the payment of rent from year to year, and an estate in equity under the agreement. There is only one court and the equity rules prevail in it. The tenant holds under an agreement for a lease. He holds, therefore, under the same terms in equity as if a lease had been granted, it being a case in which both parties admit that relief is capable of being given by specific performance (Jessel, MR).
+
+Defendant on 29 May 1879, agreed to grant and plaintiff to accept a lease of a mill for seven years at the rent of 30s a year for each loom run, plaintiff not to run less than five hundred and forty looms. The lease to contain such stipulations as were inserted in a certain lease of 1 May, which was a lease at a fixed rent made payable in advance, and contained a stipulation that there should at all times be payable in advance on demand one whole year’s rent in addition to the proportion, if any, of the yearly rent due and unpaid for the period previous to such demand. Plaintiff was let into possession and paid rent quarterly, not in advance, down to 1 January 1882, inclusive, having run in 1881 five hundred and sixty looms. In March 1882, defendant demanded payment of £1,005 14s (£840 as one whole year’s rent for five hundred and sixty looms at 30s, and £165 14s as the proportionate part of the rent from 1 January last), and put in a distress. Plaintiff thereupon commenced his action for damages for illegal distress, for an injunction, and for specific performance, and moved for an injunction: Held (1) since the Judicature Acts the rule no longer holds that a person occupying under an executory agreement for a lease is only made tenant from year to year at law by the payment of rent, but that he is to be treated in every court as holding on the terms of the agreement.  
+
+  
+
+(2) There is an agreement for a lease under which possession has been given … He holds under the same terms in equity as if a lease had been granted, it being a case in which both parties admit that relief is capable of being given by specific performance (Jessel, MR).
+
+An agreement for the lease of a cotton weaving mill provided for a term of seven years, at a rent of 30s per annum for each loom worked, if the lessor provided steam power; the lessee not to work less than three hundred looms in the first year, and not less than five hundred and forty in any subsequent year. It also contained provisions by reference to another lease, whereby it was provided that one year’s rent, in that case a fixed rent, should always be payable in advance on demand. The lessee having been, on 1 July 1879, let into possession, paid rent quarterly up to January 1881. On 13 March 1882, the lessor served the lessee with notice of a demand for a year’s rent in advance, reckoned at 30s, a loom upon all the looms he was then working, being five hundred and sixty in number: Held upon the construction of the agreement, the intention was to fix a minimum dead rent of 30s upon five hundred and forty looms and to that extent, namely, £810, the lessor was entitled to demand a year’s rent in advance, but not beyond.

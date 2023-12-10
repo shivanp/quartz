@@ -1,0 +1,1117 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+
+\newenvironment{env-5da6e2cb-3d74-4c5e-b7d7-7055e14f6fdf}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{firebrick}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-2910d6b1-dcce-4560-bf30-b36f12b78587}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-a3e9d811-f68a-44b4-a14b-e49bc126ec2b}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{green}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-4eea08fd-40ea-4873-96f0-acafbcfcec5e}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{aquamarine}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-7d209900-6332-42f9-8e1d-8e1841cec73a}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{orange}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-8fea4a55-4c19-42d0-8c4c-c6e2f388c6f2}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-7c6b66cc-f079-42aa-b2e4-4e0400858143}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gold}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-59531b83-2b90-4f4b-b28a-0d0d14c17c03}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darkred}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-3cae73f9-a778-418d-94ce-585e2ebbe725}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{pink}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-2b801cbb-a953-4b0a-aa1f-4f4d37e46523}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-d797b130-4ec5-4d02-9c44-4f2a86698248}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-694b7873-5083-4609-b999-a03e18c94516}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{purple}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-d292529f-d8e7-4540-b0cb-665a7e01a1a9}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darksalmon}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-06f4cd75-5590-49f1-9dac-bb1e27002edf}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gray}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Facility Specifics},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Facility Specifics}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\hypertarget{facility-specifics}{%
+\section{Facility Specifics}\label{facility-specifics}}
+
+\hypertarget{intro-clauses}{%
+\subsection{Intro Clauses}\label{intro-clauses}}
+
+\begin{itemize}
+\tightlist
+\item
+  Date clause
+
+  \begin{itemize}
+  \tightlist
+  \item
+    First page
+  \item
+    Completed simultaneously with singing
+  \item
+    If several parties, date at which the last party signs.
+  \end{itemize}
+\item
+  Parties
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Mechanism for new borrowers (``Acceding Borrowers'').
+  \item
+    Guarantors may be required.
+  \item
+    Obligors = borrowers + guarantors.
+  \item
+    Names of all the banks with their different functions.
+  \item
+    Contract (Rights of Third Parties) Act 1999 gives 3rd parties rights
+    to enforce a contractual term if the contract expressly provides, or
+    if the term confers a benefit to the party. Most facility agreements
+    exclude the effect of the 1999 Act other than its protective
+    implications.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{interpretation-definitions}{%
+\subsection{Interpretation/
+Definitions}\label{interpretation-definitions}}
+
+Defined terms appear a the front. Many documents have an interpretation
+section, defining common words such as month, immediately after the
+definitions section.
+
+\hypertarget{facility}{%
+\subsection{Facility}\label{facility}}
+
+Facility clause outlines the type of facility provided by the bank and
+the amount to be made available. Many contain both a term loan and an
+RCF. Each bank in the syndicated loan agrees to provide a proportion of
+the total facility, known as the bank's commitment. This will specify
+that obligations are several - not joint and several.
+
+\hypertarget{why-facility}{%
+\subsubsection{Why Facility}\label{why-facility}}
+
+The term loan facility may be more appropriate than loan agreement:
+
+\begin{enumerate}
+\tightlist
+\item
+  Term agreement suggests the borrower has agreed to borrow money and is
+  obliged to draw down.
+\item
+  If a document acknowledges or creates debt, it may be classified as a
+  `debenture' (Levy v Abercorris Slate and Slab Co (1887) 37 Ch D 260).
+  If facility agreements are debentures, they may then be `specified
+  investments' under the FSMA 2000 (Regulated Activities) Order 2001
+  (RAO). This would trigger licensing requirements for banks carrying
+  out regulated activities with respect to specified investments. So
+  loan facilities often deliberately drafted to create a commitment to
+  lend but not to create or acknowledge a debt. UK regulators have
+  accepted that such facilities fall outside of FSMA 2000. Court of
+  Appeal screwed up in Fons Hf v Corporal Ltd and Another {[}2014{]}
+  EWCA Civ 304 by suggesting that a loan agreement is an instrument
+  creating and acknowledging debt and therefore a debenture, but the FCA
+  has indicated that this decision does not change how it views loan
+  agreements.
+\end{enumerate}
+
+\begin{env-06f4cd75-5590-49f1-9dac-bb1e27002edf}
+
+Question
+
+How can a bank prove that a borrower owes it any money\\
+The accounting records kept by a bank showing the total amount
+outstanding and certified by an appropriate oficer are prima facie
+evidence of the borrower's obligations. Facility agreement will usually
+require the borrower to accept the account recordds as conclusive
+evidence. N.B. in the US, bank account records are insufficient
+evidence. A "promissory note" (certificate acknowledging utilisation)
+would need to be issued.
+
+\end{env-06f4cd75-5590-49f1-9dac-bb1e27002edf}
+
+\hypertarget{facility-office}{%
+\subsubsection{Facility Office}\label{facility-office}}
+
+Facility office/ lending office is the particular branch of the bank
+through which a loan is booked. Will be specified in the loan agreement.
+Important for tax reasons.
+
+\hypertarget{purpose-clause}{%
+\subsection{Purpose Clause}\label{purpose-clause}}
+
+\hypertarget{control}{%
+\subsubsection{Control}\label{control}}
+
+The bank will want the facility agreement to explicitly state how the
+loan monies can be used. Wording may be quite wide ("general corporate
+purposes").
+
+Connected matters: capacity and authority.
+
+\hypertarget{capacity}{%
+\subsubsection{Capacity}\label{capacity}}
+
+Banks will want to ensure that the borrower has unrestricted capacity to
+borrow under the facility, and to give guarantee and or security if
+applicable.
+
+\begin{env-a3e9d811-f68a-44b4-a14b-e49bc126ec2b}
+
+s 39(1) - A company's capacity
+
+The validity of an act done by a company shall not be called into
+question on the ground of lack of capacity by reason of anything in the
+company's constitution.
+
+\end{env-a3e9d811-f68a-44b4-a14b-e49bc126ec2b}
+
+Gives protection to third parties. But banks will usually check articles
+anyway since the stakes are high.
+
+\hypertarget{authority}{%
+\subsubsection{Authority}\label{authority}}
+
+The bank must be sure that whoever executes the facility agreement on
+behalf of the borrower has authority to do so.
+
+\begin{env-a3e9d811-f68a-44b4-a14b-e49bc126ec2b}
+
+s 40 - Power of directors to bind the company
+
+(1) In favour of a person dealing with a company in good faith, the
+power of the directors to bind the company, or authorise others to do
+so, is deemed to be free of any limitation under the company's
+constitution.
+
+(2) For this purpose---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) a person ``deals with'' a company if he is a party to any
+  transaction or other act to which the company is a party,
+\item
+  (b) a person dealing with a company---
+
+  \begin{itemize}
+  \tightlist
+  \item
+    (i) is not bound to enquire as to any limitation on the powers of
+    the directors to bind the company or authorise others to do so,
+  \item
+    (ii) is presumed to have acted in good faith unless the contrary is
+    proved, and
+  \item
+    (iii) is not to be regarded as acting in bad faith by reason only of
+    his knowing that an act is beyond the powers of the directors under
+    the company's constitution.
+  \end{itemize}
+\end{itemize}
+
+(3) The references above to limitations on the directors' powers under
+the company's constitution include limitations deriving---\\
+(a) from a resolution of the company or of any class of shareholders,
+or\\
+(b) from any agreement between the members of the company or of any
+class of shareholders.
+
+\end{env-a3e9d811-f68a-44b4-a14b-e49bc126ec2b}
+
+In practice: the bank checks the director has authority. Doesn't want to
+be relying on ``good faith''. The bank will insist on a board meeting to
+approve and execute the transaction.
+
+\hypertarget{resulting-trust}{%
+\subsubsection{Resulting Trust}\label{resulting-trust}}
+
+A purpose clause is also included in an attempt to create a
+\textbf{resulting trust} if the purpose fails. This was first recognised
+in Barclays Bank Ltd v Quistclose Investments Ltd {[}1970{]} AC 567.
+
+\hypertarget{bank-deposits}{%
+\subsection{Bank Deposits}\label{bank-deposits}}
+
+\begin{env-d797b130-4ec5-4d02-9c44-4f2a86698248}
+
+Important
+
+A bank is not a trustee of money deposited by its customers. Rather it
+is a debtor in respect of those deposits.
+
+\end{env-d797b130-4ec5-4d02-9c44-4f2a86698248}
+
+Key case: Foley v Hill (1848) 11 HLC 2
+
+Lord Cottenham LC:
+
+\begin{quote}
+Money, when paid into a bank, ceases altogether to be the money of the
+principal. {[}\ldots{]} The money placed in the custody of a banker is,
+to all intents and purposes, the money of the banker, to do with it as
+he pleases; he is guilty of no breach of trust in employing it; he is
+not answerable to the principal if he puts it into jeopardy, if he
+engages in a hazardous speculation; he is not bound to keep it or deal
+with it as the property of his principal, but he is of course answerable
+for the amount, because he has contracted, having received that money.
+\end{quote}
+
+Thus, a debt is a different legal concept from a trust. But they are not
+mutually exclusive. They\\
+can be combined in a single transaction.
+
+\hypertarget{quistclose-trust}{%
+\subsubsection{Quistclose Trust}\label{quistclose-trust}}
+
+The best example of a device which combines a debt and a trust is a
+``Quistclose trust''. The name derives from the case in which such
+arrangements were first recognised: Barclays Bank Ltd v Quistclose
+Investments Ltd {[}1970{]} AC 567.
+
+This was applied in Twinsectra Ltd v Yardley {[}2002{]} UKHL 12.
+Twinsectra is the most important case on Quistclose trusts as it makes
+clear that it is not sufficient to demonstrate that money was advanced
+to the borrower for a particular purpose. Rather, it is necessary to
+demonstrate the parties' mutual intention that the money could only be
+applied for the purpose and was not at the free disposal of the
+borrower. It is this feature of the transaction which generates the
+trust in favour of the lender.
+
+\begin{env-2b801cbb-a953-4b0a-aa1f-4f4d37e46523}
+
+Tip
+
+A Quistclose trust does not arise where money is paid for a purpose but
+is at the recipient's free disposal.
+
+\end{env-2b801cbb-a953-4b0a-aa1f-4f4d37e46523}
+
+Twinsectra also provides helpful guidance on the requirement for
+certainty of purpose:
+
+\begin{enumerate}
+\tightlist
+\item
+  The borrower's power to apply the money is valid only if the purpose
+  is sufficiently certain.
+\item
+  A purpose is certain if it is possible to determine whether any given
+  application the money does or does not fall within it.
+\item
+  If the purpose is uncertain, the borrower cannot make any use of the
+  money and simply holds it on trust for the lender.
+\end{enumerate}
+
+\hypertarget{operation-of-quistclose-trust}{%
+\paragraph{Operation of Quistclose
+Trust}\label{operation-of-quistclose-trust}}
+
+\begin{itemize}
+\tightlist
+\item
+  When the lender advances the money to the borrower, the borrower holds
+  the money on trust for the lender, with a power to use it for a
+  specified purpose.
+\item
+  To the extent that the borrower uses the money for the purpose, the
+  lender's equitable interest is extinguished. The relationship changes
+  from trustee-beneficiary to debtor-creditor.
+\item
+  To the extent that the borrower applies the money for any other
+  purpose, the borrower commits a breach of trust. The lender can assert
+  their equitable proprietary interest in the misapplied money (or its
+  traceable proceeds).
+\item
+  If it becomes impossible to apply the money for the purpose, the
+  borrower must return the money to the lender.
+\end{itemize}
+
+See also Re Farepak Food and Gifts Ltd (in administration) {[}2006{]}
+EWHC 3272 (Ch).
+
+\hypertarget{other-contexts}{%
+\paragraph{Other Contexts}\label{other-contexts}}
+
+It is worth noting that although most of the case law involves loans or
+transactions involving money, Quistclose trusts are not restricted to
+such circumstances. They arise in any situation where property is
+transferred to a person whose use of the property is restricted to a
+specified purpose: to any case where the property is not at the free
+disposal of the transferee. (Ali v Dinc {[}2020{]} EWHC 3055 (Ch), paras
+234, 238).
+
+\begin{env-d797b130-4ec5-4d02-9c44-4f2a86698248}
+
+Important
+
+On the insolvency of the borrower B, any money held by B on trust for
+the bank must be paid to the bank, irrespective of any other claims.
+
+\end{env-d797b130-4ec5-4d02-9c44-4f2a86698248}
+
+\hypertarget{condition-precedent}{%
+\subsection{Condition Precedent}\label{condition-precedent}}
+
+\hypertarget{purpose}{%
+\subsubsection{Purpose}\label{purpose}}
+
+Specific conditions which a bank requires a borrower to fulfil before
+facility agreement takes place. Tangible evidence that the
+representations and warranties have been met.
+
+Borrower will not be able to utilise unless and until the CPs are
+satisfied. Advantages for the bank:
+
+\begin{enumerate}
+\tightlist
+\item
+  Borrower is locked into the min provisions of the agreement
+  regardless. Bank fees are payable and remedies for default apply.
+\item
+  Representations, warranties, undertakings, events of default and
+  boiler plate all become operative as soon as the document is executed.
+  So bank can begin monitoring.
+\end{enumerate}
+
+\hypertarget{waivers}{%
+\subsubsection{Waivers}\label{waivers}}
+
+If the borrower cannot satisfy one or more conditions precedent before
+closing (date on which facility is meant to become available), will have
+to ask the banks for temporary/ permanent waiver. In practice, the
+bank's solicitor takes responsibility for ensuring satisfied/ waived.
+
+\hypertarget{uncertainty}{%
+\subsubsection{Uncertainty}\label{uncertainty}}
+
+CP could be so vague as to make the agreement void for uncertainty. For
+example, a condition in a contract which stipulated that the sale was
+`subject to the purchaser obtaining a satisfactory mortgage' was held to
+make the entire contract void in Lee-Parker v Izett (No 2) {[}1972{]} 2
+All ER 800. It is, however, common to see wording requiring a CP
+document to be `in form and substance satisfactory to the banks'. Likely
+to be certain enough in legal terms.
+
+The bank may ask for original documents/ certified copies. Most CPs
+involve providing documentary evidence. May also be a CP that no event
+of default is continuing.
+
+\hypertarget{conditions-subsequent}{%
+\subsubsection{Conditions Subsequent}\label{conditions-subsequent}}
+
+If a deal is fast (e.g., acquisition finance), some CPs may be delayed
+to happen within a period after utilisation, such as the granting of
+full security.
+
+\hypertarget{borrower-perspective}{%
+\subsubsection{Borrower Perspective}\label{borrower-perspective}}
+
+\begin{itemize}
+\tightlist
+\item
+  Be wary of CPs requiring third party actions.
+\item
+  Talk to the bank -- likely to be flexible if problems addressed in
+  good time.
+\item
+  Try to agree forms of certain documents which are to be "in form and
+  substance satisfactory to the bank" in advance, like legal opinions.
+  Ask to add ``reasonable''.
+\item
+  If there's a syndicate, try to push for acceptable of documents by the
+  agent bank/ by a simple majority in the syndicate.
+\end{itemize}
+
+\hypertarget{availability}{%
+\subsection{Availability}\label{availability}}
+
+\hypertarget{single-utilisation-facility}{%
+\subsubsection{Single Utilisation
+Facility}\label{single-utilisation-facility}}
+
+Simple term loan facility might allow the money to be utilised in one
+amount on a specified day. Utilisation clause will say that if the
+borrower is not default and complies with all its obligations, the bank
+will comply with the utilisation request.
+
+\hypertarget{multiple-utilisation-loan}{%
+\subsubsection{Multiple Utilisation
+Loan}\label{multiple-utilisation-loan}}
+
+B allowed to utilise in a number of tranches as and when required, up to
+the available amount. Tranches must be utilised within a specified
+commitment period. RCFs even more flexible. Usually there is a
+commitment fee.
+
+\hypertarget{notice-of-utilisation}{%
+\subsubsection{Notice of Utilisation}\label{notice-of-utilisation}}
+
+\begin{env-d797b130-4ec5-4d02-9c44-4f2a86698248}
+
+Important
+
+Fundamental premise of syndicated facility mechanics is that banks will
+use the interbank market to fund large advances ("matched funding").
+
+\end{env-d797b130-4ec5-4d02-9c44-4f2a86698248}
+
+Borrower will therefore be required to give notice of utilisation, with
+the notice period depending on the currency (on the London market,
+Sterling could be funded on the day of request). Common for a syndicated
+loan to require B to give 3 business days notice for Eurocurrencies, or
+1 business day (day before) notice for Sterling. Notice periods may be
+shorter with a revolving credit facility.
+
+Once utilisation notice given, B is usually committed to taking the
+money. In each utilisation request, the borrower must confirm there is
+no current default and that utilisation will not result in a default.
+
+\hypertarget{floating-rate-interest}{%
+\subsection{Floating Rate Interest}\label{floating-rate-interest}}
+
+Most loans are at floating rate interest.
+
+\hypertarget{base-rates}{%
+\subsubsection{Base Rates}\label{base-rates}}
+
+Commercial banks raise loan capital through attracting depositors and
+issuing debt securities. Incur regulatory costs. Bank's base rate
+amalgamates these costs to provide a general cost of raising funds.
+Typically used to charge interest on bilateral loans to individuals and
+small/ medium-sized businesses.
+
+Bank of England publishes the official rate, decided by the MPC each
+month. Commercial banks' base rates will usually follow the movements of
+the official rate.
+
+\hypertarget{libor}{%
+\subsubsection{LIBOR}\label{libor}}
+
+Commercial facilities, typically syndicated, will not usually use base
+rates. Floating rate used, made up of:
+
+\begin{enumerate}
+\tightlist
+\item
+  LIBOR, or equivalent
+\item
+  Margin: bank's profit and covering regulatory capital costs.
+\end{enumerate}
+
+LIBOR is the London Interbank Offered Rate; the interest rate charged
+for loans between banks in the London interbank market. Intended to
+provide banks with liquidity. LIBOR rates depend on :
+
+\begin{enumerate}
+\tightlist
+\item
+  Currency
+\item
+  Duration
+\item
+  Credit standing of borrowing bank
+\item
+  Liquidity of interbank market.
+\end{enumerate}
+
+The definition should specify the date and time at which the rate is to
+be set.
+
+\hypertarget{screen-rate}{%
+\subsubsection{Screen Rate}\label{screen-rate}}
+
+British Bankers Association publish an average LIBOR rate: bbalibor or
+screen rate. Widely used across products and markets. But found to have
+been manipulated -- to create a healthier picture of banks' credit
+quality during credit crunch. Govt. took the measure away from BBA and
+awarded it to ICE. ICE uses the same methodology. Similar rates in other
+financial markets.
+
+\hypertarget{sonia}{%
+\subsubsection{SONIA}\label{sonia}}
+
+Majority of LIBOR rates ceased to be published immediately after
+31/12/21. In relation to sterling, LIBOR is largely replaced by the
+risk-free rate Sterling Overnight Index Average (SONIA). Rates reflect
+the average interest that banks pay to borrow overnight from other
+financial institutions. Based on actual transactions. Features:
+
+\begin{enumerate}
+\tightlist
+\item
+  Considered ``risk-free'' rates because they do not include any premium
+  for term or credit risk;
+\item
+  Not published as forward-looking term rates, so parties cannot know in
+  advance how much interest will be due at the end of those periods; and
+\item
+  Each currency will have its own distinct risk-free rate and related
+  administrator.
+\end{enumerate}
+
+A term and implicit credit premium was always incorporated into LIBOR.
+As participants switch, an adjustment is required to adjust for the
+differences that exist. Known as a Credit Adjustment Spread (``CAS'').
+Aim: the amount of interest aid by a borrower after transition is as
+close as possible to under LIBOR.
+
+So under SONIA:
+
+\[\text{Interest\ payable} = \text{SONIA} + \text{CAS} + \text{Margin}\]
+
+CAS calculated as the historic 5-year median average difference between
+SONIA and LIBOR.
+
+Regulators made "synthetic LIBOR" to prevent market disruption. Any
+remaining references to LIBOR deemed to rely to synthetic LIBOR. Not
+really relevant any more.
+
+\hypertarget{screen-rate-unavailability}{%
+\subsubsection{Screen Rate
+Unavailability}\label{screen-rate-unavailability}}
+
+If a screen rate is used, it might be unavailable/ insufficient to cover
+the banks' actual funding costs. Provisions may be included for:
+
+\begin{itemize}
+\tightlist
+\item
+  Interpolation between shorter and longer rates
+\item
+  Shortening interest period to a tenor that it available
+\item
+  Using historic interest rates
+\item
+  Using reference banks.
+\item
+  Cost of funds -- requires each bank in the syndicate to provide the
+  agent with its actual cost of funding the loan, to be added to the
+  margin. Usually use as a last resort (v burdensome).
+\end{itemize}
+
+\hypertarget{fixed-rate-interest}{%
+\subsection{Fixed Rate Interest}\label{fixed-rate-interest}}
+
+Tend to be unattractively high. Better to use hedging.
+
+\hypertarget{interest-periods}{%
+\subsection{Interest Periods}\label{interest-periods}}
+
+The borrower may be required to pay interest at regular intervals
+throughout the term of the loan, or tranches may be divided into
+interest periods of varying duration. Interest periods primarily chosen
+to support matched funding:
+
+\begin{enumerate}
+\tightlist
+\item
+  Interest period mirrored by interbank loan (1/3/6 months)
+\item
+  LIBOR/ SONIA recalculated at the start of each interest period and
+  applies for the duration of that period (sometimes). So can really be
+  a succession of different fixed rates.
+\item
+  Interest payable at the end of each interest period.
+\item
+  Borrower can select the duration of each interest period, giving it
+  more control over the rate and timing of payment.
+\item
+  Repayments/ prepayments required to coincide with the end of an
+  interest period
+\item
+  Some representations will be repeated on the first day of each
+  interest period.
+\end{enumerate}
+
+\hypertarget{apportionment}{%
+\subsection{Apportionment}\label{apportionment}}
+
+Interest rates quoted at an annual rate. Bank and borrower must agree
+the basis on which the annual interest will be apportioned between each
+interest period (``day count fraction'').
+
+\begin{itemize}
+\tightlist
+\item
+  For domestic sterling facility agreements, traditional basis is
+  dividing by 365
+\item
+  For others, it is 360 (check this).
+\end{itemize}
+
+\hypertarget{ratchets}{%
+\subsection{Ratchets}\label{ratchets}}
+
+The facility agreement may provide for the margin to vary in accordance
+with the health of the borrower, measured through monitoring its
+financial ratios (cross-over/ leveraged) or credit rating (investment
+grade).
+
+\hypertarget{hedging}{%
+\subsection{Hedging}\label{hedging}}
+
+Leveraged borrowers typically have large loans and high margins. Many
+hedge their exposure to interest rate fluctuations by entering an
+interest rate swap. Borrower contracts to periodically pay a fixed
+amount to the counterparty in return for the floating rate. Often a
+syndicate bank provides the hedge.
+
+\hypertarget{default-interest}{%
+\subsection{Default Interest}\label{default-interest}}
+
+If a borrower fails to pay a sum due under a facility agreement, default
+interest charged on any overdue amount (a fixed rate above the usual
+rate payable). But cant be a penalty clause because then it would be
+unenforceable! Cavendish Square Holdings BV v Talal El Makdessi
+{[}2015{]} UKSC 67.
+
+\hypertarget{liquidated-damages}{%
+\subsubsection{Liquidated Damages}\label{liquidated-damages}}
+
+Contracts arise from the agreement of the parties. The starting point of
+contract law is to support parties' agreements on as many matters as
+possible.
+
+The parties can agree not only to the terms of the contract, but also
+the nature and scope of the consequences of a breach of contract.
+
+\begin{quote}
+A liquidated damages clause stipulates a certain sum which is to be
+payable on a particular breach of contract.
+\end{quote}
+
+This can be commercially advantageous for a company, since it fixes the
+amount that will be due for a breach as a debt arising under the
+contract (reduced uncertainty). Means a party can take risks into
+account when determining the price for a contract. Very common clauses
+in construction and technology industries.
+
+\hypertarget{court-intervention}{%
+\paragraph{Court Intervention}\label{court-intervention}}
+
+There are instances where a court will intervene. Courts have
+jurisdiction to intervene in a contract to strike down a liquidated
+damages' clause which requires the party in breach to pay an excessive
+sum such that it becomes a 'penalty'. If a clause is regarded as a
+penalty, it will be struck down by the Court, and the claimant will only
+be entitled to 'unliquidated damages' (those assessed in the normal
+way).
+
+\begin{quote}
+A \textbf{penalty clause} is a liquidated damages' clause which requires
+the party in breach to pay an excessive sum, such that it becomes a
+penalty, and therefore the clause will not be upheld.
+\end{quote}
+
+Test for determining whether a clause is a valid liquidated damages
+clause or a penalty: ParkingEye Limited v Beavis {[}2015{]} UKSC 67 and
+Cavendish Square Holdings BV v Talal El Makdessi {[}2015{]} UKSC 67
+(these two cases were heard together).
+
+\hypertarget{makdessi-test}{%
+\paragraph{\texorpdfstring{\emph{Makdessi}
+Test}{Makdessi Test}}\label{makdessi-test}}
+
+Is the clause a primary or secondary obligation?
+
+\begin{itemize}
+\tightlist
+\item
+  A clause will be primary if it is part of the primary obligations in
+  the commercial context of the contract, i.e., furthers the commercial
+  objective of the contract.
+\item
+  A clause will be secondary if it is an obligation triggered by a
+  breach of contract to compensate the innocent party.
+\end{itemize}
+
+If primary, the clause will not engage the penalty rule at all, so will
+be valid.
+
+If secondary, the clause will be a penalty if it imposes a detriment out
+of all proportion to any legitimate interest of the innocent party in
+the performance of the primary obligation. Test for this:
+
+\begin{itemize}
+\tightlist
+\item
+  What (if any) legitimate business interest is served and protected by
+  the clause?
+\item
+  Is the detriment imposed to protect that interest extravagant,
+  exorbitant or unconscionable?
+\end{itemize}
+
+The burden of proof is on the person alleging that the clause is a
+penalty to prove this.
+
+The law on penalties is a clear interference with freedom of contract,
+so will not be invoked lightly to strike down a clause in a contract
+freely negotiated between parties of equal bargaining power. A party can
+sometimes have a legitimate interest in enforcing performance which goes
+beyond simply being compensated for losses. A clause which is not
+disproportionate to that protection of legitimate business interest will
+be upheld.
+
+Where the parties have negotiated a contract, on a level playing field
+and with the assistance of professional advisors, it will be hard for
+the party paying liquidated damages to challenge the validity of those
+provisions on the basis that they are a penalty.
+
+Careful drafting to frame provisions as primary rather than secondary
+obligations can reduce the chance of a party falling foul of the law on
+penalties (Holyoake v Candy {[}2017{]} EWHC 3397 (Ch)). Key: to prevent
+an allegation that the clause is a secondary liability payable on breach
+in either substance or form.
+
+For example, taking a scenario where Brett agrees to build a house for
+Damon at a price of £100,000 by 15 May 2019:
+
+(a) a clause requiring payment of a sum of £1000 per day for late
+completion might be regarded as secondary and subject to the law on
+penalties; alternatively
+
+(b) the obligation could be redrafted so that the price payable is
+lower, but Brett receives a 'bonus' for delivery on time. This provision
+might be regarded as a primary obligation intended to set the price and
+so not subject to the law on penalties.
+
+MERMAID3
+
+Practically, most facility agreements impose default interest of 1-2\%.
+
+\begin{env-7c6b66cc-f079-42aa-b2e4-4e0400858143}
+
+Basis point
+
+=0.01\%. Also referred to as a tick. 1\% can be referred to as a point.
+
+\end{env-7c6b66cc-f079-42aa-b2e4-4e0400858143}
+
+\end{document}

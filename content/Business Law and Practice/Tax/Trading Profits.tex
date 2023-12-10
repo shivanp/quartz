@@ -1,0 +1,793 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+
+\newenvironment{env-3ae98384-e2ec-4d09-ac55-0ea7db18e4d9}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{firebrick}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-e05fd1ac-83a5-41ce-95fd-28930cb87831}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-b05156de-272c-4941-ad2d-f95253330136}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{green}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-eaa47f00-a623-48fb-b749-5dda9cde5dea}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{aquamarine}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-cb77b424-888b-4192-8bb4-4a31d57bbcb7}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{orange}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-e20bae03-a75a-491d-88a0-5d0510ce977c}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-2f161b0c-3bbb-42f2-a685-2a4a488d7eb3}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{yellow}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-efc06023-58aa-4c2f-b0a9-4e44a4470353}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darkred}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-1a66adc4-dc6c-4a2d-a867-62a6a9970cae}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{pink}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-069142a4-c114-4ef1-a52b-99fe622a8735}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-b61b3e6f-3f12-4601-9a57-a38348b0a5b7}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-4d7b0451-0460-4d48-9d7f-d4cfd102b52c}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{purple}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-4c715519-3f47-4942-b40b-cfb73c4b348c}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darksalmon}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-fccd4df8-632d-4617-b2b2-7da032db8c20}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gray}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Trading Profits},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Trading Profits}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\hypertarget{trading-profits}{%
+\section{Trading Profits}\label{trading-profits}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule()
+Corporate structure & Income profits taxation \\
+\midrule()
+\endhead
+Sole trader & Income tax \\
+Company & Corporation tax \\
+Partnership & Income tax of partners/ corporation tax of corporate
+partners. \\
+\bottomrule()
+\end{longtable}
+
+Relevant legislation:
+
+\begin{itemize}
+\tightlist
+\item
+  Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005)
+\item
+  Corporation Tax Act 2009 (CTA 2009)
+\item
+  Corporation Tax Act 2010 (CTA 2010)
+\end{itemize}
+
+\hypertarget{calculation}{%
+\subsection{Calculation}\label{calculation}}
+
+{\(\text{Trading\ profits} = \text{Chargeable\ receipts} - \text{Deductible\ expenditure} - \text{Capital\ allowance}\)}
+
+Very small businesses may be allowed to work on a cash basis, but the
+vast majority of businesses must calculate trading profits.
+
+\hypertarget{chargeable-receipts}{%
+\subsection{Chargeable Receipts}\label{chargeable-receipts}}
+
+``Trade'' is given its ordinary meaning of operations of a commercial
+character.
+
+\hypertarget{deductible-expenditure}{%
+\subsection{Deductible Expenditure}\label{deductible-expenditure}}
+
+\begin{env-b05156de-272c-4941-ad2d-f95253330136}
+
+s 24 ITTOIA 2005 - Expenses not wholly and exclusively for trade and
+unconnected losses
+
+(1) In calculating the profits of a trade, no deduction is allowed
+for---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) expenses not incurred wholly and exclusively for the purposes of
+  the trade, or
+\item
+  (b) losses not connected with or arising out of the trade.
+\end{itemize}
+
+(2) If an expense is incurred for more than one purpose, this section
+does not prohibit a deduction for any identifiable part or identifiable
+proportion of the expense which is incurred wholly and exclusively for
+the purposes of the trade.
+
+\end{env-b05156de-272c-4941-ad2d-f95253330136}
+
+Must deduct:
+
+\begin{itemize}
+\tightlist
+\item
+  any expenditure of an income nature,
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Expenditure incurred for the purpose of enabling the trader to sell
+    the item at a profit.
+  \item
+    Income expenditure usually has the quality of recurrence.
+  \end{itemize}
+\item
+  which has been incurred 'wholly and exclusively' for the trade, and
+
+  \begin{itemize}
+  \tightlist
+  \item
+    So cannot be for a dual purpose.
+  \item
+    e.g., having a restaurant meal while working away from home is for
+    the dual purpose of eating (Caillebotte v Quinn {[}1975{]} 1 WLR
+    731).
+  \item
+    But realistically, HMRC allows some expenses to be apportioned, so
+    part is deductible.
+  \end{itemize}
+\item
+  deduction of which is not prohibited by statute.
+\end{itemize}
+
+Commonly deducted expenses include salaries, rent, utility charges,
+stock, business rates and stationery.
+
+\hypertarget{capital-allowances}{%
+\subsection{Capital Allowances}\label{capital-allowances}}
+
+Expenditure on capital items cannot in principle be deducted from
+chargeable receipts because it is not of a capital nature.
+
+But this could cause cash flow difficulties, so legislation allows a
+specified amount of the cost to be deducted each year in calculating
+trading profits. Principally applies to plant and machinery.
+
+This is the equivalent of amortisation in accounting.
+
+\begin{env-2f161b0c-3bbb-42f2-a685-2a4a488d7eb3}
+
+Capital allowances
+
+Under the Capital Allowances Act 2001 (CAA 2001), where expenditure is
+incurred on certain assets or activities, a percentage of the capital
+expenditure will be allowed as a deduction in calculating trading
+profits in a given accounting period. These deductions are known as
+capital allowances.
+
+\end{env-2f161b0c-3bbb-42f2-a685-2a4a488d7eb3}
+
+\hypertarget{plant-and-machinery}{%
+\subsubsection{Plant and Machinery}\label{plant-and-machinery}}
+
+Not defined anywhere: case law says apparatus used to carry out the
+business.
+
+For most qualifying assets, the taxpayer is allowed, in each 12-month
+accounting\\
+period of ownership of the asset, to deduct a `writing down allowance'
+of up to \textbf{18\%} of the reducing balance of the cost of the asset
+in calculating their trading profits (CAA 2001, ss 52--59).
+
+\hypertarget{sale-of-assets}{%
+\paragraph{Sale of Assets}\label{sale-of-assets}}
+
+If plant/ machinery is sold:
+
+\begin{itemize}
+\tightlist
+\item
+  At a profit, there may be a balancing charge
+\item
+  At a loss, there may be a balancing allowance.
+\end{itemize}
+
+These ensure that the taxpayer had relief for exactly the amount by
+which the asset diminished.
+
+\hypertarget{pooling}{%
+\paragraph{Pooling}\label{pooling}}
+
+Generally, all expenditure on plant and machinery is pooled together and
+the writing down allowance given each year on the balance of
+expenditure.
+
+\begin{env-b05156de-272c-4941-ad2d-f95253330136}
+
+s 55 CAA 2001 - Determination of entitlement or liability
+
+(1) Whether a person is entitled to a writing-down allowance or a
+balancing allowance, or liable to a balancing charge, for a chargeable
+period is determined separately for each pool of qualifying expenditure
+and depends on---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) the available qualifying expenditure in that pool for that period
+  (``AQE''), and
+\item
+  (b) the total of any disposal receipts to be brought into account in
+  that pool for that period (``TDR'').
+\end{itemize}
+
+(2) If AQE exceeds TDR, the person is entitled to a writing-down
+allowance or a balancing allowance for the period.
+
+(3) If TDR exceeds AQE, the person is liable to a balancing charge for
+the period.
+
+(4) The entitlement under subsection (2) is to a writing-down allowance
+except for the final chargeable period when it is to a balancing
+allowance.
+
+\end{env-b05156de-272c-4941-ad2d-f95253330136}
+
+Generally, no balancing allowance or charge should occur until the whole
+pool is sold/ trade discontinued.
+
+If the written-down value of the pool being used for an accounting
+period is ever £1,000 or less, the trader has the option of claiming a
+writing down allowance big enough to eliminate the pool.
+
+\hypertarget{annual-investment-allowance}{%
+\paragraph{Annual Investment
+Allowance}\label{annual-investment-allowance}}
+
+Every ongoing business receives an annual investment allowance up to
+£1,000,000. So the first £1,000,000 of fresh \textbf{qualifying}
+expenditure on plant and machinery will be fully deductible.
+
+\begin{env-b61b3e6f-3f12-4601-9a57-a38348b0a5b7}
+
+Important
+
+The key here is "qualifying". So if you're not qualifying (meaning would
+usually qualify for 18\% deduction, use the annual investment
+allowance).
+
+\end{env-b61b3e6f-3f12-4601-9a57-a38348b0a5b7}
+
+Note that this was meant to be a temporary measure from £200,000, but
+hasn't been changed.
+
+Note this can apply to second hand machinery being purchased. So either
+apply AIA or super-deduction, but never both.
+
+\hypertarget{super-deduction}{%
+\paragraph{Super-deduction}\label{super-deduction}}
+
+'Temporary' (until 31/03/23) capital allowances for \textbf{companies}
+investing in \textbf{new} \textbf{qualifying} plant and machinery over
+COVID-19: 130\% super-deduction rather than the normal 18\% deduction.
+
+Expenditure on assets usually attracting a 6\% (e.g., life-long assets)
+receive first year allowance of 50\%.
+
+\begin{env-cb77b424-888b-4192-8bb4-4a31d57bbcb7}
+
+Warning
+
+Only applies to companies.
+
+\end{env-cb77b424-888b-4192-8bb4-4a31d57bbcb7}
+
+\hypertarget{special-rules}{%
+\paragraph{Special Rules}\label{special-rules}}
+
+\begin{itemize}
+\tightlist
+\item
+  Structures and buildings
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Capital Allowances (Structures and Buildings Allowances) Regulations
+    2019
+  \item
+    Flat 3\% allowance on qualifying expenditure incurred on
+    construction, renovation or conversion of commercial structures.
+  \item
+    Confined to physical construction, does not include cost of land.
+  \end{itemize}
+\item
+  Short life assets (CAA 2001, ss 83-89)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If a business thinks an asset will have a useful working life of
+    {\(< 8\)} years, election can be made (within 2 years) to treat the
+    asset as a short-life asset.
+  \end{itemize}
+\item
+  Life-long assets and integral features (CAA 2001, s 33A and ss
+  90-104E)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Expected working life of {\(\geq 25\)} years.
+  \item
+    ``Integral features'' includes escalators, electrical and lighting
+    etc.
+  \item
+    Only qualify for 6\% writing down allowance.
+  \item
+    Eligible for AIA.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{trading-loss-relief}{%
+\subsection{Trading Loss Relief}\label{trading-loss-relief}}
+
+If there is a trading loss, there is no trading income. Relief on
+trading loss available for tax purposes.
+
+Where relief can be claimed under more than one provision, the taxpayer
+can elect which to claim, or can claim more than one if there is a big
+enough loss.
+
+\hypertarget{start-up-loss-relief-ss-72-81-ita-2007}{%
+\subsubsection{Start-up Loss Relief (ss 72-81 ITA
+2007)}\label{start-up-loss-relief-ss-72-81-ita-2007}}
+
+Start-up relief applies if the taxpayer suffers a loss which is assessed
+in any of the first 4 years of a business. The loss can be carried back
+and set against the taxpayer's total income in 3 years prior to the tax
+year of the loss.
+
+The loss must be set against earlier years before later years. there is
+a limit of £50,000.
+
+\hypertarget{carry-across-relief-ss-64-71-ita-2007}{%
+\subsubsection{Carry-across Relief (ss 64-71 ITA
+2007)}\label{carry-across-relief-ss-64-71-ita-2007}}
+
+\hypertarget{set-off-against-total-income-s-64-ita-2007}{%
+\paragraph{Set Off Against Total Income (s 64 ITA
+2007)}\label{set-off-against-total-income-s-64-ita-2007}}
+
+Trading loss arising in an accounting period is treated as a loss of the
+tax year in which the accounting period ends. Can be set against:
+
+\begin{itemize}
+\tightlist
+\item
+  Taxpayer's total income in the loss-making year, or
+\item
+  Taxpayer's total income in preceding year.
+\end{itemize}
+
+If the loss is big enough, can also set against a combination of these
+two years (but using up one first).
+
+COVID-19 extension: trading losses can be carried back for 3 years. Must
+be set against later years first, and carry-back to 2nd and 3rd years is
+£2 million.
+
+\hypertarget{set-off-against-capital-gains-s-71-ita-2007}{%
+\paragraph{Set Off Against Capital Gains (s 71 ITA
+2007)}\label{set-off-against-capital-gains-s-71-ita-2007}}
+
+After s 64 relief, further relief can be obtained by setting against a
+taxpayer's chargeable capital gains for that tax year.
+
+\hypertarget{carry-forward-relief-ss-83-85-ita-2007}{%
+\subsubsection{Carry-forward Relief (ss 83-85 ITA
+2007)}\label{carry-forward-relief-ss-83-85-ita-2007}}
+
+A loss can be carried forward and set against subsequent
+\textbf{profits} which the trade produces, taking earlier years first.
+
+Note the qualifications:
+
+\begin{itemize}
+\tightlist
+\item
+  Must wait for future profits before relief can be claimed
+\item
+  Can only set against profits, not income or capital.
+\item
+  BUT can carry forward indefinitely until a profit arises.
+\item
+  No cap on the amount which can be claimed.
+\end{itemize}
+
+\hypertarget{carry-back-of-terminal-trading-loss-ss-89-94-ita-2007}{%
+\paragraph{Carry Back of Terminal Trading Loss (ss 89-94 ITA
+2007)}\label{carry-back-of-terminal-trading-loss-ss-89-94-ita-2007}}
+
+If there is a trading loss in the last 12 months of the trade, it can be
+carried across trading profits made in the final tax year and then
+carried back to the 3 years prior.
+
+Does not allow relief against non-trading income or capital gains.
+
+4 years in which to claim relief. No cap.
+
+\hypertarget{carry-forward-relief-on-incorporation}{%
+\subsubsection{Carry-forward Relief on
+Incorporation}\label{carry-forward-relief-on-incorporation}}
+
+Losses can be carried forward and set against income which the taxpayer
+receives from the company. At least 80\% of the consideration for the
+transfer must consist of shares in the company.
+
+Can be carried forward indefinitely, no cap.
+
+\hypertarget{restrictions}{%
+\subsubsection{Restrictions}\label{restrictions}}
+
+Under Finance Act 2013, there is a cap on relief which can be claimed in
+any tax year, set as the greater of:
+
+\begin{itemize}
+\tightlist
+\item
+  £50,000, or
+\item
+  25\% of taxpayer's total income.
+\end{itemize}
+
+The cap only relates to income from sources other than the trade which
+produced the loss.
+
+Applies to start-up relief, carry-across/ carry-back relief, interest
+relief on loans to close companies and interest relief for partnership
+investment.
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule()
+ITA 2007 section & When will loss have occurred & Against what will loss
+be set & Relevant period? \\
+\midrule()
+\endhead
+s 72 (start-up relief by carry-back) & First 4 tax years of trading &
+Total income* & 3 tax years preceding tax year of loss. \\
+s 63 (carry-across/ carry-back one year relief) & Any accounting year of
+trading & Total income* and thereafter chargeable gains & Loss-making
+tax year/ preceding tax year. \\
+s 83 (carry-forward relief) & Any accounting year of trading &
+Subsequent profits of the same trade & Any subsequent tax year until
+loss absorbed. \\
+s 89 (terminal relief by carry-back) & Final 12 months of trading &
+Previous profits of the same trade & Final tax year and then 3 years
+preceding. \\
+s 86 (carry-forward relief on incorporation) & Up to incorporation &
+Subsequent income received from company & Any subsequent tax year until
+loss absorbed. \\
+\bottomrule()
+\end{longtable}
+
+*subject to cap.
+
+\end{document}

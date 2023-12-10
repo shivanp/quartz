@@ -1,0 +1,12 @@
+---
+aliases: 
+tags: 
+date created: Sunday, December 10th 2023, 12:02:31 am
+date modified: Sunday, December 10th 2023, 12:39:22 am
+---
+
+# Chhokar v Chhokar [1984] FLR 313
+
+H and W had married in 1975 and had a child. In 1977 a house was bought in H's name but both parties contributed to its purchase and upkeep. In October 1978 they went to India where H abandoned W and returned to England. She followed a few weeks later. In December 1978 H arranged to sell the house without informing W, at a price considerably below the market value. Completion of the sale took place in February 1979 whilst W was having their baby. H went to India with the net proceeds of sale. The purchaser, who hoped by deceit to frustrate W's overriding interest, took various measures including vandalism and assault, to prevent W from returning to the house but she was able to remain in occupation with the two children. At the hearing of W's applications for financial relief the judge ordered by declaration that the purchaser hold the house on trust for sale for himself and W in equal shares, and further ordered, inter alia, that the property was to be sold within nine months during which time W was to pay an occupational rent of GBP 8 per week to him. W appealed seeking a declaration that she was entitled to remain in the property rent-free until sale and that there should be no order for sale and the purchaser cross-appealed that the property was held on trust for sale subject to a deduction in his favour on the sale of the property of the discharge of the mortgage in February 1979.
+
+Held, allowing the appeal and cross-appeal, that the underlying purpose of the trust, namely a home for W and the two children, had continued through W's continued occupation. In view of the purchaser's involvement as H's accomplice there was no special reason for making an order for sale having regard to the interest of third parties. As the purchaser had stepped into H's shoes it would be inequitable for W to pay an occupational rent. However, the purchaser should be entitled to credit for paying off the mortgage. Declaration that the house should be held by W and the purchaser as tenants in common in equity in equal shares, subject to the foregoing credit (_[Holliday (A Bankrupt), Re [1981] Ch. 405, [1980] 5 WLUK 83](https://uk.westlaw.com/Document/IC2DEA6C0E42711DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=61c8c8fe609748f18614854dfabf7bbd&contextData=(sc.Default))_ followed).

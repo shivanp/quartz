@@ -1,0 +1,2869 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\newenvironment{Shaded}{}{}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+
+\newenvironment{env-15870351-a432-4e8e-bdea-7f87ec03e7db}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{firebrick}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-865f2d85-9023-4206-8566-b4b8731ad4ad}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-f4873368-60ec-46b2-943e-4283d2a85400}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{green}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-e86bd206-bf9b-40f9-9dd1-621f59bc861f}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{aquamarine}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-5f2d7daf-2182-4f1f-9c05-bbeef30ef6a1}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{orange}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-32bff4bb-58e9-4c71-89bf-83439bad0a11}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-b201f13f-73cd-43d6-b012-e3e44b8eb4df}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{yellow}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-da26e63e-3683-4c1b-af09-63c9f778ab88}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darkred}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-98766dd1-d608-4e42-997b-0c7a1ae7547f}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{pink}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-8c3d4a6a-4f58-40d6-82ce-9fb5855e52e8}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-5a7df771-1555-4ba9-a581-e1c5ab163013}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-af21e2c9-915a-40e9-a9bb-8eae91421abc}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{purple}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-29488f2c-8387-4530-8a47-bfb073206627}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darksalmon}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-64169035-c974-4450-b847-1370d14ce7cf}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gray}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{min\_depth: 1}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{initial-hearing-magistrates-ct}{%
+\section{Initial Hearing (Magistrates'
+Ct)}\label{initial-hearing-magistrates-ct}}
+
+\hypertarget{introduction}{%
+\subsection{Introduction}\label{introduction}}
+
+All Ds aged \(\geq 18\) charged with a criminal offence will make their
+first appearance before the magistrates' court.
+
+\begin{itemize}
+\tightlist
+\item
+  If D is charged with an indictable-only offence, the magistrates will
+  immediately send the case to the Crown Court for trial (s 51 CDA
+  1998).
+\item
+  Judicial Review and Courts Act 2022 (when in force) changes provisions
+  concerning business crimes:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Enables legally represented Ds to engage with pre-trial criminal
+    court proceedings (e.g., indicating plea on an online platform,
+    rather than at a magistrates' court).
+  \item
+    More flexibility in allocating criminal cases between magistrates'
+    and Crown Court.
+  \item
+    Enables \href{no\%20financial\%20limit.}{{[}Crown Court{]}} to
+    return some cases to
+    \href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+    Court{]}}.
+  \item
+    Enables electronic service of documents in criminal cases where
+    appropriate.
+  \end{itemize}
+\item
+  CJSSS - ``Criminal Justice: Simple, Speedy, Summary'' rolled out in
+  2007.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Aims to speed up proceedings in
+    \href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+    Court{]}}
+  \item
+    Presumption that a plea will be entered at the first hearing
+  \item
+    For guilty pleas, sentencing usually on the same day
+  \item
+    Not guilty plea: trial date fixed for 6-8 weeks
+  \item
+    CPS provides sufficient information to ensure the first hearing is
+    effective.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{first-hearing}{%
+\subsection{First Hearing}\label{first-hearing}}
+
+If D was charged by the police, he will:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Come to court in custody if refused bail, or
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Kept in police custody until brought before a
+    \href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+    Court{]}}.
+  \item
+    Normally within a day of being charged.
+  \end{itemize}
+\item
+  Attend court to ``answer'' bail if granted bail.
+\end{enumerate}
+
+If the police refused bail, it is likely that the CPS will oppose bail
+and a full bail hearing will be necessary.
+
+\hypertarget{procedure}{%
+\subsection{Procedure}\label{procedure}}
+
+What happens at the first hearing depends on:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  The classification of the offence
+\item
+  The plea entered by D
+\item
+  The level of detail provided by the CPS
+\item
+  Whether public/ private funding is secured.
+\end{enumerate}
+
+CPS should make sufficient disclosure to enable D to enter a plea, and D
+should be prepared to do so. The case may be adjourned if there are
+still issues outstanding, in which case the magistrates will decide
+whether D should be granted bail until the next hearing (in
+\textasciitilde2 weeks).
+
+\hypertarget{summary-offences}{%
+\subsubsection{Summary Offences}\label{summary-offences}}
+
+\begin{itemize}
+\tightlist
+\item
+  D pleads guilty
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Representative from CPS tells the magistrates the facts of the case
+  \item
+    D's solicitor gives a plea in mitigation on D's behalf
+  \item
+    Magistrates will sentence D straight away or adjourn the case if
+
+    \begin{itemize}
+    \tightlist
+    \item
+      They want to obtain any reports (eg. pre-sentence report from the
+      Probation Service), or
+    \item
+      D disputes the specific factual allegations made by the CPS. A
+      ``Newton hearing'' is necessary to determine the factual basis
+      upon which D will be sentenced.
+    \end{itemize}
+  \end{itemize}
+\item
+  D pleads not guilty
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Court will fix a date for D's trial and issue case management
+    directions.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{either-way-offences}{%
+\subsubsection{Either Way Offences}\label{either-way-offences}}
+
+\begin{itemize}
+\tightlist
+\item
+  D pleads guilty
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Magistrates determine whether to sentence D or commit D to the Crown
+    Court (if their sentencing powers are insufficient).
+  \item
+    Case may need to be adjourned
+  \end{itemize}
+\item
+  D pleads not guilty
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ``Plea before venue and allocation procedure'' -- determine whether
+    D is to be tried in
+    \href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+    Court{]}} or \href{no\%20financial\%20limit.}{{[}Crown Court{]}}.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{indictable-only-offences}{%
+\subsubsection{Indictable-only
+Offences}\label{indictable-only-offences}}
+
+Adult D sent straight to the Crown Court, following a preliminary
+hearing at the
+\href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+Court{]}} (s 51(1) CDA 1998).
+
+\hypertarget{role-of-defence-solicitor}{%
+\subsection{Role of Defence Solicitor}\label{role-of-defence-solicitor}}
+
+Role involves:
+
+\begin{itemize}
+\tightlist
+\item
+  Obtaining funding from the LAA to pay for the work (unless client
+  paying solicitor privately)
+\item
+  Obtain details of prosecution case from CPS
+\item
+  Take a statement from the client
+\item
+  Advise client on strength of prosecution evidence and the plea which
+  should be entered
+\item
+  For either-way offence, advise on advantages and disadvantages of each
+  court.
+\item
+  Making an application for bail if necessary.
+\end{itemize}
+
+\hypertarget{funding-case}{%
+\subsection{Funding Case}\label{funding-case}}
+
+Defence solicitors will make applications on behalf of their clients for
+clients' cases to receive public funding from the LAA. Art 6(3) ECHR:
+defendants who do not have sufficient means to pay for legal assistance
+should receive this free of charge.
+
+To obtain public funding for clients, a firm of solicitors must have a
+`general criminal contract' with the LAA. These firms are subject to an
+annual audit to ensure files are run properly.
+
+\hypertarget{work-done-before-client-charged}{%
+\subsubsection{Work Done Before Client
+Charged}\label{work-done-before-client-charged}}
+
+\begin{itemize}
+\tightlist
+\item
+  Solicitors usually first provide advice at the police station.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Everyone at the police station is entitled to free legal advice,
+    regardless of means.
+  \item
+    Work done by a solicitor at the police station will be claimed as a
+    fixed fee under Police Station Advice and Assistance Scheme.
+  \item
+    Non-solicitors can do this work if accredited or probationary police
+    station representatives.
+  \item
+    Some solicitors are members of duty solicitors schemes.
+  \end{itemize}
+\item
+  Outside police station
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If the client is of limited means, solicitor will be able to fund
+    any preliminary work they carry out on the client's behalf under the
+    Advice and Assistance Scheme
+  \item
+    Does not cover work done for a client after the client is charged.
+  \item
+    The client must apply for a representation order.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{advocacy-assistance}{%
+\paragraph{Advocacy Assistance}\label{advocacy-assistance}}
+
+A solicitor may provide Advocacy Assistance for a client of limited
+means involved in criminal investigations:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  when the client is the subject of an application for a warrant for
+  further detention, or for an extension of such a warrant; or
+\item
+  when the client is the subject of an application to extend detention
+  in military custody; or
+\item
+  where there is an application to vary police bail conditions
+  (including `street bail' conditions) imposed by the police under s
+  30BC or 47(1E) of PACE 1984, as amended by the CJA 2003.
+\end{enumerate}
+
+The solicitor can claim under fixed rates for such work.
+
+\hypertarget{work-done-after-client-charged}{%
+\subsubsection{Work Done After Client
+Charged}\label{work-done-after-client-charged}}
+
+\hypertarget{duty-solicitor-scheme}{%
+\paragraph{Duty Solicitor Scheme}\label{duty-solicitor-scheme}}
+
+Operates in the
+\href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+Court{]}}, in a similar way to at the police station. Solicitors will
+have their names on a rota. Costs of attending court will be claimed
+from the LAA under Advocacy Assistance (Court Duty Solicitor) Scheme.
+
+\hypertarget{representation-order}{%
+\subsubsection{Representation Order}\label{representation-order}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{To apply for criminal legal aid in the magistrates\textquotesingle{} court, D must satsify:}
+\NormalTok{1. Interests of justice test {-} D must show that it is in the interests of justice that they receive public funding for legal representation. }
+\NormalTok{2. Means test {-} D must demonstrate inability to pay for the costs of legal representation. }
+\end{Highlighting}
+\end{Shaded}
+
+D must submit Form CRM14 -- Application for Legal Aid in Criminal
+Proceedings. Unless means test is automatically satisfied, D must submit
+a financial statement (Form CRM15) and supporting documentation (unless
+unable to provide due to being in custody, in which case this should be
+stated).
+
+\hypertarget{interests-of-justice-test}{%
+\paragraph{Interests of Justice Test}\label{interests-of-justice-test}}
+
+Ensures compliance with Article 6(3)(a) of the ECHR, which provides that
+a defendant who does not have sufficient means to pay for legal
+assistance should receive this free `when the interests of justice' so
+require.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Widgery criteria}
+\NormalTok{Factors taken into account in deciding whether D can satisfy the interests of justice test. Set out in Sch 3 para 5(2) Access to Justice Act 1999 (N.B. this has been repealed {-} presumably still relevant?). }
+\end{Highlighting}
+\end{Shaded}
+
+These are whether:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  It's likely I'll lose my liberty
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If D is charged with a serious offence likely to result in a prison
+    sentence if convicted
+  \item
+    Check sentencing guidelines
+  \item
+    Check any previous convictions against D
+  \item
+    Check aggravating factors
+  \item
+    For an indictable-only offence, this should be straightforward to
+    argue.
+  \item
+    Relevant also if the court is likely to refuse bail (so check
+    previous bail record etc.)
+  \end{itemize}
+\item
+  I've been given a sentence that's suspended or non-custodial: if I
+  break this, the court may be able to deal with me for the original
+  offence
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Relevant if D is subject to a suspended prison sentence in respect
+    of a previous offence and commits a further offence.
+  \item
+    Statutory presumption that sentence will be activated (SC 2020, Sch
+    16).
+  \item
+    D subject to conditional discharge
+  \item
+    D subject to generic community order.
+  \end{itemize}
+\item
+  It's likely that I'll lose my livelihood
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Relevant if D in employment and a conviction is likely to lead to
+    the loss of that employment.
+  \item
+    Applicable to positions of trust, certain regulated professions,
+    working with children etc.
+  \item
+    If a guilty plea is intended, need to demonstrate how legal
+    representation may help avoid losing livelihood.
+  \end{itemize}
+\item
+  It's likely that I'll suffer serious damage to my reputation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    More than the direct effect of the penalty
+  \item
+    Ds with no previous convictions or convictions for very minor
+    offences.
+  \item
+    D has position of standing or respect in the community.
+  \end{itemize}
+\item
+  A substantial question of law may be involved
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Challenging the admissibility of evidence
+  \item
+    Disputing identification evidence
+  \item
+    Adverse inferences from refusal to answer questions (ss 34, 36 37
+    CJPOA 1994)
+  \item
+    Admitting hearsay evidence (s 114 CJA 2003)
+  \item
+    Confession made to be excluded (ss 76 or 78 PACE 1984)
+  \item
+    Prosecution want to adduce evidence at trial evidence of Ds previous
+    convictions under s 101 CJA 2003.
+  \end{itemize}
+\item
+  I may not be able to understand the court proceedings or present my
+  own case
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Mental or physical disability
+  \item
+    Poor knowledge of English
+  \item
+    Age
+  \item
+    Vulnerability
+  \end{itemize}
+\item
+  I may need witnesses to be traced or interviewed on my behalf
+
+  \begin{itemize}
+  \tightlist
+  \item
+    D wishes to call a witness in support of their case.
+  \item
+    Must explain why legal representation is needed for this.
+  \end{itemize}
+\item
+  The proceedings may involve expert cross-examination of a prosecution
+  witness
+
+  \begin{itemize}
+  \tightlist
+  \item
+    E.g., if police officers giving evidence for the prosecution need to
+    be examined.
+  \end{itemize}
+\item
+  It's in the interests of another person that I'm represented
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If a person is accused of a sexual or violent offence, inappropriate
+    for them to cross-examine the complainant in such a case.
+  \item
+    Inappropriate to examine a child witness in person.
+  \item
+    ``Someone else'' means witness or prosecution, not D's family/ the
+    court.
+  \end{itemize}
+\item
+  Any other reasons
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If D is pleading not guilty, common practice to state this here.
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{means-test}{%
+\paragraph{Means Test}\label{means-test}}
+
+The following will receive criminal legal aid automatically without
+needing to satisfy the means test:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  applicants who receive income support, income-based jobseeker's
+  allowance, guaranteed State pension credit, income-related employment
+  and support allowance or universal credit; and
+\item
+  applicants who are under the age of 18.
+\end{enumerate}
+
+Applicants not falling into the above categories must submit Form CRM15
+along with evidence to substantiate their financial details (tax
+returns, payslips, mortgage statements/ tenancy agreements).
+
+\hypertarget{initial-means-test}{%
+\subparagraph{Initial Means Test}\label{initial-means-test}}
+
+The court will apply an initial means test. Considers an applicant's
+income and expenses, but not the applicant's capital. Gross income is
+taken, and adjusted income calculated by dividing by a weighted
+multiplier (depending on whether the applicant has a partner or
+children).
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule()
+Adjusted income \(P\) & Qualify for legal aid? \\
+\midrule()
+\endhead
+\(P < £12,475\) & Yes \\
+\(£12,475 \leq P \leq £22,325\) & Full means test required \\
+\(P > £22,325\) & No \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{full-means-test}{%
+\subparagraph{Full Means Test}\label{full-means-test}}
+
+Applicant's disposable income calculated.
+
+\begin{longtable}[]{@{}l@{}}
+\toprule()
+Gross income \\
+\midrule()
+\endhead
+\emph{Less} \\
+Tax and national insurance \\
+Annual housing costs \\
+Annual childcare costs \\
+Annual maintenance to former partners/ children \\
+Adjusted annual living allowance \\
+= \\
+Disposable income \\
+\bottomrule()
+\end{longtable}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{To qualify for criminal legal aid, the applicant’s annual disposable income must not exceed **£3,398**.}
+\end{Highlighting}
+\end{Shaded}
+
+If the applicant fails the means test but cannot fund his own defence,
+complete an application for review on the grounds of hardship (Form
+CRM16).
+
+\hypertarget{scope}{%
+\paragraph{Scope}\label{scope}}
+
+If a defendant satisfies both the interests of justice test and the
+means test, the magistrates' court will grant a criminal defence
+representation order and the order will be sent to his solicitor.
+
+This will cover all the work done by the solicitor in connection with
+the proceedings in the
+\href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+Court{]}}, and may be extended to cover an appeal to the Crown Court.
+
+Either way offences: where D has failed the magistrates 'court means
+test and the case is committed to the Crown Court, funding will not
+start until the day after the sending hearing and will only cover work
+done in the Crown Court, if D passes the means eligibility test in the
+Crown Court.
+
+If D's application for legal aid is refused under the ``interests of
+justice test'' can appeal to the
+\href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+Court{]}} by adding extra details to CRM14 and resubmitting to the
+court.
+
+At the conclusion of the case, the defence solicitor will claim back any
+costs incurred under the representation order from the LAA.
+
+\hypertarget{statement-from-client}{%
+\subsection{Statement From Client}\label{statement-from-client}}
+
+Take a full and detailed statement from the client asap. This will never
+be disclosed to the court/ prosecution. Get the statement checked and
+signed by the client.
+
+Include:
+
+\begin{itemize}
+\tightlist
+\item
+  Personal details
+\item
+  Details of charge
+\item
+  Health problems
+\item
+  Family circumstances
+\item
+  Education and employment history
+\item
+  Previous convictions
+\item
+  What the client says about the current offence
+\item
+  Relevant factors to mitigation
+\item
+  Client's comments on prosecution evidence.
+\end{itemize}
+
+\hypertarget{obtaining-details-of-prosecution-case}{%
+\subsection{Obtaining Details of Prosecution
+Case}\label{obtaining-details-of-prosecution-case}}
+
+Defence solicitor must see all prosecution evidence as soon as possible
+after D has been charged. What the CPS must disclose depends on what
+type of offence D has been charged with.
+
+\hypertarget{summary-and-either-way-offences}{%
+\subsubsection{Summary and Either Way
+Offences}\label{summary-and-either-way-offences}}
+
+D entitled to receive initial details of the prosecution case (IDPC)
+(CrimPR r 8.2).
+
+D will contact the CPS in advance of the first hearing with a Unique
+Reference Number. CPS emails solicitor the IDPC via Criminal Justice
+Secure Mail account. For clients seen in court for the first time, the
+solicitor phones a centralised CPS number and papers will be emailed
+over.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 8.4 CrimPR}
+\NormalTok{(1) This rule applies where—}
+\NormalTok{{-} (a) the prosecutor wants to introduce information contained in a document listed in rule 8.3; and}
+\NormalTok{{-} (b) the prosecutor has not—}
+\NormalTok{    {-} (i) served that document on the defendant, or}
+\NormalTok{    {-} (ii) made that information available to the defendant.}
+
+\NormalTok{(2) The court must not allow the prosecutor to introduce that information unless the court first allows the defendant sufficient time to consider it. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{idpc}{%
+\paragraph{IDPC}\label{idpc}}
+
+Will include:
+
+\begin{itemize}
+\tightlist
+\item
+  If D was in police custody charged immediately before the first
+  hearing:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A summary of the circumstances of the offence
+  \item
+    D's criminal record
+  \end{itemize}
+\item
+  All other circumstances
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Summary of circumstances of offence
+  \item
+    Account given by D in interview
+  \item
+    Written witness statement or exhibit that the prosecutor has
+    available and considers material to plea/ trial/ sentence.
+  \item
+    Any available statement of the effect of the offence on a victim,
+    their family and others.
+  \end{itemize}
+\item
+  Where D has been released on bail after being charged, and the
+  prosecutor does not anticipate a guilty plea at the first hearing
+  (Crim PD 3A.12)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Statements and exhibits or importance, including any relevant CCTV
+    and Streamlined Forensic Report
+  \item
+    Indication of medical/ expert evidence the prosecution is likely to
+    adduce
+  \item
+    Information of special measures, bad character or hearsay.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{advising-on-plea}{%
+\subsection{Advising on Plea}\label{advising-on-plea}}
+
+Discuss with the client:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  The client's response to the prosecution case.
+\item
+  The strength of the prosecution case
+\item
+  Whether it is necessary to obtain further evidence in support of D's
+  case
+\item
+  If D has been charged with an either way offence and pleads not
+  guilty, whether to elect
+  \href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+  Court{]}} or \href{no\%20financial\%20limit.}{{[}Crown Court{]}}
+  trial.
+\end{enumerate}
+
+It is the client's decision what plea to make.
+
+\hypertarget{conduct}{%
+\subsubsection{Conduct}\label{conduct}}
+
+Suppose the client tells the solicitor that he is guilty of the offence.
+
+\begin{itemize}
+\tightlist
+\item
+  Client pleads guilty
+
+  \begin{itemize}
+  \tightlist
+  \item
+    They receive credit from the court for entering an early guilty plea
+  \item
+    Solicitor able to give a plea in mitigation on the client's behalf.
+  \end{itemize}
+\item
+  Client pleads not guilty
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Solicitor can still represent at trial
+  \item
+    Solicitor can cross-examine prosecution witnesses and put the
+    prosecution to proof on their case.
+  \item
+    A solicitor can make a submission of no case to answer at the end of
+    the prosecution case and ask the magistrates to dismiss the case.
+  \item
+    But if submission of no case to answer unsuccessful and D insisted
+    on giving a false statement at the witness box, D's solicitor would
+    have to withdraw (para 1.4 SRA Code -- duty not to mislead the
+    court). Withdraw citing ``professional reasons''.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{plea-before-venue}{%
+\subsection{Plea Before Venue}\label{plea-before-venue}}
+
+When D appears before the magistrates:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Charge read out to D by the court clerk/ legal advisor, who will check
+  that D's solicitor has received advance disclosure of the prosecution
+  case.
+\item
+  Clerk tells D he may indicate (no obligation) to the court how he
+  would like to plead if the matter proceeds to trial.
+\item
+  Clerk asks D to give plea.
+\end{enumerate}
+
+\hypertarget{guilty-plea}{%
+\subsubsection{Guilty Plea}\label{guilty-plea}}
+
+\begin{itemize}
+\tightlist
+\item
+  If D indicates a guilty plea, treated as having been tried summarily
+  and convicted.
+\item
+  CPS representative will outline the facts of the case to the
+  magistrates and tell them about any previous convictions.
+\item
+  D's solicitor will give a plea in mitigation on D's behalf.
+\item
+  Magistrates decide whether they have sufficient sentencing powers
+
+  \begin{itemize}
+  \tightlist
+  \item
+    6 months imprisonment for one either way offence
+  \item
+    12 months for two or more either way offences.
+  \item
+    Decide this with reference to seriousness of offence, Magistrates'
+    Court Sentencing Guidelines, and considering aggravating or
+    mitigating factors.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{magistrates-to-sentence}{%
+\paragraph{Magistrates to Sentence}\label{magistrates-to-sentence}}
+
+\begin{itemize}
+\tightlist
+\item
+  Magistrates sentence D or adjourn the case for a pre-sentence report
+  (or if a Newton hearing is necessary).
+\item
+  Before Plea Protocol for a Pre-Sentence Report
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Applies where adult D intends to plead guilty and likely that case
+    will be sentenced in
+    \href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+    Court{]}}.
+  \item
+    D's solicitor can ask the Probation Service to prepare a
+    pre-sentence report before the first hearing.
+  \item
+    D must agree to cooperate with the Probation Service to prepare a
+    report.
+  \item
+    The court will decide whether to consider the report.
+  \item
+    Solicitor must be satisfied that
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Offence is serious enough for a community order
+    \item
+      Pre-sentence report likely to be necessary.
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{crown-court-to-sentence}{%
+\paragraph{Crown Court to Sentence}\label{crown-court-to-sentence}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 14 Sentencing Act 2020 {-} Committal for sentence on summary trial of offence triable either way}
+
+\NormalTok{(1) This section applies where—}
+\NormalTok{{-} (a) on the summary trial of an offence triable either way a person aged 18 or over is convicted of the offence, and}
+\NormalTok{{-} (b) the court is of the opinion that—}
+\NormalTok{    {-} (i) the offence, or}
+\NormalTok{    {-} (ii) the combination of the offence and one or more offences associated with it,}
+
+\NormalTok{was so serious that the Crown Court should have the power to deal with the offender in any way it could deal with the offender if the offender had been convicted on indictment.}
+
+\NormalTok{(2) The court **may commit the offender** in custody or on bail **to the Crown Court for sentence** in accordance with section 21(2).}
+\end{Highlighting}
+\end{Shaded}
+
+If D pleads guilty at the plea before venue hearing and is committed to
+Crown Court for sentence, the magistrates will not generally alter the
+position as regards bail or custody.
+
+\hypertarget{not-guilty-plea}{%
+\subsubsection{Not Guilty Plea}\label{not-guilty-plea}}
+
+\textbf{If} the defendant indicates a not guilty plea in the following
+circumstances, the court shall\\
+send the defendant to the Crown Court for trial (CDA 1998, s 50A(3)(b)):
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  the defendant is sent to the Crown Court for trial for a related
+  offence;
+\item
+  the defendant is charged jointly with another adult defendant who is
+  sent to the Crown Court for trial for a related offence;
+\item
+  the defendant is charged jointly, or charged with a related either way
+  offence, with a youth defendant who is sent to the Crown Court for
+  trial.
+\end{enumerate}
+
+\textbf{Else}: court must make a decision as to allocation (Magistrates'
+Courts Act 1980, s 19(1)).
+
+\hypertarget{allocation}{%
+\subsection{Allocation}\label{allocation}}
+
+{[}{[}allocation-sending.png{]}{]}
+
+Allocation guidelines direct that either way offences should be tried
+summarily unless it is likely that the court's sentencing powers will be
+insufficient.
+
+\hypertarget{procedure-1}{%
+\subsubsection{Procedure}\label{procedure-1}}
+
+Set out in ss 19-20 Magistrates' Courts Act 1980:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Prosecution informs court of facts and D's previous convictions, if
+  any (s 19(2)(a)).
+\item
+  Magistrates consider:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Representations about whether summary trial/ trial on indictment
+    suitable (s 19(2)(b))
+  \item
+    Whether the sentence they have the power to impose would be adequate
+    (s 19(3)(a)) (considering maximum aggregate sentence for related
+    offences (s 19(4)).
+  \item
+    Allocation guideline issued by Sentencing Council.
+
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \tightlist
+    \item
+      Either way offences should be tried summarily unless it is likely
+      that the court's sentencing powers will be insufficient.
+    \item
+      The court should assess the likely sentence in the light of the
+      facts alleged by the prosecution case, taking into account all
+      aspects of the case, including those advanced by the defence. The
+      magistrates would do this by considering the Magistrates' Court
+      Sentencing Guidelines for the relevant offences.
+    \end{enumerate}
+  \end{enumerate}
+\item
+  If trial by indictment more suitable, D sent to
+  \href{no\%20financial\%20limit.}{{[}Crown Court{]}} (Magistrates'
+  Courts Act 1980, s 21)
+\item
+  If court decides case more suitable for summary trial, explain to D:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    D can consent to be tried summary or choose trial by indictment
+  \item
+    If he consents to be tried summarily and is convicted, may be
+    committed to Crown Court for sentencing.
+  \end{enumerate}
+\item
+  D may request an indication of whether a custodial or non-custodial
+  sentence would be more likely if tried summarily and pleaded guilty
+  (ss 20(3)-(7)).
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    The court has discretion over whether to give such an indication (s
+    20(4))
+  \item
+    s 20A(1): if D pleads guilty, no court may impose a custodial
+    sentence unless such a sentence was indicated in the indication of
+    sentence in s 20 (or further exceptions about being a dangerous
+    offender/ committed to \href{no\%20financial\%20limit.}{{[}Crown
+    Court{]}} for related offences).
+  \item
+    s 20A(3): subject to subsection (1), an indication of sentence is
+    not binding on the court and no sentence may be challenged/ appealed
+    on the ground that it is not consistent with the indication of
+    sentence.
+  \item
+    So if D does not change his plea to guilty, the indication of
+    sentence is not binding on any court.
+  \end{enumerate}
+\item
+  D asked whether he consents to summary judgment or wishes to be
+  trialled on indictment (s 20(8) \& (9))
+\item
+  s 25: prosecution are permitted to make an application before summary
+  trial for an either way offence allocated at summary trial to be sent
+  to the Crown Court for trial.
+\end{enumerate}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Suppose D pleads guilty to either way offence $EWO\_G$ and not guilty to $EWO\_\{NG\}$. }
+\NormalTok{Magistrates proceed with the allocation hearing in respect of $EWO\_\{NG\}$. }
+\NormalTok{{-} If magistrates accept jurisdiction, they will either sentence D immediately for $EWO\_G$, or adjourn sentence until the end of $EWO\_\{NG\}$ trial. }
+\NormalTok{{-} If magistrates decline jurisdiction, send $EWO\_\{NG\}$ to Crown Court for trial and decide whether to sentence D for$EWO\_G$/ send to Crown Court. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{sending-straight-to-crown-court}{%
+\subsection{Sending Straight to Crown
+Court}\label{sending-straight-to-crown-court}}
+
+Either way offences can sometimes be sent straight to the Crown Court
+without a plea before venue and allocation, under s 50A CDA 1998.
+Circumstances:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Notice given by DPP in serious or complex fraud cases.
+\item
+  Notice has been served in cases involving children
+\item
+  Where there is an either way offence related to an indictable-only
+  offence/ offence covered by the above, for which the same or another D
+  is sent to the \href{no\%20financial\%20limit.}{{[}Crown Court{]}}.
+\end{enumerate}
+
+\hypertarget{advising-client-on-trial-venue}{%
+\subsection{Advising Client on Trial
+Venue}\label{advising-client-on-trial-venue}}
+
+\hypertarget{crown-court-advantages}{%
+\subsubsection{\texorpdfstring{\href{no\%20financial\%20limit.}{{[}Crown
+Court{]}}
+Advantages}{{[}Crown Court{]} Advantages}}\label{crown-court-advantages}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Greater chance of acquittal
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Statistically, juries are more sympathetic to Ds
+  \item
+    If police officers often give evidence before the same magistrates'
+    court, this may prejudice the magistrates.
+  \item
+    If D has several previous convictions in front of the same
+    \href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+    Court{]}}, may also prejudice.
+  \end{itemize}
+\item
+  Better procedure for challenging admissibility of prosecution evidence
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Crown Court: where the admissibility of evidence is disputed, jury
+    asked to leave the courtroom and the judge conducts a mini-trial to
+    decide whether to admit the evidence.
+  \item
+  \item
+    N.B. many magistrates' courts attempt to determine issues of
+    admissibility at pre-trial hearings before a different bench of
+    magistrates from the bench which hears the trial.
+  \end{itemize}
+\item
+  More time to prepare case for trial
+\end{enumerate}
+
+\hypertarget{magistrates-court-advantages}{%
+\subsubsection{\texorpdfstring{\href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+Court{]}}
+Advantages}{{[}Magistrates' Court{]} Advantages}}\label{magistrates-court-advantages}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Limited sentencing powers
+
+  \begin{itemize}
+  \tightlist
+  \item
+    6 months' maximum sentence, or 12 months for 2 or more either-way
+    offences.
+  \item
+    But magistrates retain the power to commit D to the
+    \href{no\%20financial\%20limit.}{{[}Crown Court{]}} if facts emerge
+    making the offence more serious than it appeared at the allocation
+    hearing.
+  \end{itemize}
+\item
+  Speed and stress
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Generally trial takes place within weeks, not months.
+  \item
+    Less formal environment: no wigs and gowns, as at the Crown Court.
+  \end{itemize}
+\item
+  Prosecution costs
+
+  \begin{itemize}
+  \tightlist
+  \item
+    D likely to be ordered to contribute towards the costs incurred by
+    the CPS in bringing the case against him.
+  \item
+    Costs likely to be higher in the Crown Court.
+  \end{itemize}
+\item
+  Defence costs
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If granted legal aid in the magistrates' court, D not required to
+    contribute towards defence costs.
+  \item
+    In the Crown Court after 27/01/14, all legal aid applications
+    subject to a financial eligibility test (household disposable income
+    \(<£37,500\))
+  \item
+    Pre-2012, D could claim back the fees of their legal representation
+    if acquitted. Now defence costs can be reimbursed, but only at legal
+    aid rates, so long as D submitted an application for legal aid but
+    was rejected due to financial ineligibility.
+  \end{itemize}
+\item
+  No obligation to serve defence statement.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    D pleading not guilty in the Crown Court is obliged to serve on the
+    court and prosecution a defence statement (ss 5,6,6A Criminal
+    Procedure and Investigations Act 1996).
+  \item
+    This puts the prosecution on notice of the defence: lose the element
+    of surprise.
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{bail}{%
+\section{Bail}\label{bail}}
+
+Usually there are several adjournments before a case is concluded.
+
+\hypertarget{remand-periods}{%
+\subsection{Remand Periods}\label{remand-periods}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Remand}
+\NormalTok{An adjournment where the court attempts to ensure D will attend the next hearing. May be remanded:}
+\NormalTok{1. In custody}
+\NormalTok{2. On bail with conditions}
+\NormalTok{3. On unconditional bail. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{remand-in-custody-prior-to-conviction}{%
+\subsubsection{Remand in Custody Prior to
+Conviction}\label{remand-in-custody-prior-to-conviction}}
+
+\begin{itemize}
+\tightlist
+\item
+  Basic rule: D may not be remanded in custody for \textbf{\(> 8\) clear
+  days} at a time.
+\item
+  If there are successive remands, D must be brought before the court on
+  every 4th remand, if D has consented and has legal representation.
+\item
+  Court may remand D for \(\leq 28\) days if:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Previously remanded in custody for the same offence
+  \item
+    D is before the court, and
+  \item
+    It can set a date on which it expects the next stage of proceedings
+    to take place.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{custody-time-limits}{%
+\paragraph{Custody Time Limits}\label{custody-time-limits}}
+
+\begin{itemize}
+\tightlist
+\item
+  Overall maximum period of remand in custody in the magistrates' court
+  is:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    70 days before trial for an either way offence
+  \item
+    56 days before trial for a summary only offence.
+  \item
+    If case involves an either way offence and the allocation hearing
+    takes place within 56 days, the custody time limit is reduced to 56
+    days.
+  \end{itemize}
+\item
+  Prosecution may apply to have custody time limit extended.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Must show on the balance of probabilities that (s 22 Prosecution of
+    Offences Act 1985):
+
+    \begin{itemize}
+    \tightlist
+    \item
+      There is good and sufficient cause
+    \item
+      It has acted with due diligence and expedition.
+    \end{itemize}
+  \item
+    Both D and prosecution can appeal to the Crown Court a decision on
+    the application to extend custody time limit.
+  \end{itemize}
+\item
+  Once the custody time limit has expired, D must be released on bail
+  until his trial.
+\end{itemize}
+
+\hypertarget{custody}{%
+\paragraph{Custody}\label{custody}}
+
+\begin{itemize}
+\tightlist
+\item
+  D will be kept in a prison or remand centre.
+\item
+  s 128(7) Magistrates' Courts Act 1980 allows remand to police custody
+  for \(\leq 3\) days if necessary to make enquiries in relation to
+  offences.
+\item
+  This is likely if D is arrested and charged for one offence, but the
+  police suspect involvement in other offences.
+\end{itemize}
+
+\hypertarget{remand-after-conviction}{%
+\subsubsection{Remand After Conviction}\label{remand-after-conviction}}
+
+D may be remanded in custody prior to sentence for successive periods
+\textbf{\(\leq 3\) weeks}.
+
+\hypertarget{remands-after-case-sent-to-crown-court}{%
+\paragraph{Remands After Case Sent to Crown
+Court}\label{remands-after-case-sent-to-crown-court}}
+
+Remand in custody or bail until the case comes before the Crown Court.
+
+\hypertarget{right-to-bail}{%
+\subsection{Right to Bail}\label{right-to-bail}}
+
+s 4 Bail Act 1976, presumption of bail applies (subject to exceptions)
+to:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  All Ds prior to conviction
+\item
+  Ds convicted if their case has been adjourned for the court to obtain
+  pre-sentence reports
+\item
+  Ds appearing before court for a breach of community sentence.
+\end{enumerate}
+
+Does not apply to:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Ds committed to \textbf{Crown Court for sentence}
+\item
+  Ds appealing against conviction or sentence.
+\item
+  Ds charged of serious offences (s 25 CJPOA 1994), including murder,
+  attempted murder, manslaughter, rape, attempted rape, other sexual
+  offences.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    If D is charged with murder and makes an application for bail, s 115
+    CJA 2009 states that only a Crown Court judge may grant bail, within
+    48 hours.
+  \item
+    s 114(2) CJA 2009: bail may not be granted unless the court believes
+    there is no significant risk of D committing an offence likely to
+    cause physical or mental injury to anther.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{right-to-bail-exceptions}{%
+\subsection{Right to Bail: Exceptions}\label{right-to-bail-exceptions}}
+
+\hypertarget{no-real-prospect-of-custody}{%
+\subsubsection{No Real Prospect of
+Custody}\label{no-real-prospect-of-custody}}
+
+Where:
+
+\begin{itemize}
+\tightlist
+\item
+  D is \(\geq 18\) yo
+\item
+  D has not been convicted of an offence
+\item
+  It appears to the court that there is no real prospect of D being
+  sentenced to a custodial sentence, CPS will seek a remand on bail
+  (paras 2-7, Part 1, Sch 1, Bail Act 1976).
+\end{itemize}
+
+\hypertarget{indictable-only-and-either-way}{%
+\subsubsection{Indictable-only and Either
+Way}\label{indictable-only-and-either-way}}
+
+Most common grounds upon CPS will object to bail being granted is (para
+2(1)) where there are substantial grounds for believing D will:
+
+\begin{itemize}
+\tightlist
+\item
+  Fail to surrender to custody
+\item
+  Commit an offence while on bail
+\item
+  Interfere with a witness in the case
+\end{itemize}
+
+The court must take into account all relevant factors (para 9),
+including:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  The nature and seriousness of the offence (and the probable sentence D
+  will receive for it)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Relevant to prosecution argument that there are substantial grounds
+    for believing D will fail to surrender to custody if granted bail.
+  \item
+    D can argue that the offence is serious but D is pleading not guilty
+    and anxious to clear his name at trial.
+  \end{itemize}
+\item
+  The character, antecedents, associations and community ties of D
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Ds previous convictions
+  \item
+    D's solicitor can argue that these were not recent, so there are no
+    substantial grounds, or that D's circumstances have changed (e.g.,
+    no longer stealing to fuel drug addiction).
+  \item
+    If D is subject to a suspended sentence, bail less likely.
+  \item
+    If D is associated with a criminal gang/ has criminal connections,
+    bail less likely, since D could use these to leave the area.
+  \item
+    Might D attempt to interfere with a witness? Can appropriate
+    conditions mitigate this risk?
+  \item
+    Strength of community ties makes it less likely D will run away.
+  \end{itemize}
+\item
+  D's record in respect of previous grants of bail in criminal
+  proceedings
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Previous conviction for absconding?
+  \item
+    Or argue that D never broke bail during remands on bail for previous
+    offences.
+  \end{itemize}
+\item
+  Strength of evidence against D.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Argue the evidence is poor/ D has an innocent explanation.
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{summary-only-imprisonable-offences}{%
+\subsubsection{Summary Only Imprisonable
+Offences}\label{summary-only-imprisonable-offences}}
+
+Bail for these offences may be refused only on grounds of (s 52 \& Sch
+12 CIJA 2008):
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Failure to surrender (if D previously failed to surrender)
+\item
+  Commission of further offences (if instant offence was committed on
+  bail)
+\item
+  Fear of commission of offences likely to cause physical/ mental injury
+\item
+  D's own protection (or welfare if a youth)
+\item
+  D serving custody
+\item
+  Fear of interference of witnesses/ obstruction of witnesses, and
+\item
+  Lack of sufficient information.
+\end{enumerate}
+
+\hypertarget{non-imprisonable-offences}{%
+\subsubsection{Non-imprisonable
+Offences}\label{non-imprisonable-offences}}
+
+Under Sch 1, Pt II to the Bail Act 1976, the court may refuse bail to a
+defendant charged with a non-imprisonable offence only if:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  D previously failed to answer bail and court believes D would do this
+  again
+\item
+  D needs to be kept in custody for own welfare
+\item
+  D currently serving custodial sentence
+\item
+  D granted bail at an earlier hearing in the same proceedings, but
+  broke conditions/ failed to answer, and court believes D would do it
+  again/ commit offence/ interfere with witnesses/ obstruct the court of
+  justice.
+\end{enumerate}
+
+\hypertarget{conditional-bail}{%
+\subsection{Conditional Bail}\label{conditional-bail}}
+
+A court has the power to grant bail subject to conditions necessary to:
+
+\begin{itemize}
+\tightlist
+\item
+  Prevent D absconding
+\item
+  Prevent D committing a further offence
+\item
+  Prevent D from interfering with witnesses/ obstructing the course of
+  justice
+\item
+  Ensure D makes himself available to obtain medical/ other reports
+\item
+  Ensure D keeps appointments with solicitor
+\item
+  Ensure D's own protection
+\end{itemize}
+
+\hypertarget{sureties}{%
+\subsubsection{Sureties}\label{sureties}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Surety}
+\NormalTok{A person who enters a "recognisance" of money and is under an obligation to use every reasonable effort to ensure D attends court. }
+\end{Highlighting}
+\end{Shaded}
+
+Can be used to ensure D answers bail. If D fails to answer bail, the
+court must declare an immediate and automatic forfeiture of the
+recognisance. A court hearing will then determine whether some or all of
+the surety should be paid.
+
+The surety must give evidence of their financial resources, character,
+previous convictions and relationship.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{A solicitor should never stand surety for D. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{security}{%
+\subsubsection{Security}\label{security}}
+
+D required to deposit money/ goods with the court, which will be
+forfeited if bail is broken. Usually used for rich Ds.
+
+\hypertarget{reporting-to-police-station}{%
+\subsubsection{Reporting to Police
+Station}\label{reporting-to-police-station}}
+
+Court may order D to regularly report to the local police station (e.g.,
+once a day at a specific time).
+
+\hypertarget{residence}{%
+\subsubsection{Residence}\label{residence}}
+
+Court requires D to reside at a specified address. Police will check the
+condition by visiting the address late at night and early in the
+morning.
+
+The court may impose a condition of residence in a bail hostel run by
+the Probation Service, if D does not have a permanent address.
+
+D may be electronically monitored (``tagged'').
+
+\hypertarget{curfew}{%
+\subsubsection{Curfew}\label{curfew}}
+
+Police may visit the residence during curfew answers to check D is
+there. Usually coupled with tagging.
+
+\hypertarget{non-communication-with-prosecution-witnesses}{%
+\subsubsection{Non-communication with Prosecution
+Witnesses}\label{non-communication-with-prosecution-witnesses}}
+
+Used if the court is concerned D may try to intimidate a witness.
+
+\hypertarget{restriction-on-entering-specific-areas}{%
+\subsubsection{Restriction on Entering Specific
+Areas}\label{restriction-on-entering-specific-areas}}
+
+Used to prevent interference with prosecution witnesses/ prevent D
+committing further offences while on bail.
+
+\hypertarget{attending-appointments}{%
+\subsubsection{Attending Appointments}\label{attending-appointments}}
+
+Require D to keep in regular contact with solicitor and attend meetings.
+Or attend such meetings and appointments as are necessary for the
+preparation for a pre-sentence report/ medical report.
+
+\hypertarget{surrender-of-passport}{%
+\subsubsection{Surrender of Passport}\label{surrender-of-passport}}
+
+Only likely where D has substantial financial assets/ criminal contacts
+outside the UK.
+
+\hypertarget{bail-application-procedure}{%
+\subsection{Bail Application
+Procedure}\label{bail-application-procedure}}
+
+{[}{[}contested-bail-application.png{]}{]}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  CPS provides D's solicitor and court with all material information
+  (CrimPR, r 14.5(2)).
+\item
+  CPS states objection to bail and applies for D to be remanded in
+  custody, listing grounds and applying factors.
+\item
+  D's solicitor makes an application for bail. Replies to grounds and
+  applies factors. Ask for unconditional bail, but suggest appropriate
+  condition in the alternative.
+\item
+  Magistrates hear evidence from other people (e.g., D's prospective
+  employer)
+\item
+  Magistrate decides whether to remand D in custody or on bail.
+\end{enumerate}
+
+A court may later vary conditions on the application of the CPS/ D's
+solicitor. If magistrates grant unconditional bail, may subsequently
+impose conditions on such bail considered appropriate.
+
+\hypertarget{further-applications-for-bail}{%
+\subsection{Further Applications for
+Bail}\label{further-applications-for-bail}}
+
+If bail refused, magistrates are obliged to consider the question of
+bail at any subsequent hearing if D is still in custody and the
+presumption in favour of bail still applies.
+
+\begin{itemize}
+\tightlist
+\item
+  At the first hearing after the hearing at which the court refused to
+  grant bail, Ds solicitor may make a full application for bail.
+\item
+  At any subsequent hearing, the court need not hear arguments of fact
+  or law it has heard previously (Bail Act 1976, Sch 1, Pt IIA).
+\item
+  Magistrates will ignore a hearing at which bail was refused on the
+  grounds of insufficient information.
+\item
+  if D remanded in custody after hearing a fully argued bail
+  application, it will issue a ``full argument'' certificate.
+\end{itemize}
+
+\hypertarget{appealing-bail-decisions}{%
+\subsection{Appealing Bail Decisions}\label{appealing-bail-decisions}}
+
+\hypertarget{defendant-r-14.2-crimpr}{%
+\subsubsection{Defendant (r 14.2
+CrimPR)}\label{defendant-r-14.2-crimpr}}
+
+D may appeal to Crown Court provided the magistrates have issued the
+``full argument certificate''. Best to do this after the second appeal
+to the
+\href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+Court{]}}.
+
+To appeal:
+
+\begin{itemize}
+\tightlist
+\item
+  D's solicitors send the prescribed form to the Crown Court and
+  \href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+  Court{]}}
+\item
+  Serve this to CPS \(\geq 2\) business days before the hearing.
+\end{itemize}
+
+Appeal heard before a Crown Court judge in chambers Judge will need:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Notice of application form
+\item
+  Full argument certificate
+\item
+  Record of D's previous convictions.
+\end{enumerate}
+
+Send these prior to the appeal being heard. Judge will hear
+representations from the CPS and D's solicitor.
+
+\hypertarget{case-analysis}{%
+\section{Case Analysis}\label{case-analysis}}
+
+D's solicitor should ask:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  What are the legal elements of the offence charged?
+\item
+  What is the prosecution account of the case?
+\item
+  What is D's account of the case?
+\item
+  What are the facts in issue?
+\item
+  How is each party going to prove its version of the facts in issue?
+\item
+  Any further evidence required?
+\end{enumerate}
+
+\hypertarget{sentencing}{%
+\section{Sentencing}\label{sentencing}}
+
+\hypertarget{legislation}{%
+\subsection{Legislation}\label{legislation}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Sentencing Act 2020}.
+\item
+  This created the \textbf{Sentencing Code}.
+\item
+  Technical amendments made by \textbf{Sentencing (Pre-consolidation
+  Amendments) Act 2020}
+\item
+  All of the above just consolidated existing law
+\item
+  The Police, Crime, Sentencing and Courts Act 2022 will make changes to
+  sentencing.
+\end{itemize}
+
+\hypertarget{purpose}{%
+\subsection{Purpose}\label{purpose}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 57 SC {-} purposes of sentencing: adults}
+
+\NormalTok{(1) This section applies where—}
+\NormalTok{{-} (a) a court is dealing with an offender for an offence, and}
+\NormalTok{{-} (b) the offender is aged 18 or over.}
+
+\NormalTok{(2) The court must have regard to the following purposes of sentencing—}
+\NormalTok{{-} (a) the **punishment** of offenders,}
+\NormalTok{{-} (b) the **reduction of crime** (including its reduction by deterrence),}
+\NormalTok{{-} (c) the **reform and rehabilitation** of offenders,}
+\NormalTok{{-} (d) the **protection** of the public, and}
+\NormalTok{{-} (e) the making of **reparation** by offenders to persons affected by their offences.}
+
+\NormalTok{(3) Subsection (1) does not apply—}
+\NormalTok{{-} (a) to an offence in relation to which a mandatory sentence requirement applies (see section 399)}
+\end{Highlighting}
+\end{Shaded}
+
+The court's decision must be open:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 52 SC 2020}
+\NormalTok{(2) The court must state **in open court, in ordinary language** and in general terms, the court\textquotesingle{}s reasons for deciding on the sentence.}
+
+\NormalTok{(3) The court must **explain to the offender** in ordinary language—}
+\NormalTok{{-} (a) the effect of the sentence,}
+\NormalTok{{-} (b) the effects of non{-}compliance with any order that the offender is required to comply with and that forms part of the sentence,}
+\NormalTok{{-} (c) any power of the court to vary or review any order that forms part of the sentence, and}
+\NormalTok{{-} (d) the effects of failure to pay a fine, if the sentence consists of or includes a fine.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{types-of-sentence}{%
+\subsection{Types of Sentence}\label{types-of-sentence}}
+
+\begin{itemize}
+\tightlist
+\item
+  Custodial sentence
+\item
+  Community sentence
+\item
+  Fine
+\item
+  Discharge
+\end{itemize}
+
+These are referred to as the ``sentencing ladder''.
+
+{[}{[}sentencing-ladder.png{]}{]}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 204 SC 2020 {-} Exercise of power to impose community order: general considerations}
+
+\NormalTok{(1) This section applies where a community order is available.}
+
+\NormalTok{(2) The court must not make a community order unless it is of the opinion that—}
+\NormalTok{{-} (a) the offence, or}
+\NormalTok{{-} (b) the combination of the offence and one or more offences associated with it,}
+
+\NormalTok{was serious enough to warrant the making of such an order.}
+
+\NormalTok{(3) In forming its opinion for the purposes of subsection (2), the court must take into account all the information that is available to it about the circumstances of the offence, or of it and the associated offence or offences, including any aggravating or mitigating factors.}
+
+\NormalTok{(4) The pre{-}sentence report requirements (see section 30) apply to the court in relation to forming that opinion.}
+
+\NormalTok{(5) The fact that, by virtue of subsection (2), the court may make a community order does not require it to do so.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 230 SC 2020 {-} Threshold for imposing discretionary custodial sentence}
+\NormalTok{(1) Subsection (2) applies where a person is convicted of an offence which is punishable with a custodial sentence.}
+
+\NormalTok{This is subject to subsection (3).}
+
+\NormalTok{(2) The court must not pass a custodial sentence unless it is of the opinion that—}
+\NormalTok{{-} (a) the offence, or}
+\NormalTok{{-} (b) the combination of the offence and one or more offences associated with it,}
+
+\NormalTok{was so serious that neither a fine alone nor a community sentence can be justified for the offence.}
+
+\NormalTok{*Threshold generally not applicable where mandatory sentence requirement applies*.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{ancillary-orders}{%
+\subsubsection{Ancillary Orders}\label{ancillary-orders}}
+
+The court may impose ancillary orders on D, including
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Compensation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    D may be ordered to pay compensation to the victim of an offence for
+    any injury/ loss suffered (ss 133-146 SC 2020)
+  \item
+    Section 63A LASPO 2012 requires the court to consider making a
+    compensation order.
+  \item
+  \item
+  \end{itemize}
+\item
+  Prosecution costs
+\item
+  Victim surcharge
+\item
+  Defence costs
+
+  \begin{itemize}
+  \tightlist
+  \item
+    D with representation order in
+    \href{no\%20financial\%20limit.}{{[}Crown Court{]}} not required to
+    contribute towards costs of case.
+  \item
+    Crown Court means testing: D with a representation order in
+    \href{no\%20financial\%20limit.}{{[}Crown Court{]}} may be required
+    to contribute.
+  \end{itemize}
+\item
+  Forfeiture orders
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If property was used for committing/ facilitating offence, intended
+    for use in offence, or unlawfully in possession (s 153 SC 2020)
+  \item
+    Normally coupled with a destruction order.
+  \end{itemize}
+\item
+  Confiscation and restitution orders
+
+  \begin{itemize}
+  \tightlist
+  \item
+    e.g., confiscating drug-dealing profits.
+  \end{itemize}
+\item
+  Criminal behaviour orders
+
+  \begin{itemize}
+  \tightlist
+  \item
+    s 331 SC 2020:
+    \href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+    Court{]}} may make a CBO if:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      D has engaged in behaviour which caused/ is likely to cause
+      harassment, alarm or distress to any person
+    \item
+      the court considers that making the order will help in preventing
+      D.
+    \end{itemize}
+  \end{itemize}
+\item
+  Binding over
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Must be a breach of the peace involving violence/ imminent threat of
+    violence/ real risk of violence.
+  \item
+    Court requires D to enter into a ``recognisance'' - money forfeited
+    if terms of the order are broken.
+  \end{itemize}
+\item
+  Sex offenders
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Sexual Offences Act 2003: D can be added to sex offenders register
+    by the police if convicted of a specified offence.
+  \item
+    Court may make a sexual offences prevention order
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Prevents D contacting victims, having close contact with children
+      etc.
+    \end{itemize}
+  \end{itemize}
+\item
+  Serious crime prevention orders
+
+  \begin{itemize}
+  \tightlist
+  \item
+    s 1 Serious Crime Act 2007: order made if there are reasonable
+    grounds to believe the order would protect the public by preventing
+    D taking part in serious crime.
+  \item
+    Usually restricts D's financial/ business dealings/ communicating
+    with associates/ international travel.
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{sentencing-principles}{%
+\subsection{Sentencing Principles}\label{sentencing-principles}}
+
+CJA 2003 radically changed sentencing.
+
+\begin{itemize}
+\tightlist
+\item
+  Created the Sentencing Guidelines Council, now replaced with the
+  \textbf{Sentencing Council for England and Wales}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    14 members
+  \item
+    Prepare sentencing guidelines in relation to any sentencing matter
+  \item
+    Must have regard to current practice, need for consistency, impact
+    on victims, need to promote public confidence in the criminal
+    justice system etc.
+  \end{itemize}
+\item
+  Every court has a duty to follow relevant guidelines unless satisfied
+  that it would be contrary to the \textbf{interests of justice} to do
+  so.
+\end{itemize}
+
+\hypertarget{seriousness}{%
+\subsubsection{Seriousness}\label{seriousness}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 63 {-} Assessing seriousness}
+
+\NormalTok{Where a court is considering the seriousness of any offence, it must consider—}
+\NormalTok{{-} (a) the offender\textquotesingle{}s culpability in committing the offence, and}
+\NormalTok{{-} (b) any harm which the offence—}
+\NormalTok{    {-} (i) caused,}
+\NormalTok{    {-} (ii) was intended to cause, or}
+\NormalTok{    {-} (iii) might foreseeably have caused. }
+\end{Highlighting}
+\end{Shaded}
+
+General Guideline for sentencing offences not covered by a specific
+sentencing guideline, effective from 01/10/19.
+
+\hypertarget{general-guideline}{%
+\subsubsection{General Guideline}\label{general-guideline}}
+
+See the steps below
+
+\hypertarget{provisional-sentence}{%
+\paragraph{1: Provisional Sentence}\label{provisional-sentence}}
+
+Court should take into account:
+
+\begin{itemize}
+\tightlist
+\item
+  Statutory maximum/ minimum sentence
+\item
+  Sentencing judgments of the Court of Appeal (Criminal Division)
+\item
+  Definitive sentencing guidelines for analogous offences.
+\end{itemize}
+
+Seriousness assessed considering the culpability of the offender and the
+harm caused.
+
+Consider the 5 purposes of sentencing.
+
+\hypertarget{aggravating-and-mitigating-factors}{%
+\paragraph{2: Aggravating and Mitigating
+Factors}\label{aggravating-and-mitigating-factors}}
+
+Identify whether the overall adjustment is up or down. For the court to
+determine how much weight to assign to each of the factors.
+
+If FPN was available, the reason why the offender did not take advantage
+of the fixed penalty is a relevant consideration.
+
+Consider both statutory and other aggravating factors, then factors
+reducing seriousness and personal mitigation.
+
+\hypertarget{reduction-for-assisting-prosecution}{%
+\paragraph{3: Reduction for Assisting
+Prosecution?}\label{reduction-for-assisting-prosecution}}
+
+Any discounted sentence in consequence of assistance given/ offered to
+the prosecutor (N.B. rare -- there is no formal system of plea
+bargaining in the UK).
+
+\hypertarget{reduction-for-guilty-pleas}{%
+\paragraph{4: Reduction for Guilty
+Pleas}\label{reduction-for-guilty-pleas}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 73 SC 2020}
+
+\NormalTok{(1) This section applies where a court is determining what sentence to pass on an offender who has pleaded guilty to an offence in proceedings before that or another court.}
+
+\NormalTok{(2) The court must take into account the following matters—}
+\NormalTok{{-} (a) the **stage in the proceedings** for the offence at which the offender indicated the intention to plead guilty, and}
+\NormalTok{{-} (b) the **circumstances** in which the indication was given.}
+\end{Highlighting}
+\end{Shaded}
+
+The Reduction in Sentence for a Guilty Plea Definitive Guideline applies
+to all adult Ds and to both the
+\href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+Court{]}} and \href{no\%20financial\%20limit.}{{[}Crown Court{]}}.
+
+\(\frac{1}{3}\) discount on sentence available:
+
+\begin{itemize}
+\tightlist
+\item
+  on a guilty plea in the magistrates' court;
+\item
+  on a guilty plea and committal for sentence;
+\item
+  on indication of a guilty plea to an indictable-only offence, followed
+  by a guilty plea at first hearing in the Crown Court.
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Committal}
+\NormalTok{A committal for sentence happens when magistrates have found someone guilty of a crime but they think their sentencing powers are not enough. The magistrates transfer the case to the Crown Court where a higher sentence can be imposed.}
+\end{Highlighting}
+\end{Shaded}
+
+\(\frac{1}{4}\) discount available at the plea and trial preparation
+hearing stage (PTPH).
+
+The guideline focuses on when a guilty plea is indicated, not when
+entered. ``First part of proceedings'' means when D is first asked when
+he intends to plead guilty at the
+\href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+Court{]}} ({[}{[}R v Hodgin {[}2020{]} EWCA Crim 1388{]}{]}).
+
+Any indication of a guilty plea must be \textbf{unequivocal}.
+
+Other factors (e.g., assisting police) should be taken into account as
+separate mitigating factors, not formally as the credit given for a
+guilty plea.
+
+\hypertarget{dangerousness}{%
+\paragraph{5: Dangerousness}\label{dangerousness}}
+
+If the offence is listed in Sch 15 and/or Sch 15B CJA 2003, the court
+should consider whether it would be appropriate to impose a life
+sentence or extended sentence.
+
+\hypertarget{offenders-of-concern}{%
+\paragraph{6: Offenders of Concern}\label{offenders-of-concern}}
+
+Add a year in some cases.
+
+\hypertarget{totality-principle}{%
+\paragraph{7: Totality Principle}\label{totality-principle}}
+
+If D sentenced for \(>1\) offence/ already serving a sentence, consider
+whether the total sentence is just and proportionate to the overall
+offending behaviour.
+
+D sentenced for a particular offence may ask the court to take other
+offences into consideration (TIC) when considering the sentence to be
+imposed.
+
+\begin{itemize}
+\tightlist
+\item
+  Often the additional offences will add nothing/ v little to the
+  sentence
+\item
+  D wipes the slate clean and cannot subsequently be prosecuted for the
+  other offences.
+\item
+  Police improve clear-up rates.
+\end{itemize}
+
+Generally, a court should not impose both a fine and a custodial
+sentence. But this is OK if the sentence is a suspended custodial
+sentence ({[}{[}R v Channer {[}2021{]} EWCA Crim 696{]}{]}).
+
+\hypertarget{consider-whether-to-make-compensation-ancillary-orders}{%
+\paragraph{8: Consider Whether to Make compensation/ Ancillary
+Orders}\label{consider-whether-to-make-compensation-ancillary-orders}}
+
+See above.
+
+\hypertarget{reasons}{%
+\paragraph{9: Reasons}\label{reasons}}
+
+Give reasons and explain the effect of the sentence.
+
+\hypertarget{consideration-for-time-on-bail}{%
+\paragraph{10. Consideration for Time on
+Bail}\label{consideration-for-time-on-bail}}
+
+s 240A CJA 2003 -- used to be the case that tagged bail could count
+towards time served.
+
+\hypertarget{pre-sentence-reports}{%
+\subsection{Pre-sentence Reports}\label{pre-sentence-reports}}
+
+\hypertarget{from-probation-service}{%
+\subsubsection{From Probation Service}\label{from-probation-service}}
+
+s 31(1) SC 2020: pre-sentence report from probation service prepared
+with a view to assisting the court in determining the most suitable
+method of dealing with an offender.
+
+Standard format of report. Report includes:
+
+\begin{itemize}
+\tightlist
+\item
+  Character references
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If D is of good character, can someone in a position of respect in
+    the community provide a character reference?
+  \end{itemize}
+\item
+  Medical reports
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Solicitor should discuss report with D and ensure accuracy.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{sentencing-procedure}{%
+\subsection{Sentencing Procedure}\label{sentencing-procedure}}
+
+\hypertarget{magistrates-court}{%
+\subsubsection{Magistrates' Court}\label{magistrates-court}}
+
+{[}{[}sentencing-procedure.png{]}{]}
+
+\begin{itemize}
+\tightlist
+\item
+  D enters guilty plea or is convicted following trial
+\item
+  Court supplied with details of any offences D wishes to have taken
+  into consideration.
+\item
+  Prosecuting solicitor supplies the court with a list of D's previous
+  convictions.
+\item
+  Prosecuting solicitor ask for any ancillary orders.
+\item
+  D's solicitor addresses magistrates. May ask for adjournment (to get
+  reports)
+\item
+  If case not adjourned,
+
+  \begin{itemize}
+  \tightlist
+  \item
+    D's solicitor gives a plea in mitigation. May call character
+    witnesses
+  \item
+    Magistrates sentence D
+  \end{itemize}
+\item
+  If case adjourned
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Usually adjourned for 3-4 weeks.
+  \item
+    D released in bail/ remanded in custody
+  \item
+    Presumption of granting bail.
+  \item
+    When the case comes back, likely to be dealt with by a different
+    bench of magistrates.
+  \item
+    Plea in mitigation and sentencing.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{crown-court}{%
+\subsubsection{Crown Court}\label{crown-court}}
+
+Pretty much the same as above
+
+Usually if a judge adjourns a case for preparation of reports, they will
+reserve the case to themselves to ensure they sentence D.
+
+Again there is a presumption of bail.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{D must be told the reasons for and effect of the sentence imposed (s 52(1) SC 2020)}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{conduct-1}{%
+\subsection{Conduct}\label{conduct-1}}
+
+D's solicitor should never be asked by the court to confirm the accuracy
+of the list of D's previous convictions.
+
+\begin{itemize}
+\tightlist
+\item
+  Duty not to deceive the court
+\item
+  Duty of confidentiality.
+\end{itemize}
+
+Good practice is to obtain details of previous convictions from the CPS
+in advance of the sentencing hearing.
+
+If client insists on pretending the list is accurate, solicitor must
+cease to act.
+
+\hypertarget{plea-in-mitigation}{%
+\section{Plea in Mitigation}\label{plea-in-mitigation}}
+
+\emph{Considered in relation to
+\href{maximum\%20compensation\%20of\%20£5,000\%20per\%20offence}{{[}Magistrates'
+Court{]}}}.
+
+Structured in 4 parts:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  The likely sentence
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Identify what the starting point sentence is likely to be.
+  \item
+    Objective: to persuade magistrates to impose a lower sentence.
+  \end{itemize}
+\item
+  The offence
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Talk down aggravating factors and talk up mitigating factors.
+  \end{itemize}
+\item
+  The offender (sob story)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    D's age
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Young/ old = sympathy
+    \end{itemize}
+  \item
+    D's health
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Unwise to suggest that offence was committed under drugs/ alcohol
+      in sentencing, since this is usually an aggravating factor
+    \item
+      But if D is an addict/ alcoholic, can suggest a sentence designed
+      to help D overcome the addiction (rehabilitation requirement).
+    \item
+      Long-term illness = sympathy.
+    \end{itemize}
+  \item
+    Cooperation with police/ early guilty plea
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Remind the court of guilty plea.
+    \item
+      Prompt confession is useful mitigation.
+    \end{itemize}
+  \item
+    Voluntary compensation
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Voluntary compensation to victim looked on favourably, especially
+      if D is poor.
+    \end{itemize}
+  \item
+    Remorse
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Evidence of true remorse is mitigation.
+    \item
+      e.g., D starts to attend Alcoholics Anonymous classes after a
+      drunken incident.
+    \end{itemize}
+  \item
+    Character
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Previous convictions may be viewed as aggravating (s 65 SC 2020),
+      if recent/ similar type of offence.
+    \item
+      Attempt to distinguish the previous convictions.
+    \item
+      No previous convictions taken into account positively.
+    \end{itemize}
+  \item
+    Family circumstances
+
+    \begin{itemize}
+    \tightlist
+    \item
+      If there is a pregnant partner/ child with disability, the court
+      may be swayed.
+    \item
+      Tell the court if D will lose his job upon a custodial sentence
+    \item
+      Talk about troubled family background.
+    \end{itemize}
+  \item
+    Consequences of conviction
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Other adverse consequences suffered by D (loss of job/ reputation)
+    \end{itemize}
+  \item
+    Low risk of reoffending
+  \end{itemize}
+\item
+  The suggested sentence.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Should be lower than likely sentence but realistic.
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{sentencing-aims}{%
+\subsection{Sentencing Aims}\label{sentencing-aims}}
+
+s 142 CJA 2003
+
+\begin{itemize}
+\tightlist
+\item
+  Punishment
+\item
+  Reduction of crime
+\item
+  Reform and rehabilitation
+\item
+  Protection of public
+\item
+  Reparation.
+\end{itemize}
+
+\hypertarget{aggravating-factors}{%
+\subsection{Aggravating Factors}\label{aggravating-factors}}
+
+\begin{itemize}
+\tightlist
+\item
+  Associated offences
+\item
+  Previous convictions
+\item
+  Offences committed on bail
+\item
+  Hostility towards certain groups/ victims.
+\end{itemize}
+
+\hypertarget{mitigating-factors}{%
+\subsection{Mitigating Factors}\label{mitigating-factors}}
+
+\begin{itemize}
+\tightlist
+\item
+  Timely guilty plea (s 144 CJA 2003)
+\item
+  MCS Guidelines provide aggravating and mitigating factors.
+\end{itemize}
+
+\hypertarget{structure}{%
+\subsection{Structure}\label{structure}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Objective
+
+  \begin{itemize}
+  \tightlist
+  \item
+    What type of sentence are you trying to persuade the court to
+    impose?
+  \end{itemize}
+\item
+  Offence mitigation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Not exhaustive
+  \end{itemize}
+\item
+  Offender mitigation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Personal to the offender
+  \item
+    Reference to offender's age, offence history, cooperation with
+    police, remorse
+  \end{itemize}
+\item
+  Recommendation.
+\end{enumerate}
+
+\end{document}

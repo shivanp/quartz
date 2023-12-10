@@ -1,0 +1,18 @@
+---
+aliases: 
+tags: 
+date created: Sunday, December 10th 2023, 12:02:19 am
+date modified: Sunday, December 10th 2023, 12:41:26 am
+---
+
+# Scott v Frank F Scott (London) Ltd [1940] Ch 794 (Court of Appeal)
+
+A company, Frank F. Scott (London), Ltd., was incorporated on October 12, 1926, as a private company, and its incorporation was effected under the Companies Acts, 1908 to 1917. It had a share capital of 10,500_l._, divided in 10,200 preference shares of 1_l._ each and 300 ordinary shares of 1_l._ each. The company was formed to take over a business of shipping butchers carried on in [[Business Law and Practice/Company Law/Business models/Partnership]] in London by three brothers, Stuart Arthur Scott, Reginald Scott, and Frank Stanley Scott. Frank Stanley Scott and Reginald Scott were also interested in a similar kind of business carried on in Liverpool, where they were in business, the business which the defendant company was formed to carry on having been previously managed by the defendant, Stuart Arthur Scott. The company adopted as its articles of association.
+
+Table A in the First Schedule to the Companies (Consolidation) Act, 1908, with certain modifications, included in which was the exclusion of clause 22, and the whole of the share capital was issued to the three brothers in equal shares.
+
+The control of the company was in the hands of the ordinary shareholders, the preference shareholders only having a right of voting at a general meeting upon such questions as reduction of capital, winding up of the company, sanctioning a sale of the undertaking or altering the regulations of the company to affect directly the rights of the preference shareholders.
+
+Frank Stanley Scott died on September 10, 1937, and his widow, who was the sole executrix of his will, became entitled thereunder to all his preference and ordinary shares in the company. No question arose in regard to the preference shares, but she claimed the right to be placed on the register of members in respect of his ordinary shares. The two surviving brothers, however, claimed that under the articles of association, she was bound to offer to them her testator's ordinary shares and that they had the right to acquire them at par. She therefore commenced an action against the company and the two surviving brothers, in which she sought a declaration that she was entitled to have her name entered on the register of members of the company as the holder of 100 ordinary shares. The defendants in their counter-claim sought a declaration that, upon the true construction of the articles of association, the two brothers had the right to acquire from the plaintiff these 100 ordinary shares at par and, if the construction they asked the Court to put on the articles of association should not be the correct construction, then they sought rectification of the articles to give them the right to acquire these shares from the plaintiff at par.
+
+Bennett J. held on the construction of the articles that the plaintiff was not entitled to the declaration which she sought, and that her action therefore failed. With regard to the counter-claim, he held that the two surviving brothers were, on the construction of the articles, entitled to a declaration that they had the right to acquire the 100 ordinary shares at par. He also dealt with the question of the jurisdiction of the Court to rectify the articles of association, holding that the Court had no jurisdiction to rectify the articles, even though the articles did not accord with the proved intention of the three brothers, who were the signatories, that the ordinary shares held by a deceased member should be offered at par to the principal shareholders.

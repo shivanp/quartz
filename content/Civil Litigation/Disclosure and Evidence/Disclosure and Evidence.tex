@@ -1,0 +1,2064 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\newenvironment{Shaded}{}{}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+
+\newenvironment{env-fcd05045-2eb9-4913-b109-29aa5e063d26}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{firebrick}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-53e3d40e-bc0b-4f55-ba5f-2e42991624b9}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-ecea72d1-b2d8-4952-85da-781b51b1533c}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{green}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-26555bb8-d069-45ef-b3a3-8e492883394a}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{aquamarine}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-817ab9c8-fb35-4c4c-b1c7-f6cc6de92aba}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{orange}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-fd92e085-8616-4c5c-bd88-56b32eb36f07}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-5a1fd747-284e-416d-b173-f842009c1446}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{yellow}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-786d221a-5478-47e2-bb92-b1688e788dbd}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darkred}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-f5f9ac91-58c6-4033-888c-e152bc6e6b7d}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{pink}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-e5502e42-d510-4977-a3a8-1d6f742bc56f}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-41422090-83ce-4d27-9db8-e15dd115cb09}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-b9972123-c9b0-40c8-b59b-c62e9e0ad55f}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{purple}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-21bd2e0e-78cb-45f7-bcea-5f48fd4bdf2b}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darksalmon}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-0d56e1dd-67be-4e3e-b260-d9adb37a9412}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gray}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\hypertarget{disclosure-and-inspection}{%
+\section{Disclosure and Inspection}\label{disclosure-and-inspection}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{min\_depth: 1}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{purpose}{%
+\subsection{Purpose}\label{purpose}}
+
+Litigation cannot do real justice unless the court does not have all the
+relevant information. Pre-action protocols require parties to share
+information, but no general obligation to show the contents of
+documents. The only way to compel disclosure of a document is by court
+order. Disclosure and inspection enables parties to better evaluate the
+strength of the opponent's case before trial. Intended to promote
+settlements. But inspection is subject to restrictions.
+
+The idea behind these steps is that each party should know, prior to
+trial, the evidence that the other side intends to rely on--whether it
+be documents, the recollection of a witness or the opinion of an expert.
+This permits each party to prepare its case in full knowledge of the
+evidence and avoids what is sometimes known as `trial by ambush', where
+a party produces important new evidence for the first time at trial.
+
+Statute: Part 31 CPR 1998. Applies to all claims except Small Claims
+Track claims.
+
+\hypertarget{definitions}{%
+\subsection{Definitions}\label{definitions}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Disclosure}
+\NormalTok{A party discloses a document by stating that the document exists or has existed (r 31.2).}
+\end{Highlighting}
+\end{Shaded}
+
+Can be done by serving a list of documents on every other party.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Documents}
+\NormalTok{Anything in which information of any description is recorded (r 31.4)}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{disclosure-on-each-track}{%
+\subsection{Disclosure on Each Track}\label{disclosure-on-each-track}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.0833}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.9167}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Track
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Disclosure
+\end{minipage} \\
+\midrule()
+\endhead
+Small claims & Part 31 provisions do not apply. Parties must 14 days
+before hearing, file and serve copies of all documents they intend to
+rely on. \\
+Fast track & Norm is standard disclosure \\
+Multi-track & Norm is standard disclosure. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{disclosure-report}{%
+\subsubsection{Disclosure Report}\label{disclosure-report}}
+
+r 31.5(3): parties must file and serve a disclosure report \(\geq 14\)
+days before first case management conference. Report should be in form
+N263 and:
+
+\begin{itemize}
+\tightlist
+\item
+  Describe of what documents exist or may exist which are or may be
+  relevant to the matter
+\item
+  Describe where and with whom located
+\item
+  Describe how electronic documents stored
+\item
+  Estimate costs involved in giving standard disclosure
+\item
+  State disclosure directions sought
+\item
+  Verify with statement of truth.
+\end{itemize}
+
+\hypertarget{overriding-objective}{%
+\subsubsection{Overriding Objective}\label{overriding-objective}}
+
+Parties must \(\geq 7\) days before first case management conference
+agree a proposal in relation to disclosure that meets the overriding
+objective.
+
+\hypertarget{possible-disclosure-directions}{%
+\subsubsection{Possible Disclosure
+Directions}\label{possible-disclosure-directions}}
+
+r 31.5(7): these include
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Order dispensing with disclosure
+\item
+  Order that party disclose documents on which they rely
+\item
+  Order that directs disclosure to be given by each party, issue by
+  issue
+\item
+  Order that each party disclosure documents which might reasonably
+  contain information useful/ damaging to that party
+\item
+  Order for standard disclosure
+\item
+  Any other appropriate order.
+\end{enumerate}
+
+r 31.5(8): the court may specify searches to be carried out, formats for
+documents, and other practical measures.
+
+\hypertarget{standard-disclosure}{%
+\subsection{Standard Disclosure}\label{standard-disclosure}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 31.6}
+\NormalTok{Standard disclosure requires a party to disclose only–}
+\NormalTok{{-} (a) the documents on which he relies; and}
+\NormalTok{{-} (b) the documents which –}
+\NormalTok{    {-} (i) adversely affect his own case;}
+\NormalTok{    {-} (ii) adversely affect another party’s case; or}
+\NormalTok{    {-} (iii) support another party’s case; and}
+\NormalTok{{-} (c) the documents which he is required to disclose by a relevant practice direction.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{issues-in-dispute}{%
+\subsubsection{Issues in Dispute}\label{issues-in-dispute}}
+
+What is the `case'? See statements of case! No need to disclose
+documents relating to issues which are in agreement. In most cases,
+liability and quantum will be in dispute. But documents concerning costs
+should also be included as part of standard disclosure.
+
+Only need to search for documents which affect the case to a material
+extent.
+
+No need to disclose documents which only call into question the
+reliability of a party/ their witnesses.
+
+\hypertarget{control-of-documents}{%
+\subsubsection{Control of Documents}\label{control-of-documents}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 31.8}
+\NormalTok{(1) A party’s duty to disclose documents is limited to documents which are or have been in his control.}
+
+\NormalTok{(2) For this purpose a party has or has had a document in his control if –}
+\NormalTok{{-} (a) it is or was in his physical possession;}
+\NormalTok{{-} (b) he has or has had a right to possession of it; or}
+\NormalTok{{-} (c) he has or has had a right to inspect or take copies of it.}
+\end{Highlighting}
+\end{Shaded}
+
+It is open to parties to agree in writing to dispense with/ limit
+standard disclosure, though this is not common.
+
+\hypertarget{disclosure-of-copies}{%
+\subsection{Disclosure of Copies}\label{disclosure-of-copies}}
+
+Just disclose a single copy of a document, unless there are any
+modifications (e.g., handwritten notes).
+
+\hypertarget{duty-to-search-r-31.7}{%
+\subsection{Duty to Search (r 31.7)}\label{duty-to-search-r-31.7}}
+
+\hypertarget{reasonable-search}{%
+\subsubsection{Reasonable Search}\label{reasonable-search}}
+
+A party must make a reasonable search for all documents that could
+adversely affect their own/ another party's case. Reasonableness depends
+on:
+
+\begin{itemize}
+\tightlist
+\item
+  Number of documents involved
+\item
+  Nature and complexity of case
+\item
+  Ease and expense of retrieval
+\item
+  Significance of document.
+\end{itemize}
+
+\hypertarget{electronic-documents}{%
+\subsubsection{Electronic Documents}\label{electronic-documents}}
+
+\textbf{PD 31B} sets out provisions. General principles:
+
+\begin{itemize}
+\tightlist
+\item
+  Manage efficiently
+\item
+  Use technology
+\item
+  Generally provide in a format providing the other party the same
+  ability to access/ search/ review documents.
+\item
+  Don't disclose irrelevant documents.
+\end{itemize}
+
+Parties will agree categories of documents, preservation, keywords,
+exchange of data etc. There is an optional Electronic Disclosure
+Questionnaire.
+
+\hypertarget{limits}{%
+\subsubsection{Limits}\label{limits}}
+
+If a party has limited their search, the limits must be disclosed in the
+disclosure statement.
+
+\hypertarget{right-of-inspection}{%
+\subsection{Right of Inspection}\label{right-of-inspection}}
+
+\textbf{Rule 31.3(1)} gives a party a right of inspection of a disclosed
+document, except where:
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \tightlist
+  \item
+    the document is no longer in the control of the party who disclosed
+    it (see 11.4);
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{1}
+  \tightlist
+  \item
+    the party disclosing the document has a right or a duty to withhold
+    inspection of it; or
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{2}
+  \tightlist
+  \item
+    a party considers it would be disproportionate to the issues in the
+    case to permit inspection of documents within a category and states
+    in their disclosure statement that inspection of those documents
+    will not be permitted on the grounds that to do so would be
+    disproportionate.
+  \end{enumerate}
+\end{itemize}
+
+\hypertarget{procedure}{%
+\subsubsection{Procedure}\label{procedure}}
+
+\textbf{r 31.15}: where a party has a right to inspect a document, that
+party wishing to inspect must\\
+give written notice of their wish to inspect, and the party who
+disclosed the document must\\
+permit inspection not more than seven days after the date on which they
+received the notice. Can also request to inspect a copy (and offer to
+pay reasonable copying costs).
+
+\hypertarget{standard-disclosure-procedure}{%
+\subsection{Standard Disclosure
+Procedure}\label{standard-disclosure-procedure}}
+
+Each party must make and serve a list of documents using
+\textbf{Practice Form N264}. This must identify documents in a
+convenient order and manner as concisely as possible. \textbf{PD 31A
+para 3}: normally necessary to list documents in date order, numbering
+consecutively and giving each a brief description.
+
+List is in 3 parts on the final page:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Documents in the party's control which they are happy for the other
+  side to inspect
+\item
+  Documents of which the other party has control but where the party
+  objects to inspection (usually because of privilege)
+\item
+  Documents not privileged but no longer in party's control, along with
+  an explanation of what happened to them.
+\end{enumerate}
+
+\hypertarget{disclosure-statement}{%
+\subsection{Disclosure Statement}\label{disclosure-statement}}
+
+\hypertarget{individual-must-sign}{%
+\subsubsection{Individual Must Sign}\label{individual-must-sign}}
+
+A party is under an obligation to disclose documents that might
+adversely affect their own case or support another party's case. It is
+essential that parties comply fully and honestly with the requirements
+of disclosure.
+
+Parties must produce a disclosure statement (r 31.10(5)):
+
+\begin{itemize}
+\tightlist
+\item
+  Setting out the extent of the search that has been made to locate
+  documents
+\item
+  Certifying that they understand the duty to disclose documents
+\item
+  Certifying that to the best of their knowledge, they have carried out
+  that duty.
+\end{itemize}
+
+By \textbf{r 31.10(9)}, a disclosure statement may be made by a person
+who is not a party only where this is permitted by a relevant Practice
+Direction.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{The only provision in PD 31A is at para 4.7, which provides that ‘an insurer or the Motor Insurers’ Bureau may sign a disclosure statement on behalf of a party where the insurer or the Motor Insurers’ Bureau has a financial interest in the result of proceedings brought wholly or partially by or against that party’.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{contempt-of-court}{%
+\subsubsection{Contempt of Court}\label{contempt-of-court}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Proceedings for contempt of court may be brought against a person if they make, or cause to be made, a false disclosure statement without an honest belief in its truth.}
+\end{Highlighting}
+\end{Shaded}
+
+The proceedings require the permission of the court, unless they are
+brought by the Attorney-General.
+
+\hypertarget{solicitors-duties}{%
+\subsubsection{Solicitors' Duties}\label{solicitors-duties}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Practice Direction 31A, para 4.4}
+\NormalTok{If the disclosing party has a legal representative acting for them, the legal representative must endeavour to ensure that the person making the disclosure statement understands the duty of disclosure.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{continuing-obligation-r-31.11}{%
+\subsection{Continuing Obligation (r
+31.11)}\label{continuing-obligation-r-31.11}}
+
+Disclosure is an obligation that continues until the proceedings are
+concluded. If documents to which the duty of disclosure extends come to
+a party's notice at any time during the proceedings, even though the
+party has already supplied a list of documents, they must immediately
+notify every other party.
+
+If a document is found after a party's list of documents has been
+served, and it satisfies the test in \textbf{r 31.6}, notice should be
+given by way of letter or a supplemental list. If the party wishes to
+rely on the document at trial, either the opponent will have to agree or
+a successful application made to the court for permission to do so. Even
+if permission is given, the opponent may still argue at trial that
+little weight should be attached to the evidence.
+
+\hypertarget{withholding-inspection}{%
+\subsection{Withholding Inspection}\label{withholding-inspection}}
+
+A party can withhold the right to inspect a document that has been
+disclosed. Usually, a party claims the documents are privileged from
+inspection.
+
+3 classes of privileged documents:
+
+\begin{itemize}
+\tightlist
+\item
+  Documents protected by legal professional privilege
+\item
+  Documents tending to incriminate the party producing them
+\item
+  Documents privileged on the grounds of public policy.
+\end{itemize}
+
+\hypertarget{legal-professional-privilege}{%
+\subsubsection{Legal Professional
+Privilege}\label{legal-professional-privilege}}
+
+\hypertarget{advice-privilege}{%
+\paragraph{Advice Privilege}\label{advice-privilege}}
+
+Communication passing between a party and their legal advisor, or
+between legal advisors.
+
+Letters and other communications passing between a party and their
+solicitor are privileged from inspection, provided they are written by
+or to the solicitor in their professional capacity and for the
+\textbf{sole or dominant purpose} of obtaining legal advice or
+assistance for the client (``dominant purpose test'').
+
+``Legal advice'' includes information passed between solicitor and
+client, so advice may be sought and given.
+
+But this is not a blanket exemption for all solicitor-client
+communication; it applies only to information passed between the client
+and a solicitor acting in the capacity of solicitor. Documents sent to
+or from an independent third party are not covered by this privilege;
+`copying in' a solicitor will not mean the information can be withheld.
+If the communication is made for the purpose of committing a fraud or
+crime, it will not attract privilege ({[}{[}R v Cox and Railton
+(1884){]}{]}).
+
+The privilege extends to
+
+\begin{itemize}
+\tightlist
+\item
+  Communications between a party and their solicitor's employee/ agent,
+\item
+  Communications between a party and a solicitor in their service.
+\item
+  Communications from a solicitor to a third party containing
+  information provided by the client to the solicitor which is covered
+  by legal advice privilege and which the client has given the lawyer
+  authority to disclose.
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Purpose}
+\NormalTok{To allow free access to the legal profession. }
+\end{Highlighting}
+\end{Shaded}
+
+But the privilege does not extend to an accountant who provides legal
+advice ({[}{[}R (on the application of Prudential Plc) v Special
+Commissioner of Income Tax {[}2013{]} UKSC 1{]}{]}).
+
+\hypertarget{solicitor-tp-litigation-privilege}{%
+\paragraph{Solicitor-TP Litigation
+Privilege}\label{solicitor-tp-litigation-privilege}}
+
+Communications passing between the solicitor and a third party are
+privileged from\\
+inspection only if:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  They come into existence after litigation is contemplated or
+  commenced; and
+\item
+  They are made with a view to the litigation, either for the
+  \textbf{sole or dominant purpose} of obtaining or giving advice in
+  regard to it, or for obtaining evidence to be used in it.
+\end{enumerate}
+
+This includes, for example, an AEI policy.
+
+\hypertarget{client-tp-litigation-privilege}{%
+\paragraph{Client-TP Litigation
+Privilege}\label{client-tp-litigation-privilege}}
+
+Documents that have passed between the client and a third party are
+privileged if the \textbf{sole or dominant purpose} for which they were
+produced was to obtain legal advice in respect of existing or
+contemplated litigation, or to conduct, or aid in the conduct of, such
+litigation, usually to have as evidence.
+
+The burden is on the party claiming privilege to establish that the
+dominant purpose, at the time the document came into existence, was
+litigation. An expert report commissioned by the client and later used
+for litigation is not good enough.
+
+Where the claimant is not an individual, the privilege applies to
+communications between individuals within an organisation, where the
+dominant purpose of communications was in obtaining legal advice in
+respect of existing or contemplated litigation.
+
+MERMAID1
+
+\hypertarget{purpose-of-privilege}{%
+\paragraph{Purpose of Privilege}\label{purpose-of-privilege}}
+
+Safeguards Art 8 ECHR right to respect for private life. A client should
+be able to consult their lawyer in confidence.
+
+\hypertarget{waiver-of-privilege}{%
+\paragraph{Waiver of Privilege}\label{waiver-of-privilege}}
+
+The client may waive legal privilege. Once a copy of the privileged
+document is served on the other side, privilege is waived. This is
+standard for witness statements and expert reports which each party
+intends to rely on at trial.
+
+\hypertarget{incriminating-documents}{%
+\subsubsection{Incriminating Documents}\label{incriminating-documents}}
+
+A party is entitled to claim privilege for documents that will tend to
+incriminate either\\
+themselves, their spouse or civil partner. This rule applies to criminal
+liability or penal\\
+proceedings under the law of any part of the UK.
+
+\hypertarget{public-policy-privilege}{%
+\subsubsection{Public Policy Privilege}\label{public-policy-privilege}}
+
+If producing a copy of a document would be injurious to the public
+interest, it may be withheld on the ground of public policy. The judge
+has to consider whether the withholding of the documents is necessary
+for the proper functioning of the public service.
+
+\hypertarget{challenging-privilege-r-31.19}{%
+\subsubsection{Challenging Privilege (r
+31.19)}\label{challenging-privilege-r-31.19}}
+
+A party who wishes to challenge their opponent's claim to privilege can
+apply for the court to decide whether the claim to privilege should be
+upheld. The court may require the party claiming privilege to produce
+the document to court.
+
+\hypertarget{inadvertent-disclosure}{%
+\subsubsection{Inadvertent Disclosure}\label{inadvertent-disclosure}}
+
+\hypertarget{obvious-mistake}{%
+\paragraph{Obvious Mistake}\label{obvious-mistake}}
+
+\begin{itemize}
+\tightlist
+\item
+  If privileged documents are mistakenly listed in part 1 rather than
+  part 2 of a party's list, no harm done if the error is before
+  inspection.
+\item
+  If inspection of privileged material is allowed inadvertently
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If it is obvious to the solicitor receiving the privileged document
+    that a mistake has been made, the solicitor should return the
+    document.
+  \item
+    If not obvious that a mistake had been made
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Receiving party may use the document in litigation
+    \item
+      But disclosing party might obtain an injunction if it can persuade
+      the court that the reasonable solicitor would have found it
+      obvious that disclosure was a mistake.
+    \item
+      Court may also order that the receiving party's solicitors can no
+      longer act in the litigation.
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{If you\textquotesingle{}re unsure of if a document is privileged, best practice to point it out to the other side when reliance is placed during litigation.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{without-prejudice-correspondence}{%
+\subsubsection{Without Prejudice
+Correspondence}\label{without-prejudice-correspondence}}
+
+Records information as part of a party's attempt to settle a case. So if
+it meets the r 31.6 test, should be disclosed and no privilege from
+inspection claimed. It does not matter that this such correspondence is
+not admissible at trial.
+
+Note that in multi-party correspondence, a document could be privileged
+w.r.t \(D_1\) but not privileged w.r.t \(D_2\).
+
+\hypertarget{disclosure-list}{%
+\subsection{Disclosure List}\label{disclosure-list}}
+
+\hypertarget{part-1}{%
+\subsubsection{Part 1}\label{part-1}}
+
+In Part 1 of the list of documents (documents in the party's control
+which they do not mind being inspected), the actual documents are
+identified so that the other parties can decide whether or not they wish
+to inspect them. Permissible to redact irrelevant parts of an entry -
+make it clear on the list that a redacted version will be available.
+
+\hypertarget{part-2}{%
+\subsubsection{Part 2}\label{part-2}}
+
+The party should disclose the type of documents for which they are
+claiming privilege from inspection, e.g., ``various expert reports''.
+The objections to inspection must then be stated.
+
+When claiming legal professional privilege (the most common ground),
+include details of when and why the document was created.
+
+\hypertarget{part-3}{%
+\subsubsection{Part 3}\label{part-3}}
+
+Actual non-privileged documents the party once had, but are no longer in
+the party's control. Often comprises of original letters, the copies of
+which have been detailed in the first part of the list.
+
+\hypertarget{failure-to-disclose}{%
+\subsection{Failure to Disclose}\label{failure-to-disclose}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 31.21}
+\NormalTok{A party may not rely on any document which he fails to disclose or in respect of which he fails to permit inspection unless the court gives permission.}
+\end{Highlighting}
+\end{Shaded}
+
+Failure to disclose a document harming a case may result in the case
+being struck out.
+
+\hypertarget{subsequent-use}{%
+\subsection{Subsequent Use}\label{subsequent-use}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 31.22}
+\NormalTok{(1) A party to whom a document has been disclosed may use the document only for the purpose of the proceedings in which it is disclosed, except where –}
+\NormalTok{{-} (a) the document has been read to or by the court, or referred to, at a hearing which has been held in public;}
+\NormalTok{{-} (b) the court gives permission; or}
+\NormalTok{{-} (c) the party who disclosed the document and the person to whom the document belongs agree.}
+
+\NormalTok{(2) The court may make an order restricting or prohibiting the use of a document which has been disclosed, even where the document has been read to or by the court, or referred to, at a hearing which has been held in public.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{applying-for-specific-disclosure}{%
+\subsection{Applying for Specific
+Disclosure}\label{applying-for-specific-disclosure}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 31.12}
+\NormalTok{(1) The court may make an order for specific disclosure or specific inspection.}
+
+\NormalTok{(2) An order for specific disclosure is an order that a party must do one or more of the following things –}
+\NormalTok{{-} (a) disclose documents or classes of documents specified in the order;}
+\NormalTok{{-} (b) carry out a search to the extent stated in the order;}
+\NormalTok{{-} (c) disclose any documents located as a result of that search.}
+
+\NormalTok{(3) An order for specific inspection is an order that a party permit inspection of a document referred to in rule 31.3(2). (Rule 31.3(2) allows a party to state in his disclosure statement that he will not permit inspection of a document on the grounds that it would be disproportionate to do so).}
+\end{Highlighting}
+\end{Shaded}
+
+A party may apply for an order for specific disclosure. This should
+specify the order the applicant wants the court to make and the grounds
+for the application. Before making an application, ask the other side to
+comply.
+
+An application will require a witness statement in support, detailing
+the date of order for standard disclosure and the document(s) the
+applicant believes should have been included in the list.
+
+When making an order, the court will consider all the circumstances. An
+`unless order' will often be made. Respondent should also seek a costs
+order.
+
+\hypertarget{pre-action-disclosure}{%
+\subsection{Pre-action Disclosure}\label{pre-action-disclosure}}
+
+A party may make this application when unsure of whether they have a
+good case. See {[}{[}Early Action\#Pre-action Disclosure{]}{]} and r
+31.16.
+
+\hypertarget{non-party-disclosure}{%
+\subsubsection{Non-party Disclosure}\label{non-party-disclosure}}
+
+Where proceedings have commenced, a party to the proceedings can apply
+for disclosure\\
+against a non-party (r 31.17). Enables a party to proceedings that are
+already in existence to obtain disclosure of documents from a non-party
+if it is going to help resolve the issues in the case.
+
+The most common application is when a party indicates on their list that
+they no longer have a document in their possession, but that X does.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 31.17}
+\NormalTok{(1) This rule applies where an application is made to the court under any Act for disclosure by a person who is not a party to the proceedings.}
+
+\NormalTok{(2) The application must be supported by evidence.}
+
+\NormalTok{(3) The court may make an order under this rule only where–}
+\NormalTok{{-} (a) the documents of which disclosure is sought are likely to support the case of the applicant or adversely affect the case of one of the other parties to the proceedings; and}
+\NormalTok{{-} (b) disclosure is necessary in order to dispose fairly of the claim or to save costs.}
+
+\NormalTok{(4) An order under this rule must –}
+\NormalTok{{-} (a) specify the documents or the classes of documents which the respondent must disclose; and}
+\NormalTok{{-} (b) require the respondent, when making disclosure, to specify any of those documents –}
+\NormalTok{    {-} (i) which are no longer in his control; or}
+\NormalTok{    {-} (ii) in respect of which he claims a right or duty to withhold inspection.}
+
+\NormalTok{(5) Such an order may –}
+\NormalTok{{-} (a) require the respondent to indicate what has happened to any documents which are no longer in his control; and}
+\NormalTok{{-} (b) specify the time and place for disclosure and inspection.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{disclosure-and-solicitors-duties}{%
+\subsection{Disclosure and Solicitors'
+Duties}\label{disclosure-and-solicitors-duties}}
+
+para 1.4 SRA Code for Solicitors: a solicitor must never mislead the
+court. If a document is found which was not disclosed but should have
+been, advise the client to disclose it and how to do so. If a client
+refuses to allow disclosure, withdraw from the case. But do not inform
+other parties of the reason for ceasing to act (client confidentiality).
+
+The client should sign the disclosure statement only after giving legal
+advice. A client should start to preserve documents when first notified
+of the claim. {[}{[}Woods v Martin's Bank {[}1959{]} 1 QB 55{]}{]}
+imposes a duty on a solicitor to the court to examine their\\
+client's documents themselves in order to ensure that proper disclosure
+is made.
+
+\hypertarget{inspection-of-standard-disclosure-documents}{%
+\subsection{Inspection of Standard Disclosure
+Documents}\label{inspection-of-standard-disclosure-documents}}
+
+\hypertarget{scrutinise-opponents-list}{%
+\subsubsection{Scrutinise Opponent's
+List}\label{scrutinise-opponents-list}}
+
+\begin{itemize}
+\tightlist
+\item
+  Check disclosure statement
+\item
+  Ask yourself what you expect to see in Part 1
+\item
+  Inspect Part 1
+\item
+  Check each privilege properly claimed in Part 2
+\item
+  Check if there's anything in Part 3 other than an original of a
+  document copy listed in Part 1.
+\end{itemize}
+
+\hypertarget{inspection}{%
+\subsubsection{Inspection}\label{inspection}}
+
+Consider whether you need photocopies or original. Check you have
+everything.
+
+\hypertarget{disclosure-pilot-scheme}{%
+\subsection{Disclosure Pilot Scheme}\label{disclosure-pilot-scheme}}
+
+From 1 January 2019, all new and existing proceedings in the Business
+and Property Courts of England and Wales are subject to a disclosure
+pilot scheme, with some exceptions.
+
+The scope of the disclosure should be no wider than is reasonable and
+proportionate to determine the issues. Any documents of which a person
+with accountability is aware and which have been within the party's
+control will be within the definition in para 2.8 and subject to the
+disclosure duties set out in para 3.
+
+\hypertarget{initial-disclosure}{%
+\subsubsection{Initial Disclosure}\label{initial-disclosure}}
+
+With the statement of case, file an initial disclosure list of
+documents. This should list documents and also contain copies of them.
+
+\hypertarget{extended-disclosure}{%
+\subsubsection{Extended Disclosure}\label{extended-disclosure}}
+
+Parties should state within 28 days of the final statement of case,
+whether it is likely to request Extended Disclosure on one or more
+issues. Then must prepare a draft List of Issues for Disclosure. This
+means the key issues in dispute.
+
+There is a menu of 5 depths of disclosure to choose from. Need to back
+up with evidence and tell the court why you need more disclosure.
+
+\hypertarget{disclosure-guidance-hearing}{%
+\subsubsection{Disclosure Guidance
+Hearing}\label{disclosure-guidance-hearing}}
+
+Parties may seek guidance from the court, additionally to the guidance
+given in a case management conference.
+
+\hypertarget{evidence}{%
+\section{Evidence}\label{evidence}}
+
+\hypertarget{court-powers}{%
+\subsection{Court Powers}\label{court-powers}}
+
+\begin{itemize}
+\tightlist
+\item
+  To be admissible, evidence must be \textbf{relevant} ({[}{[}O'Brien v
+  Chief Constable of South Wales Police (2005){]}{]})
+\item
+  Part 32-33 CPR 1998
+\item
+  The court can control evidence brought before it
+\item
+  Even if evidence is relevant, the court can still decide to exclude it
+  on case management grounds.
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 32.1 {-} Power of court to control evidence}
+
+\NormalTok{(1) The court may control the evidence by giving directions as to –}
+\NormalTok{{-} (a) the issues on which it requires evidence;}
+\NormalTok{{-} (b) the nature of the evidence which it requires to decide those issues; and}
+\NormalTok{{-} (c) the way in which the evidence is to be placed before the court.}
+
+\NormalTok{(2) The court may use its power under this rule to exclude evidence that would otherwise be admissible.}
+
+\NormalTok{(3) The court may limit cross{-}examination}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 32.2(3)}
+\NormalTok{The court may give directions –}
+\NormalTok{{-} (a) identifying or limiting the issues to which factual evidence may be directed;}
+\NormalTok{{-} (b) identifying the witnesses who may be called or whose evidence may be read; or}
+\NormalTok{{-} (c) limiting the length or format of witness statements.}
+\end{Highlighting}
+\end{Shaded}
+
+The court may limit exclude evidence pertaining to a particular issue it
+considers no longer relevant, or prescribe a list of relevant issues. A
+party can appeal such an order.
+
+The court will consider the credibility of a witness when weighing up a
+piece of evidence.
+
+\hypertarget{witness-evidence}{%
+\subsection{Witness Evidence}\label{witness-evidence}}
+
+\hypertarget{general-rule}{%
+\subsubsection{General Rule}\label{general-rule}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 32.2}
+\NormalTok{The general rule is that any fact which needs to be proved by the evidence of witnesses is to be proved –}
+\NormalTok{{-} (a) at trial, by their oral evidence given in public; and}
+\NormalTok{{-} (b) at any other hearing, by their evidence in writing.}
+\end{Highlighting}
+\end{Shaded}
+
+\textbf{r 32.5(2)} provides another general rule, that where a witness
+is called to give oral evidence, their witness statement will stand as
+their evidence in chief. No party should include in any witness
+statement evidence which the maker of the statement could not give
+orally (see {[}{[}JD Wetherspoon plc v Harris (Practice Note) {[}2013{]}
+EWHC 1088 (Ch){]}{]}).
+
+\hypertarget{pre-trial-exchange}{%
+\subsubsection{Pre-trial Exchange}\label{pre-trial-exchange}}
+
+\textbf{Rule 32.4(2)} states that the court will order a party to serve
+on the other parties any witness statement of the oral evidence upon
+which the party serving the statement intends to rely in relation to any
+issue of fact to be decided at the trial.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Where a witness statement is not served, the witness will be allowed to give evidence at trial only with the court’s permission.}
+\end{Highlighting}
+\end{Shaded}
+
+Usually the court will order simultaneous exchange of witness
+statements, but exceptionally it will order sequential exchange (with
+the claimant usually serving witness statements first).
+
+\hypertarget{objections}{%
+\subsubsection{Objections}\label{objections}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: What if you object to the relevance/ admissibility of material in opponent\textquotesingle{}s witness statement?}
+\NormalTok{1. Notify other party and seek to resolve}
+\NormalTok{2. Raise matter at pre{-}trial review/ trial. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{additional-evidence}{%
+\subsubsection{Additional Evidence}\label{additional-evidence}}
+
+If a party wants a witness to give additional evidence following
+exchange of witness statements, serve a supplemental witness statement
+as soon as possible. Ask the other party to agree to the evidence being
+adduced at trial, and if they don't, raise the matter at pre-trial
+review/ trial.
+
+\hypertarget{form-of-witness-statements}{%
+\subsection{Form of Witness
+Statements}\label{form-of-witness-statements}}
+
+\hypertarget{structure}{%
+\subsubsection{Structure}\label{structure}}
+
+\textbf{PD 32 paras 17-20}.
+
+The witness statement should be headed with the title of the proceedings
+(PD 32 para 17.1),
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: PD 32 para 17.2}
+\NormalTok{At the top right hand corner of the first page there should be clearly written:}
+\NormalTok{1. the party on whose behalf it is made,}
+\NormalTok{2. the initials and surname of the witness,}
+\NormalTok{3. the number of the statement in relation to that witness,}
+\NormalTok{4. the identifying initials and number of each exhibit referred to,}
+\NormalTok{5. the date the statement was made; and}
+\NormalTok{6. the date of any translation.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{itemize}
+\tightlist
+\item
+  Divide witness statement into numbered paragraphs (para 19.1(5))
+\item
+  Express numbers as figures (19.1(6))
+\item
+  Generally follow a chronological sequence, with each paragraph
+  confined to a distinct subject (para 19.2)
+\item
+  Draft in the witness's own language.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If in a foreign language:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Have the statement translated,
+    \item
+      Translator signs to certify accuracy
+    \item
+      File original and translation.
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{content}{%
+\subsubsection{Content}\label{content}}
+
+\begin{itemize}
+\tightlist
+\item
+  Statement should be in witness's own words as far as practicable (para
+  18.1).
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Don't include complex legal arguments which the witness would not be
+    able to speak about if cross examined.
+  \item
+    Written in first person
+  \item
+    Should state
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Full name of witness
+    \item
+      Address
+    \item
+      Occupation
+    \item
+      If they are a party/ employee of a party
+    \item
+      Process by which witness statement was prepared (e.g.,
+      face-to-face).
+    \end{itemize}
+  \end{itemize}
+\item
+  If there is any defect in the witness statement, the court may refuse
+  to admit it as evidence and may refuse to allow costs arising from its
+  preparation (\textbf{para 25.1}).
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If you spot this, first raise with the other side and attempt
+    agreement,
+  \item
+    Then seek assistance of the court.
+  \end{itemize}
+\item
+  The statement must indicate which of the statements are based on the
+  witness's own knowledge and which are matters of information or
+  belief, and the source of the witness's information and belief (PD 32
+  para 18.2)
+\item
+  Exhibits (PD 32, paras 18.3 and 18.6)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Any exhibit used in connection with a witness statement should be
+    verified and identified by the witness and remain separate from the
+    statement.
+  \item
+    Number the exhibits (across all witnesses)
+  \end{itemize}
+\item
+  Statement of truth (para 20.2)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    In witness's own language
+  \item
+    ``I believe that the facts stated in this witness statement are
+    true. I understand that proceedings for contempt of court may be
+    brought against anyone who makes, or causes to be made, a false
+    statement in a document verified by a statement of truth without an
+    honest belief in its truth.''
+  \end{itemize}
+\item
+  \textbf{Rule 22.3}: if the maker of a witness statement fails to
+  verify the witness statement by a statement of truth, the court may
+  direct that it shall not be admissible as evidence.
+\end{itemize}
+
+\hypertarget{witness-statements-at-trial}{%
+\subsection{Witness Statements at
+Trial}\label{witness-statements-at-trial}}
+
+The witness will usually be called to give oral evidence at trial,
+unless the court orders otherwise or the party uses the statement as
+hearsay evidence.
+
+The witness will be asked to confirm that their witness statement is
+true, before cross-examination by the other side.
+
+\hypertarget{additional-evidence-in-chief}{%
+\subsubsection{Additional
+Evidence-in-chief}\label{additional-evidence-in-chief}}
+
+The witness statement will stand as the evidence-in-chief of the
+witness, unless the court orders otherwise. Ensure the statement is
+comprehensive.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 32.5(3)}
+\NormalTok{A witness giving oral evidence at trial may with the permission of the court –}
+\NormalTok{{-} (a) amplify his witness statement; and}
+\NormalTok{{-} (b) give evidence in relation to new matters which have arisen since the witness statement was served on the other parties.}
+\end{Highlighting}
+\end{Shaded}
+
+This will only be granted if there is a good reason why evidence was not
+dealt with in the witness statement.
+
+\hypertarget{use-by-opponent}{%
+\subsubsection{Use by Opponent}\label{use-by-opponent}}
+
+If a party who has served a witness statement does not call the witness
+or use the statement as hearsay evidence, any other party may use the
+witness statement as hearsay evidence (r 32.5(5)).
+
+\hypertarget{witness-summaries-r-32.9}{%
+\subsection{Witness Summaries (r 32.9)}\label{witness-summaries-r-32.9}}
+
+It can be difficult to persuade a witness to give a witness statement.
+If there is a witness who does not want to give a witness statement, an
+application to court can be made for an order to serve a witness
+summary.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 32.9 {-} witness summaries}
+\NormalTok{(1) A party who –}
+\NormalTok{{-} (a) is required to serve a witness statement for use at trial; but}
+\NormalTok{{-} (b) is unable to obtain one, may apply, without notice, for permission to serve a witness summary instead.}
+
+\NormalTok{(2) A witness summary is a summary of –}
+\NormalTok{{-} (a) the evidence, if known, which would otherwise be included in a witness statement; or}
+\NormalTok{{-} (b) if the evidence is not known, the matters about which the party serving the witness summary proposes to question the witness.}
+
+\NormalTok{(3) Unless the court orders otherwise, a witness summary must include the name and address of the intended witness.}
+
+\NormalTok{(4) Unless the court orders otherwise, a witness summary must be served within the period in which a witness statement would have had to be served.}
+
+\NormalTok{(5) Where a party serves a witness summary, so far as practicable rules 32.4 (requirement to serve witness statements for use at trial), 32.5(3) (amplifying witness statements), and 32.8 (form of witness statement) shall apply to the summary.}
+\end{Highlighting}
+\end{Shaded}
+
+Issues raised:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Whether the applicant has shown an inability to obtain a witness
+  statement
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Test must be applied with rigour
+  \item
+    But it can be met if the court agrees that had a request been made,
+    it would have been turned down.
+  \end{enumerate}
+\item
+  Extent to which the proposed witness is likely to be able to give
+  relevant evidence
+\item
+  Whether allowing summary is compatible with the overriding objective
+\item
+  Adequacy of summary's content.
+\end{enumerate}
+
+\hypertarget{sanctions-for-not-serving-witness-statement-r-32.10}{%
+\subsection{Sanctions for Not Serving Witness Statement (r
+32.10)}\label{sanctions-for-not-serving-witness-statement-r-32.10}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 32.10 {-} Consequence of failure to serve witness statement or summary}
+\NormalTok{If a witness statement or a witness summary for use at trial is not served in respect of an intended witness within the time specified by the court, then the witness may not be called to give oral evidence unless the court gives permission.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: If a party knows they will miss deadline to exchange?}
+\NormalTok{1. Contact other party and seek agreement to extension}
+\NormalTok{2. Determine when signed statement will be available}
+\NormalTok{3. If no agreement is reached/ affects a key case management date, apply immediately to the court with supporting evidence providing an explanation for the need for the extension. }
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: If a party knows opponent will miss exchange deadline?}
+\NormalTok{File statements with court and explain situation in a covering letter. }
+\end{Highlighting}
+\end{Shaded}
+
+It is unlikely that the court will allow serving a new witness statement
+after witness exchange, bearing in mind the overriding objective.
+
+\hypertarget{affidavits}{%
+\subsection{Affidavits}\label{affidavits}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Sworn statement of evidence (ie, the maker of the affidavit has to swear before a solicitor (not their own), or other authorised person, that the contents of the affidavit are true).}
+\end{Highlighting}
+\end{Shaded}
+
+The Rules provide that if you are applying for a freezing injunction or
+search order, the evidence in support of such an application must be by
+way of affidavit rather than a witness statement.
+
+\hypertarget{opinion-evidence}{%
+\subsection{Opinion Evidence}\label{opinion-evidence}}
+
+\hypertarget{relevant-facts-personally-perceived}{%
+\subsubsection{Relevant Facts Personally
+Perceived}\label{relevant-facts-personally-perceived}}
+
+The general rule is that opinion evidence is not admissible. But there
+may be situations in which it is difficult for the witness to separate
+fact and opinion (e.g., ``I was driving at about 60mph'', ``John was
+drunk'').
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 3(2) Civil Evidence Act 1972}
+\NormalTok{It is hereby declared that where a person is called as a witness in any civil proceedings, a statement of opinion by him on any relevant matter on which he is not qualified to give expert evidence, if made as a way of conveying relevant facts personally perceived by him, is admissible as evidence of what he perceived.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{hearsay-evidence}{%
+\subsection{Hearsay Evidence}\label{hearsay-evidence}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Hearsay}
+\NormalTok{A statement made otherwise than by a person while giving oral evidence in the proceedings which is tendered as evidence of the matters stated (s 1(2)(a) Civil Evidence Act 1995). }
+\end{Highlighting}
+\end{Shaded}
+
+Statement made outside court, repeated by the witness in court, and the
+purpose of repeating the statement is to prove the truth of the
+statement. Start point in civil proceedings: hearsay is admissible,
+provided that it is relevant and not opinion. Can have ``documentary
+hearsay'' - producing a document to prove that it exists.
+
+Hearsay is an oral or written statement made outside the courtroom,
+where a statement is ``any representation of fact or opinion'' (s 13 CEA
+1995). The statement constituting hearsay evidence must itself
+constitute admissible evidence.
+
+Any opinion must be that of a non-expert based on that person's
+perception. Hearsay provisions cannot be used to adduce expert evidence,
+either by way of inclusion in the witness statement or as an exhibit to
+it.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Admissible hearsay}
+\NormalTok{Answer all the following affirmatively: }
+\NormalTok{1. Is the evidence oral/ written evidence heard outside the courtroom?}
+\NormalTok{2. Is the statement being presented to the court to prove that it is true?}
+\NormalTok{3. Is the statement an admissible statement of fact, not opinion?}
+\end{Highlighting}
+\end{Shaded}
+
+Hearsay can be first-hand (``X told me'') or multiple (``X told me that
+Y told her'').
+
+\hypertarget{using-hearsay}{%
+\subsubsection{Using Hearsay}\label{using-hearsay}}
+
+\hypertarget{notice-requirements}{%
+\paragraph{Notice Requirements}\label{notice-requirements}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 1(1) Civil Evidence Act 1995}
+\NormalTok{In civil proceedings evidence shall not be excluded on the ground that it is hearsay.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 2(1) Civil Evidence Act 1995 {-} notice of proposal to adduce hearsay evidence}
+\NormalTok{(1) A party proposing to adduce hearsay evidence in civil proceedings shall, subject to the following provisions of this section, give to the other party or parties to the proceedings—}
+\NormalTok{{-} (a) such notice (if any) of that fact, and}
+\NormalTok{{-} (b) on request, such particulars of or relating to the evidence,}
+
+\NormalTok{as is reasonable and practicable in the circumstances for the purpose of enabling him or them to deal with any matters arising from its being hearsay. }
+\end{Highlighting}
+\end{Shaded}
+
+Read in conjunction with:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 33.2 CPR 1995 {-} Notice of intention to rely on hearsay evidence}
+\NormalTok{(1) Where a party intends to rely on hearsay evidence at trial and either –}
+\NormalTok{{-} (a) that evidence is to be given by a witness giving oral evidence; or}
+\NormalTok{{-} (b) that evidence is contained in a witness statement of a person who is not being called to give oral evidence;}
+
+\NormalTok{that party complies with section 2(1)(a) of the Civil Evidence Act 19951 serving a witness statement on the other parties in accordance with the court’s order.}
+
+\NormalTok{(2) Where paragraph (1)(b) applies, the party intending to rely on the hearsay evidence must, when he serves the witness statement –}
+\NormalTok{{-} (a) inform the other parties that the witness is not being called to give oral evidence; and}
+\NormalTok{{-} (b) give the reason why the witness will not be called.}
+
+\NormalTok{(3) In all other cases where a party intends to rely on hearsay evidence at trial, that party complies with section 2(1)(a) of the Civil Evidence Act 1995 by serving a notice on the other parties which –}
+\NormalTok{{-} (a) identifies the hearsay evidence;}
+\NormalTok{{-} (b) states that the party serving the notice proposes to rely on the hearsay evidence at trial; and}
+\NormalTok{{-} (c) gives the reason why the witness will not be called.}
+
+\NormalTok{(4) The party proposing to rely on the hearsay evidence must –}
+\NormalTok{{-} (a) serve the notice no later than the latest date for serving witness statements; and}
+\NormalTok{{-} (b) if the hearsay evidence is to be in a document, supply a copy to any party who requests him to do so.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{failure-to-comply}{%
+\paragraph{Failure to Comply}\label{failure-to-comply}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 2(4) CEA 1995}
+\NormalTok{A failure to comply with subsection (1), or with rules under subsection (2)(b), does not affect the admissibility of the evidence but may be taken into account by the court—}
+\NormalTok{{-} (a) in considering the exercise of its powers with respect to the course of proceedings and costs, and}
+\NormalTok{{-} (b) as a matter adversely affecting the weight to be given to the evidence in accordance with section 4. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{weight-of-hearsay}{%
+\subsubsection{Weight of Hearsay}\label{weight-of-hearsay}}
+
+\hypertarget{second-best}{%
+\paragraph{Second-best}\label{second-best}}
+
+Less likely to be true or accurate than full witness statements. Judge
+will consider:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  What issue does the hearsay address?
+\item
+  How important is the issue to the case?
+\item
+  What other evidence is available on the same issue?
+\item
+  Could the proponent have obtained better evidence through reasonable
+  effort?
+\end{enumerate}
+
+\hypertarget{guidelines}{%
+\paragraph{Guidelines}\label{guidelines}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 4 CEA 1995 {-}  Considerations relevant to weighing of hearsay evidence}
+\NormalTok{(1) In estimating the weight (if any) to be given to hearsay evidence in civil proceedings the court shall have regard to any circumstances from which any inference can reasonably be drawn as to the reliability or otherwise of the evidence.}
+
+\NormalTok{(2) Regard may be had, in particular, to the following—}
+\NormalTok{{-} (a) whether it would have been reasonable and practicable for the party by whom the evidence was adduced to have produced the maker of the original statement as a witness;}
+\NormalTok{{-} (b) whether the original statement was made contemporaneously with the occurrence or existence of the matters stated;}
+\NormalTok{{-} (c) whether the evidence involves multiple hearsay;}
+\NormalTok{{-} (d) whether any person involved had any motive to conceal or misrepresent matters;}
+\NormalTok{{-} (e) whether the original statement was an edited account, or was made in collaboration with another or for a particular purpose;}
+\NormalTok{{-} (f) whether the circumstances in which the evidence is adduced as hearsay are such as to suggest an attempt to prevent proper evaluation of its weight.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{expert-evidence-part-35}{%
+\subsection{Expert Evidence (Part 35)}\label{expert-evidence-part-35}}
+
+\hypertarget{duty-of-an-expert}{%
+\subsubsection{Duty of an Expert}\label{duty-of-an-expert}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 35.3 {-} Experts – overriding duty to the court}
+\NormalTok{(1) It is the duty of experts to help the court on matters within their expertise.}
+
+\NormalTok{(2) This duty overrides any obligation to the person from whom experts have received instructions or by whom they are paid.}
+\end{Highlighting}
+\end{Shaded}
+
+If the expert is unsure of the nature of these obligations, they may
+file a request for directions from the court. Experts should, therefore,
+be completely objective and unbiased in the way in which they provide
+their opinion for the benefit of the court (see {[}{[}Stevens v Gullis
+{[}1999{]} BLR 394{]}{]}). Likewise, it is not for an expert to comment
+on issues concerning the credibility of a party or the reliability of a
+party's evidence (see {[}{[}Radia v Marks {[}2022{]} EWHC 145
+(QB){]}{]}).
+
+An expert is not disqualified by the fact of being employed by one of
+the parties, although the court will need to be satisfied that the
+expert was sufficiently aware of their responsibilities to the court
+({[}{[}Field v Leeds City Council {[}2000{]} 1 EGLR 54{]}{]}).
+
+\hypertarget{impropriety}{%
+\paragraph{Impropriety}\label{impropriety}}
+
+\begin{itemize}
+\tightlist
+\item
+  An expert who behaves improperly is likely to be reported to their
+  governing body by the trial judge at the end of the hearing
+  ({[}{[}Meadow v General Medical Council {[}2006{]} EWCA Civ
+  1390{]}{]}).
+\item
+  If an expert's improper behaviour wastes the costs of the opposing
+  party, the expert may be ordered to contribute towards payment of
+  these costs ({[}{[}Thimmaya v Lancashire NHS Foundation Trust
+  (Manchester County Court, 30 January 2020{]}{]}).
+\item
+  An expert who deliberately or recklessly makes a false statement in
+  their report is likely to receive a custodial sentence for being in
+  contempt of court ({[}{[}Liverpool Victoria Insurance Company Ltd v
+  Zafar {[}2019{]} EWCA Civ 39{]}{]})
+\end{itemize}
+
+\hypertarget{courts-power-to-restrict}{%
+\subsubsection{Court's Power to
+Restrict}\label{courts-power-to-restrict}}
+
+\begin{itemize}
+\tightlist
+\item
+  r 35.1: expert evidence must be restricted to that which is reasonably
+  required to resolve the proceedings.
+\item
+  r 35.4: no party may call an expert or put in evidence an expert's
+  report without the court's permission.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Permission usually granted at the directions stage.
+  \item
+    Party must identify field of expert, and where possible, name of
+    expert, issues they will address, and an estimate of costs.
+  \end{itemize}
+\item
+  Court may direct:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    No expert evidence allowed
+  \item
+    Limit on number of experts each party may call
+  \item
+    Directing that evidence is to be given by one or more experts chosen
+    by agreement between parties.
+  \item
+    Directing that some/ all experts shall give evidence concurrently.
+  \item
+    Costs of expert that a party can recover to be limited.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{instructions-to-expert}{%
+\subsubsection{Instructions to Expert}\label{instructions-to-expert}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 35.10 {-} Contents of report}
+\NormalTok{(1) An expert’s report must comply with the requirements set out in Practice Direction 35.}
+
+\NormalTok{(2) At the end of an expert’s report there must be a statement that the expert understands and has complied with their duty to the court.}
+
+\NormalTok{(3) The expert’s report must state the substance of all material instructions, whether written or oral, on the basis of which the report was written.}
+
+\NormalTok{(4) The instructions referred to in paragraph (3) shall not be privileged(GL) against disclosure but the court will not, in relation to those instructions –}
+\NormalTok{{-} (a) order disclosure of any specific document; or}
+\NormalTok{{-} (b) permit any questioning in court, other than by the party who instructed the expert,}
+
+\NormalTok{unless it is satisfied that there are reasonable grounds to consider the statement of instructions given under paragraph (3) to be inaccurate or incomplete.}
+\end{Highlighting}
+\end{Shaded}
+
+TLDR: instructions are privileged unless the court makes an order under
+the rule, which only happens when there are grounds for believing the
+expert's statement of instructions is inaccurate/ incomplete. A party is
+free to waive this privilege.
+
+\hypertarget{form}{%
+\subsubsection{Form}\label{form}}
+
+Expert evidence given in a written report unless the court directs
+otherwise. If to be relied upon at trial, the report must be disclosed
+to the other party in accordance with court instructions--usually for
+simultaneous mutual exchange.
+
+\hypertarget{contents}{%
+\subsubsection{Contents}\label{contents}}
+
+See PD 35 para 3.1 and 3.2. The report must:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Be addressed to the court
+\item
+  Contain:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Details of qualifications
+  \item
+    Literature relied upon
+  \item
+    Statement of facts/ instructions
+  \item
+    Set out limits of expertise
+  \item
+    Say who carried out examinations, tests etc.
+  \item
+    Summarise opinions and reasons
+  \item
+    Summarise conclusions
+  \item
+    State qualifications with which any opinions are given
+  \item
+    Statement that expert understands duty to court and is aware of
+    requirements upon them.
+  \end{enumerate}
+\item
+  Be verified with a statement of truth.
+\end{enumerate}
+
+If the expert has any conflicts of interest, this does not automatically
+disqualify them, but details of the conflict should be raised at an
+early stage.
+
+\hypertarget{questions-to-expert}{%
+\subsubsection{Questions to Expert}\label{questions-to-expert}}
+
+The other party may put written questions to the expert about their
+report:
+
+\begin{itemize}
+\tightlist
+\item
+  May only be put once
+\item
+  Must be put within 28 days of service of report
+\item
+  Must be to clarify the report.
+\end{itemize}
+
+\hypertarget{discussion-between-experts-r-35.12}{%
+\subsubsection{Discussion Between Experts (r
+35.12)}\label{discussion-between-experts-r-35.12}}
+
+\hypertarget{court-direction}{%
+\paragraph{Court Direction}\label{court-direction}}
+
+The court will often direct that the parties' experts should meet and
+have a without prejudice discussion. Rule 35.12(4) confirms that the
+content of the discussion between the experts shall not be referred to
+at the trial unless the parties agree. This should be to agree upon and
+narrow down the issues (PD 35 para 9.2).
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: PD 35 para 9.2}
+\NormalTok{The purpose of discussions between experts is not for experts to settle cases but to agree and narrow issues and in particular to identify:}
+\NormalTok{{-} (i) the extent of the agreement between them;}
+\NormalTok{{-} (ii) the points of and short reasons for any disagreement;}
+\NormalTok{{-} (iii) action, if any, which may be taken to resolve any outstanding points of disagreement; and}
+\NormalTok{{-} (iv) any further material issues not raised and the extent to which these issues are agreed.}
+\end{Highlighting}
+\end{Shaded}
+
+Parties may agree an agenda of issues for experts to discuss, though
+these should not be leading/ hostile (PD 35 para 9.3).
+
+\hypertarget{written-joint-statement}{%
+\paragraph{Written Joint Statement}\label{written-joint-statement}}
+
+\begin{itemize}
+\tightlist
+\item
+  Following the discussion, a statement must be prepared by the experts
+  dealing with the points raised.
+\item
+  Copies signed within 7 days and copies provided to parties within 14
+  days.
+\item
+  If an expert opinion is radically changed by the discussion, they
+  should add a note explaining
+\item
+  r 35.12(5): if the experts agree on something, this does not bind the
+  parties unless the parties agree to be bound.
+\end{itemize}
+
+\hypertarget{failure-to-comply-1}{%
+\paragraph{Failure to Comply}\label{failure-to-comply-1}}
+
+Can be consequences similar to an unless order for the party whose
+expert failed to comply.
+
+\hypertarget{changing-experts}{%
+\paragraph{Changing Experts}\label{changing-experts}}
+
+If a party's expert changes their mind following discussions with the
+other expert, they will generally not be entitled to change their
+expert, unless there is a good reason to do so. Starting point: ask the
+expert why they changed their mind.
+
+\hypertarget{single-joint-expert-r-35.7}{%
+\subsubsection{Single Joint Expert (r
+35.7)}\label{single-joint-expert-r-35.7}}
+
+In a fast track case, the general approach of the court is to order a
+single joint expert unless there is good reason not to do so. In a
+multi-track case, the court may order a joint expert on any quantum
+issues requiring expert evidence.
+
+See PD 35 para 7 for more details on when permission for a joint expert
+will be given.
+
+\hypertarget{court-direction-1}{%
+\paragraph{Court Direction}\label{court-direction-1}}
+
+When a joint expert is appointed, the court will order:
+
+\begin{itemize}
+\tightlist
+\item
+  Parties prepare joint instructions for the expert
+\item
+  Expert's fees paid jointly
+\item
+  If parties fail to decide on an expert by some date, some back to the
+  court for directions.
+\end{itemize}
+
+\hypertarget{practical}{%
+\paragraph{Practical}\label{practical}}
+
+Parties have a duty to point out errors/ ambiguities in an expert
+report, to further the overriding objective.
+
+\begin{itemize}
+\tightlist
+\item
+  Where parties cannot organise joint instructions, they can give
+  separate instructions
+\item
+  Where a party is dissatisfied with a report, they should first ask the
+  expert questions
+\item
+  After, can apply to court for permission to call another expert.
+\item
+  If there are multiple experts, the evidence cannot be used until
+  experts meet to resolve their differences.
+\end{itemize}
+
+Parties must speak to a joint expert together: neither party should meet
+the expert without the other party present.
+
+\hypertarget{challenging}{%
+\subsubsection{Challenging}\label{challenging}}
+
+The usual time to make an application to exclude all/ part of an
+opponent's expert report is at the trial. If there is some inadmissible
+evidence in the report, the trial judge will just ignore this. Having to
+edit the expert's report to delete inadmissible parts seen as contrary
+to the overriding objective.
+
+\hypertarget{professional-negligence-cases}{%
+\subsection{Professional Negligence
+Cases}\label{professional-negligence-cases}}
+
+In professional negligence claims a defendant is allowed to give their
+own expert opinion on what they did or did not do that is said to amount
+to negligence. There is no need for this to be in the format of a Part
+35 report. The defendant's witness statement will suffice.
+
+\end{document}

@@ -1,0 +1,2019 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\newenvironment{Shaded}{}{}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+
+\newenvironment{env-be892a89-1e2f-456f-9a66-9360378d761d}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{firebrick}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-6be7f2da-e5f2-4236-8595-02b7f227e0d2}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-01e69c07-38ea-4db5-88eb-cd8cdd37b768}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{green}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-5799b106-f807-41ad-8581-f0d0ea5d489d}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{aquamarine}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-b74e22d1-c582-4a42-8efd-d25679e7a543}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{orange}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-5d212a80-72cb-4ee2-ac58-8fb02828ff70}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-208b147f-a811-4374-a76c-b246707771a9}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{yellow}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-d06c67a0-b583-4913-9035-211f19ac83c8}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darkred}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-851b1153-27b1-45fe-a97e-4b230b0cf5a8}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{pink}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-b7496de0-00bb-4d3c-b91d-8cb844a2110e}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-424bca06-dee0-462e-8854-1eb52bfa5db2}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-9d9db5a0-46ac-4ac6-b1b5-e91346b125e0}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{purple}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-1f68d7d9-7190-48f9-99de-2b368357fe97}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darksalmon}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-3974e6d8-2024-4088-ae4e-3b22d061cb48}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gray}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{min\_depth: 1}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{recording-client-transactions}{%
+\section{Recording Client
+Transactions}\label{recording-client-transactions}}
+
+Records of client money dealings must be clearly separated from the
+records of the ordinary business dealings of a firm.
+
+\hypertarget{format}{%
+\subsection{Format}\label{format}}
+
+Books must be:
+
+\begin{itemize}
+\tightlist
+\item
+  Maintained on the double-entry principle
+\item
+  Legible, up-to-date and contain narratives alongside entries which
+  provide adequate information about a transaction.
+\item
+  Ledger accounts should include the name of the client and a
+  description
+\item
+  Business counts in relation to each client must be kept up-to-date
+\item
+  Inter-ledger transfers separately recorded.
+\end{itemize}
+
+\hypertarget{dual-cash-account}{%
+\subsubsection{Dual Cash Account}\label{dual-cash-account}}
+
+Normal to have two individual cash accounts displayed next to one
+another, and two separate ledger accounts displayed together (though
+usually these are combined into one big ledger).
+
+\hypertarget{receipts-of-money}{%
+\subsection{Receipts of Money}\label{receipts-of-money}}
+
+\begin{itemize}
+\tightlist
+\item
+  Receipts of client money held for the relevant client in the client
+  bank account
+\item
+  Receipts of business money will reduce the indebtedness of the
+  relevant client to the firm.
+\end{itemize}
+
+\hypertarget{payments-of-money}{%
+\subsection{Payments of Money}\label{payments-of-money}}
+
+\begin{itemize}
+\tightlist
+\item
+  Decide which account the payment is being made from.
+\item
+  Record CR entry on cash account.
+\item
+  DR entry on the ledger account of the client on whose behalf the
+  payment is being made.
+\end{itemize}
+
+\hypertarget{firms-professional-charges}{%
+\subsection{Firm's Professional
+Charges}\label{firms-professional-charges}}
+
+A bill to clients will include professional charges and VAT on these
+charges. Accounts should show:
+
+\begin{itemize}
+\tightlist
+\item
+  Client owes the firm for charges and VAT.
+\item
+  Firm has earned income in the form of professional charges and owes
+  HMRC VAT.
+\end{itemize}
+
+The bill should include details of disbursements already paid on the
+client's behalf and disbursements to be paid in the future.
+
+No entries are made on the accounts in relation to disbursements when
+the bill is sent.
+
+Recall r 8.1: all inter-account transfers must be recorded on the client
+account ledger.
+
+\hypertarget{cash-transfers}{%
+\subsection{Cash Transfers}\label{cash-transfers}}
+
+May occur on:
+
+\begin{itemize}
+\tightlist
+\item
+  Payment of a firm's professional fees and disbursements
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Once a bill or other written notification has been issued.
+  \end{itemize}
+\item
+  To advance money where the solicitor needs to make a payment on behalf
+  of the client/ trust where there is insufficient client money
+  available.
+\item
+  To replace money withdrawn in breach of r 5.3 (withdrawn client money
+  where insufficient funds held to make the payment).
+\item
+  To allow the client a sum in lieu of interest.
+\end{itemize}
+
+\hypertarget{client-business-bank-account}{%
+\subsection{Client → Business Bank
+Account}\label{client-business-bank-account}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Record the payment of money from the client bank account
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    CR cash account
+  \item
+    DR client's ledger account
+  \end{enumerate}
+\item
+  Record the receipt of money into the business bank account.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    DR cash account
+  \item
+    CR client's ledger account.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{inter-client-transfers}{%
+\subsection{Inter-client Transfers}\label{inter-client-transfers}}
+
+A `paper' or `inter-client' transfer is when the money held in the
+client bank account recorded as being held for client A, is changed to
+be recorded as held for client B.
+
+\hypertarget{recording}{%
+\subsubsection{Recording}\label{recording}}
+
+\begin{itemize}
+\tightlist
+\item
+  DR client ledger account of first client
+\item
+  CR client ledger account of second client.
+\end{itemize}
+
+\hypertarget{split-cheques-mixed-receipts-and-bills}{%
+\subsection{Split Cheques, Mixed Receipts and
+Bills}\label{split-cheques-mixed-receipts-and-bills}}
+
+\hypertarget{split-cheques}{%
+\subsubsection{Split Cheques}\label{split-cheques}}
+
+If you receive a cheque made up partly of business money and partly of
+client money, may be possible to ``split'' the cheque (if allowed by the
+bank).
+
+\begin{itemize}
+\tightlist
+\item
+  Business portion to cash account -- DR business section
+\item
+  Client portion to cash account -- DR client section
+\item
+  Business portion to client ledger -- CR business section
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Client portion to client ledger -- CR client section.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{unsplit-cheques-and-direct-transfers}{%
+\subsubsection{Unsplit Cheques and Direct
+Transfers}\label{unsplit-cheques-and-direct-transfers}}
+
+When a mixed receipt is received, the firm can choose whether to pay it
+initially into the client or business bank account. Money must be
+transferred `promptly' to the correct account (14 days was specified
+under the old rules).
+
+When clients pay by bank transfer, it is usual to give the client
+details of a client bank account, and then make transfers as necessary
+to the business bank account.
+
+Entries:
+
+\begin{itemize}
+\tightlist
+\item
+  DR whole amount to cash account (client section)
+\item
+  CR whole amount to client ledger (client section)
+\end{itemize}
+
+When later transferring business portion
+
+\begin{itemize}
+\tightlist
+\item
+  CR cash account (client section)
+\item
+  DR client ledger (client section)
+\item
+  DR cash account (business section)
+\item
+  CR client ledger (business section).
+\end{itemize}
+
+\hypertarget{dealing-with-bills}{%
+\subsection{Dealing with Bills}\label{dealing-with-bills}}
+
+\begin{itemize}
+\tightlist
+\item
+  Payments for professional charges/ disbursements will be the firm's
+  own money and must be paid into the business bank account.
+\item
+  Where the firm is holding client money and money is due to the firm
+  for disbursements paid with the firm's own money, money cannot be
+  transferred unless a bill has been issued, or the firm made it clear
+  that money would be used this way.
+\item
+  Money received for a paid disbursement is the firm's money, not client
+  money
+\item
+  Billing for unpaid disbursements can cause risks to client money.
+\end{itemize}
+
+\hypertarget{receipt-of-cheque-made-out-to-the-client-tp}{%
+\subsection{Receipt of Cheque Made Out to the client/
+TP}\label{receipt-of-cheque-made-out-to-the-client-tp}}
+
+If you receive a cheque made out to the client, you cannot pay the
+cheque into a firm bank account. The only obligation is to forward the
+cheque to the payee without delay. The cheque is not client money, just
+paper. Many firms have a policy of recording where all cheques are
+received, irrespective of the payee.
+
+\hypertarget{dishonouring-cheques}{%
+\subsection{Dishonouring Cheques}\label{dishonouring-cheques}}
+
+There is nothing preventing a firm drawing against a cheque which has
+been paid into the client bank account but which has not yet been
+cleared. But if the cheque is dishonoured, there will be a breach of r
+5.3 (only withdrawing from client account if \(\exists\) sufficient
+funds).
+
+Any breaches of rules must be corrected promptly on discovery (r 6.1).
+
+\hypertarget{abatements}{%
+\subsection{Abatements}\label{abatements}}
+
+A firm may decide to abate the costs to the client (e.g., if the client
+complains). To record the abatement, reverse the entries made on the
+profit costs and HMRC account when the bill was sent (to the extent of
+the abatement). Also send the client a VAT credit note.
+
+\begin{itemize}
+\tightlist
+\item
+  DR profit costs account
+\item
+  DR HMRC account
+\item
+  CR client ledger account (business section).
+\end{itemize}
+
+If preferred, the firm may debit abatements to a separate abatements
+account.
+
+\hypertarget{bad-debts}{%
+\subsection{Bad Debts}\label{bad-debts}}
+
+If a client is not going to pay the amount it owes to a firm, the firm
+will have to write off the amount owing for:
+
+\begin{itemize}
+\tightlist
+\item
+  Professional charges
+\item
+  VAT
+\item
+  Disbursements paid from the business bank account.
+\end{itemize}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1429}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8571}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+VAT treatment
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Description
+\end{minipage} \\
+\midrule()
+\endhead
+General rule & There is no VAT relief; VAT must be accounted for even if
+debt is written off \\
+Exception & Where the debt has been outstanding for at least 6 months
+since the date payment was due, solicitor is entitled to a refund from
+HMRC. \\
+\bottomrule()
+\end{longtable}
+
+So generally, for the whole amount:
+
+\begin{itemize}
+\tightlist
+\item
+  CR client ledger, business section
+\item
+  DR bad debts account
+\end{itemize}
+
+And under the exception, when VAT relief becomes available, add:
+
+\begin{itemize}
+\tightlist
+\item
+  CR bad debts account VAT
+\item
+  DR HMRC VAT
+\end{itemize}
+
+\hypertarget{petty-cash}{%
+\subsection{Petty Cash}\label{petty-cash}}
+
+When cash is withdrawn from the bank for petty cash
+
+\begin{itemize}
+\tightlist
+\item
+  CR cash, business section
+\item
+  DR petty cash account.
+\end{itemize}
+
+If a payment is made for a client using petty cash, an election has been
+made to use business money for the transaction.
+
+\hypertarget{insurance-commission}{%
+\subsection{Insurance Commission}\label{insurance-commission}}
+
+A law firm may be offered commission from insurance companies/ financial
+services companies. But it is rare for a firm to be entitled to keep
+this commission.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: SRA Code for Firms, r 5.1}
+\NormalTok{You properly account to clients for any financial benefit you receive as a result of their instructions, except where they have agreed otherwise.}
+\end{Highlighting}
+\end{Shaded}
+
+``Properly account for'' means
+
+\begin{itemize}
+\tightlist
+\item
+  Paying to the client
+\item
+  Offsetting against fees
+\item
+  Keeping only when the client has been informed and agreed
+\end{itemize}
+
+Firms that wish to take advantage of the exemption allowing professional
+firms to avoid regulation by the Financial Reporting Council in relation
+to investment business must account for all commission to clients.
+
+\hypertarget{sra-accounts-rules-2019}{%
+\section{SRA Accounts Rules 2019}\label{sra-accounts-rules-2019}}
+
+Law firms frequently hold money belonging to others. SRA imposes strict
+rules on dealing with clients' money. In June 2017 these were greatly
+simplified from the complicated Accounts Rules 2011.
+
+\hypertarget{principles}{%
+\subsection{Principles}\label{principles}}
+
+Designed to reduce the risk of accidental or deliberate misuse of client
+money. The 7 pervasive Principles apply to the regulation of accounts.
+
+\hypertarget{who-is-bound}{%
+\subsection{Who is Bound}\label{who-is-bound}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 1 SRA Accounts Rules 2019}
+\NormalTok{1. These rules apply to authorised bodies, their managers and employees and references to "you" in these rules should be read accordingly}
+\NormalTok{2. The authorised body\textquotesingle{}s managers are jointly and severally responsible for compliance by the authorised body, its managers and employees with these rules.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{client-money}{%
+\subsection{Client Money}\label{client-money}}
+
+r 4.1: client money should be kept separate from the money belonging to
+the firm.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 2.1}
+\NormalTok{"Client money" is money held or received by you:}
+\NormalTok{{-} relating to regulated services delivered by you to a client;}
+\NormalTok{{-} on behalf of a third party in relation to regulated services delivered by you (such as money held as agent, stakeholder or held to the sender\textquotesingle{}s order);}
+\NormalTok{{-} as a trustee or as the holder of a specified office or appointment, such as donee of a power of attorney, Court of Protection deputy or trustee of an occupational pension scheme;}
+\NormalTok{{-} in respect of your fees and any unpaid disbursements if held or received prior to delivery of a bill for the same.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1781}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8219}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Term
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Definition
+\end{minipage} \\
+\midrule()
+\endhead
+Costs & Fees and disbursements \\
+Fees & Your own charges or profit costs (including any VAT element) \\
+Disbursements & Any costs or expenses paid or to be paid to a third
+party on behalf of the client or trust. \\
+\bottomrule()
+\end{longtable}
+
+A solicitor has a duty to clarify any ambiguity as to whom client money
+is held for ({[}{[}{[}Challinor and Others v Juliet Bellis \& Co and
+Another {[}2013{]} EWHC 347 (Ch){]}{]}{]}).
+
+The effect of Rule 2.1(d) is that money received for all fees and future
+disbursements paid to the firm is considered client money unless and
+until billed. Such money is often referred to as money received
+`generally on account of costs'.
+
+The definition of client money does not include money received for
+disbursements which have already been paid, so where money is received
+in reimbursement of such a payment, it is a receipt of business money by
+the firm.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Workaround?}
+\NormalTok{A firm might wish to send a bill to a client for its anticipated future fees and disbursements with a view to paying the money received in payment of that bill into the firm’s business account, thus escaping the requirement that would apply under Rule 2.1 (d) to pay money received for unbilled fees and unpaid disbursements into the client bank account. Allowed, but there are reasons to be cautious about doing this. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{client-bank-account}{%
+\subsection{Client Bank Account}\label{client-bank-account}}
+
+A client bank account is one opened by the firm in the name of the firm,
+but used for client money. Rule 3.1 requires such an account to be at a
+bank or building society in England and Wales, and Rule 3.2 requires the
+account to include the word `client' in its title to distinguish it from
+the firm's own business accounts.
+
+Adding client in the title means section 85(2) of the Solicitors Act
+1974 applies. Provides that a bank does not have any recourse or right
+against money in a client bank account in respect of any liability of
+the solicitor to the bank.
+
+Rule 3.3 prohibits the use of a client bank account to provide banking
+facilities to clients or third parties.
+
+\hypertarget{prohibition-on-providing-banking-facilities}{%
+\subsection{Prohibition on Providing Banking
+Facilities}\label{prohibition-on-providing-banking-facilities}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 3.3}
+\NormalTok{You must not use a client account to provide banking facilities to clients or third parties. Payments into, and transfers or withdrawals from a client account must be in respect of the delivery by you of regulated services.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Using a client account improperly}
+\NormalTok{As well as sanctions for breaching r 3.3, a solicitor could be in breach of SRA Principles by failing to act }
+\NormalTok{{-} in a way that upholds the constitutional principle of the rule of law, and the proper}
+\NormalTok{administration of justice: Principle 1}
+\NormalTok{{-} in a way that upholds public trust and confidence in the solicitors’ profession and in}
+\NormalTok{legal services provided by authorised persons: Principle 2}
+\NormalTok{{-} with independence: Principle 3}
+\NormalTok{{-} with integrity: Principle 5.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{sra-warning}{%
+\subsubsection{SRA Warning}\label{sra-warning}}
+
+\begin{quote}
+Law firms, their managers and employees should not allow the firm's
+client account to be used to provide banking facilities to clients or
+third parties. You must also actively consider whether there are any
+risk factors suggesting that the transaction on which you are acting,
+even if it appears to be the normal work of a solicitor, is not genuine
+or is suspicious.\\
+SRA warning notice 25/11/19
+\end{quote}
+
+Funds can only be received into the client bank account where there is a
+proper connection between receipt of the funds and the delivery of
+regulated services.
+
+Simply having a retainer with a client is insufficient to allow for
+processing funds freely through the client bank account.
+
+Note that traditionally, solicitors held funds for clients to enable
+them to pay routine outgoings. This is no longer acceptable practice.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{You should always ask why you are being asked to make a payment or why the client cannot make or receive the payment directly themselves. The client’s convenience is not a legitimate reason, nor is not having access to a bank account in the UK.}
+\end{Highlighting}
+\end{Shaded}
+
+See {[}{[}Fuglers \& Others v SRA {[}2014{]} EWHC 179 (Admin){]}{]};
+{[}{[}Premji Naram Patel v SRA {[}2012{]} EWHC 3373 (Admin){]}{]}; and
+{[}{[}Attorney General of Zambia v Meer Care \& Desai {[}2008{]} EWCA
+Civ 1007{]}{]}.
+
+\hypertarget{deputies}{%
+\subsubsection{Deputies}\label{deputies}}
+
+Solicitors acting as deputies who used client bank accounts for the
+affairs of people without capacity to manage their own financial affairs
+under the Mental Capacity Act 2005 do not infringe r 3.3. But this is
+not recommended/ authorised by the Office of the Public Guardian (mixing
+funds is never really a good idea, and having a separate bank account
+means you can have safeguards on authorisation).
+
+\hypertarget{paying-client-money-into-client-bank-account}{%
+\subsection{Paying Client Money into Client Bank
+Account}\label{paying-client-money-into-client-bank-account}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 2.3}
+\NormalTok{You ensure that client money is paid promptly into a client account unless:}
+\NormalTok{{-} in relation to money falling within 2.1(c), to do so would conflict with your obligations under rules or regulations relating to your specified office or appointment;}
+\NormalTok{{-} the client money represents payments received from the Legal Aid Agency for your costs; or}
+\NormalTok{{-} you agree in the individual circumstances an alternative arrangement in writing with the client, or the third party, for whom the money is held.}
+\end{Highlighting}
+\end{Shaded}
+
+This is subject to an exception:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 2.2}
+\NormalTok{In circumstances where the only client money you hold or receive falls within rule 2.1(d) above, and:}
+\NormalTok{{-} any money held for disbursements relates to costs or expenses incurred by you on behalf of your client and for which you are liable; and}
+\NormalTok{{-} you do not for any other reason maintain a client account;}
+
+\NormalTok{you are not required to hold this money in a client account if you have informed your client in advance of where and how the money will be held. Rules 2.3, 2.4, 4.1, 7, 8.1(b) and (c) and 12 do not apply to client money held outside of a client account in accordance with this rule.}
+\end{Highlighting}
+\end{Shaded}
+
+The ability to dispense with a client bank account can lead to cost
+savings in professional indemnity insurance, compliance and producing an
+accountant's report.
+
+\begin{itemize}
+\tightlist
+\item
+  Client money must be available on demand (r 2.4)
+\item
+  Client money must be returned promptly once there is no reason to hold
+  the funds (r 2.5)
+\end{itemize}
+
+\hypertarget{keeping-money-separate}{%
+\subsection{Keeping Money Separate}\label{keeping-money-separate}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 4.1}
+\NormalTok{You keep client money separate from money belonging to the authorised body.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{mixed-receipts}{%
+\subsubsection{Mixed Receipts}\label{mixed-receipts}}
+
+If a firm receives a mixed payment containing client money + money to
+pay a firm's bill, the 2019 Rules allow the firm to choose whether to
+pay the receipt into the client or business bank account. This is a
+controversial change. Note that you still can't use client money to prop
+up business accounts because this would be contrary to the Principles.
+
+\hypertarget{client-business-account-transfers}{%
+\subsubsection{Client → Business Account
+Transfers}\label{client-business-account-transfers}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 4.3}
+\NormalTok{Where you are holding client money and some or all of that money will be used to pay your costs:}
+\NormalTok{{-} you must give a bill of costs, or other written notification of the costs incurred, to the client or the paying party;}
+\NormalTok{{-} this must be done before you transfer any client money from a client account to make the payment; and}
+\NormalTok{{-} any such payment must be for the specific sum identified in the bill of costs, or other written notification of the costs incurred, and covered by the amount held for the particular client or third party.}
+\end{Highlighting}
+\end{Shaded}
+
+Exception: where a bill includes anticipated disbursements which have
+not yet been incurred, not in breach of r 43 for leaving the money
+associated with those billed anticipated disbursements in the client
+bank account until they are paid.
+
+\hypertarget{bill-for-anticipated-fees-disbursements}{%
+\subsubsection{Bill for Anticipated fees/
+Disbursements}\label{bill-for-anticipated-fees-disbursements}}
+
+2019 Rules permit monies to be transferred from client bank account if a
+bill has been given to the client for work to be undertaken in the
+future.
+
+But consider the risk of insolvency and immediacy with which money could
+be paid back. You should not bill in advance for advance disbursements
+that the client will remain liable to pay for such as SDLT.
+
+\hypertarget{transferring-money-for-paid-disbursements}{%
+\subsubsection{Transferring Money for Paid
+Disbursements}\label{transferring-money-for-paid-disbursements}}
+
+\begin{itemize}
+\tightlist
+\item
+  The obligation to send or give a bill to the client prior to
+  transferring sums from the client bank account applies to the firms
+  ``costs''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This includes profit costs and disbursements
+  \item
+    Change from the previous regime, which was just profit costs
+    (``fees'')
+  \end{itemize}
+\item
+  What about disbursements paid using firm money on behalf of the
+  client?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    SRA guidance states that r 5 permits money to be withdrawn from the
+    client bank account ``for the purpose for which it is being held'',
+    provided that this has been made clear in writing.
+  \item
+    But r 5 does not permit a transfer where disbursements have not yet
+    been incurred.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{withdrawals-from-client-bank-account}{%
+\subsection{Withdrawals From Client Bank
+Account}\label{withdrawals-from-client-bank-account}}
+
+\hypertarget{circumstances}{%
+\subsubsection{Circumstances}\label{circumstances}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 5.1}
+\NormalTok{You only withdraw client money from a client account:}
+\NormalTok{{-} for the purpose for which it is being held;}
+\NormalTok{{-} following receipt of instructions from the client, or the third party for whom the money is held; or}
+\NormalTok{{-} on the SRA\textquotesingle{}s prior written authorisation or in prescribed circumstances.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 5.2}
+\NormalTok{You appropriately authorise and supervise all withdrawals made from a client account.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 5.3}
+\NormalTok{You only withdraw client money from a client account if sufficient funds are held on behalf of that specific client or third party to make the payment.}
+\end{Highlighting}
+\end{Shaded}
+
+If there are insufficient funds:
+
+\begin{itemize}
+\tightlist
+\item
+  Pay from business bank account, or
+\item
+  Firm advances money to client bank account
+\end{itemize}
+
+\hypertarget{residual-client-account-balances}{%
+\subsubsection{Residual Client Account
+Balances}\label{residual-client-account-balances}}
+
+Residual client account balance arises where money was not returned to
+the client at the end of a retainer and cannot be returned as the client
+cannot be identified/ traced.
+
+\begin{itemize}
+\tightlist
+\item
+  Residual client balances of \(<£500\) can be withdrawn provided the
+  balance is paid to a charity and reasonable steps have been taken to
+  return the money to the rightful owner.
+\item
+  For amounts over £500, contact the SRA for authority to remove the
+  money from the client account.
+\end{itemize}
+
+\hypertarget{client-accounting-systems}{%
+\subsubsection{Client Accounting
+Systems}\label{client-accounting-systems}}
+
+Firms must maintain accurate records:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 8.1}
+\NormalTok{You keep and maintain accurate, contemporaneous, and chronological records to:}
+\NormalTok{{-} (a) record in client ledgers identified by the client\textquotesingle{}s name and an appropriate description of the matter to which they relate:}
+\NormalTok{    {-} (i) all receipts and payments which are client money on the client side of the client ledger account;}
+\NormalTok{    {-} (ii) all receipts and payments which are not client money and bills of costs including transactions through the authorised body\textquotesingle{}s accounts on the business side of the client ledger account;}
+\NormalTok{{-} (b) maintain a list of all the balances shown by the client ledger accounts of the liabilities to clients (and third parties), with a running total of the balances; and}
+\NormalTok{{-} (c) provide a cash book showing a running total of all transactions through client accounts held or operated by you.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.0625}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.9375}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Rule
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Summary
+\end{minipage} \\
+\midrule()
+\endhead
+r 8.2 & Firms obtain bank statements for all client accounts at least
+every 5 weeks \\
+r 8.3 & Bank reconciliation statements produced \\
+r 8.4 & Central record of bills and costs kept in a readily accessible
+form. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{paying-interest-to-clients}{%
+\subsubsection{Paying Interest to
+Clients}\label{paying-interest-to-clients}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 7.1}
+\NormalTok{You account to clients or third parties for a fair sum of interest on any client money held by you on their behalf.}
+\end{Highlighting}
+\end{Shaded}
+
+This can be varied by written agreement, provided sufficient information
+is given for the client to give informed consent (r 7.2)
+
+\hypertarget{rd-party-managed-accounts}{%
+\subsubsection{3rd Party Managed
+Accounts}\label{rd-party-managed-accounts}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 11.1}
+\NormalTok{You may enter into arrangements with a client to use a third party managed account for the purpose of receiving payments from or on behalf of, or making payments to or on behalf of, the client in respect of regulated services delivered by you to the client, only if:}
+\NormalTok{{-} (a) use of the account does not result in you receiving or holding the client\textquotesingle{}s money; and}
+\NormalTok{{-} (b) you take reasonable steps to ensure, before accepting instructions, that the client is informed of and understands:}
+\NormalTok{    {-} (i) the terms of the contractual arrangements relating to the use of the third party managed account, and in particular how any fees for use of the third party managed account will be paid and who will bear them; and}
+\NormalTok{    {-} (ii) the client\textquotesingle{}s right to terminate the agreement and dispute payment requests made by you.}
+\end{Highlighting}
+\end{Shaded}
+
+Obtain regular statements from the third party (r 11.2). Provisions in
+the Accounts Rules relating to holding client money do not apply to
+monies in a TPMA (third-party managed account). Regulation will be by
+the FCA. Firms using a TPMA must notify the SRA using a form.
+
+\hypertarget{other-client-tp-money}{%
+\subsection{Other client/ TP Money}\label{other-client-tp-money}}
+
+\begin{itemize}
+\tightlist
+\item
+  Firms may open a joint account with client/ TP. The rules do not apply
+  to such an account, other than r 8.2 (bank statements) and r 8.4
+  (keeping a central record).
+\item
+  If the firm operates the client's bank account as a signatory, r 8.3
+  applies, requiring reconciliations of the account at least every 5
+  weeks.
+\end{itemize}
+
+\hypertarget{accountants-reports}{%
+\subsection{Accountants' Reports}\label{accountants-reports}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 12.1}
+\NormalTok{If you have, at any time during an accounting period, held or received client money, or operated a joint account or a client\textquotesingle{}s own account as signatory, you must:}
+
+\NormalTok{{-} (a) obtain an accountant\textquotesingle{}s report for that accounting period within six months of the end of the period; and}
+\NormalTok{{-} (b) deliver it to the SRA within six months of the end of the accounting period if the accountant\textquotesingle{}s report is qualified to show a failure to comply with these rules, such that money belonging to clients or thid parties is, or has been, or is likely to be placed, at risk.}
+\end{Highlighting}
+\end{Shaded}
+
+These must be prepared and signed by a chartered account and is/ works
+for a registered auditor.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 12.2}
+\NormalTok{You are not required to obtain an accountant\textquotesingle{}s report if:}
+
+\NormalTok{{-} (a) all of the client money held or received during an accounting period is money received from the Legal Aid Agency; or}
+\NormalTok{{-} (b) in the accounting period, the statement or passbook balance of client money you have held or received does not exceed:}
+\NormalTok{    {-} (i) an average of £10,000; and}
+\NormalTok{    {-} (ii) a maximum of £250,000,}
+\NormalTok{{-} (c) or the equivalent in foreign currency.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{accounting-to-client-for-interest}{%
+\section{Accounting to Client for
+Interest}\label{accounting-to-client-for-interest}}
+
+\hypertarget{obligation-to-account}{%
+\subsection{Obligation to Account}\label{obligation-to-account}}
+
+Relevant legislation:
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.0875}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.9125}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Statute
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Description
+\end{minipage} \\
+\midrule()
+\endhead
+Principle 5 & You act with integrity \\
+Principle 7 & You act in the best interests of each client. \\
+para 1.2 Code for Firms & You do not abuse your position by taking
+unfair advantage of clients or others. \\
+para 5.1 Code for Firms & You properly account to clients for any
+financial benefit you receive as a result of their instructions, except
+where they have agreed otherwise. \\
+r 7.1 Accounts Rules & You account to clients or third parties for a
+fair sum of interest on any client money held by you on their behalf. \\
+r 7.2 Accounts Rules & You may by a written agreement come to a
+different arrangement with the client or the third party for whom the
+money is held as to the payment of interest, but you must provide
+sufficient information to enable them to give informed consent. \\
+\bottomrule()
+\end{longtable}
+
+So it is up to firms to decide what is a fair way to calculate interest
+and how often to pay it. Usually there is a minimum threshold set for
+interest to be payable to the client.
+
+\hypertarget{dealing-with-interest}{%
+\subsubsection{Dealing with Interest}\label{dealing-with-interest}}
+
+Firms can choose to pay client money into:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  A general client bank account, or
+\item
+  A separate deposit bank account for that particular client.
+\end{enumerate}
+
+Usually a separate account is used where a significant amount of client
+money is to be held for some time. Generally, firms will account to
+clients for all interest earned on money in designated accounts ⇾ acting
+in the client's best interests.
+
+When a general client account is used, the firm has a bit more
+discretion. Should aim to earn interest on client money and have that
+interest paid into the business bank account. A sum is then paid from
+the business bank account as an expense.
+
+\hypertarget{choice-of-method}{%
+\subsubsection{Choice of Method}\label{choice-of-method}}
+
+Under the Solicitors Act 1974, solicitors are allowed to keep any
+interest earned over and above what is required to be paid under the
+rules. By putting all client money into a single account, the firm can
+earn a high rate of interest, and only pay out a lower `fair' rate of
+interest to a particular client.
+
+\hypertarget{separate-deposit-account}{%
+\subsection{Separate Deposit Account}\label{separate-deposit-account}}
+
+When opening a separate deposit account, ensure the recording
+requirements of r 8.1 Accounts Rules is complied with (client ledger and
+cash ledger records).
+
+\hypertarget{general-client-account}{%
+\subsection{General Client Account}\label{general-client-account}}
+
+The firm has to calculate how much would have been earned in respect to
+each individual client. A well-organised firm will put a proportion of
+client money on deposit in a general deposit bank account. Then it
+should be able to make money.
+
+\hypertarget{vat}{%
+\section{VAT}\label{vat}}
+
+\hypertarget{principles-1}{%
+\subsection{Principles}\label{principles-1}}
+
+See also {[}{[}Property Taxation\#VAT{]}{]}.
+
+\begin{itemize}
+\tightlist
+\item
+  A business registered for VAT charges customers \textbf{output tax},
+  paid to HMRC
+\item
+  Normally possible to deduct input tax charged to the business from the
+  amount accounted for to HMRC.
+\end{itemize}
+
+\hypertarget{output-tax}{%
+\subsubsection{Output Tax}\label{output-tax}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{VAT is chargeable on the supply of goods or services where the supply is (s 4(1) VAT Act 1994)}
+\NormalTok{1. a taxable supply }
+\NormalTok{2. made by a taxable person }
+\NormalTok{3. in the course or furtherance of a business carried out by them. }
+\end{Highlighting}
+\end{Shaded}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.0451}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.9549}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Element
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Explanation
+\end{minipage} \\
+\midrule()
+\endhead
+Supply of goods & All forms of supply whereby the whole property in
+goods is transferred, including a gift. \\
+Supply of services & Anything which is not a supply of goods but is done
+for consideration. The gratuitous supply of services is not a supply for
+VAT purposes. \\
+Taxable supply & Any supply of goods or services other than an exempt
+supply. Exempt supplies listed in Sch 9 VATA 1994 (including most
+supplies of land, insurance, postal services, finance health, burial,
+cremation). Zero-rated supplies listed in Sch 8 VATA 1994 (food, water,
+books, transport). A reduced rate of 5\% applies to some products, like
+domestic fuel. Legal services are standard rated. \\
+Taxable person & A person who is or is required to be registered under
+the Act. Value of taxable supplies in 12 months must exceed £85,000.
+Voluntary registration is always permitted. \\
+Business & Includes any trade, profession, or vocation, as well as
+provisions by some clubs/ associations. Where a person in the course of
+business accepts any office, any service supplied by them as holder of
+the office shall be treated as supplied in the course of business. \\
+\bottomrule()
+\end{longtable}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{If a law firm is selling off old office equipment, the sales also attract VAT. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{input-tax}{%
+\subsubsection{Input Tax}\label{input-tax}}
+
+If a taxable person is charged VAT on the supply of goods services for
+the purposes of their business, they may deduct the tax charged to them
+from the amount of output tax which they account for to HMRC (s 25(2)
+VATA 1994).
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: What is a taxable person makes both taxable and exempt supplies?}
+\NormalTok{They are partly exempt and may recover a proportion of input tax charged to them. Exception: when exempt supplies fall within de miimus limits, they can be ignored. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{value-of-supply}{%
+\subsubsection{Value of Supply}\label{value-of-supply}}
+
+Where a supply is fully taxable, standard rate VAT (20\%) is payable on
+the value of the supply.
+
+\[\text{Value of supply} = \text{Consideration} - \text{Tax payable}\]
+
+A quoted price is deemed to be inclusive of VAT unless otherwise
+expressly stated.
+
+\hypertarget{time-of-supply}{%
+\subsubsection{Time of Supply}\label{time-of-supply}}
+
+VAT is payable quarterly. So the time of supply (``tax point'')
+determines the quarter in which a taxable person can claim input tax on
+a taxable supply and are liable to output tax.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1026}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8974}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Supply
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Basic tax point
+\end{minipage} \\
+\midrule()
+\endhead
+Goods & When the goods are removed or made available to the purchaser (s
+6(2)) \\
+Services & When the services are completed (s 6(3)). \\
+\bottomrule()
+\end{longtable}
+
+Variations:
+
+\begin{itemize}
+\tightlist
+\item
+  If within 14 days of the basic tax point, the supplier issues a tax
+  invoice, the date of the invoice becomes the tax point, subject to any
+  agreement with HMRC (ss 6(5) \& (6))
+\item
+  For solicitors, the 14 days is extended to 3 months
+\item
+  If, before a basic tax point arises, the supplier issues a tax invoice
+  or receives payment, the supply will be treated as taking place at the
+  date of the invoice or payment (s 6(4)).
+\end{itemize}
+
+\hypertarget{tax-invoices}{%
+\subsubsection{Tax Invoices}\label{tax-invoices}}
+
+A taxable person making a taxable supply to another taxable person must
+within 30 days of the time of supply (subject to extensions agreed with
+HMRC) provide them with a tax invoice. The tax invoice must contain
+various details.
+
+\hypertarget{collection-and-accounts}{%
+\subsubsection{Collection and Accounts}\label{collection-and-accounts}}
+
+Within a month of the end of each quarter, a taxable person must submit
+a completed return form to HMRC together with a tax remittance. The
+amount payable is obtained from a statutory VAT account.
+
+\hypertarget{law-firms}{%
+\subsection{Law Firms}\label{law-firms}}
+
+Firms providing legal services must charge VAT.
+
+\hypertarget{disbursements}{%
+\subsubsection{Disbursements}\label{disbursements}}
+
+Disbursements are not regarded by HMRC as part of the supply of legal
+services, so the firm does \textbf{not} have to charge VAT on them. To
+qualify as a disbursement, all the following conditions must be met
+(para 25.1.1 VAT Notice 700):
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  you acted as the agent of your client when you paid the third party;
+\item
+  your client actually received and used the goods or services provided
+  by the third party (this condition usually prevents the agent's own
+  travelling and subsistence expenses, telephone bills, postage, and
+  other costs being treated as disbursements for VAT purposes);
+\item
+  your client was responsible for paying the third party (examples
+  include estate duty and stamp duty payable by your client on a
+  contract to be made by the client);
+\item
+  your client authorised you to make the payment on their behalf;
+\item
+  your client knew that the goods or services you paid for would be
+  provided by a third party;
+\item
+  your outlay will be separately itemised when you invoice your client;
+  you recover only the exact amount which you paid to the third party;
+  and
+\item
+  the goods or services, which you paid for, are clearly additional to
+  the supplies which you make to your client on your own account.
+\end{enumerate}
+
+The principle behind this is that there is a distinction between
+{[}{[}Nell Gwynn House Maintenance Fund Trustees v C\&E Commissioners
+{[}1999{]} STC 79{]}{]}:
+
+\begin{itemize}
+\tightlist
+\item
+  Expenses paid to a 3rd party incurred in the course of making your own
+  supply of services to the client which are part of the whole of the
+  services rendered to the client.
+\item
+  Expenses for specific services that have been supplied by the 3rd
+  party to your client, and you have acted as a client's known and
+  authorised representative in paying the third party.
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Disbursements}
+\NormalTok{{-} IHT}
+\NormalTok{{-} CGT}
+\NormalTok{{-} Stampt duty}
+\NormalTok{{-} Estate agents\textquotesingle{} fees}
+\NormalTok{{-} Counsel\textquotesingle{}s fees {-} even though the solicitor is responsible for ensuring payment. }
+\NormalTok{{-} Land Registry fees for registration of title}
+\end{Highlighting}
+\end{Shaded}
+
+Broadly, these can be divided into the categories of statutory charges
+and charges for the professional services of a 3rd party.
+
+\hypertarget{not-disbursements}{%
+\subsubsection{Not Disbursements}\label{not-disbursements}}
+
+Items which are a necessary part of the service supplied to a client.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Not disbursements}
+\NormalTok{{-} Telephone charges}
+\NormalTok{{-} Postage and photocopying charges}
+\NormalTok{{-} Travelling expenses incurred by solicitor ([[Rowe \& Maw (A Firm) v Customs and Excise Commissioners [1975] 1 WLR 1291]])}
+\NormalTok{{-} Electronic search fee ([[Brabners LLP v HMRC [2017] UKFTT 0666 (TC)]])}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{search-fees}{%
+\paragraph{Search Fees}\label{search-fees}}
+
+Whether a fee for a search is to be treated as a disbursement will
+depend on how information obtained in the search is used. If passed on
+to the client without comment or analysis, may be treated as a
+disbursement ({[}{[}Barratt, Goff and Tomlinson (a firm) v HMRC (Law
+Society Intervening) {[}2011{]} UKFTT 71 (TC){]}{]}). But it is unusual
+for this to be the case. More commonly, the solicitor will prepare
+advice/ a report based on the search. Therefore, the search will be part
+of the overall service and subject to VAT.
+
+The same item may amount to a disbursement in one situation, but not in
+another. Fees for Official Copy entries are unlikely to fulfil the
+criteria for a disbursement.
+
+\hypertarget{accounting-non-disbursements}{%
+\subsubsection{Accounting
+Non-disbursements}\label{accounting-non-disbursements}}
+
+Firms usually do not make a separate charge for overheads such as
+photocopying and phone calls. Possible to deal with search fees
+similarly.
+
+\begin{itemize}
+\tightlist
+\item
+  CR cash -- business section
+\item
+  DR searches account.
+\item
+  DR HMRC account if applicable.
+\end{itemize}
+
+Firms will normally want a record of the searches incurred for each
+client, so that they are shown separately from professional charges.
+They should then record these on the client ledger.
+
+\begin{itemize}
+\tightlist
+\item
+  CR cash -- business section
+\item
+  DR client ledger -- business section with VAT exclusive amount. Make a
+  note the payment is part of the firm's taxable supply.
+\item
+  DR HMRC account with the VAT input tax charged to the firm.
+\end{itemize}
+
+Where the original supplier charges VAT, the solicitor will treat the
+VAT as input tax. The VAT exclusive amount will be added to the supply
+and the solicitor will charge output tax.
+
+\hypertarget{accounting-disbursements}{%
+\subsubsection{Accounting
+Disbursements}\label{accounting-disbursements}}
+
+\hypertarget{non-taxable-disbursements}{%
+\paragraph{Non-taxable Disbursements}\label{non-taxable-disbursements}}
+
+Paid out of the client bank account if there is sufficient money, else
+out of the business bank account. There are no VAT considerations.
+
+\hypertarget{taxable-disbursements}{%
+\paragraph{Taxable Disbursements}\label{taxable-disbursements}}
+
+Payment made by the firm will include a VAT element, which is passed
+onto the client. Clients who are registered for VAT will want to recover
+this from HMRC, so need a VAT invoice addressed to them. But the
+supplier may have addressed the invoice to the firm making the payment.
+
+If addressed to the client, the agency method is used. If addressed to
+the firm, the principal method is used, requiring the solicitor to
+resupply the service to the client.
+
+\hypertarget{agency-method}{%
+\paragraph{Agency Method}\label{agency-method}}
+
+The firm acts as the agent. Payment made using client bank account if
+sufficient credit, else business bank account. Only the total amount
+paid needs to be recorded. The firm then sends the supplier's tax
+invoice to the client.
+
+\hypertarget{principal-method}{%
+\paragraph{Principal Method}\label{principal-method}}
+
+If the invoice is addressed to the firm, the supply is treated as made
+to the firm.
+
+\begin{itemize}
+\tightlist
+\item
+  Firm claims supply as input
+\item
+  Firm uses business money to pay supplier fees + input tax
+\item
+  Firm resupplies the item to the client at the same price.
+\item
+  Firm charges client output tax on the firm's professional charges, and
+  the disbursement
+\item
+  Firm provides 1 invoice to cover the above.
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{A disbursement paid on the principal method must be paid out of the business bank account, even if there is client money available. Supply is treated as being made to the firm, not the client. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{counsel-fees}{%
+\subsubsection{Counsel Fees}\label{counsel-fees}}
+
+Counsel fees usually addressed to the firm and would have to be treated
+on the principal basis. But HMRC has agreed a concession. The firm is
+allowed to alter the fee note so that it is dressed to the client. It is
+then treated on the agency basis. The firm must give the fee note to the
+client. The firm should keep a copy of the amended receipted fee note
+for assessment of costs purposes.
+
+\hypertarget{accounting-problems}{%
+\section{Accounting Problems}\label{accounting-problems}}
+
+One problem is that a large number of client ledgers are required, with
+frequent inter-client transactions.
+
+\hypertarget{stakeholder-money}{%
+\subsection{Stakeholder Money}\label{stakeholder-money}}
+
+May receive a deposit to hold as stakeholder. This is a receipt of
+client money, so must be held in the client bank account. This is held
+jointly for the buyer and seller. It will not become the property of the
+seller unless and until completion.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Law Society guidance}
+\NormalTok{Stakeholder money may be shown on the seller\textquotesingle{}s ledger but must be clearly labelled as stakeholder money held for both buyer and seller. }
+\end{Highlighting}
+\end{Shaded}
+
+Alternatively, use a separate stakeholder ledger. If a separate
+stakeholder ledger is used, once monies received from the buyer:
+
+\begin{itemize}
+\tightlist
+\item
+  DR cash
+\item
+  CR Joint stakeholder ledger.
+\end{itemize}
+
+Then on completion:
+
+\begin{itemize}
+\tightlist
+\item
+  DR joint stakeholder ledger
+\item
+  CR seller's ledger
+\end{itemize}
+
+\hypertarget{bridging-finance}{%
+\subsection{Bridging Finance}\label{bridging-finance}}
+
+A deposit received as stakeholder is not available to the seller until
+completion (subject to agreement to the contrary -- Standard Conditions
+SC 2.2.5). Often a bridging loan is obtained from a bank to cover the
+period from exchange of contracts to completion of the sale. This is a
+personal loan to the borrower. So, when received, credited to the
+borrower's ledger account.
+
+\hypertarget{mortgages}{%
+\subsection{Mortgages}\label{mortgages}}
+
+A client who sells property subject to a mortgage will have to redeem
+the mortgage after completion. If you act for a client buying a
+property, may also act for the lender, provided there is no conflict of
+interest.
+
+\begin{itemize}
+\tightlist
+\item
+  Mortgage advance received from a lender is usually held for the lender
+  until the day of completion
+\item
+  r 8.1: receipts and payments of client money must be recorded on
+  client ledgers identified by the client's name and description.
+\item
+  Firms acting for both the lender and borrower can choose to either:
+
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi}.}
+  \tightlist
+  \item
+    Credit the mortgage advance to the borrower's ledger account.
+    Details column should include the name of the lender and ``mortgage
+    advance''
+  \item
+    Mortgage advance credited to a separate ledger account in the name
+    of the lender on receipt. On completion, perform an inter-client
+    audit trail.
+  \end{enumerate}
+\end{itemize}
+
+\hypertarget{professional-charges}{%
+\subsubsection{Professional Charges}\label{professional-charges}}
+
+Entitled to charge the lender for work done in connection with the
+mortgage advance and charge the buyer for work done in connection with
+the purchase. The buyer may have agreed with the lender to pay the costs
+charged to the lender.
+
+Normal rule: costs and VAT must be debited to the ledger account of the
+person to whom legal services were supplied.
+
+\hypertarget{mortgage-redemption}{%
+\subsubsection{Mortgage Redemption}\label{mortgage-redemption}}
+
+Many sellers have a balance left on their mortgage at the date of sale.
+The balance must be paid off from the proceeds of sale.
+
+If acting for both the lender and seller (rare but possible), some sale
+proceeds will be received for the seller and some for the lender. The
+whole receipt of client money will be paid into the client bank account.
+Just make sure there is a clear audit trail.
+
+Options:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Credit the whole amount to the seller's ledger account initially, and
+  then do an immediate inter-client transfer of the amount required to
+  redeem the mortgage.
+\item
+  Split the credit entries at the time of receipt. Credit part of the
+  proceeds to the seller's ledger account and part to the lender's
+  ledger account. Debit entire amount to cash account client section.
+\end{enumerate}
+
+\hypertarget{legal-fees-on-mortgage-redemption}{%
+\subsubsection{Legal Fees on Mortgage
+Redemption}\label{legal-fees-on-mortgage-redemption}}
+
+The seller may have agreed to pay the lender's legal fees, in which case
+a transfer should be made.
+
+\hypertarget{agency-transactions}{%
+\subsection{Agency Transactions}\label{agency-transactions}}
+
+A firm may decide to use another firm as its agent. This frequently
+happens in litigation.
+
+\hypertarget{agency-firm}{%
+\subsubsection{Agency Firm}\label{agency-firm}}
+
+Treats the instructing firm like any other client.
+
+\hypertarget{instructing-firm}{%
+\subsubsection{Instructing Firm}\label{instructing-firm}}
+
+Professional fees charged by the agent are not a disbursement paid by
+the instructing firm on behalf of the client. The professional fees of
+the agent are an expense of the instructing firm. The firm will charge
+enough for its legal services to cover the expense of using an agent.
+Any true disbursements will be charged to the client as usual.
+
+When paying an agent's bill, send one business bank account cheque for
+the total amount. 3 elements:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Agent's professional fees (DR agency expenses account, business
+  section)
+\item
+  VAT on these fees (DR HMRC account, business section)
+\item
+  Any disbursements paid by the agent (DR client account ledger,
+  business section)
+\end{enumerate}
+
+Record these on the separate relevant accounts.
+
+\hypertarget{tp-managed-accounts}{%
+\section{TP Managed Accounts}\label{tp-managed-accounts}}
+
+\hypertarget{rules}{%
+\subsection{Rules}\label{rules}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 11.1 Accounts\textquotesingle{} Rules}
+\NormalTok{You may enter into arrangements with a client to use a third party managed account for the purpose of receiving payments from or on behalf of, or making payments to or on behalf of, the client in respect of regulated services delivered by you to the client, only if:}
+\NormalTok{{-} (a) use of the account does not result in you receiving or holding the client\textquotesingle{}s money; and}
+\NormalTok{{-} (b) you take reasonable steps to ensure, before accepting instructions, that the client is informed of and understands:}
+\NormalTok{    {-} (i) the terms of the contractual arrangements relating to the use of the third party managed account, and in particular how any fees for use of the third party managed account will be paid and who will bear them; and}
+\NormalTok{    {-} (ii) the client\textquotesingle{}s right to terminate the agreement and dispute payment requests made by you.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 11.2}
+\NormalTok{You obtain regular statements from the provider of the third party managed account and ensure that these accurately reflect all transactions on the account.}
+\end{Highlighting}
+\end{Shaded}
+
+To protect client money and assets (para 4.2 SRA Code for Solicitors)
+and to act in the best interests of each client (Principle 7), a
+solicitor must ensure that a decision to use a TPMA is appropriate in
+each individual case.
+
+\hypertarget{checks}{%
+\subsection{Checks}\label{checks}}
+
+\begin{itemize}
+\tightlist
+\item
+  The TPMA must be authorised and regulated by the FCA. This means it
+  must be:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    An authorised payment institution
+  \item
+    A small payment institution which has adopted voluntary safeguarding
+    arrangements to the same level as an API
+  \item
+    An EEA authorised payment institution.
+  \end{itemize}
+\item
+  TPMA must be an account held at a bank or building society operated as
+  an escrow payment service.
+\end{itemize}
+
+\hypertarget{engaging-client}{%
+\subsection{Engaging Client}\label{engaging-client}}
+
+Firm must take appropriate steps to ensure that:
+
+\begin{itemize}
+\tightlist
+\item
+  Client is informed and understands their rights and obligations. Also
+  whether they are required to authorise payments and any fees they may
+  have to pay.
+\item
+  Obtains regular statements and ensure these reflect the transactions
+  on the account correctly.
+\item
+  Makes sure funds in the TPMA are only used for the designated purpose.
+\item
+  Keep overview records of transactions.
+\end{itemize}
+
+Para 2.1 Code for Firms; the firm must have in place effective systems
+and controls to ensure that the business and employees comply with SRA
+regulatory arrangements. SRA should be notified that a firm is using a
+TPMA, using a TPMA form.
+
+\hypertarget{tell-clients}{%
+\subsection{Tell Clients}\label{tell-clients}}
+
+\begin{itemize}
+\tightlist
+\item
+  How the money will be held and how the transaction will work
+  (paragraph 8.6 of the SRA Code of Conduct for Solicitors, RELs and
+  RFLs)
+\item
+  their right to terminate the agreement (rule 11.1(b)(ii) of the
+  accounts rules)
+\item
+  their right to dispute payment requests made by you
+\item
+  who will be responsible for costs associated with the agreement (rule
+  11.1(b)(i) of the Accounts Rules)
+\item
+  that the TPMA is regulated by the FCA and that complaints about the
+  TPMA provider should be made to that provider in accordance with their
+  complaints procedure, and
+\item
+  that the regulatory protections that apply to TPMAs are different to
+  those that apply to client money held in a firm's client account
+  (paragraph 8.11 of the SRA Code of Conduct for Solicitors, RELs and
+  RFLs).
+\end{itemize}
+
+\hypertarget{compliance}{%
+\section{Compliance}\label{compliance}}
+
+\hypertarget{accountants-reports-1}{%
+\subsection{Accountants' Reports}\label{accountants-reports-1}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 12.1}
+\NormalTok{If you have, at any time during an accounting period, held or received client money, or operated a joint account or a client\textquotesingle{}s own account as signatory, you must:}
+
+\NormalTok{{-} (a) obtain an accountant\textquotesingle{}s report for that accounting period within six months of the end of the period; and}
+\NormalTok{{-} (b) deliver it to the SRA within six months of the end of the accounting period if the accountant\textquotesingle{}s report is qualified to show a failure to comply with these rules, such that money belonging to clients or third parties is, or has been, or is likely to be placed, at risk.}
+\end{Highlighting}
+\end{Shaded}
+
+The obligation to send qualified reports rests with the firm and its
+managers. ``Qualified'' is not defined, but some examples of serious and
+moderate factors are given. Serious factors include a significant
+shortfall on client account, systematic billing for fees that have not
+occurred, disregard for the safety of client money,\ldots{}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 12.2}
+\NormalTok{You are not required to obtain an accountant\textquotesingle{}s report if:}
+
+\NormalTok{{-} (a) all of the client money held or received during an accounting period is money received from the Legal Aid Agency; or}
+\NormalTok{{-} (b) in the accounting period, the statement or passbook balance of client money you have held or received does not exceed:}
+\NormalTok{    {-} (i) an average of £10,000; and}
+\NormalTok{    {-} (ii) a maximum of £250,000,}
+\NormalTok{{-} or the equivalent in foreign currency.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{itemize}
+\tightlist
+\item
+  When a firm shuts down, the SRA may require it to send the SRA an
+  accountant's report on reasonable notice (r 12.4).
+\item
+  SRA may disqualify an accountant from preparing a report if they have
+  been found negligent/ guilty of misconduct (r 12.6).
+\item
+  Accountants must be provided with relevant details (r 12.8)
+\item
+  All accounting records must be kept for at least 6 years.
+\end{itemize}
+
+\end{document}

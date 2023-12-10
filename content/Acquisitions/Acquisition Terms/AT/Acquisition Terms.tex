@@ -1,0 +1,3272 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\newenvironment{Shaded}{}{}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+
+\newenvironment{env-4c5c31f3-81a9-434e-89cc-8f0fd4e25f51}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{firebrick}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-e793edd2-62b7-4eeb-91a8-ad0de10169f2}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-03079e4f-383c-498b-95e6-c0418f4c98fd}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{green}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-1334a8cf-22d6-42ce-9568-63ae80b8464e}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{aquamarine}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-ab062ac2-7241-4f58-8218-529f07b57808}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{orange}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-ef4b0f6f-950d-490a-8bad-82e53ad6f13c}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gold}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-893fe7e9-ab42-4369-96b8-9a11fc787c4e}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darkred}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-1c541f02-5320-4465-8189-c1777d42d690}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{pink}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-7ab79092-8686-4b2a-85d2-2ba94b608b1b}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-53295162-ebbe-4d92-9ee5-b27b8f616386}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-c82f8311-b251-4911-953a-21624a648a86}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{purple}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-8228b137-f785-4fd5-9760-a34d72a85ef7}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darksalmon}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-8ee17324-9b76-4af4-8e2e-c4eb8489dcab}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gray}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\hypertarget{spa}{%
+\section{SPA}\label{spa}}
+
+\hypertarget{structure-of-agreement}{%
+\subsection{Structure of Agreement}\label{structure-of-agreement}}
+
+Order of the agreement:
+
+\begin{itemize}
+\tightlist
+\item
+  parties and date;
+\item
+  operative provisions;
+\item
+  schedules;
+\item
+  execution by the parties.
+\end{itemize}
+
+Think about if there are any language requirements (e.g., the French
+insist on French). If there are multiple languages, say which prevails
+in the event of a conflict.
+
+\hypertarget{parties}{%
+\subsection{Parties}\label{parties}}
+
+Where there is more than one seller, the details of all the sellers will
+usually be set out in a schedule to the agreement. Usually, all sellers
+give warranties. If not, parties described as sellers, warrantors and
+buyers. There may also be guarantors of the seller's/ buyer's
+obligations.
+
+\hypertarget{execution}{%
+\subsubsection{Execution}\label{execution}}
+
+When the parties execute the agreement, it will be dated, so creating a
+binding contractual agreement to buy and sell either the shares of the
+target company or the assets of the business.
+
+Civil law countries do things differently, SPA is usually far shorter.
+This is because contracts in civil code jurisdictions rely on the
+underlying code and interpreting the provisions according to good faith.
+
+\hypertarget{operative-provisions}{%
+\subsection{Operative Provisions}\label{operative-provisions}}
+
+The operative provisions set out the basis on which the buyer agrees to
+purchase the shares or assets of the business, and on which the seller
+agrees to sell. Precise details often in a schedule.
+
+\hypertarget{definitions-and-interpretation}{%
+\subsection{Definitions and
+Interpretation}\label{definitions-and-interpretation}}
+
+Start with these clauses. Makes the document cleaner.
+
+The buyer will usually want it to be provided expressly that references
+to statutory provisions are to be interpreted as including subsequent
+amendments to those provisions. This is dangerous for the seller,
+particularly in relation to its potential liability under the
+warranties. Means the seller risks these liabilities increasing.
+
+\hypertarget{conditions-precedent}{%
+\subsection{Conditions Precedent}\label{conditions-precedent}}
+
+Completion of acquisition usually simultaneous with exchange of
+contracts. But sometimes there are CPs.
+
+If the agreement is conditional, it is usual to include an obligation on
+the parties to seek fulfilment of the condition, a longstop date by
+which the condition must be fulfilled or waived, and a time frame within
+which the acquisition must complete once the condition has been
+fulfilled.
+
+\hypertarget{agreement-to-purchase}{%
+\subsection{Agreement to Purchase}\label{agreement-to-purchase}}
+
+The agreement will also provide that the parties agree to sell/ purchase
+the specified shares/ assets. Usually provides that buyer is not obliged
+to buy any shares/ assets until it can purchase simultaneously.
+
+\hypertarget{consideration}{%
+\subsection{Consideration}\label{consideration}}
+
+The sale and purchase agreement will stipulate the agreed price, the
+form that it will take, and the timing of payment. For multiple sellers,
+price payable to each set out in a schedule.
+
+On an asset sale, the amount of the consideration which is attributable
+to each separate asset will be specified in the agreement (the agreed
+apportionment is usually set out in a schedule).
+
+\hypertarget{completion-accounts}{%
+\subsubsection{Completion Accounts}\label{completion-accounts}}
+
+\hypertarget{reasons-and-form}{%
+\paragraph{Reasons and Form}\label{reasons-and-form}}
+
+Parties may have based their valuation of the target on dated
+information. Buyer may want confirmation that the figures have not
+altered significantly since the original accounts.
+
+Parties may agree to adjust the purchase price to reflect the actual net
+assets or earnings of the target on the completion date, as determined
+by a set of agreed accounts drawn up after completion.
+
+Such completion accounts may consist of:
+
+\begin{itemize}
+\tightlist
+\item
+  Full P\&L
+\item
+  Balance sheet
+\item
+  Statement of net assets.
+\end{itemize}
+
+\hypertarget{control}{%
+\paragraph{Control}\label{control}}
+
+The seller's accountant, who is likely to be the target company's
+auditor up until completion, is often nominated to prepare the first
+draft of the completion accounts since it will already be familiar with
+the business.
+
+But the buyer may prefer to do this itself (to gain familiarity with the
+business).
+
+\hypertarget{typical-provisions}{%
+\paragraph{Typical Provisions}\label{typical-provisions}}
+
+\begin{itemize}
+\tightlist
+\item
+  Maximum amount of the purchase price, with a further adjustment
+  payment/ repayment to be made once the completion accounts have been
+  prepared.
+\item
+  Adjustment usually made in cash. Actual adjustment depends on what the
+  parties agree.
+\item
+  Might be one-sided or two-sided, might apply a multiplier to any
+  shortfall in earnings.
+\item
+  It is also important that the sale and purchase agreement contains
+  clear provisions guarding against possible double recovery that could
+  occur where, for example, a reduction in net assets at completion also
+  constitutes evidence of breach of warranty. The buyer should not be
+  able to recover under an action for breach of warranty, whilst also
+  benefitting from paying a smaller purchase price as a result of the
+  completion accounts.
+\item
+  Agreed mechanism for completing accounts, usually in a schedule.
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Typical provisions}
+\NormalTok{1. Completion accounts drawn up within 30 business days. Accountant preparing accounts instructed to do so on a basis consistent with the latest set of audited accounts. }
+\NormalTok{2. Buyer and accountant have the right to review completion accounts. }
+\NormalTok{3. In the absence of agreement as to the accounts, a limited period during which the parties will attempt to resolve any disputes;}
+\NormalTok{4. in the case of continued dispute, the matter to be referred to an independent firm of accountants acting as experts. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{specific-accounting-policies}{%
+\subsubsection{Specific Accounting
+Policies}\label{specific-accounting-policies}}
+
+Clearly set them out. Could be GAAP, UK GAAP or IFRS. Also set out
+specifics to avoid any grey areas, e.g.,
+
+\begin{itemize}
+\tightlist
+\item
+  In relation to bad debts.
+\item
+  Valuation of fixed assets
+\item
+  Applicable depreciation policy.
+\end{itemize}
+
+Consider imposing restrictive covenants to avoid a party trying to
+improve the results of accounts by making unnecessary changes within
+their business.
+
+The seller, for example, should be bound in the pre-completion period
+preventing it from, say, overstocking the business.
+
+\hypertarget{fixed-price}{%
+\subsubsection{Fixed Price}\label{fixed-price}}
+
+There is a recent trend towards fixed price, or so-called `locked box',
+transactions where the parties agree a price for the target company (it
+is most commonly used in share acquisitions) which is fixed before the
+sale and purchase agreement is signed.
+
+Risky for the buyer, whose only opportunity for a price adjustment after
+completion is by bringing a valid warranty claim.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{In a locked box transaction, the economic interest in the target passes to the buyer at a pre{-}signing date (the ‘locked box date’), and the buyer therefore has the benefit of the cash profits generated by the business from that date. The seller, however, does not receive the sale proceeds until completion, and to compensate the seller for this, the buyer will typically pay interest on the purchase price for the period between the locked box date and closing.}
+\end{Highlighting}
+\end{Shaded}
+
+The buyer is wise to include provisions in the sale and purchase
+agreement to protect against `leakage' -- that is, the seller extracting
+value from the target between the date of the agreed accounts and the
+completion date. Could include payment of a dividend, unsanctioned
+transfer of assets to target shareholders, or inappropriate payment of
+expenses by the target.
+
+Specify any permitted leakage in the SPA and details of whether this
+will result in a reduction of price.
+
+Considerations:
+
+\begin{itemize}
+\tightlist
+\item
+  Certainty of price at an early stage
+\item
+  Simplicity of process means lower costs
+\item
+  Seller has increased control over setting the price. Useful especially
+  in an auction process to compare bids.
+\item
+  Seller must have a suitable balance sheet available
+\item
+  Seller must ensure interest charged between locked box date and
+  closing is not too low.
+\item
+  Buyer must negotiate price adjustments earlier in the process with
+  less knowledge of the target.
+\item
+  Buyer must ensure the SPA clearly defines who is seller/ regulated
+  person for the purposes of identifying leakage.
+\end{itemize}
+
+\hypertarget{earn-outs}{%
+\subsubsection{Earn Outs}\label{earn-outs}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{An arrangement whereby at least part of the consideration is determined by reference to the future profitability of the target for a specified period after completion (eg for the three accounting periods following completion).}
+\end{Highlighting}
+\end{Shaded}
+
+This avoids a buyer paying too much if the target fails to perform, but
+motivates sellers/ managers who are staying on post-acquisition.
+
+Provisions usually provide for accounts to be prepared for relevant
+periods by the buyer's accountant, with an adjustment to the purchase
+price dependent on a certain level of profitability. Will be based on a
+multiple of the profits achieved.
+
+Parties will agree a timetable for review of accounts, agreement of
+earn-out profit and payment, and how any dispute will be resolved.
+
+Civil law: take care to draft such provisions carefully. French law
+requires the price to be defined, else it is void. Clauses where a
+party's rights are disproportionate to its obligations can also be held
+void under French law.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Seller and buyer may be pulling in different directions post{-}acquisition (maximising short term profit vs long{-}term gain). Parties may limit the tension by defining the objectives of the company post{-}completion. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{payment-terms}{%
+\subsubsection{Payment Terms}\label{payment-terms}}
+
+Often a fixed amount is paid in cash on the completion date, but parties
+free to agree other terms (e.g., deferred payment, payment through
+issuing of shares).
+
+\hypertarget{deferred-consideration}{%
+\subsubsection{Deferred Consideration}\label{deferred-consideration}}
+
+Seller will usually demand interest on the outstanding amount and will
+insist on security for payment. Purchase price often subject to an
+adjustment dependent on completion accounts. Buyer may insist on a
+retention of part of the purchase price as security in case a warranty
+claim arises in relation to the target. Usually only appropriate where
+there is an identified but unquantified liability.
+
+\hypertarget{tax-treatment}{%
+\paragraph{Tax Treatment}\label{tax-treatment}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: General rule}
+\NormalTok{Seller will be charged to tax as at the date of sale on the total amount of the consideration, regardless of whether that consideration has actually been received. If the consideration is certain, the fact that some of it is deferred will not affect the seller’s tax position. }
+\end{Highlighting}
+\end{Shaded}
+
+Where the consideration cannot be ascertained at completion because it
+is dependent on future events, such as the profitability of the target
+after the sale (as with an earn-out arrangement), the rule set out in
+{[}{[}Marren (Inspector of Taxes) v Ingles {[}1980{]} 3 All ER 95{]}{]}
+applies and tax is charged on the disposal of two separate capital
+assets.
+
+\begin{itemize}
+\tightlist
+\item
+  First disposal is of the shares of the target company/ assets of the
+  target business.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Seller treated as having received as consideration both the
+    consideration actually received at completion + a ``chose in
+    action'' (right to receive further payment if future profits
+    attained).
+  \item
+    Chose in action given a value by HMRC.
+  \end{itemize}
+\item
+  Where the earn-out is received, treated as a second disposal by the
+  seller.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If the payment exceeds original valuation by HMRC, seller treated as
+    having made a capital gain, and charged to CGT/ corporation tax.
+  \item
+    Loss is an allowable loss for seller's capital gains purposes.
+  \end{itemize}
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{The principle applies only where the parties do not, as at Completion, have the information required to determine the deferred consideration. If consideration is deferred pending agreement of Completion Accounts, the parties do have the information required to determine the the target\textquotesingle{}s financial condition as at Completion but have not yet processed the information.}
+\end{Highlighting}
+\end{Shaded}
+
+Buyer's tax position for stamp duty purposes also dependent on whether
+deferred consideration is ascertainable at completion.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Where the consideration is certain but deferred, stamp duty is payable
+  within 30 days of the completion date -- no allowance for the deferral
+  is made.
+\item
+  Where the amount of the deferred consideration has not yet been
+  determined but is ascertainable at completion, for example because it
+  is dependent on the preparation of completion accounts, the Stamp
+  Office applies the `wait and see' principle (stamp duty will be
+  charged once the consideration has been finally determined).
+\end{enumerate}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{The buyer should nonetheless submit the stock transfer forms for stamping within 30 days of completion, and make a payment on account of stamp duty, to avoid penalties and reduce interest charges (which run from 30 days after the completion date even if the consideration has yet to be ascertained).}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Where the deferred consideration is unascertainable at completion, as
+  with an earn-out arrangement, no stamp duty is payable on it unless
+  the `contingency' principle applies. Under the contingency principle,
+  if the consideration is stated to be subject to a minimum or a maximum
+  amount, or is to be calculated by reference to a basic or `benchmark'
+  figure, then stamp duty is chargeable on that minimum, maximum or
+  benchmark sum. Where both a minimum and a maximum are specified, stamp
+  duty is charged on the maximum amount.
+\end{enumerate}
+
+\hypertarget{security}{%
+\subsubsection{Security}\label{security}}
+
+Where part of the purchase price does remain outstanding on completion,
+the seller may seek security for the outstanding sums:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  by taking a \textbf{charge} over some or all of the assets transferred
+  to the buyer;
+\item
+  by requiring a \textbf{guarantee} of the buyer's obligation to pay the
+  balance of the price (e.g., from parent company/ directors);
+\item
+  by providing in the agreement that \textbf{title} to specified assets
+  is to remain with the seller until the purchase price is paid in full;
+\item
+  by obliging the buyer to place a specified sum in a \textbf{joint
+  deposit account} (or escrow account) on completion and defining the
+  circumstances in which this (and accrued interest) can be released to
+  the parties.
+\end{enumerate}
+
+\hypertarget{form}{%
+\subsubsection{Form}\label{form}}
+
+The buyer will usually be borrowing. Where the buyer is a company, all
+or part of the consideration may be satisfied by the company issuing
+equity securities (shares) or debt securities (loan notes) to the
+seller. Avoids the need to increase borrowing/ make disposals of assets
+to fund the acquisition.
+
+Tax: seller on a share sale may be able to roll over any capital gain
+made on the disposal of shares in the target, deferring the capital tax
+which it would otherwise pay until disposal of the securities in the
+acquiring company received in exchange.
+
+\hypertarget{shares}{%
+\paragraph{Shares}\label{shares}}
+
+The seller will accept consideration in the form of shares only if the
+shares are readily marketable, i.e., they can in the future be realised
+for cash. Where shares are issued as consideration, the agreement should
+specify how they rank with the other shares of the acquiring company and
+what rights the seller will have to any dividend declared in relation to
+a period in which completion falls.
+
+The buyer may insist on a clause restricting the seller from disposing
+of more than a specified percentage of shares within a specified period
+(to avoid depressing the price by selling lots of shares at once).
+
+Where the acquiring company wishes to issue shares as consideration, but
+the seller only wants cash, it can be achieved through ``vendor
+placing''. This is an arrangement whereby the acquiring company issues
+shares to the seller, but arranges (through its financial advisers) for
+the shares to be sold on immediately to institutional investors. The
+acquiring company undertakes in the sale and purchase agreement that the
+sale of the consideration shares will yield a specified sum.
+
+\hypertarget{debt-securities}{%
+\paragraph{Debt Securities}\label{debt-securities}}
+
+The acquiring company may issue debt securities like loan notes to the
+seller for the purchase price/ part of it. Usually, the seller is
+entitled to demand repayment of all/ part at 6 monthly intervals.
+
+It may suit the seller to receive staggered payments in this way with
+interest on the balance outstanding, particularly as roll-over relief
+from capital tax is available in the UK on the same basis as for shares
+under a securities exchange.
+
+The form of the loan note will usually be agreed between the parties and
+set out in a schedule to the sale and purchase agreement. ). A loan note
+may or may not be secured, and will usually be an acceptable form of
+payment for the seller only if the creditworthiness of the buyer can be
+assured.
+
+\hypertarget{contractual-provisions}{%
+\subsection{Contractual Provisions}\label{contractual-provisions}}
+
+The remaining section of the operative provisions in the sale and
+purchase agreement will set out the basis on which the seller will
+provide any contractual reassurances, or warranties, about the target
+business or company. The actual warranty usually appears in a schedule,
+but the operative provisions set out the basis on which warranties are
+given.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Typically, restrictive covenants limiting the Seller\textquotesingle{}s business activities post Completion are included to protect the goodwill of the target company.}
+\end{Highlighting}
+\end{Shaded}
+
+The agreement may also provide for specific indemnities in relation to
+identified problems. On a share purchase, this includes tax indemnities,
+where the seller agrees to indemnify the buyer in respect of any tax
+liability arising in the target.
+
+Tax indemnities/ covenants may be drafted as a separate document, but
+more usual to incorporate them into the main body of the agreement.
+
+\hypertarget{dispute-resolution-and-governing-law}{%
+\subsection{Dispute Resolution and Governing
+Law}\label{dispute-resolution-and-governing-law}}
+
+Specify any ADR methods to be used and/ or provisions for litigation,
+including a forum selection provision and governing law provisions.
+Provides certainty and prevents future litigation of such issues.
+
+Usual to also contain a notice clause specifying a mechanism for the
+service of notices from one party to the other as a way of exercising
+contractual rights/ demanding compliance with certain obligations. Pay
+attention to time ones, business days and national holidays.
+
+\hypertarget{schedules}{%
+\subsection{Schedules}\label{schedules}}
+
+The bulk of the SPA is usually attributable to schedules. Issues covered
+will be determined by the terms of the transaction and whether it is an
+asset or share acquisition. Include:
+
+\begin{itemize}
+\tightlist
+\item
+  Details of assets/ shareholdings to be transferred and prices
+\item
+  Details of price adjustment mechanism
+\item
+  Warranty statements about conditions of target
+\item
+  Limitations on liability in relation to warranty claims
+\item
+  Specific indemnities agreed between parties in relation to identified
+  risks
+\item
+  Agreed forms of documentation governing associated transactions
+\item
+  Agreed restrictions on running the target business pending completion,
+  if the agreement is exchanged conditionally (meaning a gap between
+  exchange and completion).
+\item
+  Details of the completion procedure.
+\end{itemize}
+
+\hypertarget{execution-1}{%
+\subsection{Execution}\label{execution-1}}
+
+The sale and purchase agreement is purely a contract setting out the
+terms on which the acquisition will be undertaken, so it can simply be
+signed by the parties. However, to avoid any question about whether
+appropriate consideration has been given in relation to specific
+indemnities and restrictive covenants included in the agreement, the
+buyer may prefer the agreement to be executed as a deed.
+
+Prior to exchange and completion, the legal advisers will confirm the
+parties' capability to enter into the agreement.
+
+\hypertarget{risk---buyers-protection}{%
+\section{Risk - Buyer's Protection}\label{risk---buyers-protection}}
+
+\hypertarget{protections-implied-into-the-contract}{%
+\subsection{Protections Implied into the
+Contract}\label{protections-implied-into-the-contract}}
+
+\hypertarget{shares-1}{%
+\subsubsection{Shares}\label{shares-1}}
+
+On a share acquisition under English law, neither common law nor statute
+protects the buyer by implying terms into the contract. \emph{Caveat
+emptor} applies.
+
+In the absence of express provisions, an aggrieved buyer has very little
+comeback on the seller unless a misrepresentation can be established.
+
+\hypertarget{assets}{%
+\subsubsection{Assets}\label{assets}}
+
+The buyer of the assets of a business is not in such an exposed
+position, as it does not assume automatically all the liabilities of the
+business. The buyer may also get the benefit of some limited warranties
+under the Sale of Goods Act 1979 for some of the assets being
+transferred.
+
+\hypertarget{civil-code-jurisdictions}{%
+\subsubsection{Civil Code
+Jurisdictions}\label{civil-code-jurisdictions}}
+
+The buyer is seen as the party most at risk in the acquisition.
+Statutory warranties are implied into the terms of the acquisition.
+These outline the minimum protection to be provided to any buyer. Often
+expressed as a guarantee by the seller that individual warranty
+statements are true.
+
+Civil code jurisdictions impose a duty of good faith between the parties
+throughout the negotiations for the proposed acquisition. Scope varies
+between countries. But even here, the buyer will usually seek additional
+contractual warranties, though these can often be looser/ wider than
+common law jurisdictions. Statutory warranties commonly included
+explicitly.
+
+\hypertarget{title-guarantee}{%
+\subsection{Title Guarantee}\label{title-guarantee}}
+
+The covenants are implied by the Law of Property (Miscellaneous
+Provisions) Act 1994, and the alternative dispositions are sale with
+full title guarantee and sale with limited title guarantee.
+
+Full title guarantee implies:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  the seller has the \textbf{right to dispose} of the property;
+\item
+  the seller will do all it \textbf{reasonably} can, at its own expense,
+  to pass to the buyer the \textbf{title} it purports to give; and
+\item
+  the property is free from all \textbf{charges, encumbrances and third
+  party rights}, other than those of which the seller is unaware and
+  could not reasonably be expected to be aware.
+\end{enumerate}
+
+Limited title guarantee implies (1) and (2), and also that the seller
+has neither created nor allowed to be created any subsisting charge or
+encumbrance, and is not aware that anyone else has done so.
+
+The type of guarantee to be given is to be negotiated. Implied covenants
+often modified by express provisions relating to the nature and
+perfection of title to the assets. The receiver or trustee selling
+assets may be prepared to offer no more comfort than a limited title
+guarantee.
+
+\hypertarget{warranties}{%
+\subsection{Warranties}\label{warranties}}
+
+Much of the SPA is taken up with specific warranties by the seller in
+favour of the buyer:
+
+\begin{itemize}
+\tightlist
+\item
+  Accounts
+\item
+  Subsisting contracts
+\item
+  Employees
+\item
+  Pensions
+\item
+  IP
+\end{itemize}
+
+The warranties are contractual statements about what is to be acquired.
+On a share acquisition, the warranties will include statements about the
+shares to be acquired.
+
+As the warranties are terms of the contract, if they prove to be untrue,
+the buyer will have a claim for damages against the warrantor(s) for
+breach of contract.
+
+The warranties are made about the state of the target as at a specified
+point. Where exchange and completion are simultaneous, the warranties
+will be statements given at the moment of completion.
+
+Where there is a gap between exchange and completion, warranties are
+made at exchange when the parties become contractually bound, and may
+then be confirmed at completion.
+
+\hypertarget{damages-recoverable}{%
+\subsubsection{Damages Recoverable}\label{damages-recoverable}}
+
+In {[}{[}Hadley v Baxendale (1854) 9 Ex 341{]}{]}, loss will be
+recoverable if it is not too remote.
+
+2 categories:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Loss which flows naturally from the breach
+\item
+  Loss which was fairly and reasonably in the contemplation of both
+  parties.
+\end{enumerate}
+
+The aim of contractual damages is to put the buyer in the position it
+would have been in if the contract had not been breached, subject to the
+duty to mitigate.
+
+\hypertarget{general-principles}{%
+\subsubsection{General Principles}\label{general-principles}}
+
+Application to breach of warranty:
+
+The buyer's loss is the difference between the value of the shares if
+the warranty had been true and their actual value (i.e., the value of
+the shares with and without the breach). The basis for valuing the
+shares will be relevant in assessing the loss.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Where there is a breach of warranty which results in the assets of the target being less than expected, this may not have a direct effect on the value of the shares, unless they were valued on an assets{-}related basis.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{pre-estimate-of-damages}{%
+\subsubsection{Pre-estimate of Damages}\label{pre-estimate-of-damages}}
+
+The parties often specify in the agreement how the loss should be
+quantified if certain warranties are broken. Common to include a clause
+specifying the appropriate multiplier for any shortfall.
+
+There is commonly a clause obliging the seller to pay for any deficiency
+in assets or any undisclosed liability arising from a breach of
+warranty. Avoids the need to prove an equivalent diminution in the value
+of the shares.
+
+Liquidated damages and penalties:
+
+\begin{itemize}
+\tightlist
+\item
+  Where the contractually agreed consequences of a breach are
+  oppressive, the penalty rule applies ({[}{[}Cavendish Square Holdings
+  BV v Talal El Makdessi {[}2015{]} UKSC 67{]}{]})
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title:*Makdessi* test}
+\NormalTok{The true test for a penalty is therefore now ‘whether the impugned provision is a secondary obligation which imposes a detriment on the contract{-}breaker out of all proportion to any legitimate interest of the innocent party in the enforcement of the primary obligation’.}
+\end{Highlighting}
+\end{Shaded}
+
+In many civil code jurisdictions, warranties are likely to be structured
+as guarantees, whereby the seller guarantees that the individual
+warranties are correct. In the event that the object of the purchase
+does not meet the standards set out in the warranties, the buyer will be
+entitled to the remedies as set out in the sale and purchase agreement.
+
+\hypertarget{representations}{%
+\subsection{Representations}\label{representations}}
+
+If any statements which have been made by or on behalf of the seller
+prove to be untrue, the buyer may under common law have a claim for
+misrepresentation.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Misrepresentation is a tort. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{general-principles-1}{%
+\subsubsection{General Principles}\label{general-principles-1}}
+
+A misrepresentation is a false statement of fact made by one party to
+the contract to the other, which induces the other party to enter into
+the contract. The usual remedies are rescission or damages.
+
+\hypertarget{rescission}{%
+\paragraph{Rescission}\label{rescission}}
+
+Rescission is a remedy aimed at putting the parties back into the
+pre-contract position.
+
+Qualifications:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  s 2(2) of the Misrepresentation Act 1967 enables the court to award
+  damages instead of rescission for innocent or negligent
+  misrepresentation. The court may exercise this discretion if it feels
+  that rescission is too drastic a remedy in the circumstances.
+\item
+  Equitable remedy and therefore subject to equitable bars
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Impossible to restore parties to their pre-contract position
+  \item
+    Bona fide third party rights acquired
+  \item
+    Innocent party takes action affirming the agreement
+  \item
+    Undue delay seeking relief.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{damages}{%
+\paragraph{Damages}\label{damages}}
+
+If the misrepresentation is innocent or negligent, s 2(2) of the
+Misrepresentation Act 1967 provides that the court `may declare the
+contract subsisting and award damages in lieu of rescission'. This is a
+court discretion to award damages; no contractual right.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Can the court still award damages in lieu of rescission if rescission itself has been lost due to one of the equitable bars?}
+
+\NormalTok{No: [[Salt v Stratstone Specialist Ltd [2015] EWCA Civ 745]]}
+\end{Highlighting}
+\end{Shaded}
+
+If the misrepresentation is negligent, the innocent party is
+\textbf{entitled} to damages under s 2(1). Under s 2(1), damages are
+measured on the tortious basis, which aims to put the innocent party in
+the position it would have been in if the tort had not been committed.
+
+\hypertarget{representations-warranties}{%
+\subsubsection{Representations \&
+Warranties}\label{representations-warranties}}
+
+In an SPA, any representations made by the seller which induce the buyer
+to contract will invariably be included as warranties in the agreement.
+
+It is rare for a claim for misrepresentation to be founded on a matter
+which is not included in the contract. It is common for the agreement to
+incorporate an acknowledgement by the buyer that it has not relied on
+any representations which are not contained in the contract
+(``non-reliance provision'') and an ``entire agreement'' clause.
+
+If a clause attempts to exclude liability for misrepresentation (as is
+common), the exclusion must be reasonable to be effective (s 3
+Misrepresentation Act 1967).
+
+\hypertarget{entire-agreement-clause}{%
+\paragraph{Entire Agreement Clause}\label{entire-agreement-clause}}
+
+In {[}{[}Thomas Witter Ltd v TBP Industries Ltd {[}1996{]} 2 All ER
+573{]}{]} it was held that a contractual term purporting to confine the
+parties' agreement to the terms of the contract will not, per se,
+exclude liability for misrepresentation.
+
+To exclude liability for misrepresentation, an express exclusion
+provision in clear terms must be included in the contract (confirmed in
+{[}{[}Axa Sun Life Services plc v Campbell Martin Ltd and others
+{[}2011{]} EWCA Civ 133{]}{]}).
+
+\hypertarget{non-reliance-provision}{%
+\paragraph{Non-reliance Provision}\label{non-reliance-provision}}
+
+Estops the buyer from claiming that it entered into an agreement in
+reliance on pre-contractual statements made by the seller.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Since non{-}reliance statements prevented liability for misrepresentation rather than strictly excluding it, are they subject to the reasonableness test in s 3 MA 1967?}
+\NormalTok{Yes, [[Springwell Navigation Corp v JP Morgan Chase Bank [2010] EWCA Civ 1221]]. The practical reality is excluding or restricting liability. }
+\end{Highlighting}
+\end{Shaded}
+
+To make such statements ``reasonable'', it is common for the seller to
+ensure that the buyer confirms its non-reliance only in relation to
+non-fraudulent misrepresentation, with an express exclusion in relation
+to fraudulent misrepresentation. This is despite a House of Lords House
+of Lords decision in {[}{[}HIH Casualty and General Insurance Ltd v
+Chase Manhattan Bank {[}2003{]} UKHL 6{]}{]} suggesting this is not
+necessary. Held that `in the absence of words which expressly refer to
+dishonesty, it goes without saying that underlying the contractual
+arrangements of the parties will be a common assumption that the persons
+involved will behave honestly'.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{It is nevertheless considered good practice that the Buyer expressly agrees to waive its right to damages or recission only in relation to non{-}fraudulent misrepresentation.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{right-of-rescission}{%
+\paragraph{Right of Rescission}\label{right-of-rescission}}
+
+Even when including an entire agreement clause and non-reliance clause,
+many representations which the seller makes to the buyer will be
+included as express warranties in the agreement. If any of these
+warranties are broken, the buyer will be able to claim damages for
+breach of contract.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{s 1 Misrepresentation Act 1967: where a misrepresentation has become a term of the contract, this will not affect the innocent party\textquotesingle{}s right to rescind (provided there are no equitable bars). Could be important if the buyer becomes aware of the falsity of the representation after exchange but before completion.}
+\end{Highlighting}
+\end{Shaded}
+
+If there is a gap between exchange and purchase, the buyer will usually
+negotiate a contractual right to withdraw from the contract if it
+becomes aware of any breaches of warranty. Backed up by obliging the
+seller to inform the buyer if it becomes aware of anything inconsistent
+with the warranties.
+
+Advantage: buyer can rescind regardless of whether the breach of
+warranty was also a misrepresentation.
+
+\hypertarget{damages-1}{%
+\paragraph{Damages}\label{damages-1}}
+
+The difference in the measure of damages for breach of contract and
+misrepresentation may also be significant.
+
+\begin{itemize}
+\tightlist
+\item
+  The contractual measure allows for loss of bargain and, on a share
+  purchase, involves assessing the difference between the actual value
+  of the shares and their value if the warranty had been true.
+\item
+  Tortious damages aim to put the buyer in the position it would have
+  been in if it had not entered the agreement (``restitutionary'').
+  Involves calculating the difference between the price paid for the
+  shares and their market value.
+\end{itemize}
+
+Contractual measures often lead to higher damages (due to loss of
+bargain) but not always.
+
+\hypertarget{indemnities}{%
+\subsection{Indemnities}\label{indemnities}}
+
+A \textbf{warranty} is an undertaking by the seller that a particular
+state of affairs exists.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{An **indemnity** is a promise to reimburse the buyer in respect of a designated type of liability which may arise in the future. }
+\end{Highlighting}
+\end{Shaded}
+
+On a share sale, the recipient of the indemnity receives an amount equal
+to the actual liability (+ costs and expenses).
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Another difference between a warranty and an indemnity is that, in the case of the latter, there is no duty to mitigate the loss; such a duty may, however, be incorporated in the contract.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{itemize}
+\tightlist
+\item
+  In the US, losses for breach of warranty are often qualified
+\item
+  Many civil code jurisdictions do not recognise the distinction between
+  warranties and indemnities.
+\end{itemize}
+
+\hypertarget{taxation-indemnities}{%
+\subsubsection{Taxation Indemnities}\label{taxation-indemnities}}
+
+It is common for buyers of shares to seek protection from tax
+liabilities in the form of both warranties and indemnities.
+
+\begin{itemize}
+\tightlist
+\item
+  The warranties usually deal with the target's compliance with tax and
+  VAT requirements.
+\item
+  The indemnities will cover specific tax charges which may arise over
+  and above those provided for in the accounts.
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Dealing with most tax matters by way of indemnity has the advantage to the buyer that there is no need to prove the link between the unexpected tax liability and the value of the shares.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{who-gives}{%
+\subsection{Who Gives}\label{who-gives}}
+
+Some sellers may try to limit their share of liability. Others may be
+unwilling to accept any liability. The buyer will want all sellers to
+give warranties and indemnities both jointly and severally.
+
+\hypertarget{joint-and-several-liability}{%
+\subsubsection{Joint and Several
+Liability}\label{joint-and-several-liability}}
+
+\begin{itemize}
+\tightlist
+\item
+  Where there is more than one warrantor the buyer will invariably
+  insist that they accept joint and several liability.
+\item
+  s 1 Civil Liability (Contribution) Act 1978 gives the party called
+  upon to discharge the liability the right to recover a contribution
+  from the other warrantors who are liable in respect of the same
+  damage.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The court determines the amount of the contribution recoverable from
+    the others on the basis of what it considers just and equitable
+    having regard to the extent of their responsibility for the
+    particular damage (s 2).
+  \item
+    Common for warrantors to agree how any liability should be borne
+    between them to avoid uncertainty.
+
+    \begin{itemize}
+    \tightlist
+    \item
+      May be set out in a ``deed of contribution'' or incorporated into
+      the SPA (expressed ``as between the warrantors'').
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+Where there are a large number of selling shareholders., the buyer may
+not insist that they all give warranties and indemnities (minority
+shareholders often excluded).
+
+\hypertarget{trustees}{%
+\subsubsection{Trustees}\label{trustees}}
+
+Suppose some of the shares of a company are held in trust. Trustees will
+wish to avoid personal liability and may refuse to give any warranties
+or undertakings, other than that they have unencumbered title to the
+shares.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Possible solution}
+\NormalTok{Limit the liability of trustees to the net value (after tax) of the capital of the trust. The danger to the buyer of the capital being distributed shortly after completion may be met by obliging the trustees to require any beneficiary receiving capital to give appropriate warranties to the buyer.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{substantial-shareholders}{%
+\subsubsection{Substantial
+Shareholders}\label{substantial-shareholders}}
+
+Some powerful investors (PE funds) may avoid giving warranties and
+indemnities on the basis that they have no involvement with the
+management of the target company and cannot be expected to give promises
+in relation to matters they know nothing about.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{The role of warranties is to allocate risk between seller and buyer $\textbackslash{}rightarrow$ the price negotiated is on the assumption that the warranties are true. So could have a deal where the shareholders who give a warranty get more cash than others. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{sellers-rights-against-management}{%
+\subsubsection{Seller's Rights Against
+Management}\label{sellers-rights-against-management}}
+
+Suppose there is a breach of warranty. The sellers may try to shift
+responsibility back onto the directors of the target. But these
+directors may be employed by the buyer. So the buyer may ask the selling
+shareholders to waive any right they may have to bring a claim against
+the management/ the target.
+
+\hypertarget{assigning-warranties-and-indemnities}{%
+\subsubsection{Assigning Warranties and
+Indemnities}\label{assigning-warranties-and-indemnities}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: General rule}
+\NormalTok{The general position under English law is that, unless the contracting parties agree otherwise, the benefit of an agreement can be assigned to a third party without the consent of the other party to the contract.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{itemize}
+\tightlist
+\item
+  The seller is therefore likely to insist on an express provision
+  stating that no assignment is permitted/ only permitted on approval.
+\item
+  The buyer may try to negotiate with the seller an express right to
+  assign the benefit of the warranties and indemnities.
+\item
+  Common for the seller to agree to the buyer assigning the benefit of
+  warranties and indemnities to members of its own group.
+\end{itemize}
+
+\hypertarget{buyers-security-for-breach}{%
+\subsection{Buyer's Security for
+Breach}\label{buyers-security-for-breach}}
+
+The buyer is in an exposed position:
+
+\begin{itemize}
+\tightlist
+\item
+  Buyer or target may be directly liable to 3rd parties
+\item
+  May be unable to recover the loss if the seller is in financial
+  difficulties.
+\item
+  Common to ask for security from the seller.
+\end{itemize}
+
+\hypertarget{guarantees}{%
+\subsubsection{Guarantees}\label{guarantees}}
+
+Where the seller of a business or shares is a company which is part of a
+group, the seller's parent company may be prepared to guarantee the
+seller's obligations.
+
+For a company owned by individuals, insist on guarantees from the
+shareholders.
+
+\hypertarget{retentions-from-purchase-price}{%
+\subsubsection{Retentions From Purchase
+Price}\label{retentions-from-purchase-price}}
+
+May be used to protect the buyer's position:
+
+\begin{itemize}
+\tightlist
+\item
+  Payment of the retention into a joint account in the names of the
+  seller's and buyer's solicitors;
+\item
+  The retention to be remitted to the seller on a certain date after
+  completion, subject to any claims made before that date.
+\item
+  Where a claim is made, the balance of the retention to be paid to the
+  seller.
+\item
+  The buyer to be paid the amount of the claim within a short period.
+\item
+  Payment of accrued interest on the fund to the parties.
+\item
+  An obligation on the buyer to pursue any claims against the seller
+  which may delay the remittance of the fund promptly and diligently.
+\item
+  Buyer obliged to provide full details of any claim backed up by an
+  opinion of counsel.
+\end{itemize}
+
+The retention will not affect the capital tax position of parties
+(unless used to pay warranty claims).
+
+\hypertarget{restrictions-on-the-seller}{%
+\subsection{Restrictions on the
+Seller}\label{restrictions-on-the-seller}}
+
+The value of the buyer's investment could be reduced substantially by
+the post-completion activities of the seller, whose detailed knowledge
+of the target would enable the seller to cause it considerable harm.
+
+\hypertarget{no-express-restraints}{%
+\subsubsection{No Express Restraints}\label{no-express-restraints}}
+
+{[}{[}Trego v Hunt {[}1896{]} AC 7{]}{]} established that on the sale of
+the goodwill of a business, the courts will refuse to imply a covenant
+by the seller not to set up in competition.
+
+The only implied undertakings of the seller are:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Not to use or disclose confidential information relating to the
+  business.
+\item
+  Not to represent itself as a successor to the business, or carrying on
+  the same business.
+\item
+  Not to solicit customers of the business.
+\end{enumerate}
+
+\hypertarget{express-restrictions}{%
+\subsubsection{Express Restrictions}\label{express-restrictions}}
+
+As the seller is being paid for goodwill, the buyer is justified in
+seeking ways of preventing the seller from damaging it. But the buyer
+must go no further than is reasonably necessary to protect the goodwill
+of the target.
+
+Common undertakings:
+
+\begin{itemize}
+\tightlist
+\item
+  Covenant not to be engaged or concerned in any competing business for
+  a specified period after completion.
+\item
+  Covenant not to try to solicit/ entice away from the target customers
+  or suppliers who have recently dealt with the target, for a specified
+  period after completion.
+\item
+  Covenant not to try to solicit or entice away employees of the target
+  for a specified period after completion.
+\item
+  Undertaking not to use or disclose any confidential information about
+  the target or its customers.
+\item
+  Covenant not to use the name of the target.
+\end{itemize}
+
+\hypertarget{validity-at-common-law}{%
+\subsubsection{Validity at Common Law}\label{validity-at-common-law}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Under English law, all covenants in restraint of trade are prima facie void at common law. However, the court will not strike down restrictive covenants which it considers to be reasonable to protect a legitimate interest of the buyer.}
+\end{Highlighting}
+\end{Shaded}
+
+The court will consider:
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1478}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8522}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Consideration
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Details
+\end{minipage} \\
+\midrule()
+\endhead
+\textbf{Duration} of the restraint & 1-5 years after completion is
+common. \\
+\textbf{Geographical area} of restraint & If the covenant is
+appropriately worded, it may not be necessary to stipulate a
+geographical limit. If the business restricted is defined, specify a
+reasonable area of restriction. \\
+\textbf{Activities} restricted & Any attempt to extend the restrictions
+to activities which are not carried on by the target itself will fail,
+on the grounds that they are excessive in order to protect the goodwill
+of the target. in Ronbar Enterprises Ltd v Green {[}1954{]} 2 All ER
+266, the court considered a clause preventing the seller carrying on a
+business `similar to' that of the target to be too wide. The restriction
+should also be reasonable given the extent to which the party giving the
+covenant has been actively involved in the business. Non-solicitation
+clauses should not be so wide as to include those with no recent
+dealings with the target. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{enforcement}{%
+\subsubsection{Enforcement}\label{enforcement}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: What if only some of the restrictions are reasonable?}
+\NormalTok{If each restraint is contained in a separate clause or sub{-}clause and expressed to be separate and independent, they remaind independently enforceable. The court is sometimes prepared to "blue pencil" certain parts of a clause, leaving the remaining parts enforceable ([[Tillman v Egon Zehnder [2019] UKSC 32]]) though the court will not rewrite a clause to make it reasonable. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{competition-act-1998}{%
+\subsubsection{Competition Act 1998}\label{competition-act-1998}}
+
+Unlikely that UK courts will deviate from the European regime. There
+remains a general prohibition of anticompetitive agreements and a
+prohibition of abuse of a dominant position. If an agreement is found to
+breach s 2 or s 18 of the Competition Act 1998 , the agreement or
+(subject to severance) the anticompetitive terms will be unenforceable.
+
+\hypertarget{anticompetitive-agreements}{%
+\paragraph{Anticompetitive
+Agreements}\label{anticompetitive-agreements}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 2 Competition Act 1998}
+\NormalTok{(1) Subject to section 3, agreements between undertakings, decisions by associations of undertakings or concerted practices which—}
+\NormalTok{{-} (a) may affect trade within the United Kingdom, and}
+\NormalTok{{-} (b) have as their object or effect the prevention, restriction or distortion of competition within the United Kingdom,}
+
+\NormalTok{are prohibited unless they are exempt in accordance with the provisions of this Part.}
+
+\NormalTok{(2) Subsection (1) applies, in particular, to agreements, decisions or practices which—}
+\NormalTok{{-} (a) directly or indirectly fix purchase or selling prices or any other trading conditions;}
+\NormalTok{{-} (b) limit or control production, markets, technical development or investment;}
+\NormalTok{{-} (c) share markets or sources of supply;}
+\NormalTok{{-} (d) apply dissimilar conditions to equivalent transactions with other trading parties, thereby placing them at a competitive disadvantage;}
+\NormalTok{{-} (e) make the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of such contracts.}
+
+\NormalTok{(3) Subsection (1) applies only if the agreement, decision or practice is, or is intended to be, implemented in the United Kingdom.}
+
+\NormalTok{(4) Any agreement or decision which is prohibited by subsection (1) is void.}
+\end{Highlighting}
+\end{Shaded}
+
+N.B. any agreement that is exempt under EU law will also be exempt under
+UK legislation.
+
+\hypertarget{abuse-of-a-dominant-position}{%
+\paragraph{Abuse of a Dominant
+Position}\label{abuse-of-a-dominant-position}}
+
+The wording of s 18 of the 1998 Act concerning abuse of a dominant
+position is similar to that of Art 102 TFEU. There is a prohibition on
+the activities of one or more undertakings which amount to the abuse of
+a dominant position within the UK or a substantial part of it.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 18 Competition Act 1998 {-} Abuse of dominant position.}
+
+\NormalTok{(1) Subject to section 19, any conduct on the part of one or more undertakings which amounts to the abuse of a dominant position in a market is prohibited if it may affect trade within the United Kingdom.}
+
+\NormalTok{(2) Conduct may, in particular, constitute such an abuse if it consists in—}
+\NormalTok{{-} (a) directly or indirectly imposing unfair purchase or selling prices or other unfair trading conditions;}
+\NormalTok{{-} (b) limiting production, markets or technical development to the prejudice of consumers;}
+\NormalTok{{-} (c) applying dissimilar conditions to equivalent transactions with other trading parties, thereby placing them at a competitive disadvantage;}
+\NormalTok{{-} (d) making the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of the contracts.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{consequences}{%
+\paragraph{Consequences}\label{consequences}}
+
+\begin{itemize}
+\tightlist
+\item
+  Restrictions in breach of the 1998 Act will be void.
+\item
+  The CMA is empowered to impose fines of up to 10\% of an undertaking's
+  turnover.
+\item
+  The parties may be ordered to cease or modify the agreement.
+\item
+  CMA may conduct a dawn raid following a search warrant obtained from a
+  High Court judge.
+\end{itemize}
+
+\hypertarget{eu-law}{%
+\subsubsection{EU Law}\label{eu-law}}
+
+Restrictive covenants in the sale and purchase agreement may breach Arts
+101 and 102 TFEU (particularly Art 101) if trade between Member States
+is affected. The European Commission's Notice of March 2005 confirms
+that, on a transfer of goodwill, a non-compete period of up to two years
+will be appropriate, whereas a period of three years is justified where
+the buyer acquires know-how and goodwill.
+
+\hypertarget{risk---sellers-limitations}{%
+\section{Risk - Seller's Limitations}\label{risk---sellers-limitations}}
+
+\hypertarget{limiting-scope}{%
+\subsection{Limiting Scope}\label{limiting-scope}}
+
+The first draft of the sale and purchase agreement prepared by the buyer
+will often include extensive warranties and indemnities, with few
+specific limitations on the seller's liability. In most cases, there is
+considerable scope for negotiating the agreement.
+
+Where warranties are given by reference to the `knowledge, information
+or belief' of the seller, the buyer will usually insist on the seller
+acknowledging that in giving the warranties it has made all due
+enquiries and taken all reasonable steps to ensure their accuracy.
+
+\hypertarget{limitations-on-claims}{%
+\subsection{Limitations on Claims}\label{limitations-on-claims}}
+
+The seller will also seek to restrict its liability in relation to the
+warranties and indemnities generally by including a set of standard
+limitation clauses in the agreement.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Share sale}
+\NormalTok{Limitations on the seller’s liability for breach of warranty contained in a share sale agreement are not controlled by UCTA 1977 since Sch 1, para 1(e) precludes the application of its relevant provisions to any contract so far as it relates to the ‘creation or transfer of securities or of any right or interest in securities’.}
+\end{Highlighting}
+\end{Shaded}
+
+But UCTA 1977 applies for asset sale agreements.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 3 UCTA 1977 {-} Liability arising in contract}
+
+\NormalTok{(1) This section applies as between contracting parties where one of them deals on the other’s written standard terms of business.}
+
+\NormalTok{(2) As against that party, the other cannot by reference to any contract term—}
+\NormalTok{{-} (a) when himself in breach of contract, exclude or restrict any liability of his in respect of the breach; or}
+\NormalTok{{-} (b) claim to be entitled—}
+\NormalTok{    {-} (i) to render a contractual performance substantially different from that which was reasonably expected of him, or}
+\NormalTok{    {-} (ii) in respect of the whole or any part of his contractual obligation, to render no performance at all,}
+
+\NormalTok{except in so far as (in any of the cases mentioned above in this subsection) the contract term satisfies the requirement of **reasonableness**. }
+\end{Highlighting}
+\end{Shaded}
+
+\begin{itemize}
+\tightlist
+\item
+  Section 3 UCTA 1977 applies only where one party deals on the other's
+  written standard terms of business
+\item
+  The reasonableness test will be relevant in connection with any
+  exclusion of liability for misrepresentation.
+\item
+  Freely negotiated warranty limitations contained in an acquisition
+  agreement are unlikely to be the subject of a successful challenge.
+\end{itemize}
+
+\hypertarget{limits-on-amount-of-claims}{%
+\subsubsection{Limits on Amount of
+Claims}\label{limits-on-amount-of-claims}}
+
+\hypertarget{maximum-limits}{%
+\paragraph{Maximum Limits}\label{maximum-limits}}
+
+The seller will negotiate for a maximum liability under the warranties
+and indemnities (commonly the price paid by the buyer for the target).
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{In some circumstances, damages claimed for warranty or indemnity breaches can exceed the purchase price (e.g., where a target company has been sold at an undervalue). But even here, a properly drafted maximum liability clause may protect a seller and limit its liability to the maximum liability it has contractually agreed with a buyer ([[116 Cardamon Ltd v MacAlister [2019] EWHC 1200 (Comm)]]).}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{minimum-limits}{%
+\paragraph{Minimum Limits}\label{minimum-limits}}
+
+The parties will often agree a minimum (aggregate) threshold for claims,
+typically 0.5-1\% of the purchase price. The buyer should insist that
+once the threshold has been breached, it is entitled to recover the full
+value of the claim.
+
+The seller may seek a \emph{de minimis} limit on individual claims. But
+difficulties can arise, however, in respect of continuing breaches and
+claims which are similar in nature or arise from the same default.
+
+\hypertarget{time-limits}{%
+\subsubsection{Time Limits}\label{time-limits}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1875}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8125}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Breach
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Limitation period
+\end{minipage} \\
+\midrule()
+\endhead
+Breach of contract & 6 years from the date of breach (which for a
+warranty is the date of the SPA). \\
+Breach of deed & 12 years from the date of breach. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{tax-matters}{%
+\paragraph{Tax Matters}\label{tax-matters}}
+
+It is common to link the period in which the buyer can make claims
+relating to tax matters to HMRC's time limit for making an assessment to
+tax (four years; previously six years) from the end of the relevant tax
+year, except to recover tax lost through fraudulent or negligent
+conduct.
+
+\hypertarget{non-tax-matters}{%
+\paragraph{Non-tax Matters}\label{non-tax-matters}}
+
+A much shorter period can be negotiated, generally linked to the target
+company's audit (since the audit may ``flush out'' any breached of
+warranty). A period allowing for two full audits to be carried out and
+their results digested is commonly agreed. Consider a long-stop time
+limit on bringing claims, along with a shorter deadline for bringing
+claims without informing the party of the breach.
+
+\hypertarget{insurance}{%
+\subsubsection{Insurance}\label{insurance}}
+
+The seller will invariably seek to prevent the buyer from bringing a
+claim where the loss is covered by insurance taken out in relation to
+the target.
+
+\hypertarget{recovery-from-3rd-parties}{%
+\subsubsection{Recovery From 3rd
+Parties}\label{recovery-from-3rd-parties}}
+
+The buyer may also be required to give credit for any sums received from
+third parties in relation to the subject matter of the claim. Usually
+expressed to be wide enough to cover tax reductions.
+
+\hypertarget{understated-assets}{%
+\subsubsection{Understated Assets}\label{understated-assets}}
+
+The seller may want to include a provision that any claim will be
+reduced by the amount by which the seller can show that the net assets
+of the target were understated in the accounts drawn up before
+completion. Buyer beware of accepting this.
+
+\hypertarget{conduct-of-claims}{%
+\subsubsection{Conduct of Claims}\label{conduct-of-claims}}
+
+Suppose:
+
+MERMAID1
+
+In this situation, the seller may argue that it should have the right to
+conduct the claim (if the buyer knows it can sue under a warranty, may
+defend the claim less vigorously). The buyer is under a duty to mitigate
+its loss, but a failure to mitigate is difficult to prove.
+
+The buyer may have reservations about allowing the seller to have
+control in case it damages the reputation and goodwill of the target.
+
+Often a compromise is reached, e.g., consent of the other party required
+before settling/ indemnity for legal costs.
+
+\hypertarget{mitigation}{%
+\paragraph{Mitigation}\label{mitigation}}
+
+Where one party has suffered loss resulting from the other party's
+breach of contract, the injured party should take `reasonable steps' to
+minimise the effect of the breach ({[}{[}British Westinghouse Electric
+and Manufacturing Co v Underground Electric Rail Co {[}1912{]} AC
+673{]}{]}).
+
+There is no obligation for the claimant to mitigate their loss, but
+losses attributable to a failure to do so are not legally recoverable.
+So the innocent party cannot seek compensation by the party in default
+for the loss which is due to the failure to behave reasonably after the
+breach.
+
+The question of which steps count as `reasonable' is one of fact
+({[}{[}Pilkington v Wood {[}1953{]} CH 770{]}{]}). It was held that
+there was no expectation that the claimant should embark on `a
+complicated and difficult piece of litigation' in order to minimise the
+effects of the defendant's breach.
+
+If the defendant's offer of performance remains the best substitute
+performance (as it was in \emph{Payzu}) then it would seem unreasonable
+not to go to that source.
+
+{[}{[}Banco de Portugal v Waterlow \& Sons {[}1932{]} AC 452{]}{]}
+establishes that when considering whether the claimant has taken
+reasonable steps to mitigate, the claimant's actions `ought not to be
+weighed in nice scales at the instance of the party whose breach of
+contract has occasioned the difficulty'.
+
+There is no duty to mitigate a claim for a payment of a debt. This
+includes a claim for liquidated damages. This is because the amount is
+payable as a contractual right rather than as damages.
+
+\hypertarget{notification-of-claim}{%
+\subsubsection{Notification of Claim}\label{notification-of-claim}}
+
+A seller may attempt to (or may be able to) restrict its liability by
+negotiating and demanding specific requirements that should be met
+following a breach of warranty or indemnity claim. In {[}{[}Teoco UK Ltd
+v Aircom Jersey 4 Ltd {[}2018{]} EWCA Civ 23,{]}{]}, claims for warranty
+breaches were struck out for failing to comply with agreed notification
+requirements.
+
+\hypertarget{disclosure-letter}{%
+\subsection{Disclosure Letter}\label{disclosure-letter}}
+
+\hypertarget{purpose}{%
+\subsubsection{Purpose}\label{purpose}}
+
+The incentive for the seller in making disclosures is that they avoid it
+being in breach of warranty in relation to those matters disclosed. The
+disclosure letter will be subject to careful scrutiny. Advisable to make
+full and early disclosure of potential issues.
+
+\hypertarget{format}{%
+\subsubsection{Format}\label{format}}
+
+In the UK, the disclosures will usually be in the form of a letter from
+the seller to the buyer. A bundle of documents (referred to as the
+disclosure bundle) will be attached to the letter, comprising all the
+documents referred to in the letter as providing information which
+qualifies the warranties.
+
+The parties' legal advisers will negotiate the disclosure letter or
+schedule and bundle until it is in an agreed final form ready for
+completion of the acquisition.
+
+In the UK, on exchange of contracts, two copies of the agreed form of
+disclosure letter and bundle will be available; one to be given to the
+buyer and one to be retained by the seller. The letters and associated
+bundles will be initialled by the parties as evidence that they are
+identical.
+
+\hypertarget{deemed-disclosures}{%
+\subsubsection{Deemed Disclosures}\label{deemed-disclosures}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: General disclosures}
+\NormalTok{The disclosure letter or schedule will state that a number of matters are deemed to have been disclosed to the buyer. These deemed disclosures are often referred to as ‘general disclosures’.}
+\end{Highlighting}
+\end{Shaded}
+
+These relate to publicly available information and occasionally
+information made available to the buyer during due diligence. The effect
+of deemed or general disclosure is to pass to the buyer the risk that
+elements of the information will qualify the warranties. Usually
+include:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Information held at Companies House
+\item
+  Information held at the Land Registry, Land Charges Department and any
+  matters apparent in deeds of properties.
+\item
+  Matters which would be disclosed by physical inspection of each
+  property (buyer should not accept unless a survey has been
+  commissioned).
+\item
+  Matters in the public domain.
+\item
+  Matters disclosed or referred to in audited target company accounts.
+\item
+  Matters included or referred to in the accountants' report prepared on
+  behalf of the buyer.
+\item
+  Matters disclosed or referred to in the replies to the preliminary
+  enquiries and the documents enclosed within those replies.
+\item
+  Information and documentation passed to the buyer and its advisers in
+  the pre-contract period.
+\end{enumerate}
+
+\hypertarget{specific-disclosure}{%
+\subsubsection{Specific Disclosure}\label{specific-disclosure}}
+
+Specific disclosures draw to the buyer's attention specific information
+about the target which is inconsistent with one or more warranties given
+by the seller. Disclosures usually refer to specific warranty
+statements, but also include a catch-all that each disclosure is deemed
+to be in respect of all the warranties.
+
+\hypertarget{standard-of-disclosure}{%
+\subsubsection{Standard of Disclosure}\label{standard-of-disclosure}}
+
+It is in the interests of both parties for disclosures to be made
+fairly.
+
+\hypertarget{adequate-disclosure}{%
+\paragraph{Adequate Disclosure}\label{adequate-disclosure}}
+
+SPA will provide that the warranties are given subject to matters
+disclosed in the disclosure letter. The buyer will often insist on a
+warranty that all disclosures have been made ``fully, clearly and
+accurately''.
+
+In {[}{[}Levison v Farin {[}1978{]} 2 All ER 1149{]}{]}, the buyers were
+generally aware of the rundown condition of the business, but this did
+not preclude them from successfully claiming for breach of a warranty
+which said `there will have been no material adverse change in the
+overall value of the net assets of the Company'. Held that
+
+\begin{quote}
+`a clause in this form is primarily designed and intended to require a
+party who wishes by disclosure to avoid a breach of warranty to give
+specific notice for the purpose of the agreement, and protection by
+disclosure will not normally be achieved by merely making known the
+means of knowledge which may or do enable the other party to work out
+certain facts and conclusions'.
+\end{quote}
+
+In {[}{[}Infiniteland Ltd v Artisan Contracting Ltd {[}2005{]} EWCA Civ
+758{]}{]} it was held that the sufficiency of disclosure must be
+measured by reference to the agreed contractual provisions and to the
+context of the acquisition.
+
+In {[}{[}MAN Nutzfahrzeuge AG v Freightliner Ltd {[}2005{]} EWHC
+2347{]}{]} the judge considered (obiter) `the disclosure of all matters
+revealed by an inspection of specified documents' would not extend so
+far as to include inferences which might be drawn from the documents
+inspected.
+
+\hypertarget{buyers-knowledge}{%
+\paragraph{Buyer's Knowledge}\label{buyers-knowledge}}
+
+The buyer will usually insist on limiting disclosure specifically to
+matters revealed in the disclosure letter and bundle.
+
+There are limits to the extent to which this will be successful. In
+{[}{[}Eurocopy plc v Teesdale {[}1992{]} BCLC 1067{]}{]} the SPA
+included an agreement that the warranties were given subject to the
+disclosure letter but no other information. The buyer tried to sue the
+seller for failure to disclose certain material facts, which the seller
+claimed was in the actual knowledge of the buyer following due
+diligence. The court refused to strike out the defence on application by
+the buyer.
+
+So it is always preferable for a buyer to acknowledge full disclosure of
+a breach and seek an indemnity or reduction in the purchase price before
+completion.
+
+\hypertarget{actual-constructive-imputed-knowledge}{%
+\paragraph{Actual/ constructive/ Imputed
+Knowledge}\label{actual-constructive-imputed-knowledge}}
+
+In {[}{[}Infiniteland Ltd v Artisan Contracting Ltd {[}2005{]} EWCA Civ
+758{]}{]}, the SPA contained a clause stating that the rights and
+remedies of the purchaser in respect of any breach of warranty would not
+be affected by any investigations made by it or on its behalf into the
+affairs, except to the extent that such investigations gave it actual
+knowledge of the relevant facts and circumstances.
+
+\begin{itemize}
+\tightlist
+\item
+  The Court confirmed that it would give effect to an express provision
+  in the sale agreement prohibiting warranty claims of which the buyer
+  had constructive knowledge.
+\item
+  On a 2:1 majority, it was held that `actual' and `imputed' knowledge
+  are different. The knowledge of the professional adviser was not the
+  buyer's knowledge, and the seller was therefore prevented from raising
+  the buyer's knowledge as a defence to the warranty claim.
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{The parties need to stipulate in the agreement what type of knowledge will or will not affect a buyer’s rights and remedies for a claim for breach of warranty.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{liability-for-information-from-third-parties}{%
+\paragraph{Liability for Information From Third
+Parties}\label{liability-for-information-from-third-parties}}
+
+The impact of statements made by employees or agents of the seller or
+the target company during negotiations or the due diligence process must
+be considered. In {[}{[}MAN Nutzfahrzeuge AG v Freightliner Ltd
+{[}2007{]} EWCA Civ 910{]}{]}, the seller was held to be vicariously
+liable for the fraudulent pre-contractual statements of its agent, who
+had been put forward as having authority to speak on its behalf.
+
+\hypertarget{deliberate-non-disclosure}{%
+\subsubsection{Deliberate
+Non-disclosure}\label{deliberate-non-disclosure}}
+
+Suppose the seller deliberately fails to disclose the existence of
+particular facts to complete the sale. The buyer is induced to enter the
+SPA by way of a deliberate concealment \(\rightarrow\) fraud.
+
+In the context of a \textbf{share acquisition}, ss 89 and 90 of the
+Financial Services Act 2012 make it a criminal offence for a person
+knowingly or recklessly to make a statement, promise or forecast which
+is misleading, false or deceptive. It is also an offence under the
+section for a person with the requisite intent to conceal dishonestly
+any material facts. A person guilty of an offence is liable to a fine,
+or imprisonment for a maximum term of seven years for conviction on
+indictment, or to both.
+
+\hypertarget{insurance-1}{%
+\subsection{Insurance}\label{insurance-1}}
+
+Common to take out warranty and indemnity insurance (``W\&I policy'').
+Premiums are typically between 0.80\% and 1.50\% of the insured limit of
+liability in the London market.
+
+The insurers will not agree cover until they have analysed the scope of
+each warranty, the effect of the disclosures and the extent of the
+general limitations on the seller's liability. Any policy is likely to
+contain a number of general exclusions.
+
+In addition to the set premium, it should be remembered that insurance
+premium tax will be due -- in the UK, this represents an additional 12\%
+tax on the value of the premium.
+
+\hypertarget{completion}{%
+\section{Completion}\label{completion}}
+
+SPA is a contractual agreement setting out the acquisition terms. On
+exchange, the parties undertake to perform the agreed steps to transfer
+legal interest in the shares/ assets. Usually, exchange and completion
+are simultaneous.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1042}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8958}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Stage
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Details
+\end{minipage} \\
+\midrule()
+\endhead
+Signing and exchange & The parties make a legal commitment to proceed
+with the transaction by delivering their signed share purchase agreement
+to the other party by way of exchange \\
+Completion/ closing & The necessary formalities to conclude the
+transaction are performed. For example, the seller delivers a duly
+executed stock transfer form for the target shares and the buyer pays
+the purchase price to the seller \\
+\bottomrule()
+\end{longtable}
+
+It is usual for the SPA to set out the details of each party's
+completion obligations.
+
+\hypertarget{reasons-for-conditionality}{%
+\subsection{Reasons for
+Conditionality}\label{reasons-for-conditionality}}
+
+Approvals, consents and clearances should ideally be obtained before
+signing of the SPA, but can take time. SPA may be made conditional on:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  HMRC clearance (e.g., on roll-over relief from capital tax on a
+  securities exchange)
+\item
+  CMA notification that buyer will not be subject to a Phase 2
+  investigation
+\item
+  Regulatory licence for the industry (e.g., environmental licence)
+\item
+  a substantial customer or landlord providing its consent to an
+  assignment/ confirming it will not exercise a contractual right to
+  terminate.
+\item
+  Corporate buyer shareholders passing a resolution for the issue of
+  shares in consideration for the target.
+\item
+  Clearance under National Security and Investment Act 2021.
+\end{enumerate}
+
+Parties may not want to make the required applications (and make the
+deal public) until after the contract is signed.
+
+\hypertarget{risk-allocation-on-conditional-contracts}{%
+\subsection{Risk Allocation on Conditional
+Contracts}\label{risk-allocation-on-conditional-contracts}}
+
+If completion is to be made conditional, the agreement must state:
+
+\begin{itemize}
+\tightlist
+\item
+  Each party's obligations
+\item
+  Date by which each condition must be met
+\item
+  Any right to terminate prior to completion.
+\end{itemize}
+
+The buyer will seek a contractual right to withdraw from the purchase if
+a major problem occurs prior to completion.
+
+\hypertarget{conditions-precedent-1}{%
+\subsubsection{Conditions Precedent}\label{conditions-precedent-1}}
+
+Typical CPs include:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  An obligation on one party to take all reasonable steps to try to
+  procure the satisfaction of the condition as early as possible
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Implied in certain jurisdictions
+  \end{itemize}
+\item
+  A long-stop date by which conditions must be satisfied. If not
+  satisfied by this date, provision for the agreement to terminate
+  automatically without liability attaching to either party.
+\item
+  If conditions are satisfied prior to the long-stop, provision for
+  completion within a specific period.
+\end{enumerate}
+
+In France \& Germany, a condition precedent may be unenforceable if its
+fulfilment depends solely on one party.
+
+\hypertarget{management-restrictions}{%
+\subsubsection{Management Restrictions}\label{management-restrictions}}
+
+After exchange of a conditional SPA, the buyer is contractually
+committed to proceeding with the acquisition. The buyer runs the risk
+that the seller may neglect the business, knowing that the buyer must go
+ahead with the purchase. The buyer will therefore require undertakings
+from the seller about how the target company or business will be run in
+the period between signing and completion.
+
+The buyer runs the risk that the seller may neglect the business,
+knowing that the buyer must go ahead with the purchase. May:
+
+\begin{itemize}
+\tightlist
+\item
+  Require undertakings from the seller about how the target company or
+  business will be run in the period.
+\item
+  Require seller to allow it to attend board meetings
+\item
+  Require undertakings that the seller will not:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Lend or borrow money except for routine matters in the ordinary
+    course of business
+  \item
+    Grant any mortgage/ charge/ debenture over assets
+  \item
+    Settle any claim/ dispute
+  \item
+    Acquire or agree to acquire any property
+  \item
+    Commit to capital expenditure
+  \item
+    Enter into hire purchase agreements
+  \item
+    Alter employment terms of employees/ directors
+  \item
+    Appoint any additional directors of the target.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{repetition-of-warranties}{%
+\subsubsection{Repetition of
+Warranties}\label{repetition-of-warranties}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{A buyer often seeks to protect its position by requiring that the representations and warranties made in the sale and purchase agreement are repeated as at the date of completion.}
+\end{Highlighting}
+\end{Shaded}
+
+A strong buyer may include this as an additional CP (giving the buyer
+the right to withdraw from the purchase in the event of breach). Should
+be strongly resisted by the seller/ limited to material breaches.
+
+Consideration should also be given to the effect of any disclosure
+against such repeated warranties. The buyer is at risk in relation to
+disclosures made between exchange of contracts and completion because,
+regardless of the breach disclosed, it is still bound to complete the
+purchase.
+
+\hypertarget{mac-clause}{%
+\subsubsection{MAC Clause}\label{mac-clause}}
+
+In addition to the repetition of warranties, a buyer in a strong
+negotiating position may also seek to include a right to terminate the
+agreement in the event of a material adverse change in the business,
+assets or profits of the target.
+
+Intended to protect the buyer against the general risk of adverse
+events. Should be strongly resisted by the seller (general risk should
+pass to the buyer on signing)/ limited to specified events.
+
+Very standard in US transactions; unusual here. Generally interpreted
+narrowly in a way favouring the seller.
+
+\hypertarget{completing-acquisition}{%
+\subsection{Completing Acquisition}\label{completing-acquisition}}
+
+Much of the ``closing'' process is managed using an agreed checklist, or
+completion agenda. This sets out the steps and documentation required,
+and who is responsible for them. Regularly circulated and updated.
+Detail depends on the transaction.
+
+If there is to be a delay between signing the sale and purchase
+agreement and completing the acquisition, the completion agenda will be
+an agreed document referred to in the sale and purchase agreement or set
+out in a schedule to it.
+
+\hypertarget{preparation}{%
+\subsubsection{Preparation}\label{preparation}}
+
+Check who should attend and that they have been correctly authorised to
+execute
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Power of attorney}
+\NormalTok{If an individual is unable to attend the completion meeting in person, they may execute a power of attorney giving another person the power to sign the completion documents on their behalf. The terms of the power of attorney will usually be agreed between the parties, and will often be drafted in very broad terms to include a power to sign any additional documentation that may be required in order to effect completion.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{seller-preparation}{%
+\paragraph{Seller Preparation}\label{seller-preparation}}
+
+\begin{itemize}
+\tightlist
+\item
+  Board meeting of the seller company to approve the terms of the draft
+  SPA and to appoint an authorised signatory to execute it.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A single director/ committee may be appointed to attend on behalf of
+    the company.
+  \end{itemize}
+\item
+  A certified copy of the minutes of this meeting must be given to the
+  buyer on completion as evidence of the seller's representatives'
+  authority to act (and sign documents) on its behalf.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Buyer can rely on this as evidence (as a 3rd party acting in good
+    faith)
+  \item
+    Parties' lawyers will check articles of association \& securities
+    documentation regardless.
+  \end{itemize}
+\item
+  Lawyers check whether the sale is in accordance with directors'
+  duties.
+\item
+  If sale is to a director or connected person, an ordinary resolution
+  may be needed to approval of substantial property transaction (s 190)
+\item
+  On a share sale, the buyer will require that a board meeting of the
+  target company is held at completion to approve registration of the
+  transfer of shares.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Seller should ensure BM is quorate and there is a sufficient
+    majority.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{buyer-preparation}{%
+\paragraph{Buyer Preparation}\label{buyer-preparation}}
+
+\begin{itemize}
+\tightlist
+\item
+  A corporate buyer must hold a meeting to approve the terms of the
+  draft SPA and authorise its signing and completion.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A single director/ committee may be appointed to attend on behalf of
+    the company.
+  \end{itemize}
+\item
+  A certified copy of the minutes of this meeting must be given to the
+  buyer on completion as evidence of the buyer's representatives'
+  authority to act (and sign documents) on its behalf.
+\end{itemize}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2529}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7471}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Funding of acquisition
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Preparations
+\end{minipage} \\
+\midrule()
+\endhead
+Equity & Shareholder resolutions may be required to authorise their
+issue. \\
+Debt & Buyer's lawyers must confirm that requirements necessary for the
+provision of the finance have been complied with \(\rightarrow\) funds
+will be available at completion. \\
+\bottomrule()
+\end{longtable}
+
+\begin{itemize}
+\tightlist
+\item
+  Repeat of some searches as a final check
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Companies Registry search
+  \item
+    Bankruptcy search against individual sellers
+  \item
+    Trademark/ patent searches if these are important to the
+    acquisition.
+  \end{itemize}
+\item
+  Share acquisition: searches made against the target company itself.
+\item
+  On a share purchase, the buyer may also want to inspect the statutory
+  books of the target company to check compliance with formalities.
+\end{itemize}
+
+\hypertarget{completion-of-asset-acquisition}{%
+\subsubsection{Completion of Asset
+Acquisition}\label{completion-of-asset-acquisition}}
+
+UK asset purchase: all assets must be transferred individually. SPA
+usually provides that transfers take place simultaneously.
+
+\hypertarget{transfer-of-title}{%
+\paragraph{Transfer of Title}\label{transfer-of-title}}
+
+Formalities to transfer the legal interest in the assets of a business
+to the buyer:
+
+\begin{itemize}
+\tightlist
+\item
+  conveyances, transfers or assignments of land and premises;
+\item
+  assignments of goodwill, certain intellectual property rights
+  (including copyrights, patents and trade marks) and the benefit of
+  contracts.
+\end{itemize}
+
+Stock and moveable assets are transferable on delivery.
+
+\hypertarget{documents-to-hand-over}{%
+\paragraph{Documents to Hand Over}\label{documents-to-hand-over}}
+
+The seller will hand over:
+
+\begin{itemize}
+\tightlist
+\item
+  Where there is no delay between exchange and completion, the agreed
+  form of disclosure letter or schedule
+\item
+  where the seller is a company, a certified copy of a board resolution
+  authorising a representative to attend to completion arrangements and
+  to sign the documentation.
+\item
+  Documents transferring title to assets
+\item
+  Deeds and documents of title to the assets
+\item
+  Duly executed releases of charges over the assets and confirmation of
+  non-crystallisation of floating charges
+\item
+  Financial records, customer records, promo materials, PAYE and VAT
+  records, employee records\ldots{}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Seller should retain a right to inspect these for a while after
+    completion (in case needed)
+  \end{itemize}
+\item
+  Originals, counterparts or certified copies as appropriate of licences
+  to assign leasehold property, novation agreements and consents from
+  third parties to assignment of contracts
+\item
+  A certified copy of a special resolution of the selling company
+  resolving to change its name if it has been agreed that the buyer will
+  acquire the right to use the seller's corporate name.
+\end{itemize}
+
+\hypertarget{completion-of-share-acquisition}{%
+\subsubsection{Completion of Share
+Acquisition}\label{completion-of-share-acquisition}}
+
+Parties agree a completion timetable. Only the shares are transferred.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Transferring a legal interest in shares}
+\NormalTok{Under English law, the following documents are required to transfer the legal interest in the shares:}
+\NormalTok{ ( a) stock transfer form; and}
+\NormalTok{ ( b) share certificate.}
+\end{Highlighting}
+\end{Shaded}
+
+The buyer is not entitled to exercise its shareholders' rights until the
+transfer is registered by the target. The buyer will therefore require
+the seller to procure registration of the transferred shares, usually
+(in a private company) by procuring a board meeting of the target
+company to consider the transferred shares for registration. The
+existing shareholders may also be required to waive any rights of
+pre-emption on the transfer of shares that may exist under the
+constitution of the company.
+
+\hypertarget{completion-board-meeting}{%
+\paragraph{Completion Board Meeting}\label{completion-board-meeting}}
+
+Board meeting to implement any decisions the buyer requires to take
+immediate control of the target. The minutes of this meeting must be
+prepared in advance and circulated for approval.
+
+The meeting usually deals with:
+
+\begin{itemize}
+\tightlist
+\item
+  Approval of the transfer of shares (subject to stamp duty)
+\item
+  Appointment of new directors and company secretary (consents to act,
+  disclosure of interests, service contracts)
+\item
+  Acceptance of resignations of directors and company secretary.
+\item
+  Acceptance of resignation of company's auditors and appointment of new
+  auditors.
+\item
+  Change in accounting reference date
+\item
+  Change in registered office
+\item
+  Alteration of existing bank mandates and completion of new finance
+  arrangements.
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{A seller of shares is under a general duty not to obstruct or delay the registration of the buyer as the holder of the shares (\_[Hooper v Herts [1906] 1 Ch 549](https://uk.westlaw.com/D{-}106{-}5776?originationContext=document\&transitionType=PLDocumentLink\&contextData=(sc.Default)\&ppcid=499185a9ecb940b1a3a505768c861e1b)\_). However, unless the parties expressly agree otherwise, the seller is not obliged to procure that the target company actually approves and registers the transfer (\_[London Founders Association Ltd v Clarke [1888] 20 QBD 576](https://uk.westlaw.com/D{-}106{-}5778?originationContext=document\&transitionType=PLDocumentLink\&contextData=(sc.Default)\&ppcid=499185a9ecb940b1a3a505768c861e1b)\_). As a result, the buyer typically includes a provision in the SPA which requires the seller to procure that the target company holds a board meeting at completion for the purpose of approving the transfer of the target shares to the buyer, subject only to the transfer being stamped.}
+\end{Highlighting}
+\end{Shaded}
+
+Subsidiaries may also need board meetings to implements changes.
+
+\hypertarget{completion-gm}{%
+\paragraph{Completion GM}\label{completion-gm}}
+
+Matters that may require shareholder approval:
+
+\begin{itemize}
+\tightlist
+\item
+  Consent to SPT (s 190)
+\item
+  Consent to directors' service contract \(> 2\) years
+\item
+  Consent to alter company articles.
+\end{itemize}
+
+Changes/ approvals to be effected by the shareholders will usually be
+dealt with by written resolution at the completion board meeting of the
+target company.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{The buyer does not become a member of the target company until its name is entered into the register of members (CA 2006, s 112) – after stamping of the stock transfer form. So the sellers must usually pass the resolution. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{completion-documents}{%
+\paragraph{Completion Documents}\label{completion-documents}}
+
+The parties will agree a completion agenda. Usually, the buyer takes
+responsibility for producing the final form SPA. Seller required to hand
+over:
+
+\begin{itemize}
+\tightlist
+\item
+  where there is no delay between exchange and completion, the
+  \textbf{agreed form of disclosure letter} or schedule;
+\item
+  if the seller is a company, a certified copy of a \textbf{board
+  resolution authorising its representative} to attend to completion
+  arrangements on behalf of the company and to sign the documentation;
+\item
+  \textbf{stock transfer form} duly executed and delivered by each
+  seller together with relevant share certificates;
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A proper instrument of transfer is required to transfer legal title
+    to the target shares to the buyer (s 770 CA 2006).
+  \item
+    For fully paid shares, this is almost always the form prescribed by
+    Sch 1 Stock Transfer Act 1963.
+  \end{itemize}
+\item
+  minutes of a \textbf{completion board meeting} of the target to
+  implement any specified board decisions if required;
+\item
+  any \textbf{written resolutions} required, duly executed by the
+  sellers
+\item
+  \textbf{discharge of outstanding loans} made by the seller to the
+  company/ vice versa
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Deed of release of the charge
+  \item
+    Letter of non-crystallisation of a floatng charge
+  \item
+    Written consent of the charge holder to the sale of shares.
+  \end{itemize}
+\item
+  statutory books of the target company (if required), title deeds to
+  its properties, any certificates of title, documents of title for
+  other assets, financial records, contracts, insurance policies etc.
+\item
+  \textbf{Officers' and auditor's letters of resignation} if required by
+  buyer
+\item
+  \textbf{Deed of indemnity for lost share certificates} if any lost/
+  destroyed.
+\item
+  \textbf{Power of attorney pending registration of the transfer} --
+  allows the buyer to control the rights attached to the target shares
+  pending registration of the transfer.
+\item
+  \textbf{Waiver of seller's claim}s -- waiver of any subsisting claims
+  against the target, if required by the buyer.
+\item
+  \textbf{Loan note documents} if a loan note is used to fund the
+  transaction
+\item
+  \textbf{Transitory services agreement} -- if the buyer requires the
+  seller to continue to provide certain support/ services for a limited
+  period following completion.
+\item
+  \textbf{New services agreement} for employees, if required by the
+  buyer.
+\end{itemize}
+
+Buyer pays the purchase price on completion.
+
+\hypertarget{virtual-completion}{%
+\subsubsection{Virtual Completion}\label{virtual-completion}}
+
+If completion is not face to face, take care to ensure legal validity.
+Ensure that final versions of all documentation are sent to signatories
+before completion occurs, so the signatories can subsequently give
+authority for signed pages to be attached to a hard copy.
+
+Historically, the non-availability of a signatory for an exchange or
+completion meeting might have been addressed by arranging for the absent
+signatory to sign separate signature pages in advance, and then
+attaching the pre-signed pages to the relevant documents once they were
+finalised. However, this practice has been curtailed following the High
+Court decision in {[}{[}R (Mercury Tax Group Ltd and another) v HMRC
+{[}2008{]} EWHC 2721 (Admin){]}{]}.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Recommended options for virtual completion: JWP note}
+
+\NormalTok{{-} **Option 1.** The signatory prints and signs the relevant signature page of the final version of the document. They then return a single email to their lawyers attaching both the entire final version of the document and a scanned copy of the signed signature page. This approach is suitable for all types of documents, including deeds.}
+
+\NormalTok{{-} **Option 2.** The signatory prints and signs the relevant signature page of the final version of the document. They then return to their lawyers a scanned copy of the signed signature page only and authorise them to attach the signed page to the final version of the document. This approach is **not** suitable for deeds or real estate contracts.}
+
+\NormalTok{{-} **Option 3.** The signatory pre{-}signs a signature page for the relevant document. They then returns this page to their lawyers to attach to the document once the final version is agreed. This approach is **not** suitable for deeds or real estate contracts.}
+\end{Highlighting}
+\end{Shaded}
+
+When a party signs a document and sends this to their lawyer in advance
+of exchange or completion, they should give or confirm in writing the
+authority to deliver the relevant signed document, clearly stating any
+conditions.
+
+\hypertarget{authorising-execution}{%
+\subsubsection{Authorising Execution}\label{authorising-execution}}
+
+Where all required signatories cannot be physically present at exchange
+or completion, rather than signing the transaction documents in advance,
+the absent signatories could authorise another person to execute
+documents on their behalf.
+
+2 options:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Authorising the third party to sign as the party's agent.
+\item
+  Granting an ordinary power of attorney. This approach tends to be more
+  common in practice and will be the only viable option if the
+  transaction documents include a deed, given that authority to execute
+  a deed must be given by deed ({[}{[}Steiglitz v Eggington {[}1815{]}
+  Holt 141{]}{]}).
+\end{enumerate}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{It is not usually possible for an absent director to appoint an attorney to sign a document on their behalf in their capacity as a director of a company.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{payment-arrangements}{%
+\subsubsection{Payment Arrangements}\label{payment-arrangements}}
+
+The seller will expect the buyer to pay any cash element of the
+transaction in cleared funds on the completion date. Check:
+
+\begin{itemize}
+\tightlist
+\item
+  The buyer has the requisite funds
+\item
+  The parties have agreed a completion funds flow dealing with
+  logistics.
+\item
+  Agree timings in advance, or they can be a pain
+\item
+  Consider having the buyer's lawyer undertake that funds will be
+  transferred on completion.
+\item
+  Consider setting up a special purpose escrow account in the parties'
+  joint names and appointing a holding bank/ independent third agent as
+  the escrow agent.
+\end{itemize}
+
+\hypertarget{using-sale-proceeds-to-discharge-security-interests}{%
+\paragraph{Using Sale Proceeds to Discharge Security
+Interests}\label{using-sale-proceeds-to-discharge-security-interests}}
+
+Where a seller needs the sale proceeds to discharge a security interest
+at completion, this can cause cash flow issues.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{The lender\textquotesingle{}s lawyers giving an undertaking to the buyer\textquotesingle{}s lawyers to forward the lender\textquotesingle{}s deed of release to them once the lender has received the monies following completion of the share sale may resolve this timing issue.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{funding-acquisition}{%
+\subsubsection{Funding Acquisition}\label{funding-acquisition}}
+
+If a buyer is seeking to raise the requisite funds for the acquisition
+through an issue of equity or by obtaining debt finance, this can cause
+timing issues for completion:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Catch{-}22}
+\NormalTok{{-} The buyer may not want to raise funds unless acquisition is certain to complete. }
+\NormalTok{{-} Buyer unable to complete the transaction if it does not raise the necessary funds $\textbackslash{}rightarrow$ wants to avoid being subject to an obligation to complete in these circumstances. }
+\end{Highlighting}
+\end{Shaded}
+
+\begin{itemize}
+\tightlist
+\item
+  Acquisition funded by a placing
+
+  \begin{itemize}
+  \tightlist
+  \item
+    SPA often provides that completion is conditional on the allotment
+    and listing of placing shares
+  \item
+    Placing agreement says placing conditional on SPA becoming
+    unconditional in all respects other than placing conditions
+  \end{itemize}
+\item
+  Acquisition funded by rights issue
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Buyer risks raising too much cash if the acquisition is subject to a
+    condition that cannot be satisfied before the rights issue is
+    launched.
+  \item
+    Agree that if the acquisition does not complete, proceeds of the
+    rights issue can be used for other purposes
+  \item
+    Or pay in 2 instalments(``trombone rights issue'')
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{post-completion}{%
+\subsection{Post-completion}\label{post-completion}}
+
+\hypertarget{stamp-duty-and-filing}{%
+\subsubsection{Stamp Duty and Filing}\label{stamp-duty-and-filing}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{On a share purchase of a company registered in England and Wales, the buyer’s lawyers must ensure that the duly executed stock transfer forms are delivered to the HMRC Stamp Office within **30 days** together with the requisite transfer duty.}
+\end{Highlighting}
+\end{Shaded}
+
+Usually done immediately by the buyer's lawyers. Stamp duty is payable
+on the transfer of certificated shares unless the consideration for the
+transfer is £1,000 or less, or another exemption applies.
+
+The buyer's lawyers may also need to file the following at Companies
+Registry:
+
+\begin{itemize}
+\tightlist
+\item
+  Forms notifying any change of registered office (s 87 CA 2006),
+  directors and secretary, accounting reference period:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Change of registered office address
+    (\emph{\href{https://uk.westlaw.com/7-422-1650?originationContext=document\&transitionType=DocumentItem\&contextData=(sc.Default)\&ppcid=499185a9ecb940b1a3a505768c861e1b}{Form
+    AD01}}).
+  \item
+    Appointment of new director(s)
+    (\emph{\href{https://uk.westlaw.com/9-422-1649?originationContext=document\&transitionType=DocumentItem\&contextData=(sc.Default)\&ppcid=499185a9ecb940b1a3a505768c861e1b}{Forms
+    AP01}} and
+    \emph{\href{https://uk.westlaw.com/2-422-2044?originationContext=document\&transitionType=DocumentItem\&contextData=(sc.Default)\&ppcid=499185a9ecb940b1a3a505768c861e1b}{AP02}}).
+  \item
+    Appointment of new company secretary
+    (\emph{\href{https://uk.westlaw.com/1-422-1648?originationContext=document\&transitionType=DocumentItem\&contextData=(sc.Default)\&ppcid=499185a9ecb940b1a3a505768c861e1b}{Forms
+    AP03}} and
+    \emph{\href{https://uk.westlaw.com/4-422-2043?originationContext=document\&transitionType=DocumentItem\&contextData=(sc.Default)\&ppcid=499185a9ecb940b1a3a505768c861e1b}{AP04}}).
+  \item
+    Resignation of director(s)
+    (\emph{\href{https://uk.westlaw.com/3-422-1647?originationContext=document\&transitionType=DocumentItem\&contextData=(sc.Default)\&ppcid=499185a9ecb940b1a3a505768c861e1b}{Form
+    TM01}}).
+  \item
+    Resignation of company secretary
+    (\emph{\href{https://uk.westlaw.com/6-422-2042?originationContext=document\&transitionType=DocumentItem\&contextData=(sc.Default)\&ppcid=499185a9ecb940b1a3a505768c861e1b}{Form
+    TM02}}).
+  \item
+    Change of accounting reference date
+    (\emph{\href{https://uk.westlaw.com/0-422-1291?originationContext=document\&transitionType=DocumentItem\&contextData=(sc.Default)\&ppcid=499185a9ecb940b1a3a505768c861e1b}{Form
+    AA01}}).
+  \end{itemize}
+\item
+  Copy of any special resolution
+\item
+  Copy of new articles of association.
+\end{itemize}
+
+Where shares are issued as consideration, the buyer's lawyers may also
+need to file:
+
+\begin{itemize}
+\tightlist
+\item
+  Ordinary resolution triggering the directors' authority to allot
+  shares under s 550
+\item
+  Ordinary resolution removing ceiling on authorised share capital (CA
+  1985 company)
+\item
+  Ordinary resolution authorising directors to allot shares (s 551) -- a
+  company other than a private company with only one class of shares in
+  issue
+\item
+  Special resolution suspending any pre-emption rights
+\item
+  Return of allotments (s 555) together with a statement of capital.
+\end{itemize}
+
+Internal administration:
+
+\begin{itemize}
+\tightlist
+\item
+  Update register of members (section 128B, CA 2006) after stock
+  transfer forms signed
+\item
+  Register of people with significant control (section 790X, CA 2006).
+\item
+  Register of directors (section 167A, CA 2006).
+\item
+  Register of directors' residential addresses (section 167A, CA 2006).
+\item
+  Register of secretaries (section 279A, CA 2006).
+\item
+  PSC register
+\item
+  Maintain internal record of board minutes and resolutions.
+\end{itemize}
+
+\hypertarget{outstanding-matters}{%
+\subsubsection{Outstanding Matters}\label{outstanding-matters}}
+
+There are often matters that may have been left outstanding on
+completion of a transaction. Agree a timetable for these and consider
+having indemnities in place in relation to any costs incurred. Take
+practical steps to implement any changes required to incorporate the
+target into the existing business.
+
+\hypertarget{bibles}{%
+\paragraph{Bibles}\label{bibles}}
+
+Often compiled after completion, containing a complete set of documents
+used in the acquisition.
+
+\hypertarget{execution-of-deeds-and-documents}{%
+\subsection{Execution of Deeds and
+Documents}\label{execution-of-deeds-and-documents}}
+
+English law makes a distinction between deeds and simple contracts.
+Execution formalities vary according to the legal personality of the
+executing party.
+
+\begin{itemize}
+\tightlist
+\item
+  The default position in English law favours flexibility.
+\item
+  Formalities are imposed where a transaction is considered sufficiently
+  important.
+\item
+  A signatory to a contract is generally bound by its terms (in the
+  absence of fraud or misrepresentation) irrespective of whether the
+  party has in fact read the terms
+  (\emph{\href{https://uk.practicallaw.thomsonreuters.com/D-016-1583?originationContext=document\&transitionType=PLDocumentLink\&contextData=(sc.Default)\&ppcid=0e69ecc7bd0b425c8c07be4517611bac}{L'Estrange
+  v Graucob {[}1934{]} 2 KB 394}}).
+\item
+  English law mandates the use of a deed in certain transactions or
+  circumstances. There is no requirement for the signature to be
+  witnessed.
+\item
+  A deed is a written instrument which is executed with the necessary
+  formality and by which an interest/ right or property passes or is
+  confirmed.
+\end{itemize}
+
+Purposes of deed formalities:
+
+\begin{itemize}
+\tightlist
+\item
+  Evidential
+\item
+  Cautionary
+\item
+  Labelling
+\end{itemize}
+
+\hypertarget{effect-of-a-deed}{%
+\subsubsection{Effect of a Deed}\label{effect-of-a-deed}}
+
+\begin{itemize}
+\tightlist
+\item
+  No requirement for consideration.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    But note the courts will not normally order specific performance of
+    a voluntary undertaking even if it made by deed (equity does not
+    assist a volunteer).
+  \end{itemize}
+\item
+  Longer limitation period
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Generally 12 years (s 8 Limitation Act 1980), except for some rent/
+    mortgage exceptions.
+  \item
+    For a contract, limitation period is 6 years from the date on which
+    the cause of action accrued (s 5 Limitation Act 1980)
+  \end{itemize}
+\item
+  Estoppel by deed
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A party is estopped from disputing the validity or effectiveness of
+    the grant.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{written-contract}{%
+\subsubsection{Written Contract}\label{written-contract}}
+
+In a limited number of situations, the law requires an agreement to be
+made or evidenced in writing and, in some instances, to be signed by the
+parties in order to have legal effect.
+
+\begin{itemize}
+\tightlist
+\item
+  Contract for the sale of land
+
+  \begin{itemize}
+  \tightlist
+  \item
+    s 2 LP(MP)A applies; must be in writing, signed by or on behalf of
+    each party, and incorporate all terms expressly agreed by the
+    parties.
+  \end{itemize}
+\item
+  The assignment of the benefit of a contract
+
+  \begin{itemize}
+  \tightlist
+  \item
+    An assignment that meets the requirements set out in
+    \emph{\href{https://uk.practicallaw.thomsonreuters.com/2-505-5703?originationContext=document\&transitionType=PLDocumentLink\&contextData=(sc.Default)\&ppcid=0e69ecc7bd0b425c8c07be4517611bac}{section
+    136}} of the LPA 1925 is a legal assignment
+  \item
+    These include that the assignment must be in writing and signed by
+    the assignor.\\
+  \end{itemize}
+\item
+  Transfer of legal title to certificated shares
+
+  \begin{itemize}
+  \tightlist
+  \item
+    s 770 CA 2006 requires a written transfer signed by or on behalf of
+    the transferor to be lodged with the company before the new
+    shareholder is registered as the owner of the legal title to the
+    shares.
+  \end{itemize}
+\item
+  Assignment of a number of IP rights
+\item
+  Equitable mortgage
+\item
+  Assent (legal interest in land)
+\item
+  Guarantee
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Guarantee is unenforceable unless (s 4 Statute of Frauds) -
+
+    \begin{itemize}
+    \tightlist
+    \item
+      It is in writing (or there is a memorandum or note of the
+      agreement).
+    \item
+      It is signed by the guarantor or at its direction.
+    \end{itemize}
+  \item
+    Usually structured as deeds to avoid the problem of consideration.
+  \end{itemize}
+\item
+  Declaration of trust over land (or any interest in it)
+\item
+  Financial collateral arrangement
+\item
+  Regulated credit agreement (Consumer Credit Act 1974)
+\item
+  Agreement to waive/ settle a claim against the employer in return for
+  payment.
+\end{itemize}
+
+\hypertarget{deed}{%
+\subsubsection{Deed}\label{deed}}
+
+Statute demands the use of a deed for the following transactions:
+
+\begin{itemize}
+\tightlist
+\item
+  Transfers of land or interests in land.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Must be by deed or it will be void for the purpose of conveying/
+    creating a legal estate (s 52 LPA 1925).
+  \end{itemize}
+\item
+  Leases, except
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Those taking effect in possession for a term not exceeding 3 years
+    at best rent reasonably obtainable without taking a fine.
+  \item
+    Relevant social housing tenancies.
+  \end{itemize}
+\item
+  Mortgages and charges.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A legal mortgage or charge by way of legal mortgage over land can
+    only be created by deed (sections 52(2), 85(1) and 86(1), LPA 1925).
+  \item
+    Any mortgage or charge of land or other property (whether legal or
+    equitable) must be by deed if the mortgagee or chargee is to have
+    the statutory powers of sale and to appoint a receiver (section 101,
+    LPA 1925).
+  \end{itemize}
+\item
+  Sales by mortgagee.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Must be by deed if the sale is to overreach subsequent mortgages and
+    charges (section 104, LPA 1925).
+  \end{itemize}
+\item
+  Certain actions under the Trustee Act 1925 (TA 1925).
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The power to replace a trustee under section 36 of the TA 1925 must
+    be exercised in writing and is typically exercised by deed, because
+    a deed allows automatic vesting of trust property under section
+    40(1).
+  \end{itemize}
+\item
+  Powers of attorney, including lasting powers of attorney.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    An ordinary power of attorney must be executed as a deed by the
+    donor of the power (section 1(1), Powers of Attorney Act 1971).
+  \end{itemize}
+\item
+  Bills of sale.
+\end{itemize}
+
+Common law requires a deed for:
+
+\begin{itemize}
+\tightlist
+\item
+  Any agreement that is made without consideration.
+\item
+  A gift of tangible goods, without delivery of possession
+
+  \begin{itemize}
+  \tightlist
+  \item
+    (\emph{\href{https://uk.practicallaw.thomsonreuters.com/D-016-1484?originationContext=document\&transitionType=PLDocumentLink\&contextData=(sc.Default)\&ppcid=0e69ecc7bd0b425c8c07be4517611bac}{Irons
+    v Smallpiece (1819) 2 B\&E Ald 551}} and
+    \emph{\href{https://uk.practicallaw.thomsonreuters.com/D-016-1485?originationContext=document\&transitionType=PLDocumentLink\&contextData=(sc.Default)\&ppcid=0e69ecc7bd0b425c8c07be4517611bac}{Cochrane
+    v Moore (1890) 25 QBD 57}}).
+  \end{itemize}
+\item
+  An express release of certain rights..
+\end{itemize}
+
+\hypertarget{principles}{%
+\subsubsection{Principles}\label{principles}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{{-} A contract contained in a deed can only be varied or discharged by another contract contained in a deed.}
+\NormalTok{{-} The release of a debt, liability or obligation must be effected by deed.}
+\end{Highlighting}
+\end{Shaded}
+
+However, a variation or release can take effect in equity in the absence
+of a deed provided that valuable consideration has been given
+(\emph{\href{https://uk.practicallaw.thomsonreuters.com/D-009-7407?originationContext=document\&transitionType=PLDocumentLink\&contextData=(sc.Default)\&ppcid=0e69ecc7bd0b425c8c07be4517611bac}{Webb
+v Hewitt (1857) 3 K and J 438}}).
+
+The doctrine of promissory estoppel is also relevant in this context and
+oral evidence is also permissible to show a variation of the terms of a
+deed.
+
+\hypertarget{formalities}{%
+\subsubsection{Formalities}\label{formalities}}
+
+There are four key requirements for a valid deed:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Writing.} A deed must be in writing. This is a common law
+  requirement modified by section 1(1)(a) of the LP(MP)A 1989 which
+  abolished any rule of law restricting the substances on which a deed
+  may be written.
+\item
+  \textbf{Face value requirement.} It must be clear from the face of the
+  instrument that it is intended to take effect as a deed
+  (\emph{\href{https://uk.practicallaw.thomsonreuters.com/7-505-7361?originationContext=document\&transitionType=PLDocumentLink\&contextData=(sc.Default)\&ppcid=0e69ecc7bd0b425c8c07be4517611bac}{section
+  1(2)(a)}, LP(MP)A 1989}). For further information, see
+  \emph{\href{https://uk.practicallaw.thomsonreuters.com/Document/I2a05f3d71cb811e38578f7ccc38dcbee/View/FullText.html?navigationPath=Search\%2Fv1\%2Fresults\%2Fnavigation\%2Fi0ad6ad3f000001841ed7d74a8e6914e1\%3Fppcid\%3D6c2ae8a868b54456ac4cdc97bf99f24b\%26Nav\%3DKNOWHOW_UK\%26fragmentIdentifier\%3DI2a05f3d71cb811e38578f7ccc38dcbee\%26parentRank\%3D0\%26startIndex\%3D1\%26contextData\%3D\%2528sc.Search\%2529\%26transitionType\%3DSearchItem\&listSource=Search\&listPageSource=c156b6df63e9ac1dbe2bd9174c514051\&list=KNOWHOW_UK\&rank=2\&sessionScopeId=d84126a1818ed3fb6e1aadaf57885dfabcc9a95b48d8801a1ae90e19604d0dc0\&ppcid=6c2ae8a868b54456ac4cdc97bf99f24b\&originationContext=Search\%20Result\&transitionType=SearchItem\&contextData=(sc.Search)\&navId=DADDF17324157881A30EF74E4476B30F\&comp=pluk\#co_anchor_a243821}{The
+  face value requirement}}.
+\item
+  \textbf{Execution.} The instrument must be validly executed as a deed
+  by the person making it or, as the case may be, by one or more of the
+  parties to it
+  (\emph{\href{https://uk.practicallaw.thomsonreuters.com/7-505-7361?originationContext=document\&transitionType=PLDocumentLink\&contextData=(sc.Default)\&ppcid=0e69ecc7bd0b425c8c07be4517611bac}{section
+  1(2)(b)}, LP(MP)A 1989}). For further information, see
+  \emph{\href{https://uk.practicallaw.thomsonreuters.com/Document/I2a05f3d71cb811e38578f7ccc38dcbee/View/FullText.html?navigationPath=Search\%2Fv1\%2Fresults\%2Fnavigation\%2Fi0ad6ad3f000001841ed7d74a8e6914e1\%3Fppcid\%3D6c2ae8a868b54456ac4cdc97bf99f24b\%26Nav\%3DKNOWHOW_UK\%26fragmentIdentifier\%3DI2a05f3d71cb811e38578f7ccc38dcbee\%26parentRank\%3D0\%26startIndex\%3D1\%26contextData\%3D\%2528sc.Search\%2529\%26transitionType\%3DSearchItem\&listSource=Search\&listPageSource=c156b6df63e9ac1dbe2bd9174c514051\&list=KNOWHOW_UK\&rank=2\&sessionScopeId=d84126a1818ed3fb6e1aadaf57885dfabcc9a95b48d8801a1ae90e19604d0dc0\&ppcid=6c2ae8a868b54456ac4cdc97bf99f24b\&originationContext=Search\%20Result\&transitionType=SearchItem\&contextData=(sc.Search)\&navId=DADDF17324157881A30EF74E4476B30F\&comp=pluk\#co_anchor_a160961}{Execution
+  of deeds}}.
+\item
+  \textbf{Delivery.} A deed must be delivered. Although this was
+  historically a common law requirement, the rule has been modified by
+  statute (for example,
+  \emph{\href{https://uk.practicallaw.thomsonreuters.com/7-505-7361?originationContext=document\&transitionType=PLDocumentLink\&contextData=(sc.Default)\&ppcid=0e69ecc7bd0b425c8c07be4517611bac}{section
+  1(1)(c)}, LP(MP)A 1989} and
+  \emph{\href{https://uk.practicallaw.thomsonreuters.com/0-506-8297?originationContext=document\&transitionType=PLDocumentLink\&contextData=(sc.Default)\&ppcid=0e69ecc7bd0b425c8c07be4517611bac}{section
+  46(2)}, CA 2006}). For further information, see
+  \emph{\href{https://uk.practicallaw.thomsonreuters.com/Document/I2a05f3d71cb811e38578f7ccc38dcbee/View/FullText.html?navigationPath=Search\%2Fv1\%2Fresults\%2Fnavigation\%2Fi0ad6ad3f000001841ed7d74a8e6914e1\%3Fppcid\%3D6c2ae8a868b54456ac4cdc97bf99f24b\%26Nav\%3DKNOWHOW_UK\%26fragmentIdentifier\%3DI2a05f3d71cb811e38578f7ccc38dcbee\%26parentRank\%3D0\%26startIndex\%3D1\%26contextData\%3D\%2528sc.Search\%2529\%26transitionType\%3DSearchItem\&listSource=Search\&listPageSource=c156b6df63e9ac1dbe2bd9174c514051\&list=KNOWHOW_UK\&rank=2\&sessionScopeId=d84126a1818ed3fb6e1aadaf57885dfabcc9a95b48d8801a1ae90e19604d0dc0\&ppcid=6c2ae8a868b54456ac4cdc97bf99f24b\&originationContext=Search\%20Result\&transitionType=SearchItem\&contextData=(sc.Search)\&navId=DADDF17324157881A30EF74E4476B30F\&comp=pluk\#co_anchor_a980095}{Delivery
+  of deeds}}.
+\end{itemize}
+
+\end{document}

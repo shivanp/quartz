@@ -1,0 +1,12 @@
+---
+aliases: 
+tags: 
+date created: Sunday, December 10th 2023, 12:02:27 am
+date modified: Sunday, December 10th 2023, 12:40:21 am
+---
+
+# R v Campbell (1990) 93 Cr App R 350
+
+The law of attempt is fully contained within the [Criminal Attempts Act 1981](https://uk.westlaw.com/Document/I602CADA0E42311DAA7CF8F68F6EE57AB/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=cf3ba0a73d174806ba5e1631b5ad3ca1&contextData=(sc.Search)). A judge need only tell the jury that the accused must have done an act which was more than merely preparatory to committing the offence with the intention of committing it. Police had information that a robbery was going to take place. They saw D hanging around the post office in question, wearing sunglasses and carrying something heavy. He went away, returned 30 minutes later, and was arrested. The heavy object was a gun, and he had a demand note in his possession. His defence was that he had intended to rob the post office, had changed his mind, but had been arrested before he had a chance to leave. The judge refused a submission of no case, and in his summing-up on the law of attempt gave the jury examples of the law as it applied prior to the 1981 Act.
+
+Held, allowing D's appeal, that the judge need only have directed the jury that D must have done an act which was more than merely preparatory to committing the offence, with the intention of committing it. The judge should not have made reference to the law prior to the 1981 Act. Further, since D had not even got to a point where he could have committed the offence had he wished to, the judge should have stopped the case at the conclusion of the prosecution evidence (_[DPP v Stonehouse [1978] A.C. 55, [1977] 6 WLUK 166](https://uk.westlaw.com/Document/I9B0FC390E42711DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=cf3ba0a73d174806ba5e1631b5ad3ca1&contextData=(sc.Search))_, _[R. v Gullefer (Ian John) [1990] 1 W.L.R. 1063, [1986] 11 WLUK 198](https://uk.westlaw.com/Document/I48299380E42811DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=cf3ba0a73d174806ba5e1631b5ad3ca1&contextData=(sc.Search))_, _[R. v Jones (Kenneth Henry) [1990] 1 W.L.R. 1057, [1990] 4 WLUK 22](https://uk.westlaw.com/Document/I507C5040E42811DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=cf3ba0a73d174806ba5e1631b5ad3ca1&contextData=(sc.Search))_ considered).

@@ -1,0 +1,4959 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\newenvironment{Shaded}{}{}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+
+\newenvironment{env-a1515c36-41d3-4443-a8f5-fb6185c16f0c}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{firebrick}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-d537f2d3-16df-45e9-b698-b1af599dfeb9}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-38983e6d-d80a-4801-98c6-e0e09975cbc0}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{green}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-71a1f24c-dbec-4536-a7c9-409ef6b137ea}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{aquamarine}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-e84c7e8c-9705-4033-be67-5a22e449cd6e}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{orange}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-bc89d7c2-5a57-4d92-b55e-0d8d63f64f59}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-adf63665-fb9b-4403-b251-cb5731aa1178}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gold}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-f63514ce-31e9-4c8c-ae6a-14dbb7e0331f}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darkred}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-cc396ffb-ce85-499a-875d-e3c13eebd921}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{pink}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-e01dac82-c7b3-4bdd-9805-eb8d18295759}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-5a35d948-f266-454a-b19c-9e87bc7eb868}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-218e1eaa-790b-4c21-bc9f-6d34443195ea}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{purple}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-8e95a2b0-0bf3-4454-97f2-615ca97bd11f}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darksalmon}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-b0f201ac-ca38-4625-ace0-fe7382968fcd}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gray}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{min\_depth: 1}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{limited-liability-company}{%
+\section{Limited Liability Company}\label{limited-liability-company}}
+
+\hypertarget{constitution-and-documents}{%
+\subsection{Constitution and
+Documents}\label{constitution-and-documents}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 7 CA 2006}
+\NormalTok{(1) A company is formed under this Act by one or more persons—}
+\NormalTok{{-} (a) subscribing their names to a memorandum of association (see section 8), and}
+\NormalTok{{-} (b) complying with the requirements of this Act as to registration (see sections 9 to 13).}
+
+\NormalTok{(2) A company may not be so formed for an unlawful purpose.}
+\end{Highlighting}
+\end{Shaded}
+
+s 20 CA 2006 provides that the
+{[}\protect\hyperlink{articles-of-association-1}{Articles of
+Association}{]} of a 2006 Act company are to be those set out in model
+Articles created by statutory instrument, except to the extent the
+{[}{[}Business Law and Practice/Company Fundamentals/Shareholders{]}{]}
+substitute their own Articles. There is one set of model Articles for
+private limited {[}{[}companies{]}{]} and another for public limited
+{[}{[}companies{]}{]}. Both sets of model Articles are to be found in
+the Companies (Model Articles) Regulations 2008.
+
+For pre-CA 2006 companies, the memorandum is an additional
+constitutional document. In the Memorandum of Association you will also
+find a clause called the `authorised share capital clause'. This states:
+the maximum number of shares into which ownership of the company could
+be subdivided; and the face value of each share, known as the `nominal'
+or `par' value. This figure is significant -- for example, it is
+unlawful under the Companies Act 2006 for a company to charge less than
+the nominal value when it issues new {[}{[}shares{]}{]}.
+
+s 28 CA 2006 provides that such provisions are to be treated as if they
+were contained in the company's Articles of Association. That is, they
+are implied into the Articles of Association.
+
+When a company is formed:
+
+\begin{itemize}
+\tightlist
+\item
+  The company has separate legal personality;
+\item
+  The members of a limited company have limited liability.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    There is a limit on the amount of money a shareholder is liable to
+    contribute to a limited company in insolvent liquidation. The extent
+    of this liability is set out in section 74(2)(d) of the Insolvency
+    Act 1986.
+  \end{itemize}
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 74(2)(d) IA 1986}
+\NormalTok{In the case of a company limited by shares, no contribution is required  }
+\NormalTok{from any member exceeding the amount (if any) unpaid on the shares in  }
+\NormalTok{respect of which he is liable as a present or past member.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{separate-personality}{%
+\subsection{Separate Personality}\label{separate-personality}}
+
+Although forming a company by registration without the need for a royal
+charter or Act of Parliament had been permitted since the Joint Stock
+Companies Registration Act of 1844, it was only following the decision
+of the House of Lords in {[}{[}Salomon v A Salomon \& Co ltd {[}1897{]}
+AC 22{]}{]} that the full extent of this principle was realised. The
+House of Lords held in its judgment that the company's acts were its own
+acts, not those of Mr Salomon personally.
+
+\begin{itemize}
+\tightlist
+\item
+  A company owns its own property, and it does not belong to the members
+  (i.e., owners) of the company.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If the member were to insure the company's property, the insurance
+    would not be valid and the insurer would not have to pay up if a
+    claim was made, even if that member owned the whole company
+    ({[}{[}Macaura v Northern Assurance Co Ltd {[}1925{]} AC 619{]}{]}).
+  \end{itemize}
+\item
+  The company will enter into contracts with third parties and incur
+  contractual rights/ obligations
+\item
+  A company is able to borrow money and give security over its assets.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    There is nothing to stop a company from borrowing money from its
+    members, or indeed its
+    {[}\protect\hyperlink{directors-1}{directors}{]}.
+  \end{itemize}
+\item
+  Company can incur debts in its own name.
+\item
+  If the company is wound up and comes to an end (e.g., because it can
+  no longer pay its debts), under s 74(2)(d) of the Insolvency Act 1986
+  (IA 1986) any unpaid amount of the nominal value of the shares may be
+  claimed from the members. Any unpaid amount therefore represents the
+  extent of the members' liability.
+\item
+  A company may sue and be sued in its own name.
+\item
+  A company may even be prosecuted for manslaughter in its own right
+  under the Corporate Manslaughter and Corporate Homicide Act 2007.
+\item
+  A company as a separate legal person has its own lifespan independent
+  of those who own or run it.
+\item
+  A company is taxed separately from the members and director.
+\item
+  As a separate legal person a company is also entitled to certain
+  protections under the Human Rights Act 1998
+\end{itemize}
+
+\hypertarget{division-of-responsibility}{%
+\subsubsection{Division of
+Responsibility}\label{division-of-responsibility}}
+
+\begin{itemize}
+\tightlist
+\item
+  Workers are employees.
+\item
+  Members are owners.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    In a company limited by shared, the members are known as
+    shareholders.
+  \item
+    ``Member'' rather than ``shareholder'' used in CA 2006
+  \end{itemize}
+\item
+  Directors run the company day-to-day
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Take daily decisions such as entering into contracts
+  \end{itemize}
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 112 CA 2006}
+\NormalTok{(1) The subscribers of a company’s memorandum are deemed to have  }
+\NormalTok{agreed to become members of the company, and on its registration  }
+\NormalTok{become members and must be entered as such in its register of  }
+\NormalTok{members.  }
+\NormalTok{(2) Every other person who agrees to become a member of a company,  }
+\NormalTok{and whose name is entered in its register of members, is a member of  }
+\NormalTok{the company.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{group-of-companies}{%
+\subsubsection{Group of Companies}\label{group-of-companies}}
+
+A company can own property in its own name, and this property includes
+shares in another company. This leads to structures of groups of
+companies, with parents and subsidiaries. This is sensible risk
+management.
+
+\hypertarget{case-law}{%
+\paragraph{Case Law}\label{case-law}}
+
+In {[}{[}Adams v Cape Industries plc {[}1990{]} Ch 433{]}{]}, the
+claimants for asbestos-related illnesses were unable to bring
+proceedings against a parent company as they worked for one of the
+parent's subsidiary companies. This was the case even though the
+subsidiary company had gone insolvent. However, in what may be a shift
+of emphasis, in {[}{[}Chandler v Cape plc {[}2012{]} EWCA 525 CA{]}{]},
+a parent company was held liable for the asbestos-induced illness of an
+employee of its subsidiary company. The Court of Appeal established a
+number of principles for deciding the circumstances in which a parent
+company will be liable for the subsidiary's actions in health and safety
+matters. It seems as if such liability could extend to other areas, for
+example environmental liability. (see GDL notes).
+
+\hypertarget{separate-legal-personality-workarounds}{%
+\subsection{Separate Legal Personality
+Workarounds}\label{separate-legal-personality-workarounds}}
+
+The consequences that flow from the principle of separate legal
+personality can be problematic (e.g., evasion of responsibilities, tax
+avoidance).
+
+\hypertarget{giving-a-guarantee}{%
+\subsubsection{Giving a Guarantee}\label{giving-a-guarantee}}
+
+Banks can side-step separate legal personality by using contract law and
+asking for a personal guarantee from the entrepreneur for a loan to a
+business.
+
+\hypertarget{corporate-veil}{%
+\subsubsection{Corporate Veil}\label{corporate-veil}}
+
+There are exceptional circumstances in which statute or case law
+`pierces', or `lifts' or `looks behind' this corporate veil.
+
+The corporate veil is lifted only in exceptional and limited
+circumstances, when all other, more conventional, remedies have proved
+to be of no assistance ({[}{[}Prest v Petrodel Resources Ltd {[}2013{]}
+2 AC 415{]}{]}).
+
+The courts will usually look behind the veil only in cases of fraud or
+deliberate breach of trust, eg where companies are used to carry out
+fraud ({[}{[}Re Darby, ex p Brougham {[}1911{]} 1 KB 95{]}{]}) or to
+avoid existing obligations ({[}{[}Gilford Motor Co Ltd v Horne
+{[}1933{]} Ch 935{]}{]}). The courts seem to ignore the principle of
+separate legal personality in these cases in order to ensure that an
+appropriate remedy is available against individuals who have committed a
+wrong using a company that they control. The Supreme Court has held,
+however, that even where fraud may exist, it will not pierce the veil in
+order to hold a person controlling a company liable as a joint
+contracting party for a contract which the company, and not the
+controller, has entered into ({[}{[}VTB Capital plc v Nutritek
+International Corp and others {[}2013{]} UKSC 5{]}{]}).
+
+\hypertarget{single-economic-unit}{%
+\subsubsection{Single Economic Unit}\label{single-economic-unit}}
+
+A group of companies may be used to lessen the risks of a business
+failure by taking advantage of separate legal personality. Previous
+decisions ignoring separate legal personality among groups are quite
+controversial and currently thought to be specific to their facts (i.e.,
+wrong).
+
+Nevertheless, there are statutory rules which apply to groups of
+companies and treat them as if they are a single economic unit rather
+than entirely separate legal persons.
+
+\begin{itemize}
+\tightlist
+\item
+  s 399 of the CA 2006 requires certain parent companies to prepare
+  accounts for their groups of companies as if they were single
+  companies, one aim being to ensure that shareholders of the parent
+  company get to see the true financial state of their company.
+\item
+  There is also special tax treatment of groups of companies to reflect
+  the fact that, although comprising separate legal entities, they are
+  usually run together.
+\end{itemize}
+
+\hypertarget{liability-of-directors}{%
+\subsubsection{Liability of Directors}\label{liability-of-directors}}
+
+Directors are liable for their involvement in running a company (e.g.,
+{[}{[}wrongful trading{]}{]}). But strictly this is not side-stepping
+separate legal personality: affirms it by making the director pay to the
+separate legal person, the company.
+
+\hypertarget{other-principles}{%
+\subsection{Other Principles}\label{other-principles}}
+
+\hypertarget{transparency}{%
+\subsubsection{Transparency}\label{transparency}}
+
+Companies are required to make a large amount of information available
+to the public, including:
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \tightlist
+  \item
+    the identity of the company's shareholders, and the number and type
+    of shares that they own;
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{1}
+  \tightlist
+  \item
+    the identity and certain personal information about the company's
+    directors;
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{2}
+  \tightlist
+  \item
+    the identity of the company secretary (if any);
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{3}
+  \tightlist
+  \item
+    the company's constitution (the internal rules which govern how the
+    company should be run).
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{4}
+  \tightlist
+  \item
+    the company's accounts; and
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{5}
+  \tightlist
+  \item
+    certain decisions taken by the shareholders.
+  \end{enumerate}
+\end{itemize}
+
+Designed to help third parties in deciding whether to deal with the
+company.
+
+\hypertarget{records}{%
+\paragraph{Records}\label{records}}
+
+\begin{itemize}
+\tightlist
+\item
+  CA 2006 requires that this information must be sent, usually using a
+  prescribed form, to the Registrar of Companies at Companies House.
+\item
+  Companies House is an agency of the Department of Business, Energy and
+  Industrial Strategy (BEIS).
+\item
+  The information is stored on a register kept at Companies House in
+  accordance with s 1080 CA 2006.
+\item
+  The Registrar of Companies is designated under s 1061 CA 2006 as
+  having responsibility for keeping this register.
+\end{itemize}
+
+\hypertarget{maintenance-of-capital}{%
+\paragraph{Maintenance of Capital}\label{maintenance-of-capital}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{The money invested by shareholders in a company is known as share capital.}
+\end{Highlighting}
+\end{Shaded}
+
+It is a fundamental rule of company law that the share capital belongs
+to the company and not to the shareholders. The share capital is treated
+as a special fund within the company and
+
+given extra protection by the law. This is so that it is available to
+repay the company's creditors should the company be unable to pay its
+debts. This is the maintenance of capital principle -- that a reserve of
+money, the share capital, is maintained within the company, to be
+available for creditors as a last resort.
+
+Its effects are most clearly demonstrated in s 830 CA 2006. This
+provision allows a company to make distributions to its shareholders
+only out of distributable profits. Put simply, a company can pay money
+to its shareholders only from available profits, which do not touch the
+share capital.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Most private companies have a share capital of £100 or less.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{company-constitution}{%
+\section{Company Constitution}\label{company-constitution}}
+
+\hypertarget{importance}{%
+\subsection{Importance}\label{importance}}
+
+\begin{itemize}
+\tightlist
+\item
+  Represents a special type of contract between the company, as a
+  separate legal person, and the shareholders, and between the
+  shareholders.
+\item
+  Evidences the existence of the company, states current share capital,
+  and sets out rules governing how the company is run.
+\end{itemize}
+
+\hypertarget{definition}{%
+\subsection{Definition}\label{definition}}
+
+Constitution includes:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Articles of Association (s 17)
+\item
+  Certificate of incorporation (s 32)
+\item
+  Current statement of capital (s 32)
+\item
+  Copies of any court orders and enactments altering constitution (s 32)
+\item
+  Resolutions affecting constitution (ss 17 \& 29)
+\item
+  Agreements involving shareholders affecting constitution (ss 17 \& 29)
+\end{enumerate}
+
+\hypertarget{articles-of-association}{%
+\subsection{Articles of Association}\label{articles-of-association}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 18(1) CA 2006}
+\NormalTok{A company must have articles of association prescribing regulations for the company.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2193}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7807}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Aspect
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Details
+\end{minipage} \\
+\midrule()
+\endhead
+Scope for varying CA 2006 & Articles can be used to exclude some but not
+all provisions in CA 2006. \\
+Availability & Available for inspection at Companies House. \\
+Layout & Contained in a single document and divided into consecutive
+numbered paragraphs (s 18(3)) \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{unamended-model-articles}{%
+\subsubsection{Unamended Model
+Articles}\label{unamended-model-articles}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 20 CA 2006 {-} **Default** application of model articles}
+\NormalTok{(1) On the formation of a limited company—}
+\NormalTok{{-} (a) if articles are not registered, or}
+\NormalTok{{-} (b) if articles are registered, in so far as they do not exclude or modify the relevant model articles,}
+
+\NormalTok{the relevant model articles (so far as applicable) form part of the company\textquotesingle{}s articles in the same manner and to the same extent as if articles in the form of those articles had been duly registered.}
+
+\NormalTok{(2) The “relevant model articles” means the model articles prescribed for a company of that description as in force at the date on which the company is registered.}
+\end{Highlighting}
+\end{Shaded}
+
+Model articles comprise a set of \textbf{minimum basic rules} on running
+the company. They keep regulation to a minimum.
+
+\hypertarget{ma-index}{%
+\subsubsection{MA Index}\label{ma-index}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule()
+Article numbers & Subject \\
+\midrule()
+\endhead
+1-2 & Defined terms and liability of members \\
+3-6 & Directors' powers and responsibilities \\
+7-16 & Decision-making by directors \\
+17-20 & Appointment of directors \\
+21-29 & Shares \\
+30-35 & Dividends and other distributions \\
+36 & Capitalisation of profits \\
+37-41 & Organisation of general meetings \\
+42-47 & Voting at general meetings \\
+48-51 & Administrative arrangements \\
+52-53 & Directors' indemnity and insurance \\
+\bottomrule()
+\end{longtable}
+
+When reading the model articles, always consider them in conjunction
+with definitions in art 1.
+
+\hypertarget{special-articles}{%
+\subsubsection{Special Articles}\label{special-articles}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Any amendments to MA / other provisions in the Articles are known as \textquotesingle{}special articles\textquotesingle{}.}
+\end{Highlighting}
+\end{Shaded}
+
+Commonly included special articles:
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2022}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7978}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Article
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Description
+\end{minipage} \\
+\midrule()
+\endhead
+Directors' meetings & Make calling directors' meetings more formal
+(e.g., notice period) or limit directors' ability to take decisions by
+electronic means. \\
+Directors' interests in transactions & Allow directors' to vote on
+matters when they have a personal interest. Useful in small
+companies. \\
+Directors' conflicts of interest & s 175 allows a private company to
+permit directors to authorise a situation which would otherwise breach s
+175. MA contains no such provision. \\
+Number of directors & s 154: minimum is 1. This can be changed. \\
+Absence of directors & MA does not give directors' power to appoint a
+replacement if they are away. \\
+Company secretary & Can amend model articles to include power of
+secretary. But could also do this through directors' general powers. \\
+Removal of pre-emption rights & s 561: existing shareholders are offered
+the chance to buy any shares before they are offered to outsiders. \\
+\bottomrule()
+\end{longtable}
+
+It is also possible to create completely bespoke Articles from scratch.
+
+\hypertarget{effect-of-articles}{%
+\subsubsection{Effect of Articles}\label{effect-of-articles}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 33 {-} Effect of company\textquotesingle{}s constitution}
+
+\NormalTok{(1) The provisions of a company\textquotesingle{}s constitution bind the company and its members to the same extent as if there were covenants on the part of the company and of each member to observe those provisions.}
+
+\NormalTok{(2) Money payable by a member to the company under its constitution is a debt due from him to the company. In England and Wales and Northern Ireland it is of the nature of an ordinary contract debt. }
+\end{Highlighting}
+\end{Shaded}
+
+The constitution of a company forms:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  a contract between the company and each of its members, and
+\item
+  a contract between all the company's shareholders.
+\end{enumerate}
+
+\hypertarget{s-33-contract}{%
+\paragraph{S 33 Contract}\label{s-33-contract}}
+
+This creates contracts in circumstances when they would not otherwise
+exist under contract law.
+
+There is a contractual relationship between shareholders:
+
+{[}{[}s 33 contract A.png{]}{]}
+
+and between a company and a new shareholder:
+
+{[}{[}s 33 contract B.png{]}{]}
+
+\hypertarget{nature-of-contract}{%
+\paragraph{Nature of Contract}\label{nature-of-contract}}
+
+The s 33 contract is very different from a standard trading contract.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{The contract allows for action to be taken only in so far as it deals with membership rights ([[Beattie v E and F Beattie [1938] Ch 708]]).}
+\end{Highlighting}
+\end{Shaded}
+
+This includes:
+
+\begin{itemize}
+\tightlist
+\item
+  the right to vote,
+\item
+  the right to attend general meetings, and
+\item
+  the right to a dividend if one is declared.
+\end{itemize}
+
+Articles only create a contract between a company and the members
+\textbf{in their capacity as members}, and not in any special or
+personal capacity. They do not give rights to any person who is not a
+member ({[}{[}Eley v Positive Government Security Life Assurance Company
+(1876) 1 Ex D 88 (CA){]}{]}).
+
+So not:
+
+\begin{itemize}
+\tightlist
+\item
+  The right to be a director ({[}{[}Read v Astoria Garage (Streatham)
+  Ltd {[}1952{]} Ch 637{]}{]})
+\item
+  The right to be a solicitor (\emph{Eley})
+\end{itemize}
+
+Such rights will be dealt with in a \textbf{shareholders' agreement}.
+
+\hypertarget{effect-of-contract}{%
+\paragraph{Effect of Contract}\label{effect-of-contract}}
+
+The members are bound by the s 33 contract ({[}{[}Hickman v Kent or
+Romney Marsh Sheep-Breeders' Association {[}1915{]} 1 Ch 881
+(Ch){]}{]}).
+
+A member may sue another on the contract created by the articles without
+joining the company as a party ({[}{[}Rayfield v Hands {[}1960{]} Ch 1
+(Ch){]}{]}). But this is the only case in which an action between
+shareholders was successful.
+
+\hypertarget{additional-terms}{%
+\paragraph{Additional Terms}\label{additional-terms}}
+
+Since the articles are a contract, it is possible for additional terms
+to be implied if necessary to give effect to the contract ({[}{[}Cream
+Holdings Ltd v Stuart Davenport {[}2011{]} EWCA Civ 1287{]}{]}).
+
+\hypertarget{amending-articles}{%
+\subsection{Amending Articles}\label{amending-articles}}
+
+\hypertarget{procedures}{%
+\subsubsection{Procedures}\label{procedures}}
+
+\hypertarget{special-resolution}{%
+\paragraph{Special Resolution}\label{special-resolution}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Procedure}
+\NormalTok{1. Pass a **special resolution** to change the articles ([s 21 (1) CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/21))}
+\NormalTok{2. Registrar of Companies sent a copy of the articles as amended $\textbackslash{}leq 15$ days after articles amended (s 26(1)) and a copy of the special resolution itself (s 30(1))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Another reason s 33 contractual rights are different from normal contract rights; you can\textquotesingle{}t amend a contract without unanimous consent of 100\% of parties.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{ordinary-resolution-exceptions}{%
+\paragraph{Ordinary Resolution
+Exceptions}\label{ordinary-resolution-exceptions}}
+
+Two exceptions, under which specific articles can be amended using
+merely an ordinary resolution:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Revoking, varying or renewing directors' authority to allot new shares
+  in the company, if authority provided for in articles (s 551(8)).
+\item
+  Authorising directors to determine the T\&Cs of share redemption (s
+  685(2))
+\end{enumerate}
+
+\hypertarget{court-rectification}{%
+\paragraph{Court Rectification}\label{court-rectification}}
+
+If necessary, the court can exceptionally rectify the articles
+({[}{[}Folkes Group plc v Alexander {[}2002{]} 2 BCLC 254{]}{]}).
+
+\hypertarget{restrictions}{%
+\paragraph{Restrictions}\label{restrictions}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7773}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2227}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Restriction
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Authority
+\end{minipage} \\
+\midrule()
+\endhead
+The shareholders cannot amend the articles so as to conflict with a
+mandatory provision of CA 2006 & {[}{[}Allen v Gold Reefs of West Africa
+{[}1900{]} 1 Ch 656{]}{]} \\
+A shareholder is not bound by any change in the company's articles which
+forces that shareholder to buy more shares in the company, unless they
+expressly agree in writing to be so bound & s 25 CA 2006 \\
+Shareholders can make a change to the articles only if it is `bona fide
+for the benefit of the company as a whole' & {[}{[}Allen v Gold Reefs of
+West Africa {[}1900{]} 1 Ch 656{]}{]} \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{bona-fide-interest}{%
+\subparagraph{Bona Fide Interest}\label{bona-fide-interest}}
+
+\begin{itemize}
+\tightlist
+\item
+  Whether a change is `bona fide for the benefit of the company as a
+  whole' is a subjective matter for the company's shareholders to decide
+  ({[}{[}Citco Banking Corporation NV v Pussers {[}2007{]} UKPC
+  13{]}{]})
+\item
+  Amendment to Articles is not valid if no reasonable man could consider
+  it to be for the benefit of the company ({[}{[}Shuttleworth v Cox Bros
+  Ltd {[}1927{]} 2 KB 9{]}{]})
+\item
+  Usually involves situations where the intention was to discriminate
+  against minority shareholders rather than benefit the company as a
+  whole.
+\end{itemize}
+
+\hypertarget{entrenched-articles}{%
+\paragraph{Entrenched Articles}\label{entrenched-articles}}
+
+\href{https://www.legislation.gov.uk/ukpga/2006/46/section/22}{s 22 CA
+2006}~permits entrenchment of specific provisions, though this is rare
+in practice.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{An entrenched article contains extra procedures or conditions, which makes it harder to change than other articles.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{restrictions-1}{%
+\subparagraph{Restrictions}\label{restrictions-1}}
+
+These entrenched provisions can always be amended by agreement of all
+members, or by a court order
+(\href{https://www.legislation.gov.uk/ukpga/2006/46/section/22}{s 22(3)
+CA 2006}).
+
+Under s 22(2) CA 2006 (\textbf{yet to enter force}), the entrepreneurs
+forming a company will only be able to include entrenched rights in the
+articles either when the company is first set up, or with the agreement
+of all the shareholders once the company has been registered.
+
+Currently, an entrenched article may be included by passing a s 21
+special resolution.
+
+\hypertarget{procedure}{%
+\subparagraph{Procedure}\label{procedure}}
+
+When dealing with entrenched articles, extra paperwork must be sent to
+Companies House.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8554}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1446}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Scenario
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Form to send
+\end{minipage} \\
+\midrule()
+\endhead
+Articles amended to include entrenched article & Form CC01 \\
+Articles amended to remove entrenched article & Form CC01 \\
+Articles already include entrenched article and \textbf{any} article
+altered & Form CC03 \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{memorandum}{%
+\subsection{Memorandum}\label{memorandum}}
+
+Represents a snapshot of the company and its owners at the time the
+company is formed.
+
+\hypertarget{ca-1985-companies}{%
+\subsection{CA 1985 Companies}\label{ca-1985-companies}}
+
+Constitutional documents differ substantially from CA 2006 companies.
+
+\hypertarget{memorandum-1}{%
+\subsubsection{Memorandum}\label{memorandum-1}}
+
+CA 1985 Memorandum was far more important. Consisted of:
+
+\begin{itemize}
+\tightlist
+\item
+  Name
+\item
+  Registered office
+\item
+  Objects
+\item
+  Shareholders' liability
+\item
+  Authorised share capital.
+\end{itemize}
+
+From 01/10/2009, the five main clauses of the memorandums of companies
+automatically became provisions of their articles (CA 2006, s 28(1)).
+
+\hypertarget{liability-clause}{%
+\paragraph{Liability Clause}\label{liability-clause}}
+
+The shareholders' liability clause of the old-style memorandum simply
+stated: `The liability of\\
+the members is limited.' This is now automatically a provision in the
+articles due to s 28(1) of\\
+the CA 2006.
+
+\hypertarget{objects-clause}{%
+\paragraph{Objects Clause}\label{objects-clause}}
+
+All companies in existence before 1 October 2009 had an objects clause
+in their memorandum. This clause set out the purposes for which the
+company was formed and included a statement of what it was empowered to
+do. Historically, if a company acted outside of its objects set out in
+the objects clause then it was said to have acted `ultra vires'.
+
+\hypertarget{ultra-vires-doctrine}{%
+\subsubsection{Ultra Vires Doctrine}\label{ultra-vires-doctrine}}
+
+Doctrine referring to the situation where a body purports to act outside
+its power. Derives from public law: public bodies granted certain powers
+by Parliament, beyond which they cannot stray. Doctrine applied to
+registered companies to protect creditors and shareholders (e.g.,
+{[}{[}Re German Date Coffee Co {[}1882{]} 20 Ch D 169{]}{]}).
+
+\hypertarget{problems}{%
+\paragraph{Problems}\label{problems}}
+
+But doctrine was problematic:
+
+\begin{itemize}
+\tightlist
+\item
+  Objects clause initially not permitted to be altered. Could only be
+  altered in very limited circumstances until 1991, when CA 1985
+  amendments came through
+\item
+  Made diversification difficult
+\item
+  Doctrine of constructive notice meant that anyone dealing with a
+  company was deemed to have knowledge of the contents of its objects
+  clause, so would be unable to argue they did not know the company
+  lacked capacity to enter into transaction. Doctrine applied to all
+  publicly available documents.
+\end{itemize}
+
+Effect was super long objects clauses from 60s to 90s. Very general and
+broad objects clauses accepted ({[}{[}Bell Houses Ltd v City Wall
+Properties Ltd {[}1966{]} 2 QB 656{]}{]}). Post 1991 registered
+companies specified in the memorandum that the company was a `general
+commercial company', giving it power to carry on any trade or business
+and had power to do all such things as were incidental or conducive
+thereto. But issues of ultra vires still came before the courts:
+{[}{[}Re Introductions Ltd v National Provincial Bank {[}1970{]} Ch
+199{]}{]}.
+
+There were recommendations for reform in the law to protect third
+parties. After the UK joined the European Community, in 1973 the First
+European Community Company Law Harmonisation Directive removed the
+doctrine of constructive notice where it concerned the memorandum and
+articles. It also contained a saving provision for ultra vires
+transactions where the transaction was dealt with by directors, and a
+third party was acting in good faith.
+
+\hypertarget{reform}{%
+\paragraph{Reform}\label{reform}}
+
+CA 1985 introduced a reform that the memorandum could be altered by
+special resolution, letting companies change their objects clause (s 4),
+and allowed companies to have a general objects clause stating that the
+company was to carry on business as a `general commercial company' (s
+3A), allowing them to carry on any trade or business whatsoever.
+
+CA 2006 brought further changes:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  s 35 CA 1985 had removed the doctrine of constructive notice in
+  relation to a company's memorandum and articles. This was enshrined in
+  \href{https://www.legislation.gov.uk/ukpga/2006/46/section/39}{s 39(1)
+  CA 2006}: `The validity of an act done by a company shall not be
+  called into question on the ground of lack of capacity by reason of
+  anything in the company's constitution'
+\item
+  The requirement of an objects clause in the memorandum was completely
+  removed.
+  \href{https://www.legislation.gov.uk/ukpga/2006/46/section/31}{s 31 CA
+  2006}: the default position is now that all companies have
+  unrestricted objects.
+\end{enumerate}
+
+Many older companies still have an objects clause.
+
+\begin{itemize}
+\tightlist
+\item
+  These are treated as if they are a provision of the articles
+  (\href{https://www.legislation.gov.uk/ukpga/2006/46/section/28}{s
+  28(1) CA 2006}) and will continue to bind the company unless altered
+  by special resolution.
+\item
+  If the company adopts new articles, then this treats the objects
+  clause as having been removed
+\item
+  Any constitutional restrictions on a company's capacity have no
+  bearing on {[}{[}Liability in tort and crime{]}{]}.
+\item
+  \textbf{s 39 CA 2006} effectively abolishes the `ultra vires' doctrine
+  with regard to third parties dealing with the company.
+\item
+  \textbf{s 40(1)}: the powers of the directors to bind a company (e.g.,
+  by entering a contact) are deemed to be free of any limitation under
+  the company's constitution in favour of a person dealing with the
+  company in good faith.
+\end{itemize}
+
+Note there are still some possible internal consequences if the
+company's objects are exceeded.
+
+\hypertarget{injunction}{%
+\subparagraph{Injunction}\label{injunction}}
+
+\begin{itemize}
+\tightlist
+\item
+  If the company intends to act in breach of its objects, there is a
+  right for a shareholder to go to court to seek an injunction under s
+  40(4) to restrain the company from taking this action.
+\item
+  If the act has already been done (say, the contract has been signed),
+  the shareholder can only take action against the directors (CA 2006, s
+  40(5)) for breach of their duty to the company.
+\item
+  Directors are obliged under the CA 2006 to act within their powers,
+  which includes observing any restrictions in the constitution (CA
+  2006, s 171).
+\end{itemize}
+
+\hypertarget{directors-liability}{%
+\subparagraph{Directors' Liability}\label{directors-liability}}
+
+Any objects clause has, post-CA 2006, the effect of restricting the
+directors rather than the company. Since the restrictions are now part
+of the articles, they can be removed by special resolution (s 21).
+
+\hypertarget{authorised-share-capital}{%
+\paragraph{Authorised Share Capital}\label{authorised-share-capital}}
+
+A company in existence before 1 October 2009 had to have a clause in its
+memorandum\\
+stating its authorised share capital. Now abolished: companies must
+instead make statements of capital each time more shares are issued.
+
+\hypertarget{articles}{%
+\subsubsection{Articles}\label{articles}}
+
+The old equivalent of MA was Table A, which was more comprehensive. MA
+imposes a far lighter administrative burden. There is also a `Table A
+2007' in force from 2007 to 2009.
+
+\hypertarget{relevancy}{%
+\subsubsection{Relevancy}\label{relevancy}}
+
+Companies with Table A articles may continue to operate under these
+rules (s 19(4) CA 2006). But major changes have been made to company law
+by CA 2006 meaning many Table A articles will be redundant or impose an
+unnecessary administrative burden.
+
+\hypertarget{content}{%
+\subsubsection{Content}\label{content}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule()
+Article numbers & Subject \\
+\midrule()
+\endhead
+1 & Definitions \\
+2-35 & Share capital and shares \\
+36-63 & Shareholders' general meetings \\
+64-98 & Directors and board meetings \\
+99-101 & Company administration \\
+102-110 & Company profits \\
+111-116 & Notices \\
+117-118 & Winding up and indemnity \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{ma-vs-table-a}{%
+\subsubsection{MA Vs Table A}\label{ma-vs-table-a}}
+
+Key differences:
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.5714}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2971}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.1314}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Provision
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+MA
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Table A
+\end{minipage} \\
+\midrule()
+\endhead
+Limits liability of members & MA 2 & No \\
+GMs & MA 37 refers only to shareholders `general' meetings & AGM \& EGM
+distinguished \\
+Requirement to hold AGM & No & Yes \\
+Notice period for shareholder meetings & 14 clear days with exceptions &
+21 clear days \\
+Chairperson's casting vote in shareholder meetings & No & Yes \\
+Deals with written resolutions & No & Yes \\
+Allows proxies to vote on show of hands & MA 42 \& 45 & No \\
+Makes provision for the use of alternate directors & No & Yes \\
+Requires directors retire by rotation & No & Yes \\
+Specify that directors' decisions are reached by majority decision or
+unanimously & MA 7 & No \\
+Specify that a unanimous decision of directors can be made by any means
+(no formal meeting required) & MA 8 & No \\
+Permit board meetings to be held by any method so long as all directors
+can communicate & MA 9 & No \\
+\bottomrule()
+\end{longtable}
+
+Notice the deregulatory trend. Many companies adopted special articles
+amending Table A. CA 2006 came into force in stages until 01/10/09. An
+interim solution was `Table A 2007', though this is adopted by very few
+companies.
+
+\hypertarget{document-requests}{%
+\subsection{Document Requests}\label{document-requests}}
+
+If a shareholder requests a company's constitutional documents, a
+company must send them (s 32). This should include:
+
+\begin{itemize}
+\tightlist
+\item
+  Articles
+\item
+  Certificate of incorporation
+\item
+  Statement of capital.
+\end{itemize}
+
+\hypertarget{setting-up-company}{%
+\section{Setting up Company}\label{setting-up-company}}
+
+\hypertarget{from-scratch}{%
+\subsection{From Scratch}\label{from-scratch}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 7: Method of forming company}
+
+\NormalTok{(1) A company is formed under this Act by one or more persons—}
+\NormalTok{{-} (a) subscribing their names to a memorandum of association (see section 8), and}
+\NormalTok{{-} (b) complying with the requirements of this Act as to registration (see sections 9 to 13).}
+
+\NormalTok{(2) A company may not be so formed for an unlawful purpose.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{registration}{%
+\subsubsection{Registration}\label{registration}}
+
+The documents which must be prepared and delivered to the Registrar for
+a private company limited by shares are:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  an application for registration as a company;
+\item
+  a memorandum of association for the company; and
+\item
+  possibly articles of association for the company.
+\end{enumerate}
+
+If everything is in order, the Registrar for Companies will register the
+documents and issue a certificate of incorporation.
+
+\hypertarget{electronic-registration}{%
+\paragraph{Electronic Registration}\label{electronic-registration}}
+
+Can do this using:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Companies House software filing service; or
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Enter details with a third party, who then generate the
+    documentation and send it through to Companies House.
+  \end{itemize}
+\item
+  Companies House Web Incorporation Service
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Register on the website and enter required information.
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{paper-registration}{%
+\paragraph{Paper Registration}\label{paper-registration}}
+
+Hard copies of the necessary documents and the fee must be sent to the
+Registrar of Companies at Companies House, either by post or in person.
+
+Companies House is expected to be empowered to require companies to file
+all documents digitally in a new Act of Parliament.
+
+Hard-copy application for registration known as Form IN01.
+
+\hypertarget{documentation}{%
+\subsection{Documentation}\label{documentation}}
+
+\hypertarget{incorporation}{%
+\subsubsection{Incorporation}\label{incorporation}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8855}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1145}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Rule
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Statutory authority
+\end{minipage} \\
+\midrule()
+\endhead
+With effect from the date of incorporation, the promoters become holders
+of shares specified in the statement of capital and initial
+shareholdings. & ss 16(1) \& (5) \\
+Directors take their positions with effect from the date of
+{[}\protect\hyperlink{incorporation}{Incorporation}{]} & ss 16(1) \&
+(6) \\
+A company can be incorporated with only one subscriber to the
+{[}\protect\hyperlink{memorandum-1}{Memorandum}{]} & s 7(1) \\
+The statement of initial capital and shareholdings should disclose the
+number and nominal value of shares on
+{[}\protect\hyperlink{incorporation}{Incorporation}{]} & s 10(4)(a) \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{application-for-registration}{%
+\subsubsection{Application for
+Registration}\label{application-for-registration}}
+
+The application for registration of the company is required by s 9(1).
+Must include:
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7077}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2923}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Information to include
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Statute
+\end{minipage} \\
+\midrule()
+\endhead
+Type of company being registered & ss 9(2)(c) \& d \\
+Proposed names & s 9(2)(a) \\
+Address of registered office & ss 9(2)(b), 9(5)(a) \\
+Statement of capital and initial shareholdings & s 9(4)(a) \\
+Statement of proposed officers & s 9(4)(c) \\
+Statement of initial significant control & s 9(4)(d) \\
+Possibly copy of Articles (if required) & s 9(5)(b) \\
+Statement of compliance & s 9(1) \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{company-type}{%
+\subsubsection{Company Type}\label{company-type}}
+
+The application must state whether the company is private or public,
+limited or unlimited, and limited by shares or by guarantee.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{THis registration process cannot be used to set up an LLP.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{company-name}{%
+\subsubsection{Company Name}\label{company-name}}
+
+\begin{itemize}
+\tightlist
+\item
+  Ask client for a few alternatives, since there are statutory
+  restrictions
+\item
+  Check index of company names to check availability of requested name.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Under the Company, Limited Liability Partnership and Business (Names
+    and Trading Disclosures) Regulations 2015 (SI 2015/17), the `same'
+    name includes not just an identical name but also names which would
+    be essentially the same if simple elements were disregarded.
+  \item
+    Limited exceptions for when the new company will form part of the
+    same group of companies.
+  \end{itemize}
+\item
+  Name ending
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Must end in Limited or Ltd or Welsh equivalents.
+  \end{itemize}
+\item
+  Prohibited names
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A company may not use a name which, in the opinion of the Secretary
+    of State for BEIS, would amount to a criminal offence or is
+    offensive (CA 2006, s 53).
+  \item
+    More rules on using punctuation in a company name exist.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{names-requiring-approval}{%
+\paragraph{Names Requiring Approval}\label{names-requiring-approval}}
+
+Some names will require approval:
+
+\begin{itemize}
+\tightlist
+\item
+  Sensitive words or expressions
+\item
+  Names suggesting a connection to the government or devolved
+  governments.
+\item
+  Names suggesting a profession may need prior approval from a body,
+  e.g., from the General Dental Council, to include the word `dental' in
+  the company name.
+\item
+  Request must be made in writing to SoS for BEIS or to the relevant
+  body.
+\end{itemize}
+
+\hypertarget{challenging-name}{%
+\paragraph{Challenging Name}\label{challenging-name}}
+
+After the company has been formed, the use of the name may still be
+challenged by third parties.
+
+\hypertarget{sos-for-beis-powers}{%
+\paragraph{SoS for BEIS Powers}\label{sos-for-beis-powers}}
+
+\begin{itemize}
+\tightlist
+\item
+  The Secretary of State may direct a company to change its name after
+  the company has been registered if it is the same as or too like a
+  name already on the index of company names under s 67.
+\item
+  Power to change the company name if misleading information was given
+  for use of a particular name (s 75) or if the name gives a misleading
+  impression of the nature of the company's activities, likely to cause
+  harm to the public (s 76).
+\end{itemize}
+
+\hypertarget{s-69}{%
+\paragraph{S 69}\label{s-69}}
+
+Any person may make an application to the Company Names Tribunal (CNT)
+to change a company's existing name if that company's name is the same
+as one in which
+
+\begin{itemize}
+\tightlist
+\item
+  the applicant has goodwill (defined as reputation of any description),
+  or
+\item
+  is sufficiently similar that it would be likely to mislead by
+  suggesting a connection.
+\end{itemize}
+
+\hypertarget{tort-of-passing-off}{%
+\paragraph{Tort of Passing Off}\label{tort-of-passing-off}}
+
+A company may be liable for the tort of passing off if it uses a name
+which suggests that the company is carrying on someone else's business.
+
+\hypertarget{trade-mark}{%
+\paragraph{Trade Mark}\label{trade-mark}}
+
+If a company name includes the name protected by a trademark then the
+holder of a trademark may bring a claim against the company for
+infringement of that trademark. To avoid this risk, it is prudent to
+carry out a search of the Trade Marks Register.
+
+\hypertarget{business-name}{%
+\paragraph{Business Name}\label{business-name}}
+
+A company, once it has been registered, may choose to operate with a
+trading or business name which is different from its registered name.
+
+\hypertarget{restrictions-2}{%
+\subparagraph{Restrictions}\label{restrictions-2}}
+
+There are similar restrictions on the use of business names as apply to
+the company name proper, although there is no need to register a
+business name. The restrictions may be found in ss 1192 to 1199 of the
+CA 2006, and in the Company, Limited Liability Partnership and Business
+(Names and Trading Disclosures) Regulations 2015.
+
+\hypertarget{registered-office}{%
+\subsection{Registered Office}\label{registered-office}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 86}
+\NormalTok{A company must at all times have a registered office to which all communications and notices may be addressed. }
+\end{Highlighting}
+\end{Shaded}
+
+The registered office may be at any address, but it is usually either a
+place where the company carries on its business (e.g.~offices or
+factory), or the address of its solicitors or accountants.
+
+The address must be provided on the application (CA 2006, s 9(5)(a)),
+and must include the country in which the registered office is situated
+(CA 2006, s 9(2)(b)).
+
+\hypertarget{statement-of-capital}{%
+\subsection{Statement of Capital}\label{statement-of-capital}}
+
+The application for registration must include a statement of capital and
+initial shareholdings (s 9(4)(a)). This statement must comply with the
+requirements set out in s 10.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Statement of capital and initial shareholdings}
+
+\NormalTok{(1) The statement of capital and initial shareholdings required to be delivered in the case of a company that is to have a share capital must comply with this section.}
+
+\NormalTok{(2) It must state—}
+\NormalTok{{-} (a) the **total number** of shares of the company to be taken on formation by the subscribers to the memorandum of association,}
+\NormalTok{{-} (b) the **aggregate nominal value** of those shares,}
+\NormalTok{{-} (ba) the aggregate **amount (if any) to be unpaid** on those shares (whether on account of their nominal value or by way of premium), and}
+\NormalTok{{-} (c) for each class of shares—}
+\NormalTok{    {-} (i) prescribed particulars of the **rights** attached to the shares,}
+\NormalTok{    {-} (ii) the **total number** of shares of that class, and}
+\NormalTok{    {-} (iii) the aggregate **nominal value** of shares of that class.}
+
+\NormalTok{(3) It must contain such information as may be prescribed for the purpose of identifying the subscribers to the memorandum of association.}
+
+\NormalTok{(4) It must state, **with respect to each subscriber** to the memorandum—}
+\NormalTok{{-} (a) the number, nominal value (of each share) and class of shares to be taken by him on formation, and}
+\NormalTok{{-} (b) the amount to be paid up and the amount (if any) to be unpaid on each share (whether on account of the nominal value of the share or by way of premium).}
+
+\NormalTok{(5) Where a subscriber to the memorandum is to take shares of more than one class, the information required under subsection (4)(a) is required for each class.}
+\end{Highlighting}
+\end{Shaded}
+
+s 8(1)(b): each subscriber to the memorandum must take at least one
+share in the company.
+
+\hypertarget{statement-of-proposed-officers}{%
+\subsection{Statement of Proposed
+Officers}\label{statement-of-proposed-officers}}
+
+Required by s 9(4)(c), with further requirements imposed by s 12.
+
+\hypertarget{directors}{%
+\subsubsection{Directors}\label{directors}}
+
+\begin{itemize}
+\tightlist
+\item
+  In private companies, there must be at least one director (s 154(1)).
+\item
+  Key information on the directors to be appointed must be included on
+  the statement contained in Form IN01 (s 12(1)).
+\item
+  For individuals this includes the director's name, home address
+  (unless exempt), an address for service of documents, country of
+  residence, nationality, business occupation and date of birth (s 163).
+\item
+  If a corporate director is to be appointed to the new company, a human
+  director must also be appointed to the new company (s 155(1))
+\item
+  Different information must be provided on the application form for a
+  corporate director (s 164).
+\item
+  In all cases the company must make a statement that the proposed
+  director has consented to act as a director of the new company on Form
+  IN01 (s 12(3)).
+\end{itemize}
+
+\hypertarget{directors-address}{%
+\subsubsection{Directors' Address}\label{directors-address}}
+
+\begin{itemize}
+\tightlist
+\item
+  The director must provide an address for service of legal documents in
+  the application (ss 12(2)(a) and 163(1)(b)).
+\item
+  If an address other than the director's home address is chosen then
+  the director's home address must still be disclosed on the application
+  (s 12(2)(a)), but it is not a part of the application which may be
+  viewed by the public (s 242(1)).
+\item
+  A director who originally provides their home address when
+  incorporating the company can subsequently make an application to the
+  Registrar under s 1088 of the CA 2006 and the Companies (Disclosure of
+  Address) Regulations 2009 (SI 2009/214) to remove it.
+\item
+  A proposed director of a company may apply to the Registrar for
+  further privacy by having their home address removed from credit
+  reference agencies' records under s 243 of the CA 2006 and the
+  Companies (Disclosure of Address) Regulations 2009 (SI 2009/214)
+\end{itemize}
+
+\hypertarget{secretary}{%
+\subsubsection{Secretary}\label{secretary}}
+
+s 270(1): a Ltd is not required to appoint a company secretary.
+
+If the client does decide to appoint a company secretary for the new
+company then,
+
+\begin{itemize}
+\tightlist
+\item
+  For an individual, the name and an address for service must be
+  included in the statement of proposed officers on the application for
+  registration (ss 12(1) and 277)
+\item
+  See s 278 for corporate secretary registration requirements.
+\end{itemize}
+
+Unlike a private company, a public company must always have a company
+secretary (s 271).
+
+The company must make a statement that a proposed company secretary has
+consented to act for the new company on the application for registration
+(s 12(3)).
+
+\hypertarget{statement-of-compliance}{%
+\subsection{Statement of Compliance}\label{statement-of-compliance}}
+
+Sections 9(1) and 13 require a statement of compliance:
+
+\begin{quote}
+`I confirm that the requirements as to registration under the Companies
+Act 2006 have been complied with.'
+\end{quote}
+
+Each subscriber to the memorandum (original shareholder) of the company
+must make the statement, or an agent (such as a solicitor) may make it
+on the subscriber's behalf. The Registrar of Companies may accept this
+statement as sufficient evidence of compliance with the CA registration
+procedure (s 13(2)).
+
+\hypertarget{articles-of-association-1}{%
+\subsection{Articles of Association}\label{articles-of-association-1}}
+
+Every company must have a set of articles (s 18). s 9(5)(b) may require
+a copy of the articles to be included with the application for
+registration of the new company being formed.
+
+See {[}\protect\hyperlink{articles-of-association-1}{Articles of
+Association}{]}.
+
+\hypertarget{model-articles}{%
+\subsubsection{Model Articles}\label{model-articles}}
+
+3 sets:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  for a private company limited by shares;
+\item
+  for a private company limited by guarantee; and
+\item
+  for a public company.
+\end{enumerate}
+
+\hypertarget{amended-mas}{%
+\subsubsection{Amended MAs}\label{amended-mas}}
+
+Only changes to the model articles need to be submitted with the
+application for registration (s 20(1)(b)).
+
+\hypertarget{bespoke-articles}{%
+\subsubsection{Bespoke Articles}\label{bespoke-articles}}
+
+Replace MAs with bespoke or tailor-made articles. Submit complete set of
+new articles in application form (s 18(2)).
+
+\hypertarget{entrenchment}{%
+\subsubsection{Entrenchment}\label{entrenchment}}
+
+It is possible to include provisions in the company's articles which are
+entrenched (s 22). The inclusion of such entrenched provisions must be
+notified to the Registrar on the application (s 23).
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Entrenched provisions of the articles}
+
+\NormalTok{(1) A company\textquotesingle{}s articles may contain provision (“provision for entrenchment”) to the effect that specified provisions of the articles may be amended or repealed only if conditions are met, or procedures are complied with, that are more restrictive than those applicable in the case of a special resolution.}
+
+\NormalTok{(2) Provision for entrenchment may only be made—}
+\NormalTok{{-} (a) in the company\textquotesingle{}s articles on formation, or}
+\NormalTok{{-} (b) by an amendment of the company\textquotesingle{}s articles agreed to by all the members of the company.}
+
+\NormalTok{(3) Provision for entrenchment does not prevent amendment of the company\textquotesingle{}s articles—}
+\NormalTok{{-} (a) by agreement of all the members of the company, or}
+\NormalTok{{-} (b) by order of a court or other authority having power to alter the company\textquotesingle{}s articles.}
+
+\NormalTok{(4) Nothing in this section affects any power of a court or other authority to alter a company\textquotesingle{}s articles.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{memorandum-of-association}{%
+\subsection{Memorandum of Association}\label{memorandum-of-association}}
+
+s 9(1) CA: must be submitted together with application for registration
+and the articles (if required).
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Memorandum}
+\NormalTok{{-} Must state that the subscribers wish to form a company and that they agree to become be members of the company taking at least one share each (s 8).}
+\NormalTok{{-} Must be in the form set out in Companies (Registration) Regulations 2008 (SI 2008/3014)}
+\end{Highlighting}
+\end{Shaded}
+
+In a 1985 Act company, this document sets out the identity of the
+proposed first shareholders and also the number of shares they propose
+to take on incorporation.
+
+\hypertarget{delivery-of-documents}{%
+\subsection{Delivery of Documents}\label{delivery-of-documents}}
+
+The application for registration, the memorandum of association and the
+articles of association (if required) must be delivered to the Registrar
+of Companies at Companies House (s 9(1)) together with the applicable
+fee.
+
+This can be done electronically. Authentication is also done
+electronically. Or send to the Registrar for England and Wales (based in
+Cardiff) using Form IN01, or deliver by hand to Companies House in
+London or Cardiff.
+
+\hypertarget{form-in01}{%
+\subsubsection{Form IN01}\label{form-in01}}
+
+Contains 9 parts:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Company details
+\item
+  Proposed officers
+\item
+  Statement of capital (if limited by shares)
+\item
+  Statement of guarantee (if limited by guarantee)
+\item
+  Persons with Significant Control
+\item
+  Election to keep information on the public register
+\item
+  Consent to act
+\item
+  Statement about individual PSC particulars
+\item
+  Statement of compliance
+\item
+  Last page (option to include presenter information, choose address to
+  which certificate of incorporation is sent).
+\end{enumerate}
+
+\hypertarget{role-of-registrar}{%
+\subsection{Role of Registrar}\label{role-of-registrar}}
+
+Checks the application and supporting documentation:
+
+\begin{itemize}
+\tightlist
+\item
+  Checks company name is not already taken/ does not need approval
+\item
+  Checks that none of the proposed directors are disqualified from
+  acting
+\item
+  Relies on statement of compliance made in the application.
+\end{itemize}
+
+s 14: if everything is in order, the Registrar will issue a certificate
+of incorporation for the new company (s 15(1)).
+
+\hypertarget{certificate-of-incorporation}{%
+\subsection{Certificate of
+Incorporation}\label{certificate-of-incorporation}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 15 {-} Issue of certificate of incorporation}
+
+\NormalTok{(1) On the registration of a company, the registrar of companies shall give a certificate that the company is incorporated.}
+
+\NormalTok{(2) The certificate must state—}
+\NormalTok{{-} (a) the name and registered number of the company,}
+\NormalTok{{-} (b) the date of its incorporation,}
+\NormalTok{{-} (c) whether it is a limited or unlimited company, and if it is limited whether it is limited by shares or limited by guarantee,}
+\NormalTok{{-} (d) whether it is a private or a public company, and}
+\NormalTok{{-} (e) whether the company\textquotesingle{}s registered office is situated in England and Wales (or in Wales), in Scotland or in Northern Ireland.}
+
+\NormalTok{(3) The certificate must be signed by the registrar or authenticated by the registrar\textquotesingle{}s official seal.}
+
+\NormalTok{(4) The certificate is conclusive evidence that the requirements of this Act as to registration have been complied with and that the company is duly registered under this Act.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{itemize}
+\tightlist
+\item
+  s 1066: the company is given a registered number.
+\item
+  A new public company must also be issued with a trading certificate by
+  the Registrar of Companies before it can do business or use its
+  borrowing powers.
+\end{itemize}
+
+\hypertarget{effect-of-registration}{%
+\subsection{Effect of Registration}\label{effect-of-registration}}
+
+The company becomes a \textbf{separate legal person}.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 16 {-} Effect of registration}
+
+\NormalTok{(1) The registration of a company has the following effects as from the date of incorporation.}
+
+\NormalTok{(2) The subscribers to the memorandum, together with such other persons as may from time to time become members of the company, are a body corporate by the name stated in the certificate of incorporation.}
+
+\NormalTok{(3) That body corporate is capable of exercising all the functions of an incorporated company.}
+
+\NormalTok{(4) The status and registered office of the company are as stated in, or in connection with, the application for registration.}
+
+\NormalTok{(5) In the case of a company having a share capital, the subscribers to the memorandum become holders of the shares specified in the statement of capital and initial shareholdings.}
+
+\NormalTok{(6) The persons named in the statement of proposed officers—}
+\NormalTok{{-} (a) as director, or}
+\NormalTok{{-} (b) as secretary or joint secretary of the company,}
+
+\NormalTok{are deemed to have been appointed to that office.}
+\end{Highlighting}
+\end{Shaded}
+
+s 7(2): a company must not be formed for an unlawful purpose. If by
+mistake the Registrar registers a company which breaches this rule, then
+the company may be stuck off the register by the court and it will be
+wound up.
+
+\hypertarget{post-incorporation}{%
+\subsection{Post-incorporation}\label{post-incorporation}}
+
+\hypertarget{first-board-meeting}{%
+\subsubsection{First Board Meeting}\label{first-board-meeting}}
+
+\begin{itemize}
+\tightlist
+\item
+  Chairperson of the board of directors usually elected
+\item
+  Make up a report on the incorporation of the company
+\item
+  Expense the incorporation of the company to the company if decided
+\item
+  Open company bank account.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Will require directors to sign a mandate form - specifying e.g.,
+    that two directors' signatures are needed to sign checks over a
+    certain amount.
+  \end{itemize}
+\item
+  Company seal
+
+  \begin{itemize}
+  \tightlist
+  \item
+    s 45(1): a company seal can be adopted.
+  \item
+    The seal will have the company's name engraved on it in legible
+    characters (CA 2006, s 45(2))
+  \end{itemize}
+\item
+  Business name
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Can choose to use a trading name rather than the company name.
+  \end{itemize}
+\item
+  Accounting reference date (ARD)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    When a new company is registered, its ARD initially will be the
+    anniversary of the last day of the month in which the company was
+    incorporated (s 391(4)).
+  \item
+    ARD can be changed by a decision of the directors and filing a form
+    AA01 (s 392).
+  \end{itemize}
+\item
+  Auditor
+
+  \begin{itemize}
+  \tightlist
+  \item
+    All companies must prepare accounts (s 394)
+  \item
+    Company accounts must be audited, unless the company is
+
+    \begin{itemize}
+    \tightlist
+    \item
+      dormant, i.e., not trading, (s 480) or
+    \item
+      a small company (s 77) -- see s 382 for definition of small
+      company.
+    \end{itemize}
+  \end{itemize}
+\item
+  Directors' service contracts
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The board of directors usually will take the decision to enter into
+    such contracts on behalf of the company at the first board meeting,
+    unless a particular director is to be appointed for a guaranteed
+    term of more than two years.
+  \end{itemize}
+\item
+  Company records
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Defined s 1134
+  \item
+    Must be kept up to date.
+  \end{itemize}
+\item
+  Tax registrations
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Companies House automatically notifies HMRC of the registration of
+    the new company.
+  \item
+    HMRC sends the new company an introductory pack about tax affairs
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Includes Form CT41G (new company details)
+    \item
+      PAYE and national insurance
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Company should register the company with HMRC to arrange for the
+        deduction of income tax from salaries
+      \end{itemize}
+    \item
+      VAT
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Most businesses (except very small ones) must register for VAT
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  Insurance?
+\item
+  Shareholders' agreement?
+\end{itemize}
+
+\hypertarget{disclosing-company-details}{%
+\subsubsection{Disclosing Company
+Details}\label{disclosing-company-details}}
+
+Under powers contained in s 82 of the CA 2006, the Secretary of State
+for BEIS has made the
+\href{https://www.legislation.gov.uk/uksi/2015/17/contents/made}{Company,
+Limited Liability Partnership and Business (Names and Trading
+Disclosures) Regulations 2015} (SI 2015/17). The aim behind these
+Regulations is to ensure that anyone dealing with the company, or
+wishing to deal with it, knows its name, its legal status and where
+further information about the company may be found.
+
+\begin{itemize}
+\tightlist
+\item
+  Include the company name visibly at all places of business, websites,
+  business letters and notices.
+\item
+  All websites, letters and forms should state the company's country of
+  registration, registration number and registered office.
+\item
+  Business names should contain the names of all or none of the
+  directors.
+\end{itemize}
+
+\hypertarget{shelf-company}{%
+\subsection{Shelf Company}\label{shelf-company}}
+
+Another option is for the entrepreneur to buy a pre-existing
+
+company -- a so-called `shelf' or `ready-made' company -- and then make
+changes to it so that it is ready to run the entrepreneur's business.
+
+Shelf companies are available to purchase from company formation agents
+or law firms.
+
+\begin{itemize}
+\tightlist
+\item
+  Can be quicker than creating a company from scratch
+\item
+  May already include various amendments to the model articles.
+\item
+  Ownership
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Must be transferred
+  \end{itemize}
+\item
+  Name
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Changed by shareholders by special resolution (s 78)
+  \item
+    Or by any alternative procedure specified in the articles (s 79)
+  \end{itemize}
+\item
+  Articles
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Consider amending (s 21)
+  \end{itemize}
+\item
+  Registered office
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Change by board resolution
+  \end{itemize}
+\item
+  Accounting reference date
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Change by board resolution
+  \item
+    Must comply with s 392 requirements.
+  \end{itemize}
+\item
+  Issue more share capital?
+\end{itemize}
+
+\hypertarget{shareholders}{%
+\section{Shareholders}\label{shareholders}}
+
+\begin{itemize}
+\tightlist
+\item
+  Shareholders are the owners of a company
+\item
+  The term `member' is more general and applies to company limited by
+  guarantee too.
+\end{itemize}
+
+\hypertarget{promoters}{%
+\subsection{Promoters}\label{promoters}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Promoter}
+\NormalTok{One who undertakes to form a company with reference to a given project and to set it going, and who takes the necessary steps to accomplish that purpose ([[Twycross v Grant (1877) 2 CPD 469]])}
+\end{Highlighting}
+\end{Shaded}
+
+Note, this does not include professional advisers who help set up the
+company.
+
+\hypertarget{fiduciary-duty}{%
+\subsubsection{Fiduciary Duty}\label{fiduciary-duty}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{A promoter is placed in a **fiduciary relationship** with the company once it has formed. }
+\end{Highlighting}
+\end{Shaded}
+
+The primary fiduciary duty of the promoter is not to make a `secret
+profit' when forming the company.
+
+\hypertarget{pre-incorporation-contracts}{%
+\subsubsection{Pre-incorporation
+Contracts}\label{pre-incorporation-contracts}}
+
+Prior to incorporation, the company does not exist, so it is impossible
+to act on behalf of the company (as agent). If the promoter does this,
+they are personally liable for any contract made, subject to any
+agreement to the contrary (s 51); the company does not have to take over
+the contract. If the company chooses to take the contract, a contract of
+novation with the third party required.
+
+MERMAID1
+
+Possible solution: have the pre-incorporation contract contain a
+provision ending personal liability if the newly-formed company agrees
+to take over the contract on the same terms.
+
+\hypertarget{joining-company}{%
+\subsection{Joining Company}\label{joining-company}}
+
+To become a shareholder in a private company (s 112):
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  A person must agree to become a shareholder of the company
+\item
+  Their name must be entered in the register of members.
+\end{enumerate}
+
+\hypertarget{subscribers}{%
+\subsubsection{Subscribers}\label{subscribers}}
+
+Persons who signed the
+{[}\protect\hyperlink{memorandum-1}{Memorandum}{]} of association as
+`subscribers' automatically become the first shareholders of the company
+when the Registrar of Companies issues the certificate of incorporation
+(ss 112(1) \& 16(5)).
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 112 {-} The members of a company }
+\NormalTok{(1) The subscribers of a company\textquotesingle{}s memorandum are deemed to have agreed to become members of the company, and on its registration become members and must be entered as such in its register of members.}
+\NormalTok{(2) Every other person who agrees to become a member of a company, and whose name is entered in its register of members, is a member of the company.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 16(5) {-} Effect of registration }
+\NormalTok{In the case of a company having a share capital, the subscribers to the memorandum become holders of the shares specified in the statement of capital and initial shareholdings.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{buying-shares}{%
+\subsubsection{Buying Shares}\label{buying-shares}}
+
+The allottee (purchaser) agrees to become a shareholder by formally
+applying to the company to buy the new shares, and becomes a shareholder
+when their name is entered in the register of members (s 112(2)).
+
+\hypertarget{transfer-of-shares}{%
+\paragraph{Transfer of Shares}\label{transfer-of-shares}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  The transferee (purchaser) agrees to become a shareholder by
+  submitting the share transfer to the company, and becomes a
+  shareholder when their name is entered in the register of members.
+\item
+  {[}\protect\hyperlink{directors-1}{Directors}{]} must enter their name
+  in the register of members, unless company
+  {[}\protect\hyperlink{articles-of-association-1}{Articles of
+  Association}{]} give them discretion not to, in which case the shares
+  remain legally owned by the seller.
+\end{enumerate}
+
+A gift of shares is also known as a transfer of shares.
+
+\hypertarget{inheriting-shares}{%
+\paragraph{Inheriting Shares}\label{inheriting-shares}}
+
+May be bequeathed under a will or rules of intestacy (if there is no
+will). The shares will, upon death of the shareholder, automatically
+vest in the personal representatives of the deceased, in an operation of
+law known as \textbf{transmission of shares}.
+
+If the personal representative is the beneficiary of the shares, they
+will become the shareholder. If not, they are a temporary shareholder,
+and the articles will usually provide for limited rights of ownership
+until the shares are transferred to the ultimate owner. The beneficiary
+must apply to register as a new shareholder.
+
+\hypertarget{shareholder-insolvency}{%
+\paragraph{Shareholder Insolvency}\label{shareholder-insolvency}}
+
+If a shareholder goes bankrupt, the bankrupt's property, including their
+shares, automatically vest in a trustee in bankruptcy. Also known as
+transmission of shares. The trustee will try to sell shares to raise
+money to pay off the bankrupt's debts -- and they will usually have
+limited rights of ownership. New owner must register.
+
+\hypertarget{register-of-members}{%
+\subsection{Register of Members}\label{register-of-members}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 113 {-} Register of members}
+
+\NormalTok{(1) Every company must keep a register of its members.}
+
+\NormalTok{(2) There must be entered in the register—}
+\NormalTok{{-} (a) the names and addresses of the members,}
+\NormalTok{{-} (b) the date on which each person was registered as a member, and}
+\NormalTok{{-} (c) the date at which any person ceased to be a member.}
+
+\NormalTok{(3) In the case of a company having a share capital, there must be entered in the register, with the names and addresses of the members, a statement of—}
+\NormalTok{{-} (a) the shares held by each member, distinguishing each share—}
+\NormalTok{    {-} (i) by its number (so long as the share has a number), and}
+\NormalTok{    {-} (ii) where the company has more than one class of issued shares, by its class, and}
+\NormalTok{{-} (b) the amount paid or agreed to be considered as paid on the shares of each member.}
+
+\NormalTok{(4) If the company has converted any of its shares into stock, and given notice of the conversion to the registrar, the register of members must show the amount and class of stock held by each member instead of the amount of shares and the particulars relating to shares specified above.}
+
+\NormalTok{(5) In the case of joint holders of shares or stock in a company, the company\textquotesingle{}s register of members must state the names of each joint holder.}
+
+\NormalTok{In other respects joint holders are regarded for the purposes of this Chapter as a single member (so that the register must show a single address).}
+
+\NormalTok{(6) In the case of a company that does not have a share capital but has more than one class of members, there must be entered in the register, with the names and addresses of the members, a statement of the class to which each member belongs.}
+
+\NormalTok{(7) If a company makes default in complying with this section an offence is committed by—}
+\NormalTok{{-} (a) the company, and}
+\NormalTok{{-} (b) every officer of the company who is in default.}
+
+\NormalTok{(8) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one{-}tenth of level 3 on the standard scale.}
+\end{Highlighting}
+\end{Shaded}
+
+Note that the system is very different for publicly traded companies,
+which have thousands of shares held in electronic form.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Can [[Private companies]] elect not to keep their own register of members?}
+\NormalTok{{-} Yes {-} s 128D(2) CA 2006 {-} if they ensure necessary information is filed and kept up{-}to{-}date on the Companies House central register. }
+\NormalTok{{-} All shareholders must agree for this election to be valid (s 128B(2)(a)), and the Registrar of Companies must be notified (CA 2006, ss 128B(3) and 128C(1)). }
+\NormalTok{{-} During the time that this election not to have a register of members is in force, the company must notify the Registrar of Companies as soon as is reasonably practicable of any information that otherwise would have gone into the register of members (s 128E(2)). }
+\NormalTok{{-} This election can be withdrawn and the register of members reactivated following the procedure in s 128J.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{content-and-form}{%
+\subsubsection{Content and Form}\label{content-and-form}}
+
+\begin{itemize}
+\tightlist
+\item
+  The register must be updated whenever necessary to reflect any changes
+  in the membership of the company.
+\item
+  Can be hard copy or electronic (s 1135)
+\item
+  Criminal offence by the company and any officer in default, punishable
+  by fine, if the register of members does not contain correct
+  information (s 113(7) \& (8)).
+\end{itemize}
+
+\hypertarget{single-shareholder}{%
+\paragraph{Single Shareholder}\label{single-shareholder}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 123 {-} Single member companies}
+\NormalTok{(1) If a limited company is formed under this Act with only one member there shall be entered in the company\textquotesingle{}s register of members, with the name and address of the sole member, a statement that the company has only one member.}
+
+\NormalTok{(2) If the number of members of a limited company falls to one, or if an unlimited company with only one member becomes a limited company on re{-}registration, there shall upon the occurrence of that event be entered in the company\textquotesingle{}s register of members, with the name and address of the sole member—}
+\NormalTok{{-} (a) a statement that the company has only one member, and}
+\NormalTok{{-} (b) the date on which the company became a company having only one member.}
+
+\NormalTok{(3) If the membership of a limited company increases from one to two or more members, there shall upon the occurrence of that event be entered in the company\textquotesingle{}s register of members, with the name and address of the person who was formerly the sole member—}
+\NormalTok{{-} (a) a statement that the company has ceased to have only one member, and}
+\NormalTok{{-} (b) the date on which that event occurred.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{entering-information}{%
+\paragraph{Entering Information}\label{entering-information}}
+
+\hypertarget{promptness}{%
+\subparagraph{Promptness}\label{promptness}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 771(1)}
+\NormalTok{When a transfer of shares in or debentures of a company has been lodged with the company, the company must either—}
+\NormalTok{{-} (a) register the transfer, or}
+\NormalTok{{-} (b) give the transferee notice of refusal to register the transfer, together with its reasons for the refusal,}
+
+\NormalTok{as soon as practicable and in any event within two months after the date on which the transfer is lodged with it. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{prospective-shareholder-status}{%
+\subparagraph{Prospective Shareholder
+Status}\label{prospective-shareholder-status}}
+
+The prospective new shareholder's status between the date on which they
+acquire the shares
+
+and the date on which their name is entered on the register of members,
+is that they are
+
+beneficially entitled to the shares but are not the registered legal
+owner of them.
+
+The legal owner must vote at a meeting in accordance with the
+instructions of the prospective shareholder, and must account to the
+prospective shareholder for any dividends.
+
+\hypertarget{court-power}{%
+\subparagraph{Court Power}\label{court-power}}
+
+The court has the power under s 125 to rectify the register of members
+for an unwanted omission or entry, or for default or unnecessary delay
+in removing a shareholder's name when leaving the company.
+
+It may at the same time order the company to pay damages to a wronged
+person and settle any disputes regarding ownership ({[}{[}Avenue Road
+Developments Ltd v Reggies Co Ltd {[}2012{]} EWHC 1625 (Ch){]}{]}).
+
+\hypertarget{inspection}{%
+\paragraph{Inspection}\label{inspection}}
+
+Under s 114(1), where the company does not keep this information on the
+public register at Companies House, the register of members must be kept
+either at the company's registered office, or at its `single alternative
+inspection location' (SAIL) if specified under s 1136.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 116 {-} Rights to inspect and require copies}
+
+\NormalTok{(1) The register and the index of members\textquotesingle{} names must be open to the inspection—}
+\NormalTok{{-} (a) of any member of the company without charge, and}
+\NormalTok{{-} (b) of any other person on payment of such fee as may be prescribed.}
+
+\NormalTok{(2) Any person may require a copy of a company\textquotesingle{}s register of members, or of any part of it, on payment of such fee as may be prescribed.}
+
+\NormalTok{(3) A person seeking to exercise either of the rights conferred by this section must make a request to the company to that effect.}
+
+\NormalTok{(4) The request must contain the following information—}
+\NormalTok{{-} (a) in the case of an individual, his name and address;}
+\NormalTok{{-} (b) in the case of an organisation, the name and address of an individual responsible for making the request on behalf of the organisation;}
+\NormalTok{{-} (c) the purpose for which the information is to be used; and}
+\NormalTok{{-} (d) whether the information will be disclosed to any other person, and if so—}
+\NormalTok{    {-} (i) where that person is an individual, his name and address,}
+\NormalTok{    {-} (ii) where that person is an organisation, the name and address of an individual responsible for receiving the information on its behalf, and}
+\NormalTok{    {-} (iii) the purpose for which the information is to be used by that person.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{responding-to-request}{%
+\subparagraph{Responding to Request}\label{responding-to-request}}
+
+The company has five working days under s 117(1) of the CA 2006, either
+to:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Comply with the request
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Must make clear the latest date on which amendments were made to the
+    register (if any) and that there were no further amendments to be
+    made (CA 2006, s 120(1)).
+  \end{itemize}
+\item
+  Apply to the court to disallow the request (if it thinks the request
+  is not for a `proper purpose') and thus prevent inspection or copying
+  of the register.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Onus is on the company to show that the request was made for an
+    improper purpose ({[}{[}Burberry Group plc v Richard Charles
+    Fox-Davies {[}2014{]} EWCA Civ 604{]}{]})
+  \end{itemize}
+\end{enumerate}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Rationale }
+\NormalTok{To protect privacy of shareholders where company is involved in controversial work.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{non-compliance-consequences}{%
+\subparagraph{Non-compliance
+Consequences}\label{non-compliance-consequences}}
+
+The company and every officer in default (under s 118(1)) will commit an
+offence for failure,
+
+without a s 117 court order, to allow inspection or copying of the
+register; and the person
+
+making the request will commit an offence (under s 119(1)) if they
+knowingly or recklessly
+
+make a statement which is materially misleading, false or deceptive.
+
+\hypertarget{psc-register}{%
+\subsection{PSC Register}\label{psc-register}}
+
+s 790M of the CA 2006 requires companies to keep a `PSC register'
+(Persons of Significant Control). The register must be made available
+for public inspection. Note that this requirement applies only to
+private companies and public companies that are not publicly traded.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{A person off significant control is an individual or ‘relevant legal entity’ (RLE) (s 790C(6)), who (s 790 \& Sch 1A):}
+\NormalTok{1. owns $\textgreater{}25\textbackslash{}\%$ of the shares in the company (this would include non{-}voting shares, such as preference shares); or}
+\NormalTok{2. owns or controls $\textgreater{}25\textbackslash{}\%$ of the voting rights in the company (this would usually be ordinary shares); or}
+\NormalTok{3. has the right to appoint or remove a majority of the board of directors of the company; or}
+\NormalTok{4. has the right to exercise, or who actually exercises, significant influence or control over the company.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{obligation-on-company}{%
+\subsubsection{Obligation on Company}\label{obligation-on-company}}
+
+Under ss 790D and 790E of the CA 2006, the company is placed under an
+obligation to investigate, obtain and update information relevant to the
+register. Additional obligations are placed on the individual or
+individuals concerned by ss 790G and 790H, to notify the company of
+their significant control.
+
+\hypertarget{information-to-include}{%
+\subsubsection{Information to Include}\label{information-to-include}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.4328}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5672}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Individual
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Relevant legal entity
+\end{minipage} \\
+\midrule()
+\endhead
+Name & Corporate or firm name \\
+DOB & Registered or principal office \\
+Nationality & Legal form of identity \\
+Country of usual residence & Law by which governed \\
+Address for service documents & Register of companies in which
+entered \\
+Residential address & Registration number (if relevant) \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{levels-of-significant-control}{%
+\subsubsection{Levels of Significant
+Control}\label{levels-of-significant-control}}
+
+Under the Register of People with Significant Control Regulations 2016
+(SI 2016/339), there are \textbf{three different levels} of significant
+control which need to be notified and which need to be included in the
+PSC register, with percentage share holding \(S\):
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \(25\% < S \leq 50\%\)
+\item
+  \(50\% < S < 75\%\)
+\item
+  \(S > 75\%\)
+\end{enumerate}
+
+790E(5): the company must include this information on the PSC register
+within 14 days from the day after it becomes aware of a change or has
+reasonable cause to believe there has been a change.
+
+\hypertarget{administration}{%
+\subsubsection{Administration}\label{administration}}
+
+\begin{itemize}
+\tightlist
+\item
+  Can elect not to keep own register and just file with Companies House
+  (s 790X)
+\item
+  The company must notify Companies House when someone becomes a PSC or
+  is no longer a PSC by using forms PSC01 to PSC09
+\item
+  Deadline for form 14 days after deadline for completing register.
+\end{itemize}
+
+\hypertarget{shareholders-rights}{%
+\subsection{Shareholders' Rights}\label{shareholders-rights}}
+
+Aside from limited liability, shareholders also have contractual rights.
+
+\hypertarget{s-33-contract-1}{%
+\subsubsection{S 33 Contract}\label{s-33-contract-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  `Membership only' rights enforceable by the shareholder.
+\item
+  Contract also imposes the obligation on the shareholder to observe the
+  terms of the constitution.
+\item
+  The rights will as a minimum cover sharing in the profits of the
+  company, sharing in any surplus on a profitable winding up of the
+  company and any voting rights at shareholder meetings.
+\end{itemize}
+
+\hypertarget{shareholders-agreement}{%
+\subsubsection{Shareholders' Agreement}\label{shareholders-agreement}}
+
+See {[}{[}Shareholders' Agreements{]}{]}. This is a private contract
+between shareholders, not involving the company.
+
+It is not compulsory for the shareholders to enter the agreement (though
+you can enforce by making anyone selling shares have as a term of the
+contract that the new owner will join).
+
+Note that a shareholders' agreement can also include non-shareholders as
+parties.
+
+\hypertarget{benefits}{%
+\paragraph{Benefits}\label{benefits}}
+
+Breach of contract remedies available if parties breach terms.
+Advantages of putting terms in a shareholders' agreement rather than
+articles:
+
+\begin{itemize}
+\tightlist
+\item
+  A shareholders' agreement can deal with matters which are personal to
+  the shareholders, rather than just relating to their rights as
+  members.
+\item
+  A shareholders' agreement can help protect minority shareholders
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Unanimity needed for a change of contract.
+  \item
+    Can change things which wouldn't be possible under Articles; e.g.,
+    get all the shareholders to agree to unanimity to change the
+    Articles of the company.
+  \end{itemize}
+\item
+  Confidentiality -- shareholders' agreement does not need to be made
+  publicly available.
+\end{itemize}
+
+\hypertarget{limitations}{%
+\paragraph{Limitations}\label{limitations}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Nothing may be included that fetters the company's powers to exercise
+  its statutory duties.
+\item
+  The shareholders cannot agree to anything that would bind them as to
+  how they might vote as directors, if they also held this position, as
+  otherwise they might possibly breach their duties as directors.
+\end{enumerate}
+
+\hypertarget{statutory-rights}{%
+\paragraph{Statutory Rights}\label{statutory-rights}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.0693}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.9307}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Right
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Details
+\end{minipage} \\
+\midrule()
+\endhead
+Share certificate & A shareholder must receive from the company a share
+certificate within two months either of allotment (if new shares are
+being issued) under s 769(1) of the CA 2006, or of lodging the transfer
+with the company (if existing shares are being transferred from an
+existing shareholder) under s 776(1) of the Act. Share certificate prima
+facie evidence of ownership (s 768(1)) \\
+Register of members & New shareholder has a right to be entered in
+register within 2 months (subject to any director discretion to
+refuse) \\
+Company documentation & Company must send constitutional documents/
+current statement of capital to shareholder on request (s 32). Annual
+accounts \& reports must be sent each year, no request required (s
+423) \\
+Inspect company documents & Minutes kept at registered office or SAIL,
+which shareholders are permitted to read (s 358(1)). Other registers and
+information also must be available on request. \\
+Voting rights & Right to vote at shareholder general meetings, either in
+person or by proxy (s 324(1)). Votes either by show of hands or poll
+vote. Shareholders with 10\% of voting rights can demand poll vote. \\
+Notice of GMs & If proper notice of GM not given to all shareholders, GM
+not valid (ss 307-311). Notice must include sufficient information of
+what is to be proposed, including exact wording of special resolutions
+and sufficient info on ordinary resolutions. \\
+Written resolution & Shareholders holding \(\geq 5\%\) voting shares (or
+less if articles specify) have the right to circulate a written
+resolution and accompanying 1000-word statement (s 292(1)). Request must
+be authenticated (signed) and identify resolution (s 293). Private
+company shareholder can be asked to pay the expenses of circulation (s
+294(1)). \\
+Written statement & s 314(1): shareholders have the right to circulate a
+written 1000-word statement, if they hold \(\geq 5\%\) voting shares, or
+at least 100 shareholders who hold at least an average of £100 paid up
+share capital (s 314(2)). Request must be deposited at company's
+registered office \(\geq 1\) week before GM (s 314(4)). Company must
+circulate statement to all shareholders (s 315(1)). Can request expenses
+of circulation from shareholder (s 316(2)). \\
+Removal of director & s 168(1): director can be removed by ordinary
+resolution. \\
+Removal of auditor & s 510(1): auditor can be removed by ordinary
+resolution. \\
+Court proceedings & Shareholders have the right to go to court in
+relation to most important transactions, e.g., to cancel a resolution
+approving the buy-back of shares (s 721(1)). \\
+Calling GM & Requisitioning: shareholders holding \(\geq 5\%\) voting
+shares have the right to require directors to call GM (s 303(1)) by
+depositing written request to company's registered office. If the
+directors don't, shareholders can call the GM themselves/ apply the
+court (s 306). \\
+Court ordered GM & s 306: any shareholder may apply to court for an
+order that GM be held. Court can order terms for GM, e.g., changing the
+quorum ({[}{[}Smith v Butler {[}2011{]} EWHC 2301 (Ch){]}{]}) \\
+Breach of constitution & Shareholder may seek to restrain a breach of
+{[}{[}Business Law and Practice/Company Law/Directors' duties{]}{]}
+before the event, or take action after under s 40 \\
+{[}\protect\hyperlink{unfair-prejudice}{Unfair Prejudice}{]} & s 994(1):
+shareholder can petition court for a remedy if she feels unfairly
+prejudiced. Conduct may be unfairly prejudicial to all of the members or
+to only some or one of them ({[}{[}Re a Company (No 004175 of 1986)
+{[}1987{]} BCLC 574{]}{]}). Conduct must be both unfair and
+prejudicial. \\
+{[}{[}Just and equitable winding up{]}{]} & s 122(1)(g) IA 1986: any
+shareholder may make an application to have the company wound up on the
+ground that it is just and equitable to do so, provided they can prove a
+`tangible interest'. Common examples: where management is in deadlock,
+where shareholders no longer have confidence in management, where
+company can no longer carry out objects, and in quasi-partnership where
+a partner is excluded from management. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{unfair-prejudice}{%
+\paragraph{Unfair Prejudice}\label{unfair-prejudice}}
+
+\begin{itemize}
+\tightlist
+\item
+  Whether {[}\protect\hyperlink{unfair-prejudice}{Unfair Prejudice}{]}
+  has occurred is judged objectively from the perspective of an
+  impartial outsider.
+\item
+  The essential element of `unfairness' is breach of the agreement
+  between shareholders as to how the company is to be run ({[}{[}O'Neill
+  v Phillips {[}1999{]} 1 WLR 1092{]}{]}).
+\item
+  The shareholder must also prove that they have been affected in their
+  capacity as a shareholder, although this has been given a very wide
+  interpretation ({[}{[}Gamlestaden Fastigheter v Baltic Partners
+  Limited {[}2008{]} 1 BCLC 468{]}{]}).
+\item
+  It is not necessary to prove that the value of the shareholder's
+  shares has been adversely affected, although frequently this will
+  happened
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{1. non{-}payment of dividends;}
+\NormalTok{2. directors awarding themselves excessive remuneration;}
+\NormalTok{3. directors exercising their powers for an improper purpose (eg to ‘freeze out’ a minority shareholder); and}
+\NormalTok{4. exclusion from management in a small company (eg one formed on the understanding that all those involved will share the running of the business and the profits).}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2778}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7222}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Case
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Ratio
+\end{minipage} \\
+\midrule()
+\endhead
+{[}{[}VB Football Assets v Blackpool Football Club Ltd and Others
+{[}2017{]} EWHC 2767 (Ch){]}{]} & Improper payments out of the company,
+a failure to pay dividends and deliberate exclusion from company
+decisions were unfairly prejudicial to a minority shareholder whereas
+changes to the articles of association were not. \\
+{[}{[}Re CF Booth Ltd (sub nom Booth v Booth) {[}2017{]} EWHC 457
+(Ch){]}{]} & Excessive director remuneration when no dividends paid
+unfairly prejudicial \\
+{[}{[}Sharafi v Woven Rugs Ltd (in administration) {[}2010{]} EWHC 230
+(Ch){]}{]} & Director's impropriety prejudicial. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{remedy}{%
+\subparagraph{Remedy}\label{remedy}}
+
+If the court finds that a shareholder has suffered unfair prejudice, it
+may make any order it thinks appropriate under s 996(1) of the CA 2006.
+
+The normal way of dealing with internal company disputes in small
+private companies where unfairly prejudicial conduct had been proved is
+an order for\\
+a share purchase under s 996 ({[}{[}Grace v Biagioli {[}2005{]} EWCA Civ
+1022{]}{]}).
+
+\hypertarget{limitations-1}{%
+\subparagraph{Limitations}\label{limitations-1}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  In {[}{[}O'Neill v Phillips {[}1999{]} 1 WLR 1092 HL{]}{]}, the House
+  of Lords made it clear that although the court's powers under s 996 of
+  the CA 2006 were wide, that provision did not give an automatic right
+  to withdrawal from a company where trust and confidence had broken
+  down.
+\item
+  Where the parties had agreed to binding arbitration to settle a matter
+  of unfair prejudice, proceedings would not be allowed under s 994 of
+  the CA 2006 ({[}{[}Fulham Football Club (1987) Ltd v Richards
+  {[}2011{]} EWCA Civ 855{]}{]}).
+\end{enumerate}
+
+\hypertarget{shareholders-role}{%
+\subsection{Shareholders' Role}\label{shareholders-role}}
+
+Generally limited: directors control things day-to-day. The shareholders
+can change things indirectly by appointing/ removing directors and
+voting at GMs.
+
+\hypertarget{protection-of-minority-shareholders}{%
+\subsection{Protection of Minority
+Shareholders}\label{protection-of-minority-shareholders}}
+
+\hypertarget{majority-rule}{%
+\subsubsection{Majority Rule}\label{majority-rule}}
+
+Generally, the principle of majority rule governs companies.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: What happens if directors breach their duties to the company?}
+\NormalTok{Rule in [[Foss v Harbottle [1843]]]:}
+\NormalTok{1. Proper claimant rule: the company, rather than shareholder, must bring a claim for a wrong done to the company. }
+\NormalTok{2. Internal management rule: courts will not interfere with the internal management of a company acting within its powers. So when a wrong is alleged, it is for a majority of shareholders to decide whether to make a claim on behalf of the company or to ratify the wrong by ordinary resolution. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{statutory-protection}{%
+\subsubsection{Statutory Protection}\label{statutory-protection}}
+
+These are pretty watered down. But still have:
+
+\begin{itemize}
+\tightlist
+\item
+  Unfair prejudice protections
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Stops e.g., a director sanctioning their own misdemeanours.
+  \end{itemize}
+\item
+  If you have 5\% voting rights, can circulate written resolution,
+  requisition GM or circulate written statement.
+\item
+  Petition court for winding up (rare)
+\item
+  If 25\% can stop special resolutions.
+\end{itemize}
+
+\hypertarget{shareholders-agreement-1}{%
+\subsubsection{Shareholders Agreement}\label{shareholders-agreement-1}}
+
+Can protect minority shareholders.
+
+\hypertarget{ratification}{%
+\subsubsection{Ratification}\label{ratification}}
+
+The right of the majority to pass an ordinary resolution to ratify
+wrong-doing in the company cannot be exercised where the approval of
+that action would be illegal or requires a special resolution under the
+CA 2006.
+
+\hypertarget{amending-articles-1}{%
+\subsubsection{Amending Articles}\label{amending-articles-1}}
+
+The company's articles must be `bona fide for the benefit of the company
+as a whole', and that they may be challenged if they are made with the
+intention of discriminating against minority shareholders.
+
+\hypertarget{derivative-claims}{%
+\subsubsection{Derivative Claims}\label{derivative-claims}}
+
+See {[}\protect\hyperlink{derivative-claims}{Derivative claims}{]}.
+There are circumstances in which a minority shareholder is permitted to
+bring a `derivative claim' in the company's name for a wrong committed
+against the company.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{This is an exception to the rule in [[Foss v Harbottle [1843]]]. Can only be used where the minority shareholder wishes to make a claim in respect of a wrong committed against them, rather than against the property. }
+\end{Highlighting}
+\end{Shaded}
+
+A claim may be brought by any shareholder under s 260(3) of the CA 2006
+for an actual or proposed act or omission involving negligence, default,
+breach of duty or breach of trust by a\\
+director. There is no need to demonstrate any actual loss suffered by
+the company, or indeed any benefit gained by the directors.
+
+\hypertarget{stages}{%
+\paragraph{Stages}\label{stages}}
+
+There are two stages:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Preliminary stage to decide whether the applicant is entitled to bring
+  a claim
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    s 261(1): claim dismissed if no prima facie case
+  \item
+    Then decide whether to hold a full hearing (s 261(4))
+  \end{enumerate}
+\item
+  Hearing of the claim.
+\end{enumerate}
+
+Aim is to weed out `frivolous or vexatious' claims.
+
+\hypertarget{relevant-factors}{%
+\paragraph{Relevant Factors}\label{relevant-factors}}
+
+The court will consider:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  whether or not the shareholder is acting in good faith in bringing the
+  claim;
+\item
+  the importance a director (who is under a duty to promote the success
+  of the company under s 172 of the CA 2006) would place on continuing
+  the claim; and
+\item
+  whether authorisation or ratification of the wrong by the company
+  would be likely.
+\end{enumerate}
+
+The court must also have particular regard to any evidence put before it
+as to the views of shareholders who have no personal interest in the
+matter (CA 2006, s 263(4)).
+
+\hypertarget{automatic-refusal}{%
+\paragraph{Automatic Refusal}\label{automatic-refusal}}
+
+The court must refuse permission under s 263(2) if:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  a person acting in accordance with the director's duty under s 172 of
+  the CA 2006 (duty to promote the success of the company) would not
+  seek to continue the claim; or
+\item
+  the act or omission forming the basis of the claim has been authorised
+  or ratified by the company. Under s 239 of the CA 2006, the
+  ratification must be passed by the shareholders without the votes of
+  the director concerned (assuming the director is a shareholder) or a
+  person connected to them (e.g., their wife or civil partner).
+\end{enumerate}
+
+\hypertarget{remedy-1}{%
+\paragraph{Remedy}\label{remedy-1}}
+
+If this claim is successful, it will result in\\
+a remedy being awarded to the company and not the shareholder, as a
+derivative claim is being brought on behalf of the company.
+
+\hypertarget{types-of-shareholder}{%
+\subsection{Types of Shareholder}\label{types-of-shareholder}}
+
+\begin{itemize}
+\tightlist
+\item
+  Single member company (possible under s 7)
+\item
+  Holder of ordinary/ preference {[}{[}Shares{]}{]}
+\item
+  Possible to hold a share jointly! s 113(5)
+\item
+  Corporate shareholder
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Required to appoint a human to act on its behalf at general
+    meetings. Can be a proxy or corporate representative.
+  \item
+    s 323(1): corporate representative appointed by a resolution of the
+    board of directors
+  \item
+    Representative then has the same powers as an individual shareholder
+    (s 323(2)).
+  \end{itemize}
+\item
+  Public company shareholder: more rights, more responsibilities.
+\end{itemize}
+
+\hypertarget{shareholder-power}{%
+\subsection{Shareholder Power}\label{shareholder-power}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Shareholding
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+What shareholders can do
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Restrictions
+\end{minipage} \\
+\midrule()
+\endhead
+100\% & pass all resolutions at will & legality \\
+75\% & pass special resolution & weighted voting rights (if in articles)
+unfair prejudice petition (if wrongdoing) \\
+over 50\% & pass ordinary resolution & weighted voting rights (if in
+articles) unfair prejudice petition (if wrongdoing) \\
+over 25\% & block special resolution & \\
+10\% & demand poll vote & \\
+5\% & circulate a written resolution requisition a general meeting
+circulate a written statement & \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{officers-of-the-company}{%
+\section{Officers of the Company}\label{officers-of-the-company}}
+
+Includes company secretary, directors, managers and auditors.
+
+\hypertarget{company-secretary}{%
+\subsection{Company Secretary}\label{company-secretary}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 270(1)}
+\NormalTok{A private company is not required to have a secretary.}
+\end{Highlighting}
+\end{Shaded}
+
+The company secretary is an officer of the company (s 1121).
+
+\hypertarget{functions}{%
+\subsubsection{Functions}\label{functions}}
+
+\begin{itemize}
+\tightlist
+\item
+  Generally centres around administration of the company (writing board
+  minutes, keeping registers up-to-date, sending returns to Registrar of
+  Companies).
+\item
+  Has apparent authority on behalf of the company to make contracts
+  connected with the administrative side of the company's business,
+  though not trading contracts.
+\end{itemize}
+
+\hypertarget{appointment}{%
+\subsubsection{Appointment}\label{appointment}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1638}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8362}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Time appointed
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Procedure
+\end{minipage} \\
+\midrule()
+\endhead
+When company first registered & Named on the statement of proposed
+officers on Form IN01. Secretary automatically takes office when
+certificate of incorporation issued (s 16(6)(b)) \\
+Subsequently & Directors pass board resolution. Company must notify
+Registrar of Companies within 14 days of appointment of secretary on
+Form AP03 (human secretary) or Form AP04 (Corporate secretary). Then
+update the register of secretaries if applicable (s 275(2)). \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{register-of-secretaries}{%
+\paragraph{Register of Secretaries}\label{register-of-secretaries}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 275 {-} Duty to keep register of secretaries}
+
+\NormalTok{(1) A company must keep a register of its secretaries.}
+
+\NormalTok{(2) The register must contain the required particulars (see sections 277 to 279) of the person who is, or persons who are, the secretary or joint secretaries of the company.}
+
+\NormalTok{(3) The register must be kept available for inspection—}
+\NormalTok{{-} (a) at the company\textquotesingle{}s registered office, or}
+\NormalTok{{-} (b) at a place specified in regulations under section 1136.}
+
+\NormalTok{(4) The company must give notice to the registrar—}
+\NormalTok{{-} (a) of the place at which the register is kept available for inspection, and}
+\NormalTok{{-} (b) of any change in that place,}
+
+\NormalTok{unless it has at all times been kept at the company\textquotesingle{}s registered office.}
+
+\NormalTok{(5) The register must be open to the inspection—}
+\NormalTok{{-} (a) of any member of the company without charge, and}
+\NormalTok{{-} (b) of any other person on payment of such fee as may be prescribed.}
+
+\NormalTok{(6) If default is made in complying with subsection (1), (2) or (3), or if default is made for 14 days in complying with subsection (4), or if an inspection required under subsection (5) is refused, an offence is committed by—}
+\NormalTok{{-} (a) the company, and}
+\NormalTok{{-} (b) every officer of the company who is in default.}
+
+\NormalTok{For this purpose a shadow director is treated as an officer of the company. }
+\end{Highlighting}
+\end{Shaded}
+
+Private companies can elect not to keep their own register, but to hold
+everything centrally with Companies House instead (s 279A).
+
+\hypertarget{corporate-secretaries}{%
+\paragraph{Corporate Secretaries}\label{corporate-secretaries}}
+
+For corporate secretaries, the following must be entered into the
+register:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Corporate name and company's registered/ principal office
+\item
+  Register and registration number (EEA company)
+\item
+  Legal form and governing company + registration details (non-EEA).
+\end{enumerate}
+
+\hypertarget{terms-of-contract}{%
+\paragraph{Terms of Contract}\label{terms-of-contract}}
+
+Directors have the power to decide contractual terms on which secretary
+holds office and remuneration.
+
+\hypertarget{removal}{%
+\paragraph{Removal}\label{removal}}
+
+\begin{itemize}
+\tightlist
+\item
+  Directors have power to remove at any times
+\item
+  May depend on employment contract and give rise to statutory
+  employment law claims.
+\item
+  s 276(1)(a): notice Registrar of Companies within 14 days on Form
+  TM02.
+\end{itemize}
+
+\hypertarget{change-in-details}{%
+\paragraph{Change in Details}\label{change-in-details}}
+
+\begin{itemize}
+\tightlist
+\item
+  s 276(1)(b): notice Registrar of Companies within 14 days on Form CH03
+  (human) or CH04 (corporate).
+\end{itemize}
+
+\hypertarget{public-companies}{%
+\paragraph{Public Companies}\label{public-companies}}
+
+Must have a secretary (s 271), who is qualified as specified in s 273 (3
+years experience in the last 5/ has professional qualification etc.)
+
+\hypertarget{directors-1}{%
+\subsection{Directors}\label{directors-1}}
+
+See {[}\protect\hyperlink{directors-1}{Directors}{]}.
+
+Every private company must have at least one director (s 154(1)), and
+every public
+
+company must have at least two (s 154(2)).
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 250 {-} "Director"}
+\NormalTok{In the Companies Acts, “director” includes any person occupying the position of director, by whatever name called. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{executive-director}{%
+\subsubsection{Executive Director}\label{executive-director}}
+
+Appointed to an executive office (finance, managing, \ldots). Both an
+officer and employee of their company -- has a service contract under
+which the director agrees to work for the company in return for a salary
+and benefits.
+
+\hypertarget{chief-executive}{%
+\paragraph{Chief-executive}\label{chief-executive}}
+
+The board of directors has the power to delegate their powers. They
+usually do this by appointing a Chief Executive or Managing Director.
+
+CEO will be formally appointed as a director with specific powers
+granted by company articles (e.g., art 5 MA).
+
+\hypertarget{non-executive-director-ned}{%
+\paragraph{Non-executive Director
+(NED)}\label{non-executive-director-ned}}
+
+An officer of the company, but not an employee of the company. The role
+involves independent guidance and advice to the board, and protecting
+the interests of shareholders.
+
+In a private company, there are often no NEDs. More relevant to
+{[}\protect\hyperlink{public-companies}{Public companies}{]} -- certain
+number mandatory for joining Main Market.
+
+NED can still be liable to the company, for example, for breach of their
+director's duties ({[}{[}Equitable Life v Bowley {[}2003{]} EWHC
+2263{]}{]}).
+
+\hypertarget{chairperson}{%
+\paragraph{Chairperson}\label{chairperson}}
+
+\begin{itemize}
+\tightlist
+\item
+  Powers determined by the company's articles.
+\item
+  Private company with MA: no special powers other than their casting
+  vote in the event of an equal vote for and against a board resolution
+  (art 13).
+\item
+  For a public company, the chairperson is the figurehead.
+\end{itemize}
+
+\hypertarget{shadow-director}{%
+\paragraph{Shadow Director}\label{shadow-director}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Shadow director}
+\NormalTok{A person in accordance with whose directions or instructions the directors of the company are accustomed to act.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7622}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2378}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Case
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Ratio
+\end{minipage} \\
+\midrule()
+\endhead
+A shadow director was anyone, other than a professional adviser, who
+exercises real influence in the corporate affairs of a company but who
+does not necessarily give directions or instructions on every matter
+decided by the directors. & {[}{[}Secretary of State for Trade and
+Industry v Deverell {[}2000{]} 2 WLR 907{]}{]} \\
+A person becomes a shadow director only when the directors act on the
+instructions given. The mere act of giving instructions is not enough. &
+{[}{[}Ultraframe (UK) Ltd v Fielding {[}2005{]} EWHC 1638{]}{]} \\
+It is not necessary that all of the directors acted in accordance with
+the shadow director's directions but that a majority of them did &
+{[}{[}In the matter of Coroin Ltd, Ch D, 5 March 2012{]}{]} \\
+\bottomrule()
+\end{longtable}
+
+Shadow directors are subject to the same directors' duties as far as
+capable of applying (s 170(5)).
+
+The rule aims to stop people avoiding the onerous duties imposed on
+directors by not being formally appointed, even though they are running
+the company on a daily basis. But a person is not deemed a shadow
+director by reason only that the directors act on advice given by them
+in a professional capacity (s 251(2) CA 2006).
+
+\hypertarget{de-facto-director}{%
+\paragraph{De Facto Director}\label{de-facto-director}}
+
+Someone who assumes to act as a director but has in fact not been
+validly appointed, and therefore is not a de jure director.
+
+Case law has held that such a person may fall within the definition of a
+`director' under s 250(1) and under the IA 1986 (e.g., {[}{[}Re Hydrodam
+(Corby) Ltd {[}1994{]} 2 BCLC 180{]}{]}).
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: De facto director relevant factors}
+\NormalTok{1. Whether they have assumed responsibility to act as a director.}
+\NormalTok{2. Whether or not they acted as a director must be determined objectively. It does not matter whether the individual thought they were acting as a director.}
+\NormalTok{3. Whether the company considered the individual to be a director and held them out as such, and whether third parties considered that they were a director}
+\NormalTok{4. Look at the acts in their context and determine their cumulative effect.}
+\NormalTok{5. The fact that a person is consulted about directorial decisions, or is asked for approval, does not in general make them a director because they are not making the decision.}
+\end{Highlighting}
+\end{Shaded}
+
+An individual director of a corporate director of another company is not
+a de facto director of that other company, and could therefore not be
+held personally liable for the unlawful payment of a dividend
+({[}{[}Holland v The Commissioners for HMRC {[}2010{]} UKSC 51{]}{]}) --
+corporate veil.
+
+\hypertarget{alternate-director}{%
+\paragraph{Alternate Director}\label{alternate-director}}
+
+Companies may provide in their Articles for the appointment of alternate
+directors (not a provision in MA). An alternate director attends board
+meetings and acts in place of the director, if the actual director is
+incapacitated/ away. Usually approved by resolution of board of
+directors.
+
+Usually, another director can be appointed as an alternate director.
+
+\hypertarget{corporate-director}{%
+\paragraph{Corporate Director}\label{corporate-director}}
+
+It is possible to have a corporate director of a company {[}{[}(Holland
+v The Commissioners for HMRC {[}2010{]} UKSC 51{]}{]}). But subject to:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 155 {-} Companies required to have at least one director who is a natural person}
+\NormalTok{(1) A company must have at least one director who is a natural person.}
+
+\NormalTok{(2) This requirement is met if the office of director is held by a natural person as a corporation sole or otherwise by virtue of an office.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{upcoming-changes}{%
+\subparagraph{Upcoming Changes}\label{upcoming-changes}}
+
+BUT the law is set to change in this area. The Small Business,
+Enterprise and Employment Act 2015, which received Royal Assent in March
+2015, has inserted a new s 156A into the Companies Act 2006. This
+provision requires every director to be a human and prohibits corporate
+directors. A new CA 2006, s 156B allows the Secretary of State for BEIS
+to make regulations setting out exceptions to this ban on corporate
+directors.
+
+\hypertarget{appointment-of-directors}{%
+\paragraph{Appointment of Directors}\label{appointment-of-directors}}
+
+Directors appointed in accordance with the process set out in the
+articles.
+
+\hypertarget{statutory-restrictions}{%
+\subparagraph{Statutory Restrictions}\label{statutory-restrictions}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Director must be at least 16 when they take office (s 157)
+\item
+  A director disqualified under the CDDA 1986 will commit a criminal
+  offence under s 13 CDDA if they act as a director of a company during
+  the period of the disqualification.
+\item
+  An undischarged bankrupt cannot act as a director of a company (CDDA
+  1986, s 11)
+\item
+  s 1184: SoS for BEIS has power to prevent someone from being a
+  director of a UK company if they are subject to restrictions under
+  foreign law.
+\end{enumerate}
+
+\hypertarget{restrictions-in-articles}{%
+\subparagraph{Restrictions in Articles}\label{restrictions-in-articles}}
+
+Articles may provide for the ineligibility of a director.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Art 18(d) MA}
+\NormalTok{A person ceases to be a director as soon as a registered medical practitioner who is treating that person gives a written opinion to the company stating that that person has become physically or mentally incapable of acting as a director and may remain so for more than three months.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{procedure-for-appointment}{%
+\subparagraph{Procedure for
+Appointment}\label{procedure-for-appointment}}
+
+CA 2006 does not stipulate a procedure for appointing directors, so this
+is generally governed by the Articles of the company. MA deals with this
+as follows:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: MA 17}
+\NormalTok{(1) Any person who is willing to act as a director, and is permitted by law to do so, may be appointed to be a director—}
+\NormalTok{{-} (a) by ordinary resolution, or}
+\NormalTok{{-} (b) by a decision of the directors.}
+\end{Highlighting}
+\end{Shaded}
+
+Decision of directors is usually used since this is easier. But ALWAYS
+check the Articles for any modifications.
+
+Ordinary Resolution
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{1. Special notice of the resolution to appoint a new director must be given by the proposing shareholders, as required by s 168(2).}
+\NormalTok{2. Ordinary resolution}
+\NormalTok{3. Send to registrar a statement by the company that the person has consented to act in that capacity (s 167(2)(b)).}
+\NormalTok{    {-} For the first director or directors of the company, this is set out on Form IN01 (see 3.8.1 above). }
+\NormalTok{    {-} For directors appointed after incorporation, the company must sign the statement on Form AP01 (individual) or on Form AP02 (corporate)}
+\NormalTok{4. As soon as reasonably practicable after the notification of appointment of a new director has been made, the Registrar of Companies must send information on the roles and duties of a director to that director (s 1079B)}
+\NormalTok{5. Also if the director is an employee, need to satisfy service contract formalities. }
+\end{Highlighting}
+\end{Shaded}
+
+MERMAID2
+
+\hypertarget{number-of-directors}{%
+\paragraph{Number of Directors}\label{number-of-directors}}
+
+The MA 11 assumes that there are two directors, as this is the minimum
+number required for valid board meetings to be held (known as the
+`quorum'). If a company with model articles has just a sole director,
+then that director can still validly take decisions because of MA 7(2).
+
+\hypertarget{nature-of-office}{%
+\subsection{Nature of Office}\label{nature-of-office}}
+
+There is a multi-layered legal relationship between directors and their
+company (it's complicated!)
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.0698}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.9302}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Relationship
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Details
+\end{minipage} \\
+\midrule()
+\endhead
+Agency & Company is principal, directors are agents, given actual and
+apparent authority to bind the company. \\
+Fiduciary & Not trustees, but in a trustee-like position and owe special
+duties to the company. So directors must show utmost good faith in their
+dealings with the company. \\
+Employment & Usually only executive directors, who have a service
+contract and are paid a salary. Governed by employment law and contract
+of employment. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{directors-powers}{%
+\subsection{Directors' Powers}\label{directors-powers}}
+
+\hypertarget{general}{%
+\subsubsection{General}\label{general}}
+
+Broad general authority, e.g.,
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: MA 3 {-} Directors\textquotesingle{} General Authority}
+\NormalTok{Subject to the articles, the directors are responsible for the management of the company’s business, for which purpose they may exercise all the powers of the company.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{joint}{%
+\paragraph{Joint}\label{joint}}
+
+Directors generally act jointly. Can take decisions by a majority at a
+board meeting (MA 7) or unanimously without a meeting being held (MA 8).
+
+\hypertarget{shareholder-input}{%
+\paragraph{Shareholder Input}\label{shareholder-input}}
+
+There are certain decisions for which shareholders hold a veto, e.g.,
+substantial property transaction between company and director, payment
+of dividends under MA.
+
+Shareholders have a reserve power:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: MA 4}
+\NormalTok{(1) The shareholders may, by special resolution, direct the directors to take, or refrain from taking, specified action.}
+
+\NormalTok{(2) No such special resolution invalidates anything which the directors have done before the passing of the resolution.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{delegation-of-power}{%
+\paragraph{Delegation of Power}\label{delegation-of-power}}
+
+MA 5 gives extremely broad powers to delegate: can even delegate the
+power to delegate. Managing director/ CEO may be given all the powers of
+the board, but these may be varied/ withdrawn at any time.
+
+\hypertarget{directors-authority}{%
+\subsection{Directors' Authority}\label{directors-authority}}
+
+The ability of a director to bind a company in a contractual
+relationship with a third party is based on the director's position as
+\textbf{agent} of the company.
+
+MERMAID3
+
+\begin{itemize}
+\tightlist
+\item
+  Directors will bind the company if they act with either
+  \textbf{actual} or \textbf{apparent} authority.
+\item
+  If they exceed this authority, they will not bind the company.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    They will be personally liable for breach of warranty of authority
+    to any third party with whom they were dealing.
+  \item
+    They will also be personally liable on the contract to the third
+    party, as they would have failed to tie the company into the
+    contractual obligation.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{actual-authority}{%
+\subsubsection{Actual Authority}\label{actual-authority}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Actual authority is where the principal (the company) gives the agent (the director) specific prior consent to the agent’s actions.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{quote}
+An `actual' authority is a legal relationship between principal and
+agent created by a consensual agreement to which they alone are the
+parties. \ldots{} To this agreement the third party is a stranger; he
+may be totally ignorant of the existence of any authority on the part of
+the agent. Nevertheless, if the agent does enter into a contract
+pursuant to the `actual' authority, it does create contractual rights
+and liabilities between the principal and the third party.\\
+{[}{[}Freeman and Lockyer v Buckhurst Park Properties (Mangal) Ltd
+{[}1964{]} 2 QB 480{]}{]}
+\end{quote}
+
+May be express or implied.
+
+\hypertarget{implied-actual-authority}{%
+\paragraph{Implied Actual Authority}\label{implied-actual-authority}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  From appointment to a specific role in a company
+
+  \begin{itemize}
+  \tightlist
+  \item
+    It is only the relationship between the principal and the agent
+    which is relevant to determining whether implied actual authority
+    exists
+  \item
+    e.g., appointment of a managing director carries with it the powers
+    of that person to do all such acts necessary to manage the company,
+    including those not expressly stated in their contract ({[}{[}Smith
+    v Butler {[}2012{]} EWCA Civ 314{]}{]})
+  \end{itemize}
+\item
+  From a course of dealing\\
+  e.g., where director or agent continually enters into specific
+  transactions and board of directors acquiesces or agrees to this
+  ({[}{[}Hely-Hutchinson v Brayhead Ltd {[}1968{]} 1 QB 549{]}{]})
+\end{enumerate}
+
+\hypertarget{apparent-authority}{%
+\subsubsection{Apparent Authority}\label{apparent-authority}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Apparent authority is where the agent (the director) acts without the principal’s (the company) prior consent but still binds the principal (the company) in the contract with the third party. **The principal (the company) is estopped from denying the agent’s (the director) authority.**}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{quote}
+An `apparent' authority, on the other hand, is a legal relationship
+between the principal and the third party created by a representation,
+made by the principal to the third party, intended to be and in fact
+acted on by the third party, that the agent has authority \ldots{} To
+the relationship so created, the agent is a stranger.\\
+{[}{[}Freeman and Lockyer v Buckhurst Park Properties (Mangal) Ltd
+{[}1964{]} 2 QB 480{]}{]}
+\end{quote}
+
+Apparent authority cannot arise by the agent's own actions, only by
+those of the company. Without the estoppel, the agent would not bind
+themselves, but would bind themselves alone to the third party.
+
+\textbf{Ostensible or apparent authority arises where there has been
+some holding out or representation on which a third party has relied
+that the agent acting on the company's behalf had authority to enter
+into the contract in question.}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{If a company appoints A as a finance director, from the perspective of a third party, A almost certainly has apparent authority to enter into a contract for a purchase order, deriving from his position as finance director.}
+\end{Highlighting}
+\end{Shaded}
+
+The agent has no actual authority but can still bind the principal.
+Three cases:
+
+\hypertarget{statutory-deemed-authority-s-40-ca-2006}{%
+\paragraph{Statutory Deemed Authority (s 40 CA
+2006)}\label{statutory-deemed-authority-s-40-ca-2006}}
+
+\begin{itemize}
+\tightlist
+\item
+  The purpose is to protect third parties where there are restrictions
+  on the power of the company's agents to bind the company set out in
+  the company's constitution
+\item
+  So the company cannot claim not to be bound by acts of its directors
+  by asserting these are unconstitutional -- even when the company's
+  articles require specific shareholder or board approval for a
+  particular act
+\end{itemize}
+
+\begin{quote}
+Power of directors to bind the company\\
+(1) In favour of a person dealing with a company in good faith, the
+power of the directors to bind the company, or authorise others to do
+so, is deemed to be free of any limitation under the company's
+constitution.\\
+(2) For this purpose -\\
+(a) a person ``deals with'' a company if he is a party to any
+transaction or other act to which the company is a party,\\
+(b) a person dealing with a company -\\
+(i) is not bound to enquire as to any limitation on the powers of
+directors to bind the company or authorise others to do so,\\
+(ii) is presumed to have acted in good faith unless the contrary is
+proved, and\\
+(iii) is not to be regarded as acting in bad faith by reason only of his
+knowing that an act is beyond the powers of the directors under the
+company's constitution.\\
+(3) The references above to limitations on the directors' powers under
+the company's constitution include limitations deriving -\\
+(a) from a resolution of the company or of any class of shareholders,
+or\\
+(b) from any agreement between the members of the company or of any
+class of shareholders.
+\end{quote}
+
+Note, this protects third parties, not directors. Director can be sued
+by company for losses/ disqualified.
+
+\hypertarget{deemed-authority-at-common-law-ostensible-authority}{%
+\paragraph{Deemed Authority at Common Law -- Ostensible
+Authority}\label{deemed-authority-at-common-law-ostensible-authority}}
+
+Determined by looking at the relationship between the principal and
+third party. Refers to the authority of an agent as it appears to the
+third party.
+
+Upheld in {[}{[}Freeman and Lockyer v Buckhurst Park Properties (Mangal)
+Ltd {[}1964{]} 2 QB 480{]}{]}.
+
+An agent is said to have apparent or ostensible authority if:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  The principal has made a representation (by words or conduct) to the
+  third party to the effect that the agent has the authority to act for
+  him, although the agent does not in fact have such authority.
+\item
+  The third party has in fact relied on such representation to deal with
+  the agent.
+\item
+  The third party has altered his position resulting from such reliance,
+  for example, assuming obligations under a contract with the agent.
+\end{enumerate}
+
+\hypertarget{deemed-authority-at-common-law-indoor-management-rule}{%
+\paragraph{Deemed Authority at Common Law -- `indoor Management'
+Rule}\label{deemed-authority-at-common-law-indoor-management-rule}}
+
+A rule of less significance due to s40 CA 2006 but still applies where
+the third party has not dealt directly with the board or a question of
+whether the agent was authorised by the board applies. Derived from
+{[}{[}Royal British Bank v Turquand (1856) 6 E \& B 327{]}{]}: outsiders
+are entitled to assume that a company's internal procedures have been
+complied with.
+
+But this does not apply where the third party has actual notice of the
+irregularity or is not acting in good faith ({[}{[}Rolled Steel Ltd v
+British Steel Corpn {[}1986{]} Ch 246{]}{]}) or when the third party is
+an insider entering a contract with the company ({[}{[}Morris v Kanssen
+{[}1946{]} AC 459{]}{]}).
+
+Given s 40 CA 2006: the rules in Turquand's case now apply
+
+\begin{itemize}
+\tightlist
+\item
+  where there are potential questions over the execution of documents,
+  the passing of authorising resolutions and the regularity of
+  appointments, where nothing has occurred which would be contrary to
+  company's constitution
+\item
+  where director appointed Managing Director, but relevant formalities
+  of that appointment not complied with
+\end{itemize}
+
+\hypertarget{ratification-1}{%
+\subsubsection{Ratification}\label{ratification-1}}
+
+Company is able to ratify acts beyond the actual authority of its
+agents. Involves passing a resolution to approve the act and agreeing
+that the company will be bound to it.
+
+e.g., {[}{[}New Falmouth Resorts Ltd v International Hotels Jamaica Ltd
+{[}2013{]} UKPC 11{]}{]}
+
+\hypertarget{summary}{%
+\subsubsection{Summary}\label{summary}}
+
+MERMAID4
+
+LPC purposes:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  The courts will allow apparent authority arguments where a plausible
+  representative of the company had apparent authority to third parties,
+  in the absence of information from the company to correct this
+  impression.
+\item
+  But an improper agreement entered into with a single director/
+  representative where it was implausible that the representative had
+  authority to carry out the transaction will be unenforceable against
+  the company ({[}{[}Criterion Properties v Stratford UK Properties LLC
+  {[}2004{]} UKHL 28,{]}{]}).
+\end{enumerate}
+
+\hypertarget{directors-annual-responsibilities}{%
+\subsection{Directors' Annual
+Responsibilities}\label{directors-annual-responsibilities}}
+
+\hypertarget{company-accounts}{%
+\subsubsection{Company Accounts}\label{company-accounts}}
+
+\begin{itemize}
+\tightlist
+\item
+  A company must keep adequate accounting records under s 386(1) of the
+  CA 2006, otherwise it commits an offence.
+\item
+  It is the directors' responsibility to ensure that full accounts are
+  produced for each financial year (CA 2006, s 394).
+\item
+  These accounts must give a `true and fair view of the state of affairs
+  of the company as at the end of the financial year' (CA 2006, s
+  396(2)).
+\item
+  The directors must not approve the accounts unless they are satisfied
+  that they give a true and fair view of the assets, liabilities,
+  financial position, and profit and loss of the company (CA 2006, s
+  393(1)).
+\end{itemize}
+
+\hypertarget{directors-report}{%
+\paragraph{Directors' Report}\label{directors-report}}
+
+\begin{itemize}
+\tightlist
+\item
+  By s 415, every company must prepare a directors' report for each
+  financial year to accompany the accounts.
+\item
+  s 417 requires the directors' report to include a business review
+  including details on development, performance, risks, and position of
+  the company.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This does not apply to `small' companies.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{filing}{%
+\paragraph{Filing}\label{filing}}
+
+Under s 441, companies must also file the accounts and directors' report
+for each financial year at Companies House.
+
+However, so-called `micro-entities', `small' and `medium-sized'
+companies may file an abbreviated version of the year-end accounts
+(Small Companies (Micro-Entities' Accounts) Regulations 2013 (SI
+2013/3008), CA 2006, s 444 and s 445 respectively).
+
+The time limit for filing accounts is nine months from the end of the
+accounting reference period for a private company (CA 2006, s 442(2)).
+
+\hypertarget{company-sizes}{%
+\paragraph{Company Sizes}\label{company-sizes}}
+
+To satisfy the definition, the company must fulfil any two of the
+provisions in a given row.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.3205}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.1923}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2436}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2436}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Company
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Annual turnover
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Balance sheet total
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Number of employees
+\end{minipage} \\
+\midrule()
+\endhead
+Micro-entity (s 384A) & \(\leq £632k\) & \(\leq £316k\) & \(\leq 10\) \\
+Small company (s 382(3)) & \(\leq £10.2m\) & \(\leq £5.1m\) &
+\(\leq 50\) \\
+Medium company (s 465(3)) & \(\leq £36m\) & \(\leq £18m\) &
+\(\leq 250\) \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{confirmation-statement}{%
+\paragraph{Confirmation Statement}\label{confirmation-statement}}
+
+\begin{itemize}
+\tightlist
+\item
+  Every company must submit a confirmation statement to the Registrar of
+  Companies once in every 12-month period.
+\item
+  The directors are responsible for doing this within 14 days after the
+  company's `confirmation date' (the date to which the confirmation
+  statement is made up) (s 853A(1) and (3)).
+\item
+  A company's first confirmation date is the anniversary of the date of
+  its incorporation. Subsequently, it is the anniversary of the previous
+  confirmation date (s 853A(5)).
+\item
+  A failure to submit the confirmation statement on time is a criminal
+  offence.
+\end{itemize}
+
+\hypertarget{dividends}{%
+\paragraph{Dividends}\label{dividends}}
+
+The directors in managing the company have the power to recommend
+payment of a dividend (a share of profits) to the company's shareholders
+if there are sufficient distributable profits available.
+
+\hypertarget{service-contracts-and-removal}{%
+\section{Service Contracts and
+Removal}\label{service-contracts-and-removal}}
+
+\hypertarget{directors-service-contracts}{%
+\subsection{Directors' Service
+Contracts}\label{directors-service-contracts}}
+
+An executive director is an employee of the company, so should be given
+a written employment contract --- a service contract. No automatic
+entitlement for directors to be paid for services.
+
+\begin{itemize}
+\tightlist
+\item
+  Company must keep copy of directors' service contracts/ memoranda of
+  the terms
+  (\href{https://www.legislation.gov.uk/ukpga/2006/46/section/228}{s 228
+  CA 2006}).
+\item
+  Shareholders have right to inspect copies of directors' service
+  contracts/ memoranda
+  (\href{https://www.legislation.gov.uk/ukpga/2006/46/section/229}{s 229
+  CA 2006}), must be provided within 7 days of request.
+\end{itemize}
+
+\hypertarget{long-term-service-contracts}{%
+\subsubsection{Long Term Service
+Contracts}\label{long-term-service-contracts}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.gov.uk/government/publications/model-articles-for-private-companies-limited-by-shares/model-articles-for-private-companies-limited-by-shares\#remuneration}{Art
+  19 MA} means that terms of an individual director's service contract
+  are for the board to determine. Only requires approval of resolution
+  of board of directors, though shareholder approval required
+  (\href{https://www.legislation.gov.uk/ukpga/2006/46/section/188}{s 188
+  CA 2006}) to enter long-term service contracts (where service contract
+  has guaranteed term which is or may be \textgreater{} 2 years).
+\item
+  If shareholder approval not given, term incorporated into service
+  agreement \textbf{void} under s 189(a) CA 2006. Additionally, under s
+  189(b) CA 2006, the service contract will be deemed to contain a term
+  entitling company to terminate the contract at any time, by giving
+  reasonable notice.
+\end{itemize}
+
+\hypertarget{awarded-by-board}{%
+\subsubsection{Awarded by Board}\label{awarded-by-board}}
+
+The board has authority to enter service contracts with directors (e.g.,
+MA 3 \& 19).
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Does the director need to declare a conflict of interest when their service contract is discussed?}
+\NormalTok{No, a formal declaration to the board of a personal interest will not be necessary due to s 177(6).}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{itemize}
+\tightlist
+\item
+  The director will often be prevented under the articles from voting
+  and counting in the quorum for that board meeting for reasons of
+  fairness.
+\item
+  But this can create problems if there are only two directors, and the
+  quorum for board meetings is two.
+\item
+  Potential solution: change articles by special resolution (s 21(1)).
+\item
+  More robust solution: pass an ordinary resolution at GM to temporarily
+  relax the rules on directors voting and counting in the quorum.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Permitted under MA 14(3).
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{guaranteed-term-contracts}{%
+\subsubsection{Guaranteed-term
+Contracts}\label{guaranteed-term-contracts}}
+
+Very advantageous for directors, but financially risky for the company.
+So shareholders are protected by CA 2006: allowed to veto certain
+guaranteed-term contracts between the company (negotiated by the board)
+and the individual directors.
+
+\hypertarget{procedure-1}{%
+\paragraph{Procedure}\label{procedure-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Proposed service contract with a guaranteed term \(>2\) years:
+  ordinary resolution needed (s 188).
+\item
+  If GM called to pass such a resolution, a memorandum setting out the
+  proposed service contract in question must be available for inspection
+  by members at GM and for 15 days prior to GM at the registered office.
+\item
+  If a written resolution of the shareholders is to be used, the
+  memorandum of the proposed service contracts must be sent out to
+  members with the written resolution itself (s 188(5)).
+\end{itemize}
+
+\hypertarget{if-not-approved}{%
+\subsubsection{If Not Approved}\label{if-not-approved}}
+
+If shareholder approval not given, term incorporated into service
+agreement~\textbf{void}~under s 189(a) CA 2006. Additionally, under s
+189(b) CA 2006, the service contract will be deemed to contain a term
+entitling company to terminate the contract at any time, by giving
+reasonable notice.
+
+\hypertarget{personal-services}{%
+\subsubsection{Personal Services}\label{personal-services}}
+
+A service contract is defined in s 227(1) to include a contract under
+which the director undertakes to perform services personally for the
+company. Under s 227(2), this may be within or outside the scope of the
+ordinary duties of a director.
+
+\hypertarget{inspection-1}{%
+\subsubsection{Inspection}\label{inspection-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  s 228: copies of all directors' service contracts (or a written
+  memorandum if the contract is not in writing) must be kept at the
+  registered office - for at least 1 year after termination of contract,
+  or its single alternative inspection location (SAIL) under s 1136.
+\item
+  Must be open for inspection by the company's shareholders (s 229).
+\item
+  This applies to all directors' service contracts.
+\end{itemize}
+
+\hypertarget{notification-requirements}{%
+\subsection{Notification Requirements}\label{notification-requirements}}
+
+\hypertarget{register-of-directors}{%
+\subsubsection{Register of Directors}\label{register-of-directors}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 162 {-} Register of directors}
+
+\NormalTok{(1) Every company must keep a register of its directors.}
+
+\NormalTok{(2) The register must contain the required particulars (see sections 163, 164 and 166) of each person who is a director of the company.}
+
+\NormalTok{(3) The register must be kept available for inspection—}
+\NormalTok{{-} (a) at the company\textquotesingle{}s registered office, or}
+\NormalTok{{-} (b) at a place specified in regulations under section 1136.}
+
+\NormalTok{(4) The company must give notice to the registrar—}
+\NormalTok{{-} (a) of the place at which the register is kept available for inspection, and}
+\NormalTok{{-} (b) of any change in that place,}
+
+\NormalTok{unless it has at all times been kept at the company\textquotesingle{}s registered office.}
+
+\NormalTok{(5) The register must be open to the inspection—}
+\NormalTok{{-} (a) of any member of the company without charge, and}
+\NormalTok{{-} (b) of any other person on payment of such fee as may be prescribed.}
+
+\NormalTok{(6) If default is made in complying with subsection (1), (2) or (3) or if default is made for 14 days in complying with subsection (4), or if an inspection required under subsection (5) is refused, an offence is committed by—}
+\NormalTok{{-} (a) the company, and}
+\NormalTok{{-} (b) every officer of the company who is in default.}
+
+\NormalTok{For this purpose a shadow director is treated as an officer of the company. }
+\end{Highlighting}
+\end{Shaded}
+
+There are different particulars to be entered depending on whether the
+director is a human or corporate director -- see ss 163 \& 164.
+
+\hypertarget{register-of-directors-residential-addresses}{%
+\subsubsection{Register of Directors' Residential
+Addresses}\label{register-of-directors-residential-addresses}}
+
+\begin{itemize}
+\tightlist
+\item
+  Every company must also keep a register of (human) directors'
+  residential addresses (s 165(1)).
+\item
+  s 167A: private companies can elect not to keep it themselves, and
+  just keep up-to-date information at Companies House.
+\item
+  The register of directors' residential addresses obviously not open to
+  inspection.
+\item
+  Failure to keep a register of directors' residential addresses is a
+  criminal offence committed by\\
+  the company and every officer in default (CA 2006, s 165(4)).
+\end{itemize}
+
+\hypertarget{companies-house}{%
+\subsubsection{Companies House}\label{companies-house}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.4045}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.1348}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.1798}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2809}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Event to file
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Form (human)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Form (corporate)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Time limit
+\end{minipage} \\
+\midrule()
+\endhead
+First director(s) of company & IN01 & IN01 & Upon company
+registration \\
+Subsequently appointment of director & AP01 & AP02 & 14 days after
+appointment \\
+Change to particulars of director & CH01 & CH02 & 14 days after
+change \\
+Director leaving office & TM01 & TM02 & 14 days after leaving \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{stationery}{%
+\subsubsection{Stationery (!)}\label{stationery}}
+
+All company business letters must contain the names of either all the
+directors or none of the director (except as signatory/ in the text) --
+reg 26 Company, Limited Liability Partnership and Business (Names and
+Trading Disclosures) Regulations 2015 (SI 2015/17).
+
+\hypertarget{termination-of-directorship}{%
+\subsection{Termination of
+Directorship}\label{termination-of-directorship}}
+
+There are multiple ways in which a director can leave office and cease
+to be a director.
+
+\hypertarget{resignation}{%
+\subsubsection{Resignation}\label{resignation}}
+
+A director may resign at any time by giving notice to the company (MA
+18(f)). If subject to an employment contract, the director must take
+account of any notice periods/ other procedures to avoid breach of
+contract liability.
+
+\hypertarget{removal-by-board}{%
+\subsubsection{Removal by Board}\label{removal-by-board}}
+
+The articles may give the board power to dismiss a director by majority
+vote. When doing so, directors must act bona fide in the best interests
+of the company.
+
+\hypertarget{removal-by-shareholders-under-ca-2006}{%
+\subsubsection{Removal by Shareholders Under CA
+2006}\label{removal-by-shareholders-under-ca-2006}}
+
+\begin{itemize}
+\tightlist
+\item
+  Directors can be removed by ordinary resolution (s 168(1)) and this
+  power cannot be taken away by the service contract/ articles.
+\item
+  Any shareholder wanting to propose a resolution to remove a director
+  must give the company special notice (s 168(2)).
+
+  \begin{itemize}
+  \tightlist
+  \item
+    s 312(1): special notice means giving formal notice to the company
+    at its registered office of their intention to propose the
+    resolution at least 28 clear days before a GM.
+  \item
+    If a replacement director is to be appointed, special notice of the
+    appointment must also be given.
+  \end{itemize}
+\item
+  A written resolution cannot be used (s 288(2)(a)).
+\end{itemize}
+
+\hypertarget{cooperative-board}{%
+\paragraph{Cooperative Board}\label{cooperative-board}}
+
+A cooperative board can respond to the s 169 notice by calling a GM in
+the usual way (s 312(2)). Only 14 clear days' notice of the meeting is
+required from the company to the shareholders. The fact it is held
+within 28 clear days of the notice being served does not prevent the
+shareholder's special notice being valid. Shareholders are deemed to
+have given proper notice under s 312(4).
+
+Where a GM has already been called and shareholders serve the s 168
+notice to have the ordinary resolution considered at the GM, directors
+can agree to add the resolution to the meeting agenda, but only if they
+have time to give \textbf{\(\geq 14\) clear days' notice} of the meeting
+by an advertisement in a newspaper/ other means allowed in the articles
+(s 312(3)).
+
+\hypertarget{directors-rights}{%
+\paragraph{Director's Rights}\label{directors-rights}}
+
+When s 168 special notice is received, the board must send a copy to the
+director concerned immediately. The director then has the right to make
+written representations to the company, which the company must circulate
+to shareholders (s 169(3)). Director may speak at the meeting (s
+169(2)).
+
+\hypertarget{bushell-v-faith}{%
+\paragraph{Bushell V Faith}\label{bushell-v-faith}}
+
+Possible for company to insert a `Bushell v Faith' clause into its
+articles: see {[}{[}Bushell v Faith {[}1970{]} AC 1099 (House of
+Lords){]}{]}. These give weighted voting rights, allowing director/
+shareholders to block such resolutions.
+
+Might seem contrary to s 168 CA 2006. But such weighted voting clauses
+allowed because requirement for ordinary resolution not changed, just
+that way votes are amassed make it easier for director/ shareholder to
+survive. They represent an internal agreement amongst shareholders as to
+the weight their vote carries on a specific resolution.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Check whether it is possible to remove the Bushell v Faith clause by passing a special resolution under s 21 CA 2006 at a GM, or whether the director has weighted voting rights for this. }
+\end{Highlighting}
+\end{Shaded}
+
+Also check directors' service contract -- can be expensive to get rid of
+the director.
+
+\hypertarget{effect-of-removal}{%
+\paragraph{Effect of Removal}\label{effect-of-removal}}
+
+\begin{itemize}
+\tightlist
+\item
+  Director automatically loses any executive role, if the executive role
+  is dependent on being a director.
+\item
+  Retains any accrued employment rights, including those under the
+  service contract.
+\item
+  Service contract not rendered invalid by removal as a director.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Ex-director may be entitled to claim against the company for
+    wrongful dismissal.
+  \item
+    May also have a claim for unfair dismissal or redundancy
+  \item
+    If termination as a director occurs in accordance with the terms of
+    the service contract, unlikely to be unfair dismissal ({[}{[}Cobley
+    v Forward Technology Industries plc {[}2003{]} EWCA Civ 646{]}{]})
+  \item
+    Non-executive director does not usually have a claim for breach of
+    employment rights
+  \end{itemize}
+\item
+  Admin: update register of directors and register of directors'
+  residential addresses.
+\end{itemize}
+
+\hypertarget{removal-by-shareholders-under-articles}{%
+\subsubsection{Removal by Shareholders Under
+Articles}\label{removal-by-shareholders-under-articles}}
+
+Under Table A, art 73, directors must retire by rotation.
+\(\frac{1}{3}\) of directors must retire from office and be subject to
+re-election each AGM. The requirement to retire by rotation is included
+in MA Public Companies.
+
+\hypertarget{protecting-against-dismissal}{%
+\subsubsection{Protecting Against
+Dismissal}\label{protecting-against-dismissal}}
+
+Possibilities include:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Bushell v Faith clause
+\item
+  Fixed-term service contract of long duration and without a break
+  clause (subject to shareholder approval for fixed term contract \(>2\)
+  years).
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Claims for wrongful dismissal and unfair dismissal can make it more
+    expensive to remove a director.
+  \end{itemize}
+\item
+  Shareholders' agreement, where shareholders agree not to vote against
+  specific directors on a motion to dismiss.
+\item
+  If the director makes a loan to the company, express it to be
+  repayable if the director loses their position.
+\end{enumerate}
+
+\hypertarget{employment-and-regulatory-concerns}{%
+\subsection{Employment and Regulatory
+Concerns}\label{employment-and-regulatory-concerns}}
+
+Common law: an employer is free to offer employment to whoever they
+choose ({[}{[}Allen v Flood and Taylor {[}1898{]} AC 1{]}{]}). This is
+restricted by statute; the employer may not discriminate against a
+person on obvious grounds (race, sex, religion, sexual orientation,
+disability etc.).
+
+s 39 Equality Act 2010: unlawful to discriminate in recruitment,
+employment terms, opportunities for promotion and training, dismissal
+etc.
+
+Types of discrimination:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Direct discrimination (s 13)
+\item
+  Indirect discrimination (s 19)
+\item
+  Harassment (s 26)
+\item
+  Victimisation (s 27).
+\end{enumerate}
+
+\hypertarget{written-statement-of-terms}{%
+\subsubsection{Written Statement of
+Terms}\label{written-statement-of-terms}}
+
+s 1 Employment Rights Act 1996: the employer must, within 2 months of
+employment, give the employee a written statement of terms and
+conditions. This should include:
+
+\begin{itemize}
+\tightlist
+\item
+  Identity of parties
+\item
+  Commencement date
+\item
+  Remuneration details
+\item
+  Hours of work
+\item
+  Holiday, sick pay, pensions
+\item
+  Notice required
+\item
+  Job description, etc.
+\end{itemize}
+
+\hypertarget{employee-obligations}{%
+\subsubsection{Employee Obligations}\label{employee-obligations}}
+
+Statutory obligations to employees include
+
+\begin{itemize}
+\tightlist
+\item
+  Allowing employees time off work
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Ante-natal care
+  \item
+    Trade union duties
+  \item
+    Public duties
+  \item
+    Maternity, paternity, adoption and parental leave
+  \item
+    Caring for dependents
+  \end{itemize}
+\item
+  Allowing employees to sometimes request flexible working
+\item
+  Allowing an employee to return after maternity leave
+\item
+  Reasonable care of employees' health and safety at work.
+\end{itemize}
+
+\hypertarget{informing-and-consulting}{%
+\subsubsection{Informing and
+Consulting}\label{informing-and-consulting}}
+
+Information and Consultation of Employees Regulations 2004 (SI
+2004/3426): employees of companies with \(\geq 50\) employees have the
+right to be informed and consulted about certain key decisions.
+
+\hypertarget{dismissal-of-employees}{%
+\subsubsection{Dismissal of Employees}\label{dismissal-of-employees}}
+
+Potential claims include the common law claim for wrongful dismissal and
+statutory claims of unfair dismissal and claim for a statutory
+redundancy payment.
+
+\hypertarget{wrongful-dismissal}{%
+\subsubsection{Wrongful Dismissal}\label{wrongful-dismissal}}
+
+Likely to apply if the employer terminates a contract for an indefinite
+term with no notice/ inadequate notice, or if a fixed-term contract is
+terminated before its expiry date.
+
+Most employment contracts are for an indefinite term and terminable, by
+either side giving correct contractual notice.
+
+In a fixed-term contract, the contract is not usually terminable by
+notice.
+
+\hypertarget{notice-period}{%
+\paragraph{Notice Period}\label{notice-period}}
+
+\begin{itemize}
+\tightlist
+\item
+  The applicable notice period will usually be expressly agreed in the
+  contract.
+\item
+  If an expressly agreed notice period is shorter than the statutory
+  minimum required by \textbf{s 86 ERA 1996}, the longer statutory
+  period must be given.
+\item
+  If there is no express provision, there is an implied term that the
+  employee is entitled to reasonable notice
+\item
+  For more senior employees, a longer period will be implied.
+\end{itemize}
+
+For time of continuous employment \(T\), the statutory minimum notice
+period is \(P\) weeks, where:
+
+\[P = \begin{cases}  
+1 , & \text{if } 1 \text{ month} \leq T < 2 \text{ years}\\  
+T , & \text{if } 2 \text{ years} \leq T < 13 \text{ years},\\  
+12, & \text{if } T \geq 13 \text{ years}  
+\end{cases}  
+\]
+
+A claim for wrongful dismissal requires a dismissal in breach of
+contract.
+
+Where an employee resigns, they will have no claim. If they resign
+without sufficient notice/ terminate before the expiry date of a
+fixed-term contract, the employee will be in breach.
+
+\hypertarget{repudiatory-breach}{%
+\paragraph{Repudiatory Breach}\label{repudiatory-breach}}
+
+If the employer has committed a repudiatory breach of contract, the
+employee is entitled to treat the contract as discharged. They can leave
+with or without notice and bring a claim for wrongful dismissal, since
+they have been ``constructively dismissed'' by breach of contract.
+
+The employee must leave within a reasonable period of the employer's
+breach, otherwise they will be deemed to have affirmed the contract.
+
+{[}\protect\hyperlink{repudiatory-breach}{Repudiatory breach}{]} can be
+caused by:
+
+\begin{itemize}
+\tightlist
+\item
+  Unilaterally altering the employee's contract
+\item
+  Breaching an implied duty of good faith towards employees
+
+  \begin{itemize}
+  \tightlist
+  \item
+    e.g., imposing unreasonable work demands on the employee, publicly
+    humiliating them.
+  \end{itemize}
+\item
+  Employee revealing confidential information/ wilfully disobeying
+  orders.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    So it is a defence available to an employer in a wrongful dismissal
+    claim that the employee committed a repudiatory breach of an express
+    or implied term of the contract
+  \item
+    Defence available even if the employer did not know of the
+    employee's breach at the time of termination of the contract.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{damages}{%
+\paragraph{Damages}\label{damages}}
+
+\begin{itemize}
+\tightlist
+\item
+  Normal contractual rules apply.
+\item
+  The aim is to put the employee in \textbf{the position they would have
+  been in}, so far as money can do this, had the contract not been
+  broken.
+\item
+  Starting point is the salary/ wages which would have been earned
+  during the proper notice period/ remainder of the fixed term.
+\item
+  Damages for other fringe benefits can also be claimed (e.g., pension
+  rights, use of a company car).
+\item
+  Damages will not be awarded for loss of future prospects.
+\item
+  The employee is under a duty to mitigate their loss (by applying for
+  other jobs).
+\item
+  Claim can be brought in the High Court/ County Court/ Employment
+  Tribunal.
+\end{itemize}
+
+\hypertarget{unfair-dismissal}{%
+\subsubsection{Unfair Dismissal}\label{unfair-dismissal}}
+
+\begin{itemize}
+\tightlist
+\item
+  s 94 ERA 1996: an employee has the right not to be unfairly dismissed.
+\item
+  Claim before employment tribunal
+\item
+  Employee must prove
+
+  \begin{itemize}
+  \tightlist
+  \item
+    They are a ``qualifying employee'' (2 years' continuous employment
+    ending with the effective date of termination). - s 108 ERA 1996
+  \item
+    They have been dismissed
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Includes actual and constructive dismissal.
+    \end{itemize}
+  \end{itemize}
+\item
+  Burden of proof moves to the employer
+
+  \begin{itemize}
+  \tightlist
+  \item
+    must show that the reason for the dismissal was one of 5 permitted
+    reasons:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Capability or qualifications of the employee for doing work of the
+      kind employed to do
+    \item
+      Conduct of the employee
+    \item
+      Employee was redundant
+    \item
+      Employee could not continue to work without contravening a
+      statutory enactment (e.g., bus driver losing driving licence)
+    \item
+      Some other substantial reason (e.g., personality clash between
+      employees).
+    \end{itemize}
+  \end{itemize}
+\item
+  s 98(4) ERA 1996: if employer demonstrates a fair reason, the tribunal
+  must decide whether in the circumstances, the employer acted
+  reasonably.
+\item
+  Any procedural defects will be considered
+
+  \begin{itemize}
+  \tightlist
+  \item
+    In capability cases, the employer should have warned the employee
+    about their standard of work.
+  \item
+    In conduct cases, the employer should allow the employee to state
+    their case.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{remedies}{%
+\paragraph{Remedies}\label{remedies}}
+
+\begin{itemize}
+\tightlist
+\item
+  Reinstatement
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Being given same job back
+  \end{itemize}
+\item
+  Re-engagement
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Being given another comparable/ suitable job with the same/ an
+    associated employer.
+  \end{itemize}
+\item
+  Compensation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Basic award
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Calculated by reference to a statutory formula, including age, pay
+      and length of service.
+    \end{itemize}
+  \item
+    Compensatory award
+
+    \begin{itemize}
+    \tightlist
+    \item
+      A further amount as the tribunal considers just and equitable,
+      considering loss of immediate and future wages etc.
+    \item
+      Maximum of £93,878, excl. fringe benefits.
+    \item
+      Adjusted if either party unreasonably failed to follow ACAS
+      recommended code of discipline and grievance.
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{redundancy}{%
+\subsubsection{Redundancy}\label{redundancy}}
+
+If the employer does not pay a redundancy payment, or the employee
+disputes the calculation, the employee may refer the matter to an
+employment tribunal (within a 6 month time limit).
+
+\hypertarget{conditions}{%
+\paragraph{Conditions}\label{conditions}}
+
+To claim a statutory redundancy payment, an employee must prove:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Dismissal -- actually, constructively or by failure to renew a
+  fixed-term contract
+\item
+  2 years' continuous employment
+\end{enumerate}
+
+This raises a presumption that they have been dismissed for redundancy.
+An employee may be show a reason other than redundancy, but then this
+may lead to a claim for unfair dismissal.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Redundancy}
+\NormalTok{s 139 ERA 1996: redundancy involves either:}
+\NormalTok{1. Complete closedown of the business}
+\NormalTok{2. Partial closedown of the business}
+\NormalTok{3. Overmanning or a change in the type of work undertaken.}
+\end{Highlighting}
+\end{Shaded}
+
+An employee may lose their entitlement if they unreasonably refuse an
+offer of suitable alternative employment.
+
+\hypertarget{overlapping-claims}{%
+\subsubsection{Overlapping Claims}\label{overlapping-claims}}
+
+Multiple claims may be made, depending on the circumstances. If multiple
+claims against the employer are successful: compensation should not be
+awarded for the same loss twice.
+
+\hypertarget{discriminatory-dismissals}{%
+\paragraph{Discriminatory Dismissals}\label{discriminatory-dismissals}}
+
+If an employer unlawfully discriminates when dismissing an employee, the
+employee can claim uncapped compensation, which can include compensation
+for injured feelings.
+
+\hypertarget{settlement-agreements}{%
+\subsubsection{Settlement Agreements}\label{settlement-agreements}}
+
+Many complaints are agreed, usually because the employer pays the
+employee a sum of money.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.9000}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Statute
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Details
+\end{minipage} \\
+\midrule()
+\endhead
+s 203 ERA 1996 & Any provision in an agreement is void so far as it
+seeks to exclude or limit ERA 1996, or to stop someone bringing
+proceedings \\
+s 18 ERA 1996 & Someone can be stopped from bringing proceedings if a
+settlement agreement has been entered into. \\
+\bottomrule()
+\end{longtable}
+
+For a settlement to be binding:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  In writing, identify adviser, relate to complaint and state the
+  relevant statutory conditions are satisfied.
+\item
+  Employee/ worker must have received advice from a relevant independent
+  adviser as to the terms and effects of the proposed agreement.
+\item
+  Must be a contract of insurance or an indemnity provided.
+\end{enumerate}
+
+s 203 ERA 1996: must relate only to the matter in dispute and cannot
+purport to exclude all possible claims.
+
+\end{document}

@@ -1,0 +1,2301 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+
+\newenvironment{env-3b44c50d-4e1d-4123-9050-8dedcab86a0d}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{firebrick}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-1331fea0-f6a9-490d-abd5-c6befd8e7bfb}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{green}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-0f352b19-b6a1-4ac9-bf2a-bb8bde02fe73}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{aquamarine}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-bdb0c8db-783b-4759-8f75-e5414791f120}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{orange}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-ceffa806-b34f-4c58-9e42-a9e2da25850f}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-246868e5-1b14-46c9-8aed-b83e61569202}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{yellow}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-7dee983f-32e5-4156-bbbe-38a2603301dc}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darkred}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-d7dfd3c8-6d94-4eed-a91e-ca5b45830c05}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{pink}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-54374eb3-1bc6-43b0-a970-303ecc8fc079}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-dea8832f-c94c-45f2-8eee-8412fb4b0ef1}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-d3768c7e-89fb-4dd9-8f3d-05734b982232}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{purple}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-978626eb-980e-49c8-816b-1548bf60c3d0}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darksalmon}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-55e08dc8-8a40-49e4-9d74-9e25a9308fa4}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gray}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Directors' Duties},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Directors' Duties}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\hypertarget{duties}{%
+\section{Duties}\label{duties}}
+
+\hypertarget{introduction}{%
+\subsection{Introduction}\label{introduction}}
+
+\hypertarget{pre-ca-2006}{%
+\subsubsection{Pre-CA 2006}\label{pre-ca-2006}}
+
+Directors subject to duties deriving from equitable principles and
+common law rules:
+
+\begin{itemize}
+\tightlist
+\item
+  The fiduciary duties imposed on directors therefore arose out of
+  equitable principles (e.g., acting in good faith).
+\item
+  Directors were also subject to the common law duty of skill and care.
+\end{itemize}
+
+\hypertarget{ca-2006}{%
+\subsubsection{CA 2006}\label{ca-2006}}
+
+New duties: ss 171-181. More than one duty may apply to the directors in
+any one situation (CA 2006, s 179(1)).
+
+\hypertarget{relevance-of-pre-ca-2006-rules}{%
+\subsubsection{Relevance of pre-CA 2006
+Rules}\label{relevance-of-pre-ca-2006-rules}}
+
+Former regime (under common law and equity) still applies to the extent
+not expressly provided for in CA 2006:
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule()
+Section & Rule \\
+\midrule()
+\endhead
+s 170(3) & General duties are based on the old common law rules and
+equitable principles as they apply in relation to directors and have
+effect in place of those rules and principles as regards the duties owed
+to a company by a director. \\
+s 170(4) & New duties shall be interpreted and applied in the same way
+as the common law rules and equitable principles \\
+s 178 & The remedies for breach of the general duties will be the same
+as under the corresponding equitable principles or common law rules. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{who-owes-duties}{%
+\subsubsection{Who Owes Duties?}\label{who-owes-duties}}
+
+Directors. Recall s 250(1): includes any person occupying the position
+of director by whatever name called.
+
+\hypertarget{to-whom}{%
+\subsubsection{To Whom?}\label{to-whom}}
+
+Directors owe their duties to the company (CA 2006, s 170(1)).
+
+\begin{env-55e08dc8-8a40-49e4-9d74-9e25a9308fa4}
+
+Who can take action?
+
+\begin{itemize}
+\tightlist
+\item
+  The company itself (acting through the board of directors) must take
+  action against a director for breach of these duties, as any wrong is
+  committed against the company itself.
+\item
+  In limited circumstances, the shareholders may bring a derivative
+  action on behalf of the company to enforce the company's rights.
+\item
+  Exceptionally, the directors might owe a duty to shareholders as well
+  as to the company where, for example, they agreed to act as agents for
+  the shareholders, or if they assumed responsibility for giving advice
+  to the shareholders on their shareholdings, but this would seem to be
+  relevant only in small family companies (Platt v Platt {[}1999{]} 2
+  BCLC 745)
+\end{itemize}
+
+\end{env-55e08dc8-8a40-49e4-9d74-9e25a9308fa4}
+
+A director may also owe duties to the creditors of their company rather
+than to the shareholders if the company is insolvent or approaching
+insolvency (s 172(3)).
+
+\hypertarget{summary}{%
+\subsubsection{Summary}\label{summary}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule()
+Section & Duty \\
+\midrule()
+\endhead
+s 171 CA 2006 & Duty to act within powers \\
+s 172 CA 2006 & Duty to promote the success of the company for the
+benefit of the members as a whole \\
+s 173 CA 2006 & Duty to exercise independent judgment \\
+s 174 CA 2006 & Duty to exercise reasonable care, skill, and
+diligence \\
+s 175 CA 2006 & Duty to avoid conflicts of interest \\
+s 176 CA 2006 & Duty not to accept benefits from third parties \\
+s 177 CA 2006 & Duty to declare any interest in a proposed
+transaction \\
+\bottomrule()
+\end{longtable}
+
+Note that s 175-177 replace/ supersede equitable duties stated as 'no
+conflict' and 'no profit/ misuse of position' rules. These were
+summarised in the following cases:
+
+\begin{itemize}
+\tightlist
+\item
+  Aberdeen Rly Co v Blaikie Bros {[}1854{]} 1 Macq 61
+\item
+  Bray v Ford {[}1896{]} AC 44
+\end{itemize}
+
+The way in which directors' duties are framed results in an overlap
+between them. s 179 emphasises that the effect of duties is cumulative:
+necessary for directors to comply with every duty which may apply.
+
+Note that s 172 and 175 duties overlap in many cases.
+
+\hypertarget{s-171}{%
+\subsection{S 171}\label{s-171}}
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 171 - Duty to act within powers
+
+A director of a company must---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) act in accordance with the company's constitution, and
+\item
+  (b) only exercise powers for the purposes for which they are
+  conferred.
+\end{itemize}
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+Details:
+
+\begin{enumerate}
+\tightlist
+\item
+  Act in accordance with the company's constitution
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The company's constitution is defined in
+    \href{https://www.legislation.gov.uk/ukpga/2006/46/section/257}{s
+    257 CA 2006} and includes everything set out in the company's
+    articles of association (s 17) and decisions taken in accordance
+    with the articles (i.e., shareholder resolutions).
+  \item
+    A director is in breach of this duty if he acts without authority,
+    e.g. commits the company to borrow more than the articles allow
+    without prior shareholder approval.
+  \end{itemize}
+\item
+  Only exercise powers for the purposes for which they are conferred.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Directors should exercise their powers ``bona fide in what they
+    consider--not what a court may consider--is in the interests of the
+    company, and not for any collateral purpose.'' (Re Smith and Fawcett
+    Ltd. {[}1942{]} Ch 304). This duty codified the \textbf{'proper
+    purposes' doctrine}.
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{proper-purposes-doctrine}{%
+\subsubsection{Proper Purposes
+Doctrine}\label{proper-purposes-doctrine}}
+
+Outlined in relevant case law:
+
+\begin{itemize}
+\tightlist
+\item
+  Hogg v Cramphorn {[}1967{]} Ch 254: whether purpose of a new share
+  issue was malicious
+\item
+  Howard Smith Ltd v Ampol Petroleum Ltd {[}1974{]} AC 821:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If directors exercise their powers for several purposes, then courts
+    will only consider the dominant purpose.
+  \item
+    If the dominant purpose is proper, even if the other purposes are
+    improper, there will be no breach of duty.
+  \item
+    The courts ascertain objective the purpose for which the power was
+    conferred.
+  \end{itemize}
+\item
+  Eclairs Group Ltd v JKX Oil \& Gas plc {[}2015{]} UKSC 71: powers of
+  directors to issue disclosure notice.
+\item
+  Extrasure Travel Insurances Ltd v Scattergood {[}2003{]} 1 BCLC 598:
+  the test of improper purpose is an objective one. See this case for a
+  nice staged test.
+\item
+  Teck Corporation v Millar (1972) 33 DLR (3d) 288: good faith vs proper
+  purposes doctrine
+\end{itemize}
+
+Note the overlap between the duty to promote the success of the company
+(s 172) and the proper purposes' doctrine (s 171). The proper purposes
+doctrine operates to limit the authority of directors, even if their
+action was carried out in what they bona fide believed to be the best
+interests of the company. If the power is exercised primarily for some
+collateral purpose (construed objectively), then the action may be set
+aside.
+
+\hypertarget{s-172}{%
+\subsection{S 172}\label{s-172}}
+
+Success = long-term increase in company's value.
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 172 - Duty to promote the success of the company
+
+(1) A director of a company must act in the way he considers, in good
+faith, would be most likely to promote the success of the company for
+the benefit of its members as a whole, and in doing so have regard
+(amongst other matters) to---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) the likely consequences of any decision in the long term,
+\item
+  (b) the interests of the company's employees,
+\item
+  (c) the need to foster the company's business relationships with
+  suppliers, customers and others,
+\item
+  (d) the impact of the company's operations on the community and the
+  environment,
+\item
+  (e) the desirability of the company maintaining a reputation for high
+  standards of business conduct, and
+\item
+  (f) the need to act fairly as between members of the company.
+\end{itemize}
+
+(2) Where or to the extent that the purposes of the company consist of
+or include purposes other than the benefit of its members, subsection
+(1) has effect as if the reference to promoting the success of the
+company for the benefit of its members were to achieving those purposes.
+
+(3) The duty imposed by this section has effect subject to any enactment
+or rule of law requiring directors, in certain circumstances, to
+consider or act in the interests of creditors of the company.
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+\hypertarget{interpretation}{%
+\subsubsection{Interpretation}\label{interpretation}}
+
+Codifies the long-settled duty of a director to act honestly and in good
+faith, in the best interests of the company.
+
+Lord Greene MR in Re Smith and Fawcett Ltd. {[}1942{]} Ch 304, who
+stated that
+
+\begin{quote}
+``{[}Directors{]} must exercise their discretion \emph{bona fide} in
+what they consider---not what a court may consider---is in the interests
+of the company''.
+\end{quote}
+
+Similarly, in Regentcrest v Cohen {[}2001{]} 2 BCLC 80 it was held that
+the question for the court was not whether a director's actions were
+objectively in the best interests of the company, but whether
+\textbf{subjectively} the director honestly believed they were acting in
+the best interests of the company.
+
+Although the test is \textbf{subjective}, the determination of whether a
+director has complied with s 172 will involve an element of objectivity.
+
+Pennycuick J in Charterbridge Corpn Ltd v Lloyd's Bank Ltd (1970) stated
+that the test for determining this duty is
+
+\begin{quote}
+``whether an intelligent and honest man in the position of a director of
+the company concerned, could, in the whole of the existing
+circumstances, have reasonably believed that the transactions were for
+the benefit of the company.''
+\end{quote}
+
+In Re Southern Counties Fresh Food Ltd (2009), Warren J stated that
+
+\begin{quote}
+``it is accepted that a breach will have occurred if it is established
+that the relevant exercise of power is one which could not be considered
+by any reasonable director to be in the interests of the company''.
+\end{quote}
+
+In Madoff Securities International Ltd v Raven \& Others {[}2013{]} EWHC
+3147, it was stated that a director may legitimately defer to his fellow
+directors' views if he thinks they believe they are acting in the best
+interests of the company, even if he is not himself in agreement.
+
+This test, in practice, makes it very difficult to challenge directors'
+decision-making.
+
+The approach requires directors to recognise that shareholder value for
+the company depends on successful management of relationship with other
+stakeholders. \textbf{Two factors}: directors' good faith and interests
+of company.
+
+'Success' is defined as long term increase in value (s 172(1)(a)) and
+takes into account the effect of the directors' decision-making on the
+members as a whole and the other stakeholders.
+
+\hypertarget{duty-to-creditors}{%
+\subsubsection{Duty to Creditors}\label{duty-to-creditors}}
+
+Where a company is insolvent, duty extends to directors acting in the
+best interests of creditors:
+
+\begin{itemize}
+\tightlist
+\item
+  Item Software (UK) Ltd v Fassihi {[}2004{]} EWCA Civ 1244: in this
+  case it was held that the duty to act bona fide in the interests of
+  the company includes the duty to \textbf{disclose misconduct} by the
+  director to the company.
+\item
+  Re HLC Environmental Projects Ltd {[}2013{]} EWHC 2876 Ch: the court
+  held that a director who \textbf{prefers one creditor to another} by
+  deliberately paying one over the others (here a bank whose debt was
+  guaranteed by the parent company, so as to assist the parent company)
+  may be in breach of the duty to act in the interests of the creditors
+  as a whole.
+\end{itemize}
+
+N.B. if this seems confusing, get even more confused by
+\href{https://usir.salford.ac.uk/id/eprint/3112/1/CA_2006.pdf}{an
+acadmic opinion}.
+
+\hypertarget{s-173}{%
+\subsection{S 173}\label{s-173}}
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 173 - Duty to exercise independent judgment
+
+(1) A director of a company must exercise independent judgment.\\
+(2) This duty is not infringed by his acting --
+
+\begin{itemize}
+\tightlist
+\item
+  (a) in accordance with an agreement duly entered into by the company
+  that restricts the future exercise of discretion by its directors, or
+\item
+  (b) in a way authorised by the company's constitution.
+\end{itemize}
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+Where the board is able to establish that it was in the best interests
+of the company to enter into an agreement which fetters the discretion
+of the directors, this will not be a breach of s 173.
+
+The duty is a restatement of the previous fiduciary duty that a director
+must not fetter their own discretion.
+
+\hypertarget{cases}{%
+\subsubsection{Cases}\label{cases}}
+
+\begin{itemize}
+\tightlist
+\item
+  Fulham Football Club Ltd v Cabra Estates plc {[}1994{]} 1 BCLC 363
+  (Court of Appeal): directors have the right to enter into a contract
+  on behalf of the company that may in future require the directors to
+  act in a particular way, provided it is done in good faith in the
+  interests of the company.
+\item
+  Madoff Securities International Ltd v Raven {[}2013{]} EWHC 3147:
+  directors must be mindful of the individual nature of their duties.
+  Can't be dominated, bamboozled or manipulated.
+\end{itemize}
+
+\hypertarget{s-174}{%
+\subsection{S 174}\label{s-174}}
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 174 - Duty to exercise reasonable care, skill and diligence
+
+(1) A director of a company must exercise reasonable care, skill and
+diligence.\\
+(2) This means the care, skill and diligence that would be exercised by
+a reasonably diligent person with-
+
+\begin{itemize}
+\tightlist
+\item
+  (a) the general knowledge, skill and experience that may reasonably be
+  expected of a person carrying out the functions carried out by the
+  director in relation to the company, and
+\item
+  (b) the general knowledge, skill and experience that the director has.
+\end{itemize}
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+\hypertarget{interpretation-1}{%
+\subsubsection{Interpretation}\label{interpretation-1}}
+
+Codifies the common law duties of care and skill (Gregson v HAE Trustees
+Ltd {[}2008{]} EWHC 1006).
+
+In early cases, the standard expected of directors was subjective, so
+poor directors could escape liability for company losses.
+
+But Donoghue v Stevenson {[}1932{]} AC 562 brought recognition of
+general duty of care and raised standard expected of directors to
+objective/ subjective test. This standard was borrowed on the Wrongful
+trading test used in s 214(4) IA 1986.
+
+\begin{env-d7dfd3c8-6d94-4eed-a91e-ca5b45830c05}
+
+Test
+
+The minimum standard expected of a director is that objectively expected
+of a director in that position, but then this can be subjectively raised
+if a particular director has special knowledge/ skill and experience.
+
+\end{env-d7dfd3c8-6d94-4eed-a91e-ca5b45830c05}
+
+Re D'Jan of London Ltd {[}1994{]} 1 BCLC 561 ChD: director's actions
+will be measured against the conduct expected of a reasonably diligent
+person.
+
+The standard applicable to director of a profitable company will change
+if it experiences financial difficulties (Roberts v Frohlich {[}2011{]}
+EWHC 257 (Ch)).
+
+\hypertarget{delegation}{%
+\subsubsection{Delegation}\label{delegation}}
+
+s 174 shares similarities with cases brought under Company Directors
+Disqualification Act 1986 in relation to delegation.
+
+Principle: directors must be proactive in monitoring actions of
+delegates and other directors, and must keep themselves informed (Re
+Barings plc (No 5) {[}1999{]} 1 BCLC 433).
+
+A director who is completely inactive will be in breach of this duty and
+may be held liable for wrongs committed by the company (Lexi Holdings
+plc (In Administration) v Luqman {[}2009{]} EWCA Civ 117---other
+directors responsible for not realising that one of them was stealing).
+
+But directors able to legitimately defer to the views of a fellow
+director with greater experience when reasonable, and this did not
+breach the duty to exercise independent judgement: Madoff Securities
+International Ltd v Raven {[}2013{]} EWHC 3147.
+
+\hypertarget{contract}{%
+\subsubsection{Contract}\label{contract}}
+
+There will usually also be a term in the director's service contract
+that they will perform their duties with reasonable skill and care. So a
+company can usually also seek damages for breach of contract.
+
+\hypertarget{s-175}{%
+\subsection{S 175}\label{s-175}}
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 175 - Duty to avoid conflicts of interest
+
+(1) A director of a company must avoid a situation in which he has, or
+can have, a direct or indirect interest that conflicts, or possibly may
+conflict, with the interests of the company.
+
+(2) This applies in particular to the exploitation of any property,
+information or opportunity (and it is immaterial whether the company
+could take advantage of the property, information or opportunity).
+
+(3) This duty does not apply to a conflict of interest arising in
+relation to a transaction or arrangement with the company.
+
+(4) This duty is not infringed---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) if the situation cannot reasonably be regarded as likely to give
+  rise to a conflict of interest; or
+\item
+  (b) if the matter has been authorised by the directors.
+\end{itemize}
+
+(5) Authorisation may be given by the directors---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) where the company is a private company and nothing in the
+  company's constitution invalidates such authorisation, by the matter
+  being proposed to and authorised by the directors; or
+\item
+  (b) where the company is a public company and its constitution
+  includes provision enabling the directors to authorise the matter, by
+  the matter being proposed to and authorised by them in accordance with
+  the constitution.
+\end{itemize}
+
+(6) The authorisation is effective only if---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) any requirement as to the quorum at the meeting at which the
+  matter is considered is met without counting the director in question
+  or any other interested director, and
+\item
+  (b) the matter was agreed to without their voting or would have been
+  agreed to if their votes had not been counted.
+\end{itemize}
+
+(7) Any reference in this section to a conflict of interest includes a
+conflict of interest and duty and a conflict of duties.
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+Note that the Explanatory Notes to s 175 comment that the duty under s
+175(4) to (6) is not infringed if
+
+\begin{enumerate}
+\tightlist
+\item
+  The situation cannot reasonably be regarded as likely to give rise to
+  a conflict
+\item
+  Authorisation (in private or public companies) has been given by
+  independent directors (who have no direct or indirect interest).
+\end{enumerate}
+
+\hypertarget{interpretation-2}{%
+\subsubsection{Interpretation}\label{interpretation-2}}
+
+Reasonable man test for what constitutes conflict of interest: Boardman
+v Phipps {[}1967{]} 2 A.C. 46. Note that the point of this was to make
+law more chill, Boardman acknowledged as unfair.
+
+s 175(3) expressly \textbf{excludes} conflicts of interest arising in
+relation to \textbf{transactions or arrangements} with the company;
+these are instead subject to disclosure duties in s 177. Practical rule:
+many directors will have interests in multiple companies.
+
+\hypertarget{corporate-opportunities}{%
+\paragraph{Corporate Opportunities}\label{corporate-opportunities}}
+
+Corporate opportunity viewed as asset which may not be misappropriated
+by the directors:
+
+\begin{itemize}
+\tightlist
+\item
+  Cook v Deeks {[}1916{]} 1 AC 554 (Privy Council)
+\item
+  Regal (Hastings) Ltd v Gulliver {[}1942{]} 1 All ER 378
+\item
+  Bhullar v Bhullar {[}2003{]} EWCA Civ 424 (Court of Appeal)
+\end{itemize}
+
+It is irrelevant that the company could not/ would not have pursued that
+opportunity. If a director makes a personal profit out of their
+position, they are liable to account to the company for this. Principle
+expressly stated in s 175(2).
+
+\hypertarget{resigning-directors}{%
+\paragraph{Resigning Directors}\label{resigning-directors}}
+
+A director cannot resign from a company just to then exploit a corporate
+opportunity, which would otherwise be a breach of s 175.
+
+s 170(2)(a):
+
+\begin{quote}
+``a person who ceases to be a director continues to be subject (a) to
+the duty in section 175 (duty to avoid conflicts of interest) as regards
+the exploitation of any property, information or opportunity of which he
+became aware when he was a director.''
+\end{quote}
+
+But need to consider all the facts to ascertain whether s 175 has been
+breached or not:
+
+\begin{itemize}
+\tightlist
+\item
+  Shepherds Investments Ltd v Walters {[}2006{]} EWHC 836
+\item
+  CMS Dolphin Ltd v Simonet {[}2001{]} EWHC 415
+\item
+  See also Foster Bryant Surveying v Bryant {[}2007{]} EWCA Civ 200, but
+  note this is a pre-CA 2006 case and questionable whether it would be
+  decided the same way today.
+\end{itemize}
+
+In Towers v Premier Waste Management Ltd {[}2012{]} BCC, 72, a director
+borrowed equipment from one of the company's customers for his personal
+interest without disclosing his personal interest to the board. Found to
+have breached s 175 despite no bad faith, no actual conflict and no
+quantifiable loss to the company. Director ordered to pay rental costs
+to the company.
+
+\hypertarget{competing-directorships}{%
+\paragraph{Competing Directorships}\label{competing-directorships}}
+
+A general equitable rule prevents a fiduciary from entering into a
+position which gives rise to conflicting fiduciary duties to another
+person without the informed consent of both principals (Clark Boyce v
+Mouat {[}1994{]} 1 AC 428). Company will need to authorise the conflict
+under the process in s 175(5) and 175(6).
+
+But depends on facts of the case: in In Plus Group Ltd v Pyke {[}2002{]}
+EWCA Civ 370 (Court of Appeal) no breach was fiduciary duty was found.
+
+\hypertarget{consequences}{%
+\subsubsection{Consequences}\label{consequences}}
+
+If a director breaches this duty, they will be obliged to account for
+any profit made unless authorised by the company.
+
+\hypertarget{s-176}{%
+\subsection{S 176}\label{s-176}}
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 176 - Duty not to accept benefits from third parties
+
+(1) A director of a company must not accept a benefit from a third party
+conferred by reason of---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) his being a director, or
+\item
+  (b) his doing (or not doing) anything as director.
+\end{itemize}
+
+(2) A ``third party'' means a person other than the company, an
+associated body corporate or a person acting on behalf of the company or
+an associated body corporate.
+
+(3) Benefits received by a director from a person by whom his services
+(as a director or otherwise) are provided to the company are not
+regarded as conferred by a third party.
+
+(4) This duty is not infringed if the acceptance of the benefit cannot
+reasonably be regarded as likely to give rise to a conflict of interest.
+
+(5) Any reference in this section to a conflict of interest includes a
+conflict of interest and duty and a conflict of duties.
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+\hypertarget{interpretation-3}{%
+\subsubsection{Interpretation}\label{interpretation-3}}
+
+This duty replaces the equitable principle that fiduciaries must not
+accept secret commissions or bribes (Attorney General for Hong Kong v
+Reid {[}1994{]} 1 AC 324). Should be read in conjunction with wider
+no-conflict duty in s 175 CA 2006.
+
+s 176(4) states that duty is not infringed if acceptance of the benefit
+cannot reasonably be regarded as likely to give rise to a conflict of
+interest. ``Benefits'' construed in the ordinary meaning of the word. No
+provision for authorisation by the board here; ratification would need
+to be sought by shareholders under s 239 CA 2006.
+
+Note that in general, this duty is construed widely, since the old
+interpretation was driven by bribes.
+
+Note that this duty is absolute and there is \textbf{no} provision for
+authorisation by the board of directors for such a breach.
+
+\hypertarget{s-177}{%
+\subsection{S 177}\label{s-177}}
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 177 - Duty to declare interest in proposed transaction or arrangement
+
+(1) If a director is in any way, directly or indirectly, interested in a
+proposed transaction or arrangement with the company, he must declare
+the nature and extent of that interest to the other directors.
+
+(2) The declaration may (but need not) be made---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) at a meeting of the directors, or
+\item
+  (b) by notice to the directors in accordance with---
+
+  \begin{itemize}
+  \tightlist
+  \item
+    (i) section 184 (notice in writing), or
+  \item
+    (ii) section 185 (general notice).
+  \end{itemize}
+\end{itemize}
+
+(3) If a declaration of interest under this section proves to be, or
+becomes, inaccurate or incomplete, a further declaration must be made.
+
+(4) Any declaration required by this section must be made before the
+company enters into the transaction or arrangement.
+
+(5) This section does not require a declaration of an interest of which
+the director is not aware or where the director is not aware of the
+transaction or arrangement in question. For this purpose a director is
+treated as being aware of matters of which he ought reasonably to be
+aware.
+
+(6) A director need not declare an interest---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) if it cannot reasonably be regarded as likely to give rise to a
+  conflict of interest;
+\item
+  (b) if, or to the extent that, the other directors are already aware
+  of it (and for this purpose the other directors are treated as aware
+  of anything of which they ought reasonably to be aware); or
+\item
+  (c) if, or to the extent that, it concerns terms of his service
+  contract that have been or are to be considered---
+
+  \begin{itemize}
+  \tightlist
+  \item
+    (i) by a meeting of the directors, or
+  \item
+    (ii) by a committee of the directors appointed for the purpose under
+    the company's constitution.
+  \end{itemize}
+\end{itemize}
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+\hypertarget{aim}{%
+\subsubsection{Aim}\label{aim}}
+
+To ensure that the board of directors (who will act on behalf of the
+company) have full disclosure of a possible conflict of interest before
+deciding whether to enter into the transaction with one of their own
+directors.
+
+\hypertarget{making-declaration}{%
+\subsubsection{Making Declaration}\label{making-declaration}}
+
+\begin{itemize}
+\tightlist
+\item
+  The declaration must be made before the company enters into the
+  contract (CA 2006, s 177(4)).
+\item
+  s 177(2)(a): may be made at a directors' board meeting; or
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Disclosure need not be formally in writing (Lee Panavision Ltd v Lee
+    Lighting Ltd (1992))--orally is fine
+  \end{itemize}
+\item
+  s 177(2)(b)(i): may be made by notice to the directors in writing
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Must comply with the requirements of s 184 of the CA 2006, namely,
+    it must be in paper or electronic form and be sent by hand, post or,
+    if agreed by the recipient, by electronic means to all of the other
+    directors.
+  \end{itemize}
+\item
+  s 177(2)(b)(ii): declaration can be made by general notice.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Should be done if declaration arises repeatedly over time, e.g.,
+
+    \begin{itemize}
+    \tightlist
+    \item
+      s 185(2)(a): if the director of the company has an interest in
+      another company.
+    \item
+      s 185(2)(b): if the director made a general notice regarding the
+      director's connection with a specified person
+    \end{itemize}
+  \item
+    Notice must:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      be given to the other directors at a board meeting or read at the
+      next board meeting after it was given (s 185(4)); and
+    \item
+      (b) state the nature and extent of the director's interest in the
+      company or the nature of his connection with the specified person
+      (s 185(3)).
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+Disclosure need not be formally in writing (Lee Panavision Ltd v Lee
+Lighting Ltd (1992)). Under s 180, if directors comply with duty to
+disclose, the transaction not liable to be set aside (though this is
+subject to other provisions in the company's constitution).
+
+The idea of this section is to invite scrutiny of decisions. Even more
+checks and balances. Note already board authorisation under s 175 CA
+2006.
+
+\hypertarget{impact}{%
+\subsubsection{Impact}\label{impact}}
+
+MA 14(1): the director who made the declaration cannot vote as a
+director regarding the contract, nor form part of the quorum (minimum
+number of directors required) for a board meeting.
+
+\hypertarget{exceptions}{%
+\subsubsection{Exceptions}\label{exceptions}}
+
+See ss 177(5) \& 177(6).
+
+\begin{env-1331fea0-f6a9-490d-abd5-c6befd8e7bfb}
+
+Note
+
+If one of the two exceptions applies and the company has unamended MA,
+the director concerned will still not be able to vote or count in the
+quorum on the matter under discussion as art 14 of the model articles of
+private companies is still applicable.
+
+\end{env-1331fea0-f6a9-490d-abd5-c6befd8e7bfb}
+
+A declaration does not need to be made where there is just one director
+of a company whose articles require only one director.
+
+\hypertarget{s-177-vs-s-182}{%
+\subsection{S 177 Vs S 182}\label{s-177-vs-s-182}}
+
+\href{https://www.legislation.gov.uk/ukpga/2006/46/section/177}{s 177 CA
+2006} places a duty on directors to disclose an interest in a
+\textbf{proposed} transaction with the company.
+\href{https://www.legislation.gov.uk/ukpga/2006/46/section/182}{s 182 CA
+2006} applies to cases where a director has an interest in a transaction
+\textbf{after it has been entered into by the company,} and also
+requires directors to disclose such interests.
+
+Under s 187(1), the requirements under s 182 also apply to shadow
+directors, but with some amendments.
+
+Breach of the duty under s 177 leads to civil consequences under s 178,
+which are the same as for breach of all the other duties (other than s
+174), whereas breach of s 182 leads to criminal sanctions under s 183.
+
+Note that these provisions do not apply to substantial property
+transactions, loans, quasi-loans and credit transactions which require
+the approval of the company's members (ss 190--203).
+
+\hypertarget{remedies-and-liability}{%
+\section{Remedies and Liability}\label{remedies-and-liability}}
+
+Directors' duties are owed to the company and not to shareholders as
+individuals (s 170). But since company inanimate, s 260 CA 2006 allows
+shareholders to bring Derivative claims on behalf of the company where
+the directors have acted in breach of their duties.
+
+\hypertarget{remedies}{%
+\subsection{Remedies}\label{remedies}}
+
+Recall that duties of directors were codified in CA 2006, but remedies
+for breach were not. Just have s 178 saying that:
+
+\begin{itemize}
+\tightlist
+\item
+  Consequences of breach (or threatened breach) of sections 171-177 are
+  \textbf{the same as would apply if the corresponding common law rule
+  or equitable principle applied}.
+\item
+  Duties in those sections (except s 174) are enforceable in the same
+  way as any other fiduciary duty owed to a company by its directors.
+\end{itemize}
+
+Breach of duty to exercise reasonable care, skill, and diligence (s 174)
+is a common law rather than fiduciary duty, so the only remedy for
+breach is damages. Only a failure to make a declaration under s 182 is a
+criminal offence, punishable by fine (s 183(1)).
+
+s 179: more than one of the general duties may apply in any given case.
+So common to sue a director for breach of multiple duties.
+
+Remedial options:
+
+\begin{itemize}
+\tightlist
+\item
+  Account for profits (personal remedy)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Directors held liable to account to the company for profits received
+    from breach of their duties, regardless of whether they acted
+    honestly
+  \item
+    Only profits received as a result of the breach are payable
+  \item
+    In Regal (Hastings) Ltd v Gulliver {[}1942{]} 1 All ER 378 directors
+    bought cinemas and sold them for a personal profit.
+  \item
+    Here suing the director for the physical cash (can't get it back if
+    director bankrupt etc.)
+  \end{itemize}
+\item
+  Account for profits (proprietary remedy)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    'Follow the money': can trace money through to the assets and take
+    those instead.
+  \item
+    Debate in the courts as to whether the director held the profits of
+    their breach of duty on constructive trust for the company or not.
+  \item
+    Settled in FHR European Ventures LLP v Cedar Capital Partners LLC
+    {[}2014{]} UKSC 45 {[}2015{]} AC 250, which held that profits are
+    held on constructive trust in all cases where profits can be
+    identified as an asset capable of being held on constructive trust.
+    (This basically means if profits were invested in shares, entitled
+    to the dividends and stuff too).
+  \item
+    Returning company property.
+  \end{itemize}
+\item
+  Payment of equitable compensation by the directors.
+\item
+  Rescission
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Rescind contract to before contract made, if possible
+  \end{itemize}
+\item
+  Injunction against a director (usually when the breach is threatened).
+\end{itemize}
+
+The aim of these remedies is not to compensate the company for the
+breach of duty by the director, but to confiscate any profit made by the
+director in breach and give it to the company (Murad v Al-Saraj
+{[}2005{]} EWCA Civ 959).
+
+\hypertarget{avoiding-liability}{%
+\subsection{Avoiding Liability}\label{avoiding-liability}}
+
+\hypertarget{prior-authorisation-by-board-ss-175-177}{%
+\subsubsection{Prior Authorisation by Board: Ss 175 \&
+177}\label{prior-authorisation-by-board-ss-175-177}}
+
+Where directors are able to authorise conduct which would otherwise
+constitute a breach of duty under \textbf{s 175 or 177}, the effect is
+that no breach of duty will take place and the transaction is not liable
+to be set aside (no longer voidable) (s 180(1)).
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule()
+Company & s175 authorisation procedure \\
+\midrule()
+\endhead
+Private company & Authorisation may be given provided the company's
+articles do not prevent it. \\
+Public company & Articles must specifically permit the directors to
+authorise the matter. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{prior-authorisation-by-shareholders-s-180}{%
+\subsubsection{Prior Authorisation by Shareholders (s
+180)}\label{prior-authorisation-by-shareholders-s-180}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.legislation.gov.uk/ukpga/2006/46/section/180}{s
+  180(4) CA 2006} allows shareholders to authorise in advance conduct
+  which would otherwise constitute a breach of duty by the directors
+\item
+  Shareholders can authorise breaches of duty or even negligence, but
+  not acts which are unlawful
+\item
+  Sharma v Sharma {[}2013{]} EWCA Civ 1287 (Court of Appeal)
+\end{itemize}
+
+\hypertarget{ratification-by-shareholders-s-239}{%
+\subsubsection{Ratification by Shareholders (s
+239)}\label{ratification-by-shareholders-s-239}}
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 139 - Ratification of acts of directors
+
+(1) This section applies to the ratification by a company of conduct by
+a director amounting to negligence, default, breach of duty or breach of
+trust in relation to the company.
+
+(2) The decision of the company to ratify such conduct must be made by
+resolution of the members of the company.
+
+(3) Where the resolution is proposed as a written resolution neither the
+director (if a member of the company) nor any member connected with him
+is an eligible member.
+
+(4) Where the resolution is proposed at a meeting, it is passed only if
+the necessary majority is obtained disregarding votes in favour of the
+resolution by the director (if a member of the company) and any member
+connected with him.
+
+This does not prevent the director or any such member from attending,
+being counted towards the quorum and taking part in the proceedings at
+any meeting at which the decision is considered.
+
+(5) For the purposes of this section---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) ``conduct'' includes acts and omissions;
+\item
+  (b) ``director'' includes a former director;
+\item
+  (c) a shadow director is treated as a director; and
+\item
+  (d) in section 252 (meaning of ``connected person''), subsection (3)
+  does not apply (exclusion of person who is himself a director).\\
+  ...
+\end{itemize}
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+\begin{itemize}
+\tightlist
+\item
+  The conduct of a director which amounts to breach of duty, negligence,
+  default or breach of trust can be ratified by shareholders
+  (disregarding the votes of directors involved, if also a shareholder,
+  or any connected persons
+  (\href{https://www.legislation.gov.uk/ukpga/2006/46/section/239}{s
+  239(4) CA 2006}))
+\item
+  The company cannot then take any action against the director for the
+  breach.
+\item
+  The voting restrictions do not apply if the matter is decided by
+  unanimous consent (s 239(6)(a)).
+\item
+  Neither approval under s 180 nor ratification under s 239 will be
+  effective unless the decision is honest, bona fide and in the best
+  interests of the company (Madoff Securities International Ltd v Raven
+  {[}2013{]} EWHC 3147).
+\item
+  Ratification is not possible if done unfairly or improperly, or if it
+  is illegal or oppressive towards a minority (North-West Transportation
+  Co Ltd v Beatty (1887) 12 App Cas 589). If there is unfair
+  ratification, an Unfair Prejudice claim could be brought.
+\end{itemize}
+
+\hypertarget{relief-granted-by-court-s-1157}{%
+\subsubsection{Relief Granted by Court (s
+1157)}\label{relief-granted-by-court-s-1157}}
+
+Basically an equity thing.
+\href{https://www.legislation.gov.uk/ukpga/2006/46/section/1157}{s
+1157(1) CA 2006}:
+
+\begin{quote}
+If in proceedings for negligence, default, breach of duty or breach of
+trust against\\
+(a) an officer of the company, or\\
+(b) a person employed by a company as an auditor,\\
+it appears to the court that the officer or person is or may be liable,
+but that he acted honestly and reasonably, and that having regard to all
+the circumstances of the case, he ought fairly to be excused, the court
+may relieve him from his liability on such terms as it thinks fit.
+\end{quote}
+
+The director may apply to court for relief before a claim is made (s
+1157(2)).
+
+\begin{env-d7dfd3c8-6d94-4eed-a91e-ca5b45830c05}
+
+Court granting equitable relief
+
+In Re HLC Environmental Projects Ltd {[}2013{]} EWHC 2876 Ch, a three
+part test was established. Need that the director:
+
+\begin{itemize}
+\tightlist
+\item
+  Acted honestly,
+\item
+  acted reasonably, and
+\item
+  considering the circumstances of case, ought fairly to be excused.
+\end{itemize}
+
+\end{env-d7dfd3c8-6d94-4eed-a91e-ca5b45830c05}
+
+The burden of proving honesty and reasonableness lies on the director.
+It is only if both of these are established that the court needs to
+consider the third element.
+
+Such relief granted in Re D'Jan of London Ltd {[}1994{]} 1 BCLC 561 ChD,
+where it was satisfied that non-disclosure breach was a minor error. But
+in other cases (e.g., Smith v Butler {[}2012{]} EWCA Civ 314),
+application for relief refused.
+
+In Coleman Taymar Ltd v Oakes {[}2001{]} 2 BCLC 249 the court held that
+relief under s 1157 can be granted in relation to a liability to account
+for profits as well as a liability to pay damages. \textbf{Honesty is a
+subjective requirement, whereas reasonableness is objective.}
+
+\hypertarget{insurance}{%
+\subsubsection{Insurance}\label{insurance}}
+
+\href{https://www.legislation.gov.uk/ukpga/2006/46/section/232}{s 232 CA
+2006}: a company cannot exempt a director to any extent from
+\textbf{liability} in negligence, default, breach of duty or breach of
+trust, and any provision that purports to do this will be \textbf{void}.
+
+Companies may provide their directors with:
+
+\begin{itemize}
+\tightlist
+\item
+  Insurance against such liability under s 233
+\item
+  Qualifying third party indemnity provisions under s 234
+\item
+  Qualifying pension scheme indemnity provisions under s 235
+\end{itemize}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule()
+Section breached/to be breached & Approval? & Ratification? &
+Conditions \\
+\midrule()
+\endhead
+s 175 CA 2006 or s 177 CA 2006 & Directors or shareholders can authorise
+(s 180) & Yes, by ordinary resolution (s 239) & Decision must be honest,
+bona fide and in the best interests of the company \\
+Any other breach of duty & Shareholders can authorise (so long as not
+unlawful) & Yes, by ordinary resolution & As above. \\
+Negligence, default or breach of trust & n/a & Yes, by ordinary
+resolution & As above. \\
+\bottomrule()
+\end{longtable}
+
+More Controls on Directors
+
+\hypertarget{directors-liability}{%
+\subsection{Directors' Liability}\label{directors-liability}}
+
+\hypertarget{agency}{%
+\subsubsection{Agency}\label{agency}}
+
+A director is an agent of a company. Contracts are made in the name of
+the company, so directors are not personally liable for breach of
+contract. But liability can arise in two situations:
+
+\begin{enumerate}
+\tightlist
+\item
+  Exceeding actual authority
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If actual authority \textless{} director's actions \textless{}
+    apparent authority, director liable to indemnify company for any
+    loss suffered and to account for any profit.
+  \item
+    But shareholders can ratify breach (s 239)
+  \end{itemize}
+\item
+  Breach of warranty of authority
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Else if apparent authority \textless{} director's actions, director
+    does not bind company, but personally liable to third party on the
+    contract for breach of warranty of authority.
+  \item
+    s 40(2): an outsider dealing with a company is not bound to check on
+    the powers of the directors or of the company.
+  \item
+    s 40(1): as regards an outsider, the power of the directors to bind
+    the company shall not be limited by the company's constitution
+    (provided outsider acting in good faith).
+  \item
+    See Capacity and Authority \textgreater{} Statutory Deemed Authority
+    s 40 CA 2006.
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{torts}{%
+\subsubsection{Torts}\label{torts}}
+
+Any tort committed by the company does not usually give rise to
+liability for the directors, even if they caused the tort to be
+committed (because agency). But there are exceptions, if the director:
+
+\begin{enumerate}
+\tightlist
+\item
+  Commits a tort separate from that of the company (Standard Chartered
+  Bank v Pakistan National Shipping Corporation (No 2) {[}2003{]} 1 All
+  ER 173);
+\item
+  Voluntarily assumes personal responsibility for the tort by creating a
+  special relationship between the director and the third party
+  (Williams v Natural Life Health Foods Ltd {[}1998{]} 1 WLR 830); or
+\item
+  Procures or induces the company to commit a tort where the director
+  acts beyond the director's constitutional role in the company (MCA
+  Records Inc v Charly Records Ltd {[}2003{]} 1 BCLC 93).
+\end{enumerate}
+
+\hypertarget{debts}{%
+\subsubsection{Debts}\label{debts}}
+
+Generally, directors have no liability whatsoever for any debts they
+incur on the company's behalf.
+
+Exceptions:
+
+\begin{enumerate}
+\tightlist
+\item
+  If the director engages in misconduct (Contex Drouzbha v Wiseman and
+  another {[}2007{]} EWCA Civ 120). Punitive liability.
+\item
+  If directors have personally guaranteed a loan to the company and the
+  company defaults under the terms of that loan. Personal contractual
+  liability.
+\end{enumerate}
+
+\hypertarget{failure-to-maintain-company-records}{%
+\subsubsection{Failure to Maintain Company
+Records}\label{failure-to-maintain-company-records}}
+
+\begin{itemize}
+\tightlist
+\item
+  Failure to keep proper company records: those in default (including
+  directors) liable to a fine (s 1135(3)).
+\item
+  Failure to keep proper accounting records: the directors in default
+  (and other officers) may be sentenced to up to two years' imprisonment
+  (s 389).
+\item
+  There are specific offences which will be committed for failure to
+  keep a particular register up to date - more fines.
+\end{itemize}
+
+\hypertarget{financial-records}{%
+\subsubsection{Financial Records}\label{financial-records}}
+
+Liability for failures can be civil or criminal.
+
+\hypertarget{share-capital-transactions}{%
+\subsubsection{Share Capital
+Transactions}\label{share-capital-transactions}}
+
+The directors of a company may be liable for breaches of the statutory
+rules seeking to protect the company's share capital; e.g.,
+
+\begin{itemize}
+\tightlist
+\item
+  if there is prohibited Financial assistance (s 680(1)), or
+\item
+  if a required directors' statement is unreasonably given for a
+  redemption or buy-back of shares out of capital (s 715).
+\item
+  Punishable by up to two years' imprisonment and a fine.
+\end{itemize}
+
+\hypertarget{health-and-safety-breaches}{%
+\subsubsection{Health and Safety
+Breaches}\label{health-and-safety-breaches}}
+
+The directors (and other officers) may be criminally liable for breaches
+of health and safety legislation.
+
+\begin{itemize}
+\tightlist
+\item
+  Where the company's actions have led to the death of an individual
+  (e.g., an employee or a customer) and management failure is to blame,
+  the directors may be prosecuted for the common law offence of gross
+  negligence manslaughter.
+\item
+  The Corporate Manslaughter and Corporate Homicide Act 2007 (CMCHA
+  2007) may be used only against a company--see Liability in tort and
+  crime.
+\end{itemize}
+
+\hypertarget{bribery}{%
+\subsubsection{Bribery}\label{bribery}}
+
+A maximum prison sentence of 10 years and/or an unlimited fine may be
+imposed on directors under the Bribery Act 2010 for four criminal
+offences relating to bribery.
+
+\hypertarget{political-donations}{%
+\subsubsection{Political Donations}\label{political-donations}}
+
+If a company makes a donation to a political party under Part 14 of the
+CA 2006 without shareholder approval (where required), the directors
+will be personally liable under s 369(2) of the Act to reimburse the
+company to the amount of that donation.
+
+\hypertarget{substantial-property-transactions-ss-190-196}{%
+\section{Substantial Property Transactions (ss
+190-196)}\label{substantial-property-transactions-ss-190-196}}
+
+If a director in their personal capacity, or someone "connected" to the
+director, buys something from or sells something to the company, the
+consent of the shareholders by resolution \textsuperscript{{[}1{]}} is
+necessary if the asset being bought or sold is a substantial non-cash
+asset.
+
+\begin{env-246868e5-1b14-46c9-8aed-b83e61569202}
+
+Substantial (s 191)
+
+An asset is a substantial asset in relation to a company if its value:
+
+\begin{itemize}
+\tightlist
+\item
+  Exceeds 10\% of the company's asset value and is more than £5,000, or
+\item
+  Exceeds £100,000
+\end{itemize}
+
+These values should be determined at the date the contract is entered
+into (s 191(5)). The value of a series of contracts will be aggregated
+to determine if the threshold has been met (s 190(5)).
+
+\end{env-246868e5-1b14-46c9-8aed-b83e61569202}
+
+\begin{env-246868e5-1b14-46c9-8aed-b83e61569202}
+
+Non-cash
+
+Any property, or interest in property, other than cash (s 1163). So note
+this inclues property rights (e.g., lease) and security (e.g., mortgage,
+floating charge).
+
+\end{env-246868e5-1b14-46c9-8aed-b83e61569202}
+
+\hypertarget{requirements}{%
+\subsection{Requirements}\label{requirements}}
+
+Must be:
+
+\begin{enumerate}
+\tightlist
+\item
+  an arrangement (also referred to in the CA 2006 at times as a
+  `transaction');
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This will usually involve a contract between the parties, but also
+    covers looser arrangements.
+  \end{itemize}
+\item
+  between the company and:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    one of its directors, or
+  \item
+    a person `connected' with such a director, or
+  \item
+    one of its holding company directors, or
+  \item
+    a person `connected' with a holding company director;
+  \end{itemize}
+\item
+  involving the acquisition of a `non-cash' asset;
+\item
+  that is `substantial'.
+\end{enumerate}
+
+\hypertarget{connected-persons}{%
+\subsection{Connected Persons}\label{connected-persons}}
+
+The definition of ``persons connected with a director'' is set out in s
+252-254 CA 2006. Complicated, but key categories are:
+
+\begin{enumerate}
+\tightlist
+\item
+  Members of director's family:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    spouse or civil partner,
+  \item
+    partner with whom the director lives in an 'enduring family
+    relationship',
+  \item
+    parents,
+  \item
+    children or step-children (s 253),
+  \item
+    partner's children or step-children if they are under 18 and live
+    with the director.
+  \end{itemize}
+\item
+  Companies in which the director (and others connected with them) hold
+  {\(> 20\%\)} of shares (s 254)
+\item
+  Business partner of the director/ those connected with them (s
+  252(2)(d))
+\item
+  Trustees of a trust the beneficiaries of which include the director or
+  those connected with them (s 252(2)(c))
+\end{enumerate}
+
+References to a director above also covers shadow directors (s
+223(1)(b)).
+
+\hypertarget{effect}{%
+\subsection{Effect}\label{effect}}
+
+Shareholder approval must be given either before the transaction is
+entered into, or after, provided that the transaction is made
+conditional on approval being obtained. This can be an ordinary
+resolution at a general meeting or written resolution.
+
+Possible for shareholders to approve the transaction within a reasonable
+time after the event (s 196) but this does not absolve directors of
+potential liability under s 195.
+
+\hypertarget{exceptions-1}{%
+\subsection{Exceptions}\label{exceptions-1}}
+
+Approval by shareholders is not required:
+
+\begin{enumerate}
+\tightlist
+\item
+  Where the company is a wholly-owned subsidiary of another;
+\item
+  A contract between a company and a director in their capacity as a
+  director of the company (s 192(a));
+\item
+  A contract between a holding company and one of its subsidiaries (s
+  192(b)(i));
+\item
+  A contract between two wholly-owned subsidiaries of the same holding
+  company (s 192(b)(ii));
+\item
+  If the company is insolvent and in administration/ liquidation (s
+  193(1)).
+\end{enumerate}
+
+\hypertarget{remedies-1}{%
+\subsubsection{Remedies}\label{remedies-1}}
+
+s 195 sets out the consequences of a substantial property transaction
+being entered into without shareholder approval.
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 195(2)
+
+The arrangement, and any transaction entered into in pursuance of the
+arrangement (whether by the company or any other person), is voidable at
+the instance of the company, unless---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) restitution of any money or other asset that was the subject
+  matter of the arrangement or transaction is no longer possible,
+\item
+  (b) the company has been indemnified in pursuance of this section by
+  any other persons for the loss or damage suffered by it, or
+\item
+  (c) rights acquired in good faith, for value and without actual notice
+  of the contravention by a person who is not a party to the arrangement
+  or transaction would be affected by the avoidance.
+\end{itemize}
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+For the directors involved (and those connected under s 195(4)),
+consequences set out in s195(3). They are liable to account to the
+company for any profits made and to indemnify company for any losses
+incurred.
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 195(3)
+
+Whether or not the arrangement or any such transaction has been avoided,
+each of the persons specified in subsection (4) is liable---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) to account to the company for any gain that he has made directly
+  or indirectly by the arrangement or transaction, and
+\item
+  (b) (jointly and severally with any other person so liable under this
+  section) to indemnify the company for any loss or damage resulting
+  from the arrangement or transaction.
+\end{itemize}
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 195(4)
+
+The persons so liable are---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) any director of the company or of its holding company with whom
+  the company entered into the arrangement in contravention of section
+  190,
+\item
+  (b) any person with whom the company entered into the arrangement in
+  contravention of that section who is connected with a director of the
+  company or of its holding company,
+\item
+  (c) the director of the company or of its holding company with whom
+  any such person is connected, and
+\item
+  (d) any other director of the company who authorised the arrangement
+  or any transaction entered into in pursuance of such an arrangement.
+\end{itemize}
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+MERMAID
+
+\hypertarget{loans-to-directors}{%
+\section{Loans to Directors}\label{loans-to-directors}}
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 197 - Loans to directors: requirement of members' approval
+
+(1) A company may not---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) make a loan to a director of the company or of its holding
+  company, or
+\item
+  (b) give a guarantee or provide security in connection with a loan
+  made by any person to such a director,
+\end{itemize}
+
+unless the transaction has been approved by a resolution of the members
+of the company.
+
+(2) If the director is a director of the company's holding company, the
+transaction must also have been approved by a resolution of the members
+of the holding company.
+
+(3) A resolution approving a transaction to which this section applies
+must not be passed unless a memorandum setting out the matters mentioned
+in subsection (4) is made available to members---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) in the case of a written resolution, by being sent or submitted to
+  every eligible member at or before the time at which the proposed
+  resolution is sent or submitted to him;
+\item
+  (b) in the case of a resolution at a meeting, by being made available
+  for inspection by members of the company both---
+
+  \begin{itemize}
+  \tightlist
+  \item
+    (i) at the company's registered office for not less than 15 days
+    ending with the date of the meeting, and
+  \item
+    (ii) at the meeting itself.
+  \end{itemize}
+\end{itemize}
+
+(4)The matters to be disclosed are---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) the nature of the transaction,
+\item
+  (b) the amount of the loan and the purpose for which it is required,
+  and
+\item
+  (c) the extent of the company's liability under any transaction
+  connected with the loan.
+\end{itemize}
+
+(5)No approval is required under this section on the part of the members
+of a body corporate that---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) is not a UK-registered company, or
+\item
+  (b) is a wholly-owned subsidiary of another body corporate.
+\end{itemize}
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+Company loans to directors, although permitted, may also be subject to
+requirement of shareholder approval by ordinary resolution. Before
+shareholders can be asked to approve a loan to a director (or a director
+of a holding company) they must be given information about nature of
+transaction, amount of loan, purpose of loan and company's liability (s
+197(4) in the form of a memorandum
+(\href{https://www.legislation.gov.uk/ukpga/2006/46/section/197}{s
+197(3) CA 2006}).
+
+Approval is also needed when the loan/ security arrangements are entered
+into with a person connected with a director and the company is a public
+company/ company associated with a public company (ss 198201).
+
+Shareholders can approve the transaction after the event (s 214) but
+does not absolve directors of potential liability under s 213.
+
+``Loan'' only defined through the case law: in Champagne Perrier-Jouet
+SA v HH Finch Ltd {[}1982{]} 1 WLR 1359 held to mean ``a sum of money
+lent for a period of time, to be returned in money or money's worth''.
+
+Loan vs remuneration: Currencies Direct Ltd v Ellis {[}2003{]} BCLC 482,
+CA.
+
+\hypertarget{quasi-loans-and-credit-transactions}{%
+\subsection{Quasi-loans and Credit
+Transactions}\label{quasi-loans-and-credit-transactions}}
+
+\begin{env-246868e5-1b14-46c9-8aed-b83e61569202}
+
+Quasi-loan
+
+Arises where the company meets some financial obligation of the director
+on the understanding that the director will reimburse it later (s
+199(1)).
+
+\end{env-246868e5-1b14-46c9-8aed-b83e61569202}
+
+\begin{env-246868e5-1b14-46c9-8aed-b83e61569202}
+
+Credit transaction
+
+The company provides the director with goods or services and the
+director pays the company for these in instalments over time.
+
+\end{env-246868e5-1b14-46c9-8aed-b83e61569202}
+
+For a public company, or a company associated with a public company,
+prior shareholder approval is needed before entering into either a
+quasi-loan (s 198(3)) or credit transaction (s 201(3)). The restrictions
+extend to where these arrangements are made to a connected person of a
+public company or a company associated with a public company (CA 2006,
+ss 200(2) and 201(2)).
+
+\hypertarget{exceptions-2}{%
+\subsubsection{Exceptions}\label{exceptions-2}}
+
+Exceptions to the requirement for shareholder approval:
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule()
+Section of CA 2006 & Rule \\
+\midrule()
+\endhead
+s 204 & Expenditure on company business ({\(\leq \pounds 50,000\)}) \\
+s 205 & Loans for defending proceedings brought against a director \\
+s 206 & Loans for defending regulatory actions or investigations \\
+s 207 & Minor and business transactions---loans
+{\(\leq \pounds 10,000\)} do not require shareholder approval \\
+s 208 & Intra group transactions \\
+s 209 & Money lending companies (where loan is made in the ordinary
+course of business for the company) \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{remedies-s-213}{%
+\subsubsection{Remedies (s 213)}\label{remedies-s-213}}
+
+In relation to transaction, the arrangement is voidable at the instance
+of the company, subject to certain exceptions:
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 213(2)
+
+The transaction or arrangement is voidable at the instance of the
+company, unless---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) restitution of any money or other asset that was the subject
+  matter of the transaction or arrangement is no longer possible,
+\item
+  (b) the company has been indemnified for any loss or damage resulting
+  from the transaction or arrangement, or
+\item
+  (c) rights acquired in good faith, for value and without actual notice
+  of the contravention by a person who is not a party to the transaction
+  or arrangement would be affected by the avoidance.
+\end{itemize}
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+Directors involved (and those connected) liable to account to the
+company for any profits made and to indemnify the company for any loss
+incurred. It is possible for shareholders to ratify the failure to
+obtain shareholder approval (s 214).
+
+\hypertarget{service-contracts-ss-188-189}{%
+\subsubsection{Service Contracts (ss
+188-189)}\label{service-contracts-ss-188-189}}
+
+An executive director is an employee of the company, so should be given
+a written employment contract --- a service contract. No automatic
+entitlement for directors to be paid for services.
+
+\begin{itemize}
+\tightlist
+\item
+  Company must keep copy of directors' service contracts/ memoranda of
+  the terms
+  (\href{https://www.legislation.gov.uk/ukpga/2006/46/section/228}{s 228
+  CA 2006}).
+\item
+  Shareholders have right to inspect copies of directors' service
+  contracts/ memoranda
+  (\href{https://www.legislation.gov.uk/ukpga/2006/46/section/229}{s 229
+  CA 2006}), must be provided within 7 days of request.
+\end{itemize}
+
+\hypertarget{long-term-service-contracts}{%
+\paragraph{Long Term Service
+Contracts}\label{long-term-service-contracts}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.gov.uk/government/publications/model-articles-for-private-companies-limited-by-shares/model-articles-for-private-companies-limited-by-shares\#remuneration}{Art
+  19 MA} means that terms of an individual director's service contract
+  are for the board to determine. Only requires approval of resolution
+  of board of directors, though shareholder approval required
+  (\href{https://www.legislation.gov.uk/ukpga/2006/46/section/188}{s 188
+  CA 2006}) to enter long-term service contracts (where service contract
+  has guaranteed term which is or may be \textgreater{} 2 years).
+\item
+  If shareholder approval not given, term incorporated into service
+  agreement \textbf{void} under s 189(a) CA 2006. Additionally, under s
+  189(b) CA 2006, the service contract will be deemed to contain a term
+  entitling company to terminate the contract at any time, by giving
+  reasonable notice.
+\end{itemize}
+
+\hypertarget{payments-for-loss-of-office-ss-215-222}{%
+\subsubsection{Payments for Loss of Office (ss
+215-222)}\label{payments-for-loss-of-office-ss-215-222}}
+
+s 217: any payment for loss of office to a director needs to be approved
+by shareholders by way of an ordinary resolution.
+
+\begin{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+s 217 - Payment by company: requirement of members' approval
+
+(1) A company may not make a payment for loss of office to a director of
+the company unless the payment has been approved by a resolution of the
+members of the company.
+
+(2) A company may not make a payment for loss of office to a director of
+its holding company unless the payment has been approved by a resolution
+of the members of each of those companies.
+
+(3) A resolution approving a payment to which this section applies must
+not be passed unless a memorandum setting out particulars of the
+proposed payment (including its amount) is made available to the members
+of the company whose approval is sought---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) in the case of a written resolution, by being sent or submitted to
+  every eligible member at or before the time at which the proposed
+  resolution is sent or submitted to him;
+\item
+  (b) in the case of a resolution at a meeting, by being made available
+  for inspection by the members both---
+
+  \begin{itemize}
+  \tightlist
+  \item
+    (i) at the company's registered office for not less than 15 days
+    ending with the date of the meeting, and
+  \item
+    (ii) at the meeting itself.
+  \end{itemize}
+\end{itemize}
+
+(4) No approval is required under this section on the part of the
+members of a body corporate that---
+
+\begin{itemize}
+\tightlist
+\item
+  (a) is not a UK-registered company, or
+\item
+  (b) is a wholly-owned subsidiary of another body corporate.
+\end{itemize}
+
+\end{env-136e818f-6bd8-45c9-b7d8-e6b8925f9e62}
+
+Two exceptions:
+
+\begin{enumerate}
+\tightlist
+\item
+  When the payment is made in good faith (s 220)
+
+  \begin{enumerate}
+  \tightlist
+  \item
+    In discharge of an existing legal obligation
+  \item
+    By way of damages for breach of such an obligation
+  \item
+    By way of settlement or compromise of a claim arising in connection
+    with the termination of a person's office or employment
+  \item
+    By way of pension in respect of past services
+  \end{enumerate}
+\item
+  When the payment is less than £200 (s 221)
+\end{enumerate}
+
+If no shareholder approval obtained, the director holds payment on trust
+for the company (s 222), and any director authorising payment is jointly
+and severally liable to the company for any resulting loss.
+
+\hypertarget{summary-1}{%
+\subsection{Summary}\label{summary-1}}
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule()
+& Substantial property transaction & Loan to directors ltd & Loan to
+directors plc & Termination payment & Long-term service contract \\
+\midrule()
+\endhead
+Documents must be circulated to shareholders with the written resolution
+or made available at/ before GM & N & Y & Y & Y & Y \\
+Transaction void/ voidable if not properly approved & Y & Y & Y & N &
+N \\
+Director concerned and other directors who approved the transaction are
+liable to the company if it is not properly approved & Y & Y & Y & Y &
+N \\
+Rules also apply to transactions involving connected persons & Y & N & Y
+& Y & N \\
+Shareholders of a wholly owned subsidiary don't have to pass a
+resolution & Y & Y & Y & Y & Y \\
+\bottomrule()
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{enumerate}
+\tightlist
+\item
+  \protect\hypertarget{fn-1-ded2dac9c9f91efc}{}{Strictly, Article 190
+  doesn't specify resolution required, so by s 281(3) can pass an
+  ordinary resolution}
+\end{enumerate}
+
+\end{document}

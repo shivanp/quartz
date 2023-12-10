@@ -1,0 +1,12 @@
+---
+aliases: 
+tags: 
+date created: Sunday, December 10th 2023, 12:02:32 am
+date modified: Sunday, December 10th 2023, 12:39:17 am
+---
+
+# Pugh v Savage [1970] 2 QB 373
+
+On a claim by X to a right of way by prescription a tenancy, granted to Y, of the servient tenement will not prevent the prescription period from running if such tenancy commenced after the beginning of such period. Per Cross and Harman,L.J.J.: County Court pleadings ought not to be judged according to the standards of the Chancery Division in bygone days. In 1966 A gave particulars of a claim to an easement of way alleging a prescriptive right exercised for the last 30 years. From the beginning of such period (1936), and even before, until 1940 the servient tenement had been occupied by an owner in fee; from 1940 until 1950 it had been subject to a tenancy granted to a third party; from 1950 occupation had again been enjoyed by an owner in fee, B. B blocked the track along which A claimed his right of way; A thereupon deviated from such path and used other routes across B's land. B sued A for damages for trespass and claimed an injunction; A counterclaimed for a declaration that he had a right of way along the path and for damages. The county court judge held that the existence of the tenancy "invaded the prescriptive period" so as to prevent prescription during such tenancy.
+
+Held, (1) that A was not confined on the pleadings to prescription under the [Prescription Act 1832](https://uk.westlaw.com/Document/I612F2980E42311DAA7CF8F68F6EE57AB/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=09863bab8f1e40c991c009be29be9b04&contextData=(sc.Default)) , (2) that A's appeal be allowed as to the injunction inasmuch as the tenancy did not prevent prescription; but (3) that B could be entitled to damages and (4) that the matter be referred to the judge as to damages on the claim and counterclaim. ( _[Cross v Lewis 107 E.R. 538, [1824] 1 WLUK 229](https://uk.westlaw.com/Document/IE45D5D00E57111DAB242AFEA6182DD7E/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=09863bab8f1e40c991c009be29be9b04&contextData=(sc.Default))_ applied and _Palk v Shinner (1852) 18 L.J. Q.B. 568, [1852] 1 WLUK 4_ applied; _[Damper v Bassett [1901] 2 Ch. 350, [1901] 5 WLUK 71](https://uk.westlaw.com/Document/I940D2D80E42711DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=09863bab8f1e40c991c009be29be9b04&contextData=(sc.Default))_ considered).

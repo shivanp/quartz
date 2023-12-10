@@ -1,0 +1,18 @@
+---
+aliases: 
+tags: 
+date created: Sunday, December 10th 2023, 12:02:26 am
+date modified: Sunday, December 10th 2023, 12:40:33 am
+---
+
+# Waters v Commissioner of Police for the Metropolis [2000] UKHL 50
+
+## Summary
+
+A police officer, W, appealed against the striking out of her claim against CPM for negligence arising from an alleged failure to prevent, or investigate, bullying and sexual assault by colleagues. W contended that she had been intimidated by other police officers following her report of being raped by a fellow officer and that no adequate steps had been taken to investigate the rape complaint. The court held that it would be inappropriate to strike out a claim in the developing area of law relating to the liability in negligence of public authorities and, whilst W's prospects of establishing vicarious liability were much weaker than her case on breach of personal duty, this was not a case where the likelihood of failure was plain and obvious.
+
+## Abstract
+
+W, a police officer, appealed against a decision ([1997] I.C.R. 1073) dismissing her appeal against the EAT's decision ([1995] I.C.R. 510) upholding the decision to strike out her statement of claim that the Commissioner of Police of the Metropolis had negligently failed to prevent her being victimised by fellow officers. W, who had joined the force in 1988, alleged that she had been sexually assaulted by a fellow officer whilst staying at police residential accommodation. Although the alleged assault took place whilst W and the officer concerned were off duty, W complained to the reporting sergeant and other officers, but no action was taken. In addition, W argued that she had been totally ignored and reviled by fellow officers for making a complaint of sexual assault. In her statement of claim, W asserted that the Commissioner, as her employer, had been in breach of his duty to her in negligently failing to deal with the complaints properly.
+
+Held, allowing the appeal, that the statement of claim by W had raised an arguable case that should not have been struck out. The existence of a separate procedure under the [Police (Discipline) Regulations 1985](https://uk.westlaw.com/Document/I7E7E0FB1E42311DAA7CF8F68F6EE57AB/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=81bdcce383144550891790546e7470fd&contextData=(sc.Default)) did not rule out the possibility of a negligence claim being made. Where an employer knew that acts being done by some employees might cause physical or mental harm to another employee but did nothing to prevent such occurrences, it was arguable that such an employer was in breach of his personal duty to protect the victimised employee. Moreover, although as a matter of public policy the police could not be sued for negligence during the investigation of crime, W's complaints were much wider than just the complaint of assault and she was not suing as a member of the public _[Hill v Chief Constable of West Yorkshire [1989] A.C. 53, [1988] 4 WLUK 228](https://uk.westlaw.com/Document/IC049A400E42711DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=81bdcce383144550891790546e7470fd&contextData=(sc.Default))_, _[Calveley v Chief Constable of Merseyside [1989] A.C. 1228, [1989] 3 WLUK 222](https://uk.westlaw.com/Document/I80E6FC90E42711DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=81bdcce383144550891790546e7470fd&contextData=(sc.Default))_ distinguished. Furthermore, it was in the public interest that such complaints were effectively dealt with so that women were not discouraged from joining the police force.

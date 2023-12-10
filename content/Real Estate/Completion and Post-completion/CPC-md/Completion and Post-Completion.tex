@@ -1,0 +1,1445 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\newenvironment{Shaded}{}{}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+
+\newenvironment{env-39e5dfc8-f024-4536-bd9d-ea4734521a6a}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{firebrick}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-3993b1ce-acc7-4fb6-8d68-4b3fa6ebf093}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-f0ecac1e-6b61-44f6-9c26-f17b8c17158c}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{green}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-2d8756f7-d24d-466f-858f-f6b933c94c5a}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{aquamarine}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-1a7ddd1e-a3d6-4bff-aa6c-99288903289c}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{orange}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-aabff0e3-bb4a-4457-b2fa-75d5f90e2076}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gold}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-cb9d11d1-d966-4e66-a76b-643fd8254216}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darkred}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-3e26a22d-f577-4961-99af-29b2c72110db}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{pink}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-d544c8f2-55e1-4371-801b-61a3230b4066}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-8c7cc46b-68c9-4783-90ed-b77280436161}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-4827461a-7e8c-472b-a1d4-2da344959d1d}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{purple}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-5b3ea11a-f9cc-475d-845b-f977033981b5}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darksalmon}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-4578ed73-f7f6-43c8-b294-1d16097c7d6a}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gray}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{min\_depth: 1}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{completion}{%
+\section{Completion}\label{completion}}
+
+\hypertarget{effect}{%
+\subsection{Effect}\label{effect}}
+
+For registered land, title does not pass to the buyer until the buyer
+becomes registered at the Land Registry as proprietor of the land. On
+completion, the contract merges with the transfer deed in so far as the
+contract and transfer deed cover the same ground.
+
+So generally it is not possible to bring a claim arising out of one of
+the terms of the contract unless the provision has been expressly
+preserved by a term of the contract. Contract usually contains a
+non-merger clause (SCPC 10.4) preserving the right to sue on the
+contract even though completion has taken place.
+
+\hypertarget{date-of-completion}{%
+\subsection{Date of Completion}\label{date-of-completion}}
+
+Agreed between the parties' solicitors shortly before exchange of
+contracts. May have to be synchronised in a chain.
+
+\hypertarget{standard-conditions}{%
+\subsubsection{Standard Conditions}\label{standard-conditions}}
+
+SCPC 9.1: in the absence of express agreement, completion takes place on
+the 20th working day after exchange. Time is not ``of the essence'' (so
+the completion date is just a warranty, not a condition). Breach of the
+completion date will activate the compensation provisions in SCPC 10.3.
+
+Very unusual to make time of the essence (e.g., what if there is a
+postal delay).
+
+\hypertarget{time-of-completion}{%
+\subsection{Time of Completion}\label{time-of-completion}}
+
+In a linked sale and purchase, the sale must be completed before the
+purchase (so there are sufficient funds), and there must be a sufficient
+interval between the two to allow the money received from the sale to be
+transferred to and used in the purchase transaction. Generally,
+everything should happen between 10am and 3pm because of restrictions on
+banking hours. Completion time later than 2.30pm inadvisable.
+
+\hypertarget{standard-conditions-1}{%
+\subsubsection{Standard Conditions}\label{standard-conditions-1}}
+
+SCPC 9.12: if completion does not take place by 2pm on the day of
+completion, interest for late completion becomes payable (completion
+deemed to have taken place on the next working day). Noncompliance with
+this condition is a deemed late completion which invokes the
+compensation provisions of SCPC 10.3, requiring payment of compensation
+at the contractual interest rate for the delay.
+
+SCPC 9.1.2 does not apply where sale is with vacant possession and the
+seller has not vacated the property by 2pm on the day of actual
+completion.
+
+\hypertarget{place-of-completion}{%
+\subsection{Place of Completion}\label{place-of-completion}}
+
+SCPC 9.2: completion is to take place in England and Wales, either at
+the seller's solicitor's office or at some other place which the seller
+reasonably specifies. If not at the seller's solicitor's office, give
+buyer's solicitor sufficient notice. For a chain transaction, might be
+helpful to have all the solicitors meet at one place.
+
+Completion can be effected by post, which is especially common in
+residential transactions, using Law Society's Code for Completion by
+Post.
+
+\hypertarget{money}{%
+\subsection{Money}\label{money}}
+
+\hypertarget{method-of-payment}{%
+\subsubsection{Method of Payment}\label{method-of-payment}}
+
+SCPC 9.7: payment is to be made only by a direct transfer of cleared
+funds and an unconditional release of a deposit held by a stakeholder.
+
+Electronic bank transfer known as ``telegraphic transfer''. The seller's
+bank should be asked to phone the seller's solicitor to inform them of
+the receipt of the funds immediately on arrival.
+
+\begin{itemize}
+\tightlist
+\item
+  Cleared funds
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Payment of completion money should only be made from cleared funds
+    in client account. Recall solicitor's accounts.
+  \end{itemize}
+\item
+  Discharge of seller's mortgage
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Often discharged immediately after completion by sending part of the
+    proceeds of sale to the lender's solicitor/ having lender's
+    solicitor receive the full sum, and transferring the balance.
+  \end{itemize}
+\item
+  Release of deposit
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If held as stakeholder, the buyer's solicitor should provide the
+    seller's solicitor with a written release addressed to the
+    stakeholder, authorising payment of the deposit to the seller.
+  \item
+    If held by the seller's solicitor as stakeholder, no written release
+    needed.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{completion-in-person}{%
+\subsection{Completion in Person}\label{completion-in-person}}
+
+Process:
+
+\begin{itemize}
+\tightlist
+\item
+  Appointment for completion fixed
+\item
+  Balance of purchase price transferred to seller's solicitor.
+\item
+  Take to completion:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Contract
+  \item
+    Evidence of title
+  \item
+    Copy of approved draft transfer deed and any other document to be
+    executed by the seller
+  \item
+    Replies to the Request for Completion Information
+  \item
+    Completion checklist and completion statement.
+  \item
+    Any documents to be handed over to the seller's solicitor on
+    completion.
+  \end{itemize}
+\item
+  Title documents
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Planning consents, building regulation approvals and indemnity
+    insurance policies in relation to title defects
+  \end{itemize}
+\item
+  Transfer deed
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Should be dated at completion after being checked by the buyer's
+    solicitor.
+  \end{itemize}
+\item
+  Schedule of deeds and documents
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Two copies prepared, one to be signed by the seller's solicitor.
+  \end{itemize}
+\item
+  Inspection of receipts
+
+  \begin{itemize}
+  \tightlist
+  \item
+    May be necessary to inspect receipts, e.g., for utility bills to be
+    apportioned.\\
+  \end{itemize}
+\item
+  Chattels
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Receipt of money paid for the items signed by seller's solicitor and
+    handed to buyer's solicitor.
+  \end{itemize}
+\item
+  Discharge of seller's mortgage
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Will have been agreed between parties at the Request for Completion
+    Information stage.
+  \item
+    If the mortgage is a first mortgage of a property, parties may have
+    agreed to permit the seller to discharge the mortgage after actual
+    completion.
+  \item
+    Seller's lender's solicitor should hand buyer's solicitor on
+    completion an undertaking (Law Society wording) to discharge the
+    mortgage and forward Form DS1 to the buyer's solicitor as soon as it
+    is received from the lender.
+  \item
+    Undertaking should only be accepted from a solicitor or licenced
+    conveyor.
+  \end{itemize}
+\end{itemize}
+
+Law Society wording:
+
+\begin{quote}
+In consideration of you today completing the purchase of {[}insert
+description of property{]} we hereby undertake forthwith to pay over to
+{[}insert name of lender{]} the money required to discharge the
+mortgage/legal charge dated {[}insert date of charge{]} and to forward
+the receipted mortgage/Form DS1 to you as soon as it is received by us
+from {[}insert name of lender{]}.
+\end{quote}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Above wording should be amended if ED or e{-}DS1 system is used. }
+\end{Highlighting}
+\end{Shaded}
+
+Although acceptance of such an undertaking is not entirely risk-free, it
+is not negligent to rely on such undertakings except in ``exceptional
+circumstances'' ({[}{[}Pat el v Daybells\\
+{[}2001{]} EWCA Civ 1229{]}{]}).
+
+\hypertarget{clls-protocol}{%
+\subsubsection{CLLS Protocol}\label{clls-protocol}}
+
+Intended for use in commercial property transactions and high value
+residential transactions where the seller's lenders will be releasing
+the property from its charge and the buyer has a lender taking a first
+legal charge over the property.
+
+Prior to completion,
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  DS1 executed by the outgoing lender to be obtained and held undated by
+  either the seller's solicitors or the outgoing lender's solicitors.
+\item
+  Undertaking to be given by the seller's solicitors to the seller's
+  lender's solicitors to forward the funds needed to redeem the mortgage
+  immediately after completion. The amount needed to redeem the mortgage
+  will have been agreed with the seller's lender's solicitors.
+\end{enumerate}
+
+At completion, the buyer's solicitors would release the completion
+monies to the seller, and the seller's solicitors (or seller's lender's
+solicitors) would release the DS1 to the buyer. The seller's solicitors
+can then redeem the seller's mortgage using the completion monies, and
+the buyer's solicitors (if in personal attendance) are immediately in
+receipt of the DS1.
+
+BEFORE:
+
+MERMAID1
+
+AFTER:
+
+MERMAID2
+
+\hypertarget{copy-documents}{%
+\subsubsection{Copy Documents}\label{copy-documents}}
+
+There are cases in which the buyer is entitled to have only a copy of a
+document relating to the seller's title (e.g., purchases from PRs, who
+are entitled to retain the original grant). Buyer's solicitor should
+check the copy is the same as the original, and then mark it as such. If
+a certified copy is needed, ask the solicitor to write:
+
+\begin{quote}
+I certify this to be a true copy of the {[}insert type of document{]}
+dated {[}insert date of document being certified{]} signed {[}signature
+of solicitor{]} and dated {[}insert date of certification{]}.
+\end{quote}
+
+\hypertarget{postal-completion}{%
+\subsection{Postal Completion}\label{postal-completion}}
+
+\hypertarget{law-societys-code-for-completion-by-post}{%
+\subsubsection{Law Society's Code for Completion by
+Post}\label{law-societys-code-for-completion-by-post}}
+
+Any variations should be agreed in writing before completion. Written
+instructions should be sent from the buyer's solicitor to the seller's
+solicitor. Money sent by electronic transfer to arrive in time for
+completion at the agreed time.
+
+Seller's solicitor will act as the buyer's solicitor's \textbf{agent}
+for the purposes of carrying out the completion procedure. Seller's
+solicitor must carry out the buyer's instructions and effect completion
+on his behalf. Immediately phone or email the buyer's solicitor to tell
+them completion has taken place, and post documents which the buyer is
+entitled to receive on completion to the buyer (first-class/ DX).
+
+\hypertarget{telephone-completion}{%
+\subsection{Telephone Completion}\label{telephone-completion}}
+
+CLLS Protocol can be adopted, or partly adopted by the parties.
+
+\begin{itemize}
+\tightlist
+\item
+  Executed DS1 will already be held by the seller's solicitors (or the
+  solicitors of their lender) by the time of completion.
+\item
+  DS1 released to buyer in return for the release of completion monies
+  (sent in advance to the seller's solicitor and held to the order of
+  the buyer's solicitor).
+\item
+  Parties agree to date all relevant documentation during phone calls.
+\item
+  Seller's solicitor undertakes to send TR1, title deeds and DS1 to
+  buyer's solicitor.
+\end{itemize}
+
+\hypertarget{lenders-requirements}{%
+\subsection{Lender's Requirements}\label{lenders-requirements}}
+
+If the buyer's solicitor is acting for the buyer's lender, they should
+check the lender's requirements for completion when preparing checklist
+and making arrangements for completion.
+
+\hypertarget{after-completion}{%
+\section{After Completion}\label{after-completion}}
+
+Contact the client asap after completion to inform of the success of the
+transaction.
+
+\hypertarget{acting-for-seller}{%
+\subsection{Acting for Seller}\label{acting-for-seller}}
+
+\begin{itemize}
+\tightlist
+\item
+  Contact buyer's solicitor to inform them that completion has taken
+  place.
+\item
+  Contact estate agent and ask for release of property keys
+\item
+  Send transfer deed, title deeds and other documents to buyer's
+  solicitor by first-class post or DX
+\item
+  Deal with proceeds of sale.
+\item
+  Discharge seller's mortgage.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Either discharge by electronic transfer or sending client account
+    cheque for the amount required to the lender.
+  \item
+    If CLLS Protocol not used, engrossment of Form DS1 requesting the
+    lender to discharge the mortgage and return receipted Form DS1 must
+    be sent.
+  \item
+    Reassign the benefit of any life insurance policy which was assigned
+    to the lender as collateral.
+  \item
+    Lender insuring the property should be told to cancel the property
+    insurance cover.
+  \item
+    If ED or e-DS1 system used, notification of discharge will be sent
+    directly by the lender to Land Registry.
+  \end{itemize}
+\item
+  Bill client
+\item
+  Letter to client, reminding them to notify local authority and water
+  company of change of ownership, to cancel insurance over the property
+  and about CGT liability (if applicable).
+\item
+  Custody deeds, if any remain
+\item
+  Check file.
+\end{itemize}
+
+\hypertarget{acting-for-buyer}{%
+\subsection{Acting for Buyer}\label{acting-for-buyer}}
+
+\begin{itemize}
+\tightlist
+\item
+  Complete mortgage deed by insertion of date and other info
+\item
+  Complete file copies of documents
+\item
+  Pay SDLT
+\item
+  Account for bridging finance
+\item
+  Send bill to client
+\item
+  Discharged mortgage -- check Form DS1, acknowledge receipt and release
+  sender from undertaking given on completion.
+\item
+  Make copies of documents of which Land Registry requires copies.
+\item
+  Register title: Form AP1 within relevant priority period (land already
+  registered) or Form FR1 within 2 months of completion (first
+  registration).
+\item
+  Register company charges
+
+  \begin{itemize}
+  \tightlist
+  \item
+    At Companies House within 21 days of creation.
+  \item
+    Fee payable, attach certified copy of mortgage deed and s 859D
+    statement of particulars in Form MR01.
+  \item
+    Companies Act registration of charges separate and additional to
+    Land Registry registration.
+  \end{itemize}
+\item
+  Diary entry for registration to be effected.
+\item
+  Discharge entries protecting the contract
+\item
+  Check register entries once the transaction has been registered.
+\item
+  Custody of deeds
+
+  \begin{itemize}
+  \tightlist
+  \item
+    e.g., planning consents, building regulation approvals, defective
+    title insurance policies, guarantees for building work.
+  \item
+    If there is a mortgage, the lender is entitled to these.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{lenders-solicitor}{%
+\subsection{Lender's Solicitor}\label{lenders-solicitor}}
+
+Where a separate solicitor has been instructed to act for the buyer's
+lender, the lender's solicitor will normally have taken custody of the
+transfer deed and other title deeds on completion, and they will deal
+with the stamping and registration of the documents instead of the
+buyer's solicitor.
+
+\hypertarget{undertakings}{%
+\subsection{Undertakings}\label{undertakings}}
+
+Once performed, formally ask the recipient to release the giver from the
+undertaking, so the giver has written evidence of the fulfilment of the
+undertaking.
+
+\hypertarget{sdlt-returns}{%
+\subsection{SDLT Returns}\label{sdlt-returns}}
+
+SDLT payable to HMRC within 14 days of completion. Payable on the value
+of land, not chattels. Buyer personally responsible for completing the
+tax return, but normally completed by the buyer's solicitor. SDLT return
+must be completed for most transactions even if SDLT not actually
+payable.
+
+Form SDLT1 (if sent by post) must be signed personally by the buyer.
+HMRC will issue Form SDLT 5 to prove the return has been submitted and
+any tax paid. Without SDLT 5, transaction will not be accepted for
+registration on the Land Register.
+
+Most returns submitted online. Solicitor must certify that SDLT return
+has been approved by the buyer. Sensible to get this in writing.
+
+\hypertarget{registration-of-title}{%
+\subsection{Registration of Title}\label{registration-of-title}}
+
+\begin{itemize}
+\tightlist
+\item
+  Failure to make an application for first registration within \textbf{2
+  months} of completion results in transfer of the legal estate becoming
+  void.
+\item
+  Failure to make an application for registration of a dealing within
+  the priority period of \textbf{30 working days} given by a
+  pre-completion Land Registry search may result in the client's
+  interest losing priority.
+\end{itemize}
+
+\hypertarget{registration-of-dealings}{%
+\subsubsection{Registration of
+Dealings}\label{registration-of-dealings}}
+
+Where registered land is transferred, an application for registration of
+the dealing must be made on the appropriate application form,
+accompanied by the correct documentation and fee, and must be received
+by Land Registry within the priority period of 30 working days given by
+the Land Registry search made before completion.
+
+Land Registry operates an early completion policy. Applies to all
+applications to discharge the whole of a registered charge where other
+applications are made (such as an application to register the transfer
+of the property to the buyer) but no evidence of satisfaction of the
+charge is supplied (perhaps because the lender has been slow in
+executing the DS1).
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{A buyer purchasing a property with a new mortgage will be registered as the proprietor, but the seller’s mortgage will remain on the title until evidence of discharge is provided, and the buyer’s mortgage will rank in priority behind the seller’s mortgage on the register.}
+\end{Highlighting}
+\end{Shaded}
+
+Where there is a restriction on the register preventing a disposal or
+the registration of a new charge without the consent of the existing
+lender, proof of satisfaction of the charge or evidence of compliance
+with the restriction must be provided to Land Registry within \textbf{20
+working days} (which can be extended to 40 working days on application);
+if this is not done, Land Registry will cancel the buyer's applications
+for discharge, transfer and charge.
+
+\hypertarget{transfer-of-whole}{%
+\subsubsection{Transfer of Whole}\label{transfer-of-whole}}
+
+Application for registration of the dealing on Form AP1, accompanied by
+the relevant documents, should be lodged within \textbf{30 working days}
+of the date of issue of the applicant's pre-completion official search
+certificate. Originals not needed; certified copies can be sent. Fee
+payable. Send:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Certified copy of the transfer
+\item
+  Appropriate fee
+\item
+  Copy of grant of representation if seller was PR
+\item
+  Certified copy power of attorney
+\item
+  SDLT certificate
+\item
+  Form DI
+\item
+  Office copy of appropriate death certificate if a registered
+  proprietor has died.
+\end{enumerate}
+
+\hypertarget{additional-applications}{%
+\subsubsection{Additional Applications}\label{additional-applications}}
+
+May be associated applications to be made to Land Registry:
+
+\hypertarget{application-to-discharge-mortgage}{%
+\paragraph{Application to Discharge
+Mortgage}\label{application-to-discharge-mortgage}}
+
+If lender used ED system, Form AP1 should be endorsed with the words:
+``Charge discharged electronically''. If using a paper form, buyer's
+solicitor applies to Land Registry for the charge to be discharged and a
+certified copy of the paper form of discharge submitted.
+
+\hypertarget{application-to-register-new-legal-charge}{%
+\paragraph{Application to Register New Legal
+Charge}\label{application-to-register-new-legal-charge}}
+
+If there is a new mortgage over the property, this must be registered.
+Submit:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Certified copy of the mortgage deed; and
+\item
+  If borrower is a company:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Certified copy of the certificate of registration
+  \item
+    Conveyancer's/ lender's written confirmation that the certified copy
+    mortgage deed being lodged for registration is the same as that
+    filed at Companies House.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{disclosing-overriding-interests}{%
+\subsubsection{Disclosing Overriding
+Interests}\label{disclosing-overriding-interests}}
+
+Applicant for registration must complete Form DI setting out any
+overriding interests that burden the title. These will be entered on the
+register and cease to be overriding.
+
+\hypertarget{identity-requirements}{%
+\subsubsection{Identity Requirements}\label{identity-requirements}}
+
+Applicant must give details of the conveyancer acting for each party. If
+a party is not represented, evidence of the party's identity must be
+provided.
+
+\hypertarget{late-completion}{%
+\section{Late Completion}\label{late-completion}}
+
+Completion may be delayed:
+
+\begin{itemize}
+\tightlist
+\item
+  Problem in the chain of transactions
+\item
+  Seller's solicitor not managing to get transfer deed signed by their
+  client
+\item
+  Buyer not being in receipt of funds from lender.
+\item
+  Usually just a temporary hitch.
+\end{itemize}
+
+\hypertarget{breach-of-contract}{%
+\subsection{Breach of Contract}\label{breach-of-contract}}
+
+The innocent party will be entitled to damages for his loss, but cannot
+terminate the contract unless time was of the essence of the completion
+date ({[}{[}Raineri v Miles {[}1981{]} AC 1050{]}{]}). SCPC 9.1.1: time
+is not of the essence unless a notice to complete has been served.
+
+\hypertarget{related-transactions}{%
+\subsection{Related Transactions}\label{related-transactions}}
+
+A solicitor should try to ensure that no breach of contract occurs
+(e.g., by arranging bridging finance to complete on time), but the
+overriding duty is to act in their client's best interest. Consider
+practicalities -- cost of bridging finance, risk completion may take a
+while, client becoming ``homeless''.
+
+\hypertarget{compensation-for-delay}{%
+\subsection{Compensation for Delay}\label{compensation-for-delay}}
+
+Damages payable under normal contractual principles for delayed
+completion. SCPC 10.3: payment of compensation for delayed completion
+irrespective of whether the relevant party has suffered any loss. Where
+loss has been suffered in excess of the amount payable under SCPC 10.3,
+can be recovered in a claim for breach of contract.
+
+SCPC 10.3: Contractual entitlement to compensation given to the seller
+where the buyer has defaulted in some way and completion is delayed. If
+the seller defaults and completion is delayed, there is no contractual
+right to compensation (so the buyer would have to bring a claim for
+breach of contract to recover).
+
+\hypertarget{deemed-late-completion}{%
+\subsubsection{Deemed Late Completion}\label{deemed-late-completion}}
+
+SCPC 9.1.2/ 9.1.3: where the sale is with vacant possession and the
+money due on completion is not paid by 2pm on the day of actual
+completion, for the purposes of compensation, completion is deemed to
+have taken place the next working day (unless seller has not vacated by
+2pm).
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{If buyer\textquotesingle{}s money did not arrive until 2.15pm on Friday,seller would be entitled to interest for 3 days. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{service-of-notice-to-complete}{%
+\subsection{Service of Notice to
+Complete}\label{service-of-notice-to-complete}}
+
+When it appears a delay in completion is not likely to be resolved
+quickly, consideration may be given to the service of a notice to
+complete, with the effect of making time of the essence of the contract.
+Then the aggrieved party has the option to terminate the contract
+immediately.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Making time of the essence imposes a condition which binds both parties. So if previously aggrieved party $A$ makes time of the essence, and subsequently is unable to complete, $B$ could then terminate the contract at the specified new completion date.}
+\end{Highlighting}
+\end{Shaded}
+
+SCPC 9.8: on service of a notice to complete, completion must take place
+within 10 working days (exclusive of the date of service) and time is of
+the essence.
+
+\hypertarget{standard-conditions-2}{%
+\subsubsection{Standard Conditions}\label{standard-conditions-2}}
+
+\begin{itemize}
+\tightlist
+\item
+  SCPC 9.8: on service of a notice to complete, completion must take
+  place within 10 working days (excluding date of service) and makes
+  time of the essence.
+\item
+  SCPC 9.8.3: a buyer who has paid \(<10\%\) deposit must pay the
+  balance of the full 10\% on receipt of a notice to complete.
+\item
+  SCPC 10.5, 10.6: parties' rights and obligations where a valid notice
+  has been served but not complied with. Once served, cannot be
+  withdrawn.
+\end{itemize}
+
+Non-compliance with a notice to complete gives the aggrieved party the
+right to terminate the contract.
+
+SCPC 10.5: as well as rescinding the contract, the seller may:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  forfeit and keep the deposit and any accrued interest;
+\item
+  resell the property included in the contract; and
+\item
+  claim damages.
+\end{enumerate}
+
+SCPC 10.6: in addition to rescinding the contract, the buyer is entitled
+to the return of the deposit and accrued interest.
+
+\hypertarget{remedies}{%
+\section{Remedies}\label{remedies}}
+
+Sometimes completion is delayed/ cannot occur at all. Or the buyer may
+discover an incumbrance which has not been disclosed.
+
+\hypertarget{breach-of-contract-1}{%
+\subsection{Breach of Contract}\label{breach-of-contract-1}}
+
+Warranties, conditions, innominate terms. In conveyancing contracts, all
+terms are usually called conditions, but in law some of them will only
+be warranties. \textbf{The classification attached to a term by the
+parties is not conclusive as to its status.}
+
+\hypertarget{limitation-periods}{%
+\subsubsection{Limitation Periods}\label{limitation-periods}}
+
+6 years for breach of contract, 12 years where contract made by deed
+(Limitation Act 1980).
+
+\hypertarget{merger}{%
+\subsubsection{Merger}\label{merger}}
+
+On completion, the terms of the contract merge with the transfer deed in
+so far as the two documents cover the same ground. SCPC 10.4 is a
+non-merger clause to prevent this.
+
+\hypertarget{exclusion-clauses}{%
+\subsubsection{Exclusion Clauses}\label{exclusion-clauses}}
+
+SCPC 10.1 restricts the remedies available for a breach of contract.
+Buyer entitled to damages only if there is a material difference in the
+tenure/ value of the property. Entitled to terminate contract only if
+the error/ omission results from fraud/ recklessness or where otherwise
+obliged to accept property differing substantially in quality, quantity
+or tenure from expectations.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{So the buyer is only entitled to damages for an undisclosed incumbrance if this caused a material difference in the value of the land. }
+\end{Highlighting}
+\end{Shaded}
+
+Exclusion clauses contained in contracts for the sale of land (except
+those relating to the exclusion of liability for misrepresentation) are
+not subject to the reasonableness test in the Unfair Contract Terms Act
+1977.
+
+\hypertarget{damages}{%
+\subsubsection{Damages}\label{damages}}
+
+Damages for breach of a contract for the sale of land are assessed under
+the normal\\
+contractual principles established in {[}{[}Hadley v Baxendale (1854) 9
+Ex 341{]}{]}.
+
+{[}{[}Causation, remoteness, mitigation\#Remoteness{]}{]}
+
+\hypertarget{quantum}{%
+\subsubsection{Quantum}\label{quantum}}
+
+Under consequential loss head, the quantum of damages limited to loss
+which was within the contemplation of the parties in the light of the
+facts known at the date when the contract was made (not at the date of
+the breach of contract).
+
+Loss of development profit can be claimed only if D was aware of the
+claimant's proposals for the property at the time the contract was made.
+
+\hypertarget{loss-of-development-profit}{%
+\subsubsection{Loss of Development
+Profit}\label{loss-of-development-profit}}
+
+Claimable only if the defendant was aware of the claimant's proposals
+for the property at the time the contract was made ({[}{[}Diamond v
+Campbell Jones {[}1961{]} Ch 22{]}{]}).
+
+\hypertarget{resale-by-seller}{%
+\subsubsection{Resale by Seller}\label{resale-by-seller}}
+
+Where the buyer defaults and the seller makes a loss on the resale, the
+loss can be claimed as damages. If the seller makes a profit on the
+resale, will have to give credit for the amount of the profit in his
+claim. \textbf{Seller not entitled to benefit from the buyer's breach}.
+
+\hypertarget{mental-distress}{%
+\subsubsection{Mental Distress}\label{mental-distress}}
+
+Lol, you can't recover for this (buying a house isn't a leisure activity
+like {[}{[}Jarvis v Swan Tours {[}1973{]} QB 233{]}{]}).
+
+\hypertarget{pre-contract-losses}{%
+\subsubsection{Pre-contract Losses}\label{pre-contract-losses}}
+
+Generally, no possibility of recovering expenses incurred at
+pre-contract stages of the transaction.
+
+\hypertarget{mitigation}{%
+\subsubsection{Mitigation}\label{mitigation}}
+
+{[}{[}Causation, remoteness, mitigation\#Mitigation{]}{]}
+
+\hypertarget{rescission}{%
+\subsection{Rescission}\label{rescission}}
+
+Restoration of parties to their pre-contract position by undoing the
+contract and balancing the position of the parties with the payment of
+compensation. Conventional damages are not payable because there is no
+breach of contract. Equitable remedy (clean hands, lapse of time etc.)
+
+\hypertarget{contractual-right-to-rescind}{%
+\subsubsection{Contractual Right to
+Rescind}\label{contractual-right-to-rescind}}
+
+Right to rescind is available:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  for misrepresentation (SCPC 10.1);
+\item
+  where a licence to assign is not forthcoming in leasehold transactions
+  (SCPC 11.3);
+\item
+  where either the buyer or the seller has failed to comply with a
+  notice to complete (SCPC 10.5 and 10.6).
+\end{enumerate}
+
+\hypertarget{limitation-periods-1}{%
+\subsubsection{Limitation Periods}\label{limitation-periods-1}}
+
+Where the right to rescind arises out of a contractual provision, must
+be exercised within time limits/ within a reasonable time.
+
+\hypertarget{misrepresentation}{%
+\subsection{Misrepresentation}\label{misrepresentation}}
+
+A misrepresentation is an untrue statement of fact made by one
+contracting party which is relied on by the aggrieved party, which
+induces him to enter the contract, and as a result of which he suffers
+loss. The statement must be of fact, not law ({[}{[}Solle v Butcher
+{[}1950{]} 1 KB 671{]}{]}). A statement of opinion is not actionable
+unless it can be proved that the opinion was never genuinely held
+({[}{[}Edgington v Fitzmaurice (1885) 29 Ch D 459{]}{]}).
+
+\hypertarget{fraudulent-misrepresentation}{%
+\subsubsection{Fraudulent
+Misrepresentation}\label{fraudulent-misrepresentation}}
+
+The aggrieved party may issue a claim in tort for deceit, which may
+result in rescission of the contract and damages. V onerous to prove.
+
+\hypertarget{claims-under-misrepresentation-act-1967}{%
+\subsubsection{Claims Under Misrepresentation Act
+1967}\label{claims-under-misrepresentation-act-1967}}
+
+In relation to contracts between `consumers' and `traders' regulated by
+the Consumer Rights Act 2015 (see 18.9), s 2 of the Misrepresentation
+Act 1967 does not apply to the extent that the consumer has a right to
+redress under Part 4A of the Consumer Protection from Unfair Trading
+Regulations 2008. These Regulations prohibit traders from engaging in
+unfair commercial practices when dealing with consumers.
+
+For consumer-to-consumer or business-to-business contracts, claimant
+must show an actionable misrepresentation, after which the burden of
+proof shifts to D must disprove negligence. Misrepresentation is
+negligent if D cannot prove (1) reasonable grounds for believing and (2)
+did believe the statement he made was true up to the time the contract
+was made.
+
+Remedies: rescission of contract and damages.
+
+If D successfully establishes the defence, showing the misrepresentation
+was innocent, rescission is available but not damages.
+
+\hypertarget{rescission-1}{%
+\subsubsection{Rescission}\label{rescission-1}}
+
+Award of rescission lies within the equitable jurisdiction of the
+courts. Discretionary remedy subject to equitable bars. The court may
+award damages in lieu of rescission to the Claimant (s 2(2)
+Misrepresentation Act 1967). Likely to be awarded only where the result
+of misrepresentation is substantially to deprive claimant of his
+bargain. Available after completion, though may not be possible where a
+third party (e.g., lender) has acquired an interest.
+
+\hypertarget{damages-1}{%
+\subsubsection{Damages}\label{damages-1}}
+
+Damages under the Misrepresentation Act 1967 are awarded on a tortious
+basis ({[}{[}Chesneau v Interhome Ltd (1983) The Times, 9 June{]}{]}).
+An award of damages can be made both as an award in lieu of rescission
+and as an award to compensate the claimant for his loss, subject to the
+overriding principle that the claimant cannot recover more than his
+actual loss.
+
+\hypertarget{limitation-period}{%
+\subsubsection{Limitation Period}\label{limitation-period}}
+
+Claim for misrepresentation does not arise out of contract or tort.
+Limitation period subject to judicial debate, but in {[}{[}Green v Eadie
+and others {[}2011{]} EWHC B24 (Ch){]}{]}, the High Court held that a
+claim for damages under s 2(1) of the Misrepresentation Act 1967 should
+become statute barred six years from when the cause of action accrued.
+
+\hypertarget{incorporation-as-a-term}{%
+\subsubsection{Incorporation as a Term}\label{incorporation-as-a-term}}
+
+s 1 Misrepresentation Act 1967: where a misrepresentation has become
+incorporated as a term of the contract, it is possible to treat the
+statement as a representation and to pursue a Misrepresentation Act
+remedy. Can allow claimant the right to ask for rescission as well as
+damages.
+
+\hypertarget{imputed-knowledge}{%
+\subsubsection{Imputed Knowledge}\label{imputed-knowledge}}
+
+Knowledge gained by a solicitor in the course of a transaction is deemed
+to be known by the solicitor's client, whether or not this is in fact
+the case.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Where a solicitor gives an incorrect reply to pre{-}contract enquiries, the solicitor’s knowledge, and also their misstatement, is attributable to the client who w ill be liable to the buyer in misrepresentation ([[CEMP Properties (UK) Ltd v Dentsply Research and Development Corporation (No 1) (1989) 2 EGLR 192]]). In such a situation, the solicitor would be liable to their own client in negligence.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{exclusion-clauses-1}{%
+\subsubsection{Exclusion Clauses}\label{exclusion-clauses-1}}
+
+For consumer-to-consumer and business-to-business contracts, s 3
+Misrepresentation Act 1967 provides that any clause which purports to
+limit or exclude liability for misrepresentation is valid only in so far
+as it satisfies the reasonableness test laid down in s 11 and Sch 2 UCTA
+1977. For contracts between traders and consumers, the relevant test is
+the fairness test in s 62 CRA 2015. If a clause is unfair, it will not
+be binding on the consumer.
+
+SCPC 10.1 purport to limit the seller's liability for misrepresentation.
+Damages only payable if there is a material difference between the
+property as represented and in reality.
+
+\textbf{Special condition 2 SCPCs}: intended to prevent reliance on any
+misrepresentation which is not in writing and made by the other party/
+solicitor, while preserving liability for fraud or recklessness.
+
+\hypertarget{mis-description-and-non-disclosure}{%
+\subsection{Mis-description and
+Non-disclosure}\label{mis-description-and-non-disclosure}}
+
+Where an error is made in the particulars of sale of the contract/
+seller fails to comply with duty of disclosure, \textbf{SCPC 10.1} deals
+with remedies.
+
+\hypertarget{specific-performance}{%
+\subsection{Specific Performance}\label{specific-performance}}
+
+Equitable remedy granted at the discretion of the court. Order for
+specific performance not uncommon in sale of land cases where an award
+of damages would be inadequate. Equitable bars apply, so will not be
+awarded where:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Damages adequate compensation
+\item
+  Vitiating element like mistake, fraud or illegality
+\item
+  3rd party has acquired an interest for value in the property
+\item
+  Seller cannot make good title.
+\end{enumerate}
+
+The doctrine of laches (lapse of time) applies to equitable remedies.
+
+If, in a situation where specific performance would otherwise be
+available to the injured party, the court decides not to make such an
+order, it can award damages in lieu of specific performance under the
+\textbf{s 50 SCA 1981}. Damages assessed on normal contractual
+principles. Where an award of specific performance has been made but has
+not been complied with, the injured party may return to the court asking
+the court to withdraw the order and to substitute the decree of specific
+performance with an award of damages ({[}{[}Johnson v Agnew {[}1980{]}
+AC 367{]}{]}).
+
+\hypertarget{return-of-deposit}{%
+\subsection{Return of Deposit}\label{return-of-deposit}}
+
+Where the buyer defaults on completion, the seller will want to forfeit
+the deposit, but \textbf{s 49(2) LPA 1925} gives the court an absolute
+discretion to order the return of the deposit to the buyer. Where the
+seller defaults on completion, the buyer will have a right to the return
+of the deposit under \textbf{SCPC 10.6}.
+
+\hypertarget{rectification}{%
+\subsection{Rectification}\label{rectification}}
+
+An application for rectification of the contract to correct the error
+can be made. s 2(4) LP(MP)A 1989: court has discretion to determine the
+date on which the contract comes into operation.
+
+Where a term of the contract is either omitted from or inaccurately
+represented in the transfer deed, an application for rectification of
+the deed may be made to the court.
+
+\hypertarget{covenants-for-title}{%
+\subsection{Covenants for Title}\label{covenants-for-title}}
+
+Certain covenants for title will be implied into the transfer deed. The
+State guarantee of a registered title means that, in practice, claims on
+the covenants are unlikely to occur with the transfer of registered
+land.
+
+\end{document}

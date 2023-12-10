@@ -1,0 +1,3464 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+
+\newenvironment{env-e6eb49f1-0338-458e-adfd-ef5fbec7a1fe}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{firebrick}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-a3cdf638-6f18-4b95-9378-c003a9523525}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-28b706cc-8a08-422f-af86-ede86c79505b}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{green}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-83b75c01-f92c-4158-96d6-1e5cec8dd080}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{aquamarine}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-0cb2e3ab-3bde-42f2-97ad-ac1eecea3f6d}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{orange}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gold}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-7c37a030-91b1-49f2-a45d-d04dcaee64b2}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darkred}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-9071ed6f-22c2-4fad-bdeb-265416ff35df}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{pink}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-d2b64fae-aae8-4216-92a0-a95a239665d2}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-14852eae-23f3-42aa-ab4a-d94f5d4651db}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-4f1f1fac-cb83-4fe6-a11e-b3a07eb0c3eb}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{purple}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-42a0b5c2-ce65-4da7-b24a-f6c411648431}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darksalmon}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-131bf3d9-4263-4e79-8eed-44c374685e2a}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gray}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={PCR},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{PCR}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\hypertarget{the-legal-profession}{%
+\section{The Legal Profession}\label{the-legal-profession}}
+
+\hypertarget{professional-conduct}{%
+\subsection{Professional Conduct}\label{professional-conduct}}
+
+\begin{itemize}
+\tightlist
+\item
+  Being a professional, the public must be able to trust a solicitor.
+\item
+  Must be trusted to act in best interests of the client
+\item
+  Must comply with general regulatory requirements such as Bribery Act
+  2010. Mostly the onus on firms is to have adequate procedures in place
+  to prevent bad stuff happening.
+\item
+  SRA produced additional rules and regulations
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Breaching these has severe consequences, including being struck off
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{legal-services-board}{%
+\subsection{Legal Services Board}\label{legal-services-board}}
+
+\begin{itemize}
+\tightlist
+\item
+  Created by Legal Services Act 2007
+\item
+  Supervises the 'approved regulators' of the legal profession,
+  including the SRA (and the Bar Council etc.)
+\end{itemize}
+
+\hypertarget{sra}{%
+\subsection{SRA}\label{sra}}
+
+Established by The Law Society in Jan 2007. Purpose is to protect the
+public by ensuring that solicitors meet high standards. Governed by a
+board of 11 members, 5 of which are solicitors. HQ in Birmingham. Budget
+funded by practising certificate fee.
+
+\hypertarget{law-society}{%
+\subsection{Law Society}\label{law-society}}
+
+Representative body for solicitors in England and Wales. Founded in
+1825. Lobbies the government about changes in the law, lobbies for
+better working conditions for solicitors etc.
+
+\begin{itemize}
+\tightlist
+\item
+  Membership is optional.
+\item
+  Governed by a Council
+\item
+  There are 54 local law societies around the country
+\end{itemize}
+
+\hypertarget{aspects-of-practice}{%
+\subsection{Aspects of Practice}\label{aspects-of-practice}}
+
+Different ways in which law can be practised::
+
+\begin{itemize}
+\tightlist
+\item
+  Sole practice
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Becoming less common (Westlaw and stuff is hella expensive)
+  \item
+    Practicality: going on holidays without having to hire a locum.
+  \item
+    Authorised in the same way as other types of firm
+  \end{itemize}
+\item
+  As a recognised body
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Legal services body (75\% of managers legally qualified \&
+    non-solicitor managers approved by SRA) can apply for authorisation
+    by the SRA as a recognised body.
+  \item
+    Recognised forms include:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Partnerships
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Classic law firm structure: partners and then everyone else.
+        Some large firms have salaried and equity partners.
+      \end{itemize}
+    \item
+      Limited Liability Partnerships
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Instead of partners, LLPs have members, who share in the
+        profits.
+      \end{itemize}
+    \item
+      Companies
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Incorporate under Companies Act 2006
+      \end{itemize}
+    \end{itemize}
+  \item
+    Once authorised, a body is entitled to carry on all 'reserved legal
+    activities' (except notary services). This is defined in s 12 Legal
+    Services Act 2007.
+  \item
+    The recognised body must have a Compliance Officer for Legal
+    Practice (COLP) and Compliance Officer for Finance and
+    Administration (COFA) and whom the SRA has approved.
+  \end{itemize}
+\item
+  As a Licensed Body
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The Legal Services Act 2007 also introduced alternative business
+    structures, allowing non-lawyers to offer legal services alongside
+    non-legal services. Also allowed non-lawyers to own and invest in
+    firms providing legal services.
+  \item
+    Eligibility: must be one manager authorised by the SRA or another
+    approved regular. Must also be a licensable body (confusing
+    definition).
+  \item
+    Once authorised, a licensed body is entitled to carry out the same
+    range of activities as a recognised body.
+  \item
+    Similarly as recognised bodies, must have a Head of Finance and
+    Administration and Head of Legal Practice.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{new-changes}{%
+\subsubsection{New Changes}\label{new-changes}}
+
+New SRA Standards and Regulations 2019: solicitors allowed to deliver
+non-reserved legal activities to the public from within a business not
+regulated by a legal services regulator. So e.g., a big four accountancy
+firm could offer family/ employment law services without going through
+the full authorisation process, but would not be able to hold client
+money.
+
+Further, individual solicitors can now work and offer legal services on
+a freelance basis. Will not have to maintain the same level of client
+protection usually required. Does not need to be authorised if:
+
+\begin{enumerate}
+\tightlist
+\item
+  Practice consists entirely of non-reserved activities, or
+\item
+  Any reserved legal activities are provided through an authorised body/
+  authorised non-SRA firm.
+\end{enumerate}
+
+\hypertarget{employed-solicitors}{%
+\subsubsection{Employed Solicitors}\label{employed-solicitors}}
+
+This is a solicitor who is employed by a non-legal services employer
+(i.e., in-house counsel). Subject to same rules as lawyers in private
+practice.
+
+\hypertarget{registered-european-lawyers-and-registered-foreign-lawyers}{%
+\subsubsection{Registered European Lawyers and Registered Foreign
+Lawyers}\label{registered-european-lawyers-and-registered-foreign-lawyers}}
+
+Foreign lawyers who want to become managers owners of law firms
+authorised by the SRA must become RFLs. RELs are no longer a thing after
+Brexit, apart from the Swiss until 2024. These classifications allow
+foreign lawyers to provide all unreserved legal services, and some
+reserved legal services.
+
+\hypertarget{law-centres}{%
+\subsubsection{Law Centres}\label{law-centres}}
+
+There are 43 of them nationwide. Provide free legal advice to
+disadvantaged individuals within communities. Must take out appropriate
+indemnity insurance.
+
+\hypertarget{legal-advice-centres}{%
+\subsubsection{Legal Advice Centres}\label{legal-advice-centres}}
+
+No casework is undertaken, but legal advice provided. ULaw and BPP run
+their own.
+
+\hypertarget{duty-solicitor-schemes}{%
+\subsubsection{Duty Solicitor Schemes}\label{duty-solicitor-schemes}}
+
+Police station duty solicitor scheme aims to provide advice and
+assistance to people at police stations who would otherwise not be
+legally represented The court duty solicitor scheme aims to provide
+emergency legal representation at magistrates' courts on a rota basis.
+Fees for both cases are paid by the Legal Aid Agency to contracted
+solicitors.
+
+\hypertarget{regulating-the-profession}{%
+\section{Regulating the Profession}\label{regulating-the-profession}}
+
+\hypertarget{history}{%
+\subsection{History}\label{history}}
+
+\begin{itemize}
+\tightlist
+\item
+  The SRA was created in anticipation of the Legal Services Act 2007.
+  The Legal Services Board supervises the SRA's regulation of the
+  profession.
+\item
+  Since 2006, alternative business structures have enabled lawyers and
+  non-lawyers to share the management and control of businesses
+  providing legal services.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The SRA undertook a complete review of the regulation framework in
+    anticipation of this.
+  \item
+    Resulted in the SRA Code of Conduct 2011, replacing the Solicitors'
+    Code of Conduct 2007
+  \item
+    This was much shorter and less prescriptive -- included more general
+    principles
+  \end{itemize}
+\item
+  2014: SRA began a programme of reform → new simplified Standards and
+  Regulations: the two Codes of Conduct.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Much shorter than the 2011 Code
+  \item
+    New codes and regulations came into effect 25/11/19.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{sra-standards-and-regulations}{%
+\subsection{SRA Standards and
+Regulations}\label{sra-standards-and-regulations}}
+
+\begin{itemize}
+\tightlist
+\item
+  Apply to everyone regulated by the SRA
+\item
+  Consist of Principles, the two Codes, SRA Accounts Rules and some
+  others.
+\item
+  7 Principles which are mandatory and apply to all those regulated by
+  the SRA
+\item
+  SRA Code of Conduct for Solicitors, Registered European Lawyers (RELs)
+  and Registered Foreign Lawyers (RFLs) applies to individuals
+  authorised by the SRA to provide legal services.
+\item
+  Code of Conduct for Firms applies to all bodies authorised by the SRA
+  to provide legal services. Indicates that a serious failure can result
+  in the SRA taking action against the body itself as an entity, rather
+  than just individual solicitors.
+\item
+  SRA Overseas and Cross-border Practice Rules Part A (Overseas Rules)
+  apply to regulated individuals practising overseas and authorised
+  bodies with an overseas practice.
+\item
+  Part B (Cross-border Practice Rules applies to European cross-border
+  practice
+\end{itemize}
+
+\hypertarget{complaints}{%
+\subsection{Complaints}\label{complaints}}
+
+Solicitor must establish and maintain/ participate in a procedure for
+handling complaints (para 8.2 Code of Conduct for Solicitors). Must
+ensure clients are informed in writing about
+
+\begin{itemize}
+\tightlist
+\item
+  Their right to complain about solicitor's services and charges
+\item
+  How complaints may be made and to whom
+\item
+  Any right to make a complaint to the Legal Ombudsman.
+\end{itemize}
+
+Information about complaints must be published on a firm's website (SRA
+Transparency Rules).
+
+If a client complains and it is not resolved in 8 weeks, solicitor must
+inform client in writing about
+
+\begin{itemize}
+\tightlist
+\item
+  any right to complain to Legal Ombudsman and details of how to do this
+\item
+  If complaints procedure has been exhausted:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    That the solicitor cannot settle the complaint
+  \item
+    Name and website of an alternative dispute resolution approved body
+  \item
+    Whether you agree to use a scheme operated by that body.
+  \end{itemize}
+\end{itemize}
+
+The Chartered Trading Standards Institute (CTSI) has approved a number
+of ADR entities.
+
+\hypertarget{the-legal-ombudsman}{%
+\subsection{The Legal Ombudsman}\label{the-legal-ombudsman}}
+
+\hypertarget{details}{%
+\subsubsection{Details}\label{details}}
+
+\begin{itemize}
+\tightlist
+\item
+  Legal Ombudsman for England and Wales ('LeO') became operational on
+  6/10/10.
+\item
+  Set up by the Office for Legal Complaints under the Legal Services Act
+  2007.
+\item
+  Deals with complaints against all types of lawyers.
+\item
+  Replaced Legal Complaints Service
+\item
+  Only certain types of client can complain to LeO, including
+  individuals, small business, charities, clubs and associations and
+  personal representatives/ beneficiaries of an estate.
+\item
+  Complain must relate to the act/ omission of a solicitor, or to
+  services they offered/ provided/ refused to provide.
+\end{itemize}
+
+\hypertarget{when-used}{%
+\subsubsection{When Used}\label{when-used}}
+
+Can use LeO when:
+
+\begin{itemize}
+\tightlist
+\item
+  Complaint has not been resolved within 8 weeks of being made to
+  solicitor
+\item
+  LeO considers there are exceptional reasons to consider the complaint
+  sooner
+\item
+  LeO considers that in-house resolution is not possible
+\end{itemize}
+
+\hypertarget{time-limits}{%
+\subsubsection{Time Limits}\label{time-limits}}
+
+Should be brought no later than:
+
+\begin{itemize}
+\tightlist
+\item
+  6 years from act/ omission; or
+\item
+  3 years from when the complainant should reasonably have known there
+  was cause for complaint.
+\end{itemize}
+
+But LeO has discretion to extend these limits to the extent it considers
+fair. A hearing will only be held where LeO considers that the complaint
+cannot be determined fairly without one.
+
+\hypertarget{resolution}{%
+\subsubsection{Resolution}\label{resolution}}
+
+A 'determination' will then be made and sent to the parties and SRA.
+Complainant can accept or reject this. May direct the lawyer to:
+
+\begin{enumerate}
+\tightlist
+\item
+  Apologise
+\item
+  Pay compensation (+ interest)
+\item
+  Ensure putting right of any error or omission
+\item
+  Take specified action in the interests of the complainant
+\item
+  Limit solicitor's fees.
+\end{enumerate}
+
+Limit of £50,000 on total value that may be awarded in respect of (3)
+and (4) - though pay awards for the others are not limited.
+
+\hypertarget{possible-outcomes}{%
+\subsubsection{Possible Outcomes}\label{possible-outcomes}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule()
+Complainant's response & Outcome \\
+\midrule()
+\endhead
+Accepts the determination & Determination is binding on the parties and
+final. Can be enforced in court by the complainant. \\
+Rejects the determination & Parties free to pursue other legal
+remedies. \\
+\bottomrule()
+\end{longtable}
+
+The LeO can refer a particular legal question to court if unsure. If
+professional misconduct is alleged in a complaint, LeO will inform the
+SRA.
+
+\hypertarget{breach-of-professional-conduct}{%
+\subsubsection{Breach of Professional
+Conduct}\label{breach-of-professional-conduct}}
+
+\begin{itemize}
+\tightlist
+\item
+  Professional misconduct primarily concerns breaches of the SRA's Codes
+  of Conduct.
+\item
+  Complaints primarily concerning a breach of professional conduct will
+  be dealt with by the SRA.
+\item
+  Role of the SRA is to protect the public. If the SRA is informed of
+  alleged misconduct, it will investigate. The individual/ firm will be
+  given notice and invited to respond with written recommendations.
+\item
+  Statutory power to carry out intervention into a practice.
+\end{itemize}
+
+\hypertarget{enforcement-strategy}{%
+\paragraph{Enforcement Strategy}\label{enforcement-strategy}}
+
+The SRA Enforcement Strategy sets out how the SRA will use its
+enforcement powers and what it expects of those it regulates. Approach
+to enforcement:
+
+\begin{itemize}
+\tightlist
+\item
+  Focus on the most serious breaches
+\item
+  Take account of aggravating or mitigating factors
+\item
+  Emphasise constructive engagement to support firms and individuals to
+  achieve compliance.
+\end{itemize}
+
+The position of the firm and the individuals inside it will be
+considered when deciding who to enforce against.
+
+\hypertarget{outcomes}{%
+\paragraph{Outcomes}\label{outcomes}}
+
+The SRA may decide to do the following:
+
+\begin{enumerate}
+\tightlist
+\item
+  Take no further action with or without issuing advice or a warning
+  about future conduct
+\item
+  Impose a financial penalty or written rebuke
+
+  \begin{enumerate}
+  \tightlist
+  \item
+    Max penalty £2,000 for solicitors and their employees, £250 million
+    for licensed bodies, £50 million for managers and employees of
+    licensed bodies).
+  \item
+    Since 2008, SRA has made regulatory decisions public.
+  \end{enumerate}
+\item
+  Control how the firm/ regulated person practises
+
+  \begin{enumerate}
+  \tightlist
+  \item
+    Can impose conditions or suspend a solicitor's practising
+    certificate
+  \end{enumerate}
+\item
+  Refer the matter to the Solicitors Disciplinary Tribunal
+
+  \begin{enumerate}
+  \tightlist
+  \item
+    Tribunal is independent from the SRA
+  \end{enumerate}
+\item
+  Disqualify an individual from actin as a HOLP, HOFA, manager or
+  employee of a licenced body.
+\end{enumerate}
+
+\hypertarget{complaints-about-professional-services-vs-negligence}{%
+\paragraph{Complaints About Professional Services Vs
+Negligence}\label{complaints-about-professional-services-vs-negligence}}
+
+Solicitor owes a duty of care in tort to their client. Solicitor breach
++ loss suffered = solicitor can be sued by the client for negligence.
+
+For LeO to get involved, the client does not need to have suffered any
+loss -- it is enough that services were not of a reasonable quality.
+
+SRA and LeO have no power to adjudicate issues of negligence in a legal
+sense, but where there is overlap they can act.
+
+\hypertarget{solicitors-disciplinary-tribunal}{%
+\paragraph{Solicitors Disciplinary
+Tribunal}\label{solicitors-disciplinary-tribunal}}
+
+\hypertarget{summary}{%
+\subparagraph{Summary}\label{summary}}
+
+Hears and determines applications relating to allegations of unbefitting
+conduct/ breaches of requirements of professional conduct by solicitors
+and others, including ABSs. Most applications to the Disciplinary
+Tribunal are made on behalf of the SRA, though people can also make an
+application to the SDT directly without going through the SRA.
+
+\hypertarget{structure}{%
+\subparagraph{Structure}\label{structure}}
+
+\begin{itemize}
+\tightlist
+\item
+  Established by s 46 Solicitors Act 1974.
+\item
+  Members appointed by the Master of the Rolls
+\item
+  Currently 45 members - about 2/3 solicitors
+\item
+  Sits in divisions of 3 members
+\item
+  Civil standard of proof.
+\end{itemize}
+
+\hypertarget{procedure}{%
+\subparagraph{Procedure}\label{procedure}}
+
+\begin{itemize}
+\tightlist
+\item
+  Disciplinary Tribunal has the power to make rules governing its
+  procedure and practice.
+\item
+  Maintains a panel of solicitors in private practice
+\item
+  No investigative powers
+\end{itemize}
+
+\hypertarget{application-to-the-tribunal}{%
+\subparagraph{Application to the
+Tribunal}\label{application-to-the-tribunal}}
+
+\begin{itemize}
+\tightlist
+\item
+  Must be made in the prescribed form, supported by evidence
+\item
+  Hearing date will be fixed where the Tribunal is satisfied that there
+  is a case to answer
+\item
+  Each party can be represented by a solicitor or counsel.
+\item
+  Evidence given under oath
+\item
+  Can call witnesses
+\item
+  Decisions called 'Judgments' or 'Orders'
+\item
+  Order takes effect once filed with The Law Society
+\item
+  Where an application is made directly to the Tribunal, they can refer
+  it to the SRA for investigation.
+\end{itemize}
+
+\hypertarget{powers}{%
+\subparagraph{Powers}\label{powers}}
+
+Can make orders including:
+
+\begin{itemize}
+\tightlist
+\item
+  Striking a solicitor off the roll
+\item
+  Suspending a solicitor from practice or imposing restrictions
+\item
+  Imposing an unlimited fine
+\item
+  Reprimanding solicitor
+\item
+  Requiring payment of costs/ contribution towards costs
+\item
+  Restoring a solicitor to the roll
+\end{itemize}
+
+\hypertarget{appeals}{%
+\subparagraph{Appeals}\label{appeals}}
+
+Disciplinary Tribunal orders can be appealed at the Administrative
+Court.
+
+\hypertarget{other-sra-powers}{%
+\paragraph{Other SRA Powers}\label{other-sra-powers}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule()
+Power & Details \\
+\midrule()
+\endhead
+Intervention & Aim is to protect client interests and money. Practical
+effect is that a practice is closed and practice monies vest in the SRA.
+Agent is appointed by the SRA to carry out the intervention. May also
+occur when a sole practitioner dies/ is unable to continue practising
+suddenly. \\
+Delivery of files & To investigate complains, SRA has the power (s 44B
+Solicitors Act 1974) to serve notice on a solicitor/ recognised body
+requiring the delivery of a file/ documents in the possession of the
+solicitor to the SRA. Code of Conduct obliges solicitor/ firm to respond
+promptly. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{powers-of-the-court}{%
+\paragraph{Powers of the Court}\label{powers-of-the-court}}
+
+A solicitor is an officer of the court. So the court has jurisdiction to
+discipline a solicitor in respects of any matter before the court.
+
+\hypertarget{negligence}{%
+\paragraph{Negligence}\label{negligence}}
+
+A solicitor may be sued by their client in the tort of negligence, or
+for breach of contract. Firms must carry compulsory indemnity insurance
+against such actions.
+
+\hypertarget{steps-to-take}{%
+\subparagraph{Steps to Take}\label{steps-to-take}}
+
+Code of Conduct states that solicitors and firms must be 'honest and
+open' with clients if things go wrong, and if a client suffers loss or
+harm as a result, matters are to be put right and a full and prompt
+explanation given.
+
+If requested by the SRA, solicitor or firm must investigate whether
+anyone may have a claim against them and report back to SRA.
+
+Generally, if a client says they wish to sue a solicitor, there will
+likely be a conflict of interest. Law Society guidance states solicitors
+should respond to complaints even if they believe the allegations
+concern negligence and a referral to the firm's insurance provider will
+be necessary.
+
+\hypertarget{sra-compensation-fund}{%
+\paragraph{SRA Compensation Fund}\label{sra-compensation-fund}}
+
+Maintained by the SRA under ss 36 and 36A of the Solicitors Act 1974.
+Governed by the SRA Compensation Fund Rules and exists as a
+discretionary fund of last resort (e.g., if money has been stolen or
+otherwise not accounted for as the result of an act or omission of those
+regulated by the SRA). Funded by mandatory contributions by all
+solicitors and SRA authorised bodies. Applications can be made where an
+individual/ organisation has suffered loss due to a defaulting
+practitioner's dishonesty/ failure to account for money they received.
+
+The fund does not pay out more than £2 million/ claim (unless there are
+exceptional circumstances). For multiple related claims, the threshold
+is £5 million.
+
+Where payment is made from the Fund, the SRA will seek to be subrogated
+to the rights of the applicant and can take proceedings against the
+defaulting solicitor to recover the amount paid.
+
+Codes of Conduct impose an obligation on solicitors and firms to ensure
+clients understand the regulatory protections available to them.
+
+\begin{env-131bf3d9-4263-4e79-8eed-44c374685e2a}
+
+Summary
+
+(1) The SRA is em powered by the Solicitors Act 1974 to publish rules
+and requirements\\
+for the regulation of conduct of solicitors, recog nised/licensed
+bodies, m embers of recognised/licensed bodies, and em ployees of
+recognis ed/licens ed bodies/sole\\
+practices.\\
+(2) These rules and requirements are enforced by the SRA and the Leg al
+Ombudsm an.\\
+(3) The SRA deals with breaches of the requirements of professional
+conduct, whereas the Legal Ombudsm an primarily deals with com plaints
+about services provided by legal practitioners, including solicitors.\\
+(4) The Legal Ombudsm an deals with com plaints relating to an act/om
+iss ion by a legal practitioner and which relates to services provided
+by the practitioner. The client does not need to suffer any loss as a
+result of the service provide d in order to raise the issue.\\
+(5) The SRA may impose disciplinary sanctions for a breach of the
+requirem ents of\\
+professional conduct, or in serious cas es may refer the m atter to the
+Solicitors\\
+Disciplinary Tribunal.\\
+(6) The Legal Ombudsman has num erous sanctions at its disposal. These
+include\\
+directing the solicitor to limit their fees, or directing the solicitor
+to com pensate the client up to £50,000. The SRA/Legal Ombudsman has no
+power to pay\\
+compensation to the client itself.\\
+(7) The Solicitors Disciplinary Tribunal m ay fine a solicitor, suspend
+the solicitor or, as an ultim ate sanction, strike the solicitor of f
+the roll.\\
+(8) A solicitor will be negligent if they breach a duty of care to their
+client and\\
+foreseeable loss results as a consequence of that breach. Where the
+solicitor has\\
+been negligent, they may be sued by the client for damages.\\
+(9) The SRA Compensation Fund is maintained by the SRA. Payment m ay be
+made from\\
+the Fund when a client has suffered loss as a result of a defaulting
+practitioner's act or om iss ion or to cover claims against uninsured
+firms.
+
+\end{env-131bf3d9-4263-4e79-8eed-44c374685e2a}
+
+\hypertarget{sra-principles}{%
+\section{SRA Principles}\label{sra-principles}}
+
+\hypertarget{introduction}{%
+\subsection{Introduction}\label{introduction}}
+
+The profession is regulated by the Government, the FCA and the SRA. The
+SRA Principles are all-pervasive and underpin all the SRA's regulatory
+arrangements.
+
+The Principles are mandatory and aply to all individuals and bodies
+regulated by the SRA. They apply outside of a solicitor's practice as
+well as within it.
+
+\hypertarget{justice-and-the-rule-of-law}{%
+\subsection{1. Justice and the Rule of
+Law}\label{justice-and-the-rule-of-law}}
+
+Principle 1 provides that a soolicitor must act in a way that upholds
+the constitutional rule of law and proper administration of justice.
+
+\hypertarget{public-trust}{%
+\subsection{2. Public Trust}\label{public-trust}}
+
+A solicitor must act in a way that upholds public trust and confidence
+in the solicitors' profession and in legal services. A solicitor may
+breach Principle 2 through behaviour outside their solicitors' practice
+(e.g., getting a criminal conviction).
+
+\hypertarget{independence}{%
+\subsection{3. Independence}\label{independence}}
+
+A solicitor must act with independence. This includes indepedence from
+the client - need to be mindful of their wider obligations to the
+profession as a whole.
+
+\hypertarget{honesty}{%
+\subsection{4. Honesty}\label{honesty}}
+
+Where a solicitor is convicted of an offence involving dishonesty,
+likely that they will be struck off the roll of solicitors. The standard
+of honesty required for solicitors is that they may be 'trusted to the
+ends of the earth' (Bolton v Law Society {[}1993{]} EWCA Civ 32).
+
+\hypertarget{integrity}{%
+\subsection{5. Integrity}\label{integrity}}
+
+A solicitor must act with integrity; they are in a position of trust.
+The concept of integrity is wider than just dishonesty - refers to the
+higher standards which society expects of a professional.
+
+\hypertarget{equality-diversity-and-inclusion}{%
+\subsection{6. Equality, Diversity and
+Inclusion}\label{equality-diversity-and-inclusion}}
+
+Solicitors and firms must act in a way that encourages equality,
+diversity and inclusion.
+
+\begin{env-4f1f1fac-cb83-4fe6-a11e-b3a07eb0c3eb}
+
+Example
+
+\begin{itemize}
+\tightlist
+\item
+  Making reasonable adjustments for disabled clients
+\item
+  Treating employees fairly
+\item
+  Having processes in place to deal with bullying, harassment and
+  discrimination.
+\end{itemize}
+
+\end{env-4f1f1fac-cb83-4fe6-a11e-b3a07eb0c3eb}
+
+\hypertarget{best-interests-of-the-client}{%
+\subsection{7. Best Interests of the
+Client}\label{best-interests-of-the-client}}
+
+A solicitor must act in the best interests of each client. Derives from
+the common law and the fiduciary relationship.
+
+This includes ensuring clients are provided with a proper standard of
+service in terms of client care, competence and standard of work.
+
+\hypertarget{confidentiality}{%
+\section{Confidentiality}\label{confidentiality}}
+
+\hypertarget{introduction-1}{%
+\subsection{Introduction}\label{introduction-1}}
+
+\begin{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+Para 6.3 Codes of Conduct
+
+You {[}must{]} keep the affairs of current and former clients
+confidential unless disclosure is required or permitted by law or the
+client consents.
+
+\end{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+\begin{itemize}
+\tightlist
+\item
+  Obligation of confidentiality extends beyond obviously confidential
+  information given to a solicitor by their client and includes all
+  information about a client or matter, regardless of the source of
+  information.
+\item
+  Firms must have good systems in place -- Code of Conduct for Firms
+\item
+  Duty continues after the retainer has been terminated.
+\item
+  Duty continues after the death of the client.
+\item
+  Any breach of the duty of confidentiality will be a breach of
+  professional conduct.
+\item
+  Practical steps should be taken to safeguard the identity of their
+  clients.
+\item
+  Beware in particular about mergers and solicitors moving firms.
+\end{itemize}
+
+\hypertarget{acceptable-disclosure}{%
+\subsection{Acceptable Disclosure}\label{acceptable-disclosure}}
+
+\begin{itemize}
+\tightlist
+\item
+  Disclosure is permitted with the client's consent -- take steps to
+  ensure the client knows the exact purpose.
+\item
+  Can also disclose pursuant to a statutory requirement in certain
+  circumstances.
+\item
+  Can disclose under a court order or police warrant.
+\end{itemize}
+
+In the following situations, disclosure is still technically a breach
+but is a mitigating factor in the context of disciplinary action:
+
+\begin{itemize}
+\tightlist
+\item
+  Client indicating their intention to commit suicide or serious
+  self-harm
+
+  \begin{itemize}
+  \tightlist
+  \item
+    First ask for consent to disclose to third party
+  \item
+    May decide to disclose anyway
+  \end{itemize}
+\item
+  Preventing harm to children or vulnerable adults
+
+  \begin{itemize}
+  \tightlist
+  \item
+    No requirement in law to disclose this information, but personal
+    conscience
+  \end{itemize}
+\item
+  Preventing the commission of a criminal offence
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If a solicitor is being used by a client to perpetrate a crime, duty
+    of confidentiality does not arise (no confidence under common law)
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{duty-of-disclosure}{%
+\subsection{Duty of Disclosure}\label{duty-of-disclosure}}
+
+Where a solicitor is acting for a client, they must make the client
+aware of all information material to the matter of which the solicitor
+has knowledge (para 6.4, Code of Conduct). This is a personal duty.
+
+\hypertarget{limitations}{%
+\subsubsection{Limitations}\label{limitations}}
+
+There are specific exceptions:
+
+\begin{itemize}
+\tightlist
+\item
+  Disclosure of information which is prohibited by legal restrictions in
+  the interests of national security/ the prevention of crime
+\item
+  Client gives informed consent (evidenced in writing) to the
+  information not being disclosed to them
+\item
+  Solicitor has reason to believe that serious physical or mental injury
+  will be caused to the client or another if the information is
+  disclosed to the client
+\item
+  The information is contained in a privileged document that the
+  solicitor has knowledge of only because mistakenly disclosed.
+\end{itemize}
+
+\hypertarget{confidential-material-received-by-mistake}{%
+\subsubsection{Confidential Material Received by
+Mistake}\label{confidential-material-received-by-mistake}}
+
+Occasionally, mistakes may be made, and confidential information
+accidentally sent to the wrong party. The receiving solicitor must
+immediately return the papers to the original solicitor without reading
+them (Ablitt v Mills \& Reeve (1995)).
+
+\hypertarget{placing-confidential-information-at-risk}{%
+\subsection{Placing Confidential Information at
+Risk}\label{placing-confidential-information-at-risk}}
+
+A solicitor or firm must not act in certain circumstances, where the
+client has an interest \textbf{adverse} to the interest of another
+current or former client for whom confidential information is held,
+unless either of the exceptions set out in the Codes is met (para 6.5 of
+both codes).
+
+\hypertarget{material-information}{%
+\subsubsection{Material Information}\label{material-information}}
+
+For the purpose of s 6.5, the confidential information must be
+'material'. This is information which is:
+
+\begin{itemize}
+\tightlist
+\item
+  Relevant to the client's matter; and
+\item
+  Of more than inconsequential interest to the client
+\end{itemize}
+
+\hypertarget{adverse-interest}{%
+\subsubsection{Adverse Interest}\label{adverse-interest}}
+
+Adversity relates to the relationship between two respective clients. A
+relationship is adverse if the clients are or are likely to become
+opposing parties in a matter. This includes both litigation and
+negotiation.
+
+\hypertarget{when-it-is-possible-to-act}{%
+\subsubsection{When it is Possible to
+Act}\label{when-it-is-possible-to-act}}
+
+When the same individual holds confidential information for one party
+which is relevant to another client, the solicitor will be unable to act
+for both clients unless the client to whom the duty of confidentiality
+is owed consents to the information being disclosed or the other client
+gives informed consent (evidenced in writing) to the information not
+being disclosed to them. This is regardless of any adverse interests
+between parties -- since the duties of disclosure and confidentiality
+are \textbf{personal} to the solicitor.
+
+There are some exceptions:
+
+\begin{itemize}
+\tightlist
+\item
+  Effective measures have been taken which result in there being no real
+  risk of disclosure of the confidential information.
+\item
+  A current or former client whose information is held has given
+  informed consent (evidenced in writing), including to any measures
+  taken to protect their personal information.
+\end{itemize}
+
+More likely that these exceptions will apply in practice wrt a former
+client.
+
+\hypertarget{effective-measures-to-safeguard-information}{%
+\subsubsection{Effective Measures to Safeguard
+Information}\label{effective-measures-to-safeguard-information}}
+
+Effective measures include information barriers (previously, Chinese
+walls). This could be achieved through separate teams handling the
+matters, separate servers and printers, information being encrypted and
+password protected etc.
+
+They are not appropriate for small firms.
+
+\hypertarget{informed-consent}{%
+\subsubsection{Informed Consent}\label{informed-consent}}
+
+The client must consent after having understood and considered the risks
+and rewards involved in the situation. It is often not possible to
+disclose sufficient information about the identity and business of the
+other client without breaching the client's confidentiality; something
+to bear in mind. Generally, informed consent is only of use to
+sophisticated clients.
+
+\hypertarget{professional-embarrassment}{%
+\subsubsection{Professional
+Embarrassment}\label{professional-embarrassment}}
+
+A solicitor may still be obliged to refuse to act on the grounds of
+professional embarrassment. A firm should decline to act where the
+information which it cannot disclose would cause severe embarrassment to
+the firm if it came out.
+
+The firm should also consider the Principles.
+
+\hypertarget{confidentiality-and-privilege}{%
+\subsubsection{Confidentiality and
+Privilege}\label{confidentiality-and-privilege}}
+
+Confidentiality is distinct from the issue of legal professional
+privilege.
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule()
+Principle & Description \\
+\midrule()
+\endhead
+Confidentiality & Prevents a solicitor from disclosing any information
+relating to a client without the client's consent. \\
+Legal professional privilege & Allows a solicitor to withhold specific
+information which they would otherwise be required to disclose (e.g., in
+court proceedings) \\
+\bottomrule()
+\end{longtable}
+
+Legal professional privilege applies to information between a solicitor
+and client, whether written or oral, direct or indirect.
+
+Limitations are placed to prevent it being used as a cloak.
+
+\hypertarget{legal-advice-privilege}{%
+\paragraph{Legal Advice Privilege}\label{legal-advice-privilege}}
+
+One type of legal professional privilege is legal advice privilege,
+which applies only to information passed between the client and a
+solicitor acting in the capacity of solicitor. Documents sent to or from
+an independent third party are not covered by this privilege; 'copying
+in' a solicitor will not mean the information can be withheld. If the
+communication is made for the purpose of committing a fraud or crime, it
+will not attract privilege (R v Cox and Railton (1884)).
+
+\hypertarget{litigation-privilege}{%
+\paragraph{Litigation Privilege}\label{litigation-privilege}}
+
+May be claimed in respect of documents created for the sole/ dominant
+purpose of litigation which has commenced/ is contemplated. This extends
+to communications between a solicitor and third parties.
+
+Anything said by a solicitor whilst speaking in court as an advocate is
+privileged, so a solicitor cannot be sued for defamation in such
+circumstances.
+
+Three Rivers DC v Bank of England {[}2004{]} UKHL 48 examines the limits
+of legal professional privilege. Privilege continues beyond the death of
+a client (Bullivant v AG for Victoria {[}1901{]}).
+
+\hypertarget{conflicts-of-interest}{%
+\section{Conflicts of Interest}\label{conflicts-of-interest}}
+
+Solicitors must act in the best interests of their clients (Principle
+7). If the interests of two clients (or prospective clients) conflict,
+it will be practically impossible to act in the beset interests of the
+two clients simultaneously.
+
+\hypertarget{types-of-conflict}{%
+\subsection{Types of Conflict}\label{types-of-conflict}}
+
+Two broad situations:
+
+\begin{enumerate}
+\tightlist
+\item
+  Conflict between two or more clients ('conflict of interest')
+\item
+  Conflict between client's interest and solicitor's interest ('own
+  interest conflict')
+\end{enumerate}
+
+A solicitor can \textbf{never} act where there is a conflict between
+themselves and a current client.
+
+\hypertarget{conflict-between-clients}{%
+\subsection{Conflict Between Clients}\label{conflict-between-clients}}
+
+\begin{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+Conflict of interest
+
+A situation where the solicitor's or firm's separate duties to act in
+the best interests of two or more clients conflict (SRA glossary).
+
+\end{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+\begin{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+Para 6.2, Code of Conduct
+
+A solicitor or firm must not act in relation to a matter or particular
+aspect of it if there is a conflict of interest or a significant risk of
+such a conflict unless:\\
+a) The clients have a substantially common interest in relation to the
+matter or aspect of it; or\\
+b) The clients are competing for the same objective.
+
+\end{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+\hypertarget{former-clients}{%
+\subsubsection{Former Clients}\label{former-clients}}
+
+Where a client's retainer has been terminated, the firm no longer owes a
+duty to act in that client's best interests, so a conflict cannot arise
+in such a situation. Even in the absence of a conflict, a firm may be
+prevented from acting if it holds confidential information for the
+former client which would be material to the work done for the new
+client.
+
+\hypertarget{matter-or-aspect-of-it}{%
+\subsubsection{Matter or Aspect of it}\label{matter-or-aspect-of-it}}
+
+Where the only conflict between the parties is their wider business
+interests, this will not create any conflict of interest issues.
+
+\hypertarget{significant-risk-of-a-conflict-of-interest}{%
+\subsubsection{Significant Risk of a Conflict of
+Interest}\label{significant-risk-of-a-conflict-of-interest}}
+
+An actual conflict is not required, just a significant risk. This can
+arise where there is an inequality of bargaining power between clients.
+
+\hypertarget{exceptions}{%
+\subsection{Exceptions}\label{exceptions}}
+
+The exceptions were introduced by the Law Society following a period of
+lobbying by part of the profession to liberalise the conflict of
+interest rules.
+
+\hypertarget{substantially-common-interest-exception-para-6.2a}{%
+\subsubsection{Substantially Common Interest Exception (para
+6.2(a))}\label{substantially-common-interest-exception-para-6.2a}}
+
+Where there is a conflict or a significant risk of one, a solicitor or
+firm can still act where the clients have a substantially common
+interest in relation to the matter.
+
+\begin{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+Substantially common interest
+
+A situation where there is a clear common purpose between the clients
+and a strong consensus as to how it is to be achieved.
+
+\end{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+e.g., this exception may be used where a solicitor is instructed by a
+group of people who want to set up a company.
+
+\hypertarget{competing-for-the-same-interest-commercial-exception}{%
+\subsubsection{Competing for the Same Interest ('commercial')
+Exception}\label{competing-for-the-same-interest-commercial-exception}}
+
+\begin{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+Competing for the same interest
+
+Two or more clients competing for an objective which, if attained by one
+client, will make the objective unattainable to the other client/
+clients.
+
+\end{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+Here, an objective is an asset, contract or business opportunity which
+clients are seeking to acquire or recover through liquidation or by
+means of an auction or tender process, but not a public takeover.
+
+Generally, this exception applies to corporate clients. It enables one
+firm to act for two companies bidding to take over a third.
+
+\hypertarget{conditions-for-acting-under-exceptions}{%
+\subsubsection{Conditions for Acting Under
+Exceptions}\label{conditions-for-acting-under-exceptions}}
+
+Under para 6.2:
+
+\begin{enumerate}
+\tightlist
+\item
+  All the clients must have given informed consent evidenced in writing
+\item
+  Where appropriate, effective safeguards put in place
+\item
+  The solicitor or firm is satisfied it is reasonable for them to act
+  for all the clients.
+\end{enumerate}
+
+Informed consent means the client must appreciate the issues and risks
+involved. Effective safeguards will be needed to protect confidential
+information. It must be reasonable for the solicitor to act, considering
+whether any clients are prejudiced, particularly if a client is
+vulnerable.
+
+\hypertarget{conflict-of-interest-between-existing-clients}{%
+\subsection{Conflict of Interest Between Existing
+Clients}\label{conflict-of-interest-between-existing-clients}}
+
+There may be two clients who originally posed no conflict, but a
+conflict arises during the retainer. The solicitor may continue to act
+for one of the clients, but must ensure that their duty of
+confidentiality is not put at risk.
+
+\hypertarget{own-interest-conflict}{%
+\subsubsection{Own Interest Conflict}\label{own-interest-conflict}}
+
+If there is an own-interest conflict, the solicitor may not act (para
+6.1). This can arise in cases such as:
+
+\begin{itemize}
+\tightlist
+\item
+  A client wanting to gift a significant amount to a solicitor
+\item
+  Solicitor lending money to client
+\item
+  Personal relationship with the client, impacting the solicitor's
+  ability to advise them independently and impartially.
+\end{itemize}
+
+A solicitor may not make a secret profit while acting for the client.
+
+\hypertarget{systems-for-identifying-conflict}{%
+\subsubsection{Systems for Identifying
+Conflict}\label{systems-for-identifying-conflict}}
+
+\begin{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+Code of Conduct for Firms para 2.1(a)
+
+Firms must have effective systems and controls in place to ensure they
+comply with all the SRA's regulatory requirements.
+
+\end{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+To identify 'own interest' conflicts, the firm should assess all
+relevant circumstances, including whether the solicitor's ability as an
+individual, or that of anyone within the firm, to act in the best
+interests of the client is impaired by:
+
+\begin{itemize}
+\tightlist
+\item
+  Financial interests
+\item
+  Personal relationships
+\item
+  Appointment to public office
+\item
+  Commercial relationships
+\item
+  Employment.
+\end{itemize}
+
+A conflict of interest check should be done before taking on any new
+work.
+
+\hypertarget{professional-embarrassment-1}{%
+\subsubsection{Professional
+Embarrassment}\label{professional-embarrassment-1}}
+
+Even if no conflict, may still decline to act due to professional
+embarrassment. A solicitor should consider whether accepting
+instructions to act for a client would breach one of the Principles.
+
+A solicitor can also take into account their own commercial
+considerations.
+
+\hypertarget{limited-retainer}{%
+\subsubsection{Limited Retainer}\label{limited-retainer}}
+
+A solicitor could be retained to act only in relation to those areas
+where no conflict exists, with each client seeking independent advice on
+the conflicting areas.
+
+\hypertarget{conveyancing}{%
+\subsubsection{Conveyancing}\label{conveyancing}}
+
+Subject to additional requirements.
+
+\hypertarget{undertakings}{%
+\section{Undertakings}\label{undertakings}}
+
+\begin{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+Undertaking
+
+A statement given orally or in writingk, whether or not it includes the
+word "undertake" or "undertaking" to someone who reasonably places
+reliance on it, that you or a third party will do something or cause
+something to be done, or refrain from doing something. (SRA Glossary)
+
+\end{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+A solicitor must perform all undertakings given by them within an agreed
+timescale, or if no timescale is agreed, within a reasonable amount of
+time (para 1.3 Codes of Conduct).
+
+Even a promise to give an undertaking will usually be interpreted as an
+undertaking and will be binding on the solicitor concerned. Once an
+undertaking has been relied upon, it can be withdrawn only be agreement.
+A solicitor is not obliged to give or accept an undertaking.
+
+\hypertarget{why-necessary}{%
+\subsection{Why Necessary}\label{why-necessary}}
+
+Often given by solicitors to smooth the path of a transaction, and avoid
+otherwise problematic areas. e.g., avoids the need for advance deposits
+in some cases, since other solicitors will rely on the undertaking as
+just as good.
+
+\hypertarget{breach-of-an-undertaking}{%
+\subsection{Breach of an Undertaking}\label{breach-of-an-undertaking}}
+
+The terms of an undertaking are personally binding on the individual
+solicitor concerned. So if they fail to comply, they can be sued
+personally by the recipient. They will also breach the Code of Conduct
+and will be disciplined by the SRA. The firm may also be disciplined for
+a lack of supervision.
+
+As there is an obligation on firms to maintain records to demonstrate
+compliance, and on solicitors to be able to justify their actions, firms
+and solicitors must maintain a system for recording undertakings that
+have been given and discharged.
+
+\hypertarget{oral-and-written-undertakings}{%
+\subsection{Oral and Written
+Undertakings}\label{oral-and-written-undertakings}}
+
+An undertaking is binding even if oral, though it is advisable to give
+them in writing. If given orally, it should be confirmed as soon as
+possible.
+
+\hypertarget{terms-of-the-undertaking}{%
+\subsection{Terms of the Undertaking}\label{terms-of-the-undertaking}}
+
+A undertaking is not a contract (no consideration). But arguably just as
+important.
+
+\hypertarget{wording}{%
+\subsubsection{Wording}\label{wording}}
+
+A previous Code of Conduct stated that any ambiguity in the wording of
+an undertaking would be interpreted in favour of its recipient. So take
+care drafting undertakings.
+
+\hypertarget{acts-outside-the-solicitors-control}{%
+\subsubsection{Acts Outside the Solicitor's
+Control}\label{acts-outside-the-solicitors-control}}
+
+Provided an undertaking which is wholly reliant on the action/ inaction
+of a third party should be avoided given the binding nature of such an
+undertaking. Could alternatively provide an undertaking to use their
+reasonable endeavours to ensure something happens. But again, don't give
+this where there is likely to be dispute over what constitutes
+reasonable endeavours.
+
+\hypertarget{undertaking-on-behalf-of-a-client}{%
+\subsubsection{Undertaking 'on Behalf' of a
+Client}\label{undertaking-on-behalf-of-a-client}}
+
+An undertaking may be drafted as being made 'on behalf of' the client.
+This will not prevent the undertaking being enforceable against the
+solicitor personally. It is possible to exclude personal liability, but
+in order to do so the solicitor must clearly and expressly disclaim
+personal liability.
+
+\hypertarget{timescale}{%
+\subsubsection{Timescale}\label{timescale}}
+
+Either agree a timescale or a 'reasonable' timescale will be imposed.
+
+\hypertarget{costs}{%
+\subsubsection{Costs}\label{costs}}
+
+Where an undertaking is given in respect of the payment of costs of
+another party, the term 'costs' will be implied to mean proper costs
+unless as specific amount is agreed.
+
+\hypertarget{clients-authority}{%
+\subsection{Client's Authority}\label{clients-authority}}
+
+A solicitor should ensure they have clear and express authority from
+their client before giving any undertakings. When such authority has
+been received, it may be withdrawn by the client any time until the
+solicitor has acted (even if expressed to be irrevocable).
+
+\hypertarget{change-of-circumstances}{%
+\subsubsection{Change of Circumstances}\label{change-of-circumstances}}
+
+An undertaking will remain binding if the circumstances change so that
+it is impossible to fulfil it, either wholly or partially. The recipient
+may agree to its variation or discharge. Good practice to always inform
+the recipient of any changes to circumstances.
+
+\hypertarget{enforcement}{%
+\subsubsection{Enforcement}\label{enforcement}}
+
+\hypertarget{the-courts}{%
+\paragraph{The Courts}\label{the-courts}}
+
+The court is able to enforce an undertaking against a solicitor as an
+officer of the court. Firms are obliged to carry indemnity insurance to
+cover such claims. But the value of such claims may fall within the
+excess of these policies, leading to personal liability for the
+solicitor concerned.
+
+A breach of an undertaking is likely to be a breach of professional
+conduct. SRA will generally not investigate a breach of an undertaking
+given to the court itself, unless the court reported the matter to the
+SRA.
+
+An undertaking given by an incorporated law firm (limited company or
+LLP) is not capable of being enforced against the firm under the court's
+supervisory jurisdiction over solicitors as officers of the court, since
+such a firm has a separate legal existence. So the recipient would have
+to make a claim under contract, negligence or breach of trust. The firm
+can still face action for professional misconduct.
+
+\hypertarget{sra-and-solicitors-disciplinary-tribunal}{%
+\paragraph{SRA and Solicitors Disciplinary
+Tribunal}\label{sra-and-solicitors-disciplinary-tribunal}}
+
+The Legal Ombudsman, SRA, and Solicitors Disciplinary Tribunal have no
+power to enforce the performance of an undertaking, but may investigate
+the solicitor's conduct and impose disciplinary sanctions.
+
+\hypertarget{liability-of-others}{%
+\paragraph{Liability of Others}\label{liability-of-others}}
+
+In a firm, if an undertaking is given by an assistant solicitor and not
+honoured, there will be a breach of professional conduct by the
+solicitor and also the partners of the firm. So many firms have strict
+procedures about undertakings.
+
+\begin{env-0cb2e3ab-3bde-42f2-97ad-ac1eecea3f6d}
+
+Warning
+
+Be super careful. If you make an undertaking to pay £100k from the
+proceeds of sale of a house, and the house sells for 90k, you are
+personally liable for the 10k. So draft the undertaking to expressly
+limit liability to the money received through the sale.
+
+\end{env-0cb2e3ab-3bde-42f2-97ad-ac1eecea3f6d}
+
+\begin{env-131bf3d9-4263-4e79-8eed-44c374685e2a}
+
+Question
+
+Why not just have the client undertake to do something directly? And
+sign an undertaking/ contract to that effect?
+
+\end{env-131bf3d9-4263-4e79-8eed-44c374685e2a}
+
+\hypertarget{money-laundering}{%
+\section{Money Laundering}\label{money-laundering}}
+
+\begin{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+Money laundering
+
+The process by which criminals seek to alter or launder their proceeds
+of crime so that it appears that these funds come from a legitimate
+source.
+
+\end{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+Solicitors are targets for criminals in their efforts to launder the
+proceeds of crime.
+
+\hypertarget{money-laundering-regulations-2017}{%
+\subsection{Money Laundering Regulations
+2017}\label{money-laundering-regulations-2017}}
+
+The Money Laundering, Terrorist Financing and Transfer of Funds
+(Information on the Payer) Regulations 2017 (SI 2017/692) came into
+force 26/06/17 and repealed and replaced the Money Laundering
+Regulations 2007. Since been amended by the Money Laundering and
+Terrorist Financing (Amendment) Regulations 2019 and the Money
+Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations
+2020.
+
+The Regulations apply to persons acting in the course of businesses
+carried out in the UK, including independent legal professions (reg 8).
+The vast majority of solicitors' firms will be subject to the
+Regulations. Failure to comply is a criminal offence.
+
+There is a requirement for the 'beneficial owners, officers or managers'
+of the firm and sole practitioners to apply to the SRA for approval
+under the Regulations, which will be granted unless they have been
+convicted of a relevant offence. These offences include any which
+involve deception/ dishonesty.
+
+A firm is required to take appropriate steps to identify and assess the
+risk of money laundering and terrorist financing to which the business
+is subject.
+
+Services provided by law firms most likely to be targeted by money
+launders:
+
+\begin{itemize}
+\tightlist
+\item
+  Trust and company formation
+\item
+  Conveyancing and client account services
+\end{itemize}
+
+So firms need to ensure they have appropriate measures in place to
+address these risks.
+
+\hypertarget{nominated-officers-and-reporting-procedures}{%
+\subsubsection{Nominated Officers and Reporting
+Procedures}\label{nominated-officers-and-reporting-procedures}}
+
+\begin{itemize}
+\tightlist
+\item
+  A firm is required to establish and maintain written policies,
+  controls and procedures to mitigate and manage effectively the money
+  laundering and terrorist financing risks identified. This is mainly
+  about systems and risk assessment.
+\item
+  A firm must have a 'nominated officer' (MLRO) to receive reports
+  within the firm of any instances of suspected money laundering and to
+  liaise with the National Crime Agency (reg 21(3)).
+\item
+  Firm must appoint an individual from senior management to be
+  responsible for compliance with the Regulations (reg 21(1)(a)).
+\item
+  Relevant employees (those in compliance/ identification of money
+  laundering) must be screened prior to and during the course of their
+  employment to assess their skills, knowledge, conduct and integrity.
+  (reg 21(1)(b)).
+\item
+  Establishing an independent audit function to examine and monitor
+  firm's policies adopted to comply with the Regulations (reg 21(1)(c)).
+\item
+  Controls which enable the firm to 'respond fully and rapidly' to
+  enquiries from law enforcement as to whether it maintains a business
+  relationship with any person, and the nature of their relationship
+  (reg 21(8)).
+\end{itemize}
+
+\hypertarget{client-due-diligence}{%
+\subsection{Client Due Diligence}\label{client-due-diligence}}
+
+Firms carrying out relevant business are obliged to obtain verification
+of the identity of each of their clients ('customer due diligence').
+This includes the following circumstances (reg 27):
+
+\begin{enumerate}
+\tightlist
+\item
+  If the client and solicitor agree to form a business relationship
+\item
+  Carrying out the occasional transaction that amounts to a 'transfer of
+  funds' exceeding EUR 1000
+\item
+  Carrying out an occasional transaction amounting to EUR 15,000 or
+  more, whether in one transaction or several linked transactions
+\item
+  Where the solicitor suspects money laundering or terrorist financing
+\item
+  Where the solicitor doubts the veracity or adequacy of documents or
+  information supplied to verify client identity.
+\end{enumerate}
+
+Verification must take place before a business relationship is
+established/ before a transaction is carried out (reg 30). Proof of
+registration must be collected before establishing a business
+relationship with a company. There are certain exceptions, e.g., if
+there is little risk of money laundering.
+
+\hypertarget{simplified-due-diligence}{%
+\subsubsection{Simplified Due
+Diligence}\label{simplified-due-diligence}}
+
+Simplified due diligence is permitted where a firm determines that the
+business relationship or transaction presents a low risk of money
+laundering or terrorist financing. If the transaction and client are
+eligible for simplified due diligence, the solicitor will not
+necessarily need to obtain information on the beneficial owners.
+
+\hypertarget{standard-due-diligence}{%
+\subsubsection{Standard Due Diligence}\label{standard-due-diligence}}
+
+Will apply to most clients. The solicitor is obliged to verify the
+identity of the client on the basis of documents/ information from a
+reliable source which is independent of the person whose identity is
+being verified.
+
+\begin{itemize}
+\tightlist
+\item
+  For companies/ trusts, take reasonable measures to understand
+  ownership and control structures.
+\item
+  For natural persons, need passports/ driving licences.
+\item
+  For partnerships, obtain information on the constituent individuals
+  (other than where partnerships are well-known reputable organisations
+  with long histories)
+\item
+  For companies, need to know:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Name
+  \item
+    Company number
+  \item
+    Registered office address and principal place of business
+  \item
+    Proof of registration
+  \item
+    Reasonable efforts to obtain constitution, names of board of
+    directors
+
+    \begin{itemize}
+    \tightlist
+    \item
+      This will be helped by the obligation on a UK body corporate to
+      provide certain information on request when it forms a business
+      relationship with a firm.
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+The definition of a beneficial owner varies depending on the nature of
+the client.
+
+\begin{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+Beneficial owner of a company
+
+For companies, reg 5(1) defines a beneficial owner as:
+
+\begin{itemize}
+\tightlist
+\item
+  Any individual who exercises ultimate control over the management of
+  the body corporate
+\item
+  Any individual who ultimately owns or controls more than 25\% of the
+  shares/ voting rights in the body corporate.
+\item
+  An individual who controls the body corporate
+\end{itemize}
+
+\end{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+This does \textbf{not} apply to a company listed on a regulated market,
+but does apply to LLPs.
+
+\begin{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+Beneficial owner of a partnership
+
+Reg 5(3) defines the beneficial owner of a partnership as any individual
+who:
+
+\begin{itemize}
+\tightlist
+\item
+  Is ultimately entitled to or controls {\(> 25\%\)} of capital/
+  profits/ voting rights of the partnership
+\item
+  Otherwise exercises control over the management of the partnership.
+\end{itemize}
+
+\end{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+\begin{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+Beneficial owner of a trust
+
+Reg 6(1) says this includes:
+
+\begin{itemize}
+\tightlist
+\item
+  The settlor
+\item
+  The trustees
+\item
+  The beneficiary
+\item
+  The class of persons in whose main interest the trust is set up
+\item
+  Any individual who has control over the trust.
+\end{itemize}
+
+\end{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+This is more thorough than for companies, since the trust does not have
+legal personality itself. Beneficial owners are those individuals who
+hold equivalent or similar positions to those set out in reg 6(1).
+
+\hypertarget{enhanced-due-diligence}{%
+\subsubsection{Enhanced Due Diligence}\label{enhanced-due-diligence}}
+
+Enhanced due diligence must be carried out where (reg 33):
+
+\begin{itemize}
+\tightlist
+\item
+  High risk of money laundering/ terrorist financing, identified by the
+  firm/ information provided by the SRA and Law Society
+\item
+  Client/ other party to transaction is established in a high-risk third
+  party
+\item
+  Client has provided false or stolen identification documentation
+\item
+  Client is a politically exposed person (PEP), or a family member or
+  close associate of a PEP
+\item
+  Transaction is complex or unusually large
+\item
+  Any other situation where there is a higher risk of money laundering
+  or terrorist financing.
+\end{itemize}
+
+A solicitor must take measures to examine the background and purpose of
+a transaction and consider whether it is appropriate to obtain further
+independent verification of the client or beneficial owner's identity or
+more detail on the ownership and control structure of the client.
+
+A PEP is an individual who is entrusted with prominent public functions.
+They have been a focus for the Financial Action Task Force and other
+bodies because of concerns about using their political positions to
+corruptly enrich themselves.
+
+Where a solicitor is dealing with a PEP, additional obligations are
+placed on the solicitor, such as having the approval of senior
+management to act for the client, taking adequate measures to establish
+the source of wealth and enhanced ongoing monitoring.
+
+A solicitor is obliged to undertake ongoing monitoring of business
+relationships to ensure transactions are consistent with the solicitor's
+knowledge of the client (reg 28(11)).
+
+\hypertarget{training}{%
+\subsection{Training}\label{training}}
+
+Firms are obliged to train employees and agents used about money
+laundering (reg 24). Employees should be made aware of the law relating
+to money laundering, terrorist financing and data protection.
+
+Where no training is given, may provide the employee with a defence
+under the Proceeds of Crime Act 2002.
+
+\hypertarget{record-keeping}{%
+\subsubsection{Record Keeping}\label{record-keeping}}
+
+Keep detailed records to satisfy due diligence requirements. Records
+must be kept for at least 5 years from when the business relationship
+ends.
+
+\hypertarget{proceeds-of-crime-act-2002}{%
+\subsubsection{Proceeds of Crime Act
+2002}\label{proceeds-of-crime-act-2002}}
+
+This Act made it an offence to be involved in money laundering. There
+are 3 offences that most concern solicitors.
+
+\hypertarget{arrangements}{%
+\subsubsection{Arrangements}\label{arrangements}}
+
+\begin{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+Proceeds of Crime Act 2002, s 328
+
+(1) A person commits an offence if he enters into or becomes concerned
+in an arrangement which he knows or suspects facilitates (by whatever
+means) the acquisition, retention, use or control of criminal property
+by or on behalf of another person.
+
+(2) But a person does not commit such an offence if---
+
+\begin{itemize}
+\item
+  (a) he makes an authorised disclosure under section 338 and (if the
+  disclosure is made before he does the act mentioned in subsection (1))
+  he has the appropriate consent;
+\item
+  (b) he intended to make such a disclosure but had a reasonable excuse
+  for not doing so;
+\item
+  (c) the act he does is done in carrying out a function he has relating
+  to the enforcement of any provision of this Act or of any other
+  enactment relating to criminal conduct or benefit from criminal
+  conduct.
+\end{itemize}
+
+(3) Nor does a person commit an offence under subsection (1) if---
+
+\begin{itemize}
+\item
+  (a) he knows, or believes on reasonable grounds, that the relevant
+  criminal conduct occurred in a particular country or territory outside
+  the United Kingdom, and
+\item
+  (b) the relevant criminal conduct---
+
+  \begin{itemize}
+  \item
+    (i) was not, at the time it occurred, unlawful under the criminal
+    law then applying in that country or territory, and
+  \item
+    (ii) is not of a description prescribed by an order made by the
+    Secretary of State.
+  \end{itemize}
+\end{itemize}
+
+(4) In subsection (3) \emph{``the relevant criminal conduct''} is the
+criminal conduct by reference to which the property concerned is
+criminal property.
+
+(5) A deposit-taking body, electronic money institution or payment
+institution{]}3 that does an act mentioned in subsection (1) does not
+commit an offence under that subsection if---
+
+\begin{itemize}
+\item
+  (a) it does the act in operating an account maintained with it, and
+\item
+  (b) the arrangement facilitates the acquisition, retention, use or
+  control of criminal property of a value that is less than the
+  threshold amount determined under section 339A for the act.
+\end{itemize}
+
+\end{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+This is drafted very widely. There is no requirement that the funds pass
+through the hands of the solicitor for them to be criminally liable. The
+maximum penalty is 14 years' imprisonment.
+
+\begin{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+Criminal property
+
+A person's direct or indirect benefit from criminal conduct (s 340)
+
+\end{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+Criminal conduct is defined very widely to include basically all
+offences, including conduct internationally which is criminalised in the
+UK.
+
+A solicitor does not commit an offence under s 328 if they make an
+authorised disclosure to the firm's nominated officer as soon as is
+practically possible. If the nominated officer decides to make a report
+to the NCA, they are unable to consent to the transaction proceeding
+until:
+
+\begin{itemize}
+\tightlist
+\item
+  The NCA consents
+\item
+  The NCA does not respond after 7 working days (starting the day after
+  disclosure)
+\item
+  Where consent is refused, and 31 days have since passed.
+\end{itemize}
+
+A solicitor may seek to make an authorised disclosure whilst the
+prohibited act is ongoing. To avoid breaching s 328, they must satisfy s
+338(2A):
+
+\begin{itemize}
+\tightlist
+\item
+  Disclosure made whilst the prohibited act is ongoing
+\item
+  When the alleged offender began to do the act, they did not know/
+  suspect criminal assets
+\item
+  Disclosure made as soon as is practicable.
+\end{itemize}
+
+A solicitor may also seek to make an authorised disclosure after the
+prohibited act is completed, but must have a good reason for their
+failure to disclose prior to their completing the act (s 338(3)).
+
+\hypertarget{exception-litigation}{%
+\paragraph{Exception: Litigation}\label{exception-litigation}}
+
+\begin{env-14852eae-23f3-42aa-ab4a-d94f5d4651db}
+
+Important
+
+In Bowman v Fels {[}2005{]} EWCA Civ 226, the Court of Appeal held that
+taking steps in litigation and the resolution of issues in a litigious
+context were excluded from the scope of s 328.
+
+\end{env-14852eae-23f3-42aa-ab4a-d94f5d4651db}
+
+But the solicitor would not be able to take advantage of this exclusion
+if the litigation was a sham created for the purpose of money
+laundering.
+
+\hypertarget{exception-overseas-crime}{%
+\paragraph{Exception: Overseas Crime}\label{exception-overseas-crime}}
+
+A solicitor will not commit an offence where the criminal conduct
+occurred outside the UK and was not unlawful in the country where it
+happened. But this defence is not available where the offence would
+carry a sentence of {\(\geq 12\)} months in the UK.
+
+\hypertarget{acquisition-use-or-possession}{%
+\paragraph{Acquisition, Use or
+Possession}\label{acquisition-use-or-possession}}
+
+\begin{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+Proceeds of Crime Act 2002, s 329
+
+(1) A person commits an offence if he---
+
+\begin{itemize}
+\item
+  (a) acquires criminal property;
+\item
+  (b) uses criminal property;
+\item
+  (c) has possession of criminal property.
+\end{itemize}
+
+(2) But a person does not commit such an offence if---
+
+\begin{itemize}
+\item
+  (a) he makes an authorised disclosure under section 338 and (if the
+  disclosure is made before he does the act mentioned in subsection (1))
+  he has the appropriate consent;
+\item
+  (b) he intended to make such a disclosure but had a reasonable excuse
+  for not doing so;
+\item
+  (c) he acquired or used or had possession of the property for adequate
+  consideration;
+\item
+  (d) the act he does is done in carrying out a function he has relating
+  to the enforcement of any provision of this Act or of any other
+  enactment relating to criminal conduct or benefit from criminal
+  conduct.
+\end{itemize}
+
+(2A) Nor does a person commit an offence under subsection (1) if---
+
+\begin{itemize}
+\item
+  (a) he knows, or believes on reasonable grounds, that the relevant
+  criminal conduct occurred in a particular country or territory outside
+  the United Kingdom, and
+\item
+  (b) the relevant criminal conduct---
+
+  \begin{itemize}
+  \item
+    (i) was not, at the time it occurred, unlawful under the criminal
+    law then applying in that country or territory, and
+  \item
+    (ii) is not of a description prescribed by an order made by the
+    Secretary of State.
+  \end{itemize}
+\end{itemize}
+
+(2B) In subsection (2A) \emph{``the relevant criminal conduct''} is the
+criminal conduct by reference to which the property concerned is
+criminal property.
+
+(2C) A deposit-taking body {[}, electronic money institution or payment
+institution{]}3 that does an act mentioned in subsection (1) does not
+commit an offence under that subsection if---
+
+\begin{itemize}
+\item
+  (a) it does the act in operating an account maintained with it, and
+\item
+  (b) the value of the criminal property concerned is less than the
+  threshold amount determined under section 339A for the act.
+\end{itemize}
+
+(3) For the purposes of this section---
+
+\begin{itemize}
+\item
+  (a) a person acquires property for inadequate consideration if the
+  value of the consideration is significantly less than the value of the
+  property;
+\item
+  (b) a person uses or has possession of property for inadequate
+  consideration if the value of the consideration is significantly less
+  than the value of the use or possession;
+\item
+  (c) the provision by a person of goods or services which he knows or
+  suspects may help another to carry out criminal conduct is not
+  consideration.
+\end{itemize}
+
+\end{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+\hypertarget{adequate-consideration-defence}{%
+\subparagraph{Adequate Consideration
+Defence}\label{adequate-consideration-defence}}
+
+An issue may arise where a solicitor received money for their costs for
+work carried out for a client charged with a criminal offence, and there
+is the possibility that the money in question is criminal property.
+
+The defence applies where professional advisers receive money for costs,
+but the fees charged must be reasonable. Returning the balance of money
+in an account to a client may be an offence under s 328 if the solicitor
+knows/ suspects the money is criminal property. In this case, an
+authorised disclosure must be made.
+
+\hypertarget{failure-to-disclose}{%
+\paragraph{Failure to Disclose}\label{failure-to-disclose}}
+
+A person commits an offence under s 330 Proceeds of Crime Act 2002 if:
+
+\begin{enumerate}
+\tightlist
+\item
+  They know, suspect, or have reasonable grounds to know or suspect,
+  that a person is engaged in money laundering; and
+\item
+  The information comes to them in the course of a business in the
+  regulated sector; and
+\item
+  The information may assist in identifying the money launderer or the
+  location of any laundered property; and
+\item
+  They do not make an authorised disclosure as soon as is practicable.
+\end{enumerate}
+
+\begin{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+Proceeds of Crime Act 2002, s 330
+
+(1) A person commits an offence if {[}the conditions in subsections (2)
+to (4) are satisfied.
+
+(2) The first condition is that he---
+
+\begin{itemize}
+\item
+  (a) knows or suspects, or
+\item
+  (b) has reasonable grounds for knowing or suspecting,
+\end{itemize}
+
+that another person is engaged in money laundering.
+
+(3) The second condition is that the information or other matter---
+
+\begin{itemize}
+\item
+  (a) on which his knowledge or suspicion is based, or
+\item
+  (b) which gives reasonable grounds for such knowledge or suspicion,
+\end{itemize}
+
+came to him in the course of a business in the regulated sector.
+
+(3A) The third condition is---
+
+\begin{itemize}
+\item
+  (a) that he can identify the other person mentioned in subsection (2)
+  or the whereabouts of any of the laundered property, or
+\item
+  (b) that he believes, or it is reasonable to expect him to believe,
+  that the information or other matter mentioned in subsection (3) will
+  or may assist in identifying that other person or the whereabouts of
+  any of the laundered property.
+\end{itemize}
+
+(4) The fourth condition is that he does not make the required
+disclosure to---
+
+\begin{itemize}
+\item
+  (a) a nominated officer, or
+\item
+  (b) a person authorised for the purposes of this Part by {[}the
+  Director General of the National Crime Agency,
+\end{itemize}
+
+as soon as is practicable after the information or other matter
+mentioned in subsection (3) comes to him.
+
+\end{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+Breaking this down:
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule()
+Term & Explanation \\
+\midrule()
+\endhead
+Objective test & A solicitor will commit this offence even where they
+genuinely did not know or suspect a person was engaged in money
+laundering. So turning a blind eye is no defence. \\
+Regulated sector & Most solicitors' firms fall within this category. \\
+The information & The information obtained must be of some use to the
+authorities. So the solicitor must identify/ believe the information
+will assist authorities. Again, an objective test. \\
+Authorised disclosure & A solicitor will be provided with a defence to s
+330 if they make an authorised disclosure to the firm's nominated
+officer as soon as practically possible. \\
+Reasonable excuse for non-disclosure & Reasonable excuse is a defence \\
+Training & If not trained, employee has a defence against s 330
+offence \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{confidentiality-and-privilege-1}{%
+\subparagraph{Confidentiality and
+Privilege}\label{confidentiality-and-privilege-1}}
+
+A solicitor is under a duty at common law to keep confidential certain
+information given to them by a client. This is referred to as legal
+professional privilege (LPP). Communications will be protected from
+disclosure if they fall within 'advice privilege' or 'litigation
+privilege'. But LLP cannot be relied upon where communication takes
+place for committing an offence.
+
+A solicitor is not obliged under s 330 to disclose any information that
+comes to them as a professional legal adviser in privileged
+circumstances, or in relation to legal proceedings, whether contemplated
+or actual. Does not apply where the information is communicated for the
+intention of furthering a criminal purpose.
+
+\hypertarget{overseas-defence}{%
+\subparagraph{Overseas Defence}\label{overseas-defence}}
+
+If the solicitor believes the money laundering is taking place outside
+the UK, and it is not unlawful in that country, they do not have to
+disclose anything.
+
+\hypertarget{penalty}{%
+\subparagraph{Penalty}\label{penalty}}
+
+Maximum 5 years' imprisonment for s 330 offence.
+
+\hypertarget{tipping-off}{%
+\paragraph{Tipping Off}\label{tipping-off}}
+
+\begin{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+Disclosing a suspicious activity report (s 333A(1))
+
+It is an offence to disclose to any person that a suspicious activity
+report (on money laundering) has been made if that disclosure is likely
+to prejudice any investigation that follows such a report.
+
+\end{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+\begin{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+Disclosing an investigation (s 333A(3))
+
+More general offence which is committed where a disclosure is made to
+any person that an investigation into money laundering is being carried
+out or contemplated, and that disclosure is likely to prejudice the
+money laundering investigation.
+
+\end{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+\hypertarget{defences}{%
+\subparagraph{Defences}\label{defences}}
+
+There are a number of defences to tipping off:
+
+\begin{enumerate}
+\tightlist
+\item
+  the person who made the disclosure did not know or suspect that the
+  disclosure would prejudice an investigation into money laundering (s
+  333D(3) and (4)).
+\item
+  Disclosure is made to the client for the purposes of dissuading the
+  client from engaging in the alleged money laundering (s 333D(2))
+\end{enumerate}
+
+\hypertarget{penalties}{%
+\subparagraph{Penalties}\label{penalties}}
+
+Carry a maximum penalty of an unlimited fine and/ or max. 2 year prison
+sentence.
+
+\hypertarget{regulated-sector}{%
+\subparagraph{Regulated Sector}\label{regulated-sector}}
+
+Above offences only apply to the regulated sector, though similar
+provisions are in effect for work outside the regulated sector under s
+342.
+
+\hypertarget{confidentiality-1}{%
+\paragraph{Confidentiality}\label{confidentiality-1}}
+
+A solicitor is under a duty under para 6.3 Codes of Conduct to keep
+confidential the affairs of clients (and former clients) unless
+disclosure is required or permitted by law, or the client consents.
+
+When making s 328 or s 330 disclosures, the legislation expressly
+provides that such a disclosure will not breach this duty and is
+permitted by law.
+
+\hypertarget{criminal-finances-act-2017}{%
+\paragraph{Criminal Finances Act
+2017}\label{criminal-finances-act-2017}}
+
+From 30/09/17, Criminal Finances Act 2017 introduced the corporate
+offence of failure to prevent the criminal facilitation of tax evasion.
+It applies to law firms as 'relevant bodies'.
+
+This makes a firm liable for failing to prevent tax evasion by its
+employees/ other associated persons. There is strict liability for the
+offence: no knowledge or intention is required on the part of the firm/
+senior management.
+
+The only defence available is that the firm had reasonable prevention
+procedures in place (or it was reasonable not to have such measures).
+The penalty is unlimited fines and confiscation of assets. A firm-wide
+assessment of risk and internal procedures will be required.
+
+Serious and extensive restrictions are imposed on those dealing with
+people or entities on the sanctions list. This covers all firms and
+imposes a requirement to inform the Office of Financial Sanctions
+Implementation (OFSI) if it is known or reasonably suspected that a
+person is a designated person has committed offences under financial
+sanctions/ asset freezing regimes. If the firm still wants to act for
+the person, needs a licence from OFSI.
+
+\begin{env-a3cdf638-6f18-4b95-9378-c003a9523525}
+
+Summary
+
+\begin{enumerate}
+\tightlist
+\item
+  Money laundering is the process whereby the proceeds of crime are
+  changed so that they appear to come from a legitimate source.
+\item
+  The Government has introduced legislation to disrupt this process.
+\item
+  Solicitors who undertake relevant business must comply with the Money
+  Laundering, Terrorist Financing and Transfer of Funds (Information on
+  the Payer) Regulations 2017 (SI 2017/692).
+\item
+  Under the 2017 Regulations, firms must appoint a nominated officer,
+  who will receive internal reports concerning money laundering and must
+  consider whether to report the matter to the NCA.
+\item
+  A person commits an offence under s 328 of the Proceeds of Crim e Act
+  2002 where they become concerned in an arrangement involving money
+  laundering.
+\item
+  Section 328 does not apply to steps taken in litigation.
+\item
+  A person commits an offence under s 329 of the Proceeds of Crime Act
+  2002 if they acquire, use or have possession of criminal property
+\item
+  A solicitor within the regulated sector is obliged to disclose any
+  suspected money laundering activity to their nominated officer under s
+  330 of the Proceeds of Crime Act 2002.
+\item
+  It is an offence to disclose to any person that a disclosure has been
+  made where this may prejudice an investigation.
+\end{enumerate}
+
+\end{env-a3cdf638-6f18-4b95-9378-c003a9523525}
+
+\hypertarget{financial-services}{%
+\section{Financial Services}\label{financial-services}}
+
+Solicitors often have to do financial services work and will have to
+comply with FCA and SRA regulations.
+
+Work could arise:
+
+\begin{itemize}
+\tightlist
+\item
+  In conveyancing (e.g., helping a client finding a mortgage and support
+  package)
+\item
+  In probate (when executors sell off assets)
+\item
+  In litigation (helping a successful client to invest damages)
+\item
+  etc.
+\end{itemize}
+
+A solicitor would be in breach of their duty to act in the client's best
+interests (Principle 7) if they did not have sufficient expertise in the
+area concerned. For many activities, also require authorisation.
+
+\hypertarget{source-material}{%
+\subsection{Source Material}\label{source-material}}
+
+\begin{itemize}
+\tightlist
+\item
+  Financial Services and Markets Act 2000 (FSMA 2000) came into force
+  30/11/2001.
+\item
+  Financial Services Act 2012 extensively amends FSMA 2000.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Currently partly in force
+  \item
+    Need to study it alongside the Orders of Council made by the
+    Treasury - lots of the details only implemented through secondary
+    legislation.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{financial-services-regulatory-structure}{%
+\subsection{Financial Services Regulatory
+Structure}\label{financial-services-regulatory-structure}}
+
+FSMA 2000 established the FSA, to regulate financial services. Following
+the 2008 crisis, the Government abolished the FSA and established three
+bodies:
+
+\begin{itemize}
+\tightlist
+\item
+  Financial Conduct Authority (FCA)
+\item
+  Prudential Regulation Authority (PRA)
+\item
+  Financial Policy Committee (FPC).
+\end{itemize}
+
+The FCA and PRA have taken over the majority of the FSA's functions,
+whilst the FPC is responsible for monitoring the stability of the whole
+UK financial system.
+
+\hypertarget{fca}{%
+\subsubsection{FCA}\label{fca}}
+
+\begin{itemize}
+\tightlist
+\item
+  Responsibility for the conduct of business regulation of all firms
+\item
+  Responsibility for prudential regulation of firms (their safety and
+  soundness) not regulated by the PRA.
+\end{itemize}
+
+FCA objectives are:
+
+\begin{enumerate}
+\tightlist
+\item
+  Securing an appropriate degree of protection for consumers
+\item
+  Protecting and enhancing the integrity of the UK financial system
+\item
+  Promoting effective competition in the interests of consumers in the
+  market.
+\end{enumerate}
+
+The FCA can require firms to withdraw or amend misleading financial
+promotions with immediate effect and can block/ stop a service or
+product. Also regulates consumer credit and second charge mortgages.
+
+\hypertarget{pra}{%
+\subsubsection{PRA}\label{pra}}
+
+Subsidiary of the Bank of England responsible for the authorisation,
+prudential regulation and general supervision of firms which manage
+significant financial risks. Such firms are known as PRA-authorised or
+dual-regulated firms.
+
+\hypertarget{general-framework}{%
+\subsubsection{General Framework}\label{general-framework}}
+
+Businesses carrying out regulated activities need to be authorised by
+the appropriate regulator. If certain conditions are satisfied, a firm
+carrying out regulated activity incidentally in the course of carrying
+out professional work does not have to obtain authority from the FCA
+provided it is regulated and supervised by a particular Designated
+Professional Body ('DPB'). The SRA is a DPB.
+
+\hypertarget{general-restrictions}{%
+\subsection{General Restrictions}\label{general-restrictions}}
+
+Restrictions:
+
+\begin{itemize}
+\tightlist
+\item
+  s 19 FSMA: No person may carry on a regulated activity in the UK
+  unless authorised or exempt.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Can result in agreements being rendered unenforceable.
+  \end{itemize}
+\item
+  s 21 FSMA: making an unauthorised financial promotion is prohibited.
+\item
+  Any breaches of the above are criminal offences
+\end{itemize}
+
+\hypertarget{regulated-activity}{%
+\subsection{Regulated Activity}\label{regulated-activity}}
+
+\includegraphics{C:/Users/shiva/Filen/MEGA/LegalPracticeCourse/Regulated activity flowchart.png}
+
+\hypertarget{four-tests}{%
+\subsubsection{Four Tests}\label{four-tests}}
+
+s 22 FSMA 2000 sets out the definition of a regulated activity, which
+has been substantially amended by FSA 2012.
+
+\begin{env-9071ed6f-22c2-4fad-bdeb-265416ff35df}
+
+Is an activity regulated?
+
+Tests:
+
+\begin{enumerate}
+\tightlist
+\item
+  Are you in business?
+\item
+  Is there a specified activity?
+\item
+  Is there a specified investment, or does the specified actifvitiy
+  relate to information about a person's financial standing or
+  administering a benchmark?
+\end{enumerate}
+
+\end{env-9071ed6f-22c2-4fad-bdeb-265416ff35df}
+
+\begin{env-a3cdf638-6f18-4b95-9378-c003a9523525}
+
+Note
+
+RAO 2001 is shorthand for Financial Services and Markets Act 2000
+(Regulated Activities) Order 2001, SI 2001/544
+
+\end{env-a3cdf638-6f18-4b95-9378-c003a9523525}
+
+\begin{itemize}
+\tightlist
+\item
+  Particular activities and investments are specified by the Treasure in
+  RAO 2001, s 22.
+\item
+  Information about a person's financial standing includes credit
+  references and stuff
+\item
+  'Benchmark' is defined in s 22(6A) FSMA 2000.
+\end{itemize}
+
+\hypertarget{specified-investments}{%
+\subsection{Specified Investments}\label{specified-investments}}
+
+These include:
+
+\begin{itemize}
+\tightlist
+\item
+  Company stocks and shares
+\item
+  Debentures, loan stock and bonds
+\item
+  Government securities
+\item
+  Unit trusts and open-ended investment companies (OEICs) - like a unit
+  trust but company rather than trust
+\item
+  Insurance contracts
+\item
+  Certain mortgage contracts called regulated mortgage contracts (those
+  over land of which {\(\geq 40\%\)} will be a dwelling)
+\item
+  Home reversion/ home purchase plans
+\item
+  Deposits. Note sums received by solicitors acting in the course of
+  business are exempt.
+\end{itemize}
+
+\hypertarget{specified-investment-activities}{%
+\subsubsection{Specified Investment
+Activities}\label{specified-investment-activities}}
+
+Include:
+
+\begin{itemize}
+\tightlist
+\item
+  Dealing as agent
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Buying, selling, subscribing for or underwriting investments.
+  \end{itemize}
+\item
+  Arranging
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Solicitors have many clients whose transactions involve investments.
+  \item
+    Solicitor may be involved as the contact between client and broker/
+    life company.
+  \item
+    Merely introducing a client to an FCA-authorised third-party does
+    not constitute arranging, except where the transaction relates to an
+    insurance contract.
+  \end{itemize}
+\item
+  Managing
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Requires active participation beyond merely holding investments.
+  \end{itemize}
+\item
+  Safeguarding
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Safeguarding and administering investments belonging to a client.
+  \end{itemize}
+\item
+  Advising
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Giving advice to a person in their capacity as an investor on the
+    merits of their buying/ selling/ subscribing for/ underwriting an
+    investment.
+  \item
+    Does not include generic investment
+  \item
+    You could refer your client to a person authorised by the FCA to
+    provide advice.
+  \end{itemize}
+\item
+  Lending money on regulated mortgage
+\end{itemize}
+
+\hypertarget{exclusions}{%
+\subsubsection{Exclusions}\label{exclusions}}
+
+Exclusions relevant to solicitors include:
+
+\begin{itemize}
+\tightlist
+\item
+  Introducing
+\item
+  Using an ATP (authorised third party)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If the transaction is entered into with or through an ATP, on the
+    advice given to the client by the ATP, the effect of RAO 2001 is
+    excluded.
+  \item
+    The exclusion does not apply to insurance contracts
+  \item
+    Does not apply if you receive a commission
+  \end{itemize}
+\item
+  Acting for an execution-only client
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The client, in their capacity as an investor, is not seeking or has
+    not sought advice from the solicitor as to the merits of the
+    client's entering into the transaction.
+  \end{itemize}
+\item
+  Acting as a trustee or personal representative
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Applies to arranging, managing, safeguarding or advising fellow
+    trustees and/or beneficiaries.
+  \item
+    Has limitations: available to a solicitor acting as trustee or PR,
+    but not a solicitor acting \textbf{for} a trustee/ PR.
+  \item
+    Does not apply to insurance contracts.
+  \end{itemize}
+\item
+  The 'professional/ necessary' exclusion
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Applies to advising, arranging, safeguarding and dealing as agents.
+  \item
+    Exclusion if the activity is performed in the course of carrying on
+    any profession or business, may be reasonably regarded as a
+    necessary part of other services provided in the course of that
+    profession or business.
+  \item
+    Necessary means they can't get from A to B without solicitor doing
+    this. Strictly necessary.
+  \end{itemize}
+\item
+  The 'takeover' exclusion
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Exclusion applies to arranging, advising and dealing as agent.
+    Applies to a transaction to acquire or dispose of shares in a body
+    corporate or for a transaction entered into for the purposes of such
+    an acquisition or disposal, if:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Shares consist of 50\% or more of voting rights in the body
+      corporate, and
+    \item
+      The acquisition or disposal is between parties each of whom is a
+      body corporate, a partnership, a single individual or a group of
+      connected individuals.
+    \end{itemize}
+  \item
+    Extremely valuable exclusion for the corporate department where a
+    client is seeking to take over or sell its interest in a company,
+    whether public or private.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{summary-1}{%
+\paragraph{Summary}\label{summary-1}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule()
+Specified activity & Applicable exclusions \\
+\midrule()
+\endhead
+Dealing as agent & ATP, execution-only, professional/necessary,
+takeover \\
+Arranging & Introducing, ATP, execution-only, professional/necessary,
+acting as trustee/PR, takeover \\
+Advising & Professional/necessary, acting as trustee/PR, takeover \\
+Managing & Acting as trustee/PR \\
+Safeguarding & Professional/necessary, acting as trustee/PR \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{s-327-exemption-for-professional-firms}{%
+\paragraph{S 327 Exemption for Professional
+Firms}\label{s-327-exemption-for-professional-firms}}
+
+Under s 326 FSMA 2000, the Treasury can designate a professional body
+(DPB). It has designated the Law Society - with this role now undertaken
+by the SRA.
+
+Under s 327, the general prohibition in s 19 FSMA will not apply to
+regulated activity carried on by a firm of solicitors if the following
+are met:
+
+\begin{enumerate}
+\tightlist
+\item
+  The firm must not receive from a person other than the client any
+  pecuniary or other advantage out of the activity for which it does not
+  account to its client;
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Mirrored by para 4.1 Code for Solicitors and para 5.1 Code for Firms
+  \end{itemize}
+\item
+  The manner of providing 'any service in the course of carrying on the
+  activities must be incidental to the provision' by the firm of
+  professional services, i.e., services regulated by the SRA.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    There are two tests for 'incidental'; a specific and a general one.
+  \item
+    Specific test
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Refers to the particular client concerned: the relevant regulated
+      activity must arise out of, or be complementary to, the provision
+      of a particular professional service to a particular client.
+    \item
+      Both the professional and regulated service must be supplied to
+      the same person.
+    \end{itemize}
+  \item
+    General test
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Activities carries out by the firm which would otherwise be
+      regulated cannot be a major part of the firm's activities.
+      Consider
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Scale of regulated activities as a proportion
+      \item
+        Whether regulated activities are held out as a separate service
+      \item
+        The impression given of how the firm provides those activities
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  The firm must carry out only regulated activities permitted by the DPB
+  (i.e., the SRA).
+
+  \begin{itemize}
+  \tightlist
+  \item
+    SRA has published the SRA Financial Services (Scope) Rules and the
+    SRA Conduct of Business (COB) Rules for this purpose
+
+    \begin{itemize}
+    \tightlist
+    \item
+      These set out in great deal what is and is not prohibited.
+    \end{itemize}
+  \end{itemize}
+\item
+  The activities must not be prohibited by an order made by the
+  Treasury, or any direction by the FCA under s 328 or 329.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Such prohibited activities are listed in FSMA 2000 (Professions)
+    (Non-Exempt Activities) Order 2001
+  \item
+    FCA also has authority to prohibit stuff.
+  \end{itemize}
+\item
+  The firm must not carry on any other regulated activities.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    i.e., exemption cannot be used by FCA-authorised firms.
+  \end{itemize}
+\end{enumerate}
+
+\includegraphics{C:/Users/shiva/Filen/MEGA/LegalPracticeCourse/s 327 exemption flowchart.png}
+
+\hypertarget{sra-financial-services-conduct-of-business-rules}{%
+\subsection{SRA Financial Services (Conduct of Business)
+Rules}\label{sra-financial-services-conduct-of-business-rules}}
+
+\begin{env-0cb2e3ab-3bde-42f2-97ad-ac1eecea3f6d}
+
+Warning
+
+COB Rules apply only when the firm is carrying out an exempt regulated
+activity.
+
+\end{env-0cb2e3ab-3bde-42f2-97ad-ac1eecea3f6d}
+
+\hypertarget{status-disclosure}{%
+\subsubsection{Status Disclosure}\label{status-disclosure}}
+
+r 2.1 and 2.2: A firm must provide clients with certain information
+concerning the status of the firm (e.g., this firm is not authorised by
+the FCA, complaint and redress mechanisms provided through SRA and Legal
+Ombudsman).
+
+\hypertarget{best-execution}{%
+\subsubsection{Best Execution}\label{best-execution}}
+
+r 3.1: A solicitor must act in the best interests of their clients
+(Principle 7). The firm must carry out transactions for clients as soon
+as possible unless it reasonably believes it is in the client's best
+interest not to.
+
+\hypertarget{transactions}{%
+\subsubsection{Transactions}\label{transactions}}
+
+r 4.1 and 4.2: The firm must keep records of:
+
+\begin{itemize}
+\tightlist
+\item
+  Instructions from clients to carry out transactions
+\item
+  Instructions to third parties to carry them out.
+\end{itemize}
+
+\hypertarget{commissions}{%
+\subsection{Commissions}\label{commissions}}
+
+r 5.1: The firm must keep records of commissions received in respect of
+regulated activities and how these were dealt with.
+
+\hypertarget{execution-only-clients}{%
+\subsubsection{Execution-only Clients}\label{execution-only-clients}}
+
+r 7.1: Where a firm acts for an execution-only client and the investment
+concerned is a retail investment product, it must send a letter to the
+client confirming that the client is not relying on the advice of the
+solicitor.
+
+\hypertarget{insurance-distribution-activities}{%
+\subsubsection{Insurance Distribution
+Activities}\label{insurance-distribution-activities}}
+
+COB Rules, Part 3: Rules which must be complied with whenever any
+insurance distribution activities are carried out. Detailed.
+
+\hypertarget{consumer-credit-activity}{%
+\subsection{Consumer Credit Activity}\label{consumer-credit-activity}}
+
+From 01/04/14, consumer credit activity became a regulated activity for
+the purposes of s 22 SMA 2000. These activities are set out in Pt 2 and
+Pt 3A RAO 2001.
+
+Solicitors carrying out such activities need FCA authorisation, or need
+to ensure the activities fall within the s 327 exemption. Representing a
+client in a litigation matter surrounding a consumer credit agreement is
+not a credit-related matter for these purposes.
+
+Allowing a client time to pay/ to pay in instalments will be regarded as
+exempt so long as:
+
+\begin{itemize}
+\tightlist
+\item
+  Number of repayments does not exceed 12
+\item
+  Payment term does not exceed 12 months
+\item
+  Credit is provided without interest or other charge.
+\end{itemize}
+
+\hypertarget{insurance-distribution}{%
+\subsubsection{Insurance Distribution}\label{insurance-distribution}}
+
+Regulation extended to all general insurance selling and administration
+in order to comply with the Insurance Mediation Directive (2002/92/EC)
+and the Insurance Distribution Directive (2016/97/EC) - EU legislation.
+
+Rights under contracts of insurance are specified investments. There are
+other specified activities set out in RAO 2001 which specifically cover
+insurance contracts.
+
+If a solicitor assists a client in obtaining a contract of insurance,
+even if they just introduce the client to an insurance broker, the
+solicitor will be carrying out a specified activity.
+
+If a solicitor is involved in an insurance claim against an insurance
+company, this will also be caught. All these activities involve
+insurance distribution.
+
+So for insurance distribution, firm will have to:
+
+\begin{itemize}
+\tightlist
+\item
+  Rely on s,327 exemption, or
+\item
+  Seek authorisation from the FCA
+\item
+  Or rely on limited exemptions for insurance distribution activities
+  (outside scope).
+\end{itemize}
+
+\hypertarget{financial-promotions}{%
+\subsection{Financial Promotions}\label{financial-promotions}}
+
+\begin{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+FSMA 2000, s 21
+
+A solicitor who is not authorised by the FCA will be unable to make a
+financial promotion (i.e., communicate an invitation or inducement to
+engage in investment activity) unless its contents are approved by an
+authorised person.
+
+\end{env-28b706cc-8a08-422f-af86-ede86c79505b}
+
+Use the same 4-stage test as for regulated activities. But note that the
+exclusion test is not applicable. So although you may be carrying out an
+activity which is not regulated, it may be controlled and subject to
+restrictions on financial promotions.
+
+Almost anything you say or write in connection with many transactions
+could be construed as financial promotion.
+
+\begin{env-4f1f1fac-cb83-4fe6-a11e-b3a07eb0c3eb}
+
+Example
+
+A solicitor advising PRs to sell the deceased's assets could be an
+invitation to deal in investments if the estate includes shares or
+gilts.
+
+\end{env-4f1f1fac-cb83-4fe6-a11e-b3a07eb0c3eb}
+
+Both real-time and non-real-time communications are caught.
+
+\begin{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+Solicited communication
+
+A real-time communication is solicited where it is made in the course of
+a personal visit, phone call or other interactive dialogue, and that
+
+\begin{itemize}
+\tightlist
+\item
+  was initiated by the recipient, or
+\item
+  takes place as a result of an express request from the recipient of
+  the communication.
+\end{itemize}
+
+\end{env-86a00e9b-0e00-4fe8-86cd-090a54119c0f}
+
+\hypertarget{exemptions}{%
+\subsubsection{Exemptions}\label{exemptions}}
+
+Some exemptions are set out in FPO 2005. These include:
+
+\begin{itemize}
+\tightlist
+\item
+  Trustees, PRs
+\item
+  Takeover of body corporate.
+\end{itemize}
+
+\hypertarget{exemptions-for-exempt-professional-firms}{%
+\subsubsection{Exemptions for Exempt Professional
+Firms}\label{exemptions-for-exempt-professional-firms}}
+
+Two exemptions for firms claiming the special exemption under FSMA 2000
+for exempt regulated activities.
+
+\hypertarget{real-time-promotions-fpo-2005-art-55}{%
+\paragraph{Real-time Promotions (FPO 2005, Art
+55)}\label{real-time-promotions-fpo-2005-art-55}}
+
+A solicitor who carries out exempt regulated activities may make a
+real-time promotion:
+
+\begin{itemize}
+\tightlist
+\item
+  If made to a client who has engaged the solicitor to provide
+  professional services; and
+\item
+  Where the controlled activity to which the communication relates is
+  exempt because of the exemption for professional firms, or is exempted
+  by the 'necessary' exemption; and
+\item
+  Where the controlled activity would be undertaken for the purposes of,
+  and incidental to, the provision of professional services at the
+  request of the client.
+\end{itemize}
+
+\hypertarget{non-real-time-promotions-fpo-2005-art-55a}{%
+\paragraph{Non-real-time Promotions (FPO 2005, Art
+55A)}\label{non-real-time-promotions-fpo-2005-art-55a}}
+
+Promotion must contain certain specific statements.
+
+\hypertarget{one-off-promotions-fpo-2005-arts-2828a}{%
+\subsubsection{One-off Promotions (FPO 2005 Arts
+28/28A)}\label{one-off-promotions-fpo-2005-arts-2828a}}
+
+One-off non-real-time communications and solicited real-time
+communications are exempt if certain conditions are met; essentially if
+they are personal to the client.
+
+One-off, unsolicited real-time communications are exempt provided the
+solicitor believes on reasonable grounds, that:
+
+\begin{enumerate}
+\tightlist
+\item
+  The client understands the risks associated with engaging in the
+  investment activity, and
+\item
+  At the time of communication, the client would expect to be contacted
+  by the solicitor in relation to that investment activity.
+\end{enumerate}
+
+\hypertarget{introducers}{%
+\subsubsection{Introducers}\label{introducers}}
+
+A solicitor may make any real-time communication in order to introduce a
+client to an ATP, provided (art 15 FPO 2005):
+
+\begin{itemize}
+\tightlist
+\item
+  Not connected to the ATP (e.g., a close relative)
+\item
+  Do not receive from anyone but the client any money/advantage from
+  making the introduction
+\item
+  The client is not seeking/ has not sought advice from you as to the
+  merits of engaging in investment activity.
+\end{itemize}
+
+\end{document}

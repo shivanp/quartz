@@ -1,0 +1,1968 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\newenvironment{Shaded}{}{}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+
+\newenvironment{env-d7082389-711f-4672-86cf-5d6e9e936c15}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{firebrick}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-b5098608-8443-4bf1-ab87-29613eab3647}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-233126be-8f5a-4d88-835d-f2daf290d01d}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{green}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-bfb0cc18-da99-415c-876c-60f1f6c155b7}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{aquamarine}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-88e01d23-c127-44e7-b286-5ac92e547834}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{orange}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-716611b8-7a36-43f1-8759-3b3068bce296}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-0064ec82-fa15-4465-a79a-9af9ba905d85}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{yellow}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-1b5ef2e8-8752-4ddc-8cbe-37100570f043}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darkred}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-c188d876-1019-410b-be10-d5307bb965f9}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{pink}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-9ec6b8a2-eda3-481c-94c5-21f8c4c6d910}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-00c9cc36-00a1-40ca-b54b-ea2ff63ae4ec}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-7afd7ffe-65aa-42fc-807c-d0ed13c6a617}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{purple}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-bdf48894-dfb7-4cd7-a365-9ad5e6cf6e3d}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darksalmon}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-a9f24d32-6e23-4552-96c2-ef34a9fd9c44}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gray}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{min\_depth: 1}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{final-preparations-trial-and-costs}{%
+\section{Final Preparations, Trial and
+Costs}\label{final-preparations-trial-and-costs}}
+
+\hypertarget{final-preparations}{%
+\subsection{Final Preparations}\label{final-preparations}}
+
+\hypertarget{brief-counsel}{%
+\subsubsection{Brief Counsel}\label{brief-counsel}}
+
+\begin{itemize}
+\tightlist
+\item
+  Often counsel briefed already
+\item
+  Deal with facts of issue and how to prove.
+\item
+  Sometimes there is a conference with counsel before the hearing.
+\item
+  Solicitor must negotiate the brief fee with counsel's clerk following
+  the brief.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    In fast-track, try to restrict to the maximum allowed for advocacy
+    in fast track case
+  \item
+    In multi-track, covers only 1 day, so there could be a refresher
+    fee.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{witnesses}{%
+\subsubsection{Witnesses}\label{witnesses}}
+
+\begin{itemize}
+\tightlist
+\item
+  All witnesses should be kept fully informed of the expected trial
+  date.
+\item
+  Serve witnesses with a \textbf{witness summons}, even when they have
+  been kept fully informed and involved.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is a court document requiring the witness to attend court to
+    give evidence, and produce evidence.
+  \item
+    Serve \(\geq 7\) days before court date. Then it is binding on the
+    witness, and if they do not attend they could be fined/ imprisoned
+    for contempt of court.
+  \item
+    If \(<7\) days until trial, must obtain permission of the court.
+  \item
+    Normally served by the court.
+  \item
+    Greater possibility of the trial judge being sympathetic and
+    granting an adjournment of the trial if the witness does not show
+    up.
+  \item
+    Police officers must always be served with a witness summons
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Else they will not give evidence in a civil matter.
+    \end{itemize}
+  \end{itemize}
+\item
+  Witness can be paid:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Reasonable travel expenses
+  \item
+    Compensation for loss of time (PD 34A)
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{expert-witnesses}{%
+\paragraph{Expert Witnesses}\label{expert-witnesses}}
+
+A witness summons to require the attendance of an expert at trial should
+be used only if required by the expert. If you don't tell the expert in
+time when the trial date is, unlikely the court will agree to reschedule
+({[}{[}Mitchell v Precis 548 Ltd {[}2019{]} EWHC 3314 (QB){]}{]}).
+
+\hypertarget{trial-bundles}{%
+\subsubsection{Trial Bundles}\label{trial-bundles}}
+
+Claimant should file \(3 \leq T \leq 7\) days before trial.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: PD 32 para 27.5}
+\NormalTok{Unless the court orders otherwise, the trial bundle should include a copy of—}
+\NormalTok{{-} (a) the claim form and all statements of case;}
+\NormalTok{{-} (b) a case summary and/or chronology where appropriate;}
+\NormalTok{{-} (c) requests for further information and responses to the requests;}
+\NormalTok{{-} (d) all witness statements to be relied on as evidence;}
+\NormalTok{{-} (e) any witness summaries;}
+\NormalTok{{-} (f) any notices of intention to rely on hearsay evidence under rule 32.2;}
+\NormalTok{{-} (g) any notices of intention to rely on evidence (such as a plan, photograph etc.) under rule 33.6 which is not—}
+\NormalTok{    {-} (i) contained in a witness statement, affidavit or experts’ report;}
+\NormalTok{    {-} (ii) being given orally at trial; and}
+\NormalTok{    {-} (iii) hearsay evidence under rule 33.2;}
+\NormalTok{{-} (h) any medical reports and responses to them;}
+\NormalTok{{-} (i) any experts’ reports and responses to them;}
+\NormalTok{{-} (j) any order giving directions as to the conduct of the trial; and}
+\NormalTok{{-} (k) any other necessary documents.}
+\end{Highlighting}
+\end{Shaded}
+
+Paragraph 27.12 of PD 32 provides that the contents of the trial bundle
+should be agreed\\
+where possible.
+
+Where it is not possible to agree the contents of the bundle, a summary
+of the points on which the parties are unable to agree should be
+included. Unless the court otherwise directs, the documents in the trial
+bundle should be copied double-sided (PD 32, para 27.15).
+
+Supply identical bundles to all parties to the proceedings.
+
+\hypertarget{case-summary}{%
+\paragraph{Case Summary}\label{case-summary}}
+
+Each party should prepare a case summary (often called a `skeleton
+argument') to use at trial. This should:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Review submissions of fact
+\item
+  Set out the propositions of law advanced with reference to main
+  authorities relied on
+\item
+  Identify key documents the trial judge should read before the trial
+  starts.
+\end{enumerate}
+
+Form: numbered paragraphs and pages.
+
+\hypertarget{time-estimates-and-core-bundles}{%
+\paragraph{Time Estimates and Core
+Bundles}\label{time-estimates-and-core-bundles}}
+
+Include with the trial bundle:
+
+\begin{itemize}
+\tightlist
+\item
+  Estimated length of reading tie
+\item
+  Agreed estimate of length of hearing
+\item
+  Core bundle of key documents, if the bundle is v long.
+\end{itemize}
+
+\hypertarget{trial-proceedings}{%
+\subsection{Trial Proceedings}\label{trial-proceedings}}
+
+\hypertarget{venue}{%
+\subsubsection{Venue}\label{venue}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.4615}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5385}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Court
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Venue
+\end{minipage} \\
+\midrule()
+\endhead
+County Court & Hearing centre \\
+High Court & Royal Courts of Justice in London, or District
+Registries. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{timetable}{%
+\subsubsection{Timetable}\label{timetable}}
+
+\begin{itemize}
+\tightlist
+\item
+  Usually pre-fixed for fast and multi-track
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Timetable may limit time for, e.g., cross-examination.
+  \end{itemize}
+\item
+  At the trial, the judge will confirm or vary any timetable previously
+  given.
+\item
+  Fast track: trial should be finished in one day. Usually, if it
+  overruns, continues the next day.
+\item
+  Multi-track: consecutive days.
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{{-} SRA Code para 1.4: solicitor must never mislead the court. }
+\NormalTok{{-} If client admits they have committed perjury/ misled court in a material way}
+\NormalTok{    {-} Refuse to act further unless the client tells the court the truth}
+\NormalTok{    {-} Don\textquotesingle{}t inform court/ parties of the reason for ceasing to act (para 6.3 {-} client confidentiality)}
+\NormalTok{{-} $\textbackslash{}exists$ information which the solicitor is obliged to disclose to court. }
+\NormalTok{    {-} Relevant cases and statutory provisions {-}\textgreater{} within realistic limits. }
+\NormalTok{    {-} But no duty to inform the court/ opponent of any facts/ witnesses which would assist the opponent. }
+\NormalTok{{-} When acting as an advocate}
+\NormalTok{    {-} Don\textquotesingle{}t insult/ say anything merely scandalous}
+\NormalTok{    {-} Avoid naming in open court any 3rd party whose character would be called into question, unless necessary}
+\NormalTok{    {-} Don\textquotesingle{}t call into question character of witness, unless witness is given an opportunity to defend themselves}
+\NormalTok{    {-} Do not suggest a person is guilty of a crime/ fraud/ misconduct unless material to case \& supported by reassonable grounds. }
+\end{Highlighting}
+\end{Shaded}
+
+Permission is needed to tweet in court, unless you are a journalist.
+
+\hypertarget{order-of-proceedings}{%
+\subsubsection{Order of Proceedings}\label{order-of-proceedings}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Preliminary issues
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Permission to amend a statement
+  \item
+    Permission to adduce more evidence by way of examination-in-chief
+    from a witness under r 32.5(3)
+  \item
+    Application to strike out part of an opponent's witness statement
+  \item
+    Variation to timetable made at an earlier hearing.
+  \end{itemize}
+\item
+  Claimant
+
+  \begin{itemize}
+  \tightlist
+  \item
+    May make an opening speech setting out the background to the case
+    and facts remaining in issue (v briefly).
+  \end{itemize}
+\item
+  Evidence
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Claimant and witness give evidence.
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Witness statements stand as \textbf{evidence-in-chief}.
+    \item
+      Witness can amplify this only with judge permission.
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Claimant should not be asked leading questions by their
+        advocate.
+      \end{itemize}
+    \end{itemize}
+  \item
+    Cross-examination.
+
+    \begin{itemize}
+    \tightlist
+    \item
+      No bar on leading questions
+    \item
+      Pretty much everything is fair game.
+    \item
+      Cross-examination questions can be prepared in advance.
+    \item
+      Dig into inconsistencies.
+    \item
+      But no need to be confrontational.
+    \item
+      \textbf{Mandatory} that the cross-examining advocate must put
+      their own party's case to the witness they are cross-examining.
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Basically explicitly ask the other party all the questions which
+        are contested.
+      \item
+        Highly unlikely that they will change their story.
+      \item
+        Failure to challenge the opponent's evidence implied acceptance
+        of the evidence.
+      \end{itemize}
+    \end{itemize}
+  \item
+    Re-examination
+
+    \begin{itemize}
+    \tightlist
+    \item
+      The advocate can ask further questions of their own witness about
+      matters arising out of cross-examination.
+    \end{itemize}
+  \item
+    Problem witnesses
+
+    \begin{itemize}
+    \tightlist
+    \item
+      A witness may change their story during cross-examination.
+    \item
+      Not much you can do -- can't cross-examine your own witness.
+    \item
+      If the witness becomes hostile, possible for a party to apply for
+      the witness to be declared hostile.
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Then the party who called the witness can cross-examine the
+        witness on the facts of the case and previous inconsistent
+        statements
+      \item
+        But cannot attack general character/ cross-examine them about
+        previous convictions.
+      \end{itemize}
+    \item
+      s 4 Civil Evidence Act 1995: court can choose to attach weight to
+      the previously inconsistent statement as evidence.
+    \end{itemize}
+  \item
+    D gives evidence in the same way
+  \item
+    Children as witnesses
+
+    \begin{itemize}
+    \tightlist
+    \item
+      A child who understands the nature of an oath gives sworn evidence
+      (generally, children over 14 assumed to be able to give sworn
+      evidence).
+    \item
+      Else s 96(2) Children Act 1989: evidence can be heard unsworn if
+      child understands their duty to speak the truth.
+    \end{itemize}
+  \end{itemize}
+\item
+  Closing speeches
+
+  \begin{itemize}
+  \tightlist
+  \item
+    First D's advocate, then C's advocate
+  \end{itemize}
+\item
+  Judgment
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Delivered immediately, or at a later date.
+  \item
+    Usually addresses
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Liability
+    \item
+      Quantum
+    \item
+      Interest
+    \item
+      Costs
+    \end{itemize}
+  \item
+    Judgment will name the parties unless an anonymous order is
+    justified.
+  \end{itemize}
+\item
+  Part 36
+
+  \begin{itemize}
+  \tightlist
+  \item
+    C should apply under r 36.17(4) and D under r 37.17(3), if
+    appropriate.
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{interest}{%
+\subsubsection{Interest}\label{interest}}
+
+\hypertarget{up-to-date-of-judgment}{%
+\paragraph{Up to Date of Judgment}\label{up-to-date-of-judgment}}
+
+Interest normally awarded, provided it had been claimed in the
+particulars of claim. Could be:
+
+\begin{itemize}
+\tightlist
+\item
+  Contractual provision for interest
+\item
+  Entitlement to interest under Late Payment of Commercial Debts
+  (Interest) Act 1998
+\item
+  Interest on damages usually awarded by the judge in their discretion,
+  under SCA 1981, s 35A or CCA 1984, s 69
+\item
+  Interest is discretionary and may be reduced if a party has acted
+  poorly/ precipitated delays in proceedings.
+\end{itemize}
+
+\hypertarget{after-judgment}{%
+\paragraph{After Judgment}\label{after-judgment}}
+
+\begin{itemize}
+\tightlist
+\item
+  High Court
+
+  \begin{itemize}
+  \tightlist
+  \item
+    8\% pa under s 17 Judgments Act 1838 (unless contractual right to
+    more)
+  \end{itemize}
+\item
+  County Court
+
+  \begin{itemize}
+  \tightlist
+  \item
+    8\% pa under County Courts (Interest on Judgment Debts) Order 1991,
+    provided the judgment was for at least \(£5,000\)
+  \item
+    Judgment \(<£5,000\): Late Payment of Commercial Debts (Interest)
+    Act 1998 applies.
+  \end{itemize}
+\item
+  Judgment rate of interest \textbf{not} discretionary. But the court
+  does have discretion to delay when the judgment rate comes into effect
+  (with a ``teaser'' rate for a few months -- {[}{[}Involnert Management
+  Inc v Aprilgrange Ltd and others {[}2015{]} EWHC 2834 (Comm){]}{]})
+\item
+  Judgment interest cannot accrue on damages until they have been
+  quantified, but interest is payable on costs from the date of
+  judgment, even if they are yet to be assessed. So it is worth making a
+  payment on account for costs asap.
+\end{itemize}
+
+\hypertarget{register-of-judgments-orders-and-fines}{%
+\paragraph{Register of Judgments Orders and
+Fines}\label{register-of-judgments-orders-and-fines}}
+
+Judgments of the High Court and County Court are officially recorded on
+the register for 6 years. May affect a judgment debtor's
+creditworthiness. Judgment may be removed if set aside or paid in full
+within a month.
+
+\hypertarget{costs}{%
+\subsection{Costs}\label{costs}}
+
+\hypertarget{indemnity-principle}{%
+\subsubsection{Indemnity Principle}\label{indemnity-principle}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Indemnity principle}
+\NormalTok{The winner is entitled to an indemnity in respect of the costs they have incurred, meaning they cannot seek more than their solicitor and client costs. Do not confuse with indemnity basis. }
+\end{Highlighting}
+\end{Shaded}
+
+In reality, ``indemnity'' is misleading; the paying party will challenge
+various items.
+
+\hypertarget{general-provisions}{%
+\subsubsection{General Provisions}\label{general-provisions}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 44.2 CPR}
+\NormalTok{(1) The court has discretion as to –}
+\NormalTok{{-} (a) whether costs are payable by one party to another;}
+\NormalTok{{-} (b) the amount of those costs; and}
+\NormalTok{{-} (c) when they are to be paid.}
+
+\NormalTok{(2) If the court decides to make an order about costs –}
+\NormalTok{{-} (a) the general rule is that the unsuccessful party will be ordered to pay the costs of the successful party; but}
+\NormalTok{{-} (b) the court may make a different order.}
+\end{Highlighting}
+\end{Shaded}
+
+``Costs'' include fees, charges, disbursements, expenses and
+remuneration (r 44.1). This includes pre-action costs (r 44.2(6)(d)).
+
+\hypertarget{interest-on-costs}{%
+\subsubsection{Interest on Costs}\label{interest-on-costs}}
+
+Interest is generally \textbf{not} payable on costs before judgment. But
+in recent years, the court has increasingly awarded such costs to the
+receiving party, who has had to put up money paying its solicitors.
+
+The appropriate dates from which interest should run are the dates on
+which the invoices for costs were actually paid by the party until the
+date of judgment. The rate of interest should be the normal commercial
+rate ({[}{[}Fiona Trust and Holding Corp v Privalov {[}2016{]} EWHC 2657
+(Comm){]}{]}).
+
+\hypertarget{factors}{%
+\subsubsection{Factors}\label{factors}}
+
+The court will consider all the circumstances, including:
+
+\begin{itemize}
+\tightlist
+\item
+  The conduct of all parties
+\item
+  Whether a party has succeeded on part of their case
+\item
+  Any admissible offer to settle made by a party that is drawn to the
+  court's attention.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Considered when an open offer is made for more than is recovered.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{conduct-of-parties}{%
+\paragraph{Conduct of Parties}\label{conduct-of-parties}}
+
+This includes
+
+\begin{itemize}
+\tightlist
+\item
+  Conduct before and during the proceedings.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Extent to which parties followed relevant pre-action protocol(s).
+  \end{itemize}
+\item
+  Whether it was reasonable for a party to raise, pursue or contest a
+  particular allegation.
+\item
+  The manner in which a party pursued/ defended their case or a
+  particular allegation
+\item
+  Whether a claimant who won had exaggerated their claim.
+\end{itemize}
+
+\hypertarget{costs-budgets-and-cmos}{%
+\paragraph{Costs Budgets and CMOs}\label{costs-budgets-and-cmos}}
+
+If a Costs Management Order (CMO) has been made, the court will not
+depart from the last approved budget unless there is a good reason for
+doing so. Costs falling outside of the phases addressed in an agreed/
+approved budget will be subject to a detailed assessment.
+
+If no CMO was made, the court will have regard to any costs budgets when
+assessing costs.
+
+\hypertarget{disputes}{%
+\subparagraph{Disputes}\label{disputes}}
+
+If there is a difference of \(>20\%\) between the figure claimed by the
+receiving party and the last costs budget filed, the receiving party
+must file a statement setting out reasons for the difference (PD 44 para
+3.2).
+
+If the paying party:
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \tightlist
+  \item
+    claims to have reasonably relied on a budget filed by a receiving
+    party; or
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{1}
+  \tightlist
+  \item
+    wishes to rely upon the costs shown in the budget in order to
+    dispute the reasonableness or proportionality of the costs claimed,
+  \end{enumerate}
+\end{itemize}
+
+the paying party must serve a statement setting out the case in this
+regard in that party's points of dispute (PD 44, para 3.3).
+
+If the court accepts that the paying party reasonably relied on the
+budget, the court may restrict the recoverable costs to such sum as is
+reasonable for the paying party to pay in the light of that reliance,
+even if it is less than the amount of costs reasonably and
+proportionately incurred by the receiving party (PD 44, para 3.6).
+
+If any explanation provided by the receiving party is deemed
+unsatisfactory, the court may regard the difference between the amount
+claimed and the budget figure as evidence that the costs claimed are
+unreasonable or disproportionate (PD 44, para 3.7).
+
+\hypertarget{types-of-orders}{%
+\paragraph{Types of Orders}\label{types-of-orders}}
+
+Pretty flexible, could be a proportion of a party's costs, a stated
+amount of party's costs, costs from a particular date, costs of a
+particular step, etc.
+
+\hypertarget{basis-of-assessment}{%
+\subsubsection{Basis of Assessment}\label{basis-of-assessment}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 44.3(1)}
+\NormalTok{(1) Where the court is to assess the amount of costs (whether by summary or detailed assessment) it will assess those costs –}
+\NormalTok{{-} (a) on the standard basis; or}
+\NormalTok{{-} (b) on the indemnity basis,}
+
+\NormalTok{but the court will not in either case allow costs which have been unreasonably incurred or are unreasonable in amount.}
+
+\NormalTok{(2) Where the amount of costs is to be assessed on the standard basis, the court will –}
+\NormalTok{{-} (a) only allow costs which are **proportionate** to the matters in issue. Costs which are disproportionate in amount may be disallowed or reduced even if they were reasonably or necessarily incurred; and}
+\NormalTok{{-} (b) resolve any doubt which it may have as to whether costs were reasonably and proportionately incurred or were reasonable and proportionate in amount in favour of the paying party.}
+
+\NormalTok{(3) Where the amount of costs is to be assessed on the indemnity basis, the court will resolve any doubt which it may have as to whether costs were **reasonably incurred or were reasonable in amount** in favour of the receiving party.}
+
+\NormalTok{(4) Where –}
+\NormalTok{{-} (a) the court makes an order about costs without indicating the basis on which the costs are to be assessed; or}
+\NormalTok{{-} (b) the court makes an order for costs to be assessed on a basis other than the standard basis or the indemnity basis,}
+
+\NormalTok{the costs will be assessed on the standard basis.}
+
+\NormalTok{(5) Costs incurred are proportionate if they bear a reasonable relationship to –}
+\NormalTok{{-} (a) the sums in issue in the proceedings;}
+\NormalTok{{-} (b) the value of any non{-}monetary relief in issue in the proceedings;}
+\NormalTok{{-} (c) the complexity of the litigation;}
+\NormalTok{{-} (d) any additional work generated by the conduct of the paying party,}
+\NormalTok{{-} (e) any wider factors involved in the proceedings, such as reputation or public importance; and}
+\NormalTok{{-} (f) any additional work undertaken or expense incurred due to the vulnerability of a party or any witness.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{factors-r-44.43}{%
+\paragraph{Factors (r 44.4(3))}\label{factors-r-44.43}}
+
+The court considers:
+
+\begin{itemize}
+\tightlist
+\item
+  conduct of all the parties;
+\item
+  value of claim;
+\item
+  importance of the matter to all the parties;
+\item
+  complexity/ novelty of the questions raised;
+\item
+  skill, effort, specialised knowledge and responsibility involved;
+\item
+  time;
+\item
+  place and circumstances under which work was done;
+\item
+  receiving party's last approved or agreed budget.
+\end{itemize}
+
+\hypertarget{standard-basis}{%
+\paragraph{Standard Basis}\label{standard-basis}}
+
+Costs on this basis must be proportionate to the matters in issue. Costs
+that are disproportionate may be disallowed or reduced even if they were
+reasonably or necessarily incurred. No costs that were unreasonably
+incurred or are unreasonable in amount are allowable.
+
+\hypertarget{indemnity-basis}{%
+\paragraph{Indemnity Basis}\label{indemnity-basis}}
+
+\begin{itemize}
+\tightlist
+\item
+  Costs must be reasonably incurred and reasonable in amount.
+\item
+  The judge has a wide discretion to award indemnity costs ({[}{[}Three
+  Rivers DC v Governor of the Bank of England {[}2006{]} EWHC 816
+  (Comm){]}{]})
+\item
+  Dishonesty or moral blame does not need to be established to award
+  indemnity costs ({[}{[}Reid Minty v Taylor {[}2002{]} WLR 2800{]}{]}).
+\item
+  The conduct of experts can justify an order for indemnity costs in
+  respect of costs generated by them ({[}{[}Williams v Jervis {[}2009{]}
+  EWHC 1837 (QB){]}{]}).
+\item
+  A failure to comply with Pre-Action Protocol requirements could result
+  in indemnity costs being awarded.
+\item
+  A refusal to mediate or engage in mediation or some other alternative
+  dispute resolution process could justify an award of indemnity costs.
+\item
+  If a claimant casts its claim disproportionately wide, the claimant
+  forfeits its right to the benefit of the doubt on reasonableness
+  ({[}{[}Digicel (St Lucia) Ltd v Cable and Wireless PLC {[}2010{]} EWHC
+  888 (Ch){]}{]}).
+\end{itemize}
+
+\hypertarget{difference}{%
+\paragraph{Difference}\label{difference}}
+
+Where there is no doubt over the reasonableness of costs, the difference
+between the two bases is that in assessing costs on the standard basis,
+the court will allow only those costs that are proportionate to the
+matters in issue.
+
+\hypertarget{conduct-and-adr}{%
+\paragraph{Conduct and ADR}\label{conduct-and-adr}}
+
+Parties must seriously consider ADR proposals made by the other side.
+
+\begin{itemize}
+\tightlist
+\item
+  In {[}{[}Dunnett v Railtrack plc (in Railway Administration)
+  {[}2002{]} EWCA Civ 303{]}{]}, the Court of Appeal deprived the
+  successful party of its costs because it unreasonably refused to
+  mediate before the appeal was heard.
+\item
+  Guidance given in {[}{[}Halsey v Milton Keynes General NHS Trust
+  {[}2004{]} EWCA Civ 576{]}{]}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    No presumption in favour of mediation.
+  \item
+    Whether a party has acted unreasonably in refusing ADR must be
+    determined having regard to all the circumstances, including:
+
+    \begin{enumerate}
+    \def\labelenumi{\arabic{enumi}.}
+    \tightlist
+    \item
+      the nature of the dispute;
+    \item
+      the merits of the case;
+    \item
+      the extent to which other settlement methods have been attempted;
+    \item
+      whether the costs of the ADR would be disproportionately high;
+    \item
+      whether any delay in setting up and attending the ADR would have
+      been prejudicial; and
+    \item
+      whether the ADR had a reasonable prospect of success.
+    \end{enumerate}
+  \end{itemize}
+\end{itemize}
+
+Any refusal of a proposal for ADR by a party should be based on the
+Halsey principles and clearly communicated to the proposing party. So
+you can't just not respond; that's unreasonable conduct.
+
+If a party agrees to mediate but frustrates the process by delaying and
+dragging its feet for no good reason, such that the other party loses
+confidence in the process which then does not go ahead, that conduct
+will merit a costs sanction ({[}{[}Thakkar v Patel {[}2017{]} EWCA Civ
+117{]}{]}).
+
+\hypertarget{timing-of-mediation}{%
+\subparagraph{Timing of Mediation}\label{timing-of-mediation}}
+
+\begin{itemize}
+\tightlist
+\item
+  Premature mediation wastes time and can often lead to a hardening of
+  positions.
+\item
+  Delaying too long means costs racked up are the biggest obstacle to
+  mediation being successful.
+\item
+  So try to time it such that the details of claim and response are
+  fully known to both sides, but costs not yet crazy.
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Is a party who agrees to mediation but then causes the mediation to fail by taking an unreasonable position to be treated the same as a party who unreasonably refuses to mediate?}
+\NormalTok{Yes, held in [[Earl of Malmesbury v Strutt \& Parker [2008] EWHC 424]]. But remember that ADR procedures are confidential unless all parties agree to waive confidentiality.}
+\end{Highlighting}
+\end{Shaded}
+
+The increasing importance the court attaches to the consideration of ADR
+is evidenced by the standard directions that require a party who rejects
+a proposal for ADR to file a witness statement detailing that party's
+reasons for rejecting the proposal.
+
+\begin{quote}
+`No defence, however strong, by itself justifies a failure to engage in
+any kind of alternative dispute resolution'\\
+-{[}{[}DSN v Blackpool Football Club Ltd {[}2020{]} EWHC 670 (QB){]}{]}
+\end{quote}
+
+\hypertarget{time}{%
+\paragraph{Time}\label{time}}
+
+Regional hourly guideline figures for the time of solicitors of
+different levels of seniority in different parts of the country are set
+by the Master of the Rolls. Judges have lots of experience in assessing
+costs.
+
+\hypertarget{procedure-for-assessment}{%
+\subsubsection{Procedure for
+Assessment}\label{procedure-for-assessment}}
+
+The court should generally make a summary assessment of costs for a
+fast-track/ one-day case, at the conclusion of the trial. Exceptions:
+
+\begin{itemize}
+\tightlist
+\item
+  Paying party shows substantial grounds for disputing the sum claimed
+  for costs
+\item
+  Insufficient time to summarily assess costs.
+\end{itemize}
+
+The parties should file and serve a breakdown of their costs (Costs Form
+N260) at least 24 hours before an interim hearing.
+
+\hypertarget{fast-track-costs-part-45}{%
+\subsubsection{Fast-track Costs (Part
+45)}\label{fast-track-costs-part-45}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.4272}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5728}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Value of the claim
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Amount of fast track trial costs which the court may award
+\end{minipage} \\
+\midrule()
+\endhead
+Up to £3,000 & £485 \\
+More than £3,000 but not more than £10,000 & £690 \\
+More than £10,000 but not more than £15,000 & £1,035 \\
+More than £15,000 & £1,650 \\
+\bottomrule()
+\end{longtable}
+
+An additional £345 may be awarded where it is necessary for a legal
+representative to attend to assist the advocate.
+
+\hypertarget{valuing-claim}{%
+\paragraph{Valuing Claim}\label{valuing-claim}}
+
+\begin{itemize}
+\tightlist
+\item
+  If the claimant succeeds, then the value of the claim is based on the
+  amount awarded, excluding any interest or reduction for contributory
+  negligence.
+\item
+  If the defendant was successful, then the value of the claim is based
+  on the amount claimed by the claimant.
+\item
+  But the above can be varied upon unreasonable behaviour by a party.
+\end{itemize}
+
+\hypertarget{summary-assessment}{%
+\paragraph{Summary Assessment}\label{summary-assessment}}
+
+In fast track cases, therefore, the party should always file and serve a
+statement of costs \(\geq 48\) hours prior to the hearing.
+
+\hypertarget{multi-track-costs}{%
+\subsubsection{Multi-track Costs}\label{multi-track-costs}}
+
+There are no specified trial costs. Although the judge does have the
+power to make a summary assessment of costs, in multi-track cases the
+court will usually order \textbf{detailed assessment}.
+
+\hypertarget{commencement}{%
+\paragraph{Commencement}\label{commencement}}
+
+Detailed assessment proceedings are commenced by the receiving party
+serving on the paying party:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Notice of commencement in Form N252
+\item
+  A copy of the bill of costs
+\item
+  Copies of the fee notes of counsel and any other expert, in respect of
+  fees claimed in the bill
+\item
+  Written evidence as to any other disbursement claimed exceeding £500
+\item
+  Statement giving the name and address for service of any person upon
+  whom the receiving party intends to serve notice of commencement
+\item
+  If a costs management order has been made, a breakdown of costs
+  claimed for each phase of proceedings
+\item
+  Precedent Q, where a case management order has been made.
+\end{enumerate}
+
+Must do this within 3 months of the date of judgment.
+
+\hypertarget{bill-of-costs}{%
+\paragraph{Bill of Costs}\label{bill-of-costs}}
+
+Bills of costs for detailed assessment in most Part 7 claims must be in
+a prescribed electronic spreadsheet format and compliant with CPR, PD
+47, paras 5.A1 to 5.A4.
+
+\hypertarget{categories-of-work}{%
+\paragraph{Categories of Work}\label{categories-of-work}}
+
+\begin{itemize}
+\tightlist
+\item
+  Main body of the bill comprises a breakdown of the work performed,
+  divided into different categories of work set out in para 5.12 PD 47.
+\item
+  Set out chronologically in numbered items
+\item
+  Most ``communications'' (phone calls, emails out, letters out) classed
+  as routine and deemed to last 6 minutes for charging purposes.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Particularly complex/ lengthy communications not classed as routine
+    and charged according to the time actually spent on them.
+  \end{itemize}
+\item
+  Local travel expenses not claimable, but solicitor entitled to claim
+  up to the hourly rate for time spent travelling and waiting.
+\item
+  Cost of postage, couriers etc. generally not claimable.
+\end{itemize}
+
+A claim may only be made for the reasonable costs of preparing and
+checking the bill of costs (see PD 47, para 5.19) -- but this should not
+be included in the bill of costs itself.
+
+\hypertarget{late-commencement}{%
+\paragraph{Late Commencement}\label{late-commencement}}
+
+Permission not required to commence detailed assessment proceedings out
+of time, but if the receiving party waits more than 3 months, the court
+may disallow interest accruing on the costs. It is open to the paying
+party to apply for an order that the receiving party lose their right to
+costs unless detailed assessment proceedings are commenced by a certain
+date.
+
+\hypertarget{challenging-bill}{%
+\paragraph{Challenging Bill}\label{challenging-bill}}
+
+Party has 21 days from service of notice of commencement to serve points
+of dispute on the receiving party (r 47.9). If they don't, the receiving
+party can apply for a default costs certificate. This can only be set
+aside with good reason.
+
+On service of the points of dispute, the receiving party may serve a
+reply within 21 days (r 47.13). The receiving party must file a request
+for an assessment hearing within three months of the expiry of the
+period for commencing detailed assessment proceedings.
+
+There will then be a detailed assessment hearing, at which the court
+will decide what costs are\\
+to be paid. The receiving party must, within 14 days of the hearing,
+file a completed bill\\
+showing the amount of costs finally due.
+
+Receiving party normally entitled to the costs of the detailed
+assessment proceedings, though the court will take into account conduct,
+reasonableness etc., and any written offer expressed to be without
+prejudice save as to costs of the detailed assessment proceedings.
+
+No time is specified for service of such an offer, but any offer made
+more than 14 days after service of the notice of commencement (paying
+party)/ service of the points of dispute (receiving party) will be given
+less weight unless good reason is shown.
+
+\hypertarget{provisional-assessment}{%
+\paragraph{Provisional Assessment}\label{provisional-assessment}}
+
+Procedure applies to all proceedings for detailed assessment in the High
+Court or County Court where the amount of costs claimed is less than a
+prescribed limit (currently £75,000).
+
+\begin{itemize}
+\tightlist
+\item
+  Apply for provisional assessment through Form N258 (filing request for
+  assessment)
+\item
+  Court will try to complete provisional assessment within 6 weeks.
+\item
+  Parties have 14 days to agree sum due to receiving party on the basis
+  of the court's provisional assessment
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Can make written submissions to the court.
+  \item
+    Can request oral hearing within 21 days.
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Unless they secure \(\geq 20\%\) adjustment in their favour, will
+      have to pay for the oral assessment.
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{assessment}{%
+\paragraph{Assessment}\label{assessment}}
+
+Areas of costs typically targeted by a paying party:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Hourly charging rate
+\item
+  Status of fee earner who did the work
+\item
+  Length of time taken to complete work
+\item
+  No entitlement under CPR (often argued that an item is not allowed
+  under PD 47 para 5.22)
+\end{enumerate}
+
+\hypertarget{damages-based-agreements}{%
+\paragraph{Damages-based Agreements}\label{damages-based-agreements}}
+
+If a party has entered into a damages-based agreement, the costs
+recoverable cannot exceed\\
+the amount payable by that party under the agreement (r 44.18).
+
+\hypertarget{capped-costs-pilot-scheme}{%
+\paragraph{Capped Costs Pilot Scheme}\label{capped-costs-pilot-scheme}}
+
+In 2019, a Capped Costs Pilot Scheme started in selected Business and
+Property Courts. The specific rules and procedure are set out in PD 51W.
+Designed for claims of up to £250,000 and trial \(\leq 2\) days. Scheme
+is voluntary.
+
+\hypertarget{appeals}{%
+\paragraph{Appeals}\label{appeals}}
+
+Where the assessment is by a judge, the appeals process is governed by
+Part 52.
+
+MERMAID1
+
+If permission is not sought at the original assessment, it must be
+sought from the appeal court within 21 days. The appeal takes the form
+of a review of original decision, not a re-hearing.
+
+Alternatively,
+
+MERMAID2
+
+\hypertarget{agreeing-costs}{%
+\paragraph{Agreeing Costs}\label{agreeing-costs}}
+
+Very often, the parties will attempt to agree a figure for costs, and
+proceed to a detailed assessment only if they are unable to reach
+agreement.
+
+\hypertarget{offers-to-settle-detailed-assessment}{%
+\paragraph{Offers to Settle Detailed
+Assessment}\label{offers-to-settle-detailed-assessment}}
+
+PD 47, para 8.3: the paying party must state in an open letter
+accompanying the points of dispute what sum, if any, that party offers
+to pay in settlement of the total costs claimed. The paying party can
+also make an offer under Part 36.
+
+\hypertarget{interim-orders}{%
+\paragraph{Interim Orders}\label{interim-orders}}
+
+Rule 44.3(8): allows the court at trial or on a later application to
+order an interim payment of part of these costs (since detailed
+assessment usually takes a while). This should usually be ordered
+({[}{[}Mars UK Ltd v Teknowledge Ltd (No 2) {[}1999{]} {]}{]}).
+
+\hypertarget{costs-only-proceedings}{%
+\subsubsection{Costs Only Proceedings}\label{costs-only-proceedings}}
+
+r 46.14: either party may start proceedings by issuing a claim form in
+accordance with Part 8. This should include the agreement the parties
+have reached as to liability and quantum.
+
+\hypertarget{practical}{%
+\subsubsection{Practical}\label{practical}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{When scrutinising an opponent’s bill of costs, consider the following:}
+\NormalTok{1) Check the scope of the costs order}
+\NormalTok{2) What is the basis of assessment – standard or indemnity? Where standard, consider overall proportionality first and identify the correct tests.}
+\NormalTok{3) Interim costs orders?}
+\NormalTok{4) Check the costs budgets/CMOs. Is there a 20\% or more difference?}
+\NormalTok{5) Compare solicitors’ hourly rates and counsels’ fees with the summary assessment rates.}
+\NormalTok{6) Check compliance with PD 47 as to content. Are all items claimed allowable?}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{enforcing-money-judgments}{%
+\section{Enforcing Money Judgments}\label{enforcing-money-judgments}}
+
+\hypertarget{introduction}{%
+\subsection{Introduction}\label{introduction}}
+
+Once a party has obtained a judgment against their opponent, the
+opponent will usually pay the amount ordered without any further
+enforcement action necessary. If they do not, the receiving party can
+take enforcement action.
+
+If the opponent is not insured, enforcement should be considered before
+proceedings are commenced, since it is not worth obtaining a judgment
+against a party who does not have means to pay.
+
+A client may be able to claim under the terms of their own household
+insurance for an unsatisfied judgment in respect of personal injury,
+damage to property or a fatal accident claim.
+
+\hypertarget{partnership-property}{%
+\subsubsection{Partnership Property}\label{partnership-property}}
+
+Practice Direction 70, para 6A.1 provides that a judgment made against a
+partnership may be enforced against any property of the partnership
+within the jurisdiction.
+
+A judgment against a partnership can be enforced against any partner if
+the partner:
+
+\begin{itemize}
+\tightlist
+\item
+  Acknowledged service of the claim form as partner
+\item
+  Failed to acknowledge service of the claim form, having being served
+  as partner
+\item
+  Admitted in their statement that they were a partner at the material
+  time
+\item
+  Found by the court to have been a partner at the material time.
+\end{itemize}
+
+Proceedings can be taken against partnership property for a partner's
+separate judgment\\
+debt (s 23 Partnership Act 1890).
+
+\hypertarget{interest-on-judgment-debts}{%
+\subsection{Interest on Judgment
+Debts}\label{interest-on-judgment-debts}}
+
+\hypertarget{high-court-judgments}{%
+\subsubsection{High Court Judgments}\label{high-court-judgments}}
+
+Interest accrues on all High Court judgments from the date judgment is
+pronounced at 8\% pa (Judgments Act 1838).
+
+\begin{itemize}
+\tightlist
+\item
+  Where judgment is entered for damages to be assessed, interest begins
+  to run from the date when damages are finally assessed or agreed
+\item
+  Interest on an order for the payment of costs runs from the date of
+  the judgment, not from the date of the final costs certificate
+  following a detailed assessment (so make a payment on account).
+\end{itemize}
+
+\hypertarget{county-court-judgments}{%
+\subsubsection{County Court Judgments}\label{county-court-judgments}}
+
+\begin{itemize}
+\tightlist
+\item
+  s 74 of the CCA 1984, interest accrues on County Court judgments of
+  £5,000 or more, at 8\% pa.
+\item
+  Where payment is deferred/ by instalments, interest will not accrue
+  until that date/ until an instalment falls due.
+\item
+  Where enforcement proceedings are taken, the judgment debt ceases to
+  carry interest unless the enforcement proceedings fail to produce any
+  payment, in which case interest will continue to accrue on the
+  judgment debt as if the enforcement proceedings had never been issued.
+\item
+  If enforcement proceedings are taken and anything at all is recovered,
+  the balance of the debt will become interest free.
+\end{itemize}
+
+\hypertarget{tracing-other-party}{%
+\subsection{Tracing Other Party}\label{tracing-other-party}}
+
+Consider employing an enquiry agent to trace the other party, with a
+limit on the costs that may be incurred by them. Enquiries likely to be
+made at the outset of the case.
+
+\hypertarget{investigating-debtors-means}{%
+\subsection{Investigating Debtor's
+Means}\label{investigating-debtors-means}}
+
+To investigate the judgment debtor's assets, either:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Instruct an enquiry agent, or
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Likely to be quicker but more expensive than applying to court.
+  \end{itemize}
+\item
+  Apply to the court for an order to obtain information from the
+  judgment debtor.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Part 71
+  \item
+    This is a court order requiring the judgment debtor to attend before
+    an officer of the court to be examined on oath as to their means.
+  \item
+    To make an application:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Judgment creditor filed form N316 (for individual debtor) or N316A
+      (officer of company/ corporation is to be questioned).
+    \item
+      PD 71 para 1 sets out matters to be contained in the application
+      notice (name and address of debtor, judgment sought to be
+      enforced, amount owed).
+    \item
+      r 71.3 \& 71.4 procedure for service of the order and for payment
+      of the judgment debtor's travel expenses.
+    \end{itemize}
+  \item
+    Hearing
+
+    \begin{itemize}
+    \tightlist
+    \item
+      County Court hearing centre near to debtor
+    \item
+      Conducted by officer of court/ judge
+    \item
+      Standard questions asked if officer of court; the creditor can
+      also add some in their application notice/ ask in person.
+    \item
+      Fixed costs may be awarded if solicitor attends hearing (r 45.8)
+    \item
+      Judge will not use standard questions, meeting will be tape
+      recorded, judge may make a summary assessment (r 44.6)
+    \item
+      If debtor fails to attend/ take an oath/ answer questions, a
+      committal order may be made against them.
+    \end{itemize}
+  \end{itemize}
+\end{enumerate}
+
+Recall that pre-action it is usual to make bankruptcy/ company searches.
+
+A person can be compelled for examination as a judgment debtor if the
+only outstanding parts of the judgment against them are costs orders for
+sums which have yet to be agreed or determined by the assessment
+({[}{[}Nagel (a firm) v Pluczenik Diamond Company NV {[}2019{]} EWHC
+3126 (QB){]}{]}).
+
+\hypertarget{enforcement-methods}{%
+\subsection{Enforcement Methods}\label{enforcement-methods}}
+
+4 common methods:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Seizure and sale of debtor's goods
+\item
+  Charging order (charge over debtor's land/ securities)
+\item
+  Third party debt order (requiring 3rd party owing debtor money to pay
+  it directly to the creditor)
+\item
+  Attachment of earnings order (requiring debtor's employer to make
+  payments direct to the creditor).
+\end{enumerate}
+
+\hypertarget{taking-control-of-goods}{%
+\subsubsection{Taking Control of Goods}\label{taking-control-of-goods}}
+
+\begin{itemize}
+\tightlist
+\item
+  Part 83: allows an enforcement agent/ officer to seize and sell the
+  debtor's personal goods to pay the judgment debt and costs.
+\item
+  Sold at public auction.
+\item
+  Cannot force entry into the debtor's home, though can break into
+  business premises.
+\item
+  Choice of court
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A party who obtained judgment in the High Court may issue a writ of
+    control in that court.
+  \item
+    Where a party has obtained judgment in the County Court, and the
+    amount to be enforced is £5,000 or more, it must be enforced in the
+    High Court unless the proceedings originated under the Consumer
+    Credit Act 1974.
+  \item
+    Where the sum to be enforced is less than £600, it must be enforced
+    in a County Court.
+  \item
+    So for \(£600 \leq P < £5,000\), judgment creditor can elect the
+    court. If choosing High Court, the County Court judgment must first
+    be transferred to the High Court, but this has the advantage that
+    interest accrues on the judgment debt.
+  \item
+    To enforce in the County Court, the party must apply for a warrant
+    of control.
+  \end{itemize}
+\item
+  Exempt items
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Goods on hire or hire-purchase
+  \item
+    Tools, books, phones, computers, vehicles and other items necessary
+    for the debtor to use personally in their job/ trade/ profession/
+    study, subject to £1,350 maximum aggregate value
+  \item
+    Clothing, bedding, furniture etc. reasonably required for satisfying
+    basic domestic needs of the debtor and their family.
+  \item
+    Exemptions only apply to judgment debts against individuals.
+  \item
+    Usually motor vehicles can be seized, as can household items such as
+    stereos, TVs etc.
+  \item
+    Control may be taken by goods owned by the judgment debtor jointly
+    with another person (common law).
+  \end{itemize}
+\item
+  Controlled goods agreement
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Usually the debtor enters into an agreement, where the enforcement
+    officer agrees not to remove the goods at once, and the debtor
+    agrees not to dispose of them or permit them to be moved. Gives the
+    debtor a further opportunity to pay the sum due.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{charging-order-on-land}{%
+\subsubsection{Charging Order on Land}\label{charging-order-on-land}}
+
+A judgment creditor may apply to the court for an order charging the
+judgment debtor's land with the amount due under a judgment. A charging
+order can also be made in respect of land the debtor owns jointly with
+another person (charge upon the debtor's beneficial interest).
+
+\begin{itemize}
+\tightlist
+\item
+  Restrictions
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Where there is a plan in place for the debtor to pay a sum by
+    instalments, a charging order can be made even though there has been
+    no default in payments.
+  \item
+    The court must take the lack of default into account in deciding
+    whether or not to make the order.
+  \end{itemize}
+\item
+  Registration
+
+  \begin{itemize}
+  \tightlist
+  \item
+    When a charging order has been made, should be registered if
+    possible (at the Land Registry).
+  \item
+    Where the land is jointly owned, the debtor technically has an
+    interest only in the proceeds of sale under the trust for sale,
+    rather than an interest in the land itself. This should be protected
+    by a restriction on the register.
+  \end{itemize}
+\item
+  Notice
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Whether or not the charging order is registered, written notice of
+    it should be given to any prior chargee(s) to prevent any tacking of
+    later advances.
+  \end{itemize}
+\item
+  Order for sale
+
+  \begin{itemize}
+  \tightlist
+  \item
+    To obtain the money, the creditor can apply to the court for an
+    order for sale of the land charged.
+  \item
+    The judgment will then be satisfied out of the proceeds of sale.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{charging-order-of-securities}{%
+\subsubsection{Charging Order of
+Securities}\label{charging-order-of-securities}}
+
+\begin{itemize}
+\tightlist
+\item
+  A judgment creditor may also obtain a charging order on a judgment
+  debtor's beneficial interest in certain specified securities.
+\item
+  The court may order that the charge extends to any dividend that is
+  payable.
+\item
+  Apply with Form N380
+\end{itemize}
+
+\hypertarget{third-party-debt-orders}{%
+\subsubsection{Third Party Debt Orders}\label{third-party-debt-orders}}
+
+\begin{itemize}
+\tightlist
+\item
+  Where a third party owes money to the judgment debtor, the court can
+  make an order requiring that third party to pay the judgment creditor
+  the whole of that debt, or such part of it as is sufficient to satisfy
+  the judgment debt and costs.
+\item
+  The debt must belong to the judgment debtor solely and beneficially.
+  An order cannot be made against joint debts unless all the people owed
+  the debt are joint judgment debtors.
+\item
+  The third party must be within the jurisdiction.
+\item
+  Choice of court
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Generally, County Court hearing centre.
+  \end{itemize}
+\item
+  Costs
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Costs are fixed (Part 45) and may be retained out of money recovered
+    from the 3rd party.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{attachment-of-earnings}{%
+\subsubsection{Attachment of Earnings}\label{attachment-of-earnings}}
+
+An attachment of earnings order is an order which compels the judgment
+debtor's employer to make regular deductions from the debtor's earnings
+and pay them into court. The High Court has no power to make an
+attachment of earnings order. If the judgment has been obtained in the
+High Court, the proceedings will have to be transferred to the County
+Court before this method of enforcement can be used.
+
+\hypertarget{conditions}{%
+\paragraph{Conditions}\label{conditions}}
+
+\begin{itemize}
+\tightlist
+\item
+  The amount remaining due under the judgment must be at least £50
+\item
+  The debtor must be employed (not self-employed)
+\item
+  Debtor must be an individual.
+\end{itemize}
+
+\hypertarget{insolvency}{%
+\subsubsection{Insolvency}\label{insolvency}}
+
+Where the judgment debt is for £5,000 or more, the judgment creditor may
+decide to petition for bankruptcy of the judgment debtor. However, they
+will not be able to do this if they have already registered a charging
+order because they are then in the position of a secured creditor, and a
+secured creditor cannot petition for bankruptcy unless they give up
+their security.
+
+If a bankruptcy order is made, all the debtor's property vests in the
+trustee in bankruptcy.
+
+\hypertarget{winding-up}{%
+\subsubsection{Winding up}\label{winding-up}}
+
+If the judgment debtor is a company, the judgment creditor may consider
+winding up the company if the debt is £750 or more.
+
+\end{document}

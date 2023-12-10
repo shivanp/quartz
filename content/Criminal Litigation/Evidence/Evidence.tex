@@ -1,0 +1,1526 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\newenvironment{Shaded}{}{}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+
+\newenvironment{env-41b0ee03-6b4a-4012-9c3f-e9a33a538a92}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{firebrick}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-d694feea-8f4c-4aea-a358-3fe8e86a60b9}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-aa8ed7a5-ab74-4594-a13e-3991c005a8b2}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{green}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-04945701-3279-4ac2-8022-719da3d4b46a}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{aquamarine}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-72646c8a-314e-44ca-b211-ecc05e0ec9b5}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{orange}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-8e68e551-de5d-47df-8e88-448b58336310}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{blue}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-0f570348-4476-4824-a688-28128d49600d}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{yellow}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-499cbfbb-9e05-44db-9975-075eb09d6837}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darkred}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-24c32486-ef10-4b1b-b1e8-bb8799dd4878}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{pink}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-9cf1935d-a100-4802-8952-7e7a59b04279}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-0cc2a032-87a7-44dd-a5b5-8af30071acdb}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{cyan}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-19f588a9-1deb-4b95-8c9c-71aa1e01c355}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{purple}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-19f173b7-9992-4111-b2f5-8970b8a64017}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{darksalmon}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+
+\newenvironment{env-6b7398d1-ab9d-4998-9d75-5f86c47109ef}
+{
+    \savenotes\tcolorbox[blanker,breakable,left=5pt,borderline west={2pt}{-4pt}{gray}]
+}
+{
+    \endtcolorbox\spewnotes
+}
+                
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{min\_depth: 1}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{burdens-and-standards-of-proof}{%
+\section{Burdens and Standards of
+Proof}\label{burdens-and-standards-of-proof}}
+
+\hypertarget{legal-burden}{%
+\subsection{Legal Burden}\label{legal-burden}}
+
+CPS bears the legal burden of proving D's guilt beyond reasonable doubt.
+So the magistrates or jury should convict only if sure of D's guilt
+({[}{[}Woolmington v DPP {[}1935{]} AC 462{]}{]}).
+
+Occasionally the legal burden falls on D (e.g., defence of insanity). In
+these cases, the standard is the balance of probabilities.
+
+\hypertarget{evidential-burden}{%
+\subsection{Evidential Burden}\label{evidential-burden}}
+
+\hypertarget{on-prosecution}{%
+\subsubsection{On Prosecution}\label{on-prosecution}}
+
+CPS must present sufficient evidence to justify a finding of guilt and
+show that D has a case to answer. If CPS fails, D's solicitor will be
+entitled to make a submission of no case to answer.
+
+\hypertarget{on-defence}{%
+\subsubsection{On Defence}\label{on-defence}}
+
+Not obliged to place any evidence before the court to show innocence. D
+raising a specific defence must place some evidence of that defence
+before the court: usually this involves entering the witness box and
+giving details.
+
+\hypertarget{hearsay-evidence}{%
+\section{Hearsay Evidence}\label{hearsay-evidence}}
+
+\hypertarget{statutory-definition}{%
+\subsection{Statutory Definition}\label{statutory-definition}}
+
+Pre-CJA 2003 there was a common law rule that hearsay evidence was
+inadmissible in criminal proceedings. Under CJA 2003, hearsay is
+admissible if certain conditions are met.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1466}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8534}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Term
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Definition
+\end{minipage} \\
+\midrule()
+\endhead
+Hearsay statement & A statement, not made in oral evidence, that is
+relied on as evidence of a matter in it (s 114(1)). \\
+Statement & Any representation of fact or opinion made by the person by
+whatever means (s 115(2)). \\
+Hearsay & A hearsay statement, which the court believes was made by a
+person to cause another person to believe the matter, or to cause
+another person to act (or a machine to operate) on the basis that the
+matter is as stated (s 115(3)). \\
+\bottomrule()
+\end{longtable}
+
+Note that under the legislation, the term ``matter stated'' is used
+rather than hearsay.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{To decide whether the hearsay rules apply ([[R v Twist and Others [2011] EWCA Crim 1143]]):}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Hearsay examples}
+\NormalTok{{-} A witness repeating at trial what she has been told by another person}
+\NormalTok{{-} A statement from a witness being read out at trial instead of the witness attending court to give oral evidence}
+\NormalTok{{-} A police officer repeating at trial a confession made to them by D}
+\NormalTok{{-} A business document being introduced in evidence at trial}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{admissibility}{%
+\subsection{Admissibility}\label{admissibility}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 114 CJA 2003}
+\NormalTok{(1) In criminal proceedings a statement not made in oral evidence in the proceedings is admissible as evidence of any matter stated if, but only if—}
+\NormalTok{{-} (a) any provision of this Chapter or any other statutory provision makes it admissible,}
+\NormalTok{{-} (b) any rule of law preserved by section 118 makes it admissible,}
+\NormalTok{{-} (c) all parties to the proceedings agree to it being admissible, or}
+\NormalTok{{-} (d) the court is satisfied that it is in the interests of justice for it to be admissible.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{statutory-provision}{%
+\subsubsection{Statutory Provision}\label{statutory-provision}}
+
+Hearsay is admissible under a statutory provision in the following
+situations.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2400}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7600}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Statute
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Admissible hearsay
+\end{minipage} \\
+\midrule()
+\endhead
+s 116 CJA 2003 & Cases where a witness is unavailable \\
+s 117 CJA 2003 & Business and other documents \\
+s 119 CJA 2003 & Previously inconsistent statements of a witness \\
+s 120 CJA 2003 & Previously consistent statements by a witness \\
+s 30 CJA 1998 & Reports prepared by experts (if leave of court
+obtained) \\
+s 76(1) PACE 1984 & Evidence of a confession made by D \\
+s 76A(1) PACE 1984 & Evidence raised by D of a confession made by a
+co-accused \\
+s 9 CJA 1967 & Statements from a witness which are not in dispute \\
+s 10 CJA 1967 & Formal admissions \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{witness-unavailable-to-attend}{%
+\paragraph{Witness Unavailable to
+Attend}\label{witness-unavailable-to-attend}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 116 CJA 2003 {-} Cases where a witness is unavailable}
+\NormalTok{(1) In criminal proceedings a statement not made in oral evidence in the proceedings is admissible as evidence of any matter stated if—}
+\NormalTok{{-} (a) oral evidence given in the proceedings by the person who made the statement **would be admissible** as evidence of that matter,}
+\NormalTok{{-} (b) the person who made the statement (the relevant person) is **identified** to the court’s satisfaction, and}
+\NormalTok{{-} (c) any of the five conditions mentioned in subsection (2) is satisfied.}
+
+\NormalTok{(2) The conditions are—}
+\NormalTok{{-} (a) that the relevant person is **dead**;}
+\NormalTok{{-} (b) that the relevant person is unfit to be a witness because of his **bodily or mental condition**;}
+\NormalTok{{-} (c) that the relevant person is **outside the United Kingdom** and it is not reasonably practicable to secure his attendance;}
+\NormalTok{{-} (d) that the relevant person **cannot be found** although such steps as it is reasonably practicable to take to find him have been taken;}
+\NormalTok{{-} (e) that through **fear** the relevant person does not give (or does not continue to give) oral evidence in the proceedings, either at all or in connection with the subject matter of the statement, and the court gives leave for the statement to be given in evidence.}
+
+\NormalTok{(3) For the purposes of subsection (2)(e) “fear” is to be **widely construed** and (for example) includes fear of the death or injury of another person or of financial loss.}
+
+\NormalTok{(4) Leave may be given under subsection (2)(e) only if the court considers that the statement ought to be admitted in the **interests of justice**, having regard—}
+\NormalTok{{-} (a) to the statement’s contents,}
+\NormalTok{{-} (b) to any risk that its admission or exclusion will result in unfairness to any party to the proceedings (and in particular to how difficult it will be to challenge the statement if the relevant person does not give oral evidence),}
+\NormalTok{{-} (c) in appropriate cases, to the fact that a direction under section 19 of the Youth Justice and Criminal Evidence Act 1999 (c. 23) (special measures for the giving of evidence by fearful witnesses etc) could be made in relation to the relevant person, and}
+\NormalTok{{-} (d) to any other relevant circumstances.}
+\end{Highlighting}
+\end{Shaded}
+
+{[}{[}s 116 CJA 2003.png{]}{]}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{The requirement under s 116(1)(a) menas that a statement can be admissible under s 116 only if it is first{-}hand hearsay. }
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Fear cases}
+\NormalTok{[[R v Riat and Others [2012] EWCA Crim 1509]] suggested a 6{-}stage test for whether a court would grant leave in a fear case:}
+\NormalTok{1. Is there a specific statutory justification (or ‘gateway’) permitting the admission of hearsay evidence (CJA 2003, ss 116–118)?}
+\NormalTok{2. What material is there which can help to test or assess the hearsay (CJA 2003, s 124)?}
+\NormalTok{3. Is there a specific ‘interests of justice’ test at the admissibility stage?}
+\NormalTok{4. If there is no other justification or gateway, should the evidence nevertheless be considered for admission on the ground that admission is, despite the difficulties, in the interests of justice (CJA 2003, s 114(1)(d))?}
+\NormalTok{5. Even if prima facie admissible, ought the evidence to be ruled inadmissible (PACE 1984, s 78 and/or CJA 2003, s 126)?}
+\NormalTok{6. If the evidence is admitted, should the case subsequently be stopped under s 125 of the CJA 2003?}
+
+\NormalTok{The importance of the evidence to the prosecution case is an important consideration in answering these questions. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{documentary-hearsay}{%
+\paragraph{Documentary Hearsay}\label{documentary-hearsay}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 117 CJA 2003 {-} Business and other documents}
+\NormalTok{(1) In criminal proceedings a statement contained in a document is admissible as evidence of any matter stated if—}
+\NormalTok{{-} (a) oral evidence given in the proceedings would be admissible as evidence of that matter,}
+\NormalTok{{-} (b) the requirements of subsection (2) are satisfied, and}
+\NormalTok{{-} (c) the requirements of subsection (5) are satisfied, in a case where subsection (4) requires them to be.}
+
+\NormalTok{(2) The requirements of this subsection are satisfied if—}
+\NormalTok{{-} (a) the document or the part containing the statement was **created or received by a person in the course of a trade, business, profession** or other occupation, or as the holder of a paid or unpaid office,}
+\NormalTok{{-} (b) the person who supplied the information contained in the statement (the relevant person) had or may reasonably be supposed to have had **personal knowledge of the matters dealt with**, and}
+\NormalTok{{-} (c) **each person** (if any) through whom the information was supplied from the relevant person to the person mentioned in paragraph (a) **received the information in the course of a trade**, business, profession or other occupation, or as the holder of a paid or unpaid office.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Multiple hearsay in documents is admissible if s 117(2)(c) is satisfied. }
+\end{Highlighting}
+\end{Shaded}
+
+Generally, the exception ensures the admissibility of business records.
+
+\hypertarget{statements-prepared-for-use-in-criminal-proceedings}{%
+\subparagraph{Statements Prepared for Use in Criminal
+Proceedings}\label{statements-prepared-for-use-in-criminal-proceedings}}
+
+If the statement was prepared for `the purposes of pending or
+contemplated criminal proceedings, or for a criminal investigation' (s
+117(4)), the requirements of s 117(5) must be satisfied. The
+requirements of s 117(5) will be satisfied if:
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \tightlist
+  \item
+    any of the five conditions mentioned in s 116(2) is satisfied; or
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{1}
+  \tightlist
+  \item
+    the relevant person \textbf{cannot reasonably be expected to have
+    any recollection} of the matters dealt with in the statement (having
+    regard to the length of time since he supplied the information and
+    all other circumstances).
+  \end{enumerate}
+\end{itemize}
+
+\hypertarget{discretionary-power}{%
+\subparagraph{Discretionary Power}\label{discretionary-power}}
+
+The court retains a discretionary power to make a direction that a
+statement shall not be admitted under s 117 (CJA 2003, s 117(6)).
+
+{[}{[}s 117 CJA 2003.png{]}{]}
+
+\hypertarget{producing-document}{%
+\subparagraph{Producing Document}\label{producing-document}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 133 CJA 2003 {-} Proof of statements in documents}
+
+\NormalTok{Where a statement in a document is admissible as evidence in criminal proceedings, the statement may be proved by producing either—}
+\NormalTok{{-} (a) the document, or}
+\NormalTok{{-} (b) (whether or not the document exists) a copy of the document or of the material part of it,}
+
+\NormalTok{authenticated in whatever way the court may approve. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{multiple-hearsay-additional-requirements}{%
+\subsection{Multiple Hearsay: Additional
+Requirements}\label{multiple-hearsay-additional-requirements}}
+
+If the hearsay is multiple hearsay, additional requirements must be met:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 121 CJA 2003 {-} Additional requirement for admissibility of multiple hearsay}
+
+\NormalTok{(1) A hearsay statement is not admissible to prove the fact that an earlier hearsay statement was made unless—}
+\NormalTok{{-} (a) either of the statements is admissible under section 117 [business document], 119 [previous inconsistent statement by witness] or 120 [previous consistent statement by witness],}
+\NormalTok{{-} (b) all parties to the proceedings so agree, or}
+\NormalTok{{-} (c) the court is satisfied that the value of the evidence in question, taking into account how reliable the statements appear to be, is so high that the interests of justice require the later statement to be admissible for that purpose.}
+
+\NormalTok{(2) In this section “hearsay statement” means a statement, not made in oral evidence, that is relied on as evidence of a matter stated in it.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{challenging-credibility}{%
+\subsection{Challenging Credibility}\label{challenging-credibility}}
+
+If hearsay is admitted, the other party will not have the opportunity to
+cross-examine the maker of the statement. s 124 CJA 2003 aims to
+compensate.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 124 CJA 2003 {-} Credibility}
+\NormalTok{(1) This section applies if in criminal proceedings—}
+\NormalTok{{-} (a) a statement not made in oral evidence in the proceedings is admitted as evidence of a matter stated, and}
+\NormalTok{{-} (b) the maker of the statement does not give oral evidence in connection with the subject matter of the statement.}
+
+\NormalTok{(2) In such a case—}
+\NormalTok{{-} (a) any evidence which (if he had given such evidence) would have been **admissible as relevant** to his credibility as a witness is so admissible in the proceedings;}
+\NormalTok{{-} (b) evidence may with the court’s leave be given of any matter which (if he had given such evidence) could have been put to him in **cross{-}examination as relevant** to his credibility as a witness but of which evidence could not have been adduced by the cross{-}examining party;}
+\end{Highlighting}
+\end{Shaded}
+
+s 124(2)(b) includes evidence that the witnesses had previous
+convictions for offences where he had been untruthful.
+
+\hypertarget{unconvincing-evidence}{%
+\subsection{Unconvincing Evidence}\label{unconvincing-evidence}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 125 CJA 2003 {-} Stopping the case where evidence is unconvincing}
+
+\NormalTok{(1) If on a defendant’s trial before a judge and jury for an offence the court is satisfied at any time after the close of the case for the prosecution that—}
+\NormalTok{{-} (a) the case against the defendant is based wholly or partly on a statement not made in oral evidence in the proceedings, and}
+\NormalTok{{-} (b) the evidence provided by the statement is so unconvincing that, considering its importance to the case against the defendant, his conviction of the offence would be unsafe,}
+
+\NormalTok{the court must either direct the jury to acquit the defendant of the offence or, if it considers that there ought to be a retrial, discharge the jury. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{excluding-evidence-discretion}{%
+\subsection{Excluding Evidence
+Discretion}\label{excluding-evidence-discretion}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 126 CJA 2003 {-} Court’s general discretion to exclude evidence}
+
+\NormalTok{(1) In criminal proceedings the court may refuse to admit a statement as evidence of a matter stated if—}
+\NormalTok{{-} (a) the statement was made otherwise than in oral evidence in the proceedings, and}
+\NormalTok{{-} (b) the court is satisfied that **the case for excluding the statement, taking account of the danger that to admit it would result in undue waste of time, substantially outweighs the case for admitting it**, taking account of the value of the evidence.}
+
+\NormalTok{(2) Nothing in this Chapter prejudices—}
+\NormalTok{{-} (a) any power of a court to exclude evidence under section 78 of the Police and Criminal Evidence Act 1984 (exclusion of unfair evidence), or}
+\NormalTok{{-} (b) any other power of a court to exclude evidence at its discretion (whether by preventing questions from being put or otherwise).}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{admitting-hearsay-procedure}{%
+\subsection{Admitting Hearsay
+Procedure}\label{admitting-hearsay-procedure}}
+
+Part 20 CrimPR rules on admitting hearsay apply to cases where:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  it is in the \textbf{interests of justice} for the hearsay evidence to
+  be admissible (s 114(1)(d));
+\item
+  the \textbf{witness} is \textbf{unavailable} to attend court (s 116);
+\item
+  the evidence is \textbf{multiple hearsay} (s 121); or
+\item
+  either the prosecution or the defence rely on s 117(1) for the
+  admission of a \textbf{written witness statement} prepared for use in
+  criminal proceedings (CrimPR, r 20.2).
+\end{enumerate}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{If D made a confession at the time of arrest, Part 20 rules do not apply to the arresting officer giving details of the confession at trial. }
+\end{Highlighting}
+\end{Shaded}
+
+A party must give notice of their intention to adduce hearsay evidence
+at trial. There are time limits for this.
+
+\begin{itemize}
+\tightlist
+\item
+  If the CPS wishes to adduce Part 20 hearsay evidence at trial
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Must serve notice to the court and the other parties (r 20.2 CrimPR)
+  \item
+    \textbf{Notice} sent \(\leq 20\) business days ({[}{[}Magistrates'
+    Court{]}{]}) or \(\leq 10\) business days ({[}{[}Crown Court{]}{]})
+    after D pleads not guilty (r 20.2(3)).
+  \item
+    If \textbf{D} opposes this, must send notice as soon as reasonably
+    practicable and \(\leq 10\) business days after the latest of (r
+    20.3(2)(c))
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Service of notice to introduce evidence
+    \item
+      Service of evidence, if no notice required
+    \item
+      D pleading not guilty.
+    \end{itemize}
+  \end{itemize}
+\item
+  If D wishes to adduce Part 20 hearsay evidence at trial
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Serve notice} to court and other parties (r 20.2(4)) as soon
+    as reasonably practicable.
+  \item
+    If \textbf{CPS} objects, it must send notice as soon as reasonably
+    practicable and \(\leq 10\) business days after the latest of (r
+    20.3(2)(c))
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Service of notice to introduce evidence
+    \item
+      Service of evidence, if no notice required
+    \item
+      D pleading not guilty.
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: r 20.5 CrimPR}
+\NormalTok{(1) The court may—}
+\NormalTok{{-} (a) shorten or extend (even after it has expired) a time limit under this Part;}
+\NormalTok{{-} (b) allow an application or notice to be in a different form to one set out in the Practice Direction, or to be made or given orally; and}
+\NormalTok{{-} (c) dispense with the requirement for notice to introduce hearsay evidence.}
+
+\NormalTok{(2) A party who wants an extension of time must—}
+\NormalTok{{-} (a) apply when serving the application or notice for which it is needed; and}
+\NormalTok{{-} (b) explain the delay.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{confession-evidence}{%
+\section{Confession Evidence}\label{confession-evidence}}
+
+\hypertarget{definition}{%
+\subsection{Definition}\label{definition}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Confession}
+\NormalTok{Any statement wholly or partly adverse to the person who made it, whether made to a person in authority or not and whether made in words or otherwise (s 82(1) PACE 1984).}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{admissibility-1}{%
+\subsection{Admissibility}\label{admissibility-1}}
+
+\hypertarget{confessions}{%
+\subsubsection{Confessions}\label{confessions}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 76(1) PACE 1984}
+\NormalTok{In any proceedings a confession made by an accused person may be given in evidence against him in so far as it is relevant to any matter in issue in the proceedings and is not excluded by the court in pursuance of this section.}
+\end{Highlighting}
+\end{Shaded}
+
+Proposition: A \textbf{pre-trial confession} is admissible in trial to
+prove D's guilt.
+
+Proof:
+
+\begin{itemize}
+\tightlist
+\item
+  A confession made by D before trial which is repeated in evidence at
+  his trial will be hearsay.
+\item
+  Such a confession is admissible in evidence by virtue of s 114(1)(a)
+  of the CJA 2003, which provides that hearsay evidence will be
+  admissible at trial if it is made admissible by virtue of any
+  statutory provision.
+\item
+  Confession evidence is made admissible by s 76(1) of PACE 1984.
+\end{itemize}
+
+\hypertarget{mixed-statements}{%
+\subsubsection{Mixed Statements}\label{mixed-statements}}
+
+A confession may include a statement favourable to D. The whole
+statement will be admissible under s 76(1) as an exception to the rule
+excluding {[}\protect\hyperlink{hearsay-evidence}{Hearsay Evidence}{]}.
+
+\hypertarget{confessions-and-a-co-accused}{%
+\subsubsection{Confessions and a
+Co-accused}\label{confessions-and-a-co-accused}}
+
+Consider a defendant \(D\) and co-defendant \(D_c\).
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Any evidence given by \(D_c\) \textbf{at trial} which implicates \(D\)
+  (including a confession made by \(D_c\)) will be admissible in
+  evidence against \(D\).
+\item
+  If \(D_c\) has \textbf{pleaded guilty} at an earlier hearing and is
+  giving evidence for the prosecution \textbf{at \(D\)'s trial}, any
+  evidence he gives implicating \(D\) in the commission of the offence
+  will be admissible in evidence against \(D\).
+\item
+  A \textbf{pre-trial} confession by \(D_c\) may be admissible against
+  \(D\)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Used to be inadmissible under common law
+  \item
+  \end{itemize}
+\item
+  Where two (or more) co-defendants are pleading not guilty and are
+  \textbf{tried jointly}, s 76A(1) PACE 1984 allows one defendant to
+  adduce in evidence the fact that a co-defendant has made a confession.
+\end{enumerate}
+
+\hypertarget{challenging-admissibility-s-76}{%
+\subsection{Challenging Admissibility -- S
+76}\label{challenging-admissibility-s-76}}
+
+D can challenge the admissibility of a confession by arguing:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Confession was not made/ fabricated/ misheard; or
+\item
+  Confession was made but was untrue. It was made for reasons other than
+  admitting guilt.
+\end{enumerate}
+
+If challenging on ground (2), use
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 72(2) PACE 1984}
+\NormalTok{If, in any proceedings where the prosecution proposes to give in evidence a confession made by an accused person, it is represented to the court that the confession was or may have been obtained—}
+\NormalTok{{-} (a) by **oppression** of the person who made it; or}
+\NormalTok{{-} (b) in consequence of **anything said or done** which was likely, in the circumstances existing at the time, to render **unreliable** any confession which might be made by him in consequence thereof,}
+
+\NormalTok{the court shall not allow the confession to be given in evidence against him except in so far as the prosecution proves to the court beyond reasonable doubt that the confession (notwithstanding that it may be true) was not obtained as aforesaid. }
+\end{Highlighting}
+\end{Shaded}
+
+If this is raised, the burden of proof is on the prosecution to show
+beyond a reasonable doubt that the confession was not so obtained.
+
+\hypertarget{oppression}{%
+\subsubsection{Oppression}\label{oppression}}
+
+``Oppression'' includes torture, inhuman or degrading treatment, and the
+use or threat of violence (whether or not amounting to torture) -- s
+76(8). Unusual for this to be argued.
+
+\hypertarget{unreliability}{%
+\subsubsection{Unreliability}\label{unreliability}}
+
+Although s 76(2)(b) does not require deliberate misconduct on the part
+of the police, the thing which is said or done will usually involve an
+alleged breach of Code C.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{{-} Denying a suspect refreshments/ rest between interviews}
+\NormalTok{{-} Offering a suspect an inducement to confess}
+\NormalTok{{-} Misrepresentating the strength of the prosecution case}
+\NormalTok{{-} Questioning a suspect in an inappropriate way}
+\NormalTok{{-} Questioning a suspect who the police should have known was not in a fit state to be interviewed}
+\NormalTok{{-} Threatening a suspect.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: Being denied access to legal advice}
+\NormalTok{{-} Being denied access to legal advice at the police station is a breach of Code C and s 58 PACE 1984. }
+\NormalTok{{-} This will not alone lead to the exclusion of the confession}
+\NormalTok{{-} Must be a **causal link** between the breach and the unreliability of the confession subsequently made ("but for" test)}
+\end{Highlighting}
+\end{Shaded}
+
+Note that the causal link is needed for any unreliability argument, not
+just legal advice.
+
+\hypertarget{co-defendant-confession-evidence}{%
+\subsubsection{Co-defendant Confession
+Evidence}\label{co-defendant-confession-evidence}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 76A PACE 1984 {-} Confessions may be given in evidence for co{-}accused}
+\NormalTok{(1) In any proceedings a **confession made by an accused** person may be given **in evidence for another** person charged in the same proceedings (a co{-}accused) in so far as it is relevant to any matter in issue in the proceedings and is **not excluded** by the court in pursuance of this section.}
+
+\NormalTok{(2) If, in any proceedings where a co{-}accused proposes to give in evidence a confession made by an accused person, it is represented to the court that the confession was or may have been obtained—}
+\NormalTok{{-} (a) by oppression of the person who made it; or}
+\NormalTok{{-} (b) in consequence of anything said or done which was likely, in the circumstances existing at the time, to render **unreliable** any confession which might be made by him in consequence thereof,}
+
+\NormalTok{the court shall **not allow** the confession to be given in evidence for the co{-}accused except in so far as it is proved to the court on the **balance of probabilities** that the confession (notwithstanding that it may be true) was **not so obtained**.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{challenging-admissibility-s-78}{%
+\subsection{Challenging Admissibility -- S
+78}\label{challenging-admissibility-s-78}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 78 PACE 1984 {-} Exclusion of unfair evidence}
+\NormalTok{(1) In any proceedings the court may **refuse to allow evidence** on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the **fairness of the proceedings** that the court ought not to admit it.}
+
+\NormalTok{(2) Nothing in this section shall prejudice any rule of law requiring a court to exclude evidence.}
+\end{Highlighting}
+\end{Shaded}
+
+This provides the court with the discretion to exclude confession
+evidence.
+
+\hypertarget{d-admits-making-confession}{%
+\subsubsection{D Admits Making
+Confession}\label{d-admits-making-confession}}
+
+Where D admits making the confession but alleges that the police
+breached PACE 1984/ Codes of Practice in obtaining the confession, the
+court will exclude the confession under s 78 only if the breaches are
+significant and substantial ({[}{[}R v Walsh (1989) 91 Cr App R
+161{]}{]}).
+
+Note the overlap between s 76(2)(b) and s 78. Generally, the court has
+exercised discretion under s 78 with suspects denied access to legal
+advice.
+
+s 78 is broader, and may also be used when:
+
+\begin{itemize}
+\tightlist
+\item
+  The physical condition of D makes the confession unreliable
+\item
+  D has an ulterior motive for making a confession (e.g., wanting to
+  protect someone).
+\end{itemize}
+
+\hypertarget{d-denies-making-confession}{%
+\subsubsection{D Denies Making
+Confession}\label{d-denies-making-confession}}
+
+A confession allegedly made by D outside the police station is likely to
+be excluded under s 78 if the police breached Code C by:
+
+\begin{itemize}
+\tightlist
+\item
+  Failing to make an accurate record of D's comments (Code C, para
+  11.7(a))
+\item
+  Failing to give D an opportunity to view the record and sign for/
+  dispute accuracy (Code C, para 11.11)
+\item
+  Failing to put admission/ confession to D at the start of his
+  subsequent police station interview (Code C, para 11.4).
+\end{itemize}
+
+\hypertarget{flowchart}{%
+\subsection{Flowchart}\label{flowchart}}
+
+{[}{[}confession-evidence.png{]}{]}
+
+\hypertarget{character-evidence}{%
+\section{Character Evidence}\label{character-evidence}}
+
+When can previous convictions of Ds or witnesses be admitted in evidence
+at trial?
+
+\hypertarget{history}{%
+\subsection{History}\label{history}}
+
+\hypertarget{pre-cja-2003}{%
+\subsubsection{Pre-CJA 2003}\label{pre-cja-2003}}
+
+D's previous convictions were not admissible except in very limited
+circumstances.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Where previous convictions amounted to ``similar fact'' evidence.
+  These were convictions for ``strikingly similar'' offences.
+\item
+  Where D entered the witness box and either:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Gave evidence to suggest he was of good character
+  \item
+    Attacked the character of a prosecution witness
+  \item
+    Gave evidence implicating a co-accused.
+  \end{enumerate}
+\end{enumerate}
+
+In (2), D loses their general shield of being in the witness box.
+
+\hypertarget{cja-2003-changes}{%
+\subsubsection{CJA 2003 Changes}\label{cja-2003-changes}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1667}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8333}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Term
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Definition
+\end{minipage} \\
+\midrule()
+\endhead
+Bad character & Evidence of, or a disposition towards, misconduct (s 98
+CJA 2003) \\
+Misconduct & The commission of an offence or other reprehensible
+behaviour (s 112 CJA 2003). \\
+\bottomrule()
+\end{longtable}
+
+If the alleged misconduct by D is connected to the offence with which he
+has been charged, this will not fall within the definition of bad
+character in s 98, and will therefore be admissible in evidence without
+needing to consider the test for admissibility of bad character
+evidence. This distinction applies to persons other than D too.
+
+\hypertarget{gateways}{%
+\subsection{7 Gateways}\label{gateways}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 101(1) CJA 2003 {-} D\textquotesingle{}s bad character}
+\NormalTok{In criminal proceedings evidence of the defendant’s bad character is admissible if, but only if—}
+\NormalTok{{-} (a) all parties to the proceedings agree to the evidence being admissible,}
+\NormalTok{{-} (b) the evidence is adduced by the defendant himself or is given in answer to a question asked by him in cross{-}examination and intended to elicit it,}
+\NormalTok{{-} (c) it is important explanatory evidence,}
+\NormalTok{{-} (d) it is relevant to an important matter in issue between the defendant and the prosecution,}
+\NormalTok{{-} (e) it has substantial probative value in relation to an important matter in issue between the defendant and a co{-}defendant,}
+\NormalTok{{-} (f) it is evidence to correct a false impression given by the defendant, or}
+\NormalTok{{-} (g) the defendant has made an attack on another person’s character.}
+\end{Highlighting}
+\end{Shaded}
+
+{[}{[}7-gateways.png{]}{]}
+
+\hypertarget{gateway-d}{%
+\subsection{Gateway (d)}\label{gateway-d}}
+
+``Important matter'' means a matter of substantial importance in the
+context of the case as a whole (s 112(1) CJA 2003).
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 103(1) CJA 2003 {-} “Matter in issue between the defendant and the prosecution”}
+\NormalTok{For the purposes of section 101(1)(d) the matters in issue between the defendant and the prosecution include—}
+\NormalTok{{-} (a) the question whether the defendant has a **propensity to commit offences** of the kind with which he is charged, except where his having such a propensity makes it no more likely that he is guilty of the offence;}
+\NormalTok{{-} (b) the question whether the defendant has a **propensity to be untruthful**, except where it is not suggested that the defendant’s case is untruthful in any respect.}
+\end{Highlighting}
+\end{Shaded}
+
+Only the prosecution may adduce evidence of D's bad character (s
+103(6)).
+
+{[}{[}gateway-d.png{]}{]}
+
+\hypertarget{propensity-to-commit-offences-of-the-kind-charged}{%
+\subsubsection{Propensity to Commit Offences of the Kind
+Charged}\label{propensity-to-commit-offences-of-the-kind-charged}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 103(2){-}(5)}
+\NormalTok{(2) Where subsection (1)(a) applies, a defendant’s propensity to commit offences of the kind with which he is charged may (without prejudice to any other way of doing so) be established by evidence that he has been convicted of—}
+\NormalTok{{-} (a) an offence of the **same description** as the one with which he is charged, or}
+\NormalTok{{-} (b) an offence of the **same category** as the one with which he is charged.}
+
+\NormalTok{(3) Subsection (2) does not apply in the case of a particular defendant if the court is satisfied, by reason of the **length of time** since the conviction or for any other reason, that it would be **unjust** for it to apply in his case.}
+
+\NormalTok{(4) For the purposes of subsection (2)—}
+\NormalTok{{-} (a) two offences are of the same description as each other if the statement of the offence in a written charge or indictment would, in each case, be in the same terms;}
+\NormalTok{{-} (b) two offences are of the same category as each other if they belong to the same category of offences prescribed for the purposes of this section by an order made by the Secretary of State.}
+
+\NormalTok{(5) A category prescribed by an order under subsection (4)(b) must consist of offences of the same type.}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{offences-of-the-same-description}{%
+\paragraph{Offences of the Same
+Description}\label{offences-of-the-same-description}}
+
+Previous convictions do not need to be identical, just sufficient to
+support an offence charged on the same terms. Evidence of basic intent
+offences not resulting in GBH could not be used in a murder trial
+({[}{[}Bullen v R {[}2008{]} EWCA Crim 4{]}{]}), since a propensity to
+violence is not in issue/ an important matter to the issue. The
+important matter is whether the specific intent needed for murder was
+present.
+
+\hypertarget{offences-of-the-same-category}{%
+\paragraph{Offences of the Same
+Category}\label{offences-of-the-same-category}}
+
+SoS has prescribed two categories of offences:
+
+\begin{itemize}
+\tightlist
+\item
+  Sexual offences category (sexual offences against children under 16)
+\item
+  Theft category (including theft, robbery, burglary, etc.)
+\end{itemize}
+
+\hypertarget{other-offences}{%
+\paragraph{Other Offences}\label{other-offences}}
+
+Even if not in the same description/ category, a conviction for the
+earlier offence may still be admissible if there are significant factual
+similarities between the offences.
+
+\hypertarget{other-ways-to-prove-propensity}{%
+\paragraph{Other Ways to Prove
+Propensity}\label{other-ways-to-prove-propensity}}
+
+The prosecution are free to prove a propensity to commit offences of the
+same kind without reference to previous convictions.
+
+{[}{[}R v Hanson, Gilmore \& Pickstone {[}2005{]} Crim LR 787{]}{]} sets
+guidelines for when CPS seeks to adduce evidence of D's previous
+convictions to demonstrate propensity to commit offences of the kind
+charged.
+
+\begin{itemize}
+\tightlist
+\item
+  CPS should answer each of the following affirmatively before allowing
+  convictions in evidence:
+
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi}.}
+  \tightlist
+  \item
+    Does D's history of offending show a propensity to commit offences?
+  \item
+    If so, does that propensity make it more likely that D committed the
+    current offence?
+  \item
+    If so, is it just to rely on convictions of the same description or
+    category, minding the overriding principle that proceedings should
+    be fair?
+  \end{enumerate}
+\item
+  Offences may go beyond offences of the same description or same
+  category
+\item
+  The fewer the number of previous convictions D has, the less likely
+  that propensity will be established.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If there is only 1 previous conviction, unlikely to show propensity
+    unless there is are ``distinguishing circumstances'' (e.g., arson,
+    noncing).
+  \end{itemize}
+\item
+  The manner in which the previous and current offences were carried out
+  may be highly relevant to propensity and probative value.
+\end{itemize}
+
+\hypertarget{propensity-to-be-untruthful}{%
+\subsubsection{Propensity to Be
+Untruthful}\label{propensity-to-be-untruthful}}
+
+In {[}{[}R v Hanson, Gilmore \& Pickstone {[}2005{]} Crim LR 787{]}{]}
+the Court of Appeal held that a defendant's previous convictions will
+not be admissible to show that the defendant has a propensity to be
+untruthful unless:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  the \textbf{manner} in which the previous offence was committed
+  demonstrates that the defendant has such a propensity (because he had
+  made false representations), or
+\item
+  the defendant pleaded \textbf{not guilty} to the earlier offence, but
+  was \textbf{convicted} following a trial at which his account was
+  disbelieved.
+\end{enumerate}
+
+\hypertarget{manner-of-committing-previous-offence}{%
+\paragraph{Manner of Committing Previous
+Offence}\label{manner-of-committing-previous-offence}}
+
+Propensity to be untruthful \(P_u\) \(\subset\) Propensity to be
+dishonest. Previous convictions must involve D actively seeking to
+receive or mislead another person by making false representations.
+
+\begin{itemize}
+\tightlist
+\item
+  Perjury, fraud by false representation \(\in P_u\)
+\item
+  Theft \(\notin P_u\)
+\end{itemize}
+
+\hypertarget{restriction}{%
+\paragraph{Restriction}\label{restriction}}
+
+{[}{[}R v Campbell {[}2007{]} EWCA Crim 1472{]}{]}: D's propensity to be
+untruthful will be an important matter in issue only where telling lies
+is an important element of the offence with which the defendant is
+charged (for example, perjury), and will not be an important matter in
+issue simply because the defendant has entered a not guilty plea to the
+offence charged. This decision is subject to academic criticism.
+
+\hypertarget{excluding-and-weighing-character-evidence}{%
+\subsection{Excluding and Weighing Character
+Evidence}\label{excluding-and-weighing-character-evidence}}
+
+\hypertarget{excluding-evidence-s-1013-cja-2003}{%
+\subsubsection{Excluding Evidence -- S 101(3) CJA
+2003}\label{excluding-evidence-s-1013-cja-2003}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{title: s 101(3) CJA 2003}
+\NormalTok{The court must not admit evidence under subsection (1)(d) or (g) if, on an application by the defendant to exclude it, it appears to the court that the admission of the evidence would have such an **adverse effect on the fairness** of the proceedings that the court ought not to admit it.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{This is the same test as under s 78 PACE 1984. But under s 78 the court has discretion as to whether to exclude on such grounds, whereas under s 101(3) the court must exclude evidence if the test is satisfied.}
+\end{Highlighting}
+\end{Shaded}
+
+Powers likely to be used when:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  The nature of D's previous convictions is such that a jury is likely
+  to convict D on the basis of these convictions alone, where the
+  evidence of previous convictions is more prejudicial or probative
+  ({[}{[}R v Hackett {[}2019{]} EWCA Crim 983{]}{]});
+\item
+  The CPS seeks to adduce previous convictions to support a case which
+  is otherwise weak ({[}{[}R v Hanson, Gilmore \& Pickstone {[}2005{]}
+  Crim LR 787{]}{]});
+\item
+  When D's previous convictions are spent
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Certain convictions are ``spent'' after a prescribed period of time,
+    meaning the convicted person is treated as never having been
+    convicted of the offence.
+  \item
+    Rehabilitation of Offenders Act 1974.
+  \end{itemize}
+\end{enumerate}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.4800}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5200}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Sentence
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Rehabilitation period (from conviction)
+\end{minipage} \\
+\midrule()
+\endhead
+Absolute discharge & None \\
+Conditional discharge & None \\
+Fine & 1 year \\
+Community Order & 1 year \\
+Custodial sentence \(<6\) months & 2 years \\
+\(6\) months \(<\) sentence \(<30\) months & 4 years \\
+\(30\) months \(<\) sentence \(<4\) years & 7 years \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{excluding-evidence-s-78-pace-1984}{%
+\subsubsection{Excluding Evidence -- S 78 PACE
+1984}\label{excluding-evidence-s-78-pace-1984}}
+
+The court has power to exclude bad character evidence admitted through
+gateways (d) and (g), but not through the other gateways. But it also
+has a discretionary power under s 78 PACE 1984 to exclude evidence on
+which the prosecution rely if it would have such an \textbf{adverse
+effect on the fairness} of proceedings that it ought not to be admitted.
+
+\hypertarget{general-guidance}{%
+\subsubsection{General Guidance}\label{general-guidance}}
+
+Set out in {[}{[}R v Hanson, Gilmore \& Pickstone {[}2005{]} Crim LR
+787{]}{]}:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Prosecution applications to adduce bad character evidence should not
+  be made routinely, and should be carefully balanced.
+\item
+  Where evidence against D is otherwise weak, it may be unfair to admit
+  evidence of D's previous convictions if this would prejudice minds
+\item
+  Each individual previous conviction needs to be examined separately.
+\end{enumerate}
+
+Role of trial judge:
+
+\begin{itemize}
+\tightlist
+\item
+  Not to be unduly swayed by previous convictions
+\item
+  Propensity to commit\(\centernot\implies\)D guilty
+\item
+  To decide whether previous convictions do show a propensity
+\item
+  Take into account what D says about previous convictions
+\item
+  Propensity is only one relevant factor.
+\end{itemize}
+
+\hypertarget{switching-gateways}{%
+\subsubsection{Switching Gateways}\label{switching-gateways}}
+
+Evidence of a defendant's bad character which is adduced under one
+gateway \textbf{may then be used for any purpose} for which bad
+character evidence was relevant in the particular case
+(\href{judges\%20should\%20apply\%20the\%20provisions\%20of\%20s\%2078\%20when\%20making\%20rulings\%20as\%20to\%20the\%20use\%20of\%20evidence\%20of\%20bad\%20character,\%20and\%20exclude\%20evidence\%20where\%20it\%20would\%20be\%20appropriate\%20to\%20do\%20so\%20under\%20s\%2078.}{{[}R
+v Highton \& Others {[}2005{]} EWCA Crim 1985{]}}).
+
+\hypertarget{conduct}{%
+\subsection{Conduct}\label{conduct}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{You are representing Dave who is charged with an offence of possession of cocaine with intent to supply, contrary to s5(3) Misuse of Drugs Act 1971. Dave has pleaded not guilty. The CPS advise you that they plan to make an application to adduce evidence of Dave’s bad character. They have disclosed to you a list of  Dave\textquotesingle{}s previous convictions. You  immediately notice that the record does not include a recent conviction for possession of cannabis with intent to supply that Dave has told you about in an earlier consultation. Dave pleaded guilty to this earlier offence.}
+\end{Highlighting}
+\end{Shaded}
+
+If the CPS find out about the conviction for possession of cannabis with
+intent to supply, they are likely to argue that it should be admissible
+as evidence at Dave's trial as it establishes a propensity to commit the
+same type of offence with which he is now charged. Note that you cannot
+tell the CPS about the conviction without your client's consent, in
+accordance with your duty of confidentiality under the SRA Code of
+Conduct, paragraph 6.3 (although of course you must not mislead the
+court about it either, given your obligation in the SRA Code of Conduct,
+paragraph 1.4).
+
+\hypertarget{admitting-bad-character-evidence-procedure}{%
+\subsection{Admitting Bad Character Evidence
+Procedure}\label{admitting-bad-character-evidence-procedure}}
+
+\begin{itemize}
+\tightlist
+\item
+  If the CPS wishes to adduce bad character \textbf{of D} at trial
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Must serve notice to the court and the other parties (CrimPR r
+    21.4(1) \& (2)).
+  \item
+    \textbf{Notice} sent \(\leq 20\) business days ({[}{[}Magistrates'
+    Court{]}{]}) or \(\leq 10\) business days ({[}{[}Crown Court{]}{]})
+    after D pleads not guilty (r 21.4(3)).
+  \item
+    If \textbf{D} opposes this, must make an application to exclude bad
+    character evidence \(\leq 10\) business days after receiving notice
+    from CPS.
+  \end{itemize}
+\item
+  If D wishes to adduce bad character \textbf{of a witness} at trial
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Serve notice} to court and other parties (r 21.3(1) \& (2))
+  \item
+    Notice served as soon as reasonably practicable and \(\leq 10\)
+    business days after the CPS discloses to D details of the previous
+    convictions of any of its witnesses (r 21.3(3)(a) \& (b))
+  \item
+    If CPS opposes, must send notice to the court and all other parties
+    \(\leq 10\) business days after receiving D's application (r
+    21.3(4)).\\
+  \end{itemize}
+\item
+  If the CPS wishes to adduce bad character \textbf{of a witness} at
+  trial
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Must serve notice to the court and the other parties (CrimPR r
+    21.4(1) \& (2)) as soon as reasonably practicable (r 21.3(3)(a)).
+  \item
+    If \textbf{D} opposes this, must send notice to court \& other
+    parties \(\leq 10\) business days after receiving the application (r
+    21.3(4)).
+  \end{itemize}
+\end{itemize}
+
+In all cases, a prescribed form must be used. Must include a written
+record of previous convictions the party is seeking to adduce.
+
+\end{document}
