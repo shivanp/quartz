@@ -25,17 +25,13 @@ Statute: Part 31 CPR 1998. Applies to all claims except Small Claims Track claim
 
 ## Definitions
 
-```ad-defn
-title: Disclosure
-A party discloses a document by stating that the document exists or has existed (r 31.2).
-```
+> [!defn] Disclosure
+> A party discloses a document by stating that the document exists or has existed (r 31.2).
 
 Can be done by serving a list of documents on every other party.
 
-```ad-defn
-title: Documents
-Anything in which information of any description is recorded (r 31.4)
-```
+> [!defn] Documents
+> Anything in which information of any description is recorded (r 31.4)
 
 ## Disclosure on Each Track
 
@@ -75,16 +71,14 @@ r 31.5(8): the court may specify searches to be carried out, formats for documen
 
 ## Standard Disclosure
 
-```ad-statute
-title: r 31.6
-Standard disclosure requires a party to disclose only–
-- (a) the documents on which he relies; and
-- (b) the documents which –
-	- (i) adversely affect his own case;
-	- (ii) adversely affect another party’s case; or
-	- (iii) support another party’s case; and
-- (c) the documents which he is required to disclose by a relevant practice direction.
-```
+> [!statute] r 31.6
+> Standard disclosure requires a party to disclose only–
+> - (a) the documents on which he relies; and
+> - (b) the documents which –
+> 	- (i) adversely affect his own case;
+> 	- (ii) adversely affect another party’s case; or
+> 	- (iii) support another party’s case; and
+> - (c) the documents which he is required to disclose by a relevant practice direction.
 
 ### Issues in Dispute
 
@@ -96,15 +90,13 @@ No need to disclose documents which only call into question the reliability of a
 
 ### Control of Documents
 
-```ad-statute
-title: r 31.8
-(1) A party’s duty to disclose documents is limited to documents which are or have been in his control.
-
-(2) For this purpose a party has or has had a document in his control if –
-- (a) it is or was in his physical possession;
-- (b) he has or has had a right to possession of it; or
-- (c) he has or has had a right to inspect or take copies of it.
-```
+> [!statute] r 31.8
+> (1) A party’s duty to disclose documents is limited to documents which are or have been in his control.
+> 
+> (2) For this purpose a party has or has had a document in his control if –
+> - (a) it is or was in his physical possession;
+> - (b) he has or has had a right to possession of it; or
+> - (c) he has or has had a right to inspect or take copies of it.
 
 It is open to parties to agree in writing to dispense with/ limit standard disclosure, though this is not common.
 
@@ -176,24 +168,20 @@ Parties must produce a disclosure statement (r 31.10(5)):
 
 By **r 31.10(9)**, a disclosure statement may be made by a person who is not a party only where this is permitted by a relevant Practice Direction.
 
-```ad-example
-The only provision in PD 31A is at para 4.7, which provides that ‘an insurer or the Motor Insurers’ Bureau may sign a disclosure statement on behalf of a party where the insurer or the Motor Insurers’ Bureau has a financial interest in the result of proceedings brought wholly or partially by or against that party’.
-```
+> [!example]
+> The only provision in PD 31A is at para 4.7, which provides that ‘an insurer or the Motor Insurers’ Bureau may sign a disclosure statement on behalf of a party where the insurer or the Motor Insurers’ Bureau has a financial interest in the result of proceedings brought wholly or partially by or against that party’.
 
 ### Contempt of Court
 
-```ad-defn
-Proceedings for contempt of court may be brought against a person if they make, or cause to be made, a false disclosure statement without an honest belief in its truth.
-```
+> [!defn]
+> Proceedings for contempt of court may be brought against a person if they make, or cause to be made, a false disclosure statement without an honest belief in its truth.
 
 The proceedings require the permission of the court, unless they are brought by the Attorney-General.
 
 ### Solicitors' Duties
 
-```ad-statute
-title: Practice Direction 31A, para 4.4
-If the disclosing party has a legal representative acting for them, the legal representative must endeavour to ensure that the person making the disclosure statement understands the duty of disclosure.
-```
+> [!statute] Practice Direction 31A, para 4.4
+> If the disclosing party has a legal representative acting for them, the legal representative must endeavour to ensure that the person making the disclosure statement understands the duty of disclosure.
 
 ## Continuing Obligation (r 31.11)
 
@@ -229,10 +217,8 @@ The privilege extends to
 - Communications between a party and a solicitor in their service.
 - Communications from a solicitor to a third party containing information provided by the client to the solicitor which is covered by legal advice privilege and which the client has given the lawyer authority to disclose.
 
-```ad-guid
-title: Purpose
-To allow free access to the legal profession. 
-```
+> [!guid] Purpose
+> To allow free access to the legal profession. 
 
 But the privilege does not extend to an accountant who provides legal advice ([[R (on the application of Prudential Plc) v Special Commissioner of Income Tax [2013] UKSC 1]]).
 
@@ -296,9 +282,8 @@ A party who wishes to challenge their opponent’s claim to privilege can apply 
 		- But disclosing party might obtain an injunction if it can persuade the court that the reasonable solicitor would have found it obvious that disclosure was a mistake.
 		- Court may also order that the receiving party's solicitors can no longer act in the litigation.
 
-```ad-action
-If you're unsure of if a document is privileged, best practice to point it out to the other side when reliance is placed during litigation.
-```
+> [!action]
+> If you're unsure of if a document is privileged, best practice to point it out to the other side when reliance is placed during litigation.
 
 ### Without Prejudice Correspondence
 
@@ -324,38 +309,32 @@ Actual non-privileged documents the party once had, but are no longer in the par
 
 ## Failure to Disclose
 
-```ad-statute
-title: r 31.21
-A party may not rely on any document which he fails to disclose or in respect of which he fails to permit inspection unless the court gives permission.
-```
+> [!statute] r 31.21
+> A party may not rely on any document which he fails to disclose or in respect of which he fails to permit inspection unless the court gives permission.
 
 Failure to disclose a document harming a case may result in the case being struck out.
 
 ## Subsequent Use
 
-```ad-statute
-title: r 31.22
-(1) A party to whom a document has been disclosed may use the document only for the purpose of the proceedings in which it is disclosed, except where –
-- (a) the document has been read to or by the court, or referred to, at a hearing which has been held in public;
-- (b) the court gives permission; or
-- (c) the party who disclosed the document and the person to whom the document belongs agree.
-
-(2) The court may make an order restricting or prohibiting the use of a document which has been disclosed, even where the document has been read to or by the court, or referred to, at a hearing which has been held in public.
-```
+> [!statute] r 31.22
+> (1) A party to whom a document has been disclosed may use the document only for the purpose of the proceedings in which it is disclosed, except where –
+> - (a) the document has been read to or by the court, or referred to, at a hearing which has been held in public;
+> - (b) the court gives permission; or
+> - (c) the party who disclosed the document and the person to whom the document belongs agree.
+> 
+> (2) The court may make an order restricting or prohibiting the use of a document which has been disclosed, even where the document has been read to or by the court, or referred to, at a hearing which has been held in public.
 
 ## Applying for Specific Disclosure
 
-```ad-statute
-title: r 31.12
-(1) The court may make an order for specific disclosure or specific inspection.
-
-(2) An order for specific disclosure is an order that a party must do one or more of the following things –
-- (a) disclose documents or classes of documents specified in the order;
-- (b) carry out a search to the extent stated in the order;
-- (c) disclose any documents located as a result of that search.
-
-(3) An order for specific inspection is an order that a party permit inspection of a document referred to in rule 31.3(2). (Rule 31.3(2) allows a party to state in his disclosure statement that he will not permit inspection of a document on the grounds that it would be disproportionate to do so).
-```
+> [!statute] r 31.12
+> (1) The court may make an order for specific disclosure or specific inspection.
+> 
+> (2) An order for specific disclosure is an order that a party must do one or more of the following things –
+> - (a) disclose documents or classes of documents specified in the order;
+> - (b) carry out a search to the extent stated in the order;
+> - (c) disclose any documents located as a result of that search.
+> 
+> (3) An order for specific inspection is an order that a party permit inspection of a document referred to in rule 31.3(2). (Rule 31.3(2) allows a party to state in his disclosure statement that he will not permit inspection of a document on the grounds that it would be disproportionate to do so).
 
 A party may apply for an order for specific disclosure. This should specify the order the applicant wants the court to make and the grounds for the application. Before making an application, ask the other side to comply.
 
@@ -374,26 +353,24 @@ against a non-party (r 31.17). Enables a party to proceedings that are already i
 
 The most common application is when a party indicates on their list that they no longer have a document in their possession, but that X does.
 
-```ad-statute
-title: r 31.17
-(1) This rule applies where an application is made to the court under any Act for disclosure by a person who is not a party to the proceedings.
-
-(2) The application must be supported by evidence.
-
-(3) The court may make an order under this rule only where–
-- (a) the documents of which disclosure is sought are likely to support the case of the applicant or adversely affect the case of one of the other parties to the proceedings; and
-- (b) disclosure is necessary in order to dispose fairly of the claim or to save costs.
-
-(4) An order under this rule must –
-- (a) specify the documents or the classes of documents which the respondent must disclose; and
-- (b) require the respondent, when making disclosure, to specify any of those documents –
-	- (i) which are no longer in his control; or
-	- (ii) in respect of which he claims a right or duty to withhold inspection.
-
-(5) Such an order may –
-- (a) require the respondent to indicate what has happened to any documents which are no longer in his control; and
-- (b) specify the time and place for disclosure and inspection.
-```
+> [!statute] r 31.17
+> (1) This rule applies where an application is made to the court under any Act for disclosure by a person who is not a party to the proceedings.
+> 
+> (2) The application must be supported by evidence.
+> 
+> (3) The court may make an order under this rule only where–
+> - (a) the documents of which disclosure is sought are likely to support the case of the applicant or adversely affect the case of one of the other parties to the proceedings; and
+> - (b) disclosure is necessary in order to dispose fairly of the claim or to save costs.
+> 
+> (4) An order under this rule must –
+> - (a) specify the documents or the classes of documents which the respondent must disclose; and
+> - (b) require the respondent, when making disclosure, to specify any of those documents –
+> 	- (i) which are no longer in his control; or
+> 	- (ii) in respect of which he claims a right or duty to withhold inspection.
+> 
+> (5) Such an order may –
+> - (a) require the respondent to indicate what has happened to any documents which are no longer in his control; and
+> - (b) specify the time and place for disclosure and inspection.
 
 ## Disclosure and Solicitors' Duties
 

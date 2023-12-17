@@ -76,10 +76,8 @@ Usually granted at full open market rent (“rack rent”). The lease has no cap
 
 Most commercial property is occupied under leases because of the flexibility they offer, and the undesirability of tying up capital in a freehold.
 
-```ad-defn
-title: Institutional lease
-Where the landlord passes the day-to-day operational cost for occupying the property to the teants, leaving rent as "pure profit". 
-```
+> [!defn] Institutional lease
+> Where the landlord passes the day-to-day operational cost for occupying the property to the teants, leaving rent as "pure profit". 
 
 - Leases are usually 5-15 years long.
 - Possible for a capital sum to be payable, but this is rare. A market rent is payable and this is subject to rent review every few years.
@@ -114,13 +112,11 @@ Where the landlord passes the day-to-day operational cost for occupying the prop
 
 If it is found that the characteristics of a lease are not present, looking at the transaction objectively, then the arrangement can only be a licence.
 
-```ad-tip
-title: Requirements
-For a lease to exist, rather than a licence, there needs to be:
-1. Certainty of term
-2. Exclusive possession
-3. The correct formalities used to create the lease
-```
+> [!tip] Requirements
+> For a lease to exist, rather than a licence, there needs to be:
+> 1. Certainty of term
+> 2. Exclusive possession
+> 3. The correct formalities used to create the lease
 
 - Certainty of term means that the tenancy must be granted for a certain duration. This means you need to know when the arrangement will end.
 	- If certainty of term is not present in the arrangement, no lease will be found.
@@ -141,9 +137,8 @@ This can be shown either with a fixed or periodic term.
 	- An **express** periodic tenancy is where there is a written agreement documenting the agreement.
 	- An **implied** periodic tenancy is where there is nothing set out in writing, but the certain term arises by looking objectively at all relevant circumstances, including payment and acceptance of rent on a periodic basis.
 
-```ad-example
-Monthly payments of rent (without agreement on a fixed term from the outset) may create an implied monthly periodic tenancy.
-```
+> [!example]
+> Monthly payments of rent (without agreement on a fixed term from the outset) may create an implied monthly periodic tenancy.
 
 See also [[Prudential Assurance Co Ltd v London Residuary Body [1992] 2 A.C. 386]].
 
@@ -153,15 +148,13 @@ e.g., if the tenant agrees to pay £10,000 a year by four quarterly payments, th
 
 ### Exclusive Possession
 
-```ad-defn
-Exclusive possession means the right to exclude all others from the property, including the landlord.
-```
+> [!defn]
+> Exclusive possession means the right to exclude all others from the property, including the landlord.
 
 Demonstrating that exclusive possession has been granted is often difficult. Historically, tenants of residential leases were granted greater protection and landlords were keen to avoid granting leases. There are many cases where the court considered the nature of an arrangement, looking beyond the label given to the agreement by the parties (headline case: [[Street v Mountford [1985] AC 809]]).
 
-```ad-info
-Since the introduction of Assured Shorthold Tenancies (ASTs), the distinction between  a lease and licence is of far less importance in a residential context.
-```
+> [!info]
+> Since the introduction of Assured Shorthold Tenancies (ASTs), the distinction between  a lease and licence is of far less importance in a residential context.
 
 Whether exclusive possession exists is a question of fact in each case: the substance of the agreement has to be examined. The courts will look at the reality of a situation. So even if a clause appears to defeat exclusion possession but has been inserted into a lease only to make what would otherwise be a lease appear like a licence, it will be thrown out as a sham.
 
@@ -218,12 +211,10 @@ In the business context, the court tends to construe the document as a whole to 
 
 The issue of control in a business context came before the court in [[Esso Petroleum Co Ltd v Fumegrange Ltd and others [1994] 2 EGLR 90]].
 
-```ad-note
-title: *[[Esso Petroleum Co Ltd v Fumegrange Ltd and others [1994] 2 EGLR 90]]*
-The court considered whether exclusive possession of two service stations was granted to Fumegrange.
-
-The court held that the degree of control exercised by Esso over the premises and the way in which it was conducted was inconsistent with an exclusive right to possession of the service stations being vested in Fumegrange. Esso could make alterations on the premises; it could install a car wash (as was in fact done); and it could change the layout of the shop. This degree of physical control over the premises and conduct of the business at the service station was held to be very significant.
-```
+> [!note] *[[Esso Petroleum Co Ltd v Fumegrange Ltd and others [1994] 2 EGLR 90]]*
+> The court considered whether exclusive possession of two service stations was granted to Fumegrange.
+> 
+> The court held that the degree of control exercised by Esso over the premises and the way in which it was conducted was inconsistent with an exclusive right to possession of the service stations being vested in Fumegrange. Esso could make alterations on the premises; it could install a car wash (as was in fact done); and it could change the layout of the shop. This degree of physical control over the premises and conduct of the business at the service station was held to be very significant.
 
 #### Right to Relocate
 
@@ -236,10 +227,8 @@ Of course, if such a clause is a sham clause, it will not defeat exclusive posse
 
 ### Commencement Date
 
-```ad-defn
-title: Commencement date
-The date when the term of the lease begins. 
-```
+> [!defn] Commencement date
+> The date when the term of the lease begins. 
 
 A lease does not have to take effect in possession immediately and can be granted to take effect at some future time, provided this is within 21 years of its grant (s 149(3) LPA 1925). The commencement date can be backdated to a date before the date of grant of the lease (useful if a landlord wants all the leases to expire at the same time).
 
@@ -273,11 +262,10 @@ The types of arrangement which fall within the ambit of this exception are:
 
 Note that periodic tenancies, whether express or implied, will only fall within the ambit of [LPA 1925, s 54(2)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/54) if each individual period of the tenancy is for **three years or less**, which is likely to be the case.
 
-```ad-example
-- **Short fixed term leases:** A tenant rents a flat for an agreed fixed term of 2 years. This arrangement does not need to be in writing.
-- **Express periodic tenancies:** A tenant rents a flat on a rolling monthly basis paying an agreed monthly rent. There is a written agreement documenting the agreement. In this situation, the written agreement does not need to comply with any formalities.
-- **Implied periodic tenancies:** A tenant is in occupation of premises paying an agreed rent on a monthly basis, but nothing documents this arrangement. In this situation, a periodic tenancy may be implied. It will still be a legal lease because no formalities are required to document the arrangement.
-```
+> [!example]
+> - **Short fixed term leases:** A tenant rents a flat for an agreed fixed term of 2 years. This arrangement does not need to be in writing.
+> - **Express periodic tenancies:** A tenant rents a flat on a rolling monthly basis paying an agreed monthly rent. There is a written agreement documenting the agreement. In this situation, the written agreement does not need to comply with any formalities.
+> - **Implied periodic tenancies:** A tenant is in occupation of premises paying an agreed rent on a monthly basis, but nothing documents this arrangement. In this situation, a periodic tenancy may be implied. It will still be a legal lease because no formalities are required to document the arrangement.
 
 ### Equitable Leases
 
@@ -288,9 +276,8 @@ The courts will recognise the tenant has having an equitable interest in the lan
 1. There is a document that complies with LP(MP)A 1989, s 2 – signed contract in writing and incorporating all express terms.
 2. The remedy of specific performance is available.
 
-```ad-important
-Where there is a conflict between the common law and equity, equity will prevail ([[Walsh v Lonsdale (1882)]])
-```
+> [!important]
+> Where there is a conflict between the common law and equity, equity will prevail ([[Walsh v Lonsdale (1882)]])
 
 Equitable leases usually require some form of registration to make them binding on a purchaser of the reversion. If the reversionary title is registered, the lease must be registered as a minor interest (i.e., notice) on the charges register of the reversionary title. But can be binding without registration if there is an overriding interest (Sch 3 LRA 2002).
 
@@ -350,39 +337,36 @@ So the landlord could seek redress against either the original tenant or any ass
 
 So, an assignee of a lease will usually be required to indemnify the assignor in respect of any breach of covenant committed after the date of assignment. Registered lease; such an indemnity covenant is implied by Sch 12 para 20 LRA 2002, whether or not the assignment is for value.
 
-```ad-statute
-title: LRA 2002 Sch 12 para 20 - Implied indemnity covenants on transfers of pre-1996 leases
-
-(1) On a disposition of a registered leasehold estate by way of transfer, the following covenants are implied in the instrument effecting the disposition, unless the contrary intention is expressed—
-- (a) in the case of a transfer of the whole of the land comprised in the registered lease, the covenant in sub-paragraph (2), and
-- (b) in the case of a transfer of part of the land comprised in the lease—
-	- (i) the covenant in sub-paragraph (3), and
-	- (ii) where the transferor continues to hold land under the lease, the covenant in sub-paragraph (4).
-
-(2) The transferee covenants with the transferor that during the residue of the term granted by the registered lease the transferee and the persons deriving title under him will—
-- (a) pay the rent reserved by the lease,
-- (b) comply with the covenants and conditions contained in the lease, and
-- (c) keep the transferor and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
-
-(3) The transferee covenants with the transferor that during the residue of the term granted by the registered lease the transferee and the persons deriving title under him will—
-- (a) where the rent reserved by the lease is apportioned, pay the rent apportioned to the part transferred,
-- (b) comply with the covenants and conditions contained in the lease so far as affecting the part transferred, and
-- (c) keep the transferor and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
-
-(4) The transferor covenants with the transferee that during the residue of the term granted by the registered lease the transferor and the persons deriving title under him will—
-- (a) where the rent reserved by the lease is apportioned, pay the rent apportioned to the part retained,
-- (b) comply with the covenants and conditions contained in the lease so far as affecting the part retained, and
-- (c) keep the transferee and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
-
-(5) This paragraph does not apply to a lease which is a new tenancy for the purposes of section 1 of the Landlord and Tenant (Covenants) Act 1995 (c. 30).
-
-```
+> [!statute] LRA 2002 Sch 12 para 20 - Implied indemnity covenants on transfers of pre-1996 leases
+> 
+> (1) On a disposition of a registered leasehold estate by way of transfer, the following covenants are implied in the instrument effecting the disposition, unless the contrary intention is expressed—
+> - (a) in the case of a transfer of the whole of the land comprised in the registered lease, the covenant in sub-paragraph (2), and
+> - (b) in the case of a transfer of part of the land comprised in the lease—
+> 	- (i) the covenant in sub-paragraph (3), and
+> 	- (ii) where the transferor continues to hold land under the lease, the covenant in sub-paragraph (4).
+> 
+> (2) The transferee covenants with the transferor that during the residue of the term granted by the registered lease the transferee and the persons deriving title under him will—
+> - (a) pay the rent reserved by the lease,
+> - (b) comply with the covenants and conditions contained in the lease, and
+> - (c) keep the transferor and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
+> 
+> (3) The transferee covenants with the transferor that during the residue of the term granted by the registered lease the transferee and the persons deriving title under him will—
+> - (a) where the rent reserved by the lease is apportioned, pay the rent apportioned to the part transferred,
+> - (b) comply with the covenants and conditions contained in the lease so far as affecting the part transferred, and
+> - (c) keep the transferor and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
+> 
+> (4) The transferor covenants with the transferee that during the residue of the term granted by the registered lease the transferor and the persons deriving title under him will—
+> - (a) where the rent reserved by the lease is apportioned, pay the rent apportioned to the part retained,
+> - (b) comply with the covenants and conditions contained in the lease so far as affecting the part retained, and
+> - (c) keep the transferee and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
+> 
+> (5) This paragraph does not apply to a lease which is a new tenancy for the purposes of section 1 of the Landlord and Tenant (Covenants) Act 1995 (c. 30).
+> 
 
 SCPC 7.6.5 requires the transfer deed to contain an express indemnity covenant, except where one is implied by law.
 
-```ad-important
-If the lease contains a requirement to obtain the landlord’s consent before any assignment takes place, the landlord may, in appropriate circumstances, insist that any assignee enter into a direct contractual relationship with him to observe the tenant’s covenants under the lease for the remainder of the term. This imposes on any assignee the same liability under privity of contract as faced by the original tenant. 
-```
+> [!important]
+> If the lease contains a requirement to obtain the landlord’s consent before any assignment takes place, the landlord may, in appropriate circumstances, insist that any assignee enter into a direct contractual relationship with him to observe the tenant’s covenants under the lease for the remainder of the term. This imposes on any assignee the same liability under privity of contract as faced by the original tenant. 
 
 #### Landlord Liability
 
@@ -410,9 +394,8 @@ These provisions apply to former tenants who remain liable either under an old l
 
 The [Landlord and Tenant (Covenants) Act 1995, s 17](https://www.legislation.gov.uk/ukpga/1995/30/section/17) states that where a landlord wishes to pursue a former tenant who remains liable under the terms of the lease for a fixed charge, the landlord must serve notice of the potential claim on such tenants within **6 months** of the charge becoming due.
 
-```ad-tip
-So practically, cannot recover more than 6 months rent at a time in this way. 
-```
+> [!tip]
+> So practically, cannot recover more than 6 months rent at a time in this way. 
 
 A fixed charge is defined in the [Landlord and Tenant (Covenants) Act 1995, s 17](https://www.legislation.gov.uk/ukpga/1995/30/section/17) as including arrears of rent, service charge or insurance premiums but not unascertained liabilities or damages which become ascertained only after a court order has been obtained.
 
@@ -422,9 +405,8 @@ If the landlord has not notified the former tenant of this claim and the amount 
 
 The [Landlord and Tenant (Covenants) Act 1995, s 18](https://www.legislation.gov.uk/ukpga/1995/30/section/18) states that former tenants and guarantors are not liable to pay any additional amounts owing in respect of variations which have been made to the lease subsequent to assignment which they could not have anticipated at the time when the lease was entered into.
 
-```ad-example
-The former tenant who is still liable for the rent under an old lease or under an authorised guarantee agreement will still be liable for rent which is reviewed after assignment pursuant to the rent review clause in the original lease. Such a variation was anticipated at the time when the lease was entered into.
-```
+> [!example]
+> The former tenant who is still liable for the rent under an old lease or under an authorised guarantee agreement will still be liable for rent which is reviewed after assignment pursuant to the rent review clause in the original lease. Such a variation was anticipated at the time when the lease was entered into.
 
 #### Overriding Leases
 
@@ -432,10 +414,8 @@ The [Landlord and Tenant (Covenants) Act 1995, s 19](https://www.legislation.gov
 
 A former tenant who has been served with a s 17 notice and has made payment in full is entitled to call on the landlord to grant it an overriding lease (LTCA 1995, s 19(1)). If granted, the former tenant becomes the immediate landlord of the defaulting party.
 
-```ad-defn
-title: Overriding lease
-An overriding lease is a concurrent lease of the premises demised by the first lease and makes the former tenant the immediate landlord of the defaulting tenant. It therefore gives the former tenant the right to forfeit the first lease to the defaulting tenant and/or exercise the landlord’s other remedies for non-payment of rent.
-```
+> [!defn] Overriding lease
+> An overriding lease is a concurrent lease of the premises demised by the first lease and makes the former tenant the immediate landlord of the defaulting tenant. It therefore gives the former tenant the right to forfeit the first lease to the defaulting tenant and/or exercise the landlord’s other remedies for non-payment of rent.
 
 The overriding lease is granted for a term equal to the remaining term of the lease in question plus three days. It contains the same covenants as the lease in question (other than those covenants which are expressed to be personal). If the former tenant requests an overriding lease, the landlord is obliged to grant it within a reasonable time.
 
@@ -471,19 +451,17 @@ The different ways a lease can end:
 
 This is the usual common law way in which a lease for a fixed term comes to an end. No notice is needed to end a fixed term. Note, however, that at the end of the lease, the tenant may have security of tenure. Security of tenure is a right for a tenant to remain in the premises at the end of the lease term and to request the grant of a new lease.
 
-```ad-example
-Many **business tenancies** are protected by the Landlord and Tenant Act 1954, Part II. If the tenant follows certain procedures and time limits, he may be entitled to require the landlord to grant him a new lease.
-
-A **residential tenant** may have rights to remain in occupation under the Rent Act 1977 (for private tenancies granted before 15 January 1989) or the Housing Acts 1985 (public sector tenancies) and 1988 (private tenancies granted after 15 January 1989). Since the introduction of assured shorthold tenancies (ASTs) it is now very rare for a residential tenant to have security of tenure.
-```
+> [!example]
+> Many **business tenancies** are protected by the Landlord and Tenant Act 1954, Part II. If the tenant follows certain procedures and time limits, he may be entitled to require the landlord to grant him a new lease.
+> 
+> A **residential tenant** may have rights to remain in occupation under the Rent Act 1977 (for private tenancies granted before 15 January 1989) or the Housing Acts 1985 (public sector tenancies) and 1988 (private tenancies granted after 15 January 1989). Since the introduction of assured shorthold tenancies (ASTs) it is now very rare for a residential tenant to have security of tenure.
 
 ### By a ‘break’ Clause
 
 A lease for a fixed term may contain a provision allowing either party (landlord or tenant or both) to serve notice during its currency to bring it to a premature end. The terms of a break clause must be strictly complied with if the exercise of it is to be valid.
 
-```ad-example
-“Either party may end this lease on the fifth anniversary of the term start date by serving 6 months written notice on the other.”
-```
+> [!example]
+> “Either party may end this lease on the fifth anniversary of the term start date by serving 6 months written notice on the other.”
 
 ### By Surrender
 
@@ -501,9 +479,8 @@ This is the method for determining a periodic tenancy.
 
 For a yearly tenancy, either side must give at least half a year’s notice to quit to determine the tenancy. Other periodic tenancies, for example quarterly, monthly or weekly, must be determined by a full period’s notice to expire at the end of a complete period.
 
-```ad-defn
-A periodic tenancy is a lease that runs from one period of time to another. Each period is seen as an individual lease.
-```
+> [!defn]
+> A periodic tenancy is a lease that runs from one period of time to another. Each period is seen as an individual lease.
 
 ### Forfeiture
 
@@ -548,9 +525,8 @@ From 6 April 2014, a landlord's right to levy distress for rent arrears was ther
 
 This requires a landlord to serve an enforcement notice on the tenant, giving **seven clear days’ notice** that he will seize goods. Once notice has been served, the tenant can apply for it to be set aside or for its execution to be delayed.
 
-```ad-warning
-There must be a minimum of seven days' rent arrears in order to use this procedure, and the remedy is not available in respect of mixed use or residential premises.
-```
+> [!warning]
+> There must be a minimum of seven days' rent arrears in order to use this procedure, and the remedy is not available in respect of mixed use or residential premises.
 
 The notice requirements clearly reduce the effectiveness of the remedy from a landlord's perspective because tenants have the opportunity to remove goods from the premises and put them out of the landlord's reach.
 
@@ -589,9 +565,8 @@ A lease is a proprietary right to possess the land. One way in which a lease can
 
 There must be an express forfeiture clause in the lease allowing the landlord to forfeit the lease in the event of breach of covenant (or insolvency) by the tenant. Every well-drawn lease should contain a forfeiture clause. The right to forfeit is never implied into a legal lease.
 
-```ad-note
-In a legal lease, the forfeiture clause creates a legal right of re-entry (one of the five legal rights listed in LPA 1925, s 1(2)). A forfeiture clause is therefore also known as a re-entry clause.
-```
+> [!note]
+> In a legal lease, the forfeiture clause creates a legal right of re-entry (one of the five legal rights listed in LPA 1925, s 1(2)). A forfeiture clause is therefore also known as a re-entry clause.
 
 #### Equitable Leases
 
@@ -710,21 +685,20 @@ This is the case even where the head-tenant cannot get relief himself. The court
 
 In summary, under the above provisions, the court usually allows the lease to continue on condition that the tenant pays off the arrears.
 
-```ad-summary
-**Step 1:** There must be a breach of covenant.
-
-**Step 2:** There must be a forfeiture clause in the lease.
-
-**Step 3:** The landlord must not have waived the right to forfeit: distinguish here between a continuing and non-continuing breach.
-
-**Breach of rent covenant:**
-
-**Step 4:** The landlord must have served a demand for payment, or the lease must waive this right.
-
-**Step 5:** The landlord can then forfeit the lease for the breach of covenant by peaceable re-entry or court order. However, if the tenancy is residential, the landlord must obtain a court order.
-
-**Step 6:** The tenant, and any sub-tenant, can apply for relief from forfeiture. Relief is the court's discretion to allow the lease to continue. Relief can be applied for regardless of whether the right has been exercised by court order or peaceable re-entry.
-```
+> [!summary]
+> **Step 1:** There must be a breach of covenant.
+> 
+> **Step 2:** There must be a forfeiture clause in the lease.
+> 
+> **Step 3:** The landlord must not have waived the right to forfeit: distinguish here between a continuing and non-continuing breach.
+> 
+> **Breach of rent covenant:**
+> 
+> **Step 4:** The landlord must have served a demand for payment, or the lease must waive this right.
+> 
+> **Step 5:** The landlord can then forfeit the lease for the breach of covenant by peaceable re-entry or court order. However, if the tenancy is residential, the landlord must obtain a court order.
+> 
+> **Step 6:** The tenant, and any sub-tenant, can apply for relief from forfeiture. Relief is the court's discretion to allow the lease to continue. Relief can be applied for regardless of whether the right has been exercised by court order or peaceable re-entry.
 
 [[forfeiture-rent.png]]
 
@@ -745,9 +719,8 @@ This notice must:
 - Require the lessee to make compensation in money for the breach if the landlord requires such compensation.
 	- The landlord does not have to request compensation if he does not want it ([[Rugby School (Governors) v Tannahill [1935] 1 KB 87]]).
 
-```ad-note
-The law is unclear as to whether a s 146 notice needs to be served for non-payment of sums like service charge and insurance rent, where these sums are reserved as rent in the lease. 
-```
+> [!note]
+> The law is unclear as to whether a s 146 notice needs to be served for non-payment of sums like service charge and insurance rent, where these sums are reserved as rent in the lease. 
 
 [[forfeiture-non-rent.png]]
 
@@ -797,9 +770,8 @@ Where the landlord serves notice under LPA 1925, s 146 and the notice relates to
 
 The limitations can be circumvented with a self-help clause in the lease. This allows the landlord to enter the premises and carry out the repairs if the tenant has failed to comply, and the tenant must then pay the landlord's costs for the repairs.
 
-```ad-important
-These costs are recoverable as a **debt**, not **damages** ([[Jervis v Harris [1996] Ch 195]] or lease clause), though best to specify explicitly in the lease too) $\implies$ L will be pursuing for non-payment of a debt, not T's failure to repair $\implies$ LP(R)A 1938 & s 18 LTA 19927 limitations can be avoided. 
-```
+> [!important]
+> These costs are recoverable as a **debt**, not **damages** ([[Jervis v Harris [1996] Ch 195]] or lease clause), though best to specify explicitly in the lease too) $\implies$ L will be pursuing for non-payment of a debt, not T's failure to repair $\implies$ LP(R)A 1938 & s 18 LTA 19927 limitations can be avoided. 
 
 ##### Specific Performance?
 
@@ -823,10 +795,8 @@ If the breach is not capable of remedy, the landlord must merely give the tenant
 
 The tenant may then apply for relief from forfeiture. 'Relief' means the court’s discretion to allow the lease to continue and thereby end the forfeiture process. This discretion to grant relief is an ancient equitable jurisdiction, but is now enshrined in various statutes, as explained below.
 
-```ad-statute
-title: s 146(2) LPA 1925
-Where a lessor is proceeding, by action or otherwise, to enforce such a right of re-entry or forfeiture, the lessee may, in the lessor’s action, if any, or in any action brought by himself, apply to the court for relief; and the court may grant or refuse relief, as the court, having regard to the proceedings and conduct of the parties under the foregoing provisions of this section, and to all the other circumstances, thinks fit; and in case of relief may grant it on such terms, if any, as to costs, expenses, damages, compensation, penalty, or otherwise, including the granting of an injunction to restrain any like breach in the future, as the court, in the circumstances of each case, thinks fit.
-```
+> [!statute] s 146(2) LPA 1925
+> Where a lessor is proceeding, by action or otherwise, to enforce such a right of re-entry or forfeiture, the lessee may, in the lessor’s action, if any, or in any action brought by himself, apply to the court for relief; and the court may grant or refuse relief, as the court, having regard to the proceedings and conduct of the parties under the foregoing provisions of this section, and to all the other circumstances, thinks fit; and in case of relief may grant it on such terms, if any, as to costs, expenses, damages, compensation, penalty, or otherwise, including the granting of an injunction to restrain any like breach in the future, as the court, in the circumstances of each case, thinks fit.
 
 LPA 1925, s 146(2) provides that, where the landlord is proceeding by action or otherwise to enforce forfeiture, the tenant may in the landlord’s action, or in any action brought by himself, apply to the court for relief.
 
@@ -849,23 +819,22 @@ The judicial dislike of peaceable re-entry as a method of forfeiture is apparent
 
 LPA 1925, s 146(4) allows a subtenant to apply to the court for relief against forfeiture for breach of other covenants. It is a matter of discretion whether a subtenant will be granted relief. An unlawful subtenant (where no consent was given for the subletting) is unlikely to get relief ([[St Marylebone Property Co v Tesco Stores Ltd [1988] 2 EGLR 40]]). The House of Lords’ interpretation of s 146(2) in Billson must surely apply equally to s 146(4), so that a subtenant must apply for relief within a reasonable time after peaceable re-entry.
 
-```ad-summary
-**Step 1:** There must be a breach of covenant.
-
-**Step 2:** There must be a forfeiture clause in the lease.
-
-**Step 3:** The landlord must not have waived the right to forfeit: distinguish here between a continuing and non-continuing breach.
-
-**Breach of a non rent covenant:**
-
-**Step 4:** The landlord must have served a LPA 1925, s 146 Notice.
-
-(Does the breach relate to a repair covenant? Consider does the additional protection under **LP(R)A 1938 or LPA 1925, s 147** apply?)
-
-**Step 5:** The landlord can then forfeit the lease for the breach of covenant by peaceable re-entry or court order. However, if the tenancy is residential, the landlord must obtain a court order.
-
-**Step 6:** The tenant, and any sub-tenant, can apply for relief from forfeiture. Relief is the court's discretion to allow the lease to continue. Relief can be applied for regardless of whether the right has been exercised by court order or peaceable re-entry.
-```
+> [!summary]
+> **Step 1:** There must be a breach of covenant.
+> 
+> **Step 2:** There must be a forfeiture clause in the lease.
+> 
+> **Step 3:** The landlord must not have waived the right to forfeit: distinguish here between a continuing and non-continuing breach.
+> 
+> **Breach of a non rent covenant:**
+> 
+> **Step 4:** The landlord must have served a LPA 1925, s 146 Notice.
+> 
+> (Does the breach relate to a repair covenant? Consider does the additional protection under **LP(R)A 1938 or LPA 1925, s 147** apply?)
+> 
+> **Step 5:** The landlord can then forfeit the lease for the breach of covenant by peaceable re-entry or court order. However, if the tenancy is residential, the landlord must obtain a court order.
+> 
+> **Step 6:** The tenant, and any sub-tenant, can apply for relief from forfeiture. Relief is the court's discretion to allow the lease to continue. Relief can be applied for regardless of whether the right has been exercised by court order or peaceable re-entry.
 
 # Grant of a Lease
 
@@ -1039,9 +1008,8 @@ If existing rights are to be enjoyed by the tenant, the tenant should investigat
 
 Easements expressly granted in a lease after 13/10/03 must be completed by registration in the case of a registered estate. If the easements are not registered, they only take effect in equity.
 
-```ad-warning
-Easements expressly granted in a lease must be registered to be effective, even ifi the lease itself is incapable of registration. 
-```
+> [!warning]
+> Easements expressly granted in a lease must be registered to be effective, even ifi the lease itself is incapable of registration. 
 
 ## Rights Excepted and Reserved
 
@@ -1051,22 +1019,16 @@ Exceptions and reservations deal with rights benefitting the landlord:
 - Rights enabling the landlord to develop a neighbouring property without interference
 - Rights assisting the landlord in ensuring the tenant complies with the terms of the lease.
 
-```ad-defn
-title: Exception
-Something that exists and is (or would be) part of the thing granted, but which is excluded from the grant (for example, mineral rights).
-```
+> [!defn] Exception
+> Something that exists and is (or would be) part of the thing granted, but which is excluded from the grant (for example, mineral rights).
 
-```ad-defn
-title: Reservation
-Something that is not in existence at the date of the grant but which arises out of the demise.
-```
+> [!defn] Reservation
+> Something that is not in existence at the date of the grant but which arises out of the demise.
 
 Sometimes a right over the property in favour of the landlord, such as a right of way, is technically in the nature of a new grant by the tenant to the landlord. But in practice no one cares.
 
-```ad-question
-title: How widely should reservations be interpreted?
-_[Rees v Windsor-Clive [2020] EWCA Civ 816](https://uk.westlaw.com/D-105-0126?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=8480f1faa9a046d89d64dd6a4fb84a19)_: reservations are not always to be given their narrowest possible interpretation. In every case, it is a question of interpreting the clause in question in its context. If rights of entry are reserved for reasonable purposes, which is a very common formulation, the derogation from grant principle does not require the court to give a right of entry the narrowest possible interpretation.
-```
+> [!question] How widely should reservations be interpreted?
+> _[Rees v Windsor-Clive [2020] EWCA Civ 816](https://uk.westlaw.com/D-105-0126?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=8480f1faa9a046d89d64dd6a4fb84a19)_: reservations are not always to be given their narrowest possible interpretation. In every case, it is a question of interpreting the clause in question in its context. If rights of entry are reserved for reasonable purposes, which is a very common formulation, the derogation from grant principle does not require the court to give a right of entry the narrowest possible interpretation.
 
 ### Common Exceptions and Reservations
 
@@ -1195,10 +1157,9 @@ Permits the tenant to assign, provided the seller tenant obtains the prior conse
 
 LTA 1998: the landlord must, upon being served with a written request for consent, give consent within a reasonable time unless it is reasonable to withhold consent. Written notice of decision must be served on the tenant within a reasonable time, stating any conditions attached to consent/ reasons for withholding. Breach = breach of statutory duty (in tort) $\rightarrow$ tenant gets damages.
 
-```ad-warning
-The obligations under the 1988 Act will not be triggered unless the written application for consent has been correctly served on the landlord. In [[EON UK plc v Gilespor ts Ltd [2012] EWHC 2172 (Ch)]], the landlord’s statutory duties
-under the 1988 Act were not triggered by an application for consent to assign made by the tenant via email - since the lease did not allow service by email.
-```
+> [!warning]
+> The obligations under the 1988 Act will not be triggered unless the written application for consent has been correctly served on the landlord. In [[EON UK plc v Gilespor ts Ltd [2012] EWHC 2172 (Ch)]], the landlord’s statutory duties
+> under the 1988 Act were not triggered by an application for consent to assign made by the tenant via email - since the lease did not allow service by email.
 
 In leases of commercial property granted on or after 01/01/96, the lease may provide for the circumstances in which the landlord would withhold his consent to an assignment and any conditions subject to which such consent will be granted (Landlord and Tenant (Covenants) Act 1995). A landlord will not be withholding his consent unreasonably if he insists on compliance with these conditions.
 
@@ -1212,9 +1173,8 @@ Landlord cannot demand a premium as a condition for consent – unless the lease
 
 The landlord is entitled to ask the tenant to pay the landlord’s solicitor’s reasonable charges in connection with the preparation of the deed of consent (licence to assign). On the assignment of a commercial lease, it is usual for the landlord’s solicitors to require an undertaking from the seller’s solicitors for the payment of the costs, although it is not clear whether it is reasonable to insist on such an undertaking.
 
-```ad-action
-The seller’s solicitor should first seek their client’s authority to give the undertaking, the undertaking should be limited to the reasonable costs incurred, and a cap on such costs could also be sought.
-```
+> [!action]
+> The seller’s solicitor should first seek their client’s authority to give the undertaking, the undertaking should be limited to the reasonable costs incurred, and a cap on such costs could also be sought.
 
 ### SCPC
 
@@ -1252,9 +1212,8 @@ Registration with a good leasehold title provides no guarantee of the soundness 
 
 If a seller is in breach of a repairing covenant in the lease, the lack of repair could involve him in liability to the buyer after completion under the covenants for title, which will be implied in the transfer deed. Where the seller sells with full or limited title guarantee, the covenants for title include a promise that the seller has complied with the tenant’s covenants in the lease, including repair.
 
-```ad-note
-Seller should **not** make any promises about repiar, because *caveat emptor* applies.
-```
+> [!note]
+> Seller should **not** make any promises about repiar, because *caveat emptor* applies.
 
 There is a conflict here between the promise implied by the covenants for title and caveat emptor. It is resolved by modifying the covenants for title to bring them into line with caveat emptor (SCPC 4.2.2 and 7.6.4) by excluding references to repair. This type of contractual condition must be reflected by an express modification of the implied covenants for title in the transfer deed itself (usually box 9 or 11 of TR1).
 
@@ -1373,14 +1332,11 @@ any of the following:
 3. an enactment; and
 4. a necessary consent or licence for the grant of the lease given before 19 June 2006.
 
-```ad-defn
-title: Prescribed clauses leases
-A lease for which use of the prescribed clauses is compulsory. 
-```
+> [!defn] Prescribed clauses leases
+> A lease for which use of the prescribed clauses is compulsory. 
 
-```ad-action
-If an applicant claims that a lease is not a prescribed clauses lease due to one of these exceptions, a conveyancer’s certificate or other evidence must be supplied with the application for registration.
-```
+> [!action]
+> If an applicant claims that a lease is not a prescribed clauses lease due to one of these exceptions, a conveyancer’s certificate or other evidence must be supplied with the application for registration.
 
 Prescribed clauses must appear at the beginning of a lease. Sch 1A Land Registration Rules 2003 sets out the required wording of prescribed clauses and gives instructions as to how the prescribed clauses must be completed.
 
@@ -1410,10 +1366,9 @@ After the operative words: “with full/ limited title guarantee”. Any express
 
 Take care when setting the commencement date of the term. This can be set at an earlier date than the actual start of the lease.
 
-```ad-warning
-- "from 1st November" means the lease starts on 2nd November. 
-- "from and including 1st November" means the lease starts on 1st November. 
-```
+> [!warning]
+> - "from 1st November" means the lease starts on 2nd November. 
+> - "from and including 1st November" means the lease starts on 1st November. 
 
 ### Parcels Clause
 
@@ -1448,10 +1403,8 @@ Four of the main covenants found in leases are introduced: repair, alterations, 
 
 The basic rule is that a tenant may do all the things that an owner of an estate can do unless the lease prohibits such actions. For this reason, leases are drafted in a prohibitory or negative manner, setting out what the tenant cannot do by way of a number of tenant covenants. A lease will also contain covenants given by the landlord.
 
-```ad-defn
-title: Leasehold covenant
-A promise contained in a lease given by a landlord or a tenant.
-```
+> [!defn] Leasehold covenant
+> A promise contained in a lease given by a landlord or a tenant.
 
 ## Types of Covenant
 
@@ -1473,9 +1426,8 @@ The courts have considered the test of 'reasonableness’, especially in respect
 
 [[International Drilling Fluids Ltd v Louisville Investments (Uxbridge) Ltd [1986] Ch 513]] stated the basic principles to be applied in determining the reasonableness of a landlord’s decision and made it clear that a landlord is not entitled to refuse his consent on grounds which have nothing to do with the landlord and tenant relationship.
 
-```ad-example
-It would not be reasonable for a landlord to refuse consent on the basis that he did not like the proposed assignee, or he supported a different football team. It must be something to do with, for example, the proposed assignee’s ability to pay the rent or bad references.
-```
+> [!example]
+> It would not be reasonable for a landlord to refuse consent on the basis that he did not like the proposed assignee, or he supported a different football team. It must be something to do with, for example, the proposed assignee’s ability to pay the rent or bad references.
 
 ## Alterations and Improvements
 
@@ -1512,10 +1464,8 @@ If the tenant agrees to an absolute covenant against alterations, the tenant wil
 
 A qualified covenant against alterations prohibits alterations without the landlord's prior consent. The [Landlord and Tenant Act (‘LTA’) 1927, s 19(2)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/19) applies to 'qualified' **alterations** covenants.
 
-```ad-statute
-title: s 19(2) LTA 1927
-In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against the making of improvements without a licence or consent, such covenant condition or agreement shall be deemed, notwithstanding any express provision to the contrary, to be **subject to a proviso that such licence or consent is not to be unreasonably withheld**; but this proviso does not preclude the right to require as a condition of such licence or consent the payment of a reasonable sum in respect of any damage to or diminution in the value of the premises or any neighbouring premises belonging to the landlord, and of any legal or other expenses properly incurred in connection with such licence or consent nor, in the case of an improvement which does not add to the letting value of the holding, does it preclude the right to require as a condition of such licence or consent, where such a requirement would be reasonable, an undertaking on the part of the tenant to reinstate the premises in the condition in which they were before the improvement was executed.
-```
+> [!statute] s 19(2) LTA 1927
+> In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against the making of improvements without a licence or consent, such covenant condition or agreement shall be deemed, notwithstanding any express provision to the contrary, to be **subject to a proviso that such licence or consent is not to be unreasonably withheld**; but this proviso does not preclude the right to require as a condition of such licence or consent the payment of a reasonable sum in respect of any damage to or diminution in the value of the premises or any neighbouring premises belonging to the landlord, and of any legal or other expenses properly incurred in connection with such licence or consent nor, in the case of an improvement which does not add to the letting value of the holding, does it preclude the right to require as a condition of such licence or consent, where such a requirement would be reasonable, an undertaking on the part of the tenant to reinstate the premises in the condition in which they were before the improvement was executed.
 
 Where there is a qualified covenant against alteration then LTA 1927, s 19(2) implies into a qualified covenant against improvements a proviso that the landlord’s consent is not to be unreasonably withheld. It therefore **converts a qualified covenant against alterations that amount to improvements into a fully qualified one**.
 
@@ -1525,9 +1475,8 @@ LTA 1927, s 19(2) only applies to 'improvements’. What then constitutes an ‘
 
 The leading case is [[Lambert v FW Woolworth & Co Limited [1938] Ch 833]] which held that 'improvements' are to be construed widely as works which improve the premises from the **tenant’s perspective**.
 
-```ad-tip
-If the works will increase the value or usefulness of the premises to the tenant then they will constitute an improement, even if they result in a reduction in the value of the landlord's reversionary interest. 
-```
+> [!tip]
+> If the works will increase the value or usefulness of the premises to the tenant then they will constitute an improement, even if they result in a reduction in the value of the landlord's reversionary interest. 
 
 LTA 1927, s 19(2) allows the landlord to require as a condition of giving consent:
 
@@ -1568,9 +1517,8 @@ Consider the following:
 
 ### Rent Suspension
 
-```ad-warning
-In the absence of an express term to the contrary, rent will continue to be payable even if the property is rendered unusable.
-```
+> [!warning]
+> In the absence of an express term to the contrary, rent will continue to be payable even if the property is rendered unusable.
 
 The tenant should ensure that the lease provides for the payment of rent to be suspended during any period that the premises cannot be occupied following damage by an insured risk.
 
@@ -1582,9 +1530,8 @@ If the building is totally destroyed, it will only be in exceptional circumstanc
 
 A lease will often contain a tenant covenant relating to the use of the premises. A landlord will want control over what the tenant is to use the premises for, e.g., for residential use or a specific business purpose. A tenant may be able to change the use of the premises depending upon the type of covenant.
 
-```ad-action
-When you are acting for a tenant, you should consider the user provisions carefully, to ensure that they are not going to cause your client any problems in his occupation of the unit, or if he should wish to assign the lease.
-```
+> [!action]
+> When you are acting for a tenant, you should consider the user provisions carefully, to ensure that they are not going to cause your client any problems in his occupation of the unit, or if he should wish to assign the lease.
 
 Both parties should consider any impact of competition legislation ([[Martin Retail Group Ltd v Crawley Borough Council (24 December 2013, Central London County Court)]]).
 
@@ -1592,18 +1539,15 @@ Both parties should consider any impact of competition legislation ([[Martin Ret
 
 [LTA 1927, s 19(3)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/19) applies to 'qualified' **user** covenants.
 
-```ad-statute
-title: s 19(3) LTA 1927
-In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against the alteration of the user of the demised premises, without licence or consent, such covenant condition or agreement shall, if the alteration **does not involve any structural alteration** of the premises, be deemed, notwithstanding any express provision to the contrary, to be subject to a proviso that **no fine or sum of money in the nature of a fine, whether by way of increase of rent or otherwise, shall be payable for or in respect of such licence or consent**; but this proviso does not preclude the right of the landlord to require payment of a reasonable sum in respect of any damage to or diminution in the value of the premises or any neighbouring premises belonging to him and of any legal or other expenses incurred in connection with such licence or consent. 
-```
+> [!statute] s 19(3) LTA 1927
+> In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against the alteration of the user of the demised premises, without licence or consent, such covenant condition or agreement shall, if the alteration **does not involve any structural alteration** of the premises, be deemed, notwithstanding any express provision to the contrary, to be subject to a proviso that **no fine or sum of money in the nature of a fine, whether by way of increase of rent or otherwise, shall be payable for or in respect of such licence or consent**; but this proviso does not preclude the right of the landlord to require payment of a reasonable sum in respect of any damage to or diminution in the value of the premises or any neighbouring premises belonging to him and of any legal or other expenses incurred in connection with such licence or consent. 
 
 If the change of use does involve a change to the structure, the landlord can increase the rent or charge the tenant a lump sum (in the statute referred to as a 'fine' or 'premium') in return for the consent.
 
 The landlord will be entitled to recover its costs and expenses involved in the application for consent, e.g., surveyor’s fees and legal fees.
 
-```ad-warning
-There is no statutory implication that the landlord's consent cannot be unreasonably withheld. So a tenant would much prefer the covenant to be fully qualified. 
-```
+> [!warning]
+> There is no statutory implication that the landlord's consent cannot be unreasonably withheld. So a tenant would much prefer the covenant to be fully qualified. 
 
 ## Flats
 
@@ -1622,10 +1566,8 @@ Considerations:
 
 ### Who Does What
 
-```ad-defn
-title: "Full repairing lease" 
-The tenant has full responsibility for the repair of the whole property - respondible for carrying out the repairs and bearing the cost. 
-```
+> [!defn] "Full repairing lease"
+> The tenant has full responsibility for the repair of the whole property - respondible for carrying out the repairs and bearing the cost. 
 
 If the demised premises form part of a larger property, a "full repairing lease" places direct responsibility for repairing the demised premises on the tenant. It also makes the tenant indirectly responsible for the cost (or a proportion of the cost) of repairs to the structure, exterior and common parts of the property through the service charge.
 
@@ -1653,13 +1595,11 @@ Under a general repairing covenant, the tenant must, according to the Court of A
 
 Many leases require the tenant to keep the demised premises in "good repair", "good and tenantable repair" or "substantial repair". It is uncertain whether the additional words add anything to the obligation to "repair" and there is case law to suggest that generally they do not (_Proudfoot v Hart (1890) 25 QBD 42_). A covenant that requires the tenant to keep the property "in good repair and condition" is more onerous than one that specifies "good repair" alone.
 
-```ad-warning
-**A covenant to keep the premises in repair also entails an obligation to put them in repair first**, if at the time of the letting they were out of repair ([[Proudfoot v Hart (1890) LR 25 QBD 42]]). Rationale: if the tenant covenants to keep property in repair, the tenant cannot perform this covenant unless the tenant first puts the property into repair (_[Payne v Haine [1847] 16 M&W 41](https://uk.practicallaw.thomsonreuters.com/D-009-7105?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=47d8e69b58514ba1976c981efd5911b3)_). This can be a very onerous obligation if the premises are in a state of disrepair at the beginning of the term.
-```
+> [!warning]
+> **A covenant to keep the premises in repair also entails an obligation to put them in repair first**, if at the time of the letting they were out of repair ([[Proudfoot v Hart (1890) LR 25 QBD 42]]). Rationale: if the tenant covenants to keep property in repair, the tenant cannot perform this covenant unless the tenant first puts the property into repair (_[Payne v Haine [1847] 16 M&W 41](https://uk.practicallaw.thomsonreuters.com/D-009-7105?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=47d8e69b58514ba1976c981efd5911b3)_). This can be a very onerous obligation if the premises are in a state of disrepair at the beginning of the term.
 
-```ad-action
-Before taking the lease, the tenant should inspect the property (and the building of which it forms part) for disrepair and then assess the potential repair costs.
-```
+> [!action]
+> Before taking the lease, the tenant should inspect the property (and the building of which it forms part) for disrepair and then assess the potential repair costs.
 
 #### Schedule of Condition
 
@@ -1734,9 +1674,8 @@ Ambiguous:
 
 The scope of repairing obligation will coincide with the physical extent of the demised premises. Where the demised premises are part of a larger property, each tenant will be responsible for repairing its demised property and the landlord will maintain the exterior, structure and common parts.
 
-```ad-action
-Ensure there is no overlap/ gap in repairing obligations, e.g., windows, ceilings. 
-```
+> [!action]
+> Ensure there is no overlap/ gap in repairing obligations, e.g., windows, ceilings. 
 
 #### Mechanical, Electrical Services and Plant
 
@@ -1744,10 +1683,8 @@ If plant and machinery are annexed to the land and have become _[fixtures](https
 
 Whether an object has become part of the land depends on the degree of annexation to the land (_[Elitestone Ltd v Morris and Another [1997] UKHL 15](https://uk.practicallaw.thomsonreuters.com/D-000-1799?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=966adc813d44458ba2271293efe92ed6)_) - fixtures vs fittings.
 
-```ad-quote
-title: Maxim
-"Quidquid Plantatur Solo, Solo Cedit" - whatever is attached to the land becomes part of the land.
-```
+> [!quote] Maxim
+> "Quidquid Plantatur Solo, Solo Cedit" - whatever is attached to the land becomes part of the land.
 
 This principle is encapsulated in modern land law in the LPA 1925’s definition of ‘land’ which includes “other corporeal hereditaments” i.e., things attached/fixed to the land, what we ‘fixtures’ in practice.
 
@@ -1769,9 +1706,8 @@ To make the clause more acceptable to a covenantor, the covenantee may be prepar
 
 When a landlord enters into a repairing covenant, there will be no breach unless and until he has notice (no matter from what source) of the lack of repair.
 
-```ad-action
-When acting for a landlord, you should include a tenant’s covenant to notify the landlord of the need to repair. If the tenant fails to do this, he will also be in breach of covenant and liable to the landlord for damages
-```
+> [!action]
+> When acting for a landlord, you should include a tenant’s covenant to notify the landlord of the need to repair. If the tenant fails to do this, he will also be in breach of covenant and liable to the landlord for damages
 
 If the part of the property in question is in the control of the landlord, for example the common parts, then the landlord’s liability does not depend upon his having received notice of the disrepair.
 
@@ -1795,66 +1731,60 @@ Usually assignment, sub-letting and/or sharing with group companies is allowed i
 
 Absolute prohibition usually unacceptable to tenants. So there is usually a qualified/ fully qualified prohibition.
 
-```ad-important
-A qualified covenant can be converted into a fully qualified covenant by the operation of s 19(1)(a) LTA 1927. 
-```
+> [!important]
+> A qualified covenant can be converted into a fully qualified covenant by the operation of s 19(1)(a) LTA 1927. 
 
 The Landlord and Tenant Act 1988 further strengthened the position of a tenant seeking  
 consent to assign, sub-let, charge or part with possession. The Act applies where the lease  
 contains a fully qualified covenant against alienation (whether express or implied by statute). The Act still applies even if the fully qualified covenant is subject to s 19(1A) of the Landlord and Tenant Act 1927.
 
-```ad-statute
-title: s 1 LTA 1988 - Qualified duty to consent to assigning, underletting etc. of premises.
+> [!statute] s 1 LTA 1988 - Qualified duty to consent to assigning, underletting etc. of premises.
+> 
+> (1) This section applies in any case where—
+> - (a) a tenancy includes a covenant on the part of the tenant not to enter into one or more of the following transactions, that is—
+> 	- (i) assigning,
+> 	- (ii) underletting,
+> 	- (iii) charging, or
+> 	- (iv) parting with the possession of,
+> - the premises comprised in the tenancy or any part of the premises without the consent of the landlord or some other person, but
+> - (b) the covenant is subject to the qualification that the consent is not to be unreasonably withheld (whether or not it is also subject to any other qualification).
+> 
+> (2) In this section and section 2 of this Act—
+> - (a) references to a proposed transaction are to any assignment, underletting, charging or parting with possession to which the covenant relates, and
+> - (b) references to the person who may consent to such a transaction are to the person who under the covenant may consent to the tenant entering into the proposed transaction.
+> 
+> (3) Where there is served on the person who may consent to a proposed transaction a written application by the tenant for consent to the transaction, he owes a duty to the tenant within a reasonable time—
+> - (a) to give consent, except in a case where it is reasonable not to give consent,
+> - (b) to serve on the tenant written notice of his decision whether or not to give consent specifying in addition—
+> 	- (i) if the consent is given subject to conditions, the conditions,
+> 	- (ii) if the consent is withheld, the reasons for withholding it.
+> 
+> (4) Giving consent subject to any condition that is not a reasonable condition does not satisfy the duty under subsection (3)(a) above.
+> 
+> (5) For the purposes of this Act it is reasonable for a person not to give consent to a proposed transaction only in a case where, if he withheld consent and the tenant completed the transaction, the tenant would be in breach of a covenant.
+> 
+> (6) It is for the person who owed any duty under subsection (3) above—
+> - (a) if he gave consent and the question arises whether he gave it within a reasonable time, to show that he did,
+> - (b) if he gave consent subject to any condition and the question arises whether the condition was a reasonable condition, to show that it was,
+> - (c) if he did not give consent and the question arises whether it was reasonable for him not to do so, to show that it was reasonable,
+> 
+> and, if the question arises whether he served notice under that subsection within a reasonable time, to show that he did.
 
-(1) This section applies in any case where—
-- (a) a tenancy includes a covenant on the part of the tenant not to enter into one or more of the following transactions, that is—
-	- (i) assigning,
-	- (ii) underletting,
-	- (iii) charging, or
-	- (iv) parting with the possession of,
-- the premises comprised in the tenancy or any part of the premises without the consent of the landlord or some other person, but
-- (b) the covenant is subject to the qualification that the consent is not to be unreasonably withheld (whether or not it is also subject to any other qualification).
-
-(2) In this section and section 2 of this Act—
-- (a) references to a proposed transaction are to any assignment, underletting, charging or parting with possession to which the covenant relates, and
-- (b) references to the person who may consent to such a transaction are to the person who under the covenant may consent to the tenant entering into the proposed transaction.
-
-(3) Where there is served on the person who may consent to a proposed transaction a written application by the tenant for consent to the transaction, he owes a duty to the tenant within a reasonable time—
-- (a) to give consent, except in a case where it is reasonable not to give consent,
-- (b) to serve on the tenant written notice of his decision whether or not to give consent specifying in addition—
-	- (i) if the consent is given subject to conditions, the conditions,
-	- (ii) if the consent is withheld, the reasons for withholding it.
-
-(4) Giving consent subject to any condition that is not a reasonable condition does not satisfy the duty under subsection (3)(a) above.
-
-(5) For the purposes of this Act it is reasonable for a person not to give consent to a proposed transaction only in a case where, if he withheld consent and the tenant completed the transaction, the tenant would be in breach of a covenant.
-
-(6) It is for the person who owed any duty under subsection (3) above—
-- (a) if he gave consent and the question arises whether he gave it within a reasonable time, to show that he did,
-- (b) if he gave consent subject to any condition and the question arises whether the condition was a reasonable condition, to show that it was,
-- (c) if he did not give consent and the question arises whether it was reasonable for him not to do so, to show that it was reasonable,
-
-and, if the question arises whether he served notice under that subsection within a reasonable time, to show that he did.
-```
-
-```ad-summary
-When the tenant has made written application for consent, the landlord owes a duty, within a reasonable time, to give consent, unless it is reasonable not to do so. In addition, the landlord must serve on the tenant written notice of his decision whether or not to give consent, specifying in addition the conditions he is imposing, or the reasons why he is withholding consent. The burden of proving the reasonableness of any refusal or any conditions imposed is on the landlord.
-```
+> [!summary]
+> When the tenant has made written application for consent, the landlord owes a duty, within a reasonable time, to give consent, unless it is reasonable not to do so. In addition, the landlord must serve on the tenant written notice of his decision whether or not to give consent, specifying in addition the conditions he is imposing, or the reasons why he is withholding consent. The burden of proving the reasonableness of any refusal or any conditions imposed is on the landlord.
 
 ### Covenants Against Assigning Commercial Leases
 
-```ad-statute
-title: s 19(1A) LTA 1927
-Where the landlord and the tenant under a qualifying lease have entered into an agreement specifying for the purposes of this subsection—
-- (a) any circumstances in which the landlord may withhold his licence or consent to an assignment of the demised premises or any part of them, or
-- (b) any conditions subject to which any such licence or consent may be granted,
-
-then the landlord—
-- (i) shall not be regarded as unreasonably withholding his licence or consent to any such assignment if he withholds it on the ground (and it is the case) that any such circumstances exist, and
-- (ii) if he gives any such licence or consent subject to any such conditions, shall not be regarded as giving it subject to unreasonable conditions;
-
-and section 1 of the Landlord and Tenant Act 1988 (qualified duty to consent to assignment etc.) shall have effect subject to the provisions of this subsection.
-```
+> [!statute] s 19(1A) LTA 1927
+> Where the landlord and the tenant under a qualifying lease have entered into an agreement specifying for the purposes of this subsection—
+> - (a) any circumstances in which the landlord may withhold his licence or consent to an assignment of the demised premises or any part of them, or
+> - (b) any conditions subject to which any such licence or consent may be granted,
+> 
+> then the landlord—
+> - (i) shall not be regarded as unreasonably withholding his licence or consent to any such assignment if he withholds it on the ground (and it is the case) that any such circumstances exist, and
+> - (ii) if he gives any such licence or consent subject to any such conditions, shall not be regarded as giving it subject to unreasonable conditions;
+> 
+> and section 1 of the Landlord and Tenant Act 1988 (qualified duty to consent to assignment etc.) shall have effect subject to the provisions of this subsection.
 
 These rules enable the landlord and tenant to agree in advance (i.e., in the covenant against assigning) specified circumstances in which the landlord may withhold his consent to an assignment and specified conditions subject to which consent to assignment may be given. If the landlord withholds consent because any of those specified circumstances exist, or imposes any of those specified conditions on his consent, he will not be taken to be acting unreasonably.
 
@@ -1903,10 +1833,8 @@ Under the Landlord and Tenant Act 1927, the lettings market was weighted heavily
 
 The 1954 Act was introduced to strike a fairer balance between the landlord and tenant in business lettings. Now, if a business tenant wants to remain in occupation of its rented premises at the end of its lease term it can, if the lease qualifies for protection and the tenant complies with specified procedures. Landlords are only able to end commercial leases if they can prove that one or more of the grounds specified by the 1954 Act exist.
 
-```ad-statute
-title: [s 23(1) LTA 1954](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/23) 
-Subject to the provisions of this Act, this Part of this Act applies to any tenancy where the property comprised in the tenancy is or includes premises which are occupied by the tenant and are so occupied for the purposes of a business carried on by him or for those and other purposes.
-```
+> [!statute] [s 23(1) LTA 1954](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/23)
+> Subject to the provisions of this Act, this Part of this Act applies to any tenancy where the property comprised in the tenancy is or includes premises which are occupied by the tenant and are so occupied for the purposes of a business carried on by him or for those and other purposes.
 
 The key elements to be satisfied are: tenancy, occupation and business purposes.
 
@@ -1948,9 +1876,8 @@ If the 1954 Act applies, [s 24(1) LTA 1954](https://www.legislation.gov.uk/ukpga
 
 Under [s 38A LTA 1954](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/38A), before completing the lease, the landlord and tenant can agree to exclude the lease from the protection of the 1954 Act.
 
-```ad-warning
-Contracting out is not possible in respect of a periodic tenancy. 
-```
+> [!warning]
+> Contracting out is not possible in respect of a periodic tenancy. 
 
 - This is usual for short term lettings, where the landlord wants to be certain it can regain the premises at the end of the lease term. The decision as to whether a commercial lease is contracted out from the protection of the 1954 Act will be a part of the normal negotiation process prior to the grant of a lease. A protected lease could potentially command a higher rent than a contracted out lease.
 - Prior to June 2004, the contracting out procedure involved obtaining a court order. The lease also had to refer to the court order. From June 2004, the procedure for contracting out changed. It no longer involves a court order, but the lease does still have to make reference to the fact that the parties have agreed to exclude the protection of the 1954 Act (known as security of tenure).
@@ -1974,20 +1901,17 @@ The tenant must sign either a **simple declaration** or a **statutory declaratio
 | Simple declaration    | In a prescribed form, states that the tenant has received and accepted the consequences of the landlord’s warning notice. |
 | Statutory declaration | In a prescribed form and made in front of an independent solicitor, is to the effect that the warning notice has been received and the tenant accepts the consequences.                                                                                                                          |
 
-```ad-warning
-The warning notice is served by the landlord on the tenant and the tenant makes a declaration.
-```
+> [!warning]
+> The warning notice is served by the landlord on the tenant and the tenant makes a declaration.
 
-```ad-example
-title: Suggested wording
-
-1. The Tenant confirms that before [the date of this Lease] [it became contractually bound to enter into the tenancy created by this Lease]:
-	1. the Landlord served on the Tenant a notice dated [      ] in relation to the tenancy       created by this Lease ("the Notice") in a form complying with the requirements of Schedule 1 to the Regulatory Reform (Business Tenancies) (England and Wales Order 2003 ("the Order")
-	2. the Tenant or a person duly authorised by the Tenant in relation to the Notice made [a declaration] [a statutory declaration] ("the Declaration") dated [ ] in a form complying with the requirements of Schedule 2 of the Order
-2. The Tenant further confirms that where the Declaration was made by a person other than the Tenant the declaration was duly authorised by the Tenant to make the Declaration on the Tenant's behalf.
-3. [The Landlord and Tenant agree that there is no agreement for lease to which this Lease gives effect]  
-4. The Landlord and Tenant agree to exclude the provisions of sections 24 to 28 (inclusive) of the 1954 Act in relation to the tenancy created by this Lease.
-```
+> [!example] Suggested wording
+> 
+> 1. The Tenant confirms that before [the date of this Lease] [it became contractually bound to enter into the tenancy created by this Lease]:
+> 	1. the Landlord served on the Tenant a notice dated [      ] in relation to the tenancy       created by this Lease ("the Notice") in a form complying with the requirements of Schedule 1 to the Regulatory Reform (Business Tenancies) (England and Wales Order 2003 ("the Order")
+> 	2. the Tenant or a person duly authorised by the Tenant in relation to the Notice made [a declaration] [a statutory declaration] ("the Declaration") dated [ ] in a form complying with the requirements of Schedule 2 of the Order
+> 2. The Tenant further confirms that where the Declaration was made by a person other than the Tenant the declaration was duly authorised by the Tenant to make the Declaration on the Tenant's behalf.
+> 3. [The Landlord and Tenant agree that there is no agreement for lease to which this Lease gives effect]  
+> 4. The Landlord and Tenant agree to exclude the provisions of sections 24 to 28 (inclusive) of the 1954 Act in relation to the tenancy created by this Lease.
 
 #### Lease Wording
 
@@ -2017,42 +1941,36 @@ The Act provides for only seven methods of termination:
 7. Section 27(1A) by Tenant ceasing to be in occupation for business purposes at end of the lease (initiated by Tenant)
 	1. 27 (1A) enables the tenancy to end by effluxion of time where the tenant ceases to be in occupation for business purposes at the end of the lease.
 
-```ad-question
-title: If you are the tenant in a protected tenancy and do not wish to renew once the term expires in 4 months, what should you do?
-Serve notice in writing to the landlord at least 3 months before the end of the tenancy. Or serve notice now to terminate in exactly 3 months. 
-```
+> [!question] If you are the tenant in a protected tenancy and do not wish to renew once the term expires in 4 months, what should you do?
+> Serve notice in writing to the landlord at least 3 months before the end of the tenancy. Or serve notice now to terminate in exactly 3 months. 
 
-```ad-question
-title: If you are the tenant in a protected tenancy and do not wish to renew once the term expires tomorrow, what should you do?
-Move out before the tenancy ends. Then the lease will come to the end as you are not in occupation. This action was approved in [[Esselte AB v Pearl Assurance plc (1997)]].
-```
+> [!question] If you are the tenant in a protected tenancy and do not wish to renew once the term expires tomorrow, what should you do?
+> Move out before the tenancy ends. Then the lease will come to the end as you are not in occupation. This action was approved in [[Esselte AB v Pearl Assurance plc (1997)]].
 
 ## S 25 Notice
 
 Landlord starts the process of terminating the lease by serving a s 25 LTA 1954 notice on the tenant.
 
-```ad-statute
-title: s 25 LTA 1954 - Termination of tenancy by the landlord.
-
-(1) The landlord may terminate a tenancy to which this Part of this Act applies by a notice given to the tenant in the prescribed form specifying the date at which the tenancy is to come to an end (hereinafter referred to as “ the date of termination ”)…
-
-(2) Subject to the provisions of the next following subsection, a notice under this section shall not have effect unless it is given not more than twelve nor less than six months before the date of the termination specified therein.
-
-(3) In the case of a tenancy which apart from this Act could have been brought to an end by notice to quit given by the landlord—
-- (a) the date of termination specified in a notice under this section shall not be earlier than the earliest date on which apart from this Part of this Act the tenancy could have been brought to an end by notice to quit given by the landlord on the date of the giving of the notice under this section; and
-- (b) where apart from this Part of this Act more than six months’ notice to quit would have been required to bring the tenancy to an end, the last foregoing subsection shall have effect with the substitution for twelve months of a period six months longer than the length of notice to quit which would have been required as aforesaid.
-
-(4) In the case of any other tenancy, a notice under this section shall not specify a date of termination earlier than the date on which apart from this Part of this Act the tenancy would have come to an end by effuxion of time.
-
-(6) A notice under this section shall not have effect unless it states whether the landlord is opposed to the grant of a new tenancy to the tenant.
-
-(7) A notice under this section which states that the landlord is opposed to the grant of a new tenancy to the tenant shall not have effect unless it also specifies one or more of the grounds specified in section 30(1) of this Act as the ground or grounds for his opposition.
-
-(8) A notice under this section which states that the landlord is not opposed to the grant of a new tenancy to the tenant shall not have effect unless it sets out the landlord’s proposals as to—
-- (a) the property to be comprised in the new tenancy (being either the whole or part of the property comprised in the current tenancy);
-- (b) the rent to be payable under the new tenancy; and
-- (c) the other terms of the new tenancy.
-```
+> [!statute] s 25 LTA 1954 - Termination of tenancy by the landlord.
+> 
+> (1) The landlord may terminate a tenancy to which this Part of this Act applies by a notice given to the tenant in the prescribed form specifying the date at which the tenancy is to come to an end (hereinafter referred to as “ the date of termination ”)…
+> 
+> (2) Subject to the provisions of the next following subsection, a notice under this section shall not have effect unless it is given not more than twelve nor less than six months before the date of the termination specified therein.
+> 
+> (3) In the case of a tenancy which apart from this Act could have been brought to an end by notice to quit given by the landlord—
+> - (a) the date of termination specified in a notice under this section shall not be earlier than the earliest date on which apart from this Part of this Act the tenancy could have been brought to an end by notice to quit given by the landlord on the date of the giving of the notice under this section; and
+> - (b) where apart from this Part of this Act more than six months’ notice to quit would have been required to bring the tenancy to an end, the last foregoing subsection shall have effect with the substitution for twelve months of a period six months longer than the length of notice to quit which would have been required as aforesaid.
+> 
+> (4) In the case of any other tenancy, a notice under this section shall not specify a date of termination earlier than the date on which apart from this Part of this Act the tenancy would have come to an end by effuxion of time.
+> 
+> (6) A notice under this section shall not have effect unless it states whether the landlord is opposed to the grant of a new tenancy to the tenant.
+> 
+> (7) A notice under this section which states that the landlord is opposed to the grant of a new tenancy to the tenant shall not have effect unless it also specifies one or more of the grounds specified in section 30(1) of this Act as the ground or grounds for his opposition.
+> 
+> (8) A notice under this section which states that the landlord is not opposed to the grant of a new tenancy to the tenant shall not have effect unless it sets out the landlord’s proposals as to—
+> - (a) the property to be comprised in the new tenancy (being either the whole or part of the property comprised in the current tenancy);
+> - (b) the rent to be payable under the new tenancy; and
+> - (c) the other terms of the new tenancy.
 
 ### Prescribed Form
 
@@ -2071,29 +1989,26 @@ title: s 25 LTA 1954 - Termination of tenancy by the landlord.
 - Parties can agree to extend the time limit between them.
 - L can apply to court for a new lease to be granted.
 
-```ad-warning
-If a tenant wishes to preserve its security of tenure rights under LTA54 following the service of a valid s. 25 notice by the landlord, it must ensure that it applies to court for a new lease before the termination date specified in the s. 25 notice (or any extension agreed in writing before the end of that period).  If it fails to do this, the tenant will lose its protection under LTA54 and will be reliant on the landlord's willingness to grant a lease to the tenant in the absence of this protection. This is the case even if the landlord has stated that it will not oppose the grant of a new lease to the tenant in the s. 25 notice served by it.
-```
+> [!warning]
+> If a tenant wishes to preserve its security of tenure rights under LTA54 following the service of a valid s. 25 notice by the landlord, it must ensure that it applies to court for a new lease before the termination date specified in the s. 25 notice (or any extension agreed in writing before the end of that period).  If it fails to do this, the tenant will lose its protection under LTA54 and will be reliant on the landlord's willingness to grant a lease to the tenant in the absence of this protection. This is the case even if the landlord has stated that it will not oppose the grant of a new lease to the tenant in the s. 25 notice served by it.
 
 [[s 25 LTA 1954.png]]
 
 ## S 26 Request
 
-```ad-statute
-title: s 26 LTA 1954 - Tenant’s request for a new tenancy.
-
-(1) A tenant’s request for a new tenancy may be made where the current tenancy is a tenancy granted for a term of years certain exceeding one year, whether or not continued by section twenty-four of this Act, or granted for a term of years certain and thereafter from year to year.
-
-(2) A tenant’s request for a new tenancy shall be for a tenancy beginning with such date, not more than twelve nor less than six months after the making of the request, as may be specified therein: Provided that the said date shall not be earlier than the date on which apart from this Act the current tenancy would come to an end by effluxion of time or could be brought to an end by notice to quit given by the tenant.
-
-(3) A tenant’s request for a new tenancy shall not have effect unless it is made by notice in the prescribed form given to the landlord and sets out the tenant’s proposals as to the property to be comprised in the new tenancy (being either the whole or part of the property comprised in the current tenancy), as to the rent to be payable under the new tenancy and as to the other terms of the new tenancy.
-
-(4) A tenant’s request for a new tenancy shall not be made if the landlord has already given notice under the last foregoing section to terminate the current tenancy, or if the tenant has already given notice to quit or notice under the next following section; and no such notice shall be given by the landlord or the tenant after the making by the tenant of a request for a new tenancy.
-
-(5) Where the tenant makes a request for a new tenancy in accordance with the foregoing provisions of this section, the current tenancy shall… terminate immediately before the date specified in the request for the beginning of the new tenancy.
-
-(6) Within two months of the making of a tenant’s request for a new tenancy the landlord may give notice to the tenant that he will oppose an application to the court for the grant of a new tenancy, and any such notice shall state on which of the grounds mentioned in section thirty of this Act the landlord will oppose the application.
-```
+> [!statute] s 26 LTA 1954 - Tenant’s request for a new tenancy.
+> 
+> (1) A tenant’s request for a new tenancy may be made where the current tenancy is a tenancy granted for a term of years certain exceeding one year, whether or not continued by section twenty-four of this Act, or granted for a term of years certain and thereafter from year to year.
+> 
+> (2) A tenant’s request for a new tenancy shall be for a tenancy beginning with such date, not more than twelve nor less than six months after the making of the request, as may be specified therein: Provided that the said date shall not be earlier than the date on which apart from this Act the current tenancy would come to an end by effluxion of time or could be brought to an end by notice to quit given by the tenant.
+> 
+> (3) A tenant’s request for a new tenancy shall not have effect unless it is made by notice in the prescribed form given to the landlord and sets out the tenant’s proposals as to the property to be comprised in the new tenancy (being either the whole or part of the property comprised in the current tenancy), as to the rent to be payable under the new tenancy and as to the other terms of the new tenancy.
+> 
+> (4) A tenant’s request for a new tenancy shall not be made if the landlord has already given notice under the last foregoing section to terminate the current tenancy, or if the tenant has already given notice to quit or notice under the next following section; and no such notice shall be given by the landlord or the tenant after the making by the tenant of a request for a new tenancy.
+> 
+> (5) Where the tenant makes a request for a new tenancy in accordance with the foregoing provisions of this section, the current tenancy shall… terminate immediately before the date specified in the request for the beginning of the new tenancy.
+> 
+> (6) Within two months of the making of a tenant’s request for a new tenancy the landlord may give notice to the tenant that he will oppose an application to the court for the grant of a new tenancy, and any such notice shall state on which of the grounds mentioned in section thirty of this Act the landlord will oppose the application.
 
 - The tenant can take the initiative and serve a request for a new tenancy under s 26.
 - The procedure is not available for periodic tenants or those for a fixed term $\leq 1$ year.
@@ -2101,16 +2016,14 @@ title: s 26 LTA 1954 - Tenant’s request for a new tenancy.
 	- But may be if rent is currently payable is too high; or
 	- Lease is to be sold and may be more marketable with a new fixed term.
 
-```ad-note
-title: Reasons for serving s26 notice
-1. Rents falling
-	- If the tenant believes that rents have fallen and the current rent is more than what could be achieved under a new lease in the current market, then the tenant will want to terminate the current tenancy and obtain a new one at a reduced rent.
-2. Rents increased
-	- Conversely, the tenant may be making a pre-emptive move to prolong the current tenancy. If rents have increased, the landlord will want to bring the current tenancy to an end and can only do that by service of a section 25 notice giving at least six months' notice.
-	- If however the tenant can step in first and serve their section 26 request for a new tenancy the tenant could give up to 12 months' notice and prolong their current tenancy – at the same rent – for another six months.
-3. Tenants want to sell leasehold with new fixed term
-	- The tenant may have plans to sell the lease and the tenancy would be more attractive to a buyer if a new fixed term has been granted.
-```
+> [!note] Reasons for serving s26 notice
+> 1. Rents falling
+> 	- If the tenant believes that rents have fallen and the current rent is more than what could be achieved under a new lease in the current market, then the tenant will want to terminate the current tenancy and obtain a new one at a reduced rent.
+> 2. Rents increased
+> 	- Conversely, the tenant may be making a pre-emptive move to prolong the current tenancy. If rents have increased, the landlord will want to bring the current tenancy to an end and can only do that by service of a section 25 notice giving at least six months' notice.
+> 	- If however the tenant can step in first and serve their section 26 request for a new tenancy the tenant could give up to 12 months' notice and prolong their current tenancy – at the same rent – for another six months.
+> 3. Tenants want to sell leasehold with new fixed term
+> 	- The tenant may have plans to sell the lease and the tenancy would be more attractive to a buyer if a new fixed term has been granted.
 
 ### Prescribed Form
 
@@ -2152,24 +2065,21 @@ title: Reasons for serving s26 notice
 	- L **can** rely on the ground if she bought the property with vacant possession, let it, and then sought to possess within 5 years of buying.
 	- May be used by a competitor to drive out a business rival ([[Humber Oil Terminals Trustee Ltd v Associated British Ports [2011] EWHC 2043 (Ch)).]])
 
-```ad-important
-(1) to (3) are discretionary grounds - L must:
-1. Establish the ground; and
-2. Show T ought not to be granted a new tenancy in view of the facts giving rise to the ground. 
-```
+> [!important]
+> (1) to (3) are discretionary grounds - L must:
+> 1. Establish the ground; and
+> 2. Show T ought not to be granted a new tenancy in view of the facts giving rise to the ground. 
 
-```ad-statute
-title: s 30(1) LTA 1954  Opposition by landlord to application for new tenancy.
-
-The grounds on which a landlord may oppose an application under section 24(1) of this Act, or make an application under section 29(2) of this Act, are such of the following grounds as may be stated in the landlord’s notice under section 25 of this Act or, as the case may be, under subsection (6) of section 26 thereof, that is to say:—
-- (a) where under the current tenancy the tenant has any obligations as respects the repair and maintenance of the holding, that the tenant ought not to be granted a new tenancy in view of the state of repair of the holding, being a state resulting from the tenant’s failure to comply with the said obligations;
-- (b) that the tenant ought not to be granted a new tenancy in view of his persistent delay in paying rent which has become due;
-- (c) that the tenant ought not to be granted a new tenancy in view of other substantial breaches by him of his obligations under the current tenancy, or for any other reason connected with the tenant’s use or management of the holding;
-- (d) that the landlord has offered and is willing to provide or secure the provision of alternative accommodation for the tenant, that the terms on which the alternative accommodation is available are reasonable having regard to the terms of the current tenancy and to all other relevant circumstances, and that the accommodation and the time at which it will be available are suitable for the tenant’s requirements (including the requirement to preserve goodwill) having regard to the nature and class of his business and to the situation and extent of, and facilities afforded by, the holding;
-- (e) where the current tenancy was created by the sub-letting of part only of the property comprised in a superior tenancy and the landlord is the owner of an interest in reversion expectant on the termination of that superior tenancy, that the aggregate of the rents reasonably obtainable on separate lettings of the holding and the remainder of that property would be substantially less than the rent reasonably obtainable on a letting of that property as a whole, that on the termination of the current tenancy the landlord requires possession of the holding for the purpose of letting or otherwise disposing of the said property as a whole, and that in view thereof the tenant ought not to be granted a new tenancy;
-- (f) that on the termination of the current tenancy the landlord intends to demolish or reconstruct the premises comprised in the holding or a substantial part of those premises or to carry out substantial work of construction on the holding or part thereof and that he could not reasonably do so without obtaining possession of the holding;
-- (g) subject as hereinafter provided, that on the termination of the current tenancy the landlord intends to occupy the holding for the purposes, or partly for the purposes, of a business to be carried on by him therein, or as his residence.
-```
+> [!statute] s 30(1) LTA 1954  Opposition by landlord to application for new tenancy.
+> 
+> The grounds on which a landlord may oppose an application under section 24(1) of this Act, or make an application under section 29(2) of this Act, are such of the following grounds as may be stated in the landlord’s notice under section 25 of this Act or, as the case may be, under subsection (6) of section 26 thereof, that is to say:—
+> - (a) where under the current tenancy the tenant has any obligations as respects the repair and maintenance of the holding, that the tenant ought not to be granted a new tenancy in view of the state of repair of the holding, being a state resulting from the tenant’s failure to comply with the said obligations;
+> - (b) that the tenant ought not to be granted a new tenancy in view of his persistent delay in paying rent which has become due;
+> - (c) that the tenant ought not to be granted a new tenancy in view of other substantial breaches by him of his obligations under the current tenancy, or for any other reason connected with the tenant’s use or management of the holding;
+> - (d) that the landlord has offered and is willing to provide or secure the provision of alternative accommodation for the tenant, that the terms on which the alternative accommodation is available are reasonable having regard to the terms of the current tenancy and to all other relevant circumstances, and that the accommodation and the time at which it will be available are suitable for the tenant’s requirements (including the requirement to preserve goodwill) having regard to the nature and class of his business and to the situation and extent of, and facilities afforded by, the holding;
+> - (e) where the current tenancy was created by the sub-letting of part only of the property comprised in a superior tenancy and the landlord is the owner of an interest in reversion expectant on the termination of that superior tenancy, that the aggregate of the rents reasonably obtainable on separate lettings of the holding and the remainder of that property would be substantially less than the rent reasonably obtainable on a letting of that property as a whole, that on the termination of the current tenancy the landlord requires possession of the holding for the purpose of letting or otherwise disposing of the said property as a whole, and that in view thereof the tenant ought not to be granted a new tenancy;
+> - (f) that on the termination of the current tenancy the landlord intends to demolish or reconstruct the premises comprised in the holding or a substantial part of those premises or to carry out substantial work of construction on the holding or part thereof and that he could not reasonably do so without obtaining possession of the holding;
+> - (g) subject as hereinafter provided, that on the termination of the current tenancy the landlord intends to occupy the holding for the purposes, or partly for the purposes, of a business to be carried on by him therein, or as his residence.
 
 ## Interim Rent
 

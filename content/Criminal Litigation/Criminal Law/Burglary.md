@@ -9,21 +9,19 @@ date modified: Sunday, December 10th 2023, 12:40:25 am
 
 ## Statute
 
-```ad-statute
-title: [s 9 TA 1968](https://www.legislation.gov.uk/ukpga/1968/60/section/9)
-
-(1) A person is guilty of burglary if—
-- (a) he enters any building or part of a building as a trespasser and with intent to commit any such offence as is mentioned in subsection (2) below; or
-- (b) having entered any building or part of a building as a trespasser he steals or attempts to steal anything in the building or that part of it or inflicts or attempts to inflict on any person therein any grievous bodily harm.
-
-(2) The offences referred to in subsection (1)(a) above are offences of stealing anything in the building or part of a building in question, of inflicting on any person therein any grievous bodily harm...therein, and of doing unlawful damage to the building or anything therein.
-
-(3) A person guilty of burglary shall on conviction on indictment be liable to imprisonment for a term not exceeding-
-- (a) where the offence was committed in respect of a building or part of a building which is a dwelling, fourteen years;
-- (b) in any other case, ten years.
-
-(4) References in subsections (1) and (2) above to a building, and the reference to subsection (3) above to a building which is a dwelling, shall apply also to an inhabited vehicle or vessel, and shall apply to any such vehicle or vessel at times when the person having a habitation in it is not there as well as at times when he is.
-```
+> [!statute] [s 9 TA 1968](https://www.legislation.gov.uk/ukpga/1968/60/section/9)
+> 
+> (1) A person is guilty of burglary if—
+> - (a) he enters any building or part of a building as a trespasser and with intent to commit any such offence as is mentioned in subsection (2) below; or
+> - (b) having entered any building or part of a building as a trespasser he steals or attempts to steal anything in the building or that part of it or inflicts or attempts to inflict on any person therein any grievous bodily harm.
+> 
+> (2) The offences referred to in subsection (1)(a) above are offences of stealing anything in the building or part of a building in question, of inflicting on any person therein any grievous bodily harm...therein, and of doing unlawful damage to the building or anything therein.
+> 
+> (3) A person guilty of burglary shall on conviction on indictment be liable to imprisonment for a term not exceeding-
+> - (a) where the offence was committed in respect of a building or part of a building which is a dwelling, fourteen years;
+> - (b) in any other case, ten years.
+> 
+> (4) References in subsections (1) and (2) above to a building, and the reference to subsection (3) above to a building which is a dwelling, shall apply also to an inhabited vehicle or vessel, and shall apply to any such vehicle or vessel at times when the person having a habitation in it is not there as well as at times when he is.
 
 So there are two types of burglary.
 
@@ -161,9 +159,8 @@ Once inside, the defendant must actually commit one or more of the following off
 
 Note that if the relevant offence is theft or attempted theft, the relevant _mens rea_ is still required (dishonest intention to permanently deprive).
 
-```ad-warning
-Although criminal damage is stated as a relevant offence in s 9(2) for the purposes of a s 9(1)(a) offence, it is not included in a s 9(1)(b) offence.
-```
+> [!warning]
+> Although criminal damage is stated as a relevant offence in s 9(2) for the purposes of a s 9(1)(a) offence, it is not included in a s 9(1)(b) offence.
 
 ## Omerod
 

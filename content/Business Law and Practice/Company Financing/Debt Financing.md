@@ -17,9 +17,8 @@ Debt finance can broadly be categorised as either:
 - Loan facilities
 - Debt securities
 
-```ad-note
-Debt finance is primarily governed by contract law, rather than CA 2006. This means it can be more flexible than equity finance. 
-```
+> [!note]
+> Debt finance is primarily governed by contract law, rather than CA 2006. This means it can be more flexible than equity finance. 
 
 ## Authority
 
@@ -94,10 +93,8 @@ Initial clauses of facility agreement will set out:
 
 Both a term loan and a revolving credit facility are ‘committed’ facilities.
 
-```ad-defn
-title: Committed facility
-Once the loan agreement has been signed, the bank must provide the company with the loan monies when it requests them. A ‘commitment’ fee will be payable by the company.
-```
+> [!defn] Committed facility
+> Once the loan agreement has been signed, the bank must provide the company with the loan monies when it requests them. A ‘commitment’ fee will be payable by the company.
 
 In the unlikely event that the lender refused to lend in breach of the facility agreement, the company would be entitled to damages. If the company was able to obtain the same loan elsewhere then the damages would be nominal.
 
@@ -135,18 +132,15 @@ The interest rate consists of:
 
 #### Penalty Rate
 
-```ad-defn
-title: Default interest
-An increased interest rate if scheduled payments are missed. 
-```
+> [!defn] Default interest
+> An increased interest rate if scheduled payments are missed. 
 
 Contract law allows the courts to strike down a provision which constitutes a penalty clause, as opposed to a clause for liquidated damages.
 
 Default interest may not constitute a penalty, if the rate is such as only to compensate the lender for its additional funding costs and the increased credit risk of lending to a defaulting borrower ([[Jeancharm Ltd (t/a Beaver International) v Barnet Football Club Ltd [2003] EWCA Civ 58]]).
 
-```ad-action
-Default interest clauses in a facility agreement must therefore be drafted very carefully, in accordance with current jurisprudence.
-```
+> [!action]
+> Default interest clauses in a facility agreement must therefore be drafted very carefully, in accordance with current jurisprudence.
 
 ### Express Covenants
 
@@ -171,13 +165,11 @@ Terms may be implied, e.g., bank's right to charge compound interest, implied by
 
 The facility agreement will contain ‘events of default’. If the company breaches any of these terms, the lender may terminate the agreement if it so wishes.
 
-```ad-example
-title: Events of default
-- Failure to pay any sum due
-- Commencement of insolvency procedure
-- Breach of obligations under facility agreement 
-- Cross-default (defaulting on a loan to another lender). 
-```
+> [!example] Events of default
+> - Failure to pay any sum due
+> - Commencement of insolvency procedure
+> - Breach of obligations under facility agreement 
+> - Cross-default (defaulting on a loan to another lender). 
 
 ## Debt Securities
 

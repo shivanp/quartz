@@ -52,22 +52,20 @@ The Supreme Court in [[R v Jogee [2016] UKSC 8]] stated that the principles gove
 
 With the exception of procuring, these actions can be summarised as ‘assisting or encouraging the commission of the principal’s offence’. This was the term used in *R v Jogee*.
 
-```ad-important
-title: Accessory liability
-_Actus reus_
-
-Any of the following five ways:
-- To aid P in committing the offence
-- To abet P in committing the offence
-- To counsel P in committing the offence
-- To procure P to commit the offence
-- To be a party to a joint enterprise with P regarding one offence and during the enterprise P commits a second, different offence
-
-_Mens rea_
-- An intention to assist or encourage the principal’s conduct.
-- If the crime requires a _mens rea_, an intention that the principal will do the _actus reus_ with that _mens rea_. (Procuring would appear to be an exception to this rule.)
-- Knowledge of existing facts or circumstances necessary for the offence to be criminal.
-```
+> [!important] Accessory liability
+> _Actus reus_
+> 
+> Any of the following five ways:
+> - To aid P in committing the offence
+> - To abet P in committing the offence
+> - To counsel P in committing the offence
+> - To procure P to commit the offence
+> - To be a party to a joint enterprise with P regarding one offence and during the enterprise P commits a second, different offence
+> 
+> _Mens rea_
+> - An intention to assist or encourage the principal’s conduct.
+> - If the crime requires a _mens rea_, an intention that the principal will do the _actus reus_ with that _mens rea_. (Procuring would appear to be an exception to this rule.)
+> - Knowledge of existing facts or circumstances necessary for the offence to be criminal.
 
 ## Withdrawal
 
@@ -114,18 +112,17 @@ It is not an offence to attempt to aid, abet, counsel or procure an offence – 
 
 It is an offence to aid, abet, counsel or procure an attempt to commit an offence, [[R v Hui Chi-Ming [1991] 3 All ER 897]].
 
-```ad-summary
-This element provides an overview to a variety of parties there can be to a crime: principal offender, accessories and a party to a joint enterprise.
-- The principal (P) is the person who, with appropriate mens rea, commits the actus reus of the offence.
-- Secondary participation- an accessory (A) aids, abets, counsels, procures the principal offence. Alternatively, A is engaged in a joint enterprise when P commits a second, different offence e.g. P and D commit burglary as principals, P murders the homeowner, D becomes an accessory to P’s murder.
-
-Other key principles regarding accessorial liability covered in this element were:
-- Withdrawal- something must be done and communicated to the principal in the case of pre-panned violence (but not necessarily spontaneous violence) or a law enforcement agency.
-- Conviction of a secondary party and acquittal of the principal is possible.
-- If it can be proved that the person who did not commit the crime as the principal was a secondary party to the crime, then both can be convicted.
-- It is not an offence to attempt to aid, abet, counsel or procure an offence.
-- It is an offence to aid, abet, counsel or procure an attempt to commit an offence.
-```
+> [!summary]
+> This element provides an overview to a variety of parties there can be to a crime: principal offender, accessories and a party to a joint enterprise.
+> - The principal (P) is the person who, with appropriate mens rea, commits the actus reus of the offence.
+> - Secondary participation- an accessory (A) aids, abets, counsels, procures the principal offence. Alternatively, A is engaged in a joint enterprise when P commits a second, different offence e.g. P and D commit burglary as principals, P murders the homeowner, D becomes an accessory to P’s murder.
+> 
+> Other key principles regarding accessorial liability covered in this element were:
+> - Withdrawal- something must be done and communicated to the principal in the case of pre-panned violence (but not necessarily spontaneous violence) or a law enforcement agency.
+> - Conviction of a secondary party and acquittal of the principal is possible.
+> - If it can be proved that the person who did not commit the crime as the principal was a secondary party to the crime, then both can be convicted.
+> - It is not an offence to attempt to aid, abet, counsel or procure an offence.
+> - It is an offence to aid, abet, counsel or procure an attempt to commit an offence.
 
 ## Secondary Parties
 
@@ -200,12 +197,10 @@ In [[R v Giannetto [1997] 1 Cr App R 1]] Kennedy LJ considered what kind of enco
 
 > ‘Suppose somebody came up to G and said, “I am going to kill your wife”, if he played any part, either in encouragement, as little as patting him on the back, nodding, saying “Oh goody”, that would be sufficient to involve him in the murder to make him guilty, because he is encouraging the murder… Any involvement from mere encouragement upwards would suffice.’
 
-```ad-info
-title: Presence at the scene
-Mere presence at the scene of the crime is not necessarily enough to count as abetting ([[R v Coney [1882] 8 QBD 534]]).
-
-However, it is possible to abet by mere presence ([[Wilcox v Jeffrey [1951] 1 All ER 464]]).
-```
+> [!info] Presence at the scene
+> Mere presence at the scene of the crime is not necessarily enough to count as abetting ([[R v Coney [1882] 8 QBD 534]]).
+> 
+> However, it is possible to abet by mere presence ([[Wilcox v Jeffrey [1951] 1 All ER 464]]).
 
 #### Failure to Prevent an Offence
 
@@ -224,9 +219,8 @@ Where D has the right or duty to control the actions of another and deliberately
 
 A joint enterprise is where two or more people are committing a crime together.
 
-```ad-example
-Fred and Mary may break into Ahmed’s house together. Both enter the house, both intend to steal from the house, and both will be liable for burglary. If, in the course of the break-in, Fred confronts Ahmed and stabs him, killing him, Fred will probably be guilty of murder. Depending on her mens rea, Mary might also be guilty of murder as an accessory.
-```
+> [!example]
+> Fred and Mary may break into Ahmed’s house together. Both enter the house, both intend to steal from the house, and both will be liable for burglary. If, in the course of the break-in, Fred confronts Ahmed and stabs him, killing him, Fred will probably be guilty of murder. Depending on her mens rea, Mary might also be guilty of murder as an accessory.
 
 The issue of accessorial liability arises when one of the parties goes on to commit a different crime.
 

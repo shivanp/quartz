@@ -35,9 +35,8 @@ General rule: the Claim Form will be served by the court unless the Claimant not
 | 6. Company registered in England and Wales                              | Principal office of the company; or any place of business of the company within the jurisdiction which has a real connection with the claim.                              |
 | 7. Any other company or corporation                                     | Any place within the jurisdiction where the corporation carries on its activities; or any place of business of the company within the jurisdiction.                       |
 
-```ad-note
-Under CPR 6.3(2)(b) service may be effected on a company by any method permitted under the Companies Act 2006.  This includes leaving or posting (any class) to the registered office of the Company.
-```
+> [!note]
+> Under CPR 6.3(2)(b) service may be effected on a company by any method permitted under the Companies Act 2006.  This includes leaving or posting (any class) to the registered office of the Company.
 
 ## How
 
@@ -70,29 +69,23 @@ The court permits a defendant 14 days to respond to the Particulars of Claim. Th
 
 If the Defendant files an Acknowledgement of Service they then have 28 days, from the deemed date of service of the Particulars of Claim, to file and serve a Defence.
 
-```ad-statute
-title: Acknowledgment of Service – CPR 10.3(1)
+> [!statute] Acknowledgment of Service – CPR 10.3(1)
+> 
+> (1) The general rule is that the period for filing an acknowledgment of service is –
+> - (a) where the defendant is served with a claim form which states that particulars of claim are to follow, 14 days after service of the particulars of claim; and
+> - (b) in any other case, 14 days after service of the claim form.
 
-(1) The general rule is that the period for filing an acknowledgment of service is –
-- (a) where the defendant is served with a claim form which states that particulars of claim are to follow, 14 days after service of the particulars of claim; and
-- (b) in any other case, 14 days after service of the claim form.
-```
+> [!statute] Defence – CPR 15.4(1)
+> 
+> (1) The general rule is that the period for filing a defence is – 
+> - (a) 14 days after service of the particulars of claim; or
+> - (b) if the defendant files an acknowledgment of service under Part 10, 28 days after service of the particulars of claim.
 
-```ad-statute
-title: Defence – CPR 15.4(1)
-
-(1) The general rule is that the period for filing a defence is – 
-- (a) 14 days after service of the particulars of claim; or
-- (b) if the defendant files an acknowledgment of service under Part 10, 28 days after service of the particulars of claim.
-```
-
-```ad-statute
-title: Reply to defence - CPR 15.8
-
-If a claimant files a reply to the defence, he must – 
-- (a) file his reply when he files his directions questionnaire; and
-- (b) serve his reply on the other parties at the same time as he files it.
-```
+> [!statute] Reply to defence - CPR 15.8
+> 
+> If a claimant files a reply to the defence, he must – 
+> - (a) file his reply when he files his directions questionnaire; and
+> - (b) serve his reply on the other parties at the same time as he files it.
 
 ## Limitation Period
 

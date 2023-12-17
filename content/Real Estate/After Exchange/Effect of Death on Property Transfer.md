@@ -20,15 +20,13 @@ A restriction in Form A of the proprietorship register warns a buyer that the be
 
 Remember that a joint tenancy can be severed and converted to a tenancy in common, and it is the responsibility of the interested party to apply for an entry of the restriction.
 
-```ad-action
-Buyer should make their own enquiries too, since Form A is not conclusive. 
-```
+> [!action]
+> Buyer should make their own enquiries too, since Form A is not conclusive. 
 
 ## Overreaching
 
-```ad-defn
-Overreaching is the process of transferring the beneficial interests under a trust from the land itself to the capital money received from the purchaser of the legal estate.
-```
+> [!defn]
+> Overreaching is the process of transferring the beneficial interests under a trust from the land itself to the capital money received from the purchaser of the legal estate.
 
 The interests of the beneficiaries under the trust will be overreached only if the trustees convey the legal estate to a purchaser in good faith for valuable consideration and give a receipt for any capital money (_sections 2(1) and 205(1)(xxi), LPA 1925_). 'Trustees' means at least two trustees/ a trust corporation.
 
@@ -71,9 +69,8 @@ Where the deceased's beneficial interest passes to a third party (not the surviv
 
 If the trust is continuing and the property is to be sold, the appointment of a second trustee of the legal title, and the joining of the second trustee in the transfer, is needed to overreach the deceased's equitable interest.
 
-```ad-warning
-It is not sufficient for the deceased's PRs to act with the surviving legal owner. This is because only the deceased's beneficial interest passes to the PRs in death. A second trustee of the **legal** title is required.
-```
+> [!warning]
+> It is not sufficient for the deceased's PRs to act with the surviving legal owner. This is because only the deceased's beneficial interest passes to the PRs in death. A second trustee of the **legal** title is required.
 
 The second trustee need not be a party to the contract for sale since the survivor, as sole legal owner by survivorship, is able to enter into a property sale contract alone. However, the second trustee must be a party to the transfer, and be a joint recipient of the sale proceeds.
 

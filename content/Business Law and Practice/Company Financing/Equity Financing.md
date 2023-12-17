@@ -20,15 +20,13 @@ Capital can still be lost as a result of poor business decisions or market condi
 
 Many companies, large and small, have very limited share capital: so the doctrine doesn't really protect creditors much in this case.
 
-```ad-important
-title: Doctrine of capital maintenance ([s 658 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/658))
-
- 1. A limited company must not acquire its own shares, whether by purchase, subscription or otherwise, except in accordance with the provisions of this Part.
- 2. If a company purports to act in contravention of this section—
-(a) an offence is committed by (i) the company, and (ii) every officer of the company who is in default, and
-(b) the purported acquisition is void.
-
-```
+> [!important] Doctrine of capital maintenance ([s 658 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/658))
+> 
+>  1. A limited company must not acquire its own shares, whether by purchase, subscription or otherwise, except in accordance with the provisions of this Part.
+>  2. If a company purports to act in contravention of this section—
+> (a) an offence is committed by (i) the company, and (ii) every officer of the company who is in default, and
+> (b) the purported acquisition is void.
+> 
 
 [s 659 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/659) provides a set of limited exceptions.
 
@@ -73,9 +71,8 @@ Shares are allotted to someone (i.e., allocated) when that person has the uncond
 
 ### Share Capital
 
-```ad-defn
-The amount of money whcih a company raises by issuing shares.
-```
+> [!defn]
+> The amount of money whcih a company raises by issuing shares.
 
 #### Pre-CA 2006
 
@@ -102,9 +99,8 @@ under s 550, it has to pass an ordinary resolution of the shareholders in order 
 
 The directors can issue shares in the company only if they have authority to do so. This authority must be given specifically, either in the articles (by a special article), or by ordinary resolution of the shareholders at a GM or by written resolution (CA 2006, ss 549–551).
 
-```ad-important
-If an ordinary resolution is needed, it must be filed with the Registrar of Companies (s 551(9)). 
-```
+> [!important]
+> If an ordinary resolution is needed, it must be filed with the Registrar of Companies (s 551(9)). 
 
 The authority must state:
 
@@ -146,24 +142,22 @@ But a private company may provide for pre-emption rights on transfer of shares i
 
 But if the private company has a corporate shareholder, the transfer of shares by this corporate shareholder will not trigger pre-emption rights provisions ([[Re Coroin [2011] EWHC 3466]]).
 
-```ad-statute
-title: s 561 CA 2006
-(1) A company must not allot equity securities to a person on any terms unless—
-- (a) it has made an offer to each person who holds ordinary shares in the company to allot to him on the same or more favourable terms a proportion of those securities that is as nearly as practicable equal to the proportion in nominal value held by him of the ordinary share capital of the company, and
-- (b) the period during which any such offer may be accepted has expired or the company has received notice of the acceptance or refusal of every offer so made.
-
-(2) Securities that a company has offered to allot to a holder of ordinary shares may be allotted to him, or anyone in whose favour he has renounced his right to their allotment, without contravening subsection (1)(b).
-
-(4) Shares held by the company as treasury shares are disregarded for the purposes of this section, so that—
-- (a) the company is not treated as a person who holds ordinary shares, and
-- (b) the shares are not treated as forming part of the ordinary share capital of the company.
-
-(5) This section is subject to—
-- (a) sections 564 to (exceptions to pre-emption right),
-- (b) sections 567 and 568 (exclusion of rights of pre-emption),
-- (c) sections 569 to 573 (disapplication of pre-emption rights), and
-- (d) section 576 (saving for certain older pre-emption procedures).
-```
+> [!statute] s 561 CA 2006
+> (1) A company must not allot equity securities to a person on any terms unless—
+> - (a) it has made an offer to each person who holds ordinary shares in the company to allot to him on the same or more favourable terms a proportion of those securities that is as nearly as practicable equal to the proportion in nominal value held by him of the ordinary share capital of the company, and
+> - (b) the period during which any such offer may be accepted has expired or the company has received notice of the acceptance or refusal of every offer so made.
+> 
+> (2) Securities that a company has offered to allot to a holder of ordinary shares may be allotted to him, or anyone in whose favour he has renounced his right to their allotment, without contravening subsection (1)(b).
+> 
+> (4) Shares held by the company as treasury shares are disregarded for the purposes of this section, so that—
+> - (a) the company is not treated as a person who holds ordinary shares, and
+> - (b) the shares are not treated as forming part of the ordinary share capital of the company.
+> 
+> (5) This section is subject to—
+> - (a) sections 564 to (exceptions to pre-emption right),
+> - (b) sections 567 and 568 (exclusion of rights of pre-emption),
+> - (c) sections 569 to 573 (disapplication of pre-emption rights), and
+> - (d) section 576 (saving for certain older pre-emption procedures).
 
 The number that each current shareholder is offered is dependent upon the percentage of the shares they currently hold.
 
@@ -239,12 +233,10 @@ Section 610 specifies the permitted uses for the share premium account. For exam
 
 FORBIDDEN. Shares may not be issued for less than their nominal value (CA 2006, s 580).
 
-```ad-statute
-title: s 580
-(1) A company's shares must not be allotted at a discount.
-
-(2) If shares are allotted in contravention of this section, the allottee is liable to pay the company an amount equal to the amount of the discount, with interest at the appropriate rate.
-```
+> [!statute] s 580
+> (1) A company's shares must not be allotted at a discount.
+> 
+> (2) If shares are allotted in contravention of this section, the allottee is liable to pay the company an amount equal to the amount of the discount, with interest at the appropriate rate.
 
 #### Re-denomination of Share Capital
 
@@ -317,16 +309,15 @@ May be converted to a different type of share in the issuing company, according 
 
 Employees' share schemes can have tax advantages. Usually ordinary shares with extra restrictions (e.g., on transfer).
 
-```ad-example
-
-**PGDL Limited** has **participating preference shares** in issue which carry a right to receive a fixed preferential dividend of 5% of the par value of the shares per annum. The shares have a par value of £1 each.
-
-Assuming that a dividend has been declared, the preference shareholders would be entitled to receive a dividend of 5p per share per annum before the ordinary shareholders receive any dividend. They would then also be entitled to a fraction of the remaining general dividend alongside the ordinary shareholders.
-
-**SQE Limited** has **non-participating preference shares** in issue which carry a right to receive a fixed preferential dividend of 5% of the total subscription price per share per annum. The shares have a par value of £1 each but were subscribed for at a price of £2 per share.
-
-Assuming that a dividend has been declared, the preference shareholders would be entitled to receive a dividend of 10p per share per annum before the ordinary shareholders receive any dividend. They would not be entitled to any further dividend.
-```
+> [!example]
+> 
+> **PGDL Limited** has **participating preference shares** in issue which carry a right to receive a fixed preferential dividend of 5% of the par value of the shares per annum. The shares have a par value of £1 each.
+> 
+> Assuming that a dividend has been declared, the preference shareholders would be entitled to receive a dividend of 5p per share per annum before the ordinary shareholders receive any dividend. They would then also be entitled to a fraction of the remaining general dividend alongside the ordinary shareholders.
+> 
+> **SQE Limited** has **non-participating preference shares** in issue which carry a right to receive a fixed preferential dividend of 5% of the total subscription price per share per annum. The shares have a par value of £1 each but were subscribed for at a price of £2 per share.
+> 
+> Assuming that a dividend has been declared, the preference shareholders would be entitled to receive a dividend of 10p per share per annum before the ordinary shareholders receive any dividend. They would not be entitled to any further dividend.
 
 ### Variation of Class Rights
 
@@ -416,17 +407,15 @@ Uncommon in private companies.
 
 ### Redeemable Shares
 
-```ad-statute
-title: s 684 - Power of limited company to issue redeemable shares
-
-(1) A limited company having a share capital may issue shares that are to be redeemed or are liable to be redeemed at the option of the company or the shareholder (“redeemable shares”), subject to the following provisions.
-
-(2) The articles of a private limited company may exclude or restrict the issue of redeemable shares.
-
-(3) A public limited company may only issue redeemable shares if it is authorised to do so by its articles.
-
-(4) No redeemable shares may be issued at a time when there are no issued shares of the company that are not redeemable.
-```
+> [!statute] s 684 - Power of limited company to issue redeemable shares
+> 
+> (1) A limited company having a share capital may issue shares that are to be redeemed or are liable to be redeemed at the option of the company or the shareholder (“redeemable shares”), subject to the following provisions.
+> 
+> (2) The articles of a private limited company may exclude or restrict the issue of redeemable shares.
+> 
+> (3) A public limited company may only issue redeemable shares if it is authorised to do so by its articles.
+> 
+> (4) No redeemable shares may be issued at a time when there are no issued shares of the company that are not redeemable.
 
 #### Articles
 
@@ -493,9 +482,8 @@ The courts have found that there has been a “disguised” return of capital to
 
 When an unlawful distribution is made, both the directors who authorised the distribution and the shareholders receiving it may be liable.
 
-```ad-warning
-If a dividend is paid when there are insufficient profits available for the purpose, the directors who authorised the payment are jointly and severally liable to the company for the full amount.
-```
+> [!warning]
+> If a dividend is paid when there are insufficient profits available for the purpose, the directors who authorised the payment are jointly and severally liable to the company for the full amount.
 
 - Directors who knew or ought to have known that the payment amounted to a breach are liable to personally repay the dividends ([[Bairstow v Queens Moat Houses plc [2001] EWCA Civ 712]]).
 - [s 847 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/847) provides that where a distribution is made in contravention of the requirements of the Act, and if at the time of distribution the member knows or has reasonable grounds for believing the distribution to have been unlawful, they are liable to repay it to the company ([[It's a Wrap (UK) Ltd v Gula [2006] EWCA Civ 544]]).
@@ -555,9 +543,8 @@ The profits of a company belong to the company (separate legal personality). The
 
 A buyback out of existing share capital may also increase the company's changes of becoming insolvent. The principle of maintenance of share capital is designed to safeguard against this.
 
-```ad-note
-There is a different procedure for share buybacks on a stock market, not considered here. 
-```
+> [!note]
+> There is a different procedure for share buybacks on a stock market, not considered here. 
 
 ### Buyback Out of Profit/ Fresh Issue of Shares
 
@@ -605,9 +592,8 @@ id2 --> id3(BM2 resolution <br/>to enter contract)
 
 ### Buyback Out of Capital
 
-```ad-danger
-A public company is not allowed to buy back out of capital.
-```
+> [!danger]
+> A public company is not allowed to buy back out of capital.
 
 Some of the company's existing share capital may be used to fund the buyback, subject to anything in the articles to the contrary (s 709) provided that additional conditions are satisfied (s 713).
 
@@ -620,10 +606,8 @@ Some of the company's existing share capital may be used to fund the buyback, su
 	2. Criminal sanctions for making such a statement without reasonable grounds (CA 2006, s 715).
 	3. Must be made $\geq 1$ week before GM (s 716(2)).
 
-```ad-defn
-title: Permissible capital payment
-The amount which of capital which may be used for share buybacks. This is limited (ss 710-712). 
-```
+> [!defn] Permissible capital payment
+> The amount which of capital which may be used for share buybacks. This is limited (ss 710-712). 
 
 #### Procedure
 
@@ -660,21 +644,17 @@ The amount which of capital which may be used for share buybacks. This is limite
 
 ### Buyback of a Small Amount
 
-```ad-statute
-title: s 692(1ZA)
-If authorised to do so by its articles, a private limited company may purchase its own shares out of capital otherwise than in accordance with Chapter 5, up to an aggregate purchase price in a financial year of the lower of—
-- (a) £15,000, or
-- (b) the nominal value of 5% of its fully paid share capital as at the beginning of the financial year.
-```
+> [!statute] s 692(1ZA)
+> If authorised to do so by its articles, a private limited company may purchase its own shares out of capital otherwise than in accordance with Chapter 5, up to an aggregate purchase price in a financial year of the lower of—
+> - (a) £15,000, or
+> - (b) the nominal value of 5% of its fully paid share capital as at the beginning of the financial year.
 
 Recall that “nominal value” excludes any premium on the shares. There are no special procedures to follow for such buybacks; just need an ordinary resolution to approve the buy-back contract.
 
 ### Employees' Share Scheme
 
-```ad-statute
-title: s 720A(1) - Reduced requirements for payment out of capital for purchase of own shares for the purposes of or pursuant to an employees' share scheme
-Section 713(1) does not apply to the purchase out of capital by a private company of its own shares for the purposes of or pursuant to an employees' share scheme when approved by special resolution supported by a solvency statement.
-```
+> [!statute] s 720A(1) - Reduced requirements for payment out of capital for purchase of own shares for the purposes of or pursuant to an employees' share scheme
+> Section 713(1) does not apply to the purchase out of capital by a private company of its own shares for the purposes of or pursuant to an employees' share scheme when approved by special resolution supported by a solvency statement.
 
 ### Reduction of Capital
 
@@ -700,9 +680,8 @@ BM2:
 - Register of members/ PSC register altered
 - Share certificates dealt with.
 
-```ad-important
-Reduction of share capital will take place on registration of these documents (s 644(4) and 641(5)). 
-```
+> [!important]
+> Reduction of share capital will take place on registration of these documents (s 644(4) and 641(5)). 
 
 ### Shares Bought Back
 
@@ -728,14 +707,13 @@ For a buyback out of capital, buyback of a small or buyback financed by the fres
 - The company should send the new shareholder a new share certificate in their name within **2 months**, and should also ensure that their name is entered on the register of members within the same time period (s 771).
 - Form CS01: notification of the change in composition in membership of the company.
 
-```ad-action
-1. Give share certificate and transfer form to transferee.
-2. Buyer pays stamp duty (no stamp duty on a gift).
-3. Apply to company for registration.
-4. Board consider whether to refuse registration (if the articles give them this power).
-5. Board resolve to issue and seal new share certificate (if company has seal).
-6. Update register of members.
-```
+> [!action]
+> 1. Give share certificate and transfer form to transferee.
+> 2. Buyer pays stamp duty (no stamp duty on a gift).
+> 3. Apply to company for registration.
+> 4. Board consider whether to refuse registration (if the articles give them this power).
+> 5. Board resolve to issue and seal new share certificate (if company has seal).
+> 6. Update register of members.
 
 ### Restrictions on Transfer
 
@@ -754,10 +732,8 @@ For a buyback out of capital, buyback of a small or buyback financed by the fres
 
 ## Transmission of Shares
 
-```ad-defn
-title: Transmission
-Automatic process by which shares passing to a shareholder's PRs upon death, or to their trustee in bankruptcy upon bankruptcy. 
-```
+> [!defn] Transmission
+> Automatic process by which shares passing to a shareholder's PRs upon death, or to their trustee in bankruptcy upon bankruptcy. 
 
 The PRs or trustee are entitled to any dividend declared, but cannot exercise the votes attached to the shares (MA 27).
 
@@ -772,11 +748,9 @@ Similar for a trustee in bankruptcy, who must produce the court order for their 
 
 ## Serious Loss of Capital
 
-```ad-statute
-title: s 656 - Public companies: duty of directors to call meeting on serious loss of capital
-(1) Where the net assets of a public company are half or less of its called-up share capital, the directors must call a general meeting of the company to consider whether any, and if so what, steps should be taken to deal with the situation.
-
-(2) They must do so not later than 28 days from the earliest day on which that fact is known to a director of the company.
-
-(3) The meeting must be convened for a date not later than 56 days from that day.
-```
+> [!statute] s 656 - Public companies: duty of directors to call meeting on serious loss of capital
+> (1) Where the net assets of a public company are half or less of its called-up share capital, the directors must call a general meeting of the company to consider whether any, and if so what, steps should be taken to deal with the situation.
+> 
+> (2) They must do so not later than 28 days from the earliest day on which that fact is known to a director of the company.
+> 
+> (3) The meeting must be convened for a date not later than 56 days from that day.

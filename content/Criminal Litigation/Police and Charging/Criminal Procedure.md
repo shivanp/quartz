@@ -79,54 +79,48 @@ April 2005 – procedural rules for criminal court consolidated into the CrimPR,
 
 ### Overriding Objective
 
-```ad-statute
-title: r 1.1 Criminal Procedure Rules 2020 - The overriding objective
-
-(1) The overriding objective of this procedural code is that criminal cases be dealt with justly.
-
-(2) Dealing with a criminal case justly includes―
-- (a) acquitting the innocent and convicting the guilty;
-- (b) dealing with the prosecution and the defence fairly;
-- (c) recognising the rights of a defendant, particularly those under Article 6 of the European Convention on Human Rights;
-- (d) respecting the interests of witnesses, victims and jurors and keeping them informed of the progress of the case;
-- (e) dealing with the case efficiently and expeditiously;
-- (f) ensuring that appropriate information is available to the court when bail and sentence are considered; and
-- (g) dealing with the case in ways that take into account―
-	- (i) the gravity of the offence alleged,
-	- (ii) the complexity of what is in issue,
-	- (iii) the severity of the consequences for the defendant and others affected, and
-	- (iv) the needs of other cases. 
-```
+> [!statute] r 1.1 Criminal Procedure Rules 2020 - The overriding objective
+> 
+> (1) The overriding objective of this procedural code is that criminal cases be dealt with justly.
+> 
+> (2) Dealing with a criminal case justly includes―
+> - (a) acquitting the innocent and convicting the guilty;
+> - (b) dealing with the prosecution and the defence fairly;
+> - (c) recognising the rights of a defendant, particularly those under Article 6 of the European Convention on Human Rights;
+> - (d) respecting the interests of witnesses, victims and jurors and keeping them informed of the progress of the case;
+> - (e) dealing with the case efficiently and expeditiously;
+> - (f) ensuring that appropriate information is available to the court when bail and sentence are considered; and
+> - (g) dealing with the case in ways that take into account―
+> 	- (i) the gravity of the offence alleged,
+> 	- (ii) the complexity of what is in issue,
+> 	- (iii) the severity of the consequences for the defendant and others affected, and
+> 	- (iv) the needs of other cases. 
 
 ### Duty of Participants
 
-```ad-statute
-title: r 1.2 CrimPR - The duty of the participants in a criminal case
-(1) Each participant, in the conduct of each case, must―
-- (a) prepare and conduct the case in accordance with the overriding objective;
-- (b) comply with these Rules, practice directions and directions made by the court; and
-- (c) at once inform the court and all parties of any significant failure (whether or not that participant is responsible for that failure) to take any procedural step required by these Rules, any practice direction or any direction of the court. A failure is significant if it might hinder the court in furthering the overriding objective.
-
-(2) Anyone involved in any way with a criminal case is a participant in its conduct for the purposes of this rule.
-
-```
+> [!statute] r 1.2 CrimPR - The duty of the participants in a criminal case
+> (1) Each participant, in the conduct of each case, must―
+> - (a) prepare and conduct the case in accordance with the overriding objective;
+> - (b) comply with these Rules, practice directions and directions made by the court; and
+> - (c) at once inform the court and all parties of any significant failure (whether or not that participant is responsible for that failure) to take any procedural step required by these Rules, any practice direction or any direction of the court. A failure is significant if it might hinder the court in furthering the overriding objective.
+> 
+> (2) Anyone involved in any way with a criminal case is a participant in its conduct for the purposes of this rule.
+> 
 
 ### Case Management Powers
 
 The court must further the overriding objective (r 3.2(1)) by actively managing the case (r 3.2(1)).
 
-```ad-statute
-title: r 3.2(2)
-Active case management includes―
-- (a) the early identification of the real issues;
-- (b) the early identification of the needs of witnesses;
-- (c) achieving certainty as to what must be done, by whom, and when, in particular by the early setting of a timetable for the progress of the case;
-- (d) monitoring the progress of the case and compliance with directions;
-- (e) ensuring that evidence, whether disputed or not, is presented in the shortest and clearest way;
-- (f) discouraging delay, dealing with as many aspects of the case as possible on the same occasion, and avoiding unnecessary hearings;
-- (g) encouraging the participants to co-operate in the progression of the case; and
-- (h) making use of technology.
-```
+> [!statute] r 3.2(2)
+> Active case management includes―
+> - (a) the early identification of the real issues;
+> - (b) the early identification of the needs of witnesses;
+> - (c) achieving certainty as to what must be done, by whom, and when, in particular by the early setting of a timetable for the progress of the case;
+> - (d) monitoring the progress of the case and compliance with directions;
+> - (e) ensuring that evidence, whether disputed or not, is presented in the shortest and clearest way;
+> - (f) discouraging delay, dealing with as many aspects of the case as possible on the same occasion, and avoiding unnecessary hearings;
+> - (g) encouraging the participants to co-operate in the progression of the case; and
+> - (h) making use of technology.
 
 Parties must actively assist the court in its duty to manage the case (r 3.3), since failure to do so is inconsistent with the overriding objective ([[R (on the application of DPP) v Chorley [2006] EWHC 1795]]).
 
@@ -134,17 +128,15 @@ Parties must actively assist the court in its duty to manage the case (r 3.3), s
 - The court will nominate a “case progression officer”, ensuring the parties comply and keeping the court informed of anything affecting the case.
 - The court is given the power to make any direction or take any step actively to manage a case, unless such a direction or step would contravene legislation (r 3.5).
 
-```ad-statute
-title: r 3.8 - Case preparation and progression
-(1) At every hearing, if a case cannot be concluded there and then the court must give directions so that it can be concluded at the next hearing or as soon as possible after that.
-
-(2) At every hearing the court must, where relevant―
-- (a) if the defendant is absent, decide whether to proceed nonetheless;
-- (b) take the defendant’s plea (unless already done) or if no plea can be taken then find out whether the defendant is likely to plead guilty or not guilty;
-- (c) set, follow or revise a timetable for the progress of the case, which may include a timetable for any hearing including the trial or (in the Crown Court) the appeal;
-- (d) in giving directions, ensure continuity in relation to the court and to the parties’ representatives where that is appropriate and practicable; and
-- (e) where a direction has not been complied with, find out why, identify who was responsible, and take appropriate action. 
-```
+> [!statute] r 3.8 - Case preparation and progression
+> (1) At every hearing, if a case cannot be concluded there and then the court must give directions so that it can be concluded at the next hearing or as soon as possible after that.
+> 
+> (2) At every hearing the court must, where relevant―
+> - (a) if the defendant is absent, decide whether to proceed nonetheless;
+> - (b) take the defendant’s plea (unless already done) or if no plea can be taken then find out whether the defendant is likely to plead guilty or not guilty;
+> - (c) set, follow or revise a timetable for the progress of the case, which may include a timetable for any hearing including the trial or (in the Crown Court) the appeal;
+> - (d) in giving directions, ensure continuity in relation to the court and to the parties’ representatives where that is appropriate and practicable; and
+> - (e) where a direction has not been complied with, find out why, identify who was responsible, and take appropriate action. 
 
 ## Professional Conduct
 
@@ -153,9 +145,8 @@ title: r 3.8 - Case preparation and progression
 - All solicitors in criminal proceedings have a duty not to mislead the court (para 1.4 SRA Code)
 - This overrides Principle 7 – the duty to act in the client's best interests.
 
-```ad-conduct
-If a client tells you they intend to give false evidence at court, the solicitor must tell the client that the solicitor will need to be withdrawn from acting for the client unless the client agrees not to do this. 
-```
+> [!conduct]
+> If a client tells you they intend to give false evidence at court, the solicitor must tell the client that the solicitor will need to be withdrawn from acting for the client unless the client agrees not to do this. 
 
 ### Prosecution
 

@@ -52,18 +52,16 @@ See [[omissions]].
 
 ## Identifying Actus Reus
 
-```ad-example
-The Criminal Damage Act 1971, s 1(1) states:
+> [!example]
+> The Criminal Damage Act 1971, s 1(1) states:
+> 
+> > 'A person who without lawful excuse destroys or damages any property belonging to another intending to destroy or damage any such property or being reckless as to whether any such property would be destroyed or damaged shall be guilty of an offence.'
+> 
+> Here the actus reus is damage or destruction of property belonging to another without lawful excuse.
 
-> 'A person who without lawful excuse destroys or damages any property belonging to another intending to destroy or damage any such property or being reckless as to whether any such property would be destroyed or damaged shall be guilty of an offence.'
-
-Here the actus reus is damage or destruction of property belonging to another without lawful excuse.
-```
-
-```ad-example
-The Theft Act 1968, s 1(1) states:
-
-> ‘A person is guilty of theft if he dishonestly appropriates property belonging to another with the intention of permanently depriving the other of it.’
-
-Here the actus reus is appropriation of property belonging to another.
-```
+> [!example]
+> The Theft Act 1968, s 1(1) states:
+> 
+> > ‘A person is guilty of theft if he dishonestly appropriates property belonging to another with the intention of permanently depriving the other of it.’
+> 
+> Here the actus reus is appropriation of property belonging to another.

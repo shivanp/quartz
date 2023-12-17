@@ -9,17 +9,15 @@ date modified: Sunday, December 10th 2023, 12:40:25 am
 
 ## Offence
 
-```ad-statute
-title: [s 1(2) CDA 1971](https://www.legislation.gov.uk/ukpga/1971/48/section/1)
-
-'A person who without lawful excuse destroys of damages any property, whether belonging to himself or another—
-
-(a) intending to destroy or damage any property or being reckless as whether any property would be destroyed or damaged; and
-
-(b) intending by the destruction or damage to endanger life of another or being reckless as to whether the life of another would be thereby endangered;
-
-shall be guilty of an offence.'
-```
+> [!statute] [s 1(2) CDA 1971](https://www.legislation.gov.uk/ukpga/1971/48/section/1)
+> 
+> 'A person who without lawful excuse destroys of damages any property, whether belonging to himself or another—
+> 
+> (a) intending to destroy or damage any property or being reckless as whether any property would be destroyed or damaged; and
+> 
+> (b) intending by the destruction or damage to endanger life of another or being reckless as to whether the life of another would be thereby endangered;
+> 
+> shall be guilty of an offence.'
 
 | Component  | Aggravated criminal damage/ arson               |
 | ---------- | ----------------------------------------------- |

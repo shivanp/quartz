@@ -188,18 +188,15 @@ If the loan is terminated and outstanding amounts are immediately repayable, def
 
 Some events of default include a **specified period** during which the borrower is permitted to **remedy** the event or apply for a **waiver**. During the grace period, the borrower is prevented from borrowing new money (“draw stop”).
 
-```ad-defn
-An event of default with an in-built grace period is sometimes referred to as a ‘potential event of default’.
-```
+> [!defn]
+> An event of default with an in-built grace period is sometimes referred to as a ‘potential event of default’.
 
-```ad-note
-title: Variation
-LMA facilities define “default” to mean
-
-> an Event of Default or any event or circumstance specified in Clause [ ] (Events of Default) which would (with the expiry of a grace period, the giving of notice, the making of any determination under the Finance Documents or any combination of any of the foregoing) be an Event of Default.
-
-The equivalent of a ‘potential event of default’ is then described as ‘a Default other than an Event of Default’.
-```
+> [!note] Variation
+> LMA facilities define “default” to mean
+> 
+> > an Event of Default or any event or circumstance specified in Clause [ ] (Events of Default) which would (with the expiry of a grace period, the giving of notice, the making of any determination under the Finance Documents or any combination of any of the foregoing) be an Event of Default.
+> 
+> The equivalent of a ‘potential event of default’ is then described as ‘a Default other than an Event of Default’.
 
 Borrowers must undertake to tell the banks as soon as they are aware of a ‘potential event of default’, but
 

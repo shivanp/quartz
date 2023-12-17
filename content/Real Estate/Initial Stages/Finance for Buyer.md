@@ -31,22 +31,19 @@ See [[Professional Conduct and Regulation 1#Financial Services Regulation]].
 
 unless you are arranging the execution of a mortgage chosen independently by the client or on the advice of an authorised person. General advice as to what type of loan to take out will not require authorisation as it will not amount to a ‘specified activity’.
 
-```ad-defn
-title: Regulated Mortgage Contract
-A regulated mortgage contract is a contract which meets the following conditions at the time it is entered into:
-1. the borrower is an individual or a trustee;
-2. the lender takes a first legal charge over property in the UK; and
-3. at least 40% of the property is occupied by the borrower or a member of his immediate family, or is intended for their occupation.
-```
+> [!defn] Regulated Mortgage Contract
+> A regulated mortgage contract is a contract which meets the following conditions at the time it is entered into:
+> 1. the borrower is an individual or a trustee;
+> 2. the lender takes a first legal charge over property in the UK; and
+> 3. at least 40% of the property is occupied by the borrower or a member of his immediate family, or is intended for their occupation.
 
 If a specified activity is involved, and you are not authorised, need to rely on the 'professional firms exemption'. Allows firms operating under it to arrange or advise on a
 
 regulated mortgage contract, subject to certain conditions, even though they are not authorised by the regulators.
 
-```ad-note
-The ability to ‘advise’ under the
-professional firms' exemption does not include recommending a client to enter into a regulated mortgage contract, except where that advice consists of an endorsement of a recommendation given to the client by an authorised person.
-```
+> [!note]
+> The ability to ‘advise’ under the
+> professional firms' exemption does not include recommending a client to enter into a regulated mortgage contract, except where that advice consists of an endorsement of a recommendation given to the client by an authorised person.
 
 ## Sources of Finance
 

@@ -79,12 +79,10 @@ The safest option is to have the claimant sign the statement of truth.
 
 PD 22 para 3: solicitor can sign, but the belief refers to the belief of the claimant, not the solicitor. The client must have been told of the consequences of the Statement of Truth being false.
 
-```ad-question
-title: What if the claimant is a company?
-
-
-Company cannot believe! Director believes, they sign in their name. "I am duly authorised by the claimant to sign this statement" - not required but usually added for clarity. 
-```
+> [!question] What if the claimant is a company?
+> 
+> 
+> Company cannot believe! Director believes, they sign in their name. "I am duly authorised by the claimant to sign this statement" - not required but usually added for clarity. 
 
 If no particulars of claim are made, technically no need to sign statement of truth… but do it anyway. Remember to include a file reference on the personal details page 4.
 

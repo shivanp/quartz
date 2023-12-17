@@ -11,13 +11,11 @@ date modified: Sunday, December 10th 2023, 12:39:10 am
 
 If it is found that the characteristics of a lease are not present, looking at the transaction objectively, then the arrangement can only be a licence.
 
-```ad-tip
-title: Requirements
-For a lease to exist, rather than a licence, there needs to be:
-1. Certainty of term
-2. Exclusive possession
-3. The correct formalities used to create the lease
-```
+> [!tip] Requirements
+> For a lease to exist, rather than a licence, there needs to be:
+> 1. Certainty of term
+> 2. Exclusive possession
+> 3. The correct formalities used to create the lease
 
 - Certainty of term means that the tenancy must be granted for a certain duration. This means you need to know when the arrangement will end.
 	- If certainty of term is not present in the arrangement, no lease will be found.
@@ -38,9 +36,8 @@ This can be shown either with a fixed or periodic term.
 	- An **express** periodic tenancy is where there is a written agreement documenting the agreement.
 	- An **implied** periodic tenancy is where there is nothing set out in writing, but the certain term arises by looking objectively at all relevant circumstances including payment and acceptance of rent on a periodic basis.
 
-```ad-example
-Monthly payments of rent (without agreement on a fixed term from the outset) may create an implied monthly periodic tenancy.
-```
+> [!example]
+> Monthly payments of rent (without agreement on a fixed term from the outset) may create an implied monthly periodic tenancy.
 
 See also [[Prudential Assurance Co Ltd v London Residuary Body [1992] 2 A.C. 386]].
 
@@ -50,15 +47,13 @@ e.g., if the tenant agrees to pay £10,000 a year by four quarterly payments, th
 
 ## Exclusive Possession
 
-```ad-defn
-Exclusive possession means the right to exclude all others from the property, including the landlord.
-```
+> [!defn]
+> Exclusive possession means the right to exclude all others from the property, including the landlord.
 
 Demonstrating that exclusive possession has been granted is often difficult. Historically, tenants of residential leases were granted greater protection and landlords were keen to avoid granting leases. There are many cases where the court considered the nature of an arrangement, looking beyond the label given to the agreement by the parties (headline case: [[Street v Mountford [1985] AC 809]]).
 
-```ad-info
-Since the introduction of Assured Shorthold Tenancies (ASTs), the distinction between  a lease and licence is of far less importance in a residential context.
-```
+> [!info]
+> Since the introduction of Assured Shorthold Tenancies (ASTs), the distinction between  a lease and licence is of far less importance in a residential context.
 
 Whether exclusive possession exists is a question of fact in each case: the substance of the agreement has to be examined. The courts will look at the reality of a situation. So even if a clause appears to defeat exclusion possession but has been inserted into a lease only to make what would otherwise be a lease appear like a licence, it will be thrown out as a sham.
 
@@ -156,13 +151,12 @@ The types of arrangement which fall within the ambit of this exception are:
 
 Note that periodic tenancies, whether express or implied, will only fall within the ambit of [LPA 1925, s 54(2)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/54) if each individual period of the tenancy is for **three years or less**, which is likely to be the case.
 
-```ad-example
-**Short fixed term leases:** A tenant rents a flat for an agreed fixed term of 2 years. This arrangement does not need to be in writing.
-
-**Express periodic tenancies:** A tenant rents a flat on a rolling monthly basis paying an agreed monthly rent. There is a written agreement documenting the agreement. In this situation, the written agreement does not need to comply with any formalities.
-
-**Implied periodic tenancies:** A tenant is in occupation of premises paying an agreed rent on a monthly basis, but nothing documents this arrangement. In this situation, a periodic tenancy may be implied. It will still be a legal lease because no formalities are required to document the arrangement.
-```
+> [!example]
+> **Short fixed term leases:** A tenant rents a flat for an agreed fixed term of 2 years. This arrangement does not need to be in writing.
+> 
+> **Express periodic tenancies:** A tenant rents a flat on a rolling monthly basis paying an agreed monthly rent. There is a written agreement documenting the agreement. In this situation, the written agreement does not need to comply with any formalities.
+> 
+> **Implied periodic tenancies:** A tenant is in occupation of premises paying an agreed rent on a monthly basis, but nothing documents this arrangement. In this situation, a periodic tenancy may be implied. It will still be a legal lease because no formalities are required to document the arrangement.
 
 ### Equitable Leases
 
@@ -173,9 +167,8 @@ The courts will recognise the tenant has having an equitable interest in the lan
 1. There is a document that complies with [LP(MP)A 1989, s 2](https://www.legislation.gov.uk/ukpga/1989/34/section/2) - signed contract in writing and incorporating all express terms.
 2. The remedy of specific performance is available.
 
-```ad-important
-Where there is a conflict between the common law and equity, equity will prevail ([[Walsh v Lonsdale (1882)]])
-```
+> [!important]
+> Where there is a conflict between the common law and equity, equity will prevail ([[Walsh v Lonsdale (1882)]])
 
 ### Summary
 

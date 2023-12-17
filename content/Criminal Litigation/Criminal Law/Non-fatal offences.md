@@ -33,10 +33,8 @@ Criminal liability for assault:
 | Mens rea                   | intentionally or recklessly causing the victim to apprehend immediate and unlawful personal violence |
 | Absence of a valid defence | self-defence, intoxication or consent.                                                                                                    |
 
-```ad-defn
-title: Assault
-Intentionally or recklessly causing another person to apprehend immediate and unlawful personal violence ([[Fagan v Metropolitan Police Commissioner [1969] 1 QB 439]]). The House of Lords confirmed this definition of the offence in the case of [[R v Ireland; Burstow [1998] AC 147]].
-```
+> [!defn] Assault
+> Intentionally or recklessly causing another person to apprehend immediate and unlawful personal violence ([[Fagan v Metropolitan Police Commissioner [1969] 1 QB 439]]). The House of Lords confirmed this definition of the offence in the case of [[R v Ireland; Burstow [1998] AC 147]].
 
 ### Actus Reus
 
@@ -82,12 +80,10 @@ The defendant touches the victim in an unwanted fashion.
 - The sentence is contained in s 39 Criminal Justice Act 1988.
 - Maximum penalty of 6 months in prison and/ or £5,000 fine.
 
-```ad-defn
-title: Battery
-A battery is the actual intended use of unlawful force to another person without consent, [[Fagan v Metropolitan Police Commissioner [1969] 1 QB 439]] The House of Lords confirmed this definition in the case of [[R v Ireland; Burstow [1998] AC 147]] and further confirmed that it includes the reckless application of force.
-
-So battery is an act by which a person intentionally or recklessly applies unlawful force on another.
-```
+> [!defn] Battery
+> A battery is the actual intended use of unlawful force to another person without consent, [[Fagan v Metropolitan Police Commissioner [1969] 1 QB 439]] The House of Lords confirmed this definition in the case of [[R v Ireland; Burstow [1998] AC 147]] and further confirmed that it includes the reckless application of force.
+> 
+> So battery is an act by which a person intentionally or recklessly applies unlawful force on another.
 
 | Element                    | Battery                                            |
 | -------------------------- | -------------------------------------------------- |
@@ -246,21 +242,19 @@ Again, note that the OAPA 1861, s 18 creates two offences:
 
 The mens rea element is the key distinguishing feature between the OAPA 1861, ss 18 and 20. Under the OAPA 1861, s 20 it is enough to intend or foresee (i.e. be reckless as to) some harm, however slight. For the OAPA 1861, s 18 the defendant must actually intend to cause harm which amounts in law to grievous bodily harm (serious harm). Recklessness is not enough.
 
-```ad-important
-Where the actus reus is a wound, the mens rea is still intention to cause GBH. Intention to wound is not enough.
-```
+> [!important]
+> Where the actus reus is a wound, the mens rea is still intention to cause GBH. Intention to wound is not enough.
 
 Intention can be direct (aim, purpose, R v Moloney) or oblique, [[R v Woollin]]. Juries are not entitled to find s 18 by oblique intent unless they feel sure:
 
 - serious injury was a virtual certainty as a result of the defendant’s action (objective element); and
 - the defendant appreciated that (subjective element).
 
-```ad-example
-- GBH
-	- Permanent loss of sensory function
-	- Permanent disability
-	- Broken bones
-	- Fractured skull
-	- Substantial blood loss
-- Wound- breaking both layers of skin, the dermis and epidermis
-```
+> [!example]
+> - GBH
+> 	- Permanent loss of sensory function
+> 	- Permanent disability
+> 	- Broken bones
+> 	- Fractured skull
+> 	- Substantial blood loss
+> - Wound- breaking both layers of skin, the dermis and epidermis

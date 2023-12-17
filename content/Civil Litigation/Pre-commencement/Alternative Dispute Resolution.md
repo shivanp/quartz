@@ -44,10 +44,8 @@ Strictly speaking, negotiation is a form of ADR. It is both voluntary and non-bi
 
 The CPR 1998 specifically recognise the advantages of ADR.
 
-```ad-statute
-title: Rule 1.4(2)(e)
-The court may further the overriding objective of dealing with cases justly by encouraging the parties to use an alternative dispute resolution procedure if the court considers that appropriate and facilitating the use of such procedure.
-```
+> [!statute] Rule 1.4(2)(e)
+> The court may further the overriding objective of dealing with cases justly by encouraging the parties to use an alternative dispute resolution procedure if the court considers that appropriate and facilitating the use of such procedure.
 
 Arbitration and ADR procedures are confidential. Nothing said can be referred to in any later court proceedings unless all parties agree to waive confidentiality.
 
@@ -147,15 +145,11 @@ Allows the parties to instruct their chosen neutral to make a preliminary assess
 
 submit written case summaries and supporting documents. The evaluator then makes a recommendation. This very often helps the parties to negotiate a settlement (or move to another ADR method), avoiding the expense of litigation.
 
-```ad-statute
-title: Rule 3.1(2)(m) CPR 1998
-The court may take any step or make any order for the purpose of managing the case and furthering the overriding objective, including hearing an early neutral evaluation (ENE) with the aim of helping the parties to settle the case.
-```
+> [!statute] Rule 3.1(2)(m) CPR 1998
+> The court may take any step or make any order for the purpose of managing the case and furthering the overriding objective, including hearing an early neutral evaluation (ENE) with the aim of helping the parties to settle the case.
 
-```ad-question
-title: Can the court order that a judicial appraisal take place by way of ENE against the wishes of the parties?
-Yes, see [[Lomax v Lomax [2019] EWCA Civ 1467]], because it is part of the court process which can assist with the fair and sensible resolution of a case.
-```
+> [!question] Can the court order that a judicial appraisal take place by way of ENE against the wishes of the parties?
+> Yes, see [[Lomax v Lomax [2019] EWCA Civ 1467]], because it is part of the court process which can assist with the fair and sensible resolution of a case.
 
 The outcome of Judicial ENE is normally 'without prejudice' unless privilege is mutually waived, and is not normally binding unless the parties agree.
 

@@ -155,9 +155,8 @@ See [[Common Title Problems]].
 
 If the buyer’s solicitor’s investigation of title reveals any problem then the buyer should raise a ‘requisition on title’ of the seller’s solicitor.
 
-```ad-defn
-A requisition is a question asked about the problem which requires a remedy from the seller.
-```
+> [!defn]
+> A requisition is a question asked about the problem which requires a remedy from the seller.
 
 If the seller ultimately cannot show good title then the buyer may consider whether defective title indemnity insurance is available (perhaps at the seller’s cost) in order to protect him should he decide to proceed and accept the defect.
 
@@ -189,9 +188,8 @@ In registered land, a restriction may be entered on the proprietorship register 
 
 ### Conveyance by Trustees to Themselves
 
-```ad-action
-In the case of a disposal by trustees or personal representatives to one of themselves, enquiry must be made into the circumstances of the transaction because, on the face of it, such a disposal is in breach of trust and is voidable by the beneficiaries.
-```
+> [!action]
+> In the case of a disposal by trustees or personal representatives to one of themselves, enquiry must be made into the circumstances of the transaction because, on the face of it, such a disposal is in breach of trust and is voidable by the beneficiaries.
 
 #### Exceptions
 
@@ -210,9 +208,8 @@ Personal representatives enjoy the same wide powers as trustees of land.
 | $1$                                | Has all the powers of two or more personal representatives, and consequently (unlike a sole individual trustee) can convey the land on her own and give a valid receipt for the proceeds of sale. |
 | $>1$                               | All personal representatives must join in the assent or conveyance.                                                                                                                                                                                                   |
 
-```ad-action
-A buyer must therefore call for the grant to see who has or have been appointed as personal representative(s), and must insist that all the personal representatives named in the grant join in the assent or conveyance, or call for evidence of the death of any personal representative who will not be a party to it.
-```
+> [!action]
+> A buyer must therefore call for the grant to see who has or have been appointed as personal representative(s), and must insist that all the personal representatives named in the grant join in the assent or conveyance, or call for evidence of the death of any personal representative who will not be a party to it.
 
 ### Registering as Proprietors
 
@@ -276,9 +273,8 @@ The power becomes exercisable by the lender only as provided for in the mortgage
 
 ### Powers of Attorney
 
-```ad-defn
-A power of attorney is a deed under which the donor appoints someone (the attorney or donee) to carry out certain actions on their behalf.
-```
+> [!defn]
+> A power of attorney is a deed under which the donor appoints someone (the attorney or donee) to carry out certain actions on their behalf.
 
 ### Types of Power
 
@@ -311,57 +307,47 @@ Buyer entitled to a certified copy of the power of attorney affecting the title�
 
 A person who deals with an attorney holding these types of powers of attorney will take good title, provided he acquires in good faith without knowledge of the revocation of the power:
 
-```ad-statute
-title: s 5(2) Powers of Attorney Act 1971
-Where a power of attorney has been revoked and a person, without knowledge of the revocation, deals with the donee of the power, the transaction between them shall, in favour of that person, be as valid as if the power had then been in existence.
-```
+> [!statute] s 5(2) Powers of Attorney Act 1971
+> Where a power of attorney has been revoked and a person, without knowledge of the revocation, deals with the donee of the power, the transaction between them shall, in favour of that person, be as valid as if the power had then been in existence.
 
 Death revokes such a power.
 
-```ad-statute
-title: s 5(4) Powers of Attorney Act 1971
-Where the interest of a purchaser depends on whether a transaction between the donee of a power of attorney and another person was valid by virtue of subsection (2) of this section, it shall be conclusively presumed in favour of the purchaser that that person did not at the material time know of the revocation of the power if—
-- (a) the transaction between that person and the donee was completed within twelve months of the date on which the power came into operation; or
-- (b) that person makes a statutory declaration, before or within three months after the completion of the purchase, that he did not at the material time know of the revocation of the power.
-```
+> [!statute] s 5(4) Powers of Attorney Act 1971
+> Where the interest of a purchaser depends on whether a transaction between the donee of a power of attorney and another person was valid by virtue of subsection (2) of this section, it shall be conclusively presumed in favour of the purchaser that that person did not at the material time know of the revocation of the power if—
+> - (a) the transaction between that person and the donee was completed within twelve months of the date on which the power came into operation; or
+> - (b) that person makes a statutory declaration, before or within three months after the completion of the purchase, that he did not at the material time know of the revocation of the power.
 
 #### Enduring Powers
 
-```ad-defn
-An enduring power of attorney is one made under the Enduring Powers of Attorney Act 1985. This Act has been repealed and enduring powers are now governed by provisions contained in Sch 4 to the Mental Capacity Act 2005. 
-```
+> [!defn]
+> An enduring power of attorney is one made under the Enduring Powers of Attorney Act 1985. This Act has been repealed and enduring powers are now governed by provisions contained in Sch 4 to the Mental Capacity Act 2005. 
 
 Until the incapacity of the donor, the power takes effect as an ordinary power and the Mental Capacity Act contains provisions to protect buyers which are similar to those outlined above. On the incapacity of the donor, the attorney’s authority to act becomes limited to such acts as are necessary for the protection of the donor and his estate until such time as the power is registered with the Office of the Public Guardian.
 
-```ad-action
-Where a person is buying from an attorney who holds an enduring power, he should make a search at the Office of the Public Guardian to ensure that no application for registration of the power is pending. If an application is pending, this would suggest mental incapacity on the part of the donor.
-```
+> [!action]
+> Where a person is buying from an attorney who holds an enduring power, he should make a search at the Office of the Public Guardian to ensure that no application for registration of the power is pending. If an application is pending, this would suggest mental incapacity on the part of the donor.
 
 #### Lasting Powers
 
-```ad-defn
-The Mental Capacity Act 2005 (in force 1 October 2007) replaced enduring powers with a new form of power called a lasting power. Lasting powers give an attorney power to deal with the donor’s personal welfare and/or his property and affairs, including authority to deal with such matters when the donor no longer has capacity.
-```
+> [!defn]
+> The Mental Capacity Act 2005 (in force 1 October 2007) replaced enduring powers with a new form of power called a lasting power. Lasting powers give an attorney power to deal with the donor’s personal welfare and/or his property and affairs, including authority to deal with such matters when the donor no longer has capacity.
 
 The lasting power is required to be in a prescribed form but, unlike enduring powers, comes into effect only when registered with the Office of the Public Guardian.
 
-```ad-action
-Where the buyer is buying from an attorney who holds a lasting power, he should obtain an office copy of the power from the Office of the Public Guardian as evidence that the lasting power is registered with the Office of the Public Guardian and to check that the attorney is acting within the scope of his authority.
-
-The buyer from the attorney will be protected unless he knew the power was invalid (by s 14(3) of the Mental Capacity Act 2005) or was aware of circumstances which would have terminated the attorney’s authority to act (by s 5(2) of the Powers of Attorney Act 1971).
-```
+> [!action]
+> Where the buyer is buying from an attorney who holds a lasting power, he should obtain an office copy of the power from the Office of the Public Guardian as evidence that the lasting power is registered with the Office of the Public Guardian and to check that the attorney is acting within the scope of his authority.
+> 
+> The buyer from the attorney will be protected unless he knew the power was invalid (by s 14(3) of the Mental Capacity Act 2005) or was aware of circumstances which would have terminated the attorney’s authority to act (by s 5(2) of the Powers of Attorney Act 1971).
 
 #### Trustees
 
-```ad-guid
-If one of two co-owners wishes to appoint an attorney to execute a deed selling the land, the co-trustee cannot be appointed, as such co-trustee will not be able to give a valid receipt. In such a case, a stranger will need to be appointed, and this rule cannot be evaded by using an enduring power.
-```
+> [!guid]
+> If one of two co-owners wishes to appoint an attorney to execute a deed selling the land, the co-trustee cannot be appointed, as such co-trustee will not be able to give a valid receipt. In such a case, a stranger will need to be appointed, and this rule cannot be evaded by using an enduring power.
 
 ## Transactions at an Undervalue
 
-```ad-warning
-Where in the chain of title there is a transaction for no consideration or at an undervalue, care needs to be exercised, since the transaction could be set aside under the Insolvency Act 1986.
-```
+> [!warning]
+> Where in the chain of title there is a transaction for no consideration or at an undervalue, care needs to be exercised, since the transaction could be set aside under the Insolvency Act 1986.
 
 | Party      | Rule                                                                                                                                                                                                     | Statute       |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
@@ -370,24 +356,21 @@ Where in the chain of title there is a transaction for no consideration or at an
 
 ### Buyer Defences
 
-```ad-note
-The basic principle is that a subsequent buyer is protected, provided that he has acquired in good faith and for value from a person other than the insolvent company or bankrupt individual (Insolvency Act 1986, s 241(2)(a) and s 342(2)(a)).
-```
+> [!note]
+> The basic principle is that a subsequent buyer is protected, provided that he has acquired in good faith and for value from a person other than the insolvent company or bankrupt individual (Insolvency Act 1986, s 241(2)(a) and s 342(2)(a)).
 
 See [[Business Law and Practice/Insolvency/Voidable Transactions#Sanctions]] above for details on presumption of good faith. Remember, [[connected person]] includes directors, shadow directors and associates. [[Associate]] defined widely in s 435 IA 1986 to include a person’s spouse or ex-spouse, members of his family and his spouse’s family, his partner and his partner’s family, and his employees.
 
-```ad-action
-- Registration of bankruptcy proceedings will amount to notice, so a buyer will need to make a bankruptcy search against the individual making the transaction at an undervalue not for the period of that person’s ownership, but for a period of five years from the date of the transaction at an undervalue.
-- In the case of companies, the relevant time is 2 years. 
-```
+> [!action]
+> - Registration of bankruptcy proceedings will amount to notice, so a buyer will need to make a bankruptcy search against the individual making the transaction at an undervalue not for the period of that person’s ownership, but for a period of five years from the date of the transaction at an undervalue.
+> - In the case of companies, the relevant time is 2 years. 
 
 ### Registered Land
 
 In the case of dispositions registered on or after 1 April 2000, the register includes details of the price paid by the proprietor.
 
-```ad-action
-If this appears to be nil or something of low monetary value, the provisions of the Insolvency Act 1986 should be borne in mind. 
-```
+> [!action]
+> If this appears to be nil or something of low monetary value, the provisions of the Insolvency Act 1986 should be borne in mind. 
 
 Where first registration is based on a transaction at an undervalue, a note will be added in the proprietorship register to the effect that the title is subject to the provisions of the Insolvency Act 1986.
 
@@ -409,9 +392,8 @@ The methods by which a freehold covenant can be brought to an end are discharge,
 
 Restrictive covenants, once validly granted, last forever. Over time, these can become obsolete and can unduly restrict the use of the servient land.
 
-```ad-example
-A covenant not to build on land might have benefitted the dominant tenement whilst that land was used for residential purposes, but no longer does if the dominant land is now a factory.
-```
+> [!example]
+> A covenant not to build on land might have benefitted the dominant tenement whilst that land was used for residential purposes, but no longer does if the dominant land is now a factory.
 
 There are various ways in which a covenant can be discharged or modified. Discharge if a covenant means that it is no longer valid.
 
@@ -433,33 +415,27 @@ To avoid this, the servient owner can apply to the [[Tribunals#Upper Tribunal]] 
 
 [Law of Property Act 1925, s 84(1)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/84) gives the Lands Chamber the power ‘wholly or partially to discharge or modify any… restriction’.
 
-```ad-warning
-This provision only applies to restrictive covenants.
-```
+> [!warning]
+> This provision only applies to restrictive covenants.
 
-```ad-statute
-title: [LPA 1925, s 84(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/84)
+> [!statute] [LPA 1925, s 84(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/84)
+> 
+> A servient owner may apply to the tribunal for a declaration to discharge or modify a covenant on the basis that the covenant has become obsolete due to changes in the character of the property or neighbourhood.
 
-A servient owner may apply to the tribunal for a declaration to discharge or modify a covenant on the basis that the covenant has become obsolete due to changes in the character of the property or neighbourhood.
-```
-
-```ad-example
-A covenant to use property only as a residence may be obsolete if the surrounding area is now business, retail of mixed use.
-```
+> [!example]
+> A covenant to use property only as a residence may be obsolete if the surrounding area is now business, retail of mixed use.
 
 [s 84(1)(aa)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/84) enables an application to be made on the basis that the covenant impedes reasonable use of the servient land. The applicant must show either that the covenant confers no practical value, or that it is contrary to public interest.
 
 The tribunal must be satisfied that financial compensation would be adequate for the dominant owner.
 
-```ad-example
-A covenant restricting the density of houses on a plot may confer no practical value on the dominant land if that land is itself densely developed.
-```
+> [!example]
+> A covenant restricting the density of houses on a plot may confer no practical value on the dominant land if that land is itself densely developed.
 
 S 84(1)(b) applies where the dominant owners have agreed, expressly or impliedly, to discharge.
 
-```ad-example
-An application here may be appropriate where the parties have expressly agreed a release in principle, or where the dominant owner has tolerated a long-term breach. In this instance, the tribunal will decide the level of compensation to be paid, thereby preventing the dominant owner holding the servient owner to ransom.
-```
+> [!example]
+> An application here may be appropriate where the parties have expressly agreed a release in principle, or where the dominant owner has tolerated a long-term breach. In this instance, the tribunal will decide the level of compensation to be paid, thereby preventing the dominant owner holding the servient owner to ransom.
 
 S 84(1)(c) enables an application to be made where discharge if a covenant will not 'injure' the dominant owners.
 
@@ -471,9 +447,8 @@ However, the tribunal has a balancing act to do: on the one hand it will be wary
 
 If a policy is issued, it is normally a single premium policy (a single sum is paid on the issue of the policy). The benefit of the policy may be passed on to successors in title. The buyer’s lender should be consulted about the proposed breach of covenant and his approval obtained to the terms of the insurance policy.
 
-```ad-danger
-In arranging or advising on such a policy, the solicitor is carrying out a ‘regulated activity’ for the purposes of the FSMA 2000. Ensure you fall within the professional firms exemption to avoid committing a criminal offence.
-```
+> [!danger]
+> In arranging or advising on such a policy, the solicitor is carrying out a ‘regulated activity’ for the purposes of the FSMA 2000. Ensure you fall within the professional firms exemption to avoid committing a criminal offence.
 
 ### Other Methods
 
@@ -586,9 +561,8 @@ Unfortunately, commonhold has not proved a popular way of holding land.
 
 ##### Restriction: S 40 LRA 2002
 
-```ad-note
-This is the most commonly used way of making the burden of positive covenants run on registered land.
-```
+> [!note]
+> This is the most commonly used way of making the burden of positive covenants run on registered land.
 
 A covenantee can put a restriction on the **proprietorship register of the burdened land**. This states that no transfer of the burdened land can be registered without the consent of the covenantee.
 
@@ -620,23 +594,20 @@ Under normal contractual principles, the benefit of a covenant can be expressly 
 
 Where there is no express assignment, the benefit of a covenant may pass to a successor covenantee if certain conditions are met. This involves the benefit automatically passing every time the land is transferred, as long as the conditions are met.
 
-```ad-test
-title: Implied assignment
-
-The conditions of implied assignment are set out in [[P&A Swift Investments Ltd v Combined English Stores Group plc [1989] AC 632]]:
-1. The covenant must touch and concern the land
-2. There must have been an intention that the benefit should run with the dominant land
-3. The original covenantee must have a legal estate in the dominant land
-4. The successor covenantee must hold a legal estate in the dominant land
-```
+> [!test] Implied assignment
+> 
+> The conditions of implied assignment are set out in [[P&A Swift Investments Ltd v Combined English Stores Group plc [1989] AC 632]]:
+> 1. The covenant must touch and concern the land
+> 2. There must have been an intention that the benefit should run with the dominant land
+> 3. The original covenantee must have a legal estate in the dominant land
+> 4. The successor covenantee must hold a legal estate in the dominant land
 
 #### The Covenant Must Touch and Concern the Land
 
 The covenant must benefit the dominant land itself, it must affect the nature, quality, use or value of the land. It must not be expressed to be personal and should only benefit the dominant owner for the time being, so that, if separated from the land, it ceases to be of any advantage to them.
 
-```ad-example
-A covenant to maintain a house on the burdened land does touch and concern the dominant land as it preserves the quality of the environment and therefore the value of the dominant land.
-```
+> [!example]
+> A covenant to maintain a house on the burdened land does touch and concern the dominant land as it preserves the quality of the environment and therefore the value of the dominant land.
 
 #### Intention That Benefit Runs with Dominant Land
 
@@ -644,9 +615,8 @@ Intention of the parties can be shown expressly or impliedly through statute.
 
 If there is no express intention, [LPA 1925, s 78](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/78) implies an intention for the benefit to pass unless it is expressly excluded.
 
-```ad-example
-A covenant drafted ‘for the benefit of land known as 5 High Street’ or ‘with the covenantee and successors in title to land known as 5 High Street’ shows express intention
-```
+> [!example]
+> A covenant drafted ‘for the benefit of land known as 5 High Street’ or ‘with the covenantee and successors in title to land known as 5 High Street’ shows express intention
 
 The original covenantee must have a legal estate in the dominant land, and the successor covenantee must hold a legal estate in the dominant land.
 
@@ -701,9 +671,8 @@ In the case of deeds executed by a company on or after 31 July 1990, a document 
 2. By being signed by a director and the secretary, or by two directors of the company, provided that the document is expressed to be executed by the company.
 3. A deed can be executed by being signed by a single director in the presence of a witness who then attests that signature (on/after 06/04/2008 only).
 
-```ad-warning
-Must say 'executed as a deed', 'signed as a deed' is not acceptable.
-```
+> [!warning]
+> Must say 'executed as a deed', 'signed as a deed' is not acceptable.
 
 Must also be delivered as a deed.
 
@@ -748,10 +717,8 @@ Additional searches:
 
 ## Local Land Charges Search
 
-```ad-defn
-title: Local land charges
-Financial charges or restrictions on land imposed by public authorities under statute. 
-```
+> [!defn] Local land charges
+> Financial charges or restrictions on land imposed by public authorities under statute. 
 
 Essential to search this in every transaction. It will be necessary to search either a register maintained by the local authority or the land registry, depending on the area. A fee is payable for an official search.
 
@@ -759,18 +726,16 @@ Search result is given by way of certificate, digitally signed by an officer of 
 
 ### Examples
 
-```ad-example
-title: Matters revealed by local land charges
-- Financial charges
-- Tree preservation orders
-- Smoke control orders
-- Compulsory purchase orders
-- Planning permission granted
-- Restrictions on permitted development
-- Orders revoking/ modifying planning permissions. 
-- Conservation area designation orders
-- Listed building status. 
-```
+> [!example] Matters revealed by local land charges
+> - Financial charges
+> - Tree preservation orders
+> - Smoke control orders
+> - Compulsory purchase orders
+> - Planning permission granted
+> - Restrictions on permitted development
+> - Orders revoking/ modifying planning permissions. 
+> - Conservation area designation orders
+> - Listed building status. 
 
 For each, consider:
 
@@ -856,11 +821,10 @@ Make additional enquiries if needed! This could be on the basis of the informati
 
 An incorrect reply to pre-contract enquiries may lead to liability in misrepresentation. Any exclusion clauses subject to s 11 [[Unfair Contract Terms Act 1977]]. Where the erroneous reply stems from the seller’s solicitor’s negligence, they will be liable to their own client ([[CEMP Proper ties (UK) Ltd v Dentsply Research and Development Corporation (No 1) (1989) 2 EGLR 192]]), but in this respect they do not owe a duty directly to the buyer (see [[Gran Gelato v Richcliffe (Group) [1992] 1 All ER 865]]).
 
-```ad-tip
-If the seller says "not so far as the seller is aware", they are representing ([[William Sindall plc v Cambridgeshire CC [1994] 1 WLR 1016]]):
-1. Seller has no actual knowledge of a matter
-2. All reasonable enquiries that a prudent conveyancer would have made have been made. 
-```
+> [!tip]
+> If the seller says "not so far as the seller is aware", they are representing ([[William Sindall plc v Cambridgeshire CC [1994] 1 WLR 1016]]):
+> 1. Seller has no actual knowledge of a matter
+> 2. All reasonable enquiries that a prudent conveyancer would have made have been made. 
 
 ## Specific Enquiries
 
@@ -916,9 +880,8 @@ A Government-backed scheme known as ‘Flood Re’ ensures that flood cover is p
 
 Index of the land in every registered title and pending application for first registration.
 
-```ad-action
-Do this search if the land being sold appears to be unregistered. 
-```
+> [!action]
+> Do this search if the land being sold appears to be unregistered. 
 
 ### Inspection of Property
 
@@ -999,12 +962,10 @@ Check the seller is entitled to sell the whole of the estate in land. Some circu
 	- Standard conditions of sale
 	- Special conditions.
 
-```ad-statute
-title: s 2 LP(MP)A
-(1) A contract for the sale or other disposition of an interest in land can only be made **in writing** and only by **incorporating all the terms** which the parties have expressly agreed in one document or, where contracts are exchanged, in each.
-
-(2) The terms may be incorporated in a document either by being **set out in it or by reference to some other document**.
-```
+> [!statute] s 2 LP(MP)A
+> (1) A contract for the sale or other disposition of an interest in land can only be made **in writing** and only by **incorporating all the terms** which the parties have expressly agreed in one document or, where contracts are exchanged, in each.
+> 
+> (2) The terms may be incorporated in a document either by being **set out in it or by reference to some other document**.
 
 ## Particulars of Sale
 
@@ -1055,9 +1016,8 @@ Purposes:
 1. May be necessary to deal with particular circumstances of transaction.
 2. May be desirable to vary the standard condition position.
 
-```ad-important
-If a special condition contradicts the standard condition position, the special condition prevails (Standard Condition 1.1.4/ SCPC 1.1.4(a)). But often the standard condition is expressly excluded for the avoidance of doubt. 
-```
+> [!important]
+> If a special condition contradicts the standard condition position, the special condition prevails (Standard Condition 1.1.4/ SCPC 1.1.4(a)). But often the standard condition is expressly excluded for the avoidance of doubt. 
 
 The seller's solicitor should consider the following areas when deciding which special conditions are needed for drafting the contract.
 
@@ -1067,10 +1027,8 @@ Standard Condition 3.1.1 and SCPC 4.1.1 state that the seller will sell the prop
 
 Some practitioners just list all incumbrances as a special condition, regardless of whether covered under one of the standard conditions.
 
-```ad-note
-title: Defects in title
-Standard Condition 3.1.1 and SCPC 4.1.1 imply that there is no other flaw/ defect in the title. Such flaws must therefore be specifically disclosed by a special conditions, or the buyer will have remedies for non-disclosure. Also state that the buyer will not be entitled to raise any objection to the defect. 
-```
+> [!note] Defects in title
+> Standard Condition 3.1.1 and SCPC 4.1.1 imply that there is no other flaw/ defect in the title. Such flaws must therefore be specifically disclosed by a special conditions, or the buyer will have remedies for non-disclosure. Also state that the buyer will not be entitled to raise any objection to the defect. 
 
 - If a Green Deal plan exists, the contract must acknowledge that the buyer will pay this.
 - Physical defects do not need to be disclosed (SC 3.2.1 and SCPC 4.2.1).
@@ -1261,11 +1219,9 @@ Will usually include:
 	- Gives lender the power to refuse any request by the borrower to take out another loan secured on the property from a different lender.
 	- First lender may want to make further advance to the borrower and ensure this is secured by the first legal mortgage (“tacking”). But tacking is complicated and simpler to prohibit subsequent mortgages.
 
-```ad-note
-title: Floating charges
-
-Where the lender has also taken a floating charge, the negative pledge supports the floating charge and gives it effective priority. A properly registered first legal mortgage will automatically have priority over any legal mortgage created later in time. Any second mortgage that is granted in favour of a new lender will take priority over the floating charge unless the new lender has notice of the negative pledge at the time it takes the security. If it does have notice, priority is reversed and the new lender’s security, although valid, will rank behind the floating charge. So, a negative pledge is an effective way to prevent the borrower creating a second mortgage which would take priority over the first lender’s floating charge.
-```
+> [!note] Floating charges
+> 
+> Where the lender has also taken a floating charge, the negative pledge supports the floating charge and gives it effective priority. A properly registered first legal mortgage will automatically have priority over any legal mortgage created later in time. Any second mortgage that is granted in favour of a new lender will take priority over the floating charge unless the new lender has notice of the negative pledge at the time it takes the security. If it does have notice, priority is reversed and the new lender’s security, although valid, will rank behind the floating charge. So, a negative pledge is an effective way to prevent the borrower creating a second mortgage which would take priority over the first lender’s floating charge.
 
 The borrower’s solicitor is under an obligation to explain the nature and effect of the mortgage documentation to the client in whatever level of detail is appropriate.
 
@@ -1322,9 +1278,8 @@ Buyer's solicitor must ensure that the deposit is received with enough time to b
 
 Both sets of Standard Conditions provide for the deposit to be held by an auctioneer as agent (SC 2.3.6 and SCPC 3.3.6) but by a conveyancer as stakeholder (SC 2.2.6 and SCPC 3.2.2). **EXCEPTION**: SC 2.2.5 allows the seller to use the deposit as a deposit on a related purchase of a house for the seller’s residence, provided that in such related purchase it will be held on the same terms as SC 2.2.5 and 2.2.6.
 
-```ad-warning
-Until exchange, the deposit is held to the order of the buyer's solicitor. Only once exchange has taken place will the deposit be held as stakeholder until completion (SCPC 3.2.2).
-```
+> [!warning]
+> Until exchange, the deposit is held to the order of the buyer's solicitor. Only once exchange has taken place will the deposit be held as stakeholder until completion (SCPC 3.2.2).
 
 Details:
 
@@ -1389,10 +1344,8 @@ SC 5.1.2 and SCPC 8.2.4(a) provide that the seller is under no obligation to ins
 
 In practice, it is likely that the seller will keep up his policy until completion, and if the seller has a mortgage, he will be required to do so.
 
-```ad-question
-title: What if there are two policies?
-There is a dnager that on a claim being made, each insurance firm would reduce the payout based on the existence of the other police. SC 5.1.5, SCPC 8.2.4(b): if there is a reduction to the payment made to the buyer for this reason, the purchase price is to be reduced accordingly. 
-```
+> [!question] What if there are two policies?
+> There is a dnager that on a claim being made, each insurance firm would reduce the payout based on the existence of the other police. SC 5.1.5, SCPC 8.2.4(b): if there is a reduction to the payment made to the buyer for this reason, the purchase price is to be reduced accordingly. 
 
 Except where the seller is required by a condition of the contract of sale or his mortgage or lease to maintain his policy, he could cancel his insurance policy on exchange of contracts, but in practice he would be unwise to do so (eg, in case the buyer failed to complete).
 
@@ -1493,9 +1446,8 @@ The client's express authority to exchange must be obtained before the procedure
 	- Activated when contact made by the specified time
 	- Usually a provision for the buyer and seller to make use of a deposit due under a dependent sale.
 
-```ad-warning
-Before using Formula C, the client's express permission to use the formula must have been obtained. 
-```
+> [!warning]
+> Before using Formula C, the client's express permission to use the formula must have been obtained. 
 
 ### Personal Exchange
 
@@ -1511,6 +1463,5 @@ Basically a private postal service. The postal rule does not apply to DX.
 
 ## Insurance
 
-```ad-action
-If the buyer is to insure the property from exchange, the buyer's solicitor should after exchange immediately telephone the lender/ insurer. 
-```
+> [!action]
+> If the buyer is to insure the property from exchange, the buyer's solicitor should after exchange immediately telephone the lender/ insurer. 

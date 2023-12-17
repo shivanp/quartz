@@ -67,10 +67,8 @@ _The person making the application is the applicant, and the party whom the orde
 
 Many district registries **now have facilities to deal with interim applications by telephone conferencing**.
 
-```ad-guid
-title: General rule
-At a telephone enabled court all allocation hearings, listing hearings, interim applications, case management conferences and pre-trial reviews with a time estimate of less than an hour will be conducted by telephone
-```
+> [!guid] General rule
+> At a telephone enabled court all allocation hearings, listing hearings, interim applications, case management conferences and pre-trial reviews with a time estimate of less than an hour will be conducted by telephone
 
 Exceptions:
 
@@ -82,9 +80,8 @@ Exceptions:
 
 PD 23A, paras 6.9 and 6.10: mechanics of telephone conference hearing
 
-```ad-action
-Applicant’s legal representative must file and serve case summary and draft order no later than 4pm 2 days before the telephone hearing if the claim has been allocated to multi-track or if the court directs.
-```
+> [!action]
+> Applicant’s legal representative must file and serve case summary and draft order no later than 4pm 2 days before the telephone hearing if the claim has been allocated to multi-track or if the court directs.
 
 ### Preparing Supporting Evidence
 
@@ -157,13 +154,11 @@ If one or more parties does not follow relevant pre-action protocol, unnecessary
 Most reported applications of costs capping have failed. There is specific provision for costs  
 capping orders in judicial review proceedings. Governed by s 88 Criminal Justice and Courts Act 2015. Provisions apply where the application for leave to bring judicial review proceedings has been granted. Test set out in s 88(6).
 
-```ad-statute
-title: s 88(6) Criminal Justice and Courts Act 2015
-The court may make a costs capping order only if it is satisfied that—
-- (a) the proceedings are public interest proceedings,
-- (b) in the absence of the order, the applicant for judicial review would withdraw the application for judicial review or cease to participate in the proceedings, and
-- (c) it would be reasonable for the applicant for judicial review to do so.
-```
+> [!statute] s 88(6) Criminal Justice and Courts Act 2015
+> The court may make a costs capping order only if it is satisfied that—
+> - (a) the proceedings are public interest proceedings,
+> - (b) in the absence of the order, the applicant for judicial review would withdraw the application for judicial review or cease to participate in the proceedings, and
+> - (c) it would be reasonable for the applicant for judicial review to do so.
 
 ### Making an Application
 
@@ -175,27 +170,23 @@ Normally it is D seeking to cap what V recovers in costs. Make claim as soon as 
 
 ### Grounds for Making Order
 
-```ad-statute
-title: r 3.19(5)
-The court may at any stage of proceedings make a costs capping order against all or any of the parties, if –
+> [!statute] r 3.19(5)
+> The court may at any stage of proceedings make a costs capping order against all or any of the parties, if –
+> 
+> (a) it is in the interests of justice to do so;
+> 
+> (b) there is a substantial risk that without such an order costs will be disproportionately incurred; and
+> 
+> (c) it is not satisfied that the risk in subparagraph (b) can be adequately controlled by –
+> - (i) case management directions or orders made under this Part; and
+> - (ii) detailed assessment of costs.
 
-(a) it is in the interests of justice to do so;
-
-(b) there is a substantial risk that without such an order costs will be disproportionately incurred; and
-
-(c) it is not satisfied that the risk in subparagraph (b) can be adequately controlled by –
-- (i) case management directions or orders made under this Part; and
-- (ii) detailed assessment of costs.
-```
-
-```ad-statute
-title: r 3.19(6)
-In considering whether to exercise its discretion under this rule, the court will consider all the circumstances of the case, including –
-- (a) whether there is a substantial imbalance between the financial position of the parties;
-- (b) whether the costs of determining the amount of the cap are likely to be proportionate to the overall costs of the litigation;
-- (c) the stage which the proceedings have reached; and
-- (d) the costs which have been incurred to date and the future costs.
-```
+> [!statute] r 3.19(6)
+> In considering whether to exercise its discretion under this rule, the court will consider all the circumstances of the case, including –
+> - (a) whether there is a substantial imbalance between the financial position of the parties;
+> - (b) whether the costs of determining the amount of the cap are likely to be proportionate to the overall costs of the litigation;
+> - (c) the stage which the proceedings have reached; and
+> - (d) the costs which have been incurred to date and the future costs.
 
 ### Effect of Order
 
@@ -257,16 +248,14 @@ entered after the claim was paid in full.
 
 ### Discretionary Grounds
 
-```ad-statute
-title: r 13.3(1)
-(1) In any other case, the court may set aside or vary a judgment entered under Part 12 if—
-- (a) the defendant has a real prospect of successfully defending the claim; or
-- (b) it appears to the court that there is some other good reason why—
-	- (i) the judgment should be set aside or varied; or
-	- (ii) the defendant should be allowed to defend the claim.
-
-(2) In considering whether to set aside or vary a judgment entered under Part 12, the matters to which the court must have regard include whether the person seeking to set aside the judgment made an application to do so promptly.
-```
+> [!statute] r 13.3(1)
+> (1) In any other case, the court may set aside or vary a judgment entered under Part 12 if—
+> - (a) the defendant has a real prospect of successfully defending the claim; or
+> - (b) it appears to the court that there is some other good reason why—
+> 	- (i) the judgment should be set aside or varied; or
+> 	- (ii) the defendant should be allowed to defend the claim.
+> 
+> (2) In considering whether to set aside or vary a judgment entered under Part 12, the matters to which the court must have regard include whether the person seeking to set aside the judgment made an application to do so promptly.
 
 - The court will take account of the promptness of the defendant’s application to set aside
 - The overriding objective expressly recognises the importance of ensuring that cases are dealt with expeditiously and fairly.
@@ -301,20 +290,17 @@ The court may:
 
 Aim: to enable C/D to obtain judgment at an early stage without the time and expense of a full trial.
 
-```ad-warning
-Summary judgment is not the same as default judgment.
-```
+> [!warning]
+> Summary judgment is not the same as default judgment.
 
 ### Grounds
 
-```ad-statute
-title: CPR 24.2
-The court may give summary judgment against a claimant or defendant on the whole of a claim or on a particular issue if –
-- (a) it considers that –
-	- (i) that claimant has **no real prospect of succeeding** on the claim or issue; or
-	- (ii) that defendant has **no real prospect of successfully defending** the claim or issue; and
-- (b) there is **no other compelling reason** why the case or issue should be disposed of at a trial.
-```
+> [!statute] CPR 24.2
+> The court may give summary judgment against a claimant or defendant on the whole of a claim or on a particular issue if –
+> - (a) it considers that –
+> 	- (i) that claimant has **no real prospect of succeeding** on the claim or issue; or
+> 	- (ii) that defendant has **no real prospect of successfully defending** the claim or issue; and
+> - (b) there is **no other compelling reason** why the case or issue should be disposed of at a trial.
 
 (Rule 3.4 makes provision for the court to strike out a statement of case or part of a statement of case if it appears that it discloses no reasonable grounds for bringing or defending a claim).
 
@@ -326,13 +312,11 @@ The court must scrutinise how the parties have stated their respective cases and
 
 To defeat an application for summary judgment, the respondent must have a case which has a “real, as opposed to a fanciful, chance of winning” ([[Swain v Hillman [2001] 1 All ER 91]]).
 
-```ad-statute
-title: PD 24 para 1.3
-An application for summary judgment under rule 24.2 may be based on:
-1. a point of law (including a question of construction of a document),
-2. the evidence which can reasonably be expected to be available at trial or the lack of it, or
-3. a combination of these.
-```
+> [!statute] PD 24 para 1.3
+> An application for summary judgment under rule 24.2 may be based on:
+> 1. a point of law (including a question of construction of a document),
+> 2. the evidence which can reasonably be expected to be available at trial or the lack of it, or
+> 3. a combination of these.
 
 #### No Other Compelling Reason
 
@@ -362,31 +346,26 @@ Compelling reasons include:
 
 ### Orders a Court May Make
 
-```ad-statute
-title: PD 24 para 5.1
-The orders the court may make on an application under Part 24 include:
-1. judgment on the claim,
-2. the striking out or dismissal of the claim,
-3. the dismissal of the application,
-4. a conditional order.
-```
+> [!statute] PD 24 para 5.1
+> The orders the court may make on an application under Part 24 include:
+> 1. judgment on the claim,
+> 2. the striking out or dismissal of the claim,
+> 3. the dismissal of the application,
+> 4. a conditional order.
 
-```ad-important
-The claims only go one way. So if C is the applicant, the only possible orders which the court can make are:
-1. Granting summary judgment
-2. Dismissing the application and allowing the case to proceed to trial.
-
-If D, in addition to opposing the application for summary judgment, wants to apply for an order striking out the (OG) claim, D must make their own application for summary judgment. 
-```
+> [!important]
+> The claims only go one way. So if C is the applicant, the only possible orders which the court can make are:
+> 1. Granting summary judgment
+> 2. Dismissing the application and allowing the case to proceed to trial.
+> 
+> If D, in addition to opposing the application for summary judgment, wants to apply for an order striking out the (OG) claim, D must make their own application for summary judgment. 
 
 If there are credible witnesses both saying opposite things and there is no conclusive circumstantial evidence, the application will be dismissed ([[Hussain v Woods and Another [2001] Lloyd's Rep PN 134]]).
 
-```ad-statute
-title: PD 24 para 5.2
-A conditional order is an order which requires a party:
-1. to pay a sum of money into court, or
-2. to take a specified step in relation to his claim or defence, as the case may be, and provides that that party’s claim will be dismissed or his statement of case will be struck out if he does not comply.
-```
+> [!statute] PD 24 para 5.2
+> A conditional order is an order which requires a party:
+> 1. to pay a sum of money into court, or
+> 2. to take a specified step in relation to his claim or defence, as the case may be, and provides that that party’s claim will be dismissed or his statement of case will be struck out if he does not comply.
 
 A conditional order will be granted where it is likely but improbable that a claim/ defence will succeed – where a statement of case is “shadowy and unsatisfactory” ([[Bates v Microstar Ltd]]) or where D has a weak claim and has behaved dishonestly ([[Kooh Veisin Trading Co v Parsai]]).
 
@@ -410,9 +389,8 @@ If the claim might possibly succeed but is unlikely to do so, C will have to pay
 
 ## Interim Payments Orders
 
-```ad-defn
-An interim payment is an advance payment on account of any damages, debt or other sum (excluding costs) which a defendant may be held liable to pay.
-```
+> [!defn]
+> An interim payment is an advance payment on account of any damages, debt or other sum (excluding costs) which a defendant may be held liable to pay.
 
 This gives a claimant with a strong case some money before the case has concluded, to avoid financial hardship. Before applying, the claimant should try to negotiate with D/ D's insurance to obtain a voluntary interim payment.
 
@@ -431,32 +409,30 @@ Application must be supported by evidence and served $\geq 14$ days before heari
 
 ### Grounds
 
-```ad-statute
-title: r 25.7(1) CPR 1998
-The court may only make an order for an interim payment where any of the following conditions are satisfied –
-
-(a) the defendant against whom the order is sought has admitted liability to pay damages or some other sum of money to the claimant;
-
-(b) the claimant has obtained judgment against that defendant for damages to be assessed or for a sum of money (other than costs) to be assessed;
-
-(c) it is satisfied that, if the claim went to trial, the claimant would obtain judgment for a substantial amount of money (other than costs) against the defendant from whom he is seeking an order for an interim payment whether or not that defendant is the only defendant or one of a number of defendants to the claim;
-
-(d) the following conditions are satisfied –
-- (i) the claimant is seeking an order for possession of land (whether or not any other order is also sought); and
-- (ii) the court is satisfied that, if the case went to trial, the defendant would be held liable (even if the claim for possession fails) to pay the claimant a sum of money for the defendant’s occupation and use of the land while the claim for possession was pending; or
-
-(e) in a claim in which there are two or more defendants and the order is sought against any one or more of those defendants, the following conditions are satisfied –
-
-- (i) the court is satisfied that, if the claim went to trial, the claimant would obtain judgment for a substantial amount of money (other than costs) against at least one of the defendants (but the court cannot determine which); and
-
-- (ii) all the defendants are either –
-
-	- (a) a defendant that is insured in respect of the claim;
-	
-	- (b) a defendant whose liability will be met by an insurer under section 151 of the Road Traffic Act 1988 or an insurer acting under the Motor Insurers Bureau Agreement, or the Motor Insurers Bureau where it is acting itself; or
-	
-	- (c) a defendant that is a public body.
-```
+> [!statute] r 25.7(1) CPR 1998
+> The court may only make an order for an interim payment where any of the following conditions are satisfied –
+> 
+> (a) the defendant against whom the order is sought has admitted liability to pay damages or some other sum of money to the claimant;
+> 
+> (b) the claimant has obtained judgment against that defendant for damages to be assessed or for a sum of money (other than costs) to be assessed;
+> 
+> (c) it is satisfied that, if the claim went to trial, the claimant would obtain judgment for a substantial amount of money (other than costs) against the defendant from whom he is seeking an order for an interim payment whether or not that defendant is the only defendant or one of a number of defendants to the claim;
+> 
+> (d) the following conditions are satisfied –
+> - (i) the claimant is seeking an order for possession of land (whether or not any other order is also sought); and
+> - (ii) the court is satisfied that, if the case went to trial, the defendant would be held liable (even if the claim for possession fails) to pay the claimant a sum of money for the defendant’s occupation and use of the land while the claim for possession was pending; or
+> 
+> (e) in a claim in which there are two or more defendants and the order is sought against any one or more of those defendants, the following conditions are satisfied –
+> 
+> - (i) the court is satisfied that, if the claim went to trial, the claimant would obtain judgment for a substantial amount of money (other than costs) against at least one of the defendants (but the court cannot determine which); and
+> 
+> - (ii) all the defendants are either –
+> 
+> 	- (a) a defendant that is insured in respect of the claim;
+> 	
+> 	- (b) a defendant whose liability will be met by an insurer under section 151 of the Road Traffic Act 1988 or an insurer acting under the Motor Insurers Bureau Agreement, or the Motor Insurers Bureau where it is acting itself; or
+> 	
+> 	- (c) a defendant that is a public body.
 
 No obligation on applicant to show their need for interim payment, though this would help persuade the court if the delay in assessing damages is unlikely to be substantial.
 
@@ -488,44 +464,40 @@ If D has made an interim payment that exceeds their total liability under the fi
 
 ## Security for Costs
 
-```ad-statute
-title: r 25.12 - Security for Costs
+> [!statute] r 25.12 - Security for Costs
+> 
+> (1) A defendant to any claim may apply under this Section of this Part for security for his costs of the proceedings.
+> 
+> (Part 3 provides for the court to order payment of sums into court in other circumstances. Rule 20.3 provides for this Section of this Part to apply to Part 20 claims)
+> 
+> (2) An application for security for costs must be supported by written evidence.
+> 
+> (3) Where the court makes an order for security for costs, it will –
+> - (a) determine the amount of security; and
+> - (b) direct –
+> 	- (i) the manner in which; and
+> 	- (ii) the time within which
+> 
+> the security must be given.
 
-(1) A defendant to any claim may apply under this Section of this Part for security for his costs of the proceedings.
-
-(Part 3 provides for the court to order payment of sums into court in other circumstances. Rule 20.3 provides for this Section of this Part to apply to Part 20 claims)
-
-(2) An application for security for costs must be supported by written evidence.
-
-(3) Where the court makes an order for security for costs, it will –
-- (a) determine the amount of security; and
-- (b) direct –
-	- (i) the manner in which; and
-	- (ii) the time within which
-
-the security must be given.
-```
-
-```ad-statute
-title: r 25.13 - Conditions to be satisfied
-(1) The court may make an order for security for costs under rule 25.12 if –
-- (a) it is satisfied, having regard to all the circumstances of the case, that it is just to make such an order; and
-- (b)
-	- (i) one or more of the conditions in paragraph (2) applies, or
-	- (ii) an enactment permits the court to require security for costs.
-
-(2) The conditions are –
-- (a) the claimant is –
-	- (i) resident out of the jurisdiction; but
-	- (ii) not resident in a State bound by the 2005 Hague Convention, as defined in section 1(3) of the Civil Jurisdiction and Judgments Act 1982 7;
-- (c) the claimant is a company or other body (whether incorporated inside or outside Great Britain) and there is reason to believe that it will be unable to pay the defendant’s costs if ordered to do so;
-- (d) the claimant has changed his address since the claim was commenced with a view to evading the consequences of the litigation;
-- (e) the claimant failed to give his address in the claim form, or gave an incorrect address in that form;
-- (f) the claimant is acting as a nominal claimant, other than as a representative claimant under Part 19, and there is reason to believe that he will be unable to pay the defendant’s costs if ordered to do so;
-- (g) the claimant has taken steps in relation to his assets that would make it difficult to enforce an order for costs against him.
-
-(Rule 3.4 allows the court to strike out a statement of case and Part 24 for it to give summary judgment)
-```
+> [!statute] r 25.13 - Conditions to be satisfied
+> (1) The court may make an order for security for costs under rule 25.12 if –
+> - (a) it is satisfied, having regard to all the circumstances of the case, that it is just to make such an order; and
+> - (b)
+> 	- (i) one or more of the conditions in paragraph (2) applies, or
+> 	- (ii) an enactment permits the court to require security for costs.
+> 
+> (2) The conditions are –
+> - (a) the claimant is –
+> 	- (i) resident out of the jurisdiction; but
+> 	- (ii) not resident in a State bound by the 2005 Hague Convention, as defined in section 1(3) of the Civil Jurisdiction and Judgments Act 1982 7;
+> - (c) the claimant is a company or other body (whether incorporated inside or outside Great Britain) and there is reason to believe that it will be unable to pay the defendant’s costs if ordered to do so;
+> - (d) the claimant has changed his address since the claim was commenced with a view to evading the consequences of the litigation;
+> - (e) the claimant failed to give his address in the claim form, or gave an incorrect address in that form;
+> - (f) the claimant is acting as a nominal claimant, other than as a representative claimant under Part 19, and there is reason to believe that he will be unable to pay the defendant’s costs if ordered to do so;
+> - (g) the claimant has taken steps in relation to his assets that would make it difficult to enforce an order for costs against him.
+> 
+> (Rule 3.4 allows the court to strike out a statement of case and Part 24 for it to give summary judgment)
 
 ### Purpose
 
@@ -606,10 +578,8 @@ Order will specify:
 	- Charge over C's property ([[Xhosa Office Rentals Ltd v Multi High Tec PCB Ltd]])
 	- Suitable undertaking to the court.
 
-```ad-question
-title: What if C fails to provide the security by the date ordered?
-No CPR rule, but court will usually order that the claim is struck out and D entitled to apply for judgment to be entered and costs assessed. 
-```
+> [!question] What if C fails to provide the security by the date ordered?
+> No CPR rule, but court will usually order that the claim is struck out and D entitled to apply for judgment to be entered and costs assessed. 
 
 ### Security Under R 3.1(5)
 

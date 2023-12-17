@@ -108,12 +108,10 @@ detention was authorised have ceased to apply, the suspect must be released imme
 
 Section 41 provides that a person ‘shall not be kept in police detention for more than 24 hours without being charged’. This 24-hour period begins from the ‘relevant time’.
 
-```ad-defn
-title: Relevant time
-1. In the case of a person attending voluntarily at the police station who is then arrested at the police station, the time of his arrest (s 41(2)(c));
-2. In the case of a person who attends a police station to answer ‘street bail’ granted under s 30A, the time when he arrives at the police station (s 41(2)(ca));
-3. In any other case, the relevant time is the time when the suspect arrested arrives at the first police station to which he is taken after his arrest (s 41(1)(d)).
-```
+> [!defn] Relevant time
+> 1. In the case of a person attending voluntarily at the police station who is then arrested at the police station, the time of his arrest (s 41(2)(c));
+> 2. In the case of a person who attends a police station to answer ‘street bail’ granted under s 30A, the time when he arrives at the police station (s 41(2)(ca));
+> 3. In any other case, the relevant time is the time when the suspect arrested arrives at the first police station to which he is taken after his arrest (s 41(1)(d)).
 
 #### Extending Maximum Period
 
@@ -130,9 +128,8 @@ The police are able to obtain a warrant of further detention from a magistrates�
 
 In exceptional cases, the police may make an additional application to a magistrates’ court under s 44 for an extension of the warrant of further detention granted under s 43.
 
-```ad-note
-The police can detain a suspect in police custody for a maximum period of four days before that suspect must be either released or charged.
-```
+> [!note]
+> The police can detain a suspect in police custody for a maximum period of four days before that suspect must be either released or charged.
 
 #### Detention Reviews
 
@@ -144,30 +141,26 @@ The first review must take place no later than six hours after **the custody off
 
 ### Right to Have Someone Informed of the Arrest
 
-```ad-statute
-title: s 56 - Right to have someone informed when arrested.
-(1) Where a person has been arrested and is being held in custody in a police station or other premises, he shall be entitled, if he so requests, to have one friend or relative or other person who is known to him or who is likely to take an interest in his welfare told, as soon as is practicable except to the extent that delay is permitted by this section, that he has been arrested and is being detained there. 
-
-(2) Delay is only permitted—
-- (a) in the case of a person who is in police detention for an indictable offence ; and
-- (b) if an officer of at least the rank of inspector authorises it.
-
-(3) In any case the person in custody must be permitted to exercise the right conferred by subsection (1) above within 36 hours from the relevant time, as defined in section 41(2) above.
-
-(4) An officer may give an authorisation under subsection (2) above orally or in writing but, if he gives it orally, he shall confirm it in writing as soon as is practicable.
-
-(5) An officer may only authorise delay where he has reasonable grounds for believing that telling the named person of the arrest—
-- (a) will lead to interference with or harm to evidence connected with an indictable offence or interference with or physical injury to other persons; or
-- (b) will lead to the alerting of other persons suspected of having committed such an offence but not yet arrested for it; or
-- (c) will hinder the recovery of any property obtained as a result of such an offence.
-```
+> [!statute] s 56 - Right to have someone informed when arrested.
+> (1) Where a person has been arrested and is being held in custody in a police station or other premises, he shall be entitled, if he so requests, to have one friend or relative or other person who is known to him or who is likely to take an interest in his welfare told, as soon as is practicable except to the extent that delay is permitted by this section, that he has been arrested and is being detained there. 
+> 
+> (2) Delay is only permitted—
+> - (a) in the case of a person who is in police detention for an indictable offence ; and
+> - (b) if an officer of at least the rank of inspector authorises it.
+> 
+> (3) In any case the person in custody must be permitted to exercise the right conferred by subsection (1) above within 36 hours from the relevant time, as defined in section 41(2) above.
+> 
+> (4) An officer may give an authorisation under subsection (2) above orally or in writing but, if he gives it orally, he shall confirm it in writing as soon as is practicable.
+> 
+> (5) An officer may only authorise delay where he has reasonable grounds for believing that telling the named person of the arrest—
+> - (a) will lead to interference with or harm to evidence connected with an indictable offence or interference with or physical injury to other persons; or
+> - (b) will lead to the alerting of other persons suspected of having committed such an offence but not yet arrested for it; or
+> - (c) will hinder the recovery of any property obtained as a result of such an offence.
 
 ### Right to Legal Advice
 
-```ad-statute
-title: s 58(1)
-A person arrested and held in custody in a police station or other premises shall be entitled, if he so requests, to consult a solicitor privately at any time.
-```
+> [!statute] s 58(1)
+> A person arrested and held in custody in a police station or other premises shall be entitled, if he so requests, to consult a solicitor privately at any time.
 
 Free, independent legal advice is available. Unless a suspect asks for legal advice to be paid for by himself, the police must contact the Defence Solicitor Call Centre (DSCC) – even if the suspect has asked for a named solicitor or firm. The DSCC will then determine whether the case is such that telephone advice is sufficient or whether a solicitor should attend.
 
@@ -258,10 +251,8 @@ Exceptions:
 
 If there is no solicitor present when the suspect wants one, at the start of the interview, the suspect will be cautioned that ‘You do not have to say anything, but anything you do say may be given in evidence.’
 
-```ad-statute
-title: s 58 Youth Justice and Criminal Evidence Act 1999
-No adverse inferences may be drawn at trial from the suspect’s silence in interview if the suspect had not at the time of the interview been allowed access to legal advice.
-```
+> [!statute] s 58 Youth Justice and Criminal Evidence Act 1999
+> No adverse inferences may be drawn at trial from the suspect’s silence in interview if the suspect had not at the time of the interview been allowed access to legal advice.
 
 ## Charging Suspect
 

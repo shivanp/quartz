@@ -85,13 +85,12 @@ id3.2 --> id4.2
 
 To avoid the time and cost of formal insolvency proceedings, informal negotiations can be held between a company and its creditors. The difficulty is getting all the creditors to agree at the same time. These are practical measures.
 
-```ad-example
-
-If a company needs to persuade a bank to keep lending money to enable it to keep trading, the company or its directors could offer the bank to:
-- make additional payments or offer the bank additional security;
-- reschedule outstanding debts; and/or
-- reduce or hold over employees' salaries for a set period.
-```
+> [!example]
+> 
+> If a company needs to persuade a bank to keep lending money to enable it to keep trading, the company or its directors could offer the bank to:
+> - make additional payments or offer the bank additional security;
+> - reschedule outstanding debts; and/or
+> - reduce or hold over employees' salaries for a set period.
 
 Creditors can enter into **standstill agreements** whereby they agree not to take enforcement action for a certain period of time, to give a company the breathing space to reach agreement with its other creditors. It is anticipated that the use of this will decline with the introduction of pre-insolvency moratorium under CIGA 2020.
 

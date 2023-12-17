@@ -64,10 +64,9 @@ The term loan facility may be more appropriate than loan agreement:
 1. Term agreement suggests the borrower has agreed to borrow money and is obliged to draw down.
 2. If a document acknowledges or creates debt, it may be classified as a ‘debenture’ ([[Levy v Abercorris Slate and Slab Co (1887) 37 Ch D 260]]). If facility agreements are debentures, they may then be ‘specified investments’ under the FSMA 2000 (Regulated Activities) Order 2001 (RAO). This would trigger licensing requirements for banks carrying out regulated activities with respect to specified investments. So loan facilities often deliberately drafted to create a commitment to lend but not to create or acknowledge a debt. UK regulators have accepted that such facilities fall outside of FSMA 2000. Court of Appeal screwed up in [[Fons Hf v Corporal Ltd and Another [2014] EWCA Civ 304]] by suggesting that a loan agreement is an instrument creating and acknowledging debt and therefore a debenture, but the FCA has indicated that this decision does not change how it views loan agreements.
 
-```ad-question
-How can a bank prove that a borrower owes it any money
-The accounting records kept by a bank showing the total amount outstanding and certified by an appropriate oficer are prima facie evidence of the borrower's obligations. Facility agreement will usually require the borrower to accept the account recordds as conclusive evidence. N.B. in the US, bank account records are insufficient evidence. A "promissory note" (certificate acknowledging utilisation) would need to be issued.
-```
+> [!question]
+> How can a bank prove that a borrower owes it any money
+> The accounting records kept by a bank showing the total amount outstanding and certified by an appropriate oficer are prima facie evidence of the borrower's obligations. Facility agreement will usually require the borrower to accept the account recordds as conclusive evidence. N.B. in the US, bank account records are insufficient evidence. A "promissory note" (certificate acknowledging utilisation) would need to be issued.
 
 ### Facility Office
 
@@ -85,10 +84,8 @@ Connected matters: capacity and authority.
 
 Banks will want to ensure that the borrower has unrestricted capacity to borrow under the facility, and to give guarantee and or security if applicable.
 
-```ad-statute
-title: s 39(1) - A company's capacity
-The validity of an act done by a company shall not be called into question on the ground of lack of capacity by reason of anything in the company's constitution.
-```
+> [!statute] s 39(1) - A company's capacity
+> The validity of an act done by a company shall not be called into question on the ground of lack of capacity by reason of anything in the company's constitution.
 
 Gives protection to third parties. But banks will usually check articles anyway since the stakes are high.
 
@@ -96,22 +93,20 @@ Gives protection to third parties. But banks will usually check articles anyway 
 
 The bank must be sure that whoever executes the facility agreement on behalf of the borrower has authority to do so.
 
-```ad-statute
-title: s 40 - Power of directors to bind the company
-
-(1) In favour of a person dealing with a company in good faith, the power of the directors to bind the company, or authorise others to do so, is deemed to be free of any limitation under the company's constitution.
-
-(2) For this purpose—
-- (a) a person “deals with” a company if he is a party to any transaction or other act to which the company is a party,
-- (b) a person dealing with a company—
-	- (i) is not bound to enquire as to any limitation on the powers of the directors to bind the company or authorise others to do so,
-	- (ii) is presumed to have acted in good faith unless the contrary is proved, and
-	- (iii) is not to be regarded as acting in bad faith by reason only of his knowing that an act is beyond the powers of the directors under the company's constitution.
-
-(3) The references above to limitations on the directors' powers under the company's constitution include limitations deriving—
-(a) from a resolution of the company or of any class of shareholders, or
-(b) from any agreement between the members of the company or of any class of shareholders. 
-```
+> [!statute] s 40 - Power of directors to bind the company
+> 
+> (1) In favour of a person dealing with a company in good faith, the power of the directors to bind the company, or authorise others to do so, is deemed to be free of any limitation under the company's constitution.
+> 
+> (2) For this purpose—
+> - (a) a person “deals with” a company if he is a party to any transaction or other act to which the company is a party,
+> - (b) a person dealing with a company—
+> 	- (i) is not bound to enquire as to any limitation on the powers of the directors to bind the company or authorise others to do so,
+> 	- (ii) is presumed to have acted in good faith unless the contrary is proved, and
+> 	- (iii) is not to be regarded as acting in bad faith by reason only of his knowing that an act is beyond the powers of the directors under the company's constitution.
+> 
+> (3) The references above to limitations on the directors' powers under the company's constitution include limitations deriving—
+> (a) from a resolution of the company or of any class of shareholders, or
+> (b) from any agreement between the members of the company or of any class of shareholders. 
 
 In practice: the bank checks the director has authority. Doesn't want to be relying on “good faith”. The bank will insist on a board meeting to approve and execute the transaction.
 
@@ -121,9 +116,8 @@ A purpose clause is also included in an attempt to create a **resulting trust** 
 
 ## Bank Deposits
 
-```ad-important
-A bank is not a trustee of money deposited by its customers. Rather it is a debtor in respect of those deposits.
-```
+> [!important]
+> A bank is not a trustee of money deposited by its customers. Rather it is a debtor in respect of those deposits.
 
 Key case: [[Foley v Hill (1848) 11 HLC 2]]
 
@@ -140,9 +134,8 @@ The best example of a device which combines a debt and a trust is a “Quistclos
 
 This was applied in [[Twinsectra Ltd v Yardley [2002] UKHL 12]]. Twinsectra is the most important case on Quistclose trusts as it makes clear that it is not sufficient to demonstrate that money was advanced to the borrower for a particular purpose. Rather, it is necessary to demonstrate the parties’ mutual intention that the money could only be applied for the purpose and was not at the free disposal of the borrower. It is this feature of the transaction which generates the trust in favour of the lender.  
 
-```ad-tip
-A Quistclose trust does not arise where money is paid for a purpose but is at the recipient’s free disposal.
-```
+> [!tip]
+> A Quistclose trust does not arise where money is paid for a purpose but is at the recipient’s free disposal.
 
 Twinsectra also provides helpful guidance on the requirement for certainty of purpose:  
 
@@ -163,9 +156,8 @@ See also [[Re Farepak Food and Gifts Ltd (in administration) [2006] EWHC 3272 (C
 
 It is worth noting that although most of the case law involves loans or transactions involving money, Quistclose trusts are not restricted to such circumstances. They arise in any situation where property is transferred to a person whose use of the property is restricted to a specified purpose: to any case where the property is not at the free disposal of the transferee. ([[Ali v Dinc [2020] EWHC 3055 (Ch)]], paras 234, 238).
 
-```ad-important
-On the insolvency of the borrower B, any money held by B on trust for the bank must be paid to the bank, irrespective of any other claims.
-```
+> [!important]
+> On the insolvency of the borrower B, any money held by B on trust for the bank must be paid to the bank, irrespective of any other claims.
 
 ## Condition Precedent
 
@@ -211,9 +203,8 @@ B allowed to utilise in a number of tranches as and when required, up to the ava
 
 ### Notice of Utilisation
 
-```ad-important
-Fundamental premise of syndicated facility mechanics is that banks will use the interbank market to fund large advances ("matched funding"). 
-```
+> [!important]
+> Fundamental premise of syndicated facility mechanics is that banks will use the interbank market to fund large advances ("matched funding"). 
 
 Borrower will therefore be required to give notice of utilisation, with the notice period depending on the currency (on the London market, Sterling could be funded on the day of request). Common for a syndicated loan to require B to give 3 business days notice for Eurocurrencies, or 1 business day (day before) notice for Sterling. Notice periods may be shorter with a revolving credit facility.
 
@@ -363,7 +354,5 @@ MERMAID3
 
 Practically, most facility agreements impose default interest of 1-2%.
 
-```ad-defn
-title: Basis point
-=0.01%. Also referred to as a tick. 1% can be referred to as a point. 
-```
+> [!defn] Basis point
+> =0.01%. Also referred to as a tick. 1% can be referred to as a point. 

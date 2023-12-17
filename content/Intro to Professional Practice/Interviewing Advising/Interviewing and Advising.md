@@ -164,13 +164,11 @@ Find out if the client is paying the costs of the interview themselves, or if so
 
 Use only closed questions at this stage.
 
-```ad-question
-title: Why **ought** trainee solicitors to disclose their trainee status to clients?
-
-It is certainly polite to introduce yourself fully.   The SRA Code of Conduct for Individuals does not say anything specific about disclosing name and status. However you must not mislead the client (Para 1.4) and you must ensure that clients are in a position to make informed decisions about the services they need, how their matter will be handled and the options available to them (Para 8.6). Clearly clients must be given the opportunity to consider whether they are happy with the level of experience of the fee earner advising them.  
-
-However, if you delayed giving this information until after the initial interview, a client who was not happy to be dealing with a trainee would be justifiably annoyed. It is therefore important that you tell the client this during the interview,  record the fact in the attendance note and include it in your follow-up letter to the client after the interview.
-```
+> [!question] Why **ought** trainee solicitors to disclose their trainee status to clients?
+> 
+> It is certainly polite to introduce yourself fully.   The SRA Code of Conduct for Individuals does not say anything specific about disclosing name and status. However you must not mislead the client (Para 1.4) and you must ensure that clients are in a position to make informed decisions about the services they need, how their matter will be handled and the options available to them (Para 8.6). Clearly clients must be given the opportunity to consider whether they are happy with the level of experience of the fee earner advising them.  
+> 
+> However, if you delayed giving this information until after the initial interview, a client who was not happy to be dealing with a trainee would be justifiably annoyed. It is therefore important that you tell the client this during the interview,  record the fact in the attendance note and include it in your follow-up letter to the client after the interview.
 
 ## Obtaining the Facts
 
@@ -221,6 +219,5 @@ Accompany client back to reception area. End professionally. Produce a fully wri
 
 Practise this skill lots and you will get better!!
 
-```ad-note
-The assessment guidance is super useful, tells you exactly what to do.
-```
+> [!note]
+> The assessment guidance is super useful, tells you exactly what to do.

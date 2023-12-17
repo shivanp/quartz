@@ -32,17 +32,13 @@ But PR holds office for life, so must deal with further assets and liabilities i
 
 ## PR Duties
 
-```ad-statute
-title: s 25, Administration of Estates Act 1925
-The personal representative of a deceased person shall be under a duty to collect and get in the real and personal estate of the deceased and administer it according to law.
-```
+> [!statute] s 25, Administration of Estates Act 1925
+> The personal representative of a deceased person shall be under a duty to collect and get in the real and personal estate of the deceased and administer it according to law.
 
 PR **personally liable** for losses to the estate resulting from any breach of duty they commit.
 
-```ad-statute
-title: s 61 Trustee Act 1925 - Power to relieve trustee from personal liability.
-If it appears to the court that a trustee, whether appointed by the court or otherwise, is or may be personally liable for any breach of trust, whether the transaction alleged to be a breach of trust occurred before or after the commencement of this Act, but has acted honestly and reasonably, and ought fairly to be excused for the breach of trust and for omitting to obtain the directions of the court in the matter in which he committed such breach, then the court may relieve him either wholly or partly from personal liability for the same. 
-```
+> [!statute] s 61 Trustee Act 1925 - Power to relieve trustee from personal liability.
+> If it appears to the court that a trustee, whether appointed by the court or otherwise, is or may be personally liable for any breach of trust, whether the transaction alleged to be a breach of trust occurred before or after the commencement of this Act, but has acted honestly and reasonably, and ought fairly to be excused for the breach of trust and for omitting to obtain the directions of the court in the matter in which he committed such breach, then the court may relieve him either wholly or partly from personal liability for the same. 
 
 There may be a clause in the will providing protection from liability for mistakes made in good faith.
 
@@ -139,10 +135,8 @@ These are expenses incident to the proper performance of the duties of a PR. Inc
 
 The statutory order for payment of debts is set out in AEA 1925, Sch 1, Part II (s 34(3) AEA 1925).
 
-```ad-test
-title: General rule
-When choosing assets to pay funeral/ testamentary expenses and debts, assets forming part of the reside are to be used before property given to specific legatees. 
-```
+> [!test] General rule
+> When choosing assets to pay funeral/ testamentary expenses and debts, assets forming part of the reside are to be used before property given to specific legatees. 
 
 #### Subject to
 
@@ -153,9 +147,8 @@ The above order is subject to:
 
 ### Insolvent Estate
 
-```ad-defn
-An estate is insolvent if the assets are insufficient to discharge in full the funeral, testamentary and administration expenses, debts and liabilities.
-```
+> [!defn]
+> An estate is insolvent if the assets are insufficient to discharge in full the funeral, testamentary and administration expenses, debts and liabilities.
 
 In doubtful cases, PRs should administer the estate as if it is insolvent.
 
@@ -206,9 +199,8 @@ The amount of IHT payable may have to be adjusted since the IHT account was subm
 
 PRs often force to sell assets to raise cash to pay for debts, tax liabilities or legacies. If PRs end up selling assets for less than their value at the date of death, they can claim loss on sale relief.
 
-```ad-important
-Where ‘qualifying investments’ are sold within 12 months of death for less than their market value at the date of death (ie ‘probate value’) then the sale price may be substituted for the market value at death and the IHT liability adjusted accordingly (IHTA 1984, ss 178–189).
-```
+> [!important]
+> Where ‘qualifying investments’ are sold within 12 months of death for less than their market value at the date of death (ie ‘probate value’) then the sale price may be substituted for the market value at death and the IHT liability adjusted accordingly (IHTA 1984, ss 178–189).
 
 - ‘Qualifying investments’ are shares or securities which are quoted on a recognised stock exchange at the date of death, and also holdings in authorised unit trusts.
 - Relief is not automatic; must be claimed.
@@ -254,9 +246,8 @@ HMRC must apply for a clearance certificate using form IHT30. They will reply wi
 
 #### Deceased's Liability
 
-```ad-action
-Immediately following the death, the PRs must make a return to HMRC of the income and capital gains of the deceased for the period starting on 6 April before the death and ending with the date of death.
-```
+> [!action]
+> Immediately following the death, the PRs must make a return to HMRC of the income and capital gains of the deceased for the period starting on 6 April before the death and ending with the date of death.
 
 - Any liability to tax is a debt of the deceased, to be paid by PRs during administration.
 - Any tax refund represents an asset.
@@ -269,13 +260,11 @@ For each income tax year (or part) during the administration period, the PRs mus
 
 PRs can make a **one-off informal payment** of all income tax and CGT at the end of administration, unless the estate is classified as a complex estate.
 
-```ad-defn
-title: Complex estate
-An estate is considered complex if either: 
-1. the value of the estate exceeds £2.5 million; or 
-2. tax due for the whole of the administration period exceeds £10,000; or 
-3. the value of assets sold in a tax year exceeds £500,000.
-```
+> [!defn] Complex estate
+> An estate is considered complex if either: 
+> 1. the value of the estate exceeds £2.5 million; or 
+> 2. tax due for the whole of the administration period exceeds £10,000; or 
+> 3. the value of assets sold in a tax year exceeds £500,000.
 
 ##### Exception
 
@@ -357,16 +346,13 @@ Company shares are transferred y share transfer form, unless held by a nominee c
 
 Personal representatives vest the legal estate in land in the person entitled (whether beneficially or as trustee) by means of an assent, which will then become a document of title to the legal estate.
 
-```ad-tip
-If PRs continue to hold the property in their changed capacity as trustees, PRs should 'assent' to this to formally vest the legal estate in themselves as trustees. 
-```
+> [!tip]
+> If PRs continue to hold the property in their changed capacity as trustees, PRs should 'assent' to this to formally vest the legal estate in themselves as trustees. 
 
 #### Assent Formalities
 
-```ad-statute
-title: s 36(4) AEA 1925
-An assent to the vesting of a legal estate shall be in writing, signed by the personal representative, and shall name the person in whose favour it is given and shall operate to vest in that person the legal estate to which it relates; and an assent not in writing or not in favour of a named person shall not be effectual to pass a legal estate.
-```
+> [!statute] s 36(4) AEA 1925
+> An assent to the vesting of a legal estate shall be in writing, signed by the personal representative, and shall name the person in whose favour it is given and shall operate to vest in that person the legal estate to which it relates; and an assent not in writing or not in favour of a named person shall not be effectual to pass a legal estate.
 
 The Land Registration Rules 2003 specify the form of an assent further.
 

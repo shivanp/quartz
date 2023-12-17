@@ -41,9 +41,8 @@ In the simplest case, a fixed trust will have a single beneficiary who is entitl
 
 If a fixed trust is intended to have multiple beneficiaries, but there is uncertainty as to the identity of one or more of those beneficiaries, the trust will not necessarily fail completely. If the identifiable beneficiaries have a [[beneficial entitlement]] which is not dependent upon the entitlement of the uncertain beneficiaries, they can still take their interest.
 
-```ad-example
-Consider the example of a trust to the settlor’s wife for life, remainder to their “favourite daughter”. A lack of certainty as to the identity of the remainder beneficiary will not prevent the life interest to the wife taking effect. The trust will only fail in part.
-```
+> [!example]
+> Consider the example of a trust to the settlor’s wife for life, remainder to their “favourite daughter”. A lack of certainty as to the identity of the remainder beneficiary will not prevent the life interest to the wife taking effect. The trust will only fail in part.
 
 ### Equal Distribution Between Class
 
@@ -95,25 +94,24 @@ If the definition is unclear, there will be categories of people of whom it is n
 - Potential claimants will not be able to determine whether they have a right to compel proper administration of the trust.
 - And if there is an allegation that the trustees have made a distribution to someone outside the class, the court will not be able to say whether the trustees have acted inside or outside their powers.
 
-```ad-example
-
-Consider applying the is/is not test to the following classes of objects:
-1. The ‘employees’ of a company
-
-‘Employees’ has a legal meaning so this term is conceptually certain. A well drafted trust deed would clearly specify whether it applied only to current employees or also extended to past/future employees of the company.
-
-2. The ‘children’ of an individual
-
-‘Children’ also has a legal meaning so is conceptually certain. However, a settlor should ensure that this accords with their personal intention. For example, adopted children are legally the children of the adoptive parent (and are not legally the children of the biological parents). Step-children are not legally the children of their step-parents. It will therefore sometimes be preferable to specify whether the class of objects includes step-children or biological children who are not the legal children of the individual.
-
-3. The ‘friends’ of an individual
-
-This is the paradigmatic example of an uncertain class.
-
-4. The ‘relatives’ of an individual
-
-The Court of Appeal decided that it was conceptually certain in [[Re Baden’s Deed Trusts (No 2) [1973] Ch 9]]. The judges did not reach a unanimous conclusion on its meaning; two concluded that it meant ‘descendants from a common ancestor’.
-```
+> [!example]
+> 
+> Consider applying the is/is not test to the following classes of objects:
+> 1. The ‘employees’ of a company
+> 
+> ‘Employees’ has a legal meaning so this term is conceptually certain. A well drafted trust deed would clearly specify whether it applied only to current employees or also extended to past/future employees of the company.
+> 
+> 2. The ‘children’ of an individual
+> 
+> ‘Children’ also has a legal meaning so is conceptually certain. However, a settlor should ensure that this accords with their personal intention. For example, adopted children are legally the children of the adoptive parent (and are not legally the children of the biological parents). Step-children are not legally the children of their step-parents. It will therefore sometimes be preferable to specify whether the class of objects includes step-children or biological children who are not the legal children of the individual.
+> 
+> 3. The ‘friends’ of an individual
+> 
+> This is the paradigmatic example of an uncertain class.
+> 
+> 4. The ‘relatives’ of an individual
+> 
+> The Court of Appeal decided that it was conceptually certain in [[Re Baden’s Deed Trusts (No 2) [1973] Ch 9]]. The judges did not reach a unanimous conclusion on its meaning; two concluded that it meant ‘descendants from a common ancestor’.
 
 ### Evidential Certainty
 

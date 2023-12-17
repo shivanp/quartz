@@ -327,26 +327,25 @@ Where payment is made from the Fund, the SRA will seek to be subrogated to the r
 
 Codes of Conduct impose an obligation on solicitors and firms to ensure clients understand the regulatory protections available to them.
 
-```ad-summary
-(1) The SRA is em powered by the Solicitors Act 1974 to publish rules and requirements  
-for the regulation of conduct of solicitors, recog nised/licensed bodies, m embers of recognised/licensed bodies, and em ployees of recognis ed/licens ed bodies/sole  
-practices.  
-(2) These rules and requirements are enforced by the SRA and the Leg al Ombudsm an.  
-(3) The SRA deals with breaches of the requirements of professional conduct, whereas the Legal Ombudsm an primarily deals with com plaints about services provided by legal practitioners, including solicitors.
-(4) The Legal Ombudsm an deals with com plaints relating to an act/om iss ion by a legal practitioner and which relates to services provided by the practitioner. The client does not need to suffer any loss as a result of the service provide d in order to raise the issue.  
-(5) The SRA may impose disciplinary sanctions for a breach of the requirem ents of  
-professional conduct, or in serious cas es may refer the m atter to the Solicitors  
-Disciplinary Tribunal.  
-(6) The Legal Ombudsman has num erous sanctions at its disposal. These include  
-directing the solicitor to limit their fees, or directing the solicitor to com pensate the client up to £50,000. The SRA/Legal Ombudsman has no power to pay  
-compensation to the client itself.  
-(7) The Solicitors Disciplinary Tribunal m ay fine a solicitor, suspend the solicitor or, as an ultim ate sanction, strike the solicitor of f the roll.  
-(8) A solicitor will be negligent if they breach a duty of care to their client and  
-foreseeable loss results as a consequence of that breach. Where the solicitor has  
-been negligent, they may be sued by the client for damages.  
-(9) The SRA Compensation Fund is maintained by the SRA. Payment m ay be made from  
-the Fund when a client has suffered loss as a result of a defaulting practitioner’s act or om iss ion or to cover claims against uninsured firms.
-```
+> [!summary]
+> (1) The SRA is em powered by the Solicitors Act 1974 to publish rules and requirements  
+> for the regulation of conduct of solicitors, recog nised/licensed bodies, m embers of recognised/licensed bodies, and em ployees of recognis ed/licens ed bodies/sole  
+> practices.  
+> (2) These rules and requirements are enforced by the SRA and the Leg al Ombudsm an.  
+> (3) The SRA deals with breaches of the requirements of professional conduct, whereas the Legal Ombudsm an primarily deals with com plaints about services provided by legal practitioners, including solicitors.
+> (4) The Legal Ombudsm an deals with com plaints relating to an act/om iss ion by a legal practitioner and which relates to services provided by the practitioner. The client does not need to suffer any loss as a result of the service provide d in order to raise the issue.  
+> (5) The SRA may impose disciplinary sanctions for a breach of the requirem ents of  
+> professional conduct, or in serious cas es may refer the m atter to the Solicitors  
+> Disciplinary Tribunal.  
+> (6) The Legal Ombudsman has num erous sanctions at its disposal. These include  
+> directing the solicitor to limit their fees, or directing the solicitor to com pensate the client up to £50,000. The SRA/Legal Ombudsman has no power to pay  
+> compensation to the client itself.  
+> (7) The Solicitors Disciplinary Tribunal m ay fine a solicitor, suspend the solicitor or, as an ultim ate sanction, strike the solicitor of f the roll.  
+> (8) A solicitor will be negligent if they breach a duty of care to their client and  
+> foreseeable loss results as a consequence of that breach. Where the solicitor has  
+> been negligent, they may be sued by the client for damages.  
+> (9) The SRA Compensation Fund is maintained by the SRA. Payment m ay be made from  
+> the Fund when a client has suffered loss as a result of a defaulting practitioner’s act or om iss ion or to cover claims against uninsured firms.
 
 # SRA Principles
 
@@ -380,11 +379,10 @@ A solicitor must act with integrity; they are in a position of trust. The concep
 
 Solicitors and firms must act in a way that encourages equality, diversity and inclusion.
 
-```ad-example
-- Making reasonable adjustments for disabled clients
-- Treating employees fairly
-- Having processes in place to deal with bullying, harassment and discrimination.
-```
+> [!example]
+> - Making reasonable adjustments for disabled clients
+> - Treating employees fairly
+> - Having processes in place to deal with bullying, harassment and discrimination.
 
 ## 7. Best Interests of the Client
 
@@ -396,10 +394,8 @@ This includes ensuring clients are provided with a proper standard of service in
 
 ## Introduction
 
-```ad-statute
-title: Para 6.3 Codes of Conduct
-You [must] keep the affairs of current and former clients confidential unless disclosure is required or permitted by law or the client consents. 
-```
+> [!statute] Para 6.3 Codes of Conduct
+> You [must] keep the affairs of current and former clients confidential unless disclosure is required or permitted by law or the client consents. 
 
 - Obligation of confidentiality extends beyond obviously confidential information given to a solicitor by their client and includes all information about a client or matter, regardless of the source of information.
 - Firms must have good systems in place – Code of Conduct for Firms
@@ -524,18 +520,14 @@ A solicitor can **never** act where there is a conflict between themselves and a
 
 ## Conflict Between Clients
 
-```ad-defn
-title: Conflict of interest
-A situation where the solicitor's or firm's separate duties to act in the best interests of two or more clients conflict (SRA glossary).
-```
+> [!defn] Conflict of interest
+> A situation where the solicitor's or firm's separate duties to act in the best interests of two or more clients conflict (SRA glossary).
 
-```ad-statute
-title: Para 6.2, Code of Conduct
-
-A solicitor or firm must not act in relation to a matter or particular aspect of it if there is a conflict of interest or a significant risk of such a conflict unless:
-a) The clients have a substantially common interest in relation to the matter or aspect of it; or
-b) The clients are competing for the same objective.
-```
+> [!statute] Para 6.2, Code of Conduct
+> 
+> A solicitor or firm must not act in relation to a matter or particular aspect of it if there is a conflict of interest or a significant risk of such a conflict unless:
+> a) The clients have a substantially common interest in relation to the matter or aspect of it; or
+> b) The clients are competing for the same objective.
 
 ### Former Clients
 
@@ -557,19 +549,15 @@ The exceptions were introduced by the Law Society following a period of lobbying
 
 Where there is a conflict or a significant risk of one, a solicitor or firm can still act where the clients have a substantially common interest in relation to the matter.
 
-```ad-defn
-title: Substantially common interest
-A situation where there is a clear common purpose between the clients and a strong consensus as to how it is to be achieved. 
-```
+> [!defn] Substantially common interest
+> A situation where there is a clear common purpose between the clients and a strong consensus as to how it is to be achieved. 
 
 e.g., this exception may be used where a solicitor is instructed by a group of people who want to set up a company.
 
 ### Competing for the Same Interest ('commercial') Exception
 
-```ad-defn
-title: Competing for the same interest
-Two or more clients competing for an objective which, if attained by one client, will make the objective unattainable to the other client/ clients. 
-```
+> [!defn] Competing for the same interest
+> Two or more clients competing for an objective which, if attained by one client, will make the objective unattainable to the other client/ clients. 
 
 Here, an objective is an asset, contract or business opportunity which clients are seeking to acquire or recover through liquidation or by means of an auction or tender process, but not a public takeover.
 
@@ -601,10 +589,8 @@ A solicitor may not make a secret profit while acting for the client.
 
 ### Systems for Identifying Conflict
 
-```ad-statute
-title: Code of Conduct for Firms para 2.1(a)
-Firms must have effective systems and controls in place to ensure they comply with all the SRA's regulatory requirements. 
-```
+> [!statute] Code of Conduct for Firms para 2.1(a)
+> Firms must have effective systems and controls in place to ensure they comply with all the SRA's regulatory requirements. 
 
 To identify 'own interest' conflicts, the firm should assess all relevant circumstances, including whether the solicitor's ability as an individual, or that of anyone within the firm, to act in the best interests of the client is impaired by:
 
@@ -632,10 +618,8 @@ Subject to additional requirements.
 
 # Undertakings
 
-```ad-defn
-title: Undertaking
-A statement given orally or in writingk, whether or not it includes the word "undertake" or "undertaking" to someone who reasonably places reliance on it, that you or a third party will do something or cause something to be done, or refrain from doing something. (SRA Glossary)
-```
+> [!defn] Undertaking
+> A statement given orally or in writingk, whether or not it includes the word "undertake" or "undertaking" to someone who reasonably places reliance on it, that you or a third party will do something or cause something to be done, or refrain from doing something. (SRA Glossary)
 
 A solicitor must perform all undertakings given by them within an agreed timescale, or if no timescale is agreed, within a reasonable amount of time (para 1.3 Codes of Conduct).
 
@@ -705,20 +689,16 @@ The Legal Ombudsman, SRA, and Solicitors Disciplinary Tribunal have no power to 
 
 In a firm, if an undertaking is given by an assistant solicitor and not honoured, there will be a breach of professional conduct by the solicitor and also the partners of the firm. So many firms have strict procedures about undertakings.
 
-```ad-warning
-Be super careful. If you make an undertaking to pay £100k from the proceeds of sale of a house, and the house sells for 90k, you are personally liable for the 10k. So draft the undertaking to expressly limit liability to the money received through the sale. 
-```
+> [!warning]
+> Be super careful. If you make an undertaking to pay £100k from the proceeds of sale of a house, and the house sells for 90k, you are personally liable for the 10k. So draft the undertaking to expressly limit liability to the money received through the sale. 
 
-```ad-question
-Why not just have the client undertake to do something directly? And sign an undertaking/ contract to that effect?
-```
+> [!question]
+> Why not just have the client undertake to do something directly? And sign an undertaking/ contract to that effect?
 
 # Money Laundering
 
-```ad-defn
-title: Money laundering
-The process by which criminals seek to alter or launder their proceeds of crime so that it appears that these funds come from a legitimate source. 
-```
+> [!defn] Money laundering
+> The process by which criminals seek to alter or launder their proceeds of crime so that it appears that these funds come from a legitimate source. 
 
 Solicitors are targets for criminals in their efforts to launder the proceeds of crime.
 
@@ -781,32 +761,26 @@ Will apply to most clients. The solicitor is obliged to verify the identity of t
 
 The definition of a beneficial owner varies depending on the nature of the client.
 
-```ad-defn
-title: Beneficial owner of a company
-For companies, reg 5(1) defines a beneficial owner as:
-- Any individual who exercises ultimate control over the management of the body corporate
-- Any individual who ultimately owns or controls more than 25% of the shares/ voting rights in the body corporate. 
-- An individual who controls the body corporate
-```
+> [!defn] Beneficial owner of a company
+> For companies, reg 5(1) defines a beneficial owner as:
+> - Any individual who exercises ultimate control over the management of the body corporate
+> - Any individual who ultimately owns or controls more than 25% of the shares/ voting rights in the body corporate. 
+> - An individual who controls the body corporate
 
 This does **not** apply to a company listed on a regulated market, but does apply to LLPs.
 
-```ad-defn
-title: Beneficial owner of a partnership
-Reg 5(3) defines the beneficial owner of a partnership as any individual who:
-- Is ultimately entitled to or controls $>25\%$ of capital/ profits/ voting rights of the partnership
-- Otherwise exercises control over the management of the partnership.
-```
+> [!defn] Beneficial owner of a partnership
+> Reg 5(3) defines the beneficial owner of a partnership as any individual who:
+> - Is ultimately entitled to or controls $>25\%$ of capital/ profits/ voting rights of the partnership
+> - Otherwise exercises control over the management of the partnership.
 
-```ad-defn
-title: Beneficial owner of a trust
-Reg 6(1) says this includes:
-- The settlor
-- The trustees
-- The beneficiary
-- The class of persons in whose main interest the trust is set up
-- Any individual who has control over the trust. 
-```
+> [!defn] Beneficial owner of a trust
+> Reg 6(1) says this includes:
+> - The settlor
+> - The trustees
+> - The beneficiary
+> - The class of persons in whose main interest the trust is set up
+> - Any individual who has control over the trust. 
 
 This is more thorough than for companies, since the trust does not have legal personality itself. Beneficial owners are those individuals who hold equivalent or similar positions to those set out in reg 6(1).
 
@@ -845,44 +819,40 @@ This Act made it an offence to be involved in money laundering. There are 3 offe
 
 ### Arrangements
 
-```ad-statute
-title: Proceeds of Crime Act 2002, s 328
-
-(1) A person commits an offence if he enters into or becomes concerned in an arrangement which he knows or suspects facilitates (by whatever means) the acquisition, retention, use or control of criminal property by or on behalf of another person.
-
-(2) But a person does not commit such an offence if—
-
-- (a) he makes an authorised disclosure under section 338 and (if the disclosure is made before he does the act mentioned in subsection (1)) he has the appropriate consent;
-
-- (b) he intended to make such a disclosure but had a reasonable excuse for not doing so;
-
-- (c) the act he does is done in carrying out a function he has relating to the enforcement of any provision of this Act or of any other enactment relating to criminal conduct or benefit from criminal conduct.
-
-(3) Nor does a person commit an offence under subsection (1) if—
-
-- (a) he knows, or believes on reasonable grounds, that the relevant criminal conduct occurred in a particular country or territory outside the United Kingdom, and
-
-- (b) the relevant criminal conduct—
-
-	- (i) was not, at the time it occurred, unlawful under the criminal law then applying in that country or territory, and
-	
-	- (ii) is not of a description prescribed by an order made by the Secretary of State.
-
-(4) In subsection (3) _“the relevant criminal conduct”_ is the criminal conduct by reference to which the property concerned is criminal property.
-
-(5) A deposit-taking body, electronic money institution or payment institution]3 that does an act mentioned in subsection (1) does not commit an offence under that subsection if—
-
-- (a) it does the act in operating an account maintained with it, and
-
-- (b) the arrangement facilitates the acquisition, retention, use or control of criminal property of a value that is less than the threshold amount determined under section 339A for the act.
-```
+> [!statute] Proceeds of Crime Act 2002, s 328
+> 
+> (1) A person commits an offence if he enters into or becomes concerned in an arrangement which he knows or suspects facilitates (by whatever means) the acquisition, retention, use or control of criminal property by or on behalf of another person.
+> 
+> (2) But a person does not commit such an offence if—
+> 
+> - (a) he makes an authorised disclosure under section 338 and (if the disclosure is made before he does the act mentioned in subsection (1)) he has the appropriate consent;
+> 
+> - (b) he intended to make such a disclosure but had a reasonable excuse for not doing so;
+> 
+> - (c) the act he does is done in carrying out a function he has relating to the enforcement of any provision of this Act or of any other enactment relating to criminal conduct or benefit from criminal conduct.
+> 
+> (3) Nor does a person commit an offence under subsection (1) if—
+> 
+> - (a) he knows, or believes on reasonable grounds, that the relevant criminal conduct occurred in a particular country or territory outside the United Kingdom, and
+> 
+> - (b) the relevant criminal conduct—
+> 
+> 	- (i) was not, at the time it occurred, unlawful under the criminal law then applying in that country or territory, and
+> 	
+> 	- (ii) is not of a description prescribed by an order made by the Secretary of State.
+> 
+> (4) In subsection (3) _“the relevant criminal conduct”_ is the criminal conduct by reference to which the property concerned is criminal property.
+> 
+> (5) A deposit-taking body, electronic money institution or payment institution]3 that does an act mentioned in subsection (1) does not commit an offence under that subsection if—
+> 
+> - (a) it does the act in operating an account maintained with it, and
+> 
+> - (b) the arrangement facilitates the acquisition, retention, use or control of criminal property of a value that is less than the threshold amount determined under section 339A for the act.
 
 This is drafted very widely. There is no requirement that the funds pass through the hands of the solicitor for them to be criminally liable. The maximum penalty is 14 years' imprisonment.
 
-```ad-defn
-title: Criminal property
-A person's direct or indirect benefit from criminal conduct (s 340)
-```
+> [!defn] Criminal property
+> A person's direct or indirect benefit from criminal conduct (s 340)
 
 Criminal conduct is defined very widely to include basically all offences, including conduct internationally which is criminalised in the UK.
 
@@ -902,9 +872,8 @@ A solicitor may also seek to make an authorised disclosure after the prohibited 
 
 #### Exception: Litigation
 
-```ad-important
-In [[Bowman v Fels [2005] EWCA Civ 226]], the Court of Appeal held that taking steps in litigation and the resolution of issues in a litigious context were excluded from the scope of s 328. 
-```
+> [!important]
+> In [[Bowman v Fels [2005] EWCA Civ 226]], the Court of Appeal held that taking steps in litigation and the resolution of issues in a litigious context were excluded from the scope of s 328. 
 
 But the solicitor would not be able to take advantage of this exclusion if the litigation was a sham created for the purpose of money laundering.
 
@@ -914,53 +883,51 @@ A solicitor will not commit an offence where the criminal conduct occurred outsi
 
 #### Acquisition, Use or Possession
 
-```ad-statute
-title: Proceeds of Crime Act 2002, s 329
-
-(1) A person commits an offence if he—
-
-- (a) acquires criminal property;
-
-- (b) uses criminal property;
-
-- (c) has possession of criminal property.
-
-(2) But a person does not commit such an offence if—
-
-- (a) he makes an authorised disclosure under section 338 and (if the disclosure is made before he does the act mentioned in subsection (1)) he has the appropriate consent;
-
-- (b) he intended to make such a disclosure but had a reasonable excuse for not doing so;
-
-- (c) he acquired or used or had possession of the property for adequate consideration;
-
-- (d) the act he does is done in carrying out a function he has relating to the enforcement of any provision of this Act or of any other enactment relating to criminal conduct or benefit from criminal conduct.
-
-(2A) Nor does a person commit an offence under subsection (1) if—
-
-- (a) he knows, or believes on reasonable grounds, that the relevant criminal conduct occurred in a particular country or territory outside the United Kingdom, and
-
-- (b) the relevant criminal conduct—
-
-	- (i) was not, at the time it occurred, unlawful under the criminal law then applying in that country or territory, and
-	
-	- (ii) is not of a description prescribed by an order made by the Secretary of State.
-
-(2B) In subsection (2A) _“the relevant criminal conduct”_ is the criminal conduct by reference to which the property concerned is criminal property.
-
-(2C) A deposit-taking body [, electronic money institution or payment institution]3 that does an act mentioned in subsection (1) does not commit an offence under that subsection if—
-
-- (a) it does the act in operating an account maintained with it, and
-
-- (b) the value of the criminal property concerned is less than the threshold amount determined under section 339A for the act.
-
-(3) For the purposes of this section—
-
-- (a) a person acquires property for inadequate consideration if the value of the consideration is significantly less than the value of the property;
-
-- (b) a person uses or has possession of property for inadequate consideration if the value of the consideration is significantly less than the value of the use or possession;
-
-- (c) the provision by a person of goods or services which he knows or suspects may help another to carry out criminal conduct is not consideration.
-```
+> [!statute] Proceeds of Crime Act 2002, s 329
+> 
+> (1) A person commits an offence if he—
+> 
+> - (a) acquires criminal property;
+> 
+> - (b) uses criminal property;
+> 
+> - (c) has possession of criminal property.
+> 
+> (2) But a person does not commit such an offence if—
+> 
+> - (a) he makes an authorised disclosure under section 338 and (if the disclosure is made before he does the act mentioned in subsection (1)) he has the appropriate consent;
+> 
+> - (b) he intended to make such a disclosure but had a reasonable excuse for not doing so;
+> 
+> - (c) he acquired or used or had possession of the property for adequate consideration;
+> 
+> - (d) the act he does is done in carrying out a function he has relating to the enforcement of any provision of this Act or of any other enactment relating to criminal conduct or benefit from criminal conduct.
+> 
+> (2A) Nor does a person commit an offence under subsection (1) if—
+> 
+> - (a) he knows, or believes on reasonable grounds, that the relevant criminal conduct occurred in a particular country or territory outside the United Kingdom, and
+> 
+> - (b) the relevant criminal conduct—
+> 
+> 	- (i) was not, at the time it occurred, unlawful under the criminal law then applying in that country or territory, and
+> 	
+> 	- (ii) is not of a description prescribed by an order made by the Secretary of State.
+> 
+> (2B) In subsection (2A) _“the relevant criminal conduct”_ is the criminal conduct by reference to which the property concerned is criminal property.
+> 
+> (2C) A deposit-taking body [, electronic money institution or payment institution]3 that does an act mentioned in subsection (1) does not commit an offence under that subsection if—
+> 
+> - (a) it does the act in operating an account maintained with it, and
+> 
+> - (b) the value of the criminal property concerned is less than the threshold amount determined under section 339A for the act.
+> 
+> (3) For the purposes of this section—
+> 
+> - (a) a person acquires property for inadequate consideration if the value of the consideration is significantly less than the value of the property;
+> 
+> - (b) a person uses or has possession of property for inadequate consideration if the value of the consideration is significantly less than the value of the use or possession;
+> 
+> - (c) the provision by a person of goods or services which he knows or suspects may help another to carry out criminal conduct is not consideration.
 
 ##### Adequate Consideration Defence
 
@@ -977,41 +944,39 @@ A person commits an offence under s 330 Proceeds of Crime Act 2002 if:
 3. The information may assist in identifying the money launderer or the location of any laundered property; and
 4. They do not make an authorised disclosure as soon as is practicable.
 
-```ad-statute
-title: Proceeds of Crime Act 2002, s 330
-
-(1) A person commits an offence if [the conditions in subsections (2) to (4) are satisfied.
-
-(2) The first condition is that he—
-
-- (a) knows or suspects, or
-
-- (b) has reasonable grounds for knowing or suspecting,
-
-that another person is engaged in money laundering.
-
-(3) The second condition is that the information or other matter—
-
-- (a) on which his knowledge or suspicion is based, or
-
-- (b) which gives reasonable grounds for such knowledge or suspicion,
-
-came to him in the course of a business in the regulated sector.
-
-(3A) The third condition is—
-
-- (a) that he can identify the other person mentioned in subsection (2) or the whereabouts of any of the laundered property, or
-
-- (b) that he believes, or it is reasonable to expect him to believe, that the information or other matter mentioned in subsection (3) will or may assist in identifying that other person or the whereabouts of any of the laundered property.
-
-(4) The fourth condition is that he does not make the required disclosure to—
-
-- (a) a nominated officer, or
-
-- (b) a person authorised for the purposes of this Part by [the Director General of the National Crime Agency,
-
-as soon as is practicable after the information or other matter mentioned in subsection (3) comes to him.
-```
+> [!statute] Proceeds of Crime Act 2002, s 330
+> 
+> (1) A person commits an offence if [the conditions in subsections (2) to (4) are satisfied.
+> 
+> (2) The first condition is that he—
+> 
+> - (a) knows or suspects, or
+> 
+> - (b) has reasonable grounds for knowing or suspecting,
+> 
+> that another person is engaged in money laundering.
+> 
+> (3) The second condition is that the information or other matter—
+> 
+> - (a) on which his knowledge or suspicion is based, or
+> 
+> - (b) which gives reasonable grounds for such knowledge or suspicion,
+> 
+> came to him in the course of a business in the regulated sector.
+> 
+> (3A) The third condition is—
+> 
+> - (a) that he can identify the other person mentioned in subsection (2) or the whereabouts of any of the laundered property, or
+> 
+> - (b) that he believes, or it is reasonable to expect him to believe, that the information or other matter mentioned in subsection (3) will or may assist in identifying that other person or the whereabouts of any of the laundered property.
+> 
+> (4) The fourth condition is that he does not make the required disclosure to—
+> 
+> - (a) a nominated officer, or
+> 
+> - (b) a person authorised for the purposes of this Part by [the Director General of the National Crime Agency,
+> 
+> as soon as is practicable after the information or other matter mentioned in subsection (3) comes to him.
 
 Breaking this down:
 
@@ -1040,15 +1005,11 @@ Maximum 5 years' imprisonment for s 330 offence.
 
 #### Tipping Off
 
-```ad-statute
-title: Disclosing a suspicious activity report (s 333A(1))
-It is an offence to disclose to any person that a suspicious activity report (on money laundering) has been made if that disclosure is likely to prejudice any investigation that follows such a report. 
-```
+> [!statute] Disclosing a suspicious activity report (s 333A(1))
+> It is an offence to disclose to any person that a suspicious activity report (on money laundering) has been made if that disclosure is likely to prejudice any investigation that follows such a report. 
 
-```ad-statute
-title: Disclosing an investigation (s 333A(3))
-More general offence which is committed where a disclosure is made to any person that an investigation into money laundering is being carried out or contemplated, and that disclosure is likely to prejudice the money laundering investigation.
-```
+> [!statute] Disclosing an investigation (s 333A(3))
+> More general offence which is committed where a disclosure is made to any person that an investigation into money laundering is being carried out or contemplated, and that disclosure is likely to prejudice the money laundering investigation.
 
 ##### Defences
 
@@ -1081,18 +1042,16 @@ The only defence available is that the firm had reasonable prevention procedures
 
 Serious and extensive restrictions are imposed on those dealing with people or entities on the sanctions list. This covers all firms and imposes a requirement to inform the Office of Financial Sanctions Implementation (OFSI) if it is known or reasonably suspected that a person is a designated person has committed offences under financial sanctions/ asset freezing regimes. If the firm still wants to act for the person, needs a licence from OFSI.
 
-```ad-note
-title: Summary
-1. Money laundering is the process whereby the proceeds of crime are changed so that they appear to come from a legitimate source.  
-2. The Government has introduced legislation to disrupt this process.  
-3. Solicitors who undertake relevant business must comply with the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (SI 2017/692).  
-4. Under the 2017 Regulations, firms must appoint a nominated officer, who will receive internal reports concerning money laundering and must consider whether to report the matter to the NCA.  
-5. A person commits an offence under s 328 of the Proceeds of Crim e Act 2002 where they become concerned in an arrangement involving money laundering.  
-6. Section 328 does not apply to steps taken in litigation.  
-7. A person commits an offence under s 329 of the Proceeds of Crime Act 2002 if they acquire, use or have possession of criminal property  
-8. A solicitor within the regulated sector is obliged to disclose any suspected money laundering activity to their nominated officer under s 330 of the Proceeds of Crime Act 2002.  
-9. It is an offence to disclose to any person that a disclosure has been made where this may prejudice an investigation.
-```
+> [!note] Summary
+> 1. Money laundering is the process whereby the proceeds of crime are changed so that they appear to come from a legitimate source.  
+> 2. The Government has introduced legislation to disrupt this process.  
+> 3. Solicitors who undertake relevant business must comply with the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (SI 2017/692).  
+> 4. Under the 2017 Regulations, firms must appoint a nominated officer, who will receive internal reports concerning money laundering and must consider whether to report the matter to the NCA.  
+> 5. A person commits an offence under s 328 of the Proceeds of Crim e Act 2002 where they become concerned in an arrangement involving money laundering.  
+> 6. Section 328 does not apply to steps taken in litigation.  
+> 7. A person commits an offence under s 329 of the Proceeds of Crime Act 2002 if they acquire, use or have possession of criminal property  
+> 8. A solicitor within the regulated sector is obliged to disclose any suspected money laundering activity to their nominated officer under s 330 of the Proceeds of Crime Act 2002.  
+> 9. It is an offence to disclose to any person that a disclosure has been made where this may prejudice an investigation.
 
 # Financial Services
 
@@ -1162,17 +1121,14 @@ Restrictions:
 
 s 22 FSMA 2000 sets out the definition of a regulated activity, which has been substantially amended by FSA 2012.
 
-```ad-test
-title: Is an activity regulated?
-Tests:
-1. Are you in business?
-2. Is there a specified activity?
-3. Is there a specified investment, or does the specified actifvitiy relate to information about a person's financial standing or administering a benchmark?
-```
+> [!test] Is an activity regulated?
+> Tests:
+> 1. Are you in business?
+> 2. Is there a specified activity?
+> 3. Is there a specified investment, or does the specified actifvitiy relate to information about a person's financial standing or administering a benchmark?
 
-```ad-note
-RAO 2001 is shorthand for Financial Services and Markets Act 2000 (Regulated Activities) Order 2001, SI 2001/544
-```
+> [!note]
+> RAO 2001 is shorthand for Financial Services and Markets Act 2000 (Regulated Activities) Order 2001, SI 2001/544
 
 - Particular activities and investments are specified by the Treasure in RAO 2001, s 22.
 - Information about a person's financial standing includes credit references and stuff
@@ -1277,9 +1233,8 @@ Under s 327, the general prohibition in s 19 FSMA will not apply to regulated ac
 
 ## SRA Financial Services (Conduct of Business) Rules
 
-```ad-warning
-COB Rules apply only when the firm is carrying out an exempt regulated activity. 
-```
+> [!warning]
+> COB Rules apply only when the firm is carrying out an exempt regulated activity. 
 
 ### Status Disclosure
 
@@ -1338,27 +1293,22 @@ So for insurance distribution, firm will have to:
 
 ## Financial Promotions
 
-```ad-statute
-title: FSMA 2000, s 21
-A solicitor who is not authorised by the FCA will be unable to make a financial promotion (i.e., communicate an invitation or inducement to engage in investment activity) unless its contents are approved by an authorised person. 
-```
+> [!statute] FSMA 2000, s 21
+> A solicitor who is not authorised by the FCA will be unable to make a financial promotion (i.e., communicate an invitation or inducement to engage in investment activity) unless its contents are approved by an authorised person. 
 
 Use the same 4-stage test as for regulated activities. But note that the exclusion test is not applicable. So although you may be carrying out an activity which is not regulated, it may be controlled and subject to restrictions on financial promotions.
 
 Almost anything you say or write in connection with many transactions could be construed as financial promotion.
 
-```ad-example
-A solicitor advising PRs to sell the deceased's assets could be an invitation to deal in investments if the estate includes shares or gilts.
-```
+> [!example]
+> A solicitor advising PRs to sell the deceased's assets could be an invitation to deal in investments if the estate includes shares or gilts.
 
 Both real-time and non-real-time communications are caught.
 
-```ad-defn
-title: Solicited communication
-A real-time communication is solicited where it is made in the course of a personal visit, phone call or other interactive dialogue, and that
-- was initiated by the recipient, or
-- takes place as a result of an express request from the recipient of the communication. 
-```
+> [!defn] Solicited communication
+> A real-time communication is solicited where it is made in the course of a personal visit, phone call or other interactive dialogue, and that
+> - was initiated by the recipient, or
+> - takes place as a result of an express request from the recipient of the communication. 
 
 ### Exemptions
 

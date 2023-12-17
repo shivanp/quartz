@@ -73,17 +73,14 @@ Restrictions:
 
 s 22 FSMA 2000 sets out the definition of a regulated activity, which has been substantially amended by FSA 2012.
 
-```ad-test
-title: Is an activity regulated?
-Tests:
-1. Are you in business?
-2. Is there a specified activity?
-3. Is there a specified investment, or does the specified actifvitiy relate to information about a person's financial standing or administering a benchmark?
-```
+> [!test] Is an activity regulated?
+> Tests:
+> 1. Are you in business?
+> 2. Is there a specified activity?
+> 3. Is there a specified investment, or does the specified actifvitiy relate to information about a person's financial standing or administering a benchmark?
 
-```ad-note
-RAO 2001 is shorthand for Financial Services and Markets Act 2000 (Regulated Activities) Order 2001, SI 2001/544
-```
+> [!note]
+> RAO 2001 is shorthand for Financial Services and Markets Act 2000 (Regulated Activities) Order 2001, SI 2001/544
 
 - Particular activities and investments are specified by the Treasure in RAO 2001, s 22.
 - Information about a person's financial standing includes credit references and stuff
@@ -188,9 +185,8 @@ Under s 327, the general prohibition in s 19 FSMA will not apply to regulated ac
 
 # SRA Financial Services (Conduct of Business) Rules
 
-```ad-warning
-COB Rules apply only when the firm is carrying out an exempt regulated activity. 
-```
+> [!warning]
+> COB Rules apply only when the firm is carrying out an exempt regulated activity. 
 
 ## Status Disclosure
 
@@ -249,27 +245,22 @@ So for insurance distribution, firm will have to:
 
 # Financial Promotions
 
-```ad-statute
-title: FSMA 2000, s 21
-A solicitor who is not authorised by the FCA will be unable to make a financial promotion (i.e., communicate an invitation or inducement to engage in investment activity) unless its contents are approved by an authorised person. 
-```
+> [!statute] FSMA 2000, s 21
+> A solicitor who is not authorised by the FCA will be unable to make a financial promotion (i.e., communicate an invitation or inducement to engage in investment activity) unless its contents are approved by an authorised person. 
 
 Use the same 4-stage test as for regulated activities. But note that the exclusion test is not applicable. So although you may be carrying out an activity which is not regulated, it may be controlled and subject to restrictions on financial promotions.
 
 Almost anything you say or write in connection with many transactions could be construed as financial promotion.
 
-```ad-example
-A solicitor advising PRs to sell the deceased's assets could be an invitation to deal in investments if the estate includes shares or gilts.
-```
+> [!example]
+> A solicitor advising PRs to sell the deceased's assets could be an invitation to deal in investments if the estate includes shares or gilts.
 
 Both real-time and non-real-time communications are caught.
 
-```ad-defn
-title: Solicited communication
-A real-time communication is solicited where it is made in the course of a personal visit, phone call or other interactive dialogue, and that
-- was initiated by the recipient, or
-- takes place as a result of an express request from the recipient of the communication. 
-```
+> [!defn] Solicited communication
+> A real-time communication is solicited where it is made in the course of a personal visit, phone call or other interactive dialogue, and that
+> - was initiated by the recipient, or
+> - takes place as a result of an express request from the recipient of the communication. 
 
 ## Exemptions
 

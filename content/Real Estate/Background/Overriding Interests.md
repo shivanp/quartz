@@ -42,14 +42,12 @@ Where land is already registered, the list of overriding interests is set out in
 
 #### 1. Leasehold Estates in Land
 
-```ad-statute
-title: LRA 2002 Sch 3 para 1
-A leasehold estate in land granted for a term not exceeding seven years from the date of the grant, except for— 
-
-(a) a lease the grant of which falls within section 4(1)(d), (e) or (f);
-
-(b) a lease the grant of which constitutes a registrable disposition.
-```
+> [!statute] LRA 2002 Sch 3 para 1
+> A leasehold estate in land granted for a term not exceeding seven years from the date of the grant, except for— 
+> 
+> (a) a lease the grant of which falls within section 4(1)(d), (e) or (f);
+> 
+> (b) a lease the grant of which constitutes a registrable disposition.
 
 Legal leases for more than seven years are registrable dispositions: [LRA 2002, s 27(2)(b)](https://www.legislation.gov.uk/ukpga/2002/9/section/27). As part of the registration process, a note of the lease will be added to the register of the freehold title, and it will be binding on a new freehold owner.
 
@@ -62,35 +60,29 @@ Legal leases for more than seven years are registrable dispositions: [LRA 2002, 
 
 Equitable leases do not fall within this provision but may fall within Sch 3 para 2. This sets out the most important and controversial category of overriding interests:
 
-```ad-statute
-title: LRA 2002 Sch 3 para 2
-
-An interest belonging at the time of the disposition to a person in actual occupation, so far as relating to land of which he is in actual occupation, except for—
-
-(a) an interest under a settlement under the Settled Land Act 1925 (c. 18);
-
-(b) an interest of a person of whom inquiry was made before the disposition and who failed to disclose the right when he could reasonably have been expected to do so;
-
-(c) an interest—
-- (i) which belongs to a person whose occupation would not have been obvious on a reasonably careful inspection of the land at the time of the disposition, and
-- (ii) of which the person to whom the disposition is made does not have actual knowledge at that time;
-
-(d) a leasehold estate in land granted to take effect in possession after the end of the period of three months beginning with the date of the grant and which has not taken effect in possession at the time of the disposition.
-```
+> [!statute] LRA 2002 Sch 3 para 2
+> 
+> An interest belonging at the time of the disposition to a person in actual occupation, so far as relating to land of which he is in actual occupation, except for—
+> 
+> (a) an interest under a settlement under the Settled Land Act 1925 (c. 18);
+> 
+> (b) an interest of a person of whom inquiry was made before the disposition and who failed to disclose the right when he could reasonably have been expected to do so;
+> 
+> (c) an interest—
+> - (i) which belongs to a person whose occupation would not have been obvious on a reasonably careful inspection of the land at the time of the disposition, and
+> - (ii) of which the person to whom the disposition is made does not have actual knowledge at that time;
+> 
+> (d) a leasehold estate in land granted to take effect in possession after the end of the period of three months beginning with the date of the grant and which has not taken effect in possession at the time of the disposition.
 
 The provision does have exceptions, but the scope of the basic provision must be considered first. It has a wide reach, as it has the effect of enforcing equitable trust interests, which have not been overreached, against purchasers and lenders.
 
-```ad-guid
-title: Rationale
-The Law Commission explained why it felt it necessary to retain this class of overriding interest in the LRA 2002. First, it felt that it was unreasonable to expect people whose interests had arisen informally, for example under implied trusts, to take formal steps to protect those interests. Second, when people occupy land, they tend not to appreciate that their position may be precarious, and therefore do not think about whether they need to do anything to protect their position. The category of overriding interests based on actual occupation is therefore designed to protect people who do not realise that they are in a vulnerable position.
-```
+> [!guid] Rationale
+> The Law Commission explained why it felt it necessary to retain this class of overriding interest in the LRA 2002. First, it felt that it was unreasonable to expect people whose interests had arisen informally, for example under implied trusts, to take formal steps to protect those interests. Second, when people occupy land, they tend not to appreciate that their position may be precarious, and therefore do not think about whether they need to do anything to protect their position. The category of overriding interests based on actual occupation is therefore designed to protect people who do not realise that they are in a vulnerable position.
 
 It is not the fact of occupation that creates an overriding interest. Mere occupation by itself is of no effect. Rather, what is required is for an individual to have a proprietary right (i.e. one recognised under normal land law principles) over a property. If that individual couples the interest with actual occupation of the property, it is the proprietary interest that will become overriding.
 
-```ad-danger
-title:
-Interest in land + Actual occupation = Overriding interest (subject to exceptions)
-```
+> [!danger]
+> Interest in land + Actual occupation = Overriding interest (subject to exceptions)
 
 The interest must be a qualifying proprietary ‘interest in land’ rather than a personal right, and classic examples are: equitable interests under trusts of land; equitable leases; options to purchase; and interests arising by way of estoppel.
 
@@ -144,15 +136,13 @@ It is the occupation which would not have been obvious. Both elements must be me
 
 #### 3. Easements and Profits a Prendre
 
-```ad-statute
-title: LRA 2002 Sch 3 para 3
-
-(1) A legal easement or profit a prendre, except for an easement, or a profit a prendre which is not registered under [Part 1 of the Commons Act 2006], which at the time of the disposition—
-- (a) is not within the actual knowledge of the person to whom the disposition is made, and
-- (b) would not have been obvious on a reasonably careful inspection of the land over which the easement or profit is exercisable.
-
-(2) The exception in sub-paragraph (1) does not apply if the person entitled to the easement or profit proves that it has been exercised in the period of one year ending with the day of the disposition.
-```
+> [!statute] LRA 2002 Sch 3 para 3
+> 
+> (1) A legal easement or profit a prendre, except for an easement, or a profit a prendre which is not registered under [Part 1 of the Commons Act 2006], which at the time of the disposition—
+> - (a) is not within the actual knowledge of the person to whom the disposition is made, and
+> - (b) would not have been obvious on a reasonably careful inspection of the land over which the easement or profit is exercisable.
+> 
+> (2) The exception in sub-paragraph (1) does not apply if the person entitled to the easement or profit proves that it has been exercised in the period of one year ending with the day of the disposition.
 
 Expressly granted legal easements are registrable dispositions: **LRA 2002, s 27(2)(d)**. As part of the registration process, the easement will appear in the property register of the benefited land, and on the charges register of title of the burdened land. As it is properly registered, it will be binding on a new freehold owner.
 
@@ -160,13 +150,12 @@ This means that **Sched 3 para 3** relates mainly to implied legal easements.
 
 The remainder of the provision is not very easy to follow. It limits the number of easements which can bind as overriding interests by setting out some exceptions. It then complicates matters further by setting out an exception to the exception!
 
-```ad-summary
-Taken altogether, Sched 3 para 3 states that an implied legal easement will be binding as an overriding interest if:
-
-1. The new owner knew about it or
-2. The new owner did not know about it, but it was obvious on a reasonable inspection of the land or
-3. It has been exercised within the 12 months immediately before the disposition.
-```
+> [!summary]
+> Taken altogether, Sched 3 para 3 states that an implied legal easement will be binding as an overriding interest if:
+> 
+> 1. The new owner knew about it or
+> 2. The new owner did not know about it, but it was obvious on a reasonable inspection of the land or
+> 3. It has been exercised within the 12 months immediately before the disposition.
 
 Therefore, most implied legal easements, even those which are not obvious, will be overriding interests as it is highly likely that they will have been exercised recently. For example, an easement through an underground drain, not visible from the surface, will be binding if it has been used recently. This is good news for the holder of the easement but not such good news for the new owner of the burdened land, who will be bound by it.
 
@@ -174,6 +163,5 @@ Therefore, most implied legal easements, even those which are not obvious, will 
 
 However, there are again transitional provisions. Any easement or profit that was an overriding interest immediately prior to 13 October 2003 will retain that status.
 
-```ad-caution
-For exam purposes, always start with the basic rule in s 28, then consider whether s 29 applies, then consider any overriding interests and explain why they are overriding. 
-```
+> [!caution]
+> For exam purposes, always start with the basic rule in s 28, then consider whether s 29 applies, then consider any overriding interests and explain why they are overriding. 

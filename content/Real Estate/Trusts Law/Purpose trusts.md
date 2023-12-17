@@ -15,9 +15,8 @@ Exceptions to the beneficiary principle are explored.
 > ‘Every…trust must have a definite object. There must be somebody, in whose favour the Court can decree performance.’  
 > Morice v Bishop of Durham (1804) 9 Ves 399 (Sir William Grant MR)
 
-```ad-question
-Is it possible to create a trust for a purpose rather than a beneficiary or class of beneficiaries?
-```
+> [!question]
+> Is it possible to create a trust for a purpose rather than a beneficiary or class of beneficiaries?
 
 There are two significant exceptions to the beneficiary principle:
 
@@ -87,13 +86,12 @@ The rules in relation to certainty are much more flexible for charitable purpose
 
 [[Re Astor's Settlement Trusts [1952] Ch 534]] is an example of a case where an attempted non-charitable purpose trust was found to be void in part because the intended purposes were too uncertain.
 
-```ad-summary
-- Trusts which have a purpose rather than a person as their object will be void for non-compliance with the beneficiary principle unless they fall within one of the recognised exceptions to that principle.
-- The largest class of exceptions is charitable trusts, which are enforceable by the Charity Commission (using authority delegated by the Attorney General).
-- Charitable trusts benefit from less strict rules on certainty of purpose and perpetuity.
-- There is a narrow class of anomalous non-charitable purpose trusts known as the Endacott exceptions. These are valid trusts but do not have anyone to enforce them.
-- The normal rules on [[certainty of objects]] apply to non-charitable purpose trusts. They are also subject to the common law perpetuity rules.
-```
+> [!summary]
+> - Trusts which have a purpose rather than a person as their object will be void for non-compliance with the beneficiary principle unless they fall within one of the recognised exceptions to that principle.
+> - The largest class of exceptions is charitable trusts, which are enforceable by the Charity Commission (using authority delegated by the Attorney General).
+> - Charitable trusts benefit from less strict rules on certainty of purpose and perpetuity.
+> - There is a narrow class of anomalous non-charitable purpose trusts known as the Endacott exceptions. These are valid trusts but do not have anyone to enforce them.
+> - The normal rules on [[certainty of objects]] apply to non-charitable purpose trusts. They are also subject to the common law perpetuity rules.
 
 ## Charitable Purposes
 
@@ -342,12 +340,11 @@ If a trust has a mixture of charitable and non-charitable purposes, the conseque
 - If the non-charitable purpose can be construed as ‘incidental or subsidiary’ to the main, charitable purpose, the trust will remain effective ([[Latimer v IRC]]).
 - If the charitable and non-charitable purposes can be separated, and a portion of the fund allocated to each, the court will ‘sever’ the trust and recognise the charitable part. This will only be possible if the trust language contemplates severance of the fund ([[Salusbury v Denton]]). This requires the amount allocated to each purpose to be quantifiable ([[Re Coxen]]).
 
-```ad-summary
-- The law on charitable purposes has developed over hundreds of years, before codification in the Charities Act 2006 and consolidation in the Charities Act 2011.
-- There are 12 specific heads of charity set out under section 3(1) Charities Act 2011, which expand the four traditional heads of charity recognised at common law.
-- There is also a further head of charity in this section, allowing the recognition of further charitable purposes by reference to the previous case law and by analogy to recognised charitable purposes.
-- The purposes of a charitable trust must be wholly and exclusively charitable, otherwise the trust may fail (unless it is a recognised non-charitable purpose trust, the non-charitable purposes are ancillary or it is possible to sever the fund and save the charitable component).
-```
+> [!summary]
+> - The law on charitable purposes has developed over hundreds of years, before codification in the Charities Act 2006 and consolidation in the Charities Act 2011.
+> - There are 12 specific heads of charity set out under section 3(1) Charities Act 2011, which expand the four traditional heads of charity recognised at common law.
+> - There is also a further head of charity in this section, allowing the recognition of further charitable purposes by reference to the previous case law and by analogy to recognised charitable purposes.
+> - The purposes of a charitable trust must be wholly and exclusively charitable, otherwise the trust may fail (unless it is a recognised non-charitable purpose trust, the non-charitable purposes are ancillary or it is possible to sever the fund and save the charitable component).
 
 ## Public Benefit
 
@@ -361,16 +358,14 @@ There are two elements to the public benefit requirement:
 - whether there is an identifiable benefit; and
 - what constitutes the public, or a section of the public.
 
-```ad-statute
-title: s 4 Charities Act 2011
-(1) In this Act “the public benefit requirement” means the requirement in section 2(1)(b) that a purpose falling within section 3(1) must be for the public benefit if it is to be a charitable purpose.
-
-(2) In determining whether the public benefit requirement is satisfied in relation to any purpose falling within section 3(1), it is not to be presumed that a purpose of a particular description is for the public benefit.
-
-(3) In this Chapter any reference to the public benefit is a reference to the public benefit as that term is understood for the purposes of the law relating to charities in England and Wales.
-
-(4) Subsection (3) is subject to subsection (2).
-```
+> [!statute] s 4 Charities Act 2011
+> (1) In this Act “the public benefit requirement” means the requirement in section 2(1)(b) that a purpose falling within section 3(1) must be for the public benefit if it is to be a charitable purpose.
+> 
+> (2) In determining whether the public benefit requirement is satisfied in relation to any purpose falling within section 3(1), it is not to be presumed that a purpose of a particular description is for the public benefit.
+> 
+> (3) In this Chapter any reference to the public benefit is a reference to the public benefit as that term is understood for the purposes of the law relating to charities in England and Wales.
+> 
+> (4) Subsection (3) is subject to subsection (2).
 
 ### Identifiable Benefit
 
@@ -468,15 +463,14 @@ The question for the court to decide in construing the document is whether there
 - [[Biscoe v Jackson]]
 - [[Re Good’s Will Trusts]]
 
-```ad-summary
-- Charitable trusts must satisfy the public benefit test set out in the Charities Act 2011.
-- There is no presumption of public benefit and it is necessary to demonstrate that the trust satisfies this requirement.
-- Trustees must consider Charity Commission guidance on the meaning of public benefit.
-- The question of public benefit is separate to that of whether the purposes are charitable. It must be shown that the trust provides some ascertainable benefit.
-- The purposes of a trust must be for the public or a section of the public. The trust must not be restricted to a private class of individuals.
-- Charities may charge for their services but such fees must not act so as to restrict the poor from benefitting from the trust.
-- If the purposes of a charitable trust fail, the cy-près doctrine applies, allowing the property to continue to be used for other charitable purposes.
-```
+> [!summary]
+> - Charitable trusts must satisfy the public benefit test set out in the Charities Act 2011.
+> - There is no presumption of public benefit and it is necessary to demonstrate that the trust satisfies this requirement.
+> - Trustees must consider Charity Commission guidance on the meaning of public benefit.
+> - The question of public benefit is separate to that of whether the purposes are charitable. It must be shown that the trust provides some ascertainable benefit.
+> - The purposes of a trust must be for the public or a section of the public. The trust must not be restricted to a private class of individuals.
+> - Charities may charge for their services but such fees must not act so as to restrict the poor from benefitting from the trust.
+> - If the purposes of a charitable trust fail, the cy-près doctrine applies, allowing the property to continue to be used for other charitable purposes.
 
 ## Non-charitable Purpose Trusts
 
@@ -522,9 +516,8 @@ The perpetuity period can be extended by reference to a human life in being i.e.
 
 It must be certain at the time the trust is created that it will come to an end within the perpetuity period, otherwise the trust will be void. The "wait and see" rule does not apply.
 
-```ad-example
-"£5,000 to my trustees on trust to maintain my grave for a period not exceeding 21 years following the death of the last surviving descendant of Queen Elizabeth II who is alive at the date of my death."
-```
+> [!example]
+> "£5,000 to my trustees on trust to maintain my grave for a period not exceeding 21 years following the death of the last surviving descendant of Queen Elizabeth II who is alive at the date of my death."
 
 It seems clear that animal lives cannot be used as lives in being. Lives means human lives. Although the case law is not absolutely consistent on this point, it is likely that a trust to maintain an animal for the rest of its life will be void because it cannot be said with certainty that the animal will definitely die (and the trust therefore come to an end) within the perpetuity period – even if this may be highly likely.
 
@@ -534,13 +527,12 @@ The rule against inalienability is applied strictly. A drafter should therefore 
 
 Earlier case law has upheld more ambiguous references to perpetuity, but there is no guarantee these would be upheld today.
 
-```ad-example
-> "For so long as the trustees can legally do so."
-
-In the past, provisions such as this have been interpreted as references to the 21 year perpetuity period and consequently upheld as valid.
-
-However, this is not best drafting practice. It is advisable to include an express perpetuity period.
-```
+> [!example]
+> > "For so long as the trustees can legally do so."
+> 
+> In the past, provisions such as this have been interpreted as references to the 21 year perpetuity period and consequently upheld as valid.
+> 
+> However, this is not best drafting practice. It is advisable to include an express perpetuity period.
 
 There is an academic debate as to whether non-charitable purpose trusts should be limited to these specific exceptions. You may wish to read more widely around this topic.
 

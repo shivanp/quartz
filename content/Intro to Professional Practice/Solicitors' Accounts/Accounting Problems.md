@@ -16,10 +16,8 @@ One problem is that a large number of client ledgers are required, with frequent
 
 May receive a deposit to hold as stakeholder. This is a receipt of client money, so must be held in the client bank account. This is held jointly for the buyer and seller. It will not become the property of the seller unless and until completion.
 
-```ad-guid
-title: Law Society guidance
-Stakeholder money may be shown on the seller's ledger but must be clearly labelled as stakeholder money held for both buyer and seller. 
-```
+> [!guid] Law Society guidance
+> Stakeholder money may be shown on the seller's ledger but must be clearly labelled as stakeholder money held for both buyer and seller. 
 
 Alternatively, use a separate stakeholder ledger. If a separate stakeholder ledger is used, once monies received from the buyer:
 

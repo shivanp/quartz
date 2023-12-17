@@ -17,26 +17,22 @@ Where warranties are given by reference to the ‘knowledge, information or beli
 
 The seller will also seek to restrict its liability in relation to the warranties and indemnities generally by including a set of standard limitation clauses in the agreement.
 
-```ad-important
-title: Share sale
-Limitations on the seller’s liability for breach of warranty contained in a share sale agreement are not controlled by UCTA 1977 since Sch 1, para 1(e) precludes the application of its relevant provisions to any contract so far as it relates to the ‘creation or transfer of securities or of any right or interest in securities’.
-```
+> [!important] Share sale
+> Limitations on the seller’s liability for breach of warranty contained in a share sale agreement are not controlled by UCTA 1977 since Sch 1, para 1(e) precludes the application of its relevant provisions to any contract so far as it relates to the ‘creation or transfer of securities or of any right or interest in securities’.
 
 But UCTA 1977 applies for asset sale agreements.
 
-```ad-statute
-title: s 3 UCTA 1977 - Liability arising in contract
-
-(1) This section applies as between contracting parties where one of them deals on the other’s written standard terms of business.
-
-(2) As against that party, the other cannot by reference to any contract term—
-- (a) when himself in breach of contract, exclude or restrict any liability of his in respect of the breach; or
-- (b) claim to be entitled—
-	- (i) to render a contractual performance substantially different from that which was reasonably expected of him, or
-	- (ii) in respect of the whole or any part of his contractual obligation, to render no performance at all,
-
-except in so far as (in any of the cases mentioned above in this subsection) the contract term satisfies the requirement of **reasonableness**. 
-```
+> [!statute] s 3 UCTA 1977 - Liability arising in contract
+> 
+> (1) This section applies as between contracting parties where one of them deals on the other’s written standard terms of business.
+> 
+> (2) As against that party, the other cannot by reference to any contract term—
+> - (a) when himself in breach of contract, exclude or restrict any liability of his in respect of the breach; or
+> - (b) claim to be entitled—
+> 	- (i) to render a contractual performance substantially different from that which was reasonably expected of him, or
+> 	- (ii) in respect of the whole or any part of his contractual obligation, to render no performance at all,
+> 
+> except in so far as (in any of the cases mentioned above in this subsection) the contract term satisfies the requirement of **reasonableness**. 
 
 - Section 3 UCTA 1977 applies only where one party deals on the other’s written standard terms of business
 - The reasonableness test will be relevant in connection with any exclusion of liability for misrepresentation.
@@ -48,9 +44,8 @@ except in so far as (in any of the cases mentioned above in this subsection) the
 
 The seller will negotiate for a maximum liability under the warranties and indemnities (commonly the price paid by the buyer for the target).
 
-```ad-note
-In some circumstances, damages claimed for warranty or indemnity breaches can exceed the purchase price (e.g., where a target company has been sold at an undervalue). But even here, a properly drafted maximum liability clause may protect a seller and limit its liability to the maximum liability it has contractually agreed with a buyer ([[116 Cardamon Ltd v MacAlister [2019] EWHC 1200 (Comm)]]).
-```
+> [!note]
+> In some circumstances, damages claimed for warranty or indemnity breaches can exceed the purchase price (e.g., where a target company has been sold at an undervalue). But even here, a properly drafted maximum liability clause may protect a seller and limit its liability to the maximum liability it has contractually agreed with a buyer ([[116 Cardamon Ltd v MacAlister [2019] EWHC 1200 (Comm)]]).
 
 #### Minimum Limits
 
@@ -145,10 +140,8 @@ In the UK, on exchange of contracts, two copies of the agreed form of disclosure
 
 ### Deemed Disclosures
 
-```ad-defn
-title: General disclosures
-The disclosure letter or schedule will state that a number of matters are deemed to have been disclosed to the buyer. These deemed disclosures are often referred to as ‘general disclosures’.
-```
+> [!defn] General disclosures
+> The disclosure letter or schedule will state that a number of matters are deemed to have been disclosed to the buyer. These deemed disclosures are often referred to as ‘general disclosures’.
 
 These relate to publicly available information and occasionally information made available to the buyer during due diligence. The effect of deemed or general disclosure is to pass to the buyer the risk that elements of the information will qualify the warranties. Usually include:
 
@@ -196,9 +189,8 @@ In [[Infiniteland Ltd v Artisan Contracting Ltd [2005] EWCA Civ 758]], the SPA c
 - The Court confirmed that it would give effect to an express provision in the sale agreement prohibiting warranty claims of which the buyer had constructive knowledge.
 - On a 2:1 majority, it was held that ‘actual’ and ‘imputed’ knowledge are different. The knowledge of the professional adviser was not the buyer’s knowledge, and the seller was therefore prevented from raising the buyer’s knowledge as a defence to the warranty claim.
 
-```ad-action
-The parties need to stipulate in the agreement what type of knowledge will or will not affect a buyer’s rights and remedies for a claim for breach of warranty.
-```
+> [!action]
+> The parties need to stipulate in the agreement what type of knowledge will or will not affect a buyer’s rights and remedies for a claim for breach of warranty.
 
 #### Liability for Information From Third Parties
 

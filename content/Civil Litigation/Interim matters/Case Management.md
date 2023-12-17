@@ -15,24 +15,22 @@ date modified: Sunday, December 10th 2023, 12:40:44 am
 
 The court has a duty to manage cases actively:
 
-```ad-statute
-title: r 1.4 CPR 1998
-(1) The court must further the overriding objective by actively managing cases.
-
-(2) Active case management includes —
-- (a) encouraging the parties to co-operate with each other in the conduct of the proceedings;
-- (b) identifying the issues at an early stage;
-- (c) deciding promptly which issues need full investigation and trial and accordingly disposing summarily of the others;
-- (d) deciding the order in which issues are to be resolved;
-- (e) encouraging the parties to use an alternative dispute resolution(GL) procedure if the court considers that appropriate and facilitating the use of such procedure;
-- (f) helping the parties to settle the whole or part of the case;
-- (g) fixing timetables or otherwise controlling the progress of the case;
-- (h) considering whether the likely benefits of taking a particular step justify the cost of taking it;
-- (i) dealing with as many aspects of the case as it can on the same occasion;
-- (j) dealing with the case without the parties needing to attend at court;
-- (k) making use of technology; and
-- (l) giving directions to ensure that the trial of a case proceeds quickly and efficiently.
-```
+> [!statute] r 1.4 CPR 1998
+> (1) The court must further the overriding objective by actively managing cases.
+> 
+> (2) Active case management includes —
+> - (a) encouraging the parties to co-operate with each other in the conduct of the proceedings;
+> - (b) identifying the issues at an early stage;
+> - (c) deciding promptly which issues need full investigation and trial and accordingly disposing summarily of the others;
+> - (d) deciding the order in which issues are to be resolved;
+> - (e) encouraging the parties to use an alternative dispute resolution(GL) procedure if the court considers that appropriate and facilitating the use of such procedure;
+> - (f) helping the parties to settle the whole or part of the case;
+> - (g) fixing timetables or otherwise controlling the progress of the case;
+> - (h) considering whether the likely benefits of taking a particular step justify the cost of taking it;
+> - (i) dealing with as many aspects of the case as it can on the same occasion;
+> - (j) dealing with the case without the parties needing to attend at court;
+> - (k) making use of technology; and
+> - (l) giving directions to ensure that the trial of a case proceeds quickly and efficiently.
 
 r 3.1(2): lists many of the court's powers. The court can make any order subject to conditions and can specify the consequence of non-compliance.
 
@@ -40,13 +38,11 @@ Under r 3.1(5) the court may make an order that a party pay a sum of money into 
 
 ### Striking Out Statement of Case
 
-```ad-statute
-title: r 3.4(2) CPR 1998
-The court may strike out a statement of case if it appears to the court –
-- (a) that the statement of case discloses no reasonable grounds for bringing or defending the claim;
-- (b) that the statement of case is an abuse of the court’s process or is otherwise likely to obstruct the just disposal of the proceedings; or
-- (c) that there has been a failure to comply with a rule, practice direction or court order.
-```
+> [!statute] r 3.4(2) CPR 1998
+> The court may strike out a statement of case if it appears to the court –
+> - (a) that the statement of case discloses no reasonable grounds for bringing or defending the claim;
+> - (b) that the statement of case is an abuse of the court’s process or is otherwise likely to obstruct the just disposal of the proceedings; or
+> - (c) that there has been a failure to comply with a rule, practice direction or court order.
 
 This is frequently used when a statement of case is vague/ incoherent, or where the facts disclosed do not disclose any legally recognisable claim. If a statement of case is salvageable through amendment, the court may give a part the opportunity to do this.
 
@@ -72,13 +68,11 @@ Valid grounds for striking out a statement of case. But other sanctions also ava
 
 ### Unless Order
 
-```ad-question
-title: A party has not taken a step in proceedings according to a court order, what should the other party do?
-1. Chase up the defaulting party in correspondence. 
-2. Apply to the court for an unless order. 
-	- Do this promptly
-	- First warn the other party of intention to do so.
-```
+> [!question] A party has not taken a step in proceedings according to a court order, what should the other party do?
+> 1. Chase up the defaulting party in correspondence. 
+> 2. Apply to the court for an unless order. 
+> 	- Do this promptly
+> 	- First warn the other party of intention to do so.
 
 PD 28 para 5.1:
 
@@ -103,13 +97,11 @@ case, so as to enable it to deal justly with the application, including the need
 
 ### Denton
 
-```ad-test
-title: Denton test
-The test was established in [[Denton v TH White Ltd [2014] EWCA Civ 906]] as follows:
-1. Identify and assess the seriousness or significance of the relevant failure. If a breach was not serious or significant, relief would usually be granted and there would be no need to spend much time on the second and third stages.
-2. Consider why the failure or default occurred.
-3. Evaluate ‘all the circumstances of the case, so as to enable [the court] to deal justly with the application’.
-```
+> [!test] Denton test
+> The test was established in [[Denton v TH White Ltd [2014] EWCA Civ 906]] as follows:
+> 1. Identify and assess the seriousness or significance of the relevant failure. If a breach was not serious or significant, relief would usually be granted and there would be no need to spend much time on the second and third stages.
+> 2. Consider why the failure or default occurred.
+> 3. Evaluate ‘all the circumstances of the case, so as to enable [the court] to deal justly with the application’.
 
 - The court normally considers as one of the relevant circumstances of the case the defaulter’s previous conduct in the litigation, including any non-compliance with court orders.
 - A party might be penalised if they sought to take advantage of a mistake by an opponent where the failure was neither serious nor significant. Opposing an application for relief would be viewed as a breach of r 1.3, which requires parties to help the court to further the **overriding objective**.
@@ -195,28 +187,24 @@ id5 --> |">£25,000"| id6.3(Multi-track usually)
 id5 --> |">£100k or £50k <br/>for personal injury"| id6.4(Multi-track)
 ```
 
-```ad-statute
-title: r 16.8(1) CPR 1998
-When deciding the track for a claim, the matters to which the court shall have regard include –
-- (a) the financial value, if any, of the claim;
-- (b) the nature of the remedy sought;
-- (c) the likely complexity of the facts, law or evidence;
-- (d) the number of parties or likely parties;
-- (e) the value of any counterclaim or other Part 20 claim and the complexity of any matters relating to it;
-- (f) the amount of oral evidence which may be required;
-- (g) the importance of the claim to persons who are not parties to the proceedings;
-- (h) the views expressed by the parties; and
-- (i) the circumstances of the parties.
-```
+> [!statute] r 16.8(1) CPR 1998
+> When deciding the track for a claim, the matters to which the court shall have regard include –
+> - (a) the financial value, if any, of the claim;
+> - (b) the nature of the remedy sought;
+> - (c) the likely complexity of the facts, law or evidence;
+> - (d) the number of parties or likely parties;
+> - (e) the value of any counterclaim or other Part 20 claim and the complexity of any matters relating to it;
+> - (f) the amount of oral evidence which may be required;
+> - (g) the importance of the claim to persons who are not parties to the proceedings;
+> - (h) the views expressed by the parties; and
+> - (i) the circumstances of the parties.
 
-```ad-statute
-title: r 26.8(2)
-It is for the court to assess the financial value of a claim and in doing so it will disregard –
-- (a) any amount not in dispute;
-- (b) any claim for interest;
-- (c) costs; and
-- (d) any contributory negligence.
-```
+> [!statute] r 26.8(2)
+> It is for the court to assess the financial value of a claim and in doing so it will disregard –
+> - (a) any amount not in dispute;
+> - (b) any claim for interest;
+> - (c) costs; and
+> - (d) any contributory negligence.
 
 The fast track is the normal track for claims with a value exceeding £10,000, but not £25,000, only if the trial is likely to last for no longer than one day; oral expert evidence at trial will be limited to no more than one expert per party in relation to any expert field and there will be expert evidence in no more than two expert fields.
 
@@ -228,13 +216,11 @@ If a party is dissatisfied, may appeal/ apply to the court for reallocation of t
 
 Aims are to process claims quickly at minimal cost.
 
-```ad-statute
-title: PD 26 para 8(1)
-- (a) The small claims track is intended to provide a proportionate procedure by which most straightforward claims with a financial value of not more than £10,000 can be decided, without the need for substantial pre-hearing preparation and the formalities of a traditional trial, and without incurring large legal costs.
-- (b) The procedures laid down in Part 27 for the preparation of the case and the conduct of the hearing are designed to make it possible for a litigant to conduct their own case without legal representation if they wish.
-- (c) Cases generally suitable for the small claims track will include consumer disputes, accident claims, disputes about the ownership of goods, and most disputes between a landlord and tenant other than those for possession.
-- (d) A case involving a disputed allegation of dishonesty will not usually be suitable for the small claims track.
-```
+> [!statute] PD 26 para 8(1)
+> - (a) The small claims track is intended to provide a proportionate procedure by which most straightforward claims with a financial value of not more than £10,000 can be decided, without the need for substantial pre-hearing preparation and the formalities of a traditional trial, and without incurring large legal costs.
+> - (b) The procedures laid down in Part 27 for the preparation of the case and the conduct of the hearing are designed to make it possible for a litigant to conduct their own case without legal representation if they wish.
+> - (c) Cases generally suitable for the small claims track will include consumer disputes, accident claims, disputes about the ownership of goods, and most disputes between a landlord and tenant other than those for possession.
+> - (d) A case involving a disputed allegation of dishonesty will not usually be suitable for the small claims track.
 
 All claims other than road traffic accidents, personal injury or housing disrepair will be  
 referred to the Small Claims Mediation Service if all parties consent to referral in their  
@@ -280,9 +266,8 @@ PD 28 para 5: if a party fails to comply with a direction, another party may app
 
 This will only exceptionally lead to a postponement of the trial date (para 5.4(1)). Court may order that the trial continue for issues which can be resolved.
 
-```ad-tip
-The trial date is sacrosanct. 
-```
+> [!tip]
+> The trial date is sacrosanct. 
 
 #### Exchange of Witness Statements & Reports
 
@@ -290,10 +275,8 @@ Usually exchanged simultaneously. The court will not make a direction giving per
 
 #### Pre-trial Checklist (PD 28 Para 6)
 
-```ad-guid
-title: Purpose
-To check that directions have been complied with so the court can fix a date for trial.
-```
+> [!guid] Purpose
+> To check that directions have been complied with so the court can fix a date for trial.
 
 The court will specify when to return the pre-trial checklist ( $\geq 8$ weeks before trial). Form N170 used. Parties encouraged to exchange before filing.
 
@@ -330,16 +313,14 @@ The starting point for drafting case management directions will be relevant mode
 
 #### Case Management Conference
 
-```ad-statute
-title: PD 29 para 5.1
-The court will at any case management conference:
-
-(1) review the steps which the parties have taken in the preparation of the case, and in particular their compliance with any directions that the court may have given,
-
-(2) decide and give directions about the steps which are to be taken to secure the progress of the claim in accordance with the overriding objective, and
-
-(3) ensure as far as it can that all agreements that can be reached between the parties about the matters in issue and the conduct of the claim are made and recorded.
-```
+> [!statute] PD 29 para 5.1
+> The court will at any case management conference:
+> 
+> (1) review the steps which the parties have taken in the preparation of the case, and in particular their compliance with any directions that the court may have given,
+> 
+> (2) decide and give directions about the steps which are to be taken to secure the progress of the claim in accordance with the overriding objective, and
+> 
+> (3) ensure as far as it can that all agreements that can be reached between the parties about the matters in issue and the conduct of the claim are made and recorded.
 
 Court will consider (PD 29 para 5.3):
 
@@ -360,33 +341,27 @@ Court will consider (PD 29 para 5.3):
 
 ##### Expert Evidence
 
-```ad-statute
-title: PD 29 para 5.5
-1. The court will not at this stage give permission to use expert evidence unless it can identify each expert by name or field in its order and say whether his evidence is to be given orally or by the use of his report.
-2. A party who obtains expert evidence before obtaining a direction about it does so at his own risk as to costs, except where he obtained the evidence in compliance with a pre-action protocol.
-```
+> [!statute] PD 29 para 5.5
+> 1. The court will not at this stage give permission to use expert evidence unless it can identify each expert by name or field in its order and say whether his evidence is to be given orally or by the use of his report.
+> 2. A party who obtains expert evidence before obtaining a direction about it does so at his own risk as to costs, except where he obtained the evidence in compliance with a pre-action protocol.
 
 ##### Preparing
 
-```ad-statute
-title: PD 29 para 5.6
-To assist the court, the parties and their legal advisers should:
-1. ensure that all documents that the court is likely to ask to see (including witness statements and experts’ reports) are brought to the hearing,
-2. consider whether the parties should attend,
-3. consider whether a case summary will be useful, and
-4. consider what orders each wishes to be made and give notice of them to the other parties.
-```
+> [!statute] PD 29 para 5.6
+> To assist the court, the parties and their legal advisers should:
+> 1. ensure that all documents that the court is likely to ask to see (including witness statements and experts’ reports) are brought to the hearing,
+> 2. consider whether the parties should attend,
+> 3. consider whether a case summary will be useful, and
+> 4. consider what orders each wishes to be made and give notice of them to the other parties.
 
 ##### Case Summary
 
-```ad-statute
-title: PD 29 para 5.7
-(1) A case summary:
-- (a) should be designed to assist the court to understand and deal with the questions before it,
-- (b) should set out a brief chronology of the claim, the issues of fact which are agreed or in dispute and the evidence needed to decide them,
-- (c) should not normally exceed 500 words in length, and
-- (d) should be prepared by the claimant and agreed with the other parties if possible.
-```
+> [!statute] PD 29 para 5.7
+> (1) A case summary:
+> - (a) should be designed to assist the court to understand and deal with the questions before it,
+> - (b) should set out a brief chronology of the claim, the issues of fact which are agreed or in dispute and the evidence needed to decide them,
+> - (c) should not normally exceed 500 words in length, and
+> - (d) should be prepared by the claimant and agreed with the other parties if possible.
 
 The case summary is meant to assist the judge to identify issues in dispute. In the case summary, parties can name witnesses, or just say how many will likely be used and fields of expertise.
 

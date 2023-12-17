@@ -34,10 +34,9 @@ Corporate manslaughter is an indictable only offence (meaning a claim can only b
 
 Enacted to establish the offence of corporate manslaughter. Abolishes the offence of gross negligence manslaughter as far as it relates to companies and organisations.
 
-```ad-defn
-Corporate manslaughter is committed by a company if the manner in which its activities are managed or organised by its senior management causes the death of a person and amounts to a gross breach of the relevant duty of care owed to the person (ss 1-3 Corporate Homicide Act).
-
-```
+> [!defn]
+> Corporate manslaughter is committed by a company if the manner in which its activities are managed or organised by its senior management causes the death of a person and amounts to a gross breach of the relevant duty of care owed to the person (ss 1-3 Corporate Homicide Act).
+> 
 
 If guilty, company could be liable for
 

@@ -12,9 +12,8 @@ title: Estates in land
 
 All physical land in the country is owned by the Crown.
 
-```ad-defn
-A proprietary right of possession is called an **estate** in the land.
-```
+> [!defn]
+> A proprietary right of possession is called an **estate** in the land.
 
 There are two recognised legal estates: the freehold and the leasehold. These determine the length of time that rights to use and possess land can be enjoyed.
 
@@ -29,9 +28,8 @@ The highest possible estate in land is the fee simple absolute in possession ([s
 | Absolute      | Estate is not liable to end prematurely, meaning it is not determinable or subject to a condition. |
 | In possession | The fee simple owner has a current right to use and enjoyment of the property. Physical possession is not necessary, and includes receiving rent if the property is let to a tenant under lease.                                                                                                    |
 
-```ad-info
-The fee simple absolute in possession freehold is the only one recognised at law, so ignore any references to other types. 
-```
+> [!info]
+> The fee simple absolute in possession freehold is the only one recognised at law, so ignore any references to other types. 
 
 For practical purposes, the holder of the freehold in a piece of land is equivalent to the owner of any other property. This person is referred to as the landowner.
 
@@ -64,21 +62,20 @@ Any piece of land may be subject to a hierarchy of estates (rights of possession
 
 The same piece of land may simultaneously be subject to a freehold, a lease and multiple sub-leases, with the holder of each owning the right to possession of the land, subject to any lesser rights they have granted for their slice of time.
 
-```ad-example
-A person (F1) owns the freehold estate to their house. They have a right to possess it indefinitely.
-
-F1 decides to move to Australia for 5 years on a work exchange programme. They do not want to sell the house so decide to grant a lease of the whole house for 5 years to a tenant (T1). This gives the tenant the right to possess the land for 5 years ie T1 holds a leasehold estate in the land. F1 still holds the freehold estate, which is said to be in reversion, but this piece of land is now subject to a leasehold estate too.
-
-One year later T1 decides they no longer needs the top floor of the house. They grant a lease of the top floor only for 3 years to T2. T2 now also holds a leasehold estate in the top floor of the house, so of part of the land. As this lease to T2 is shorter than T1’s lease and granted by T1, it is described as an underlease or sub-lease. The terms are used interchangeably.
-
-During the duration of the lease and sub-lease the piece of land can be described as being subject to the following estates in land:
-
-- Freehold estate help by F1.
-- Leasehold estate held by T1.
-- Leasehold estate held by T2.
-
-F1, T1 and T2 all enjoy a proprietary right in the same piece of land at the same time.
-```
+> [!example]
+> A person (F1) owns the freehold estate to their house. They have a right to possess it indefinitely.
+> 
+> F1 decides to move to Australia for 5 years on a work exchange programme. They do not want to sell the house so decide to grant a lease of the whole house for 5 years to a tenant (T1). This gives the tenant the right to possess the land for 5 years ie T1 holds a leasehold estate in the land. F1 still holds the freehold estate, which is said to be in reversion, but this piece of land is now subject to a leasehold estate too.
+> 
+> One year later T1 decides they no longer needs the top floor of the house. They grant a lease of the top floor only for 3 years to T2. T2 now also holds a leasehold estate in the top floor of the house, so of part of the land. As this lease to T2 is shorter than T1’s lease and granted by T1, it is described as an underlease or sub-lease. The terms are used interchangeably.
+> 
+> During the duration of the lease and sub-lease the piece of land can be described as being subject to the following estates in land:
+> 
+> - Freehold estate help by F1.
+> - Leasehold estate held by T1.
+> - Leasehold estate held by T2.
+> 
+> F1, T1 and T2 all enjoy a proprietary right in the same piece of land at the same time.
 
 ### Commonhold
 

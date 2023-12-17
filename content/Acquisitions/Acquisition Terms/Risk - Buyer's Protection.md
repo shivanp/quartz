@@ -74,9 +74,8 @@ Application to breach of warranty:
 
 The buyer's loss is the difference between the value of the shares if the warranty had been true and their actual value (i.e., the value of the shares with and without the breach). The basis for valuing the shares will be relevant in assessing the loss.  
 
-```ad-example
-Where there is a breach of warranty which results in the assets of the target being less than expected, this may not have a direct effect on the value of the shares, unless they were valued on an assets-related basis.
-```
+> [!example]
+> Where there is a breach of warranty which results in the assets of the target being less than expected, this may not have a direct effect on the value of the shares, unless they were valued on an assets-related basis.
 
 ### Pre-estimate of Damages
 
@@ -88,11 +87,9 @@ Liquidated damages and penalties:
 
 - Where the contractually agreed consequences of a breach are oppressive, the penalty rule applies ([[Cavendish Square Holdings BV v Talal El Makdessi [2015] UKSC 67]])
 
-```ad-test
-title:*Makdessi* test
-The true test for a penalty is therefore now ‘whether the impugned provision is a secondary obligation which imposes a detriment on the contract-breaker out of all proportion to any legitimate interest of the innocent party in the enforcement of the primary obligation’.
-
-```
+> [!test] *Makdessi* test
+> The true test for a penalty is therefore now ‘whether the impugned provision is a secondary obligation which imposes a detriment on the contract-breaker out of all proportion to any legitimate interest of the innocent party in the enforcement of the primary obligation’.
+> 
 
 In many civil code jurisdictions, warranties are likely to be structured as guarantees, whereby the seller guarantees that the individual warranties are correct. In the event that the object of the purchase does not meet the standards set out in the warranties, the buyer will be entitled to the remedies as set out in the sale and purchase agreement.
 
@@ -100,9 +97,8 @@ In many civil code jurisdictions, warranties are likely to be structured as guar
 
 If any statements which have been made by or on behalf of the seller prove to be untrue, the buyer may under common law have a claim for misrepresentation.
 
-```ad-note
-Misrepresentation is a tort. 
-```
+> [!note]
+> Misrepresentation is a tort. 
 
 ### General Principles
 
@@ -125,11 +121,9 @@ Qualifications:
 
 If the misrepresentation is innocent or negligent, s 2(2) of the Misrepresentation Act 1967 provides that the court ‘may declare the contract subsisting and award damages in lieu of rescission’. This is a court discretion to award damages; no contractual right.
 
-```ad-question
-title: Can the court still award damages in lieu of rescission if rescission itself has been lost due to one of the equitable bars?
-
-No: [[Salt v Stratstone Specialist Ltd [2015] EWCA Civ 745]]
-```
+> [!question] Can the court still award damages in lieu of rescission if rescission itself has been lost due to one of the equitable bars?
+> 
+> No: [[Salt v Stratstone Specialist Ltd [2015] EWCA Civ 745]]
 
 If the misrepresentation is negligent, the innocent party is **entitled** to damages under s 2(1). Under s 2(1), damages are measured on the tortious basis, which aims to put the innocent party in the position it would have been in if the tort had not been committed.
 
@@ -151,24 +145,20 @@ To exclude liability for misrepresentation, an express exclusion provision in cl
 
 Estops the buyer from claiming that it entered into an agreement in reliance on pre-contractual statements made by the seller.
 
-```ad-question
-title: Since non-reliance statements prevented liability for misrepresentation rather than strictly excluding it, are they subject to the reasonableness test in s 3 MA 1967?
-Yes, [[Springwell Navigation Corp v JP Morgan Chase Bank [2010] EWCA Civ 1221]]. The practical reality is excluding or restricting liability. 
-```
+> [!question] Since non-reliance statements prevented liability for misrepresentation rather than strictly excluding it, are they subject to the reasonableness test in s 3 MA 1967?
+> Yes, [[Springwell Navigation Corp v JP Morgan Chase Bank [2010] EWCA Civ 1221]]. The practical reality is excluding or restricting liability. 
 
 To make such statements “reasonable”, it is common for the seller to ensure that the buyer confirms its non-reliance only in relation to non-fraudulent misrepresentation, with an express exclusion in relation to fraudulent misrepresentation. This is despite a House of Lords House of Lords decision in [[HIH Casualty and General Insurance Ltd v Chase Manhattan Bank [2003] UKHL 6]] suggesting this is not necessary. Held that ‘in the absence of words which expressly refer to dishonesty, it goes without saying that underlying the contractual arrangements of the parties will be a common assumption that the persons involved will behave honestly’.
 
-```ad-action
-It is nevertheless considered good practice that the Buyer expressly agrees to waive its right to damages or recission only in relation to non-fraudulent misrepresentation.
-```
+> [!action]
+> It is nevertheless considered good practice that the Buyer expressly agrees to waive its right to damages or recission only in relation to non-fraudulent misrepresentation.
 
 #### Right of Rescission
 
 Even when including an entire agreement clause and non-reliance clause, many representations which the seller makes to the buyer will be included as express warranties in the agreement. If any of these warranties are broken, the buyer will be able to claim damages for breach of contract.
 
-```ad-note
-s 1 Misrepresentation Act 1967: where a misrepresentation has become a term of the contract, this will not affect the innocent party's right to rescind (provided there are no equitable bars). Could be important if the buyer becomes aware of the falsity of the representation after exchange but before completion.
-```
+> [!note]
+> s 1 Misrepresentation Act 1967: where a misrepresentation has become a term of the contract, this will not affect the innocent party's right to rescind (provided there are no equitable bars). Could be important if the buyer becomes aware of the falsity of the representation after exchange but before completion.
 
 If there is a gap between exchange and purchase, the buyer will usually negotiate a contractual right to withdraw from the contract if it becomes aware of any breaches of warranty. Backed up by obliging the seller to inform the buyer if it becomes aware of anything inconsistent with the warranties.
 
@@ -187,15 +177,13 @@ Contractual measures often lead to higher damages (due to loss of bargain) but n
 
 A **warranty** is an undertaking by the seller that a particular state of affairs exists.
 
-```ad-defn
-An **indemnity** is a promise to reimburse the buyer in respect of a designated type of liability which may arise in the future. 
-```
+> [!defn]
+> An **indemnity** is a promise to reimburse the buyer in respect of a designated type of liability which may arise in the future. 
 
 On a share sale, the recipient of the indemnity receives an amount equal to the actual liability (+ costs and expenses).
 
-```ad-important
-Another difference between a warranty and an indemnity is that, in the case of the latter, there is no duty to mitigate the loss; such a duty may, however, be incorporated in the contract.
-```
+> [!important]
+> Another difference between a warranty and an indemnity is that, in the case of the latter, there is no duty to mitigate the loss; such a duty may, however, be incorporated in the contract.
 
 - In the US, losses for breach of warranty are often qualified
 - Many civil code jurisdictions do not recognise the distinction between warranties and indemnities.
@@ -207,9 +195,8 @@ It is common for buyers of shares to seek protection from tax liabilities in the
 - The warranties usually deal with the target’s compliance with tax and VAT requirements.
 - The indemnities will cover specific tax charges which may arise over and above those provided for in the accounts.
 
-```ad-tip
-Dealing with most tax matters by way of indemnity has the advantage to the buyer that there is no need to prove the link between the unexpected tax liability and the value of the shares.
-```
+> [!tip]
+> Dealing with most tax matters by way of indemnity has the advantage to the buyer that there is no need to prove the link between the unexpected tax liability and the value of the shares.
 
 ## Who Gives
 
@@ -229,18 +216,15 @@ Where there are a large number of selling shareholders., the buyer may not insis
 
 Suppose some of the shares of a company are held in trust. Trustees will wish to avoid personal liability and may refuse to give any warranties or undertakings, other than that they have unencumbered title to the shares.
 
-```ad-action
-title: Possible solution
-Limit the liability of trustees to the net value (after tax) of the capital of the trust. The danger to the buyer of the capital being distributed shortly after completion may be met by obliging the trustees to require any beneficiary receiving capital to give appropriate warranties to the buyer.
-```
+> [!action] Possible solution
+> Limit the liability of trustees to the net value (after tax) of the capital of the trust. The danger to the buyer of the capital being distributed shortly after completion may be met by obliging the trustees to require any beneficiary receiving capital to give appropriate warranties to the buyer.
 
 ### Substantial Shareholders
 
 Some powerful investors (PE funds) may avoid giving warranties and indemnities on the basis that they have no involvement with the management of the target company and cannot be expected to give promises in relation to matters they know nothing about.
 
-```ad-action
-The role of warranties is to allocate risk between seller and buyer $\rightarrow$ the price negotiated is on the assumption that the warranties are true. So could have a deal where the shareholders who give a warranty get more cash than others. 
-```
+> [!action]
+> The role of warranties is to allocate risk between seller and buyer $\rightarrow$ the price negotiated is on the assumption that the warranties are true. So could have a deal where the shareholders who give a warranty get more cash than others. 
 
 ### Seller's Rights Against Management
 
@@ -248,10 +232,8 @@ Suppose there is a breach of warranty. The sellers may try to shift responsibili
 
 ### Assigning Warranties and Indemnities
 
-```ad-guid
-title: General rule
-The general position under English law is that, unless the contracting parties agree otherwise, the benefit of an agreement can be assigned to a third party without the consent of the other party to the contract.
-```
+> [!guid] General rule
+> The general position under English law is that, unless the contracting parties agree otherwise, the benefit of an agreement can be assigned to a third party without the consent of the other party to the contract.
 
 - The seller is therefore likely to insist on an express provision stating that no assignment is permitted/ only permitted on approval.
 - The buyer may try to negotiate with the seller an express right to assign the benefit of the warranties and indemnities.
@@ -313,9 +295,8 @@ Common undertakings:
 
 ### Validity at Common Law
 
-```ad-tip
-Under English law, all covenants in restraint of trade are prima facie void at common law. However, the court will not strike down restrictive covenants which it considers to be reasonable to protect a legitimate interest of the buyer.
-```
+> [!tip]
+> Under English law, all covenants in restraint of trade are prima facie void at common law. However, the court will not strike down restrictive covenants which it considers to be reasonable to protect a legitimate interest of the buyer.
 
 The court will consider:
 
@@ -327,10 +308,8 @@ The court will consider:
 
 ### Enforcement
 
-```ad-question
-title: What if only some of the restrictions are reasonable?
-If each restraint is contained in a separate clause or sub-clause and expressed to be separate and independent, they remaind independently enforceable. The court is sometimes prepared to "blue pencil" certain parts of a clause, leaving the remaining parts enforceable ([[Tillman v Egon Zehnder [2019] UKSC 32]]) though the court will not rewrite a clause to make it reasonable. 
-```
+> [!question] What if only some of the restrictions are reasonable?
+> If each restraint is contained in a separate clause or sub-clause and expressed to be separate and independent, they remaind independently enforceable. The court is sometimes prepared to "blue pencil" certain parts of a clause, leaving the remaining parts enforceable ([[Tillman v Egon Zehnder [2019] UKSC 32]]) though the court will not rewrite a clause to make it reasonable. 
 
 ### Competition Act 1998
 
@@ -338,25 +317,23 @@ Unlikely that UK courts will deviate from the European regime. There remains a g
 
 #### Anticompetitive Agreements
 
-```ad-statute
-title: s 2 Competition Act 1998
-(1) Subject to section 3, agreements between undertakings, decisions by associations of undertakings or concerted practices which—
-- (a) may affect trade within the United Kingdom, and
-- (b) have as their object or effect the prevention, restriction or distortion of competition within the United Kingdom,
-
-are prohibited unless they are exempt in accordance with the provisions of this Part.
-
-(2) Subsection (1) applies, in particular, to agreements, decisions or practices which—
-- (a) directly or indirectly fix purchase or selling prices or any other trading conditions;
-- (b) limit or control production, markets, technical development or investment;
-- (c) share markets or sources of supply;
-- (d) apply dissimilar conditions to equivalent transactions with other trading parties, thereby placing them at a competitive disadvantage;
-- (e) make the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of such contracts.
-
-(3) Subsection (1) applies only if the agreement, decision or practice is, or is intended to be, implemented in the United Kingdom.
-
-(4) Any agreement or decision which is prohibited by subsection (1) is void.
-```
+> [!statute] s 2 Competition Act 1998
+> (1) Subject to section 3, agreements between undertakings, decisions by associations of undertakings or concerted practices which—
+> - (a) may affect trade within the United Kingdom, and
+> - (b) have as their object or effect the prevention, restriction or distortion of competition within the United Kingdom,
+> 
+> are prohibited unless they are exempt in accordance with the provisions of this Part.
+> 
+> (2) Subsection (1) applies, in particular, to agreements, decisions or practices which—
+> - (a) directly or indirectly fix purchase or selling prices or any other trading conditions;
+> - (b) limit or control production, markets, technical development or investment;
+> - (c) share markets or sources of supply;
+> - (d) apply dissimilar conditions to equivalent transactions with other trading parties, thereby placing them at a competitive disadvantage;
+> - (e) make the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of such contracts.
+> 
+> (3) Subsection (1) applies only if the agreement, decision or practice is, or is intended to be, implemented in the United Kingdom.
+> 
+> (4) Any agreement or decision which is prohibited by subsection (1) is void.
 
 N.B. any agreement that is exempt under EU law will also be exempt under UK legislation.
 
@@ -364,17 +341,15 @@ N.B. any agreement that is exempt under EU law will also be exempt under UK legi
 
 The wording of s 18 of the 1998 Act concerning abuse of a dominant position is similar to that of Art 102 TFEU. There is a prohibition on the activities of one or more undertakings which amount to the abuse of a dominant position within the UK or a substantial part of it.
 
-```ad-statute
-title: s 18 Competition Act 1998 - Abuse of dominant position.
-
-(1) Subject to section 19, any conduct on the part of one or more undertakings which amounts to the abuse of a dominant position in a market is prohibited if it may affect trade within the United Kingdom.
-
-(2) Conduct may, in particular, constitute such an abuse if it consists in—
-- (a) directly or indirectly imposing unfair purchase or selling prices or other unfair trading conditions;
-- (b) limiting production, markets or technical development to the prejudice of consumers;
-- (c) applying dissimilar conditions to equivalent transactions with other trading parties, thereby placing them at a competitive disadvantage;
-- (d) making the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of the contracts.
-```
+> [!statute] s 18 Competition Act 1998 - Abuse of dominant position.
+> 
+> (1) Subject to section 19, any conduct on the part of one or more undertakings which amounts to the abuse of a dominant position in a market is prohibited if it may affect trade within the United Kingdom.
+> 
+> (2) Conduct may, in particular, constitute such an abuse if it consists in—
+> - (a) directly or indirectly imposing unfair purchase or selling prices or other unfair trading conditions;
+> - (b) limiting production, markets or technical development to the prejudice of consumers;
+> - (c) applying dissimilar conditions to equivalent transactions with other trading parties, thereby placing them at a competitive disadvantage;
+> - (d) making the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of the contracts.
 
 #### Consequences
 

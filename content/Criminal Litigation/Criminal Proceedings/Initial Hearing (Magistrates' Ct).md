@@ -119,11 +119,10 @@ Operates in the [[Magistrates' Court]], in a similar way to at the police statio
 
 ### Representation Order
 
-```ad-test
-To apply for criminal legal aid in the magistrates' court, D must satsify:
-1. Interests of justice test - D must show that it is in the interests of justice that they receive public funding for legal representation. 
-2. Means test - D must demonstrate inability to pay for the costs of legal representation. 
-```
+> [!test]
+> To apply for criminal legal aid in the magistrates' court, D must satsify:
+> 1. Interests of justice test - D must show that it is in the interests of justice that they receive public funding for legal representation. 
+> 2. Means test - D must demonstrate inability to pay for the costs of legal representation. 
 
 D must submit Form CRM14 – Application for Legal Aid in Criminal Proceedings. Unless means test is automatically satisfied, D must submit a financial statement (Form CRM15) and supporting documentation (unless unable to provide due to being in custody, in which case this should be stated).
 
@@ -131,10 +130,8 @@ D must submit Form CRM14 – Application for Legal Aid in Criminal Proceedings. 
 
 Ensures compliance with Article 6(3)(a) of the ECHR, which provides that a defendant who does not have sufficient means to pay for legal assistance should receive this free ‘when the interests of justice’ so require.
 
-```ad-defn
-title: Widgery criteria
-Factors taken into account in deciding whether D can satisfy the interests of justice test. Set out in Sch 3 para 5(2) Access to Justice Act 1999 (N.B. this has been repealed - presumably still relevant?). 
-```
+> [!defn] Widgery criteria
+> Factors taken into account in deciding whether D can satisfy the interests of justice test. Set out in Sch 3 para 5(2) Access to Justice Act 1999 (N.B. this has been repealed - presumably still relevant?). 
 
 These are whether:
 
@@ -216,9 +213,8 @@ Applicant's disposable income calculated.
 | =                                               |
 | Disposable income                               |
 
-```ad-important
-To qualify for criminal legal aid, the applicant’s annual disposable income must not exceed **£3,398**.
-```
+> [!important]
+> To qualify for criminal legal aid, the applicant’s annual disposable income must not exceed **£3,398**.
 
 If the applicant fails the means test but cannot fund his own defence, complete an application for review on the grounds of hardship (Form CRM16).
 
@@ -260,16 +256,14 @@ D entitled to receive initial details of the prosecution case (IDPC) (CrimPR r 8
 
 D will contact the CPS in advance of the first hearing with a Unique Reference Number. CPS emails solicitor the IDPC via Criminal Justice Secure Mail account. For clients seen in court for the first time, the solicitor phones a centralised CPS number and papers will be emailed over.
 
-```ad-statute
-title: r 8.4 CrimPR
-(1) This rule applies where—
-- (a) the prosecutor wants to introduce information contained in a document listed in rule 8.3; and
-- (b) the prosecutor has not—
-	- (i) served that document on the defendant, or
-	- (ii) made that information available to the defendant.
-
-(2) The court must not allow the prosecutor to introduce that information unless the court first allows the defendant sufficient time to consider it. 
-```
+> [!statute] r 8.4 CrimPR
+> (1) This rule applies where—
+> - (a) the prosecutor wants to introduce information contained in a document listed in rule 8.3; and
+> - (b) the prosecutor has not—
+> 	- (i) served that document on the defendant, or
+> 	- (ii) made that information available to the defendant.
+> 
+> (2) The court must not allow the prosecutor to introduce that information unless the court first allows the defendant sufficient time to consider it. 
 
 #### IDPC
 
@@ -344,19 +338,17 @@ When D appears before the magistrates:
 
 #### Crown Court to Sentence
 
-```ad-statute
-title: s 14 Sentencing Act 2020 - Committal for sentence on summary trial of offence triable either way
-
-(1) This section applies where—
-- (a) on the summary trial of an offence triable either way a person aged 18 or over is convicted of the offence, and
-- (b) the court is of the opinion that—
-	- (i) the offence, or
-	- (ii) the combination of the offence and one or more offences associated with it,
-
-was so serious that the Crown Court should have the power to deal with the offender in any way it could deal with the offender if the offender had been convicted on indictment.
-
-(2) The court **may commit the offender** in custody or on bail **to the Crown Court for sentence** in accordance with section 21(2).
-```
+> [!statute] s 14 Sentencing Act 2020 - Committal for sentence on summary trial of offence triable either way
+> 
+> (1) This section applies where—
+> - (a) on the summary trial of an offence triable either way a person aged 18 or over is convicted of the offence, and
+> - (b) the court is of the opinion that—
+> 	- (i) the offence, or
+> 	- (ii) the combination of the offence and one or more offences associated with it,
+> 
+> was so serious that the Crown Court should have the power to deal with the offender in any way it could deal with the offender if the offender had been convicted on indictment.
+> 
+> (2) The court **may commit the offender** in custody or on bail **to the Crown Court for sentence** in accordance with section 21(2).
 
 If D pleads guilty at the plea before venue hearing and is committed to Crown Court for sentence, the magistrates will not generally alter the position as regards bail or custody.
 
@@ -400,12 +392,10 @@ Set out in ss 19-20 Magistrates' Courts Act 1980:
 6. D asked whether he consents to summary judgment or wishes to be trialled on indictment (s 20(8) & (9))
 7. s 25: prosecution are permitted to make an application before summary trial for an either way offence allocated at summary trial to be sent to the Crown Court for trial.
 
-```ad-question
-title: Suppose D pleads guilty to either way offence $EWO_G$ and not guilty to $EWO_{NG}$. 
-Magistrates proceed with the allocation hearing in respect of $EWO_{NG}$. 
-- If magistrates accept jurisdiction, they will either sentence D immediately for $EWO_G$, or adjourn sentence until the end of $EWO_{NG}$ trial. 
-- If magistrates decline jurisdiction, send $EWO_{NG}$ to Crown Court for trial and decide whether to sentence D for$EWO_G$/ send to Crown Court. 
-```
+> [!question] Suppose D pleads guilty to either way offence $EWO_G$ and not guilty to $EWO_{NG}$.
+> Magistrates proceed with the allocation hearing in respect of $EWO_{NG}$. 
+> - If magistrates accept jurisdiction, they will either sentence D immediately for $EWO_G$, or adjourn sentence until the end of $EWO_{NG}$ trial. 
+> - If magistrates decline jurisdiction, send $EWO_{NG}$ to Crown Court for trial and decide whether to sentence D for$EWO_G$/ send to Crown Court. 
 
 ## Sending Straight to Crown Court
 

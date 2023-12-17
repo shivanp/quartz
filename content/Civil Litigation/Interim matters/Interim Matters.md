@@ -64,17 +64,14 @@ Where none of the parties is a litigant in person, it will often be possible to 
 
 The court has theoretical power not to approve a proposed order, but will only be referred to a judge if it appears incorrect/ unclear.
 
-```ad-test
-title: Formalities for a consent order: r 40.6(7)
-1. the order agreed by the parties must be drawn up in the terms agreed;
-2. it must be expressed as being ‘By Consent’;
-3. it must be signed by the legal representative acting for each of the parties to whom the order relates.
-```
+> [!test] Formalities for a consent order: r 40.6(7)
+> 1. the order agreed by the parties must be drawn up in the terms agreed;
+> 2. it must be expressed as being ‘By Consent’;
+> 3. it must be signed by the legal representative acting for each of the parties to whom the order relates.
 
-```ad-important
-1. The terms of a consent order will be open to public inspection. 
-2. The terms agreed must be within the powers of a court to order. 
-```
+> [!important]
+> 1. The terms of a consent order will be open to public inspection. 
+> 2. The terms agreed must be within the powers of a court to order. 
 
 If the parties want any terms to be confidential and/or beyond the powers of a court to order, they should use a Tomlin order.
 
@@ -82,20 +79,17 @@ If the parties want any terms to be confidential and/or beyond the powers of a c
 
 A Tomlin order **stays the claim on agreed terms** that are set out in a schedule to the order, an agreement annexed to the order or a separate document.
 
-```ad-tip
-The key to drafting a Tomlin order correctly is to appreciate that certain terms must appear in the order itself, whilst others can be put in the schedule, agreement or separate document.
-```
+> [!tip]
+> The key to drafting a Tomlin order correctly is to appreciate that certain terms must appear in the order itself, whilst others can be put in the schedule, agreement or separate document.
 
 which comes from:
 
-```ad-statute
-title: PD 40B, para 3.5
-Where the parties draw up a consent order in the form of a stay of proceedings on agreed terms, disposing of the proceedings, and where the terms are recorded in a schedule to the order, any direction for:
-1. payment of money out of court, or
-2. payment and assessment of costs
-
-should be contained in the body of the order and not in the schedule.
-```
+> [!statute] PD 40B, para 3.5
+> Where the parties draw up a consent order in the form of a stay of proceedings on agreed terms, disposing of the proceedings, and where the terms are recorded in a schedule to the order, any direction for:
+> 1. payment of money out of court, or
+> 2. payment and assessment of costs
+> 
+> should be contained in the body of the order and not in the schedule.
 
 Where one party is to pay another party’s costs and/or the parties want the amount of those costs assessed by the court (known as a *detailed assessment*), that direction must go in the order.
 
@@ -112,9 +106,8 @@ Moreover, because there is a possibility that a party may not perform its part o
 
 Whether the terms of the settlement are recorded in a schedule to the Tomlin order, an agreement annexed to the document or a separate document depends largely on the degree of confidentiality required.
 
-```ad-statute
-Under r 5.4B and r 5.4C, parties and non-parties can apply for permission to obtain copies of documents filed with the court.
-```
+> [!statute]
+> Under r 5.4B and r 5.4C, parties and non-parties can apply for permission to obtain copies of documents filed with the court.
 
 Therefore, the only way to ensure complete confidentiality is to **record the settlement in a separate document which is referred to in the schedule and clearly identifiable but not filed with the court**. In [[Zenith Logistics Services (UK) Ltd & Others v Coury [2020] EWHC 774 (QB)]], the court confirmed that the fact the terms were referred to but not set out in the schedule was entirely unobjectionable. The reason was to preserve confidentiality so that the terms were not accessible to third parties. And there was no breach of the ‘open justice’ principle.
 
@@ -144,9 +137,8 @@ Before litigation starts, parties can make 'without prejudice' offers to settle.
 
 Part 36 offer has been made must not normally be communicated to the trial judge (or to any judge allocated in advance to conduct the trial) until the case has been decided.
 
-```ad-warning
-If a defendant makes a Part 36 offer and the claimant fails to obtain a judgment more advantageous than that offer, the claimant will usually suffer severe financial penalties
-```
+> [!warning]
+> If a defendant makes a Part 36 offer and the claimant fails to obtain a judgment more advantageous than that offer, the claimant will usually suffer severe financial penalties
 
 ### Form and Content
 
@@ -186,9 +178,8 @@ r 36.10(3): possible to withdraw/ change terms only if court agrees. The offeror
 
 Suppose a defendant wishes to decrease the amount they previously offered. They should serve a notice of variation of the original offer under r 36.9(4). This preserves the relevant period of the original offer for the purpose of costs where the offeree fails to beat the less advantageous offer.
 
-```ad-important
-By r 36.17(7), where a Part 36 offer is withdrawn or its terms made less advantageous to the offeree, and the offeree has beaten the less advantageous offer, the financial consequences of r 36.17 will not apply to it.
-```
+> [!important]
+> By r 36.17(7), where a Part 36 offer is withdrawn or its terms made less advantageous to the offeree, and the offeree has beaten the less advantageous offer, the financial consequences of r 36.17 will not apply to it.
 
 ### Clarification
 
@@ -206,10 +197,8 @@ Where monetary and/or non-monetary remedies are sought, it is possible that an o
 
 Where a Part 36 offer is accepted, **the claim is stayed**. This does not affect the power of the court to enforce the terms of a Part 36 offer and deal with any question of costs.
 
-```ad-question
-title: Is an agreement reached by the acceptance of a Part 36 offer void if that Part 36 offer was a clear and obvious mistake that was appreciated by the Part 36 offeree at the point of acceptance? 
-Yes, and to that extent the doctrine of common law mistake can apply to a Part 36 offer ([[O’Grady v B15 Group Ltd [2022] EWHC 67 (QB)]]).
-```
+> [!question] Is an agreement reached by the acceptance of a Part 36 offer void if that Part 36 offer was a clear and obvious mistake that was appreciated by the Part 36 offeree at the point of acceptance?
+> Yes, and to that extent the doctrine of common law mistake can apply to a Part 36 offer ([[O’Grady v B15 Group Ltd [2022] EWHC 67 (QB)]]).
 
 Where a claimant accepts a defendant’s Part 36 offer that is, or includes, an offer to pay a  
 single sum of money, that sum must be paid to the claimant within **14 days** of the date of  
@@ -268,10 +257,8 @@ Effects of r 36.17(3) is:
 1. D pays V's costs from when those costs were first incurred until the relevant period expired (21 days, usually)
 2. V pays D's costs from expiry of relevant period (day 22) until judgment. Costs should be agreed by the parties, or otherwise will be assessed on the standard basis. Also pays **interest** on these costs from when each item was incurred.
 
-```ad-question
-title: Why is the standard basis rather than the indemnity basis used as the starting point for r 36.16(3)(a)?
-Indemnity costs only appropriate when conduct of a paying party is unreasonable to a high degree. So there must be something taking the case outside the norm. Ask: was there a point when the reasonable claimant would have concluded that the offer represented a better outcome than the likely outcome at trial. 
-```
+> [!question] Why is the standard basis rather than the indemnity basis used as the starting point for r 36.16(3)(a)?
+> Indemnity costs only appropriate when conduct of a paying party is unreasonable to a high degree. So there must be something taking the case outside the norm. Ask: was there a point when the reasonable claimant would have concluded that the offer represented a better outcome than the likely outcome at trial. 
 
 So the pursuit of a weak claim will not normally, on its own, justify an order for indemnity costs. But pursuit of a hopeless claim may lead to an order. Interest is not payable on costs until after judgment. This is usually at the normal commercial rate.
 
@@ -317,9 +304,8 @@ If judgment against D is at least as advantageous as V's Part 36, court must ord
 
 D refuses V's Part 36 and V obtains a judgment the same or better than Part 36 ⇾ D is likely to pay a heavy price. Whereas the other way around, V unlikely to pay a heavy price. So Part 36 has the effect of pressurising defendants.
 
-```ad-action
-Since the penalties in r 36.17(4) are imposed as from the expiry of the relevant period, the earlier the claimant makes their offer, the greater the pressure on the defendant.
-```
+> [!action]
+> Since the penalties in r 36.17(4) are imposed as from the expiry of the relevant period, the earlier the claimant makes their offer, the greater the pressure on the defendant.
 
 Note that the court retains ultimate discretion; it can choose to award some of the s 36.17(4) penalties, but not others.
 
@@ -331,21 +317,18 @@ Means better in monetary terms, by no matter how small an amount.
 
 Recall, a well-judged offer that is not accepted will lead to an order under r 36.17(3) or (4), unless it would be unjust for the court to make that order.
 
-```ad-statute
-title: r 36.17(5)
-In considering whether it would be unjust to make the orders referred to in paragraphs (3) and (4), the court must take into account all the circumstances of the case including—
-- (a) the terms of any Part 36 offer;
-- (b) the stage in the proceedings when any Part 36 offer was made, including in particular how long before the trial started the offer was made;
-- (c) the information available to the parties at the time when the Part 36 offer was made;
-- (d) the conduct of the parties with regard to the giving of or refusal to give information for the purposes of enabling the offer to be made or evaluated; and
-- (e) whether the offer was a genuine attempt to settle the proceedings.
-```
+> [!statute] r 36.17(5)
+> In considering whether it would be unjust to make the orders referred to in paragraphs (3) and (4), the court must take into account all the circumstances of the case including—
+> - (a) the terms of any Part 36 offer;
+> - (b) the stage in the proceedings when any Part 36 offer was made, including in particular how long before the trial started the offer was made;
+> - (c) the information available to the parties at the time when the Part 36 offer was made;
+> - (d) the conduct of the parties with regard to the giving of or refusal to give information for the purposes of enabling the offer to be made or evaluated; and
+> - (e) whether the offer was a genuine attempt to settle the proceedings.
 
 Note these are just examples which do not constrain the creativity of the court.
 
-```ad-warning
-In determining whether or not it is unjust to make orders rr 36.17(3) & (4), the court cannot consider by how much the judgment against D was more advantageous than the Part 36 offer ([[JLE v Warrington & Halton Hospitals NHS Foundation Trust [2019] EWHC 1582 (QB)]])
-```
+> [!warning]
+> In determining whether or not it is unjust to make orders rr 36.17(3) & (4), the court cannot consider by how much the judgment against D was more advantageous than the Part 36 offer ([[JLE v Warrington & Halton Hospitals NHS Foundation Trust [2019] EWHC 1582 (QB)]])
 
 The test of unjustness should be separately applied to each of the four consequences.
 
@@ -402,10 +385,8 @@ General rules set out in Part 23 CPR 1998:
 
 Many district registries **now have facilities to deal with interim applications by telephone conferencing**.
 
-```ad-guid
-title: General rule
-At a telephone enabled court all allocation hearings, listing hearings, interim applications, case management conferences and pre-trial reviews with a time estimate of less than an hour will be conducted by telephone
-```
+> [!guid] General rule
+> At a telephone enabled court all allocation hearings, listing hearings, interim applications, case management conferences and pre-trial reviews with a time estimate of less than an hour will be conducted by telephone
 
 Exceptions:
 
@@ -417,9 +398,8 @@ Exceptions:
 
 PD 23A, paras 6.9 and 6.10: mechanics of telephone conference hearing
 
-```ad-action
-Applicant’s legal representative must file and serve case summary and draft order no later than 4pm 2 days before the telephone hearing if the claim has been allocated to multi-track or if the court directs.
-```
+> [!action]
+> Applicant’s legal representative must file and serve case summary and draft order no later than 4pm 2 days before the telephone hearing if the claim has been allocated to multi-track or if the court directs.
 
 ### Preparing Supporting Evidence
 
@@ -492,13 +472,11 @@ If one or more parties does not follow relevant pre-action protocol, unnecessary
 Most reported applications of costs capping have failed. There is specific provision for costs  
 capping orders in judicial review proceedings. Governed by s 88 Criminal Justice and Courts Act 2015. Provisions apply where the application for leave to bring judicial review proceedings has been granted. Test set out in s 88(6).
 
-```ad-statute
-title: s 88(6) Criminal Justice and Courts Act 2015
-The court may make a costs capping order only if it is satisfied that—
-- (a) the proceedings are public interest proceedings,
-- (b) in the absence of the order, the applicant for judicial review would withdraw the application for judicial review or cease to participate in the proceedings, and
-- (c) it would be reasonable for the applicant for judicial review to do so.
-```
+> [!statute] s 88(6) Criminal Justice and Courts Act 2015
+> The court may make a costs capping order only if it is satisfied that—
+> - (a) the proceedings are public interest proceedings,
+> - (b) in the absence of the order, the applicant for judicial review would withdraw the application for judicial review or cease to participate in the proceedings, and
+> - (c) it would be reasonable for the applicant for judicial review to do so.
 
 ### Making an Application
 
@@ -510,27 +488,23 @@ Normally it is D seeking to cap what V recovers in costs. Make claim as soon as 
 
 ### Grounds for Making Order
 
-```ad-statute
-title: r 3.19(5)
-The court may at any stage of proceedings make a costs capping order against all or any of the parties, if –
+> [!statute] r 3.19(5)
+> The court may at any stage of proceedings make a costs capping order against all or any of the parties, if –
+> 
+> (a) it is in the interests of justice to do so;
+> 
+> (b) there is a substantial risk that without such an order costs will be disproportionately incurred; and
+> 
+> (c) it is not satisfied that the risk in subparagraph (b) can be adequately controlled by –
+> - (i) case management directions or orders made under this Part; and
+> - (ii) detailed assessment of costs.
 
-(a) it is in the interests of justice to do so;
-
-(b) there is a substantial risk that without such an order costs will be disproportionately incurred; and
-
-(c) it is not satisfied that the risk in subparagraph (b) can be adequately controlled by –
-- (i) case management directions or orders made under this Part; and
-- (ii) detailed assessment of costs.
-```
-
-```ad-statute
-title: r 3.19(6)
-In considering whether to exercise its discretion under this rule, the court will consider all the circumstances of the case, including –
-- (a) whether there is a substantial imbalance between the financial position of the parties;
-- (b) whether the costs of determining the amount of the cap are likely to be proportionate to the overall costs of the litigation;
-- (c) the stage which the proceedings have reached; and
-- (d) the costs which have been incurred to date and the future costs.
-```
+> [!statute] r 3.19(6)
+> In considering whether to exercise its discretion under this rule, the court will consider all the circumstances of the case, including –
+> - (a) whether there is a substantial imbalance between the financial position of the parties;
+> - (b) whether the costs of determining the amount of the cap are likely to be proportionate to the overall costs of the litigation;
+> - (c) the stage which the proceedings have reached; and
+> - (d) the costs which have been incurred to date and the future costs.
 
 ### Effect of Order
 
@@ -585,16 +559,14 @@ entered after the claim was paid in full.
 
 ### Discretionary Grounds
 
-```ad-statute
-title: r 13.3(1)
-(1) In any other case, the court may set aside or vary a judgment entered under Part 12 if—
-- (a) the defendant has a real prospect of successfully defending the claim; or
-- (b) it appears to the court that there is some other good reason why—
-	- (i) the judgment should be set aside or varied; or
-	- (ii) the defendant should be allowed to defend the claim.
-
-(2) In considering whether to set aside or vary a judgment entered under Part 12, the matters to which the court must have regard include whether the person seeking to set aside the judgment made an application to do so promptly.
-```
+> [!statute] r 13.3(1)
+> (1) In any other case, the court may set aside or vary a judgment entered under Part 12 if—
+> - (a) the defendant has a real prospect of successfully defending the claim; or
+> - (b) it appears to the court that there is some other good reason why—
+> 	- (i) the judgment should be set aside or varied; or
+> 	- (ii) the defendant should be allowed to defend the claim.
+> 
+> (2) In considering whether to set aside or vary a judgment entered under Part 12, the matters to which the court must have regard include whether the person seeking to set aside the judgment made an application to do so promptly.
 
 - The court will take account of the promptness of the defendant’s application to set aside
 - The overriding objective expressly recognises the importance of ensuring that cases are dealt with expeditiously and fairly.
@@ -629,20 +601,17 @@ The court may:
 
 Aim: to enable C/D to obtain judgment at an early stage without the time and expense of a full trial.
 
-```ad-warning
-Summary judgment is not the same as default judgment.
-```
+> [!warning]
+> Summary judgment is not the same as default judgment.
 
 ### Grounds
 
-```ad-statute
-title: CPR 24.2
-The court may give summary judgment against a claimant or defendant on the whole of a claim or on a particular issue if –
-- (a) it considers that –
-	- (i) that claimant has **no real prospect of succeeding** on the claim or issue; or
-	- (ii) that defendant has **no real prospect of successfully defending** the claim or issue; and
-- (b) there is **no other compelling reason** why the case or issue should be disposed of at a trial.
-```
+> [!statute] CPR 24.2
+> The court may give summary judgment against a claimant or defendant on the whole of a claim or on a particular issue if –
+> - (a) it considers that –
+> 	- (i) that claimant has **no real prospect of succeeding** on the claim or issue; or
+> 	- (ii) that defendant has **no real prospect of successfully defending** the claim or issue; and
+> - (b) there is **no other compelling reason** why the case or issue should be disposed of at a trial.
 
 (Rule 3.4 makes provision for the court to strike out a statement of case or part of a statement of case if it appears that it discloses no reasonable grounds for bringing or defending a claim).
 
@@ -654,13 +623,11 @@ The court must scrutinise how the parties have stated their respective cases and
 
 To defeat an application for summary judgment, the respondent must have a case which has a “real, as opposed to a fanciful, chance of winning” ([[Swain v Hillman [2001] 1 All ER 91]]).
 
-```ad-statute
-title: PD 24 para 1.3
-An application for summary judgment under rule 24.2 may be based on:
-1. a point of law (including a question of construction of a document),
-2. the evidence which can reasonably be expected to be available at trial or the lack of it, or
-3. a combination of these.
-```
+> [!statute] PD 24 para 1.3
+> An application for summary judgment under rule 24.2 may be based on:
+> 1. a point of law (including a question of construction of a document),
+> 2. the evidence which can reasonably be expected to be available at trial or the lack of it, or
+> 3. a combination of these.
 
 #### No Other Compelling Reason
 
@@ -690,31 +657,26 @@ Compelling reasons include:
 
 ### Orders a Court May Make
 
-```ad-statute
-title: PD 24 para 5.1
-The orders the court may make on an application under Part 24 include:
-1. judgment on the claim,
-2. the striking out or dismissal of the claim,
-3. the dismissal of the application,
-4. a conditional order.
-```
+> [!statute] PD 24 para 5.1
+> The orders the court may make on an application under Part 24 include:
+> 1. judgment on the claim,
+> 2. the striking out or dismissal of the claim,
+> 3. the dismissal of the application,
+> 4. a conditional order.
 
-```ad-important
-The claims only go one way. So if C is the applicant, the only possible orders which the court can make are:
-1. Granting summary judgment
-2. Dismissing the application and allowing the case to proceed to trial.
-
-If D, in addition to opposing the application for summary judgment, wants to apply for an order striking out the (OG) claim, D must make their own application for summary judgment. 
-```
+> [!important]
+> The claims only go one way. So if C is the applicant, the only possible orders which the court can make are:
+> 1. Granting summary judgment
+> 2. Dismissing the application and allowing the case to proceed to trial.
+> 
+> If D, in addition to opposing the application for summary judgment, wants to apply for an order striking out the (OG) claim, D must make their own application for summary judgment. 
 
 If there are credible witnesses both saying opposite things and there is no conclusive circumstantial evidence, the application will be dismissed ([[Hussain v Woods and Another [2001] Lloyd's Rep PN 134]]).
 
-```ad-statute
-title: PD 24 para 5.2
-A conditional order is an order which requires a party:
-1. to pay a sum of money into court, or
-2. to take a specified step in relation to his claim or defence, as the case may be, and provides that that party’s claim will be dismissed or his statement of case will be struck out if he does not comply.
-```
+> [!statute] PD 24 para 5.2
+> A conditional order is an order which requires a party:
+> 1. to pay a sum of money into court, or
+> 2. to take a specified step in relation to his claim or defence, as the case may be, and provides that that party’s claim will be dismissed or his statement of case will be struck out if he does not comply.
 
 A conditional order will be granted where it is likely but improbable that a claim/ defence will succeed – where a statement of case is “shadowy and unsatisfactory” ([[Bates v Microstar Ltd]]) or where D has a weak claim and has behaved dishonestly ([[Kooh Veisin Trading Co v Parsai]]).
 
@@ -738,9 +700,8 @@ If the claim might possibly succeed but is unlikely to do so, C will have to pay
 
 ## Interim Payments Orders
 
-```ad-defn
-An interim payment is an advance payment on account of any damages, debt or other sum (excluding costs) which a defendant may be held liable to pay.
-```
+> [!defn]
+> An interim payment is an advance payment on account of any damages, debt or other sum (excluding costs) which a defendant may be held liable to pay.
 
 This gives a claimant with a strong case some money before the case has concluded, to avoid financial hardship. Before applying, the claimant should try to negotiate with D/ D's insurance to obtain a voluntary interim payment.
 
@@ -759,32 +720,30 @@ Application must be supported by evidence and served $\geq 14$ days before heari
 
 ### Grounds
 
-```ad-statute
-title: r 25.7(1) CPR 1998
-The court may only make an order for an interim payment where any of the following conditions are satisfied –
-
-(a) the defendant against whom the order is sought has admitted liability to pay damages or some other sum of money to the claimant;
-
-(b) the claimant has obtained judgment against that defendant for damages to be assessed or for a sum of money (other than costs) to be assessed;
-
-(c) it is satisfied that, if the claim went to trial, the claimant would obtain judgment for a substantial amount of money (other than costs) against the defendant from whom he is seeking an order for an interim payment whether or not that defendant is the only defendant or one of a number of defendants to the claim;
-
-(d) the following conditions are satisfied –
-- (i) the claimant is seeking an order for possession of land (whether or not any other order is also sought); and
-- (ii) the court is satisfied that, if the case went to trial, the defendant would be held liable (even if the claim for possession fails) to pay the claimant a sum of money for the defendant’s occupation and use of the land while the claim for possession was pending; or
-
-(e) in a claim in which there are two or more defendants and the order is sought against any one or more of those defendants, the following conditions are satisfied –
-
-- (i) the court is satisfied that, if the claim went to trial, the claimant would obtain judgment for a substantial amount of money (other than costs) against at least one of the defendants (but the court cannot determine which); and
-
-- (ii) all the defendants are either –
-
-	- (a) a defendant that is insured in respect of the claim;
-	
-	- (b) a defendant whose liability will be met by an insurer under section 151 of the Road Traffic Act 1988 or an insurer acting under the Motor Insurers Bureau Agreement, or the Motor Insurers Bureau where it is acting itself; or
-	
-	- (c) a defendant that is a public body.
-```
+> [!statute] r 25.7(1) CPR 1998
+> The court may only make an order for an interim payment where any of the following conditions are satisfied –
+> 
+> (a) the defendant against whom the order is sought has admitted liability to pay damages or some other sum of money to the claimant;
+> 
+> (b) the claimant has obtained judgment against that defendant for damages to be assessed or for a sum of money (other than costs) to be assessed;
+> 
+> (c) it is satisfied that, if the claim went to trial, the claimant would obtain judgment for a substantial amount of money (other than costs) against the defendant from whom he is seeking an order for an interim payment whether or not that defendant is the only defendant or one of a number of defendants to the claim;
+> 
+> (d) the following conditions are satisfied –
+> - (i) the claimant is seeking an order for possession of land (whether or not any other order is also sought); and
+> - (ii) the court is satisfied that, if the case went to trial, the defendant would be held liable (even if the claim for possession fails) to pay the claimant a sum of money for the defendant’s occupation and use of the land while the claim for possession was pending; or
+> 
+> (e) in a claim in which there are two or more defendants and the order is sought against any one or more of those defendants, the following conditions are satisfied –
+> 
+> - (i) the court is satisfied that, if the claim went to trial, the claimant would obtain judgment for a substantial amount of money (other than costs) against at least one of the defendants (but the court cannot determine which); and
+> 
+> - (ii) all the defendants are either –
+> 
+> 	- (a) a defendant that is insured in respect of the claim;
+> 	
+> 	- (b) a defendant whose liability will be met by an insurer under section 151 of the Road Traffic Act 1988 or an insurer acting under the Motor Insurers Bureau Agreement, or the Motor Insurers Bureau where it is acting itself; or
+> 	
+> 	- (c) a defendant that is a public body.
 
 No obligation on applicant to show their need for interim payment, though this would help persuade the court if the delay in assessing damages is unlikely to be substantial.
 
@@ -816,44 +775,40 @@ If D has made an interim payment that exceeds their total liability under the fi
 
 ## Security for Costs
 
-```ad-statute
-title: r 25.12 - Security for Costs
+> [!statute] r 25.12 - Security for Costs
+> 
+> (1) A defendant to any claim may apply under this Section of this Part for security for his costs of the proceedings.
+> 
+> (Part 3 provides for the court to order payment of sums into court in other circumstances. Rule 20.3 provides for this Section of this Part to apply to Part 20 claims)
+> 
+> (2) An application for security for costs must be supported by written evidence.
+> 
+> (3) Where the court makes an order for security for costs, it will –
+> - (a) determine the amount of security; and
+> - (b) direct –
+> 	- (i) the manner in which; and
+> 	- (ii) the time within which
+> 
+> the security must be given.
 
-(1) A defendant to any claim may apply under this Section of this Part for security for his costs of the proceedings.
-
-(Part 3 provides for the court to order payment of sums into court in other circumstances. Rule 20.3 provides for this Section of this Part to apply to Part 20 claims)
-
-(2) An application for security for costs must be supported by written evidence.
-
-(3) Where the court makes an order for security for costs, it will –
-- (a) determine the amount of security; and
-- (b) direct –
-	- (i) the manner in which; and
-	- (ii) the time within which
-
-the security must be given.
-```
-
-```ad-statute
-title: r 25.13 - Conditions to be satisfied
-(1) The court may make an order for security for costs under rule 25.12 if –
-- (a) it is satisfied, having regard to all the circumstances of the case, that it is just to make such an order; and
-- (b)
-	- (i) one or more of the conditions in paragraph (2) applies, or
-	- (ii) an enactment permits the court to require security for costs.
-
-(2) The conditions are –
-- (a) the claimant is –
-	- (i) resident out of the jurisdiction; but
-	- (ii) not resident in a State bound by the 2005 Hague Convention, as defined in section 1(3) of the Civil Jurisdiction and Judgments Act 1982 7;
-- (c) the claimant is a company or other body (whether incorporated inside or outside Great Britain) and there is reason to believe that it will be unable to pay the defendant’s costs if ordered to do so;
-- (d) the claimant has changed his address since the claim was commenced with a view to evading the consequences of the litigation;
-- (e) the claimant failed to give his address in the claim form, or gave an incorrect address in that form;
-- (f) the claimant is acting as a nominal claimant, other than as a representative claimant under Part 19, and there is reason to believe that he will be unable to pay the defendant’s costs if ordered to do so;
-- (g) the claimant has taken steps in relation to his assets that would make it difficult to enforce an order for costs against him.
-
-(Rule 3.4 allows the court to strike out a statement of case and Part 24 for it to give summary judgment)
-```
+> [!statute] r 25.13 - Conditions to be satisfied
+> (1) The court may make an order for security for costs under rule 25.12 if –
+> - (a) it is satisfied, having regard to all the circumstances of the case, that it is just to make such an order; and
+> - (b)
+> 	- (i) one or more of the conditions in paragraph (2) applies, or
+> 	- (ii) an enactment permits the court to require security for costs.
+> 
+> (2) The conditions are –
+> - (a) the claimant is –
+> 	- (i) resident out of the jurisdiction; but
+> 	- (ii) not resident in a State bound by the 2005 Hague Convention, as defined in section 1(3) of the Civil Jurisdiction and Judgments Act 1982 7;
+> - (c) the claimant is a company or other body (whether incorporated inside or outside Great Britain) and there is reason to believe that it will be unable to pay the defendant’s costs if ordered to do so;
+> - (d) the claimant has changed his address since the claim was commenced with a view to evading the consequences of the litigation;
+> - (e) the claimant failed to give his address in the claim form, or gave an incorrect address in that form;
+> - (f) the claimant is acting as a nominal claimant, other than as a representative claimant under Part 19, and there is reason to believe that he will be unable to pay the defendant’s costs if ordered to do so;
+> - (g) the claimant has taken steps in relation to his assets that would make it difficult to enforce an order for costs against him.
+> 
+> (Rule 3.4 allows the court to strike out a statement of case and Part 24 for it to give summary judgment)
 
 ### Purpose
 
@@ -934,10 +889,8 @@ Order will specify:
 	- Charge over C's property ([[Xhosa Office Rentals Ltd v Multi High Tec PCB Ltd]])
 	- Suitable undertaking to the court.
 
-```ad-question
-title: What if C fails to provide the security by the date ordered?
-No CPR rule, but court will usually order that the claim is struck out and D entitled to apply for judgment to be entered and costs assessed. 
-```
+> [!question] What if C fails to provide the security by the date ordered?
+> No CPR rule, but court will usually order that the claim is struck out and D entitled to apply for judgment to be entered and costs assessed. 
 
 ### Security Under R 3.1(5)
 
@@ -957,24 +910,22 @@ Such orders are rare, and tends to be in cases of repeated breaches/ bad faith.
 
 The court has a duty to manage cases actively:
 
-```ad-statute
-title: r 1.4 CPR 1998
-(1) The court must further the overriding objective by actively managing cases.
-
-(2) Active case management includes —
-- (a) encouraging the parties to co-operate with each other in the conduct of the proceedings;
-- (b) identifying the issues at an early stage;
-- (c) deciding promptly which issues need full investigation and trial and accordingly disposing summarily of the others;
-- (d) deciding the order in which issues are to be resolved;
-- (e) encouraging the parties to use an alternative dispute resolution(GL) procedure if the court considers that appropriate and facilitating the use of such procedure;
-- (f) helping the parties to settle the whole or part of the case;
-- (g) fixing timetables or otherwise controlling the progress of the case;
-- (h) considering whether the likely benefits of taking a particular step justify the cost of taking it;
-- (i) dealing with as many aspects of the case as it can on the same occasion;
-- (j) dealing with the case without the parties needing to attend at court;
-- (k) making use of technology; and
-- (l) giving directions to ensure that the trial of a case proceeds quickly and efficiently.
-```
+> [!statute] r 1.4 CPR 1998
+> (1) The court must further the overriding objective by actively managing cases.
+> 
+> (2) Active case management includes —
+> - (a) encouraging the parties to co-operate with each other in the conduct of the proceedings;
+> - (b) identifying the issues at an early stage;
+> - (c) deciding promptly which issues need full investigation and trial and accordingly disposing summarily of the others;
+> - (d) deciding the order in which issues are to be resolved;
+> - (e) encouraging the parties to use an alternative dispute resolution(GL) procedure if the court considers that appropriate and facilitating the use of such procedure;
+> - (f) helping the parties to settle the whole or part of the case;
+> - (g) fixing timetables or otherwise controlling the progress of the case;
+> - (h) considering whether the likely benefits of taking a particular step justify the cost of taking it;
+> - (i) dealing with as many aspects of the case as it can on the same occasion;
+> - (j) dealing with the case without the parties needing to attend at court;
+> - (k) making use of technology; and
+> - (l) giving directions to ensure that the trial of a case proceeds quickly and efficiently.
 
 r 3.1(2): lists many of the court's powers. The court can make any order subject to conditions and can specify the consequence of non-compliance.
 
@@ -982,13 +933,11 @@ Under r 3.1(5) the court may make an order that a party pay a sum of money into 
 
 ### Striking Out Statement of Case
 
-```ad-statute
-title: r 3.4(2) CPR 1998
-The court may strike out a statement of case if it appears to the court –
-- (a) that the statement of case discloses no reasonable grounds for bringing or defending the claim;
-- (b) that the statement of case is an abuse of the court’s process or is otherwise likely to obstruct the just disposal of the proceedings; or
-- (c) that there has been a failure to comply with a rule, practice direction or court order.
-```
+> [!statute] r 3.4(2) CPR 1998
+> The court may strike out a statement of case if it appears to the court –
+> - (a) that the statement of case discloses no reasonable grounds for bringing or defending the claim;
+> - (b) that the statement of case is an abuse of the court’s process or is otherwise likely to obstruct the just disposal of the proceedings; or
+> - (c) that there has been a failure to comply with a rule, practice direction or court order.
 
 This is frequently used when a statement of case is vague/ incoherent, or where the facts disclosed do not disclose any legally recognisable claim. If a statement of case is salvageable through amendment, the court may give a part the opportunity to do this.
 
@@ -1014,13 +963,11 @@ Valid grounds for striking out a statement of case. But other sanctions also ava
 
 ### Unless Order
 
-```ad-question
-title: A party has not taken a step in proceedings according to a court order, what should the other party do?
-1. Chase up the defaulting party in correspondence. 
-2. Apply to the court for an unless order. 
-	- Do this promptly
-	- First warn the other party of intention to do so.
-```
+> [!question] A party has not taken a step in proceedings according to a court order, what should the other party do?
+> 1. Chase up the defaulting party in correspondence. 
+> 2. Apply to the court for an unless order. 
+> 	- Do this promptly
+> 	- First warn the other party of intention to do so.
 
 PD 28 para 5.1:
 
@@ -1045,13 +992,11 @@ case, so as to enable it to deal justly with the application, including the need
 
 ### Denton
 
-```ad-test
-title: Denton test
-The test was established in [[Denton v TH White Ltd [2014] EWCA Civ 906]] as follows:
-1. Identify and assess the seriousness or significance of the relevant failure. If a breach was not serious or significant, relief would usually be granted and there would be no need to spend much time on the second and third stages.
-2. Consider why the failure or default occurred.
-3. Evaluate ‘all the circumstances of the case, so as to enable [the court] to deal justly with the application’.
-```
+> [!test] Denton test
+> The test was established in [[Denton v TH White Ltd [2014] EWCA Civ 906]] as follows:
+> 1. Identify and assess the seriousness or significance of the relevant failure. If a breach was not serious or significant, relief would usually be granted and there would be no need to spend much time on the second and third stages.
+> 2. Consider why the failure or default occurred.
+> 3. Evaluate ‘all the circumstances of the case, so as to enable [the court] to deal justly with the application’.
 
 - The court normally considers as one of the relevant circumstances of the case the defaulter’s previous conduct in the litigation, including any non-compliance with court orders.
 - A party might be penalised if they sought to take advantage of a mistake by an opponent where the failure was neither serious nor significant. Opposing an application for relief would be viewed as a breach of r 1.3, which requires parties to help the court to further the **overriding objective**.
@@ -1125,28 +1070,24 @@ Most important factor is the value of the claim. But the court also takes into a
 
 MERMAID3
 
-```ad-statute
-title: r 16.8(1) CPR 1998
-When deciding the track for a claim, the matters to which the court shall have regard include –
-- (a) the financial value, if any, of the claim;
-- (b) the nature of the remedy sought;
-- (c) the likely complexity of the facts, law or evidence;
-- (d) the number of parties or likely parties;
-- (e) the value of any counterclaim or other Part 20 claim and the complexity of any matters relating to it;
-- (f) the amount of oral evidence which may be required;
-- (g) the importance of the claim to persons who are not parties to the proceedings;
-- (h) the views expressed by the parties; and
-- (i) the circumstances of the parties.
-```
+> [!statute] r 16.8(1) CPR 1998
+> When deciding the track for a claim, the matters to which the court shall have regard include –
+> - (a) the financial value, if any, of the claim;
+> - (b) the nature of the remedy sought;
+> - (c) the likely complexity of the facts, law or evidence;
+> - (d) the number of parties or likely parties;
+> - (e) the value of any counterclaim or other Part 20 claim and the complexity of any matters relating to it;
+> - (f) the amount of oral evidence which may be required;
+> - (g) the importance of the claim to persons who are not parties to the proceedings;
+> - (h) the views expressed by the parties; and
+> - (i) the circumstances of the parties.
 
-```ad-statute
-title: r 26.8(2)
-It is for the court to assess the financial value of a claim and in doing so it will disregard –
-- (a) any amount not in dispute;
-- (b) any claim for interest;
-- (c) costs; and
-- (d) any contributory negligence.
-```
+> [!statute] r 26.8(2)
+> It is for the court to assess the financial value of a claim and in doing so it will disregard –
+> - (a) any amount not in dispute;
+> - (b) any claim for interest;
+> - (c) costs; and
+> - (d) any contributory negligence.
 
 The fast track is the normal track for claims with a value exceeding £10,000, but not £25,000, only if the trial is likely to last for no longer than one day; oral expert evidence at trial will be limited to no more than one expert per party in relation to any expert field and there will be expert evidence in no more than two expert fields.
 
@@ -1158,13 +1099,11 @@ If a party is dissatisfied, may appeal/ apply to the court for reallocation of t
 
 Aims are to process claims quickly at minimal cost.
 
-```ad-statute
-title: PD 26 para 8(1)
-- (a) The small claims track is intended to provide a proportionate procedure by which most straightforward claims with a financial value of not more than £10,000 can be decided, without the need for substantial pre-hearing preparation and the formalities of a traditional trial, and without incurring large legal costs.
-- (b) The procedures laid down in Part 27 for the preparation of the case and the conduct of the hearing are designed to make it possible for a litigant to conduct their own case without legal representation if they wish.
-- (c) Cases generally suitable for the small claims track will include consumer disputes, accident claims, disputes about the ownership of goods, and most disputes between a landlord and tenant other than those for possession.
-- (d) A case involving a disputed allegation of dishonesty will not usually be suitable for the small claims track.
-```
+> [!statute] PD 26 para 8(1)
+> - (a) The small claims track is intended to provide a proportionate procedure by which most straightforward claims with a financial value of not more than £10,000 can be decided, without the need for substantial pre-hearing preparation and the formalities of a traditional trial, and without incurring large legal costs.
+> - (b) The procedures laid down in Part 27 for the preparation of the case and the conduct of the hearing are designed to make it possible for a litigant to conduct their own case without legal representation if they wish.
+> - (c) Cases generally suitable for the small claims track will include consumer disputes, accident claims, disputes about the ownership of goods, and most disputes between a landlord and tenant other than those for possession.
+> - (d) A case involving a disputed allegation of dishonesty will not usually be suitable for the small claims track.
 
 All claims other than road traffic accidents, personal injury or housing disrepair will be  
 referred to the Small Claims Mediation Service if all parties consent to referral in their  
@@ -1210,9 +1149,8 @@ PD 28 para 5: if a party fails to comply with a direction, another party may app
 
 This will only exceptionally lead to a postponement of the trial date (para 5.4(1)). Court may order that the trial continue for issues which can be resolved.
 
-```ad-tip
-The trial date is sacrosanct. 
-```
+> [!tip]
+> The trial date is sacrosanct. 
 
 #### Exchange of Witness Statements & Reports
 
@@ -1220,10 +1158,8 @@ Usually exchanged simultaneously. The court will not make a direction giving per
 
 #### Pre-trial Checklist (PD 28 Para 6)
 
-```ad-guid
-title: Purpose
-To check that directions have been complied with so the court can fix a date for trial.
-```
+> [!guid] Purpose
+> To check that directions have been complied with so the court can fix a date for trial.
 
 The court will specify when to return the pre-trial checklist ( $\geq 8$ weeks before trial). Form N170 used. Parties encouraged to exchange before filing.
 
@@ -1260,16 +1196,14 @@ The starting point for drafting case management directions will be relevant mode
 
 #### Case Management Conference
 
-```ad-statute
-title: PD 29 para 5.1
-The court will at any case management conference:
-
-(1) review the steps which the parties have taken in the preparation of the case, and in particular their compliance with any directions that the court may have given,
-
-(2) decide and give directions about the steps which are to be taken to secure the progress of the claim in accordance with the overriding objective, and
-
-(3) ensure as far as it can that all agreements that can be reached between the parties about the matters in issue and the conduct of the claim are made and recorded.
-```
+> [!statute] PD 29 para 5.1
+> The court will at any case management conference:
+> 
+> (1) review the steps which the parties have taken in the preparation of the case, and in particular their compliance with any directions that the court may have given,
+> 
+> (2) decide and give directions about the steps which are to be taken to secure the progress of the claim in accordance with the overriding objective, and
+> 
+> (3) ensure as far as it can that all agreements that can be reached between the parties about the matters in issue and the conduct of the claim are made and recorded.
 
 Court will consider (PD 29 para 5.3):
 
@@ -1290,33 +1224,27 @@ Court will consider (PD 29 para 5.3):
 
 ##### Expert Evidence
 
-```ad-statute
-title: PD 29 para 5.5
-1. The court will not at this stage give permission to use expert evidence unless it can identify each expert by name or field in its order and say whether his evidence is to be given orally or by the use of his report.
-2. A party who obtains expert evidence before obtaining a direction about it does so at his own risk as to costs, except where he obtained the evidence in compliance with a pre-action protocol.
-```
+> [!statute] PD 29 para 5.5
+> 1. The court will not at this stage give permission to use expert evidence unless it can identify each expert by name or field in its order and say whether his evidence is to be given orally or by the use of his report.
+> 2. A party who obtains expert evidence before obtaining a direction about it does so at his own risk as to costs, except where he obtained the evidence in compliance with a pre-action protocol.
 
 ##### Preparing
 
-```ad-statute
-title: PD 29 para 5.6
-To assist the court, the parties and their legal advisers should:
-1. ensure that all documents that the court is likely to ask to see (including witness statements and experts’ reports) are brought to the hearing,
-2. consider whether the parties should attend,
-3. consider whether a case summary will be useful, and
-4. consider what orders each wishes to be made and give notice of them to the other parties.
-```
+> [!statute] PD 29 para 5.6
+> To assist the court, the parties and their legal advisers should:
+> 1. ensure that all documents that the court is likely to ask to see (including witness statements and experts’ reports) are brought to the hearing,
+> 2. consider whether the parties should attend,
+> 3. consider whether a case summary will be useful, and
+> 4. consider what orders each wishes to be made and give notice of them to the other parties.
 
 ##### Case Summary
 
-```ad-statute
-title: PD 29 para 5.7
-(1) A case summary:
-- (a) should be designed to assist the court to understand and deal with the questions before it,
-- (b) should set out a brief chronology of the claim, the issues of fact which are agreed or in dispute and the evidence needed to decide them,
-- (c) should not normally exceed 500 words in length, and
-- (d) should be prepared by the claimant and agreed with the other parties if possible.
-```
+> [!statute] PD 29 para 5.7
+> (1) A case summary:
+> - (a) should be designed to assist the court to understand and deal with the questions before it,
+> - (b) should set out a brief chronology of the claim, the issues of fact which are agreed or in dispute and the evidence needed to decide them,
+> - (c) should not normally exceed 500 words in length, and
+> - (d) should be prepared by the claimant and agreed with the other parties if possible.
 
 The case summary is meant to assist the judge to identify issues in dispute. In the case summary, parties can name witnesses, or just say how many will likely be used and fields of expertise.
 

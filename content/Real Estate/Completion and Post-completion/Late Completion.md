@@ -32,17 +32,15 @@ SCPC 10.3: Contractual entitlement to compensation given to the seller where the
 
 SCPC 9.1.2/ 9.1.3: where the sale is with vacant possession and the money due on completion is not paid by 2pm on the day of actual completion, for the purposes of compensation, completion is deemed to have taken place the next working day (unless seller has not vacated by 2pm).
 
-```ad-example
-If buyer's money did not arrive until 2.15pm on Friday,seller would be entitled to interest for 3 days. 
-```
+> [!example]
+> If buyer's money did not arrive until 2.15pm on Friday,seller would be entitled to interest for 3 days. 
 
 ## Service of Notice to Complete
 
 When it appears a delay in completion is not likely to be resolved quickly, consideration may be given to the service of a notice to complete, with the effect of making time of the essence of the contract. Then the aggrieved party has the option to terminate the contract immediately.
 
-```ad-warning
-Making time of the essence imposes a condition which binds both parties. So if previously aggrieved party $A$ makes time of the essence, and subsequently is unable to complete, $B$ could then terminate the contract at the specified new completion date.
-```
+> [!warning]
+> Making time of the essence imposes a condition which binds both parties. So if previously aggrieved party $A$ makes time of the essence, and subsequently is unable to complete, $B$ could then terminate the contract at the specified new completion date.
 
 SCPC 9.8: on service of a notice to complete, completion must take place within 10 working days (exclusive of the date of service) and time is of the essence.
 

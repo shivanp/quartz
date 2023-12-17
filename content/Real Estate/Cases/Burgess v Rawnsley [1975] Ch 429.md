@@ -7,9 +7,8 @@ date modified: Sunday, December 10th 2023, 12:39:22 am
 
 # Burgess v Rawnsley [1975] Ch 429
 
-```ad-summary
-The court said that in order for the joint tenancy to be severed by mutual agreement, an express or inferred agreement to change the basis on which co-ownership will continue is required. Co-ownership does not end on severance of the joint tenancy: it continues on a different basis. An agreement to do this can be expressly stated, or (as in this case) inferred from what the parties said and did.
-```
+> [!summary]
+> The court said that in order for the joint tenancy to be severed by mutual agreement, an express or inferred agreement to change the basis on which co-ownership will continue is required. Co-ownership does not end on severance of the joint tenancy: it continues on a different basis. An agreement to do this can be expressly stated, or (as in this case) inferred from what the parties said and did.
 
 **FACTS**: Mr Honick and Mrs Rawnsley bought a house as beneficial joint tenants, each paying half of the purchase price. In 1968, after their relationship broke down, Mrs Rawnsley orally agreed to sell her share to Mr Honick for £750, but subsequently changed her mind and wanted £1000. Mr Honick died before anything was resolved. Mr Honick’s daughter argued that the beneficial joint tenancy had been severed, and as he had died as a tenant in common, she took his share on his death. The court looked at whether and when there had been severance by mutual agreement.
 

@@ -32,15 +32,11 @@ There are additional rules for acquisitions involving public companies:
 	- Also applies if a scheme of arrangement is used to effect a merger.
 - If a party is listed, Stock Exchange Listing Rules additionally apply.
 
-```ad-defn
-title: Asset acquisition
-Involves the buyer acquiring the assets making up the business. Contract between the byer and the owner of the assets of the business. Could include tangible assets (land, machinery, stock) and intangible assets (IP, goodwill). 
-```
+> [!defn] Asset acquisition
+> Involves the buyer acquiring the assets making up the business. Contract between the byer and the owner of the assets of the business. Could include tangible assets (land, machinery, stock) and intangible assets (IP, goodwill). 
 
-```ad-defn
-title: Share acquisition
-Buyer acquires the shares in the company operating and owning the business. Contract between buyer and shareholder(s). No change in the ownership of the business - the business itself is still owned by the company. 
-```
+> [!defn] Share acquisition
+> Buyer acquires the shares in the company operating and owning the business. Contract between buyer and shareholder(s). No change in the ownership of the business - the business itself is still owned by the company. 
 
 ## Choice of Acquisition
 

@@ -72,18 +72,16 @@ There is some opinion that negligence should not feature at all, as it requires 
 
 It is important to remember that any discussion concerning whether a defendant has a particular form of *mens rea* must, in practice, be linked to a specific act or consequence as required for the offence in question (i.e. the *actus reus*). It is never acceptable to simply state *mens rea* in the abstract. For example, to be convicted of committing criminal damage, the defendant must either intend to destroy/damage property belong to another, or be reckless as to the destruction/damage of the property belonging to another.
 
-```ad-example
-The Theft Act 1968, s 1 provides:
+> [!example]
+> The Theft Act 1968, s 1 provides:
+> 
+> 'A person is guilty of theft if he dishonestly appropriates property belonging to another with the intention of permanently depriving the other of it.'
+> 
+> The _mens rea_ of the offence of theft is -   dishonestly, intention of permanently depriving.
 
-'A person is guilty of theft if he dishonestly appropriates property belonging to another with the intention of permanently depriving the other of it.'
-
-The _mens rea_ of the offence of theft is -   dishonestly, intention of permanently depriving.
-```
-
-```ad-example
-The Criminal Damage Act 1971, s 1(1) states:
-
-'A person who without lawful excuse destroys or damages any property belonging to another intending to destroy or damage any such property or being reckless as to whether any such property would be destroyed or damaged shall be guilty of an offence.'
-
-The _mens rea_ of the offence of basic criminal damage is - intending or being reckless as to destroying or damaging property belonging to another
-```
+> [!example]
+> The Criminal Damage Act 1971, s 1(1) states:
+> 
+> 'A person who without lawful excuse destroys or damages any property belonging to another intending to destroy or damage any such property or being reckless as to whether any such property would be destroyed or damaged shall be guilty of an offence.'
+> 
+> The _mens rea_ of the offence of basic criminal damage is - intending or being reckless as to destroying or damaging property belonging to another

@@ -9,11 +9,9 @@ date modified: Sunday, December 10th 2023, 12:40:25 am
 
 ## Basic Offence
 
-```ad-statute
-title: [s 1(1) Criminal Damage Act 1971](https://www.legislation.gov.uk/ukpga/1971/48/section/1)
-
-'A person who without lawful excuse damages or destroys any property belonging to another intending to destroy or damage any such property or being reckless as to whether any such property would be destroyed or damaged shall be guilty of an offence.'
-```
+> [!statute] [s 1(1) Criminal Damage Act 1971](https://www.legislation.gov.uk/ukpga/1971/48/section/1)
+> 
+> 'A person who without lawful excuse damages or destroys any property belonging to another intending to destroy or damage any such property or being reckless as to whether any such property would be destroyed or damaged shall be guilty of an offence.'
 
 The maximum sentence is ten years' imprisonment.
 
@@ -49,33 +47,29 @@ In [[Morphitis v Salmon [1990] Crim LR 48]], the court stated:
 
 ### Property
 
-```ad-statute
-title: [s 10(1) CDA 1971](https://www.legislation.gov.uk/ukpga/1971/48/section/10)
-
-‘In this Act “property” means property of a tangible nature, whether real or personal, including money and-
-
-(a) including wild creatures which have been tamed or are ordinarily kept in captivity, and any other wild creatures or their carcasses if, but only if, they have been reduced into possession which has not been lost or abandoned or are in the course of being reduced into possession; but
-
-(b) not including mushrooms growing wild on any land or flowers, fruit or foliage of a plant growing wild on any land.
-
-For the purposes of this subsection “mushroom” includes any fungus and “plant” includes any shrub or tree.’
-```
+> [!statute] [s 10(1) CDA 1971](https://www.legislation.gov.uk/ukpga/1971/48/section/10)
+> 
+> ‘In this Act “property” means property of a tangible nature, whether real or personal, including money and-
+> 
+> (a) including wild creatures which have been tamed or are ordinarily kept in captivity, and any other wild creatures or their carcasses if, but only if, they have been reduced into possession which has not been lost or abandoned or are in the course of being reduced into possession; but
+> 
+> (b) not including mushrooms growing wild on any land or flowers, fruit or foliage of a plant growing wild on any land.
+> 
+> For the purposes of this subsection “mushroom” includes any fungus and “plant” includes any shrub or tree.’
 
 In [[R v Whitely (1991) 93 Cr App R 25]], the court held that information does not fall within the definition of 'property' contained in the CDA 1971, s 10(1).
 
 ### Belonging to Another
 
-```ad-statute
-title: [s 10(2) CDA 1971](https://www.legislation.gov.uk/ukpga/1971/48/section/10)
-
-‘Property shall be treated for the purposes of this Act as belonging to any person—
-
-(a) having the custody or control of it;
-
-(b) having in it any proprietary right or interest (not being an equitable interest arising only from an agreement to transfer or grant an interest); or
-
-(c) having a charge on it.’
-```
+> [!statute] [s 10(2) CDA 1971](https://www.legislation.gov.uk/ukpga/1971/48/section/10)
+> 
+> ‘Property shall be treated for the purposes of this Act as belonging to any person—
+> 
+> (a) having the custody or control of it;
+> 
+> (b) having in it any proprietary right or interest (not being an equitable interest arising only from an agreement to transfer or grant an interest); or
+> 
+> (c) having a charge on it.’
 
 It can be seen that property can belong to more than one person. Where D owns property, it can still belong to another, such as a co-owner. If the property is mortgaged, it will also belong to the bank or mortgage company by virtue of s 10(2)(c).
 
@@ -92,9 +86,8 @@ In [[R v G and another [2003] UKHL 50]], the House of Lords stated that to convi
 
 It has been confirmed that the *mens rea* extends to the whole of the actus reus.
 
-```ad-tip
-The Court of Appeal held that it is insufficient that D does an act that damages property intentionally. What must also be proved is that D knew, or was reckless as to whether, the property belonged to another.
-```
+> [!tip]
+> The Court of Appeal held that it is insufficient that D does an act that damages property intentionally. What must also be proved is that D knew, or was reckless as to whether, the property belonged to another.
 
 While ignorance of the criminal law is no defence, ignorance of the civil law can prevent liability ([[R v Smith [1974] QB 354]]).
 
@@ -107,11 +100,9 @@ Arson is criminal damage by fire, however slight. Basic arson is charged under s
 | Actus reus | Destroy or damage by fire property belonging to another without lawful excuse. |
 | Mens rea   | Intention or recklessness as to the destruction or damage of property belonging to another by fire.                                                                               |
 
-```ad-statute
-title: [s 1(3) CDA 1971](https://www.legislation.gov.uk/ukpga/1971/48/section/1)
-
-‘Any offence committed under this section by destroying or damaging property by fire shall be charged as arson.’
-```
+> [!statute] [s 1(3) CDA 1971](https://www.legislation.gov.uk/ukpga/1971/48/section/1)
+> 
+> ‘Any offence committed under this section by destroying or damaging property by fire shall be charged as arson.’
 
 ## Lawful Excuse
 
@@ -136,19 +127,17 @@ This defence is dealt with in the CDA 1971, s 5(2)(a) and (3):
 - s 5(2)(a) operates where the defendant believes that the owner would have consented to the damage; and
 - s 5(3) says that the defendant's belief need not be reasonable. It is only necessary for it to be honestly held.
 
-```ad-statute
-title: [s 5 CDA 1971](https://www.legislation.gov.uk/ukpga/1971/48/section/5)
-
-(2) ‘A person charged with an offence to which this section applies, shall, whether or not he would be treated for the purposes of this Act as having a lawful excuse apart from this subsection, be treated for those purposes as having a lawful excuse-
-
-- (a) if at the time of the act or acts alleged to constitute the offence he believed that the person or persons whom he believed to be entitled to consent to the destruction of or damage to the property in question had so consented, or would have so consented to it if he or they had known of the destruction or damage and its circumstances; or
-
-- (b) if he destroyed or damaged or threatened to destroy or damage the property in question or, in the case of a charge of an offence under section 3 above, intended to use or cause or permit the use of something to destroy or damage it, in order to protect property belonging to himself or another or a right or interest in property which was or which he believed to be vested in himself or another, and at the time of the act or acts alleged to constitute the offence he believed-
-	- (a) that the property, right or interest was in immediate need of protection; and
-	- (b) that the means of protection adopted or prosed to be adopted were or would be reasonable having regard to all the circumstances.
-
-(3) For the purposes of this section it is immaterial whether a belief is justified or not if it is honestly held.’
-```
+> [!statute] [s 5 CDA 1971](https://www.legislation.gov.uk/ukpga/1971/48/section/5)
+> 
+> (2) ‘A person charged with an offence to which this section applies, shall, whether or not he would be treated for the purposes of this Act as having a lawful excuse apart from this subsection, be treated for those purposes as having a lawful excuse-
+> 
+> - (a) if at the time of the act or acts alleged to constitute the offence he believed that the person or persons whom he believed to be entitled to consent to the destruction of or damage to the property in question had so consented, or would have so consented to it if he or they had known of the destruction or damage and its circumstances; or
+> 
+> - (b) if he destroyed or damaged or threatened to destroy or damage the property in question or, in the case of a charge of an offence under section 3 above, intended to use or cause or permit the use of something to destroy or damage it, in order to protect property belonging to himself or another or a right or interest in property which was or which he believed to be vested in himself or another, and at the time of the act or acts alleged to constitute the offence he believed-
+> 	- (a) that the property, right or interest was in immediate need of protection; and
+> 	- (b) that the means of protection adopted or prosed to be adopted were or would be reasonable having regard to all the circumstances.
+> 
+> (3) For the purposes of this section it is immaterial whether a belief is justified or not if it is honestly held.’
 
 #### Mistaken Belief Due to Voluntary Intoxication
 

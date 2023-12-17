@@ -28,9 +28,8 @@ In registered land, a restriction may be entered on the proprietorship register 
 
 ### Conveyance by Trustees to Themselves
 
-```ad-action
-In the case of a disposal by trustees or personal representatives to one of themselves, enquiry must be made into the circumstances of the transaction because, on the face of it, such a disposal is in breach of trust and is voidable by the beneficiaries.
-```
+> [!action]
+> In the case of a disposal by trustees or personal representatives to one of themselves, enquiry must be made into the circumstances of the transaction because, on the face of it, such a disposal is in breach of trust and is voidable by the beneficiaries.
 
 #### Exceptions
 
@@ -49,9 +48,8 @@ Personal representatives enjoy the same wide powers as trustees of land.
 | $1$                                | Has all the powers of two or more personal representatives, and consequently (unlike a sole individual trustee) can convey the land on her own and give a valid receipt for the proceeds of sale. |
 | $>1$                               | All personal representatives must join in the assent or conveyance.                                                                                                                                                                                                   |
 
-```ad-action
-A buyer must therefore call for the grant to see who has or have been appointed as personal representative(s), and must insist that all the personal representatives named in the grant join in the assent or conveyance, or call for evidence of the death of any personal representative who will not be a party to it.
-```
+> [!action]
+> A buyer must therefore call for the grant to see who has or have been appointed as personal representative(s), and must insist that all the personal representatives named in the grant join in the assent or conveyance, or call for evidence of the death of any personal representative who will not be a party to it.
 
 ### Registering as Proprietors
 
@@ -115,9 +113,8 @@ The power becomes exercisable by the lender only as provided for in the mortgage
 
 ### Powers of Attorney
 
-```ad-defn
-A power of attorney is a deed under which the donor appoints someone (the attorney or donee) to carry out certain actions on their behalf.
-```
+> [!defn]
+> A power of attorney is a deed under which the donor appoints someone (the attorney or donee) to carry out certain actions on their behalf.
 
 ### Types of Power
 
@@ -150,57 +147,47 @@ Buyer entitled to a certified copy of the power of attorney affecting the title�
 
 A person who deals with an attorney holding these types of powers of attorney will take good title, provided he acquires in good faith without knowledge of the revocation of the power:
 
-```ad-statute
-title: s 5(2) Powers of Attorney Act 1971
-Where a power of attorney has been revoked and a person, without knowledge of the revocation, deals with the donee of the power, the transaction between them shall, in favour of that person, be as valid as if the power had then been in existence.
-```
+> [!statute] s 5(2) Powers of Attorney Act 1971
+> Where a power of attorney has been revoked and a person, without knowledge of the revocation, deals with the donee of the power, the transaction between them shall, in favour of that person, be as valid as if the power had then been in existence.
 
 Death revokes such a power.
 
-```ad-statute
-title: s 5(4) Powers of Attorney Act 1971
-Where the interest of a purchaser depends on whether a transaction between the donee of a power of attorney and another person was valid by virtue of subsection (2) of this section, it shall be conclusively presumed in favour of the purchaser that that person did not at the material time know of the revocation of the power if—
-- (a) the transaction between that person and the donee was completed within twelve months of the date on which the power came into operation; or
-- (b) that person makes a statutory declaration, before or within three months after the completion of the purchase, that he did not at the material time know of the revocation of the power.
-```
+> [!statute] s 5(4) Powers of Attorney Act 1971
+> Where the interest of a purchaser depends on whether a transaction between the donee of a power of attorney and another person was valid by virtue of subsection (2) of this section, it shall be conclusively presumed in favour of the purchaser that that person did not at the material time know of the revocation of the power if—
+> - (a) the transaction between that person and the donee was completed within twelve months of the date on which the power came into operation; or
+> - (b) that person makes a statutory declaration, before or within three months after the completion of the purchase, that he did not at the material time know of the revocation of the power.
 
 #### Enduring Powers
 
-```ad-defn
-An enduring power of attorney is one made under the Enduring Powers of Attorney Act 1985. This Act has been repealed and enduring powers are now governed by provisions contained in Sch 4 to the Mental Capacity Act 2005. 
-```
+> [!defn]
+> An enduring power of attorney is one made under the Enduring Powers of Attorney Act 1985. This Act has been repealed and enduring powers are now governed by provisions contained in Sch 4 to the Mental Capacity Act 2005. 
 
 Until the incapacity of the donor, the power takes effect as an ordinary power and the Mental Capacity Act contains provisions to protect buyers which are similar to those outlined above. On the incapacity of the donor, the attorney’s authority to act becomes limited to such acts as are necessary for the protection of the donor and his estate until such time as the power is registered with the Office of the Public Guardian.
 
-```ad-action
-Where a person is buying from an attorney who holds an enduring power, he should make a search at the Office of the Public Guardian to ensure that no application for registration of the power is pending. If an application is pending, this would suggest mental incapacity on the part of the donor.
-```
+> [!action]
+> Where a person is buying from an attorney who holds an enduring power, he should make a search at the Office of the Public Guardian to ensure that no application for registration of the power is pending. If an application is pending, this would suggest mental incapacity on the part of the donor.
 
 #### Lasting Powers
 
-```ad-defn
-The Mental Capacity Act 2005 (in force 1 October 2007) replaced enduring powers with a new form of power called a lasting power. Lasting powers give an attorney power to deal with the donor’s personal welfare and/or his property and affairs, including authority to deal with such matters when the donor no longer has capacity.
-```
+> [!defn]
+> The Mental Capacity Act 2005 (in force 1 October 2007) replaced enduring powers with a new form of power called a lasting power. Lasting powers give an attorney power to deal with the donor’s personal welfare and/or his property and affairs, including authority to deal with such matters when the donor no longer has capacity.
 
 The lasting power is required to be in a prescribed form but, unlike enduring powers, comes into effect only when registered with the Office of the Public Guardian.
 
-```ad-action
-Where the buyer is buying from an attorney who holds a lasting power, he should obtain an office copy of the power from the Office of the Public Guardian as evidence that the lasting power is registered with the Office of the Public Guardian and to check that the attorney is acting within the scope of his authority.
-
-The buyer from the attorney will be protected unless he knew the power was invalid (by s 14(3) of the Mental Capacity Act 2005) or was aware of circumstances which would have terminated the attorney’s authority to act (by s 5(2) of the Powers of Attorney Act 1971).
-```
+> [!action]
+> Where the buyer is buying from an attorney who holds a lasting power, he should obtain an office copy of the power from the Office of the Public Guardian as evidence that the lasting power is registered with the Office of the Public Guardian and to check that the attorney is acting within the scope of his authority.
+> 
+> The buyer from the attorney will be protected unless he knew the power was invalid (by s 14(3) of the Mental Capacity Act 2005) or was aware of circumstances which would have terminated the attorney’s authority to act (by s 5(2) of the Powers of Attorney Act 1971).
 
 #### Trustees
 
-```ad-guid
-If one of two co-owners wishes to appoint an attorney to execute a deed selling the land, the co-trustee cannot be appointed, as such co-trustee will not be able to give a valid receipt. In such a case, a stranger will need to be appointed, and this rule cannot be evaded by using an enduring power.
-```
+> [!guid]
+> If one of two co-owners wishes to appoint an attorney to execute a deed selling the land, the co-trustee cannot be appointed, as such co-trustee will not be able to give a valid receipt. In such a case, a stranger will need to be appointed, and this rule cannot be evaded by using an enduring power.
 
 ## Transactions at an Undervalue
 
-```ad-warning
-Where in the chain of title there is a transaction for no consideration or at an undervalue, care needs to be exercised, since the transaction could be set aside under the Insolvency Act 1986.
-```
+> [!warning]
+> Where in the chain of title there is a transaction for no consideration or at an undervalue, care needs to be exercised, since the transaction could be set aside under the Insolvency Act 1986.
 
 | Party      | Rule                                                                                                                                                                                                     | Statute       |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
@@ -213,24 +200,21 @@ Where in the chain of title there is a transaction for no consideration or at an
 
 ### Buyer Defences
 
-```ad-note
-The basic principle is that a subsequent buyer is protected, provided that he has acquired in good faith and for value from a person other than the insolvent company or bankrupt individual (Insolvency Act 1986, s 241(2)(a) and s 342(2)(a)).
-```
+> [!note]
+> The basic principle is that a subsequent buyer is protected, provided that he has acquired in good faith and for value from a person other than the insolvent company or bankrupt individual (Insolvency Act 1986, s 241(2)(a) and s 342(2)(a)).
 
 See [[Business Law and Practice/Insolvency/Voidable Transactions#Sanctions]] above for details on presumption of good faith. Remember, [[connected person]] includes directors, shadow directors and associates. [[Associate]] defined widely in s 435 IA 1986 to include a person’s spouse or ex-spouse, members of his family and his spouse’s family, his partner and his partner’s family, and his employees.
 
-```ad-action
-- Registration of bankruptcy proceedings will amount to notice, so a buyer will need to make a bankruptcy search against the individual making the transaction at an undervalue not for the period of that person’s ownership, but for a period of five years from the date of the transaction at an undervalue.
-- In the case of companies, the relevant time is 2 years. 
-```
+> [!action]
+> - Registration of bankruptcy proceedings will amount to notice, so a buyer will need to make a bankruptcy search against the individual making the transaction at an undervalue not for the period of that person’s ownership, but for a period of five years from the date of the transaction at an undervalue.
+> - In the case of companies, the relevant time is 2 years. 
 
 ### Registered Land
 
 In the case of dispositions registered on or after 1 April 2000, the register includes details of the price paid by the proprietor.
 
-```ad-action
-If this appears to be nil or something of low monetary value, the provisions of the Insolvency Act 1986 should be borne in mind. 
-```
+> [!action]
+> If this appears to be nil or something of low monetary value, the provisions of the Insolvency Act 1986 should be borne in mind. 
 
 Where first registration is based on a transaction at an undervalue, a note will be added in the proprietorship register to the effect that the title is subject to the provisions of the Insolvency Act 1986.
 
@@ -250,9 +234,8 @@ Instructions may reveal that the buyer’s intended use of the property after co
 
 If a policy is issued, it is normally a single premium policy (a single sum is paid on the issue of the policy). The benefit of the policy may be passed on to successors in title. The buyer’s lender should be consulted about the proposed breach of covenant and his approval obtained to the terms of the insurance policy.
 
-```ad-danger
-In arranging or advising on such a policy, the solicitor is carrying out a ‘regulated activity’ for the purposes of the FSMA 2000. Ensure you fall within the professional firms exemption to avoid committing a criminal offence.
-```
+> [!danger]
+> In arranging or advising on such a policy, the solicitor is carrying out a ‘regulated activity’ for the purposes of the FSMA 2000. Ensure you fall within the professional firms exemption to avoid committing a criminal offence.
 
 ### Other Methods
 
@@ -382,8 +365,7 @@ In the case of deeds executed by a company on or after 31 July 1990, a document 
 2. By being signed by a director and the secretary, or by two directors of the company, provided that the document is expressed to be executed by the company.
 3. A deed can be executed by being signed by a single director in the presence of a witness who then attests that signature (on/after 06/04/2008 only).
 
-```ad-warning
-Must say 'executed as a deed', 'signed as a deed' is not acceptable.
-```
+> [!warning]
+> Must say 'executed as a deed', 'signed as a deed' is not acceptable.
 
 Must also be delivered as a deed.

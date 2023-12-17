@@ -12,23 +12,21 @@ title: Fraud
 
 The [Fraud Act 2006](https://www.legislation.gov.uk/ukpga/2006/35/contents) (FA 2006) abolished the old offences related to deception. They were replaced primarily by one offence of fraud under the FA 2006, section 1.
 
-```ad-statute
-title: [s 1 FA 2006](https://www.legislation.gov.uk/ukpga/2006/35/section/1)
-
-(1) A person is guilty of fraud if he is in breach of any of the sections listed in subsection (2) (which provide for different ways of committing the offence).
-
-(2) The sections are—
-
-- (a) section 2 (fraud by false representation),
-- (b) section 3 (fraud by failing to disclose information), and
-- (c) section 4 (fraud by abuse of position).
-
-(3) A person who is guilty of fraud is liable—
-- (a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum (or to both);
-- (b) on conviction on indictment, to imprisonment for a term not exceeding 10 years or to a fine (or to both).
-
-(4) Subsection (3)(a) applies in relation to Northern Ireland as if the reference to 12 months were a reference to 6 months. 
-```
+> [!statute] [s 1 FA 2006](https://www.legislation.gov.uk/ukpga/2006/35/section/1)
+> 
+> (1) A person is guilty of fraud if he is in breach of any of the sections listed in subsection (2) (which provide for different ways of committing the offence).
+> 
+> (2) The sections are—
+> 
+> - (a) section 2 (fraud by false representation),
+> - (b) section 3 (fraud by failing to disclose information), and
+> - (c) section 4 (fraud by abuse of position).
+> 
+> (3) A person who is guilty of fraud is liable—
+> - (a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum (or to both);
+> - (b) on conviction on indictment, to imprisonment for a term not exceeding 10 years or to a fine (or to both).
+> 
+> (4) Subsection (3)(a) applies in relation to Northern Ireland as if the reference to 12 months were a reference to 6 months. 
 
 ## Fraud by False Representation
 
@@ -36,27 +34,25 @@ This offence most closely matches the old offences of deception, and therefore r
 
 All that is required for the _actus reus_ is a false representation. There is no requirement that this representation deceives anyone.
 
-```ad-statute
-title: s 2 FA 2006
-
-(1) A person is in breach of this section if he—
-- (a) dishonestly makes a false representation, and
-- (b) intends, by making the representation—
-	- (i) to make a gain for himself or another, or
-	- (ii) to cause loss to another or to expose another to a risk of loss.
-
-(2 )A representation is false if—
-- (a) it is untrue or misleading, and
-- (b) the person making it knows that it is, or might be, untrue or misleading.
-
-(3) “Representation” means any representation as to fact or law, including a representation as to the state of mind of—
-- (a) the person making the representation, or
-- (b) any other person.
-
-(4) A representation may be express or implied.
-
-(5) For the purposes of this section a representation may be regarded as made if it (or anything implying it) is submitted in any form to any system or device designed to receive, convey or respond to communications (with or without human intervention). 
-```
+> [!statute] s 2 FA 2006
+> 
+> (1) A person is in breach of this section if he—
+> - (a) dishonestly makes a false representation, and
+> - (b) intends, by making the representation—
+> 	- (i) to make a gain for himself or another, or
+> 	- (ii) to cause loss to another or to expose another to a risk of loss.
+> 
+> (2 )A representation is false if—
+> - (a) it is untrue or misleading, and
+> - (b) the person making it knows that it is, or might be, untrue or misleading.
+> 
+> (3) “Representation” means any representation as to fact or law, including a representation as to the state of mind of—
+> - (a) the person making the representation, or
+> - (b) any other person.
+> 
+> (4) A representation may be express or implied.
+> 
+> (5) For the purposes of this section a representation may be regarded as made if it (or anything implying it) is submitted in any form to any system or device designed to receive, convey or respond to communications (with or without human intervention). 
 
 ### Express or Implied Representation
 
@@ -136,19 +132,17 @@ This requirement of mens rea (which is common to all the ways that the offence o
 
 'Gain' and 'loss' are defined in [s 5 FA 2006](https://www.legislation.gov.uk/ukpga/2006/35/section/5)
 
-```ad-statute
-title: s 5 FA 2006
-
-(2) “Gain” and “loss”—
-
-(a) extend only to gain or loss in money or other property;
-
-(b) include any such gain or loss whether temporary or permanent; and “property” means any property whether real or personal (including things in action and other intangible property).
-
-(3) “Gain” includes a gain by keeping what one has, as well as a gain by getting what one does not have.
-
-(4) “Loss” includes a loss by not getting what one might get, as well as a loss by parting with what one has.
-```
+> [!statute] s 5 FA 2006
+> 
+> (2) “Gain” and “loss”—
+> 
+> (a) extend only to gain or loss in money or other property;
+> 
+> (b) include any such gain or loss whether temporary or permanent; and “property” means any property whether real or personal (including things in action and other intangible property).
+> 
+> (3) “Gain” includes a gain by keeping what one has, as well as a gain by getting what one does not have.
+> 
+> (4) “Loss” includes a loss by not getting what one might get, as well as a loss by parting with what one has.
 
 The requirement of an actual gain or loss is absent from the offences of fraud under the Fraud Act 2006. All that is required is that the defendant intended to make a gain, even if no such gain arose. In fact, this element of mens rea is much wider than that, as it is enough that the defendant:
 
@@ -163,17 +157,15 @@ In [[R v Dziruni [2008] EWCA Crim 677]] a false representation made with a view 
 
 This is set out by [s 3 FA 2006](https://www.legislation.gov.uk/ukpga/2006/35/section/3)
 
-```ad-statute
-title: s 3 FA 2006
-
-A person is in breach of this section if he—
-
-(a) dishonestly fails to disclose to another person information which he is under a legal duty to disclose, and
-
-(b) intends, by failing to disclose the information—
-- (i) to make a gain for himself or another, or
-- (ii) to cause loss to another or to expose another to a risk of loss. 
-```
+> [!statute] s 3 FA 2006
+> 
+> A person is in breach of this section if he—
+> 
+> (a) dishonestly fails to disclose to another person information which he is under a legal duty to disclose, and
+> 
+> (b) intends, by failing to disclose the information—
+> - (i) to make a gain for himself or another, or
+> - (ii) to cause loss to another or to expose another to a risk of loss. 
 
 ### Actus Reus
 
@@ -213,21 +205,19 @@ Two aspects of mens rea are required, which are identical to the mens rea for fr
 
 Details of this form of fraud can be found in the [FA 2006, s 4](https://www.legislation.gov.uk/ukpga/2006/35/section/4):
 
-```ad-statute
-title: s 4 FA 2006
-
-(1) A person is in breach of this section if he—
-
-(a) occupies a position in which he is expected to safeguard, or not to act against, the financial interests of another person,
-
-(b) dishonestly abuses that position, and
-
-(c) intends, by means of the abuse of that position—
-- (i) to make a gain for himself or another, or
-- (ii) to cause loss to another or to expose another to a risk of loss.
-
-(2) A person may be regarded as having abused his position even though his conduct consisted of an omission rather than an act. 
-```
+> [!statute] s 4 FA 2006
+> 
+> (1) A person is in breach of this section if he—
+> 
+> (a) occupies a position in which he is expected to safeguard, or not to act against, the financial interests of another person,
+> 
+> (b) dishonestly abuses that position, and
+> 
+> (c) intends, by means of the abuse of that position—
+> - (i) to make a gain for himself or another, or
+> - (ii) to cause loss to another or to expose another to a risk of loss.
+> 
+> (2) A person may be regarded as having abused his position even though his conduct consisted of an omission rather than an act. 
 
 ### AR: Occupying a Position
 
@@ -243,9 +233,8 @@ The conclusion that can be drawn from the explanation from the Law Commission se
 
 However, the type of fraud outlined in the section 4 is clearly not limited to such relationships.
 
-```ad-example
-If a woman starts visiting her elderly neighbor and helping with his shopping one can see that this relationship would fit into the last example given by the Law Commission of 'voluntary work.' This would be particularly true if the neighbour asked the woman to help him in any way with his finances, such as collecting his pension from the Post Office.
-```
+> [!example]
+> If a woman starts visiting her elderly neighbor and helping with his shopping one can see that this relationship would fit into the last example given by the Law Commission of 'voluntary work.' This would be particularly true if the neighbour asked the woman to help him in any way with his finances, such as collecting his pension from the Post Office.
 
 In [[R v Pennock and Pennock [2014] EWCA Crim 598]], the Court of Appeal confirmed that the existence of a necessary relationship and its abuse will be determined on a case-by-case basis.
 
@@ -261,9 +250,8 @@ However, some direction has been provided from the case of [[R v Pennock and Pen
 
 Note that s 4(2) provides that this offence can be committed by an omission as well as by an act. An example of how this might occur is when an employee who has a duty to collect payment on behalf of their employer fails to do so.
 
-```ad-important
-The jury will decide on the facts whether the necessary relationship exists for D to have occupied a position in which they are expected to safeguard or not act against the financial interests of another person. However, before the jury decide this, the judge will consider whether the particular facts are capable of giving rise to D occupying a position and may give specific directions to the jury on this point.
-```
+> [!important]
+> The jury will decide on the facts whether the necessary relationship exists for D to have occupied a position in which they are expected to safeguard or not act against the financial interests of another person. However, before the jury decide this, the judge will consider whether the particular facts are capable of giving rise to D occupying a position and may give specific directions to the jury on this point.
 
 ### Mens Rea
 
@@ -271,6 +259,5 @@ This includes dishonesty, and intention to make a gain or cause a loss.
 
 Dishonesty is the [[Ivey v Genting Casinos [2017] UKSC 67]] test once again, and intention to make a gain or cause a loss is again explained in s 5 FA 2006.
 
-```ad-note
-Where an employee fails to collect sums owed to their employer, due to laziness (rather than assisting the person who should be paying or punishing their employer), there would be an oblique intention to make a gain for another and cause a loss to their employer. Applying the test in [[R v Woollin [1999] AC 82]], it would be virtually certain that such a gain and loss would be caused and the defendant would appreciate this to be the case.
-```
+> [!note]
+> Where an employee fails to collect sums owed to their employer, due to laziness (rather than assisting the person who should be paying or punishing their employer), there would be an oblique intention to make a gain for another and cause a loss to their employer. Applying the test in [[R v Woollin [1999] AC 82]], it would be virtually certain that such a gain and loss would be caused and the defendant would appreciate this to be the case.

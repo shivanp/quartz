@@ -14,11 +14,9 @@ The formalities for declaration of a trust of land set out in s 53(1)(b) LPA 192
 
 ### Statute
 
-```ad-statute
-title: s 53(1)(b) LPA 1925
-
-A declaration of trust respecting any land or any interest therein must be manifested and proved by some writing signed by some person who is able to declare such trust or by his will.
-```
+> [!statute] s 53(1)(b) LPA 1925
+> 
+> A declaration of trust respecting any land or any interest therein must be manifested and proved by some writing signed by some person who is able to declare such trust or by his will.
 
 ### Details
 
@@ -44,11 +42,10 @@ Non-compliance renders the trust unenforceable rather than void. This is crucial
 
 Once the trust becomes enforceable, the beneficiaries can enforce their rights in respect of the period between declaration and satisfaction of s53(1)(b).
 
-```ad-example
-Consider a life interest trust of land which is declared in January but evidenced six months later, in June:
-
-The life tenant is entitled to the income produced by the land between January and June. Once the trust becomes enforceable, the life tenant can sue to enforce this interest. The trustee can also be sued for any other breaches of trust between January and June.
-```
+> [!example]
+> Consider a life interest trust of land which is declared in January but evidenced six months later, in June:
+> 
+> The life tenant is entitled to the income produced by the land between January and June. Once the trust becomes enforceable, the life tenant can sue to enforce this interest. The trustee can also be sued for any other breaches of trust between January and June.
 
 ### Unenforceable Trusts
 
@@ -65,9 +62,8 @@ In cases involving an intended transfer on trust:
 
 ## Constitution of Trusts
 
-```ad-defn
-**Constitution** is the transfer of legal title from one party to another, which is necessary in order to make a transfer on trust or a gift binding. 
-```
+> [!defn]
+> **Constitution** is the transfer of legal title from one party to another, which is necessary in order to make a transfer on trust or a gift binding. 
 
 > The settlor must have done everything which, according to the nature of the property comprised in the settlement, was necessary to be done in order to transfer the property and render the settlement binding upon him.  
 > Lord Justice Turner, [[Milroy v Lord (1862) 31 LJ Ch 798]]
@@ -108,13 +104,11 @@ Once a trust is constituted, the settlor ceases to have any beneficial or legal 
 
 The same is true of gifts. Once the donee has legal title, the donor has no more rights to that property and cannot ask for it to be returned.
 
-```ad-example
-Jamal asks Paul to hold some shares on trust for Sian. Jamal transfers legal title to Paul. Once Paul is registered as the shareholder, the trust is completely constituted and Jamal cannot revoke it.
-```
+> [!example]
+> Jamal asks Paul to hold some shares on trust for Sian. Jamal transfers legal title to Paul. Once Paul is registered as the shareholder, the trust is completely constituted and Jamal cannot revoke it.
 
-```ad-example
-Ariana receives a watch from Tarek as a gift. Later they argue and Tarek tells Ariana to give it back. The gift was perfected on delivery. Tarek can’t change his mind so Ariana can keep the watch.
-```
+> [!example]
+> Ariana receives a watch from Tarek as a gift. Later they argue and Tarek tells Ariana to give it back. The gift was perfected on delivery. Tarek can’t change his mind so Ariana can keep the watch.
 
 ### Failed Constitution
 
@@ -138,13 +132,11 @@ If a donor intends to make a gift but fails to transfer legal title, they will n
 
 Similarly, if a settlor fails to constitute a transfer on trust, they will not be interpreted as holding the trust property for the intended beneficiary. They did not intend to take on this obligation and will not be treated as having done so.
 
-```ad-example
-Jamal asks Paul to hold some shares on trust for Sian. Jamal forgets to complete the stock transfer form and so Paul is not registered as the shareholder. Jamal dies and leaves the shares to Dhan as a gift in his will. The trust is void because it was imperfectly constituted. Dhan will receive the shares under the will.
-```
+> [!example]
+> Jamal asks Paul to hold some shares on trust for Sian. Jamal forgets to complete the stock transfer form and so Paul is not registered as the shareholder. Jamal dies and leaves the shares to Dhan as a gift in his will. The trust is void because it was imperfectly constituted. Dhan will receive the shares under the will.
 
-```ad-example
-Tarek says he is going to send Ariana a watch as a gift. Later they argue and Tarek tells Ariana he won’t be sending the watch. Whilst Tarek intended to make a gift of a chattel, he did not deliver it and so legal title has not transferred to Ariana. Tarek can change his mind. Ariana has no rights over the watch.
-```
+> [!example]
+> Tarek says he is going to send Ariana a watch as a gift. Later they argue and Tarek tells Ariana he won’t be sending the watch. Whilst Tarek intended to make a gift of a chattel, he did not deliver it and so legal title has not transferred to Ariana. Tarek can change his mind. Ariana has no rights over the watch.
 
 ### Constitution and Certainty of Intention
 
@@ -169,9 +161,8 @@ The effect of the rule in *Milroy v Lord* is that if legal title has not been ve
 
 Following Milroy v Lord, the general rule is that equity will not perfect an imperfect gift. This means that a disposition will fail unless legal title has been vested in the intended recipient. According to Turner LJ the owner must do: “everything necessary to be done”.
 
-```ad-note
-The rule in Re Rose can be used to perfect both gifts and trusts.
-```
+> [!note]
+> The rule in Re Rose can be used to perfect both gifts and trusts.
 
 This has subsequently been interpreted to mean that the transferor must do everything within their own power to transfer legal title. As such, even if the transfer of legal title has not occurred, equity may regard the transfer of the equitable interest in the property as complete.
 
@@ -181,11 +172,10 @@ In [[Re Rose [1952] Ch 499]] the Court of Appeal held that a transfer of shares 
 
 In [[Mascall v Mascall [1985] 50 P & CR 119]] the Re Rose principle was applied by the Court of Appeal to the gift of registered land from a father to his son. This case is important because it extended the Re Rose principle to registered land. It also established that it is not necessary for the transferor to send the documents to the person capable of completing the transfer. If the correct method of transfer has been used, the transfer will be irrevocable if the transferor puts the matter beyond their own control.
 
-```ad-example
-Narinder wishes to transfer shares to Sergei to hold on trust for Karim. Narinder completes the stock transfer form and gives this to Sergei with the share certificate. Sergei is not yet registered as the shareholder. Narinder dies and leaves the shares to Muhammed as a gift in his will. Narinder’s personal representatives are unsure whether to transfer the shares to Sergei or to Muhammed.
-
-The basic rule in Milroy v Lord is that the trust is void because it was imperfectly constituted. Following Re Rose, if Narinder did everything in her power to transfer the shares to Sergei, the transfer will be complete in equity. Whilst she has used the correct method of transfer, the documents have not ended up in the hands of the person capable of effecting the transfer (the Company Registrar). However, by giving Sergei the stock transfer form and share certificate, Narinder has given him the means to effect the transfer of the legal title. Therefore, following Mascall v Mascall, Narinder (and consequently her personal representatives) holds the shares on a constructive trust for Sergei pending the transfer of legal title, who in turn holds that equitable interest on trust for Karim.
-```
+> [!example]
+> Narinder wishes to transfer shares to Sergei to hold on trust for Karim. Narinder completes the stock transfer form and gives this to Sergei with the share certificate. Sergei is not yet registered as the shareholder. Narinder dies and leaves the shares to Muhammed as a gift in his will. Narinder’s personal representatives are unsure whether to transfer the shares to Sergei or to Muhammed.
+> 
+> The basic rule in Milroy v Lord is that the trust is void because it was imperfectly constituted. Following Re Rose, if Narinder did everything in her power to transfer the shares to Sergei, the transfer will be complete in equity. Whilst she has used the correct method of transfer, the documents have not ended up in the hands of the person capable of effecting the transfer (the Company Registrar). However, by giving Sergei the stock transfer form and share certificate, Narinder has given him the means to effect the transfer of the legal title. Therefore, following Mascall v Mascall, Narinder (and consequently her personal representatives) holds the shares on a constructive trust for Sergei pending the transfer of legal title, who in turn holds that equitable interest on trust for Karim.
 
 It can be seen that by using Re Rose and Mascall v Mascall together, a transfer is irrevocable if the matter is put beyond the control of a transferor.
 
@@ -205,28 +195,25 @@ Pennington v Waine is difficult to reconcile with the other case law in this are
 
 Obiter comments in [[Zeital v Kaye [2010] ECWA Civ 159]] and [[Curtis v Pulbrook [2011] EWHC 167 (Ch)]] suggest it will only be followed where the facts are similar to Pennington itself. The decision may be better explained by the doctrine of [[proprietary estoppel]].
 
-```ad-info
-title: Proprietary estoppel
-[[Proprietary estoppel]] arises if there is:
-- an assurance (Harold was assured that Ada would give the shares to Harold)
-- reliance (Harold relied on this assurance by becoming a director)
-- detriment (He took on the burdens of directorship)
+> [!info] Proprietary estoppel
+> [[Proprietary estoppel]] arises if there is:
+> - an assurance (Harold was assured that Ada would give the shares to Harold)
+> - reliance (Harold relied on this assurance by becoming a director)
+> - detriment (He took on the burdens of directorship)
+> 
+> If proprietary estoppel is established, it would be unconscionable to go back on the assurance. However, an award by the court is based on the 'minimum equity required to do justice' (the court has a discretion to award the remedy which it considers most appropriate). So unlike the rule in Re Rose, a proprietary estoppel does not necessarily a constructive trust.
+> 
+> See Briggs J in [[Curtis v Pulbrook [2011] EWHC 167 (Ch)]] at [43].
 
-If proprietary estoppel is established, it would be unconscionable to go back on the assurance. However, an award by the court is based on the 'minimum equity required to do justice' (the court has a discretion to award the remedy which it considers most appropriate). So unlike the rule in Re Rose, a proprietary estoppel does not necessarily a constructive trust.
-
-See Briggs J in [[Curtis v Pulbrook [2011] EWHC 167 (Ch)]] at [43].
-```
-
-```ad-summary
-- Exceptions have developed to mitigate the harshness of the rule in [[Milroy v Lord (1862) 31 LJ Ch 798]].
-- [[Re Rose [1952] Ch 499]] applies if 
-	1. the correct method of transfer is used
-	2. the transferor has done everything in their power to effect the transfer and 
-	3. the documentation ends up in the hands of the person/organisation capable of effecting the transfer.
-- [[Mascall v Mascall [1985] 50 P & CR 119]] extends the Re Rose principle to registered land and says that the second limb of Re Rose is not necessary if the transferor has ‘put the matter beyond their control’ as this make would make a transfer irrevocable.
-- If Re Rose or Mascall v Mascall apply the donor will hold the property on a constructive trust for the intended donee.
-- [[Pennington v Waine [2002] EWCA Civ 227]] appeared to stretch the exception further, applying it to any cases where it would be ‘unconscionable’ to resile from the transfer. This case is generally regarded as confined to its own facts. It is unlikely that it would be applied unless the facts of a future case were very similar (although the doctrine of proprietary estoppel may also apply in such cases).
-```
+> [!summary]
+> - Exceptions have developed to mitigate the harshness of the rule in [[Milroy v Lord (1862) 31 LJ Ch 798]].
+> - [[Re Rose [1952] Ch 499]] applies if 
+> 	1. the correct method of transfer is used
+> 	2. the transferor has done everything in their power to effect the transfer and 
+> 	3. the documentation ends up in the hands of the person/organisation capable of effecting the transfer.
+> - [[Mascall v Mascall [1985] 50 P & CR 119]] extends the Re Rose principle to registered land and says that the second limb of Re Rose is not necessary if the transferor has ‘put the matter beyond their control’ as this make would make a transfer irrevocable.
+> - If Re Rose or Mascall v Mascall apply the donor will hold the property on a constructive trust for the intended donee.
+> - [[Pennington v Waine [2002] EWCA Civ 227]] appeared to stretch the exception further, applying it to any cases where it would be ‘unconscionable’ to resile from the transfer. This case is generally regarded as confined to its own facts. It is unlikely that it would be applied unless the facts of a future case were very similar (although the doctrine of proprietary estoppel may also apply in such cases).
 
 ### Death of Transferor Exceptions
 
@@ -238,21 +225,18 @@ In some cases, a failure to perfect the intended recipient’s title may be cure
 
 This will usually occur because the intended recipient of a gift is also the personal representative of the transferor’s estate. On the transferor’s death, legal title to all their property will transfer to their personal representative to administer their estate. If their personal representative was also the intended recipient of an imperfect gift, this gift may be perfected on the death of transferor.
 
-```ad-example
-Diane intends to give Ciara an antique sword but Diane dies before this is delivered to Ciara and so legal title has not transferred to her. Ciara is named as executor in Diane’s will. Ciara will obtain legal title to the antique sword as executor. The gift to Ciara will be perfected via fortuitous vesting because Ciara has obtained legal title in her capacity as executor.
-```
+> [!example]
+> Diane intends to give Ciara an antique sword but Diane dies before this is delivered to Ciara and so legal title has not transferred to her. Ciara is named as executor in Diane’s will. Ciara will obtain legal title to the antique sword as executor. The gift to Ciara will be perfected via fortuitous vesting because Ciara has obtained legal title in her capacity as executor.
 
 Fortuitous vesting is commonly known as the rule in [[Strong v Bird (1874) LR 18 Eq 3015]]. Whilst this case established the rule which is commonly applied to gifts, the case was actually about forgiving a debt.
 
 [[Re Stewart [1908] 2 Ch 251]] extended the principle in Strong v Bird to perfect imperfect gifts. This case also confirmed that Strong v Bird will apply even if the intended recipient is one of several executors.
 
-```ad-test
-title: Rule in Strong v Bird
-The following conditions must be met in order for the Rule in Strong v Bird to apply:
-1. There must be an intention to make an immediate gift ([[Re Freeland [1952] Ch 110]])
-2. The intention must continue until the donor’s death ([[Re Gonin]])
-3. The intended donee becomes an executor (or one of the executors) of the donor’s estate ([[Re Stewart [1908] 2 Ch 251]])
-```
+> [!test] Rule in Strong v Bird
+> The following conditions must be met in order for the Rule in Strong v Bird to apply:
+> 1. There must be an intention to make an immediate gift ([[Re Freeland [1952] Ch 110]])
+> 2. The intention must continue until the donor’s death ([[Re Gonin]])
+> 3. The intended donee becomes an executor (or one of the executors) of the donor’s estate ([[Re Stewart [1908] 2 Ch 251]])
 
 #### Extension to Administrators
 
@@ -260,11 +244,10 @@ If a person dies without making a will, they are said to die intestate. On their
 
 In [[Re James [1935] Ch 449]] the rule in **Strong v Bird** was held to apply where the donee was appointed administrator. This therefore extends the principle of fortuitous vesting to include personal representatives appointed independently of the donor, which some commentators consider unjustifiable.
 
-```ad-note
-Walton J doubted that Strong v Bird applied the daughter (appointed administratrix) in obiter in Re Gonin. He argued that in these circumstances the donor has no responsibility for making the donee administrator so Strong v Bird should not apply.
-
-These comments were obiter because the court had found no continuing intention to give the house to the claimant in any event. The British Virgin Islands Court of Appeal applied Walton J’s remarks in [[Re Pagarini [1999] 2 OFLR 1]].
-```
+> [!note]
+> Walton J doubted that Strong v Bird applied the daughter (appointed administratrix) in obiter in Re Gonin. He argued that in these circumstances the donor has no responsibility for making the donee administrator so Strong v Bird should not apply.
+> 
+> These comments were obiter because the court had found no continuing intention to give the house to the claimant in any event. The British Virgin Islands Court of Appeal applied Walton J’s remarks in [[Re Pagarini [1999] 2 OFLR 1]].
 
 ### Donationes Mortis Causa
 
@@ -274,23 +257,17 @@ This exception is utilised in circumstances where a person contemplates their im
 
 It is an anomalous exception which only applies in very specific circumstances, i.e., where the donor does not have time to make a valid lifetime disposition or create a valid will transferring the property to the intended recipients. They also must comply with strict conditions.
 
-```ad-test
-title: Donationes Mortis Causa conditions
-[[Cain v Moon [1896] 2 QB 283]] sets out the following requirements:
-1. The gift is made in contemplation (though not necessarily expectation) of death from an identifiable cause which the donor believes to be imminent ([[King v Dubrey [2015] EWCA]])
-2. The gift is conditional on death (i.e. it is not intended to be fully effective until then and can be revoked before death);
-3. There is delivery of the property; the donor must part with ‘dominion’ (control) of the property by handing it, or something which represents title (not simply possession) to the donee. ([[Sen v Headley [1991] Ch 425]])
-```
+> [!test] Donationes Mortis Causa conditions
+> [[Cain v Moon [1896] 2 QB 283]] sets out the following requirements:
+> 1. The gift is made in contemplation (though not necessarily expectation) of death from an identifiable cause which the donor believes to be imminent ([[King v Dubrey [2015] EWCA]])
+> 2. The gift is conditional on death (i.e. it is not intended to be fully effective until then and can be revoked before death);
+> 3. There is delivery of the property; the donor must part with ‘dominion’ (control) of the property by handing it, or something which represents title (not simply possession) to the donee. ([[Sen v Headley [1991] Ch 425]])
 
-```ad-example
-title: Invalid DMC
-Nico promises Elena his vintage Porsche when he dies. The next day Nico dies in a car accident. There is no DMC. Nico has no reason to anticipate dying and the gift isn’t conditional on his death, nor has the car been delivered.
-```
+> [!example] Invalid DMC
+> Nico promises Elena his vintage Porsche when he dies. The next day Nico dies in a car accident. There is no DMC. Nico has no reason to anticipate dying and the gift isn’t conditional on his death, nor has the car been delivered.
 
-```ad-example
-title: Valid DMC
-Nico is racing one of his cars in a rally the next day. He gives his vintage Porsche to Elena saying, “if I die tomorrow, the Porsche is all yours.” This is a DMC. Nico is anticipating his death and delivers the car to Elena. His words (“if I die”) make the gift conditional. Elena can only keep the car if Nico dies.
-```
+> [!example] Valid DMC
+> Nico is racing one of his cars in a rally the next day. He gives his vintage Porsche to Elena saying, “if I die tomorrow, the Porsche is all yours.” This is a DMC. Nico is anticipating his death and delivers the car to Elena. His words (“if I die”) make the gift conditional. Elena can only keep the car if Nico dies.
 
 ### Delivery and Passing of Dominion
 
@@ -300,13 +277,12 @@ A valid DMC does not require full transfer of legal title provided the donor par
 
 Passing of dominion can also be constructive, as [[Sen v Headley [1991] Ch 425]] illustrates.
 
-```ad-summary
-- Fortuitous vesting and donationes mortis causa are both exceptions to the rule in Milroy v Lord which apply on the death of the donor.
-- Fortuitous vesting is also known as the rule in Strong v Bird and it operates where a gift is made to a donee who subsequently obtains legal title to it by becoming the donor’s personal representative.
-- In order for the rule in Strong v Bird to operate there must be a continuing intention to make an immediate gift to the intended donee who becomes the executor/one of the executors under the donor’s will.
-- Donationes mortis causa are recognised in exceptional circumstances where a donor anticipates dying and wants to make a gift but does not have time to make a valid will.
-- A valid donatio mortis causa will be recognised where the donor is contemplating their imminent death, expresses the intention that the gift is conditional on their death and parts with dominion of the property.
-```
+> [!summary]
+> - Fortuitous vesting and donationes mortis causa are both exceptions to the rule in Milroy v Lord which apply on the death of the donor.
+> - Fortuitous vesting is also known as the rule in Strong v Bird and it operates where a gift is made to a donee who subsequently obtains legal title to it by becoming the donor’s personal representative.
+> - In order for the rule in Strong v Bird to operate there must be a continuing intention to make an immediate gift to the intended donee who becomes the executor/one of the executors under the donor’s will.
+> - Donationes mortis causa are recognised in exceptional circumstances where a donor anticipates dying and wants to make a gift but does not have time to make a valid will.
+> - A valid donatio mortis causa will be recognised where the donor is contemplating their imminent death, expresses the intention that the gift is conditional on their death and parts with dominion of the property.
 
 ## Virgo
 

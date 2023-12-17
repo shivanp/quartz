@@ -72,11 +72,10 @@ As is the case with self-dealing, the transaction is voidable unless the trustee
 
 The no-conflict rule also extends to situations in which a fiduciary's duties to one principal conflicts with their duties to another principal. Again, this comes back to the core obligation of single-minded loyalty to a principal. It is not possible to act entirely in the interests of both principals where their interests conflict.
 
-```ad-example
-Suppose A is the trustee and wants to buy a house for occupation by their beneficiary, B. A is also an estate agent and has been instructed by C to sell their house. A thinks that this would be the perfect house for B.
-
-There is a clear and direct conflict between A's duties to B and C. Their duty to C is to secure the highest possible price for the house. But their duty to B is to pay the lowest possible price.
-```
+> [!example]
+> Suppose A is the trustee and wants to buy a house for occupation by their beneficiary, B. A is also an estate agent and has been instructed by C to sell their house. A thinks that this would be the perfect house for B.
+> 
+> There is a clear and direct conflict between A's duties to B and C. Their duty to C is to secure the highest possible price for the house. But their duty to B is to pay the lowest possible price.
 
 ### Consent and Consequences
 
@@ -86,11 +85,10 @@ If there is a breach, the consequences depend on the nature of the breach:
 - As we have already seen, breach of the self-dealing rule and fair-dealing rules result in the transaction being voidable. The beneficiaries may seek rescission.
 - If the breach results in a profit to the principal, they may not require a remedy, although they may wish to end the fiduciary relationship. If it also results in a profit to the fiduciary, the principal can recover the profit from the fiduciary.
 
-```ad-example
-A trust has two trustees, A and B. The beneficiaries are minors. The trustees require legal advice on a tax issue which has arisen in relation to the trust. A is a partner at a law firm so B suggests that there is no need to obtain advice. A specialises in real estate and is not confident in providing tax advice so suggests instructing a tax partner at their firm.
-
-The trustees should obtain advice from a different firm because A has a personal interest in this firm so it would be a breach of fiduciary duty to instruct them. Instructing another partner at A’s firm would involve a conflict between A’s duties to the beneficiaries and A’s personal interest in the firm.
-```
+> [!example]
+> A trust has two trustees, A and B. The beneficiaries are minors. The trustees require legal advice on a tax issue which has arisen in relation to the trust. A is a partner at a law firm so B suggests that there is no need to obtain advice. A specialises in real estate and is not confident in providing tax advice so suggests instructing a tax partner at their firm.
+> 
+> The trustees should obtain advice from a different firm because A has a personal interest in this firm so it would be a breach of fiduciary duty to instruct them. Instructing another partner at A’s firm would involve a conflict between A’s duties to the beneficiaries and A’s personal interest in the firm.
 
 ## No Profit Rule
 
@@ -121,9 +119,8 @@ The rule is also subject to anything in the trust instrument which allows the tr
 
 A fiduciary is not entitled to keep a profit that they made as a result of an opportunity that comes to them in the course of performing their fiduciary duties. This rule is very strict, as demonstrated by the seminal case of [[Keech v Sandford (1726) Sel Cas 61]].
 
-```ad-note
-Although the rule in _Keech v Sandford_ may seem harsh on the trustee, it comes back to the core obligation of the fiduciary to put their principal first. You may argue that the trustee tried to do this in _Keech_. They attempted to negotiate the lease for the beneficiary before doing so on their own behalf. But can you ever be sure that a trustee in such circumstances will absolutely exhaust all avenues of negotiation on behalf of the beneficiary if there remains a possibility that they could profit personally if those negotiations are unsuccessful? The only way to ensure that the trustee does everything in their power for their beneficiary is to absolutely prohibit them acting in their own interest.
-```
+> [!note]
+> Although the rule in _Keech v Sandford_ may seem harsh on the trustee, it comes back to the core obligation of the fiduciary to put their principal first. You may argue that the trustee tried to do this in _Keech_. They attempted to negotiate the lease for the beneficiary before doing so on their own behalf. But can you ever be sure that a trustee in such circumstances will absolutely exhaust all avenues of negotiation on behalf of the beneficiary if there remains a possibility that they could profit personally if those negotiations are unsuccessful? The only way to ensure that the trustee does everything in their power for their beneficiary is to absolutely prohibit them acting in their own interest.
 
 Another case which demonstrates the strictness of the no-profit rule is [[Boardman v Phipps [1967] 2 A.C. 46]].
 

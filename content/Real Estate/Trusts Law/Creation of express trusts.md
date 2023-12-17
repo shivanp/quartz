@@ -22,9 +22,8 @@ Resulting and constructive trusts:
 
 Trusts can be categorised in various ways, but they are most frequently categorised as express, resulting or constructive.
 
-```ad-defn
-An express trust is one which is deliberately created. In other words, it is a trust which arises in response to a person’s intention to create it.
-```
+> [!defn]
+> An express trust is one which is deliberately created. In other words, it is a trust which arises in response to a person’s intention to create it.
 
 Unlike express trusts, resulting and constructive trusts arise by **operation of law**. In other words, they are **imposed** by the courts.
 

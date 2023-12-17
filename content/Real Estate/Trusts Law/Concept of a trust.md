@@ -63,23 +63,22 @@ The market in listed securities is underpinned by the trust:
 - Securities are registered in the names of CREST members (usually banks or other financial institutions).
 - The members are the legal owners of securities registered in their names, but they generally acquire and hold the securities for the benefit of their clients. In other words, they hold them on trust.
 
-```ad-example
-
-The CREST member is registered as the holder (legal owner) of 100,000 shares issued by Tesco plc. The CREST member acquired 50,000 of those shares on behalf of a broker. The broker acquired 10,000 of the 50,000 shares on behalf of a private investor.
-
-The legal analysis of this scenario is:
-
-- The CREST member holds 50,000 of the 100,000 shares on trust for the broker.
-- The broker holds its interest in 10,000 of the 50,000 shares on trust (known as a ‘sub-trust’) for the investor.
-
-Let’s now consider the legal and equitable rights of each of the parties in respect of the private investor’s 10,000 shares.
-
-- The CREST member is the **legal** owner of the shares but has no **beneficial** interest. Legal title is held on trust for the broker.
-- The broker has an **equitable** interest in the shares. Like the CREST member, it has no beneficial interest in the shares. The equitable interest is held on trust for the private investor.
-- The private investor has an **equitable** and **beneficial** interest in the shares.
-
-Thus, there is a ‘waterfall or chain of equitable relationships’. (See [[SL Claimants v Tesco Plc [2019] EWHC 2858 (Ch)]] for a more detailed analysis.)
-```
+> [!example]
+> 
+> The CREST member is registered as the holder (legal owner) of 100,000 shares issued by Tesco plc. The CREST member acquired 50,000 of those shares on behalf of a broker. The broker acquired 10,000 of the 50,000 shares on behalf of a private investor.
+> 
+> The legal analysis of this scenario is:
+> 
+> - The CREST member holds 50,000 of the 100,000 shares on trust for the broker.
+> - The broker holds its interest in 10,000 of the 50,000 shares on trust (known as a ‘sub-trust’) for the investor.
+> 
+> Let’s now consider the legal and equitable rights of each of the parties in respect of the private investor’s 10,000 shares.
+> 
+> - The CREST member is the **legal** owner of the shares but has no **beneficial** interest. Legal title is held on trust for the broker.
+> - The broker has an **equitable** interest in the shares. Like the CREST member, it has no beneficial interest in the shares. The equitable interest is held on trust for the private investor.
+> - The private investor has an **equitable** and **beneficial** interest in the shares.
+> 
+> Thus, there is a ‘waterfall or chain of equitable relationships’. (See [[SL Claimants v Tesco Plc [2019] EWHC 2858 (Ch)]] for a more detailed analysis.)
 
 ### Characteristics
 
@@ -112,10 +111,9 @@ A trust ceases to exist if, **without any fault on the part of the trustee**, th
 
 It is common for the trust property to change without any breach occurring. In many trusts, the trust property fluctuates.
 
-```ad-example
-
-For example, in a standard family trust, a principal function of the trustee is to maximise the financial return from the trust property. This involves the trustee periodically reviewing the trust property and deciding whether to retain it or to sell and invest the proceeds in other property. Selling the property does not destroy the trust. It simply changes the trust assets.
-```
+> [!example]
+> 
+> For example, in a standard family trust, a principal function of the trustee is to maximise the financial return from the trust property. This involves the trustee periodically reviewing the trust property and deciding whether to retain it or to sell and invest the proceeds in other property. Selling the property does not destroy the trust. It simply changes the trust assets.
 
 #### Trustee
 
@@ -165,16 +163,15 @@ These principles are confirmed in both [[Westdeutsche Landesbank Girozentrale v 
 
 As a beneficiary has an equitable proprietary interest in trust property, the property does not form part of the trustee’s estate for the purposes of the bankruptcy and insolvency regimes. It therefore cannot be distributed to the trustee’s creditors. Thus, a beneficiary enjoys ‘priority’ over the unsecured creditors of the trustee in the event of the latter’s bankruptcy or insolvency.
 
-```ad-example
-
-X owes B, C, D and E £50,000 each. B, C, D, and E are unsecured creditors of X. £100,000 is credited to X’s bank account. X is made bankrupt. Assuming X has no other creditors or assets, the claims of B, C, D and E abate rateably. Each will receive £25,000.
-
-Vary the example: X owes B, C and D £50,000 each. B, C and D are unsecured creditors of X. X is a trustee of £50,000 for E. £100,000 is credited to X’s bank account: £50,000 of it is trust money. X is made bankrupt.
-
-The trust money (£50,000) is not part of X’s estate for the purposes of the bankruptcy and cannot be distributed to X’s creditors. It continues to be held on trust for E. Assuming X has no other creditors or assets, B, C and D’s claims abate rateably. Each will receive £16,667.
-
-A comparison of E’s position in the examples demonstrates the importance of a beneficiary’s equitable proprietary interest in the event of the trustee’s bankruptcy or insolvency.
-```
+> [!example]
+> 
+> X owes B, C, D and E £50,000 each. B, C, D, and E are unsecured creditors of X. £100,000 is credited to X’s bank account. X is made bankrupt. Assuming X has no other creditors or assets, the claims of B, C, D and E abate rateably. Each will receive £25,000.
+> 
+> Vary the example: X owes B, C and D £50,000 each. B, C and D are unsecured creditors of X. X is a trustee of £50,000 for E. £100,000 is credited to X’s bank account: £50,000 of it is trust money. X is made bankrupt.
+> 
+> The trust money (£50,000) is not part of X’s estate for the purposes of the bankruptcy and cannot be distributed to X’s creditors. It continues to be held on trust for E. Assuming X has no other creditors or assets, B, C and D’s claims abate rateably. Each will receive £16,667.
+> 
+> A comparison of E’s position in the examples demonstrates the importance of a beneficiary’s equitable proprietary interest in the event of the trustee’s bankruptcy or insolvency.
 
 The beneficiary of a trust has an equitable proprietary interest in the trust property which can be enforced against everyone except a purchaser of a legal interest who does not have notice of the trust.
 

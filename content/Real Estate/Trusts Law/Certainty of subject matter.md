@@ -10,11 +10,10 @@ title: Certainty of subject matter
 
 ## Introduction
 
-```ad-quote
-‘it is impossible to have a title to [property], when nobody knows to which [property] the title relates.’
-
-Lord Mustill, [[Re Goldcorp Exchange Ltd (in receivership) [1995] 1 AC 74]]
-```
+> [!quote]
+> ‘it is impossible to have a title to [property], when nobody knows to which [property] the title relates.’
+> 
+> Lord Mustill, [[Re Goldcorp Exchange Ltd (in receivership) [1995] 1 AC 74]]
 
 Certainty of subject matter comprises two requirements:
 
@@ -51,23 +50,20 @@ An issue which has resulted in a large body of case law is the question of wheth
 
 There is no problem with creating a trust over a fractional interest of a wider mass, regardless of the nature of the property.
 
-```ad-example
-20% of a settlor's 100 ordinary shares in a company are held on trust for a beneficiary. The 100 shares are the trust property, and the beneficiary has a 20% interest in each. 
-```
+> [!example]
+> 20% of a settlor's 100 ordinary shares in a company are held on trust for a beneficiary. The 100 shares are the trust property, and the beneficiary has a 20% interest in each. 
 
-```ad-example
-20% of a settlor's five one-carat diamonds are held on trust for a beneficiary. The five diamonds are the trust property, and the beneficiary has a 20% share in each. 
-```
+> [!example]
+> 20% of a settlor's five one-carat diamonds are held on trust for a beneficiary. The five diamonds are the trust property, and the beneficiary has a 20% share in each. 
 
 #### Specific Number of Items
 
 The difficulty arises when a settlor purports to declare a trust over a specified number of items from a larger mass.
 
-```ad-example
-Consider the following being held on trust:
-1. 20 of the settlor’s 100 ordinary shares in a company
-2. One of the settlor’s five one-carat diamonds
-```
+> [!example]
+> Consider the following being held on trust:
+> 1. 20 of the settlor’s 100 ordinary shares in a company
+> 2. One of the settlor’s five one-carat diamonds
 
 If the beneficiary is only intended to have a specified number of items from a larger mass, it is important to know which are held on trust for them, and which are not (for instance, suppose 4 of the diamonds are stolen, or some of the shares are sold by the trustee at a profit and others at a loss).
 
@@ -91,19 +87,17 @@ The trust over the shares in our example is valid because the shares are **intan
 
 There is no need to identify the specific shares which are subject to the trust. They are completely interchangeable.
 
-```ad-tip
-Why is there no problem with certainty of subject matter here? What if the trustee sold some of the shares?
-
-Equity has developed a series of very principled “tracing” rules which apply to determine which assets are trust assets in such a scenario.
-```
+> [!tip]
+> Why is there no problem with certainty of subject matter here? What if the trustee sold some of the shares?
+> 
+> Equity has developed a series of very principled “tracing” rules which apply to determine which assets are trust assets in such a scenario.
 
 The trust over the diamond in our example is void for uncertainty of subject matter because the diamonds are **tangible and non-fungible**. They are not interchangeable, and it is necessary to identify the specific diamond which is the subject matter of the trust.
 
 Similarly, **fungible and tangible** assets cannot be declared a trust without specifying individual items.
 
-```ad-warning
-It is not possible to declare a trust over a specified number of **tangible** assets forming part of a bulk, even if they appear to be identical, without identifying them. So only intangible fungible works.
-```
+> [!warning]
+> It is not possible to declare a trust over a specified number of **tangible** assets forming part of a bulk, even if they appear to be identical, without identifying them. So only intangible fungible works.
 
 Examples of this include:
 
@@ -116,13 +110,12 @@ It must also be possible to ascertain the nature and extent of the beneficiary�
 
 To the extent that it is not possible to do so, the trust will fail.
 
-```ad-example
-Consider a trust under which the trustees are to hold two cars on trust for A and B, with a power to C to determine which car should be held for A and which for B.
-
-There is initially no problem with this trust because there is a mechanism for determining [[beneficial entitlement]].
-
-However, if C dies before making the selection, the trust will fail because it is no longer possible to ascertain which beneficiary is entitled to which car. A similar trust failed in [[Boyce v Boyce (1849) 16 Sim 476]] for this reason.
-```
+> [!example]
+> Consider a trust under which the trustees are to hold two cars on trust for A and B, with a power to C to determine which car should be held for A and which for B.
+> 
+> There is initially no problem with this trust because there is a mechanism for determining [[beneficial entitlement]].
+> 
+> However, if C dies before making the selection, the trust will fail because it is no longer possible to ascertain which beneficiary is entitled to which car. A similar trust failed in [[Boyce v Boyce (1849) 16 Sim 476]] for this reason.
 
 This example highlights the importance of good drafting when declaring a trust. The real problem in this scenario is the failure of the settlor to consider the possibility that C might not be able to exercise the power. The settlor could have avoided this problem by making clear what should happen to the property if C couldn’t or wouldn’t exercise the power. One solution might have been to give the trustees a default power to make the decision.
 

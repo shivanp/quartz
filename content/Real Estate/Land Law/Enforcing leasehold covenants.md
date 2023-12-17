@@ -51,11 +51,9 @@ The basic rule = the original landlord and the original tenant are liable for th
 
 This continuing liability of the original parties is reinforced by LPA 1925, s 79(1):
 
-```ad-statute
-title: s 79(1) LPA 1925
-
-A covenant relating to any land of a covenantor or capable of being bound by him, shall, unless a contrary intention is expressed, be deemed to be made by the covenantor on behalf of himself his successors in title and the persons deriving title under him or them, and, subject as aforesaid, shall have effect as if such successors and other persons were expressed.
-```
+> [!statute] s 79(1) LPA 1925
+> 
+> A covenant relating to any land of a covenantor or capable of being bound by him, shall, unless a contrary intention is expressed, be deemed to be made by the covenantor on behalf of himself his successors in title and the persons deriving title under him or them, and, subject as aforesaid, shall have effect as if such successors and other persons were expressed.
 
 This means that the original tenant and the original landlord of an old lease remain liable for the covenants they entered into under the lease long after the leasehold/reversionary interests have been sold or given away to others.
 
@@ -93,14 +91,13 @@ Privity of estate lasts only for the period while the lease is vested in the ten
 
 The tenant does remain liable after ceasing to be the tenant for any breaches committed while he was the tenant of the property or if he has covenanted directly with the landlord that he will be responsible for breaches of his assignee ([[Estates Gazette Ltd v Benjamin Restaurants Ltd [1995] 1 All ER 129]]).
 
-```ad-summary
-- When a landlord grants a lease to a tenant, privity of contract exists between them.
-- All the terms of a lease can be enforced by the original landlord against the original tenant and vice versa.
-- In old leases, the liability of the original landlord and the original tenant continues for the full duration of the lease term, even after an assignment of the lease or the reversion.
-- Privity of estate exists between any current landlord and current tenant of the property.
-- Privity of estate lasts only for the period while the lease is vested in the tenant.
-- The Landlord and Tenant (Covenants) Act 1995 changed the principle of original tenant and original landlord liability
-```
+> [!summary]
+> - When a landlord grants a lease to a tenant, privity of contract exists between them.
+> - All the terms of a lease can be enforced by the original landlord against the original tenant and vice versa.
+> - In old leases, the liability of the original landlord and the original tenant continues for the full duration of the lease term, even after an assignment of the lease or the reversion.
+> - Privity of estate exists between any current landlord and current tenant of the property.
+> - Privity of estate lasts only for the period while the lease is vested in the tenant.
+> - The Landlord and Tenant (Covenants) Act 1995 changed the principle of original tenant and original landlord liability
 
 ## New Leases
 
@@ -122,57 +119,50 @@ A tenant with a new lease will (generally) obtain an automatic release from the 
 
 This release mechanism is governed by the [Landlord and Tenant (Covenants) Act 1995, s 5](https://www.legislation.gov.uk/ukpga/1995/30/section/5).
 
-```ad-statute
-title: LT(C)A 1995, s 5
-
-(1) This section applies where a tenant assigns premises demised to him under a tenancy.
-
-(2) If the tenant assigns the whole of the premises demised to him, he—
-- (a) is released from the tenant covenants of the tenancy, and
-- (b) ceases to be entitled to the benefit of the landlord covenants of the tenancy,
-
-as from the assignment.
-
-(3) If the tenant assigns part only of the premises demised to him, then as from the assignment he—
-- (a) is released from the tenant covenants of the tenancy, and
-- (b) ceases to be entitled to the benefit of the landlord covenants of the tenancy,
-
-only to the extent that those covenants fall to be complied with in relation to that part of the demised premises.
-
-(4) This section applies as mentioned in subsection (1) whether or not the tenant is tenant of the whole of the premises comprised in the tenancy.
-```
+> [!statute] LT(C)A 1995, s 5
+> 
+> (1) This section applies where a tenant assigns premises demised to him under a tenancy.
+> 
+> (2) If the tenant assigns the whole of the premises demised to him, he—
+> - (a) is released from the tenant covenants of the tenancy, and
+> - (b) ceases to be entitled to the benefit of the landlord covenants of the tenancy,
+> 
+> as from the assignment.
+> 
+> (3) If the tenant assigns part only of the premises demised to him, then as from the assignment he—
+> - (a) is released from the tenant covenants of the tenancy, and
+> - (b) ceases to be entitled to the benefit of the landlord covenants of the tenancy,
+> 
+> only to the extent that those covenants fall to be complied with in relation to that part of the demised premises.
+> 
+> (4) This section applies as mentioned in subsection (1) whether or not the tenant is tenant of the whole of the premises comprised in the tenancy.
 
 However, a tenant will not be released from liability if he is in breach of a tenant covenant. This is due to the effect of:
 
-```ad-statute
-title: LT(C)A 1995, s 24(1)
-
-Any release of a person from a covenant by virtue of this Act does not affect any liability of his arising from a breach of the covenant occurring before the release.
-```
+> [!statute] LT(C)A 1995, s 24(1)
+> 
+> Any release of a person from a covenant by virtue of this Act does not affect any liability of his arising from a breach of the covenant occurring before the release.
 
 ### Assignment of the Reversion
 
-```ad-important
-Unlike the outgoing tenant, there is no automatic release for an outgoing landlord.
-```
+> [!important]
+> Unlike the outgoing tenant, there is no automatic release for an outgoing landlord.
 
 There is no automatic release of the landlord upon assignment of the reversion of a new lease. The landlord must apply for such a release from the tenant. The Landlord and Tenant (Covenants) Act 1995, s 6 states:
 
-```ad-statute
-title: LT(C)A 1995, s 6
-
-(1) This section applies where a landlord assigns the reversion in premises of which he is the landlord under a tenancy.
-
-(2) If the landlord assigns the reversion in the whole of the premises of which he is the landlord—
-- (a) he may apply to be released from the landlord covenants of the tenancy in accordance with section 8; and
-- (b) if he is so released from all of those covenants, he ceases to be entitled to the benefit of the tenant covenants of the tenancy as from the assignment.
-
-(3) If the landlord assigns the reversion in part only of the premises of which he is the landlord—
-- (a) he may apply to be so released from the landlord covenants of the tenancy to the extent that they fall to be complied with in relation to that part of those premises; and
-- (b) if he is, to that extent, so released from all of those covenants, then as from the assignment he ceases to be entitled to the benefit of the tenant covenants only to the extent that they fall to be complied with in relation to that part of those premises.
-
-(4) This section applies as mentioned in subsection (1) whether or not the landlord is landlord of the whole of the premises comprised in the tenancy.
-```
+> [!statute] LT(C)A 1995, s 6
+> 
+> (1) This section applies where a landlord assigns the reversion in premises of which he is the landlord under a tenancy.
+> 
+> (2) If the landlord assigns the reversion in the whole of the premises of which he is the landlord—
+> - (a) he may apply to be released from the landlord covenants of the tenancy in accordance with section 8; and
+> - (b) if he is so released from all of those covenants, he ceases to be entitled to the benefit of the tenant covenants of the tenancy as from the assignment.
+> 
+> (3) If the landlord assigns the reversion in part only of the premises of which he is the landlord—
+> - (a) he may apply to be so released from the landlord covenants of the tenancy to the extent that they fall to be complied with in relation to that part of those premises; and
+> - (b) if he is, to that extent, so released from all of those covenants, then as from the assignment he ceases to be entitled to the benefit of the tenant covenants only to the extent that they fall to be complied with in relation to that part of those premises.
+> 
+> (4) This section applies as mentioned in subsection (1) whether or not the landlord is landlord of the whole of the premises comprised in the tenancy.
 
 To be released from liability, the landlord must follow the procedure laid down in the [LTA 1995, s 8(1)](https://www.legislation.gov.uk/ukpga/1995/30/section/8).
 
@@ -192,11 +182,10 @@ Covenants which are ‘expressed to be personal’ will therefore remain effecti
 
 Finally, a landlord will not be released from liability if he is in breach of a landlord covenant in accordance with [LT(C)A 1995, s 24(1)](https://www.legislation.gov.uk/ukpga/1995/30/section/24).
 
-```ad-summary
-- If a lease is granted on or after 1 January 1996, it is a new lease, subject to the rules in the **Landlord and Tenant (Covenants) Act 1995**.
-- The original landlord and the original tenant are no longer liable for the leasehold covenants for the full duration of the lease term.
-- A tenant with a new lease will obtain an automatic release from the tenant’s covenants upon assignment under **LT(C)A 1995, s 5.**
-- The outgoing tenant will only be liable for breaches of the covenants contained within the lease while he was a tenant of the property.
-- There is no automatic release of the landlord upon assignment of the reversion of a new lease.
-- The landlord must apply for a release from the tenant under **LTA 1995, s 6**, following the procedure laid out in **LT(C)A 1995, s 8.**
-```
+> [!summary]
+> - If a lease is granted on or after 1 January 1996, it is a new lease, subject to the rules in the **Landlord and Tenant (Covenants) Act 1995**.
+> - The original landlord and the original tenant are no longer liable for the leasehold covenants for the full duration of the lease term.
+> - A tenant with a new lease will obtain an automatic release from the tenant’s covenants upon assignment under **LT(C)A 1995, s 5.**
+> - The outgoing tenant will only be liable for breaches of the covenants contained within the lease while he was a tenant of the property.
+> - There is no automatic release of the landlord upon assignment of the reversion of a new lease.
+> - The landlord must apply for a release from the tenant under **LTA 1995, s 6**, following the procedure laid out in **LT(C)A 1995, s 8.**

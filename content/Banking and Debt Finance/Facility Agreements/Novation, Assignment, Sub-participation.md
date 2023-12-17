@@ -50,15 +50,13 @@ Main aim of the bank: to remove the risk associated with the asset.
 
 The only way in which a party can effectively ‘transfer’ all its rights and obligations under a contract is with the consent of all the parties involved.
 
-```ad-important
-Novation involves one party’s rights and obligations under a contract being cancelled and discharged, whilst a third party assumes identical new rights and obligations in their place.
-```
+> [!important]
+> Novation involves one party’s rights and obligations under a contract being cancelled and discharged, whilst a third party assumes identical new rights and obligations in their place.
 
 The new bank assumes identical rights and obligations with respect to the borrower as applied to the existing bank.
 
-```ad-warning
-Strictly, a novation does not transfer rights and liabilities: it cancels an existing contract and replaces it with another. The borrower’s promise to perform its obligations in favour of a new bank is consideration for the existing bank releasing the old debt.
-```
+> [!warning]
+> Strictly, a novation does not transfer rights and liabilities: it cancels an existing contract and replaces it with another. The borrower’s promise to perform its obligations in favour of a new bank is consideration for the existing bank releasing the old debt.
 
 #### Advantages
 
@@ -100,10 +98,9 @@ Assignment is the transfer of **rights**. **s 136 LPA 1925** provides that an as
 	- To be ‘absolute’ in the context of loan transfers, an assignment must transfer the whole of the debt owed to the existing bank ([[Walter and Sullivan Ltd v Murphy (J) and Sons Ltd [1955] 2 QB 584]]) (and cannot be ‘by way of charge’)
 3. Notified in writing to any person(s) against whom the assignor could enforce the assigned rights.
 
-```ad-tip
-- If any one of the conditions for legal (or "statutory") assignment is not fulfilled, the assignment will be an equitable one.
-- An assignment can transfer only rights, not obligations
-```
+> [!tip]
+> - If any one of the conditions for legal (or "statutory") assignment is not fulfilled, the assignment will be an equitable one.
+> - An assignment can transfer only rights, not obligations
 
 #### Advantages
 
@@ -161,10 +158,8 @@ A notice of assignment (legal or equitable) should require a borrower to confirm
 
 Novation and assignment are attractive to banks because they enable it to remove loans from its balance sheet. Possible to achieve the same effect while leaving the original loan in place: sub-participation (“funded participation”).
 
-```ad-defn
-title: Sub-participation
-An arrangement under which an existing bank matches part or all of its loan to a borrower with a deposit it takes from a new bank (the ‘sub-participant’). The new bank agrees that its deposit will be serviced and repaid only when the borrower services and repays the loan from the existing bank. The sub-participant has effectively taken on the risk of the first loan.
-```
+> [!defn] Sub-participation
+> An arrangement under which an existing bank matches part or all of its loan to a borrower with a deposit it takes from a new bank (the ‘sub-participant’). The new bank agrees that its deposit will be serviced and repaid only when the borrower services and repays the loan from the existing bank. The sub-participant has effectively taken on the risk of the first loan.
 
 - The transaction does not involve any transfer of rights or obligations: the existing bank's contractual relationship with the borrower is unaffected.
 - Since sub-participation is an entirely separate agreement, the sub-participant bank has no-recourse against the borrower (“non-recourse transaction”).
@@ -198,9 +193,8 @@ An arrangement under which an existing bank matches part or all of its loan to a
 
 ## Global Transfer Agreement
 
-```ad-defn
-A new contract which amends (and restates) the facility agreement to add a new schedule of commitments.
-```
+> [!defn]
+> A new contract which amends (and restates) the facility agreement to add a new schedule of commitments.
 
 - A deal may require a large amount of simultaneous transfers.
 - To avoid preparing a large number of transfer certificates, a Global Transfer Agreement may be used.
@@ -220,20 +214,17 @@ A new contract which amends (and restates) the facility agreement to add a new s
 - Novation will not usually involve a transfer of property for stamp duty purposes and so will not normally attract the tax (unless the asset includes, e.g., rights to acquire property).
 - Assignment may attract stamp duty or SDRT, but exemptions can often by used.
 
-```ad-defn
-Income tax in respect of recurring payments at source is sometimes collected by requiring the payer to make a deduction on account of income tax before making the payment. This deduction is generally known as withholding tax. It frequently applies to dividends (although not those paid by UK companies), interest and royalties.
-```
+> [!defn]
+> Income tax in respect of recurring payments at source is sometimes collected by requiring the payer to make a deduction on account of income tax before making the payment. This deduction is generally known as withholding tax. It frequently applies to dividends (although not those paid by UK companies), interest and royalties.
 
 In all asset sales between banks, and involving a UK resident/domiciled borrower, the relevance of withholding tax on interest payments will depend largely on whether the exemption under s 879 of the ITA 2007 applies.
 
 The s 879 exemption will apply to loans which have been assigned as long as the advance was initially made by a ‘bank’ and the assignee is beneficially entitled to the interest and within the charge to UK corporation tax at the time interest is paid. If a loan is novated, this probably creates a new advance and so must be made to a ‘bank’ to ensure s 879 still applies.
 
-```ad-statute
-title: s 879 ITA 2007 - interest paid on advances from banks
-(1) The duty to deduct a sum representing income tax under section 874 does not apply to a payment of interest on an advance from a bank if, at the time when the payment is made, the person beneficially entitled to the interest is within the charge to corporation tax as respects the interest [F1or is a bank that would be within the charge to corporation tax as respects the interest apart from section 18A of CTA 2009].
-
-(2) Section 991 (meaning of “bank”) applies for the purposes of this section.
-```
+> [!statute] s 879 ITA 2007 - interest paid on advances from banks
+> (1) The duty to deduct a sum representing income tax under section 874 does not apply to a payment of interest on an advance from a bank if, at the time when the payment is made, the person beneficially entitled to the interest is within the charge to corporation tax as respects the interest [F1or is a bank that would be within the charge to corporation tax as respects the interest apart from section 18A of CTA 2009].
+> 
+> (2) Section 991 (meaning of “bank”) applies for the purposes of this section.
 
 Summary – withholding tax not payable if:
 
@@ -242,10 +233,8 @@ Summary – withholding tax not payable if:
 
 ## FSMA Implications
 
-```ad-statute
-title: s 19 FSMA 2000
-No person may carry on a regulated activity in the United Kingdom or purport to do so unless he is an authorised person or an exempt person.
-```
+> [!statute] s 19 FSMA 2000
+> No person may carry on a regulated activity in the United Kingdom or purport to do so unless he is an authorised person or an exempt person.
 
 When selling participations, the bank should ensure that it is authorised to do so under the Act.
 
@@ -272,9 +261,7 @@ Commonly negotiated conditions:
 - List of named institutions to which banks can transfer without consent pre-agreed.
 - Freedom to transfer upon the borrower's event of default?
 
-```ad-question
-title: Can a borrower buy back portions of their own loan debt?
-- This is a very cheap way to repay a debt. 
-- May be issues with prepayment restrictions, pro-rata sharing between lenders, restrictions on cash usage, and issues with novation. 
-- Even if buy-back is allowed, the buying entity is usually required to allow all the syndicate banks a chance to sell.
-```
+> [!question] Can a borrower buy back portions of their own loan debt?
+> - This is a very cheap way to repay a debt. 
+> - May be issues with prepayment restrictions, pro-rata sharing between lenders, restrictions on cash usage, and issues with novation. 
+> - Even if buy-back is allowed, the buying entity is usually required to allow all the syndicate banks a chance to sell.

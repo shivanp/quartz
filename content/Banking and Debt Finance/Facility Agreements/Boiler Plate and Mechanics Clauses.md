@@ -70,9 +70,8 @@ If a bank cannot recover money it has lent, there is a danger it may be unable t
 
 #### Rationale
 
-```ad-important
-The key proposition of Basel regime is that a bank needs to recover its assets (primarily loans) to repay its depositors: if there is a risk that an asset cannot be recovered in full, it must be backed by ‘capital’ to create a ‘buffer’. Capital buffer known as "regulatory capital".
-```
+> [!important]
+> The key proposition of Basel regime is that a bank needs to recover its assets (primarily loans) to repay its depositors: if there is a risk that an asset cannot be recovered in full, it must be backed by ‘capital’ to create a ‘buffer’. Capital buffer known as "regulatory capital".
 
 Starting point: regulatory capital is 8% of the value of each asset (but this is a minimum). Assets must be risk weighted.
 
@@ -225,14 +224,12 @@ Some facility agreements contain one-sided jurisdiction clauses, allowing the ba
 
 If any of the obligors in the facility is not an English registered company and does not have a branch or other place of business in Great Britain, the service of any English court documents on that obligor would require service ‘out of jurisdiction’.
 
-```ad-statute
-title: CPR 6.11(1) - Service of the claim form by contractually agreed method
-Where –
-- (a) a contract contains a term providing that, in the event of a claim being started in relation to the contract, the claim form may be served by a method or at a place specified in the contract; and
-- (b) a claim solely in respect of that contract is started,
-
-the claim form may, subject to paragraph (2), be served on the defendant by the method or at the place specified in the contract.
-```
+> [!statute] CPR 6.11(1) - Service of the claim form by contractually agreed method
+> Where –
+> - (a) a contract contains a term providing that, in the event of a claim being started in relation to the contract, the claim form may be served by a method or at a place specified in the contract; and
+> - (b) a claim solely in respect of that contract is started,
+> 
+> the claim form may, subject to paragraph (2), be served on the defendant by the method or at the place specified in the contract.
 
 The usual contractually agreed method is to appoint a 3rd party to receive documents on the obligors' behalf. This avoids a bank having to apply to court for leave to serve a foreign corporation. Several companies offer services for a fee.
 
@@ -266,9 +263,8 @@ Other provisions include:
 
 Where a syndicated loan requires a party to perform several defined roles, conventional for a bank to execute separately for each of the roles. s 44(6) CA 2006 requires that if a director is signing a document as director for more than one company (quite common for large groups), they must sign separately for each company.
 
-```ad-question
-Whhat if the loan involves a large syndicate and it is not possible to find a signing date which works for everyone?
-```
+> [!question]
+> Whhat if the loan involves a large syndicate and it is not possible to find a signing date which works for everyone?
 
 1. Documents can be sent to each signatory in turn (cumbersome)
 2. Absent party may appoint someone to sign on their behalf under a power of attorney, created through a deed. The attorney can sign in their own name or that of the principal (s 7(1) Powers of Attorney Act 1971).

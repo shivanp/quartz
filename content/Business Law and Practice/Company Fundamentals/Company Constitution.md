@@ -29,10 +29,8 @@ Constitution includes:
 
 ## Articles of Association
 
-```ad-statute
-title: s 18(1) CA 2006
-A company must have articles of association prescribing regulations for the company.
-```
+> [!statute] s 18(1) CA 2006
+> A company must have articles of association prescribing regulations for the company.
 
 | Aspect | Details |
 | ------------------------- | ----------------------------------------------------------------------------------------- |
@@ -42,16 +40,14 @@ A company must have articles of association prescribing regulations for the comp
 
 ### Unamended Model Articles
 
-```ad-statute
-title: s 20 CA 2006 - **Default** application of model articles
-(1) On the formation of a limited company—
-- (a) if articles are not registered, or
-- (b) if articles are registered, in so far as they do not exclude or modify the relevant model articles,
-
-the relevant model articles (so far as applicable) form part of the company's articles in the same manner and to the same extent as if articles in the form of those articles had been duly registered.
-
-(2) The “relevant model articles” means the model articles prescribed for a company of that description as in force at the date on which the company is registered.
-```
+> [!statute] s 20 CA 2006 - **Default** application of model articles
+> (1) On the formation of a limited company—
+> - (a) if articles are not registered, or
+> - (b) if articles are registered, in so far as they do not exclude or modify the relevant model articles,
+> 
+> the relevant model articles (so far as applicable) form part of the company's articles in the same manner and to the same extent as if articles in the form of those articles had been duly registered.
+> 
+> (2) The “relevant model articles” means the model articles prescribed for a company of that description as in force at the date on which the company is registered.
 
 Model articles comprise a set of **minimum basic rules** on running the company. They keep regulation to a minimum.
 
@@ -75,9 +71,8 @@ When reading the model articles, always consider them in conjunction with defini
 
 ### Special Articles
 
-```ad-defn
-Any amendments to MA / other provisions in the Articles are known as 'special articles'.
-```
+> [!defn]
+> Any amendments to MA / other provisions in the Articles are known as 'special articles'.
 
 Commonly included special articles:
 
@@ -95,13 +90,11 @@ It is also possible to create completely bespoke Articles from scratch.
 
 ### Effect of Articles
 
-```ad-statute
-title: s 33 - Effect of company's constitution
-
-(1) The provisions of a company's constitution bind the company and its members to the same extent as if there were covenants on the part of the company and of each member to observe those provisions.
-
-(2) Money payable by a member to the company under its constitution is a debt due from him to the company. In England and Wales and Northern Ireland it is of the nature of an ordinary contract debt. 
-```
+> [!statute] s 33 - Effect of company's constitution
+> 
+> (1) The provisions of a company's constitution bind the company and its members to the same extent as if there were covenants on the part of the company and of each member to observe those provisions.
+> 
+> (2) Money payable by a member to the company under its constitution is a debt due from him to the company. In England and Wales and Northern Ireland it is of the nature of an ordinary contract debt. 
 
 The constitution of a company forms:
 
@@ -124,9 +117,8 @@ and between a company and a new shareholder:
 
 The s 33 contract is very different from a standard trading contract.
 
-```ad-important
-The contract allows for action to be taken only in so far as it deals with membership rights ([[Beattie v E and F Beattie [1938] Ch 708]]).
-```
+> [!important]
+> The contract allows for action to be taken only in so far as it deals with membership rights ([[Beattie v E and F Beattie [1938] Ch 708]]).
 
 This includes:
 
@@ -159,15 +151,12 @@ Since the articles are a contract, it is possible for additional terms to be imp
 
 #### Special Resolution
 
-```ad-action
-title: Procedure
-1. Pass a **special resolution** to change the articles ([s 21 (1) CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/21))
-2. Registrar of Companies sent a copy of the articles as amended $\leq 15$ days after articles amended (s 26(1)) and a copy of the special resolution itself (s 30(1))
-```
+> [!action] Procedure
+> 1. Pass a **special resolution** to change the articles ([s 21 (1) CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/21))
+> 2. Registrar of Companies sent a copy of the articles as amended $\leq 15$ days after articles amended (s 26(1)) and a copy of the special resolution itself (s 30(1))
 
-```ad-note
-Another reason s 33 contractual rights are different from normal contract rights; you can't amend a contract without unanimous consent of 100% of parties.
-```
+> [!note]
+> Another reason s 33 contractual rights are different from normal contract rights; you can't amend a contract without unanimous consent of 100% of parties.
 
 #### Ordinary Resolution Exceptions
 
@@ -198,9 +187,8 @@ If necessary, the court can exceptionally rectify the articles ([[Folkes Group p
 
 [s 22 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/22) permits entrenchment of specific provisions, though this is rare in practice.
 
-```ad-defn
-An entrenched article contains extra procedures or conditions, which makes it harder to change than other articles.
-```
+> [!defn]
+> An entrenched article contains extra procedures or conditions, which makes it harder to change than other articles.
 
 ##### Restrictions
 

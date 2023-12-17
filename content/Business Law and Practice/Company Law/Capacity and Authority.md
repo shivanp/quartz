@@ -102,22 +102,20 @@ The agent has no actual authority but can still bind the principal. Three cases:
 - The purpose is to protect third parties where there are restrictions on the power of the company's agents to bind the company set out in the company's constitution
 - So the company cannot claim not to be bound by acts of its directors by asserting these are unconstitutional – even when the company's articles require specific shareholder or board approval for a particular act
 
-```ad-statute
-title: s 40 - Power of directors to bind the company
-
-(1) In favour of a person dealing with a company in good faith, the power of the directors to bind the company, or authorise others to do so, is deemed to be free of any limitation under the company's constitution.
-
-(2) For this purpose -
-- (a) a person “deals with” a company if he is a party to any transaction or other act to which the company is a party,
-- (b) a person dealing with a company -
-	- (i) is not bound to enquire as to any limitation on the powers of directors to bind the company or authorise others to do so,
-	- (ii) is presumed to have acted in good faith unless the contrary is proved, and
-	- (iii) is not to be regarded as acting in bad faith by reason only of his knowing that an act is beyond the powers of the directors under the company's constitution.
-
-(3) The references above to limitations on the directors' powers under the company's constitution include limitations deriving -
-- (a) from a resolution of the company or of any class of shareholders, or
-- (b) from any agreement between the members of the company or of any class of shareholders.
-```
+> [!statute] s 40 - Power of directors to bind the company
+> 
+> (1) In favour of a person dealing with a company in good faith, the power of the directors to bind the company, or authorise others to do so, is deemed to be free of any limitation under the company's constitution.
+> 
+> (2) For this purpose -
+> - (a) a person “deals with” a company if he is a party to any transaction or other act to which the company is a party,
+> - (b) a person dealing with a company -
+> 	- (i) is not bound to enquire as to any limitation on the powers of directors to bind the company or authorise others to do so,
+> 	- (ii) is presumed to have acted in good faith unless the contrary is proved, and
+> 	- (iii) is not to be regarded as acting in bad faith by reason only of his knowing that an act is beyond the powers of the directors under the company's constitution.
+> 
+> (3) The references above to limitations on the directors' powers under the company's constitution include limitations deriving -
+> - (a) from a resolution of the company or of any class of shareholders, or
+> - (b) from any agreement between the members of the company or of any class of shareholders.
 
 Note, this protects third parties, not directors. Director can be sued by company for losses/ disqualified.
 

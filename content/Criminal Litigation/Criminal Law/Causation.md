@@ -46,17 +46,16 @@ When determining the legal cause, the law may have regard to some of the followi
 - The consequence must be caused by the defendant's culpable act, [[R v Dalloway (1847) 2 Cox CC]].
 - The defendant's act need not be the only cause of the prohibited consequence, [[R v Benge (1865) 4 F & F 504]].
 
-```ad-example
-A woman pulls a gun on a man who runs into the road, gets hit by a van and dies. Did the woman cause the man’s death?
-
-Factual causation
-
-‘But for’ the woman pulling a gun on the man, the man would not have run into the road, got hit by a car and died, R v White. The woman is the factual cause of the man’s death.
-
-Legal causation
-
-The woman is the substantial cause of the man’s death as she was more than a minimal cause, R v Hughes. She does not have to be the only cause of the man’s death, so it doesn’t matter that it was the van that actually struck the man, R v Benge.
-```
+> [!example]
+> A woman pulls a gun on a man who runs into the road, gets hit by a van and dies. Did the woman cause the man’s death?
+> 
+> Factual causation
+> 
+> ‘But for’ the woman pulling a gun on the man, the man would not have run into the road, got hit by a car and died, R v White. The woman is the factual cause of the man’s death.
+> 
+> Legal causation
+> 
+> The woman is the substantial cause of the man’s death as she was more than a minimal cause, R v Hughes. She does not have to be the only cause of the man’s death, so it doesn’t matter that it was the van that actually struck the man, R v Benge.
 
 ## Novus Actus Interveniens
 

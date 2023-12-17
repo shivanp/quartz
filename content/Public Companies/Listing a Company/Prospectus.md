@@ -25,9 +25,8 @@ Information the prospectus should contain:
 
 Main marketing document of the IPO process. Information meant to encourage investors to invest in the company. But contents are mostly prescribed.
 
-```ad-note
-Listing particulars are only required for the the issue of certain specialist securities, such as debt securities (e.g., bonds) or depositary receipts (certificates which represent ownership of shares). Different from prospectus. 
-```
+> [!note]
+> Listing particulars are only required for the the issue of certain specialist securities, such as debt securities (e.g., bonds) or depositary receipts (certificates which represent ownership of shares). Different from prospectus. 
 
 ## Requirements
 
@@ -48,9 +47,8 @@ Listing particulars are only required for the the issue of certain specialist se
 
 We focus on IPOs of ordinary shares where a prospectus is required. There are some exemptions. But these apply narrowly only to a particular head of Art 3.
 
-```ad-example
-Consider IPO which involves both an offer to the public and admission to trading, even if it benefits from one of the ‘offer to the public’ exemptions. It will still require a prospectus unless one of the ‘admission to trading’ exemptions also applies.
-```
+> [!example]
+> Consider IPO which involves both an offer to the public and admission to trading, even if it benefits from one of the ‘offer to the public’ exemptions. It will still require a prospectus unless one of the ‘admission to trading’ exemptions also applies.
 
 ### Art 3(1)
 
@@ -129,9 +127,8 @@ Essentially a multilateral system of trading in a system in accordance with the 
 
 Regulated market defined by MiFIR and includes the main market of the London Stock Exchange.
 
-```ad-important
-The Main Market of the Stock Exchange is a regulated market under MiFID II but AIM is not. not. Other regulated markets in the UK include Cboe Europe Equities Regulated Market, AQSE Main Market and Euronext London.
-```
+> [!important]
+> The Main Market of the Stock Exchange is a regulated market under MiFID II but AIM is not. not. Other regulated markets in the UK include Cboe Europe Equities Regulated Market, AQSE Main Market and Euronext London.
 
 ### S 85(2) FSMA 2000
 
@@ -169,16 +166,15 @@ Exemptions can be combined, with the exception of 1(5)(a) and (b), which cannot 
 
 Company can voluntarily submit a prospectus for approval by the FCA where it has the benefit of one of the exemptions.
 
-```ad-important
-- an IPO;
-- involving the offer or sale of ordinary shares;
-- which will be listed on the Official List and admitted to trading on the Main Market,
- 
-will require a prospectus, unless it benefits from both :
-1. an ‘offer to the public’ exemption; and
-2. an ‘admission to trading’ exemption.
-
-```
+> [!important]
+> - an IPO;
+> - involving the offer or sale of ordinary shares;
+> - which will be listed on the Official List and admitted to trading on the Main Market,
+>  
+> will require a prospectus, unless it benefits from both :
+> 1. an ‘offer to the public’ exemption; and
+> 2. an ‘admission to trading’ exemption.
+> 
 
 [see table in textbook].
 
@@ -205,17 +201,15 @@ The minimum content requirements which apply for a prospectus depend on the type
 	- SMEs
 	- Companies with reduced market capital.
 
-```ad-defn
-SME defined in Article 2(f) of the Prospectus Regulation as companies which, according to their last annual or consolidated accounts, meet at least two of the following three criteria:
+> [!defn]
+> SME defined in Article 2(f) of the Prospectus Regulation as companies which, according to their last annual or consolidated accounts, meet at least two of the following three criteria:
+> 
+> - $< 250$ employees
+> - a total balance sheet not exceeding €43 000 000;
+>  - an annual net turnover not exceeding €50 000 000.
 
-- $< 250$ employees
-- a total balance sheet not exceeding €43 000 000;
- - an annual net turnover not exceeding €50 000 000.
-```
-
-```ad-defn
-A company has reduced market capitalisation in Article 15(1)(b) of the Prospectus Regulation if it is a company having had an average market capitalisation of less than €500 000 000 on the basis of end-year quotes during the last three calendar years.
-```
+> [!defn]
+> A company has reduced market capitalisation in Article 15(1)(b) of the Prospectus Regulation if it is a company having had an average market capitalisation of less than €500 000 000 on the basis of end-year quotes during the last three calendar years.
 
 A SME growth market is defined in Article 4(1)(12) of MiFID II. In the UK, AIM is an example of such a market.
 
@@ -349,9 +343,8 @@ Article 18(1) of the Prospectus Regulation (PRR 2.8.1EU) provides that the FCA h
 2. disclosure of the information would be seriously detrimental to the company and the omission of the information is not likely to mislead investors; or
 3. the information to be omitted is of minor importance and is unlikely to influence the investors’ assessment.
 
-```ad-action
-The clear message is that if the PR Regulation, or the general disclosure requirement in Article 6(1) of the Prospectus Regulation (PRR 2.1.1EU), require such disclosure then the prospectus must contain that information. The FCA will exercise its discretion to omit information only in exceptional circumstances.
-```
+> [!action]
+> The clear message is that if the PR Regulation, or the general disclosure requirement in Article 6(1) of the Prospectus Regulation (PRR 2.1.1EU), require such disclosure then the prospectus must contain that information. The FCA will exercise its discretion to omit information only in exceptional circumstances.
 
 ### Check Content
 
@@ -359,10 +352,8 @@ Mark up to highlight all changes from the prospectus previously submitted to the
 
 ## Responsibility
 
-```ad-question
-title: If the prospectus is wrong, can investors be compensated?
-Yes (Art II Prospectus Regulation and FSMA 2000)
-```
+> [!question] If the prospectus is wrong, can investors be compensated?
+> Yes (Art II Prospectus Regulation and FSMA 2000)
 
 ### Who is Responsible
 
@@ -379,10 +370,8 @@ Where, as in our case, the prospectus relates to equity securities (ordinary sha
 	2. Lawyers also exempted under PRR 5.3.10: they do not have responsibility, only giving advice in a professional context.
 	3. Accountants will usually limit their liability to the information they have looked at. 5.3.9R: a person may accept responsible for only part of the contents, and then responsible only to the extent specified and only if material in question is included.
 
-```ad-warning
-title: Selling shareholders
-Prospectus Regulation Rule 5.3.8R provides that a person will not be responsible under PRR 5.3.2R(2)(d) if the shareholder is making the offer in association with the issuer and it is primarily the issuer, or the issuing company’s advisers, who draw up the prospectus.
-```
+> [!warning] Selling shareholders
+> Prospectus Regulation Rule 5.3.8R provides that a person will not be responsible under PRR 5.3.2R(2)(d) if the shareholder is making the offer in association with the issuer and it is primarily the issuer, or the issuing company’s advisers, who draw up the prospectus.
 
 ### Meaning of Responsibility
 
@@ -396,71 +385,67 @@ May be civil and/ or criminal liability in relation to any inaccuracies, misstat
 
 #### S 91 FSMA 2000
 
-```ad-statute
-title: s 91 FSMA 2000 - Penalties for breach of Part 6 rules
-
-(1) If the FCA considers that—
-- (a) an issuer of listed securities, or
-- (b) an applicant for listing,
-
-has contravened any provision of listing rules, it may impose on him a penalty of such amount as it considers appropriate.
-
-(1A) If the FCA considers that—
-- (a) an issuer of transferable securities,
-- (b) a person offering transferable securities to the public or requesting their admission to trading on a regulated market,
-- (c) an applicant for the approval of a prospectus in relation to transferable securities,
-- (d) a person on whom a requirement has been imposed under section 87K or 87L, or
-- (e) any other person to whom any provision of, or made in accordance with, the prospectus regulation applies,
-
-has contravened a provision of this Part or of prospectus rules, or a provision of or made in accordance with the prospectus regulation, or a requirement imposed on him under such a provision, it may impose on him a penalty of such amount as it considers appropriate.
-
-(1B) If the FCA considers—
-- (a) that a person has contravened—
-	- (i) a provision of qualifying transparency legislation, or
-	- (ii) a provision of corporate governance rules, or
-- (b) that a person on whom a requirement has been imposed under section 89L (power to suspend or prohibit trading of securities in case of infringement of applicable transparency obligation), has contravened that requirement,
-
-it may impose on the person a penalty of such amount as it considers appropriate.
-
-(2) If, in the case of a contravention by a person referred to in subsection (1), (1A) or (1B)(a)(ii) or (b)] (“P”), the FCA considers that another person who was at the material time a director of P was knowingly concerned in the contravention, it may impose upon him a penalty of such amount as it considers appropriate.
-
-(2A) If—
-- (a) a person has contravened a provision mentioned in subsection (1B)(a)(i), and
-- (b) the FCA considers that another person (“A”), who was at the material time a relevant officer of the person, was knowingly concerned in the contravention,
-
-the FCA may impose upon A a penalty of such amount as it considers appropriate.
-
-(2B) In subsection (2A) “relevant officer” of a person means—
-- (a) a director or other similar officer of the person, or
-- (b) if the affairs of the person are managed by its members, a member of the person.
-
-(3) If the FCA is entitled to impose a penalty on a person under this section in respect of a particular matter it may, instead of imposing a penalty on him in respect of that matter, publish a statement censuring him.
-
-(4) Nothing in this section prevents the FCA from taking any other steps which it has power to take under this Part.
-
-(5) A penalty under this section is **payable to the FCA**.
-
-(6) The FCA may not take action against a person under this section after the end of the period of 3 years beginning with the first day on which it knew of the contravention unless proceedings against that person, in respect of the contravention, were begun before the end of that period.
-
-(7) For the purposes of subsection (6)—
-- (a) the FCA is to be treated as knowing of a contravention if it has information from which the contravention can reasonably be inferred; and
-- (b) proceedings against a person in respect of a contravention are to be treated as begun when a warning notice is given to him under section 92.
-```
+> [!statute] s 91 FSMA 2000 - Penalties for breach of Part 6 rules
+> 
+> (1) If the FCA considers that—
+> - (a) an issuer of listed securities, or
+> - (b) an applicant for listing,
+> 
+> has contravened any provision of listing rules, it may impose on him a penalty of such amount as it considers appropriate.
+> 
+> (1A) If the FCA considers that—
+> - (a) an issuer of transferable securities,
+> - (b) a person offering transferable securities to the public or requesting their admission to trading on a regulated market,
+> - (c) an applicant for the approval of a prospectus in relation to transferable securities,
+> - (d) a person on whom a requirement has been imposed under section 87K or 87L, or
+> - (e) any other person to whom any provision of, or made in accordance with, the prospectus regulation applies,
+> 
+> has contravened a provision of this Part or of prospectus rules, or a provision of or made in accordance with the prospectus regulation, or a requirement imposed on him under such a provision, it may impose on him a penalty of such amount as it considers appropriate.
+> 
+> (1B) If the FCA considers—
+> - (a) that a person has contravened—
+> 	- (i) a provision of qualifying transparency legislation, or
+> 	- (ii) a provision of corporate governance rules, or
+> - (b) that a person on whom a requirement has been imposed under section 89L (power to suspend or prohibit trading of securities in case of infringement of applicable transparency obligation), has contravened that requirement,
+> 
+> it may impose on the person a penalty of such amount as it considers appropriate.
+> 
+> (2) If, in the case of a contravention by a person referred to in subsection (1), (1A) or (1B)(a)(ii) or (b)] (“P”), the FCA considers that another person who was at the material time a director of P was knowingly concerned in the contravention, it may impose upon him a penalty of such amount as it considers appropriate.
+> 
+> (2A) If—
+> - (a) a person has contravened a provision mentioned in subsection (1B)(a)(i), and
+> - (b) the FCA considers that another person (“A”), who was at the material time a relevant officer of the person, was knowingly concerned in the contravention,
+> 
+> the FCA may impose upon A a penalty of such amount as it considers appropriate.
+> 
+> (2B) In subsection (2A) “relevant officer” of a person means—
+> - (a) a director or other similar officer of the person, or
+> - (b) if the affairs of the person are managed by its members, a member of the person.
+> 
+> (3) If the FCA is entitled to impose a penalty on a person under this section in respect of a particular matter it may, instead of imposing a penalty on him in respect of that matter, publish a statement censuring him.
+> 
+> (4) Nothing in this section prevents the FCA from taking any other steps which it has power to take under this Part.
+> 
+> (5) A penalty under this section is **payable to the FCA**.
+> 
+> (6) The FCA may not take action against a person under this section after the end of the period of 3 years beginning with the first day on which it knew of the contravention unless proceedings against that person, in respect of the contravention, were begun before the end of that period.
+> 
+> (7) For the purposes of subsection (6)—
+> - (a) the FCA is to be treated as knowing of a contravention if it has information from which the contravention can reasonably be inferred; and
+> - (b) proceedings against a person in respect of a contravention are to be treated as begun when a warning notice is given to him under section 92.
 
 A breach of Article 6 of the Prospectus Regulation governing the content of the prospectus gives the FCA the power to impose a number of sanctions, including fining the company or imposing a censure on the company, a director or former director.
 
 Section 91 of the Financial Services and Markets Act 2000 provides sanctions for breach of the 'Part 6 Rules'.
 
-```ad-defn
-title: Part 6 Rules
-The 'Part 6 Rules' are defined in s103 FSMA 2000 with reference to the rule making powers of the FCA under s73A FSMA 2000. These include powers to make:
-
--   Rules relating to the Official List referred to in Part 6 as "listing rules". This includes the Listing Rules contained in the FCA's Listing Rules Sourcebook.
--   Rules relating to transferable securities referred in Part 6 as "prospectus rules". This includes the Prospectus Regulation Rules Sourcebook.
--   Corporate governance rules are also included in the definition and include the rules made under DTR 7.2. 
-
-Section 91(1) deals with breach of the Listing Rules, section 91(1A) deals with breach of the Prospectus Rules and Section 91(1B) deals with breach of the Corporate Governance Rules. Breaches of the Market Abuse Regulation are dealt with separately in s123.
-```
+> [!defn] Part 6 Rules
+> The 'Part 6 Rules' are defined in s103 FSMA 2000 with reference to the rule making powers of the FCA under s73A FSMA 2000. These include powers to make:
+> 
+> -   Rules relating to the Official List referred to in Part 6 as "listing rules". This includes the Listing Rules contained in the FCA's Listing Rules Sourcebook.
+> -   Rules relating to transferable securities referred in Part 6 as "prospectus rules". This includes the Prospectus Regulation Rules Sourcebook.
+> -   Corporate governance rules are also included in the definition and include the rules made under DTR 7.2. 
+> 
+> Section 91(1) deals with breach of the Listing Rules, section 91(1A) deals with breach of the Prospectus Rules and Section 91(1B) deals with breach of the Corporate Governance Rules. Breaches of the Market Abuse Regulation are dealt with separately in s123.
 
 Fine or public censure (saying you did something wrong, can be embarrassing). Any director can be subject to the same penalties.
 
@@ -476,13 +461,11 @@ Scope:
 - “As a result of” – must the investor have relied on/ read the document?
 - Very unclear.
 
-```ad-note
-There has not been any judicial decision on this, so some questions about this. 
-```
+> [!note]
+> There has not been any judicial decision on this, so some questions about this. 
 
-```ad-warning
-Note that section 90(1) does not require the person claiming compensation to prove that they relied on the relevant statement or omission when they acquired the securities. It also does not require the person claiming compensation to have acquired the securities in the offer to which the prospectus relates.
-```
+> [!warning]
+> Note that section 90(1) does not require the person claiming compensation to prove that they relied on the relevant statement or omission when they acquired the securities. It also does not require the person claiming compensation to have acquired the securities in the offer to which the prospectus relates.
 
 [FSMA 2000, Sch 10](https://plus.lexis.com/uk/document/?pdmfid=1001073&crid=41b69b73-ccf6-4a19-afca-d7cf3feab3f9&pddocfullpath=%2Fshared%2Fdocument%2Fanalytical-materials-uk%2Furn%3AcontentItem%3A63ND-70V3-GXF6-80SM-00000-00&pdcontentcomponentid=280374&pdteaserkey=&pdislpamode=false&pddocumentnumber=2&pdworkfolderlocatorid=NOT_SAVED_IN_WORKFOLDER&ecomp=ht5k&earg=sr1&prid=f1f04e49-dba0-4ca9-a413-e149ae3d473a# "UK Parliament Acts") sets out seven defences, only one of which the defendant has to prove to avoid liability under s 90. Exemptions from liability:
 
@@ -492,9 +475,8 @@ Note that section 90(1) does not require the person claiming compensation to pro
 4. where the erroneous information was reproduced from a **public official document**; and
 5. where the person seeking compensation acquired the shares **knowing** the information was deficient.
 
-```ad-note
-The due diligence and verification processes not only reduce the likelihood that the prospectus contains an untrue or misleading statement or omission but also help to support, if necessary, any argument of reasonable belief, and that reasonable enquiries were made.
-```
+> [!note]
+> The due diligence and verification processes not only reduce the likelihood that the prospectus contains an untrue or misleading statement or omission but also help to support, if necessary, any argument of reasonable belief, and that reasonable enquiries were made.
 
 #### Liability in Tort
 
@@ -553,12 +535,11 @@ Ensure that:
 
 Provides directors with evidence that they have taken reasonable care to ensure the information required by Prospectus Regulation and s 87A FSMA 2000 has been included.
 
-```ad-note
-In terms of civil liability, verification can provide evidence to assist in establishing a defence to a claim for statutory compensation on the basis that the prospectus contained an untrue or misleading statement, or a material omission of a matter required to be included.
-
-
-In terms of criminal liability, verification can provide evidence to assist in establishing a defence against any criminal charges that the prospectus contained a statement that a defendant knew was misleading, false or deceptive, that a defendant was reckless as to whether any such statement was misleading, false or deceptive, or that a defendant was dishonest in concealing any material facts.
-```
+> [!note]
+> In terms of civil liability, verification can provide evidence to assist in establishing a defence to a claim for statutory compensation on the basis that the prospectus contained an untrue or misleading statement, or a material omission of a matter required to be included.
+> 
+> 
+> In terms of criminal liability, verification can provide evidence to assist in establishing a defence against any criminal charges that the prospectus contained a statement that a defendant knew was misleading, false or deceptive, that a defendant was reckless as to whether any such statement was misleading, false or deceptive, or that a defendant was dishonest in concealing any material facts.
 
 ## Types of Prospectus
 

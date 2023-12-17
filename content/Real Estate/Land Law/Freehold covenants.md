@@ -18,9 +18,8 @@ A covenant is a promise relating to land. Covenants are usually contained in a t
 
 This is an area of law which arose at the time of the industrial revolution in the mid-nineteenth century, when landowners were selling part of their land for industrial and housing development. In order to preserve the quality and value of what they had left, the landowners imposed strict covenants as to what could and could not be done on the land sold off.
 
-```ad-example
-For example, they might require the buyer to covenant not to develop the land without the consent of the seller; or may covenant not to use the land for manufacturing or industrial purposes; or may covenant to use it for residences, maybe even restricting the number of houses which can be built on the land. All of these covenants have the effect of preserving the value of the seller’s retained land because they eliminate the possibility of the adjoining land being used for a purpose which would reduce the attractiveness, quality and value of the retained land.
-```
+> [!example]
+> For example, they might require the buyer to covenant not to develop the land without the consent of the seller; or may covenant not to use the land for manufacturing or industrial purposes; or may covenant to use it for residences, maybe even restricting the number of houses which can be built on the land. All of these covenants have the effect of preserving the value of the seller’s retained land because they eliminate the possibility of the adjoining land being used for a purpose which would reduce the attractiveness, quality and value of the retained land.
 
 ### Terminology
 
@@ -39,9 +38,8 @@ Covenants impose two main types of obligation: positive and negative.
 
 A positive covenant is a promise actively to do something.
 
-```ad-example
-The promise to do something will usually involve spending money: it could be a direct obligation to pay money, perhaps towards the upkeep of a shared facility such as a driveway, a parking area, or a communal garden. The covenant could involve payment of money, which is not directly stated. For example, there could be an obligation for the covenantor to maintain a fence, a wall, or a roof; or to paint the exterior of a house every two years. This will inevitably involve some sort of expenditure. But it does not necessarily involve money. A covenant to keep a garden tidy may not involve expenditure but it does require time and effort to fulfil and is therefore a positive obligation.
-```
+> [!example]
+> The promise to do something will usually involve spending money: it could be a direct obligation to pay money, perhaps towards the upkeep of a shared facility such as a driveway, a parking area, or a communal garden. The covenant could involve payment of money, which is not directly stated. For example, there could be an obligation for the covenantor to maintain a fence, a wall, or a roof; or to paint the exterior of a house every two years. This will inevitably involve some sort of expenditure. But it does not necessarily involve money. A covenant to keep a garden tidy may not involve expenditure but it does require time and effort to fulfil and is therefore a positive obligation.
 
  A negative or, more properly, a restrictive covenant is a promise not to do a specific thing on the land. It restricts the use of the land in some way.
 
@@ -52,15 +50,13 @@ There are many examples: not to use land for industrial, or retail, or hot food 
 > ‘Only such a covenant as can be complied with without expenditure of money will be enforced’ against a successor covenantor.’  
 > Lindley LJ, [[Haywood v Brunswick Permanent Benefit Building Society (1881) 8 QBD 403]]
 
-```ad-test
-title: Hand in pocket test
-
-The test for identifying whether a covenant is positive or restrictive is set out in [[Haywood v Brunswick Permanent Benefit Building Society (1881) 8 QBD 403]]
-
-This is known as the ‘hand in pocket’ test. If covenantors have to put their hands in their pockets to find money to spend to perform the covenant, it is positive.
-
-‘Time is money’ so any covenant which requires expenditure of money, effort or time falls within the definition of positive covenants’.
-```
+> [!test] Hand in pocket test
+> 
+> The test for identifying whether a covenant is positive or restrictive is set out in [[Haywood v Brunswick Permanent Benefit Building Society (1881) 8 QBD 403]]
+> 
+> This is known as the ‘hand in pocket’ test. If covenantors have to put their hands in their pockets to find money to spend to perform the covenant, it is positive.
+> 
+> ‘Time is money’ so any covenant which requires expenditure of money, effort or time falls within the definition of positive covenants’.
 
 Deciding whether a covenant is positive or restrictive is a matter of looking at the substance not form: look beyond the words used and ask ‘what is the essence of the obligation?’
 
@@ -75,12 +71,11 @@ Mixed covenants, which impose positive and restrictive obligations, can be inter
 
 This approach can be taken if the positive and restrictive aspects of the obligation can be separated to create two separate ‘stand alone’ covenants; one positive and one restrictive.
 
-```ad-example
-A covenant to paint the exterior of a building every two years and not to paint the front door red
-This covenant can be split.
-- To paint the exterior every two years: positive.
-- Not to paint the front door red: restrictive.
-```
+> [!example]
+> A covenant to paint the exterior of a building every two years and not to paint the front door red
+> This covenant can be split.
+> - To paint the exterior every two years: positive.
+> - Not to paint the front door red: restrictive.
 
 ### One Obligation with Condition
 
@@ -92,11 +87,10 @@ The covenant is interpreted as being overall positive or restrictive, depending 
 
 The additional element, which cannot stand alone as a covenant, is viewed as being simply a condition attached to an overall positive or restrictive obligation.
 
-```ad-example
-A covenant not to build on the servient land without the consent of the dominant owner. This covenant cannot be split. 
-- Not to build’ is the main obligation: restrictive covenant.
-- ‘Without consent’ is not a stand alone obligation. Seeking consent only operates as part of the main obligation: positive condition attached.
-```
+> [!example]
+> A covenant not to build on the servient land without the consent of the dominant owner. This covenant cannot be split. 
+> - Not to build’ is the main obligation: restrictive covenant.
+> - ‘Without consent’ is not a stand alone obligation. Seeking consent only operates as part of the main obligation: positive condition attached.
 
 ## Enforceability of Freehold Covenants
 
@@ -117,15 +111,13 @@ Equity has developed rules which allow the burden of certain covenants to pass t
 
 The formalities for creating a restrictive covenant are set out in [LPA 1925, s 53(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/53): in writing and signed by the grantor. A restrictive covenant is a proprietary right: [LPA 1925, s 1(3)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/1).
 
-```ad-test
-title: Tulk v Moxhay rules
-
-The equitable rules began with the case of [[Tulk v Moxhay (1848) 2 Ph 774]]. There are 4 aspects to the rule:
-1) The covenant must be restrictive
-2) It must accommodate the dominant tenement
-3) There must be intention for the burden to run
-4) There must be notice of the covenant
-```
+> [!test] Tulk v Moxhay rules
+> 
+> The equitable rules began with the case of [[Tulk v Moxhay (1848) 2 Ph 774]]. There are 4 aspects to the rule:
+> 1) The covenant must be restrictive
+> 2) It must accommodate the dominant tenement
+> 3) There must be intention for the burden to run
+> 4) There must be notice of the covenant
 
 ### The Covenant Must Be Restrictive
 
@@ -159,10 +151,9 @@ This can be shown expressly or impliedly.
 
 The covenant is worded in such a way as to make it clear that successors are to be bound:
 
-```ad-example
-- ‘A hereby covenants with B for himself and his successors in title to land known as…’ or
-- ‘A hereby covenants with the intention of binding land known as…’
-```
+> [!example]
+> - ‘A hereby covenants with B for himself and his successors in title to land known as…’ or
+> - ‘A hereby covenants with the intention of binding land known as…’
 
 #### Impliedly
 
@@ -218,9 +209,8 @@ The case of [[Renals v Cowlishaw (1878) 9 ChD 125]] sets out 3 ways in which the
 
 #### Annexation
 
-```ad-defn
-Annexation occurs when the covenant is made in such a way that the benefit becomes a permanent part of the dominant land itself. It therefore passes automatically when the dominant land is sold, without being specifically mentioned in the transfer deed.
-```
+> [!defn]
+> Annexation occurs when the covenant is made in such a way that the benefit becomes a permanent part of the dominant land itself. It therefore passes automatically when the dominant land is sold, without being specifically mentioned in the transfer deed.
 
 Annexation occurs in one of two main ways:
 
@@ -237,16 +227,13 @@ Annexation occurs in one of two main ways:
 	- This would appear to make express words of annexation unnecessary, as it seems to make annexation automatic.
 	- However, [[Roake v Chadha [1984] 1 WLR 40]] held that s 78(1) can be expressly excluded. This can happen if an alternative method of passing the benefit is stipulated in the original transfer deed.
 
-```ad-statute
-title: s 78(1) LPA 1925
-A covenant relating to any land of the covenantee shall be deemed to be made with the covenantee and his successors in title and the persons deriving title under him or them, and shall have effect as if such successors and other persons were expressed.
-```
+> [!statute] s 78(1) LPA 1925
+> A covenant relating to any land of the covenantee shall be deemed to be made with the covenantee and his successors in title and the persons deriving title under him or them, and shall have effect as if such successors and other persons were expressed.
 
 #### Assignment
 
-```ad-defn
-Assignment is the express transfer of the benefit of a covenant alongside a transfer of the dominant land.
-```
+> [!defn]
+> Assignment is the express transfer of the benefit of a covenant alongside a transfer of the dominant land.
 
 This occurs where the benefit of the covenant has not been annexed at the outset. The benefit can nevertheless be assigned when the dominant land is transferred. As the benefit exists separately from the land itself, it is treated as a separate interest in the land and must be transferred every time the land is transferred.
 
@@ -254,9 +241,8 @@ The separate assignment of the benefit must comply with the formalities in [LPA 
 
 #### Building Scheme
 
-```ad-defn
-If the parties intended to create a scheme of reciprocal local laws in a building scheme, the benefit of restrictive covenants passes to all new owners.
-```
+> [!defn]
+> If the parties intended to create a scheme of reciprocal local laws in a building scheme, the benefit of restrictive covenants passes to all new owners.
 
 When a new housing estate is built, all houses are sold subject to the same covenants. New owners who wish to enforce a covenant against a neighbour may struggle to show that the benefit of a particular covenant has passed to them.
 
@@ -264,18 +250,16 @@ Building schemes resolve this problem relating to restrictive covenants only.
 
 If the conditions of a building scheme are met, the covenants are treated as a set of by-laws enforceable by and against all owners. It is not necessary to show specifically that the benefit of a particular covenant has passed to a claimant.
 
-```ad-test
-title: Building scheme
-The conditions are set out in [[Ellison v Reacher [1908] 2 Ch 374]]:
-1) All buyers buy from the same seller
-2) The seller divided the estate into plots
-3) The covenants were intended to benefit all plots
-4) Each buyer buys on the understanding that the covenants are intended to benefit all plots.
-
-Later cases have interpreted these rules as **guidelines** rather than strict requirements.
-
-A court will need to be satisfied that it was the intention of the parties to create a **scheme of mutually enforceable obligations**.
-```
+> [!test] Building scheme
+> The conditions are set out in [[Ellison v Reacher [1908] 2 Ch 374]]:
+> 1) All buyers buy from the same seller
+> 2) The seller divided the estate into plots
+> 3) The covenants were intended to benefit all plots
+> 4) Each buyer buys on the understanding that the covenants are intended to benefit all plots.
+> 
+> Later cases have interpreted these rules as **guidelines** rather than strict requirements.
+> 
+> A court will need to be satisfied that it was the intention of the parties to create a **scheme of mutually enforceable obligations**.
 
 #### Original Covenantee
 
@@ -285,9 +269,8 @@ However, it is highly unlikely that an original covenantee would wish to enforce
 
 Even if action was taken, it is hard to envisage any loss which could be suffered by an original covenantee who no longer owns the dominant land.
 
-```ad-example
-A covenant not to build on servient land is of no value to a covenantee once the dominant land is sold. A breach of the covenant causes the original covenantee no loss.
-```
+> [!example]
+> A covenant not to build on servient land is of no value to a covenantee once the dominant land is sold. A breach of the covenant causes the original covenantee no loss.
 
 ## Equitable Remedies
 
@@ -307,9 +290,8 @@ If the breach has already occurred, the claimant can apply for a mandatory injun
 
 Equitable remedies are awarded subject to general equitable principles and maxims. ‘Delay defeats equity’ – a claimant must not wait too long before applying for an injunction.
 
-```ad-note
-A claimant who wishes to apply for an injunction in respect of building work being carried out in breach of covenant must act immediately. If the claimant waits until the building is complete and then applies for a mandatory injunction to knock the building down, the application is likely to be refused.
-```
+> [!note]
+> A claimant who wishes to apply for an injunction in respect of building work being carried out in breach of covenant must act immediately. If the claimant waits until the building is complete and then applies for a mandatory injunction to knock the building down, the application is likely to be refused.
 
 ### Damages in Lieu of Injunctions
 
@@ -327,9 +309,8 @@ It must be shown that the burden has passed to a successor covenantor at common 
 
 On the assumption that C can show that the benefit has passed, the problem as far as C is concerned relates to the burden.
 
-```ad-important
-It is the general rule at common law that the burden of the covenant does not pass ([[Austerberry v Oldham Corporation [1885] AC 29 ChD 750]]).
-```
+> [!important]
+> It is the general rule at common law that the burden of the covenant does not pass ([[Austerberry v Oldham Corporation [1885] AC 29 ChD 750]]).
 
 The effect of the rule is that at common law, C cannot sue D direct as the burden of the covenant has not passed to D. If the burden of a covenant does not pass, that does not mean that it disappears. It remains with the original covenantor permanently. This means that it is the original covenantor has the burden of the covenant and can be sued.
 
@@ -400,9 +381,8 @@ Unfortunately, commonhold has not proved a popular way of holding land.
 
 #### Restriction: S 40 LRA 2002
 
-```ad-note
-This is the most commonly used way of making the burden of positive covenants run on registered land.
-```
+> [!note]
+> This is the most commonly used way of making the burden of positive covenants run on registered land.
 
 A covenantee can put a restriction on the **proprietorship register of the burdened land**. This states that no transfer of the burdened land can be registered without the consent of the covenantee.
 
@@ -434,23 +414,20 @@ Under normal contractual principles, the benefit of a covenant can be expressly 
 
 Where there is no express assignment, the benefit of a covenant may pass to a successor covenantee if certain conditions are met. This involves the benefit automatically passing every time the land is transferred, as long as the conditions are met.
 
-```ad-test
-title: Implied assignment
-
-The conditions of implied assignment are set out in [[P&A Swift Investments Ltd v Combined English Stores Group plc [1989] AC 632]]:
-1. The covenant must touch and concern the land
-2. There must have been an intention that the benefit should run with the dominant land
-3. The original covenantee must have a legal estate in the dominant land
-4. The successor covenantee must hold a legal estate in the dominant land
-```
+> [!test] Implied assignment
+> 
+> The conditions of implied assignment are set out in [[P&A Swift Investments Ltd v Combined English Stores Group plc [1989] AC 632]]:
+> 1. The covenant must touch and concern the land
+> 2. There must have been an intention that the benefit should run with the dominant land
+> 3. The original covenantee must have a legal estate in the dominant land
+> 4. The successor covenantee must hold a legal estate in the dominant land
 
 ### The Covenant Must Touch and Concern the Land
 
 The covenant must benefit the dominant land itself, it must affect the nature, quality, use or value of the land. It must not be expressed to be personal and should only benefit the dominant owner for the time being, so that, if separated from the land, it ceases to be of any advantage to them.
 
-```ad-example
-A covenant to maintain a house on the burdened land does touch and concern the dominant land as it preserves the quality of the environment and therefore the value of the dominant land.
-```
+> [!example]
+> A covenant to maintain a house on the burdened land does touch and concern the dominant land as it preserves the quality of the environment and therefore the value of the dominant land.
 
 ### Intention That Benefit Runs with Dominant Land
 
@@ -458,9 +435,8 @@ Intention of the parties can be shown expressly or impliedly through statute.
 
 If there is no express intention, [LPA 1925, s 78](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/78) implies an intention for the benefit to pass unless it is expressly excluded.
 
-```ad-example
-A covenant drafted ‘for the benefit of land known as 5 High Street’ or ‘with the covenantee and successors in title to land known as 5 High Street’ shows express intention
-```
+> [!example]
+> A covenant drafted ‘for the benefit of land known as 5 High Street’ or ‘with the covenantee and successors in title to land known as 5 High Street’ shows express intention
 
 The original covenantee must have a legal estate in the dominant land, and the successor covenantee must hold a legal estate in the dominant land.
 
@@ -478,9 +454,8 @@ The methods by which a freehold covenant can be brought to an end are discharge,
 
 Restrictive covenants, once validly granted, last forever. Over time, these can become obsolete and can unduly restrict the use of the servient land.
 
-```ad-example
-A covenant not to build on land might have benefitted the dominant tenement whilst that land was used for residential purposes, but no longer does if the dominant land is now a factory.
-```
+> [!example]
+> A covenant not to build on land might have benefitted the dominant tenement whilst that land was used for residential purposes, but no longer does if the dominant land is now a factory.
 
 There are various ways in which a covenant can be discharged or modified. Discharge if a covenant means that it is no longer valid.
 
@@ -502,33 +477,27 @@ To avoid this, the servient owner can apply to the [[Tribunals#Upper Tribunal]] 
 
 [Law of Property Act 1925, s 84(1)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/84) gives the Lands Chamber the power ‘wholly or partially to discharge or modify any… restriction’.
 
-```ad-warning
-This provision only applies to restrictive covenants.
-```
+> [!warning]
+> This provision only applies to restrictive covenants.
 
-```ad-statute
-title: [LPA 1925, s 84(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/84)
+> [!statute] [LPA 1925, s 84(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/84)
+> 
+> A servient owner may apply to the tribunal for a declaration to discharge or modify a covenant on the basis that the covenant has become obsolete due to changes in the character of the property or neighbourhood.
 
-A servient owner may apply to the tribunal for a declaration to discharge or modify a covenant on the basis that the covenant has become obsolete due to changes in the character of the property or neighbourhood.
-```
-
-```ad-example
-A covenant to use property only as a residence may be obsolete if the surrounding area is now business, retail of mixed use.
-```
+> [!example]
+> A covenant to use property only as a residence may be obsolete if the surrounding area is now business, retail of mixed use.
 
 [s 84(1)(aa)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/84) enables an application to be made on the basis that the covenant impedes reasonable use of the servient land. The applicant must show either that the covenant confers no practical value, or that it is contrary to public interest.
 
 The tribunal must be satisfied that financial compensation would be adequate for the dominant owner.
 
-```ad-example
-A covenant restricting the density of houses on a plot may confer no practical value on the dominant land if that land is itself densely developed.
-```
+> [!example]
+> A covenant restricting the density of houses on a plot may confer no practical value on the dominant land if that land is itself densely developed.
 
 S 84(1)(b) applies where the dominant owners have agreed, expressly or impliedly, to discharge.
 
-```ad-example
-An application here may be appropriate where the parties have expressly agreed a release in principle, or where the dominant owner has tolerated a long-term breach. In this instance, the tribunal will decide the level of compensation to be paid, thereby preventing the dominant owner holding the servient owner to ransom.
-```
+> [!example]
+> An application here may be appropriate where the parties have expressly agreed a release in principle, or where the dominant owner has tolerated a long-term breach. In this instance, the tribunal will decide the level of compensation to be paid, thereby preventing the dominant owner holding the servient owner to ransom.
 
 S 84(1)(c) enables an application to be made where discharge if a covenant will not 'injure' the dominant owners.
 

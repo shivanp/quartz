@@ -85,15 +85,14 @@ You will need to therefore consider the circumstances in which term was imposed 
 
 If a term is declared [[void]], it will not be enforceable (binding) on the borrower, but the remainder of the agreement will remain in force.
 
-```ad-summary
-- The equity of redemption is the name given to the bundle of rights which the borrower has
-- There are four basic rights:
-	1.  the equitable right to redeem the loan
-	2.  protection from clauses which postpone or prevent redemption
-	3.  protection from clauses which give collateral advantages to the lender
-	4.  protection from unconscionable terms in mortgage deeds
-- Redemption can only be postponed if the borrower gains some benefit from any ‘lock in’ and gets back exactly what was mortgaged
-- Options for the lender to purchase the property will be void unless they are genuinely part of an independent transaction
-- Collateral advantages will be void if they extend beyond the mortgage term unless they are genuinely part of an independent transaction.
-- Unconscionable [[terms]] must be more than simply hard bargains: they must be imposed in a morally reprehensible way, for example in a way which takes advantage of the borrower’s vulnerable position
-```
+> [!summary]
+> - The equity of redemption is the name given to the bundle of rights which the borrower has
+> - There are four basic rights:
+> 	1.  the equitable right to redeem the loan
+> 	2.  protection from clauses which postpone or prevent redemption
+> 	3.  protection from clauses which give collateral advantages to the lender
+> 	4.  protection from unconscionable terms in mortgage deeds
+> - Redemption can only be postponed if the borrower gains some benefit from any ‘lock in’ and gets back exactly what was mortgaged
+> - Options for the lender to purchase the property will be void unless they are genuinely part of an independent transaction
+> - Collateral advantages will be void if they extend beyond the mortgage term unless they are genuinely part of an independent transaction.
+> - Unconscionable [[terms]] must be more than simply hard bargains: they must be imposed in a morally reprehensible way, for example in a way which takes advantage of the borrower’s vulnerable position

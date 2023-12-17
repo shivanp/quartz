@@ -190,12 +190,11 @@ Even if the above requirements are met, a floating charge will be valid to the e
 
 s 245(2) effect: if a floating charge is granted to secure the repayment of a new loan made on or after the creation of the charge, then it will be valid.
 
-```ad-example
-
-An example of when a floating charge would be void is where an existing unsecured creditor is granted a floating charge by a company which is insolvent and the charge purports to secure the repayment of existing monies owed to that creditor.
-
-If s 245 did not apply, such an unsecured creditor would thereby improve its position in the order of priority if the company later went into an insolvency procedure, which would be unfair on the company’s other unsecured creditors. However, if (and to the extent that) an existing unsecured creditor provides further credit to the company (or to the extent that any other new credit is given by a new creditor) then that creditor is entitled to have the protection of a valid floating charge.
-```
+> [!example]
+> 
+> An example of when a floating charge would be void is where an existing unsecured creditor is granted a floating charge by a company which is insolvent and the charge purports to secure the repayment of existing monies owed to that creditor.
+> 
+> If s 245 did not apply, such an unsecured creditor would thereby improve its position in the order of priority if the company later went into an insolvency procedure, which would be unfair on the company’s other unsecured creditors. However, if (and to the extent that) an existing unsecured creditor provides further credit to the company (or to the extent that any other new credit is given by a new creditor) then that creditor is entitled to have the protection of a valid floating charge.
 
 ### Avoidance of Floating Charges
 

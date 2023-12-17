@@ -97,9 +97,8 @@ The buyer runs the risk that the seller may neglect the business, knowing that t
 
 ### Repetition of Warranties
 
-```ad-note
-A buyer often seeks to protect its position by requiring that the representations and warranties made in the sale and purchase agreement are repeated as at the date of completion.
-```
+> [!note]
+> A buyer often seeks to protect its position by requiring that the representations and warranties made in the sale and purchase agreement are repeated as at the date of completion.
 
 A strong buyer may include this as an additional CP (giving the buyer the right to withdraw from the purchase in the event of breach). Should be strongly resisted by the seller/ limited to material breaches.
 
@@ -123,10 +122,8 @@ If there is to be a delay between signing the sale and purchase agreement and co
 
 Check who should attend and that they have been correctly authorised to execute
 
-```ad-note
-title: Power of attorney
-If an individual is unable to attend the completion meeting in person, they may execute a power of attorney giving another person the power to sign the completion documents on their behalf. The terms of the power of attorney will usually be agreed between the parties, and will often be drafted in very broad terms to include a power to sign any additional documentation that may be required in order to effect completion.
-```
+> [!note] Power of attorney
+> If an individual is unable to attend the completion meeting in person, they may execute a power of attorney giving another person the power to sign the completion documents on their behalf. The terms of the power of attorney will usually be agreed between the parties, and will often be drafted in very broad terms to include a power to sign any additional documentation that may be required in order to effect completion.
 
 #### Seller Preparation
 
@@ -189,12 +186,10 @@ The seller will hand over:
 
 Parties agree a completion timetable. Only the shares are transferred.
 
-```ad-note
-title: Transferring a legal interest in shares
-Under English law, the following documents are required to transfer the legal interest in the shares:
- ( a) stock transfer form; and
- ( b) share certificate.
-```
+> [!note] Transferring a legal interest in shares
+> Under English law, the following documents are required to transfer the legal interest in the shares:
+>  ( a) stock transfer form; and
+>  ( b) share certificate.
 
 The buyer is not entitled to exercise its shareholders' rights until the transfer is registered by the target. The buyer will therefore require the seller to procure registration of the transferred shares, usually (in a private company) by procuring a board meeting of the target company to consider the transferred shares for registration. The existing shareholders may also be required to waive any rights of pre-emption on the transfer of shares that may exist under the constitution of the company.
 
@@ -212,9 +207,8 @@ The meeting usually deals with:
 - Change in registered office
 - Alteration of existing bank mandates and completion of new finance arrangements.
 
-```ad-note
-A seller of shares is under a general duty not to obstruct or delay the registration of the buyer as the holder of the shares (_[Hooper v Herts [1906] 1 Ch 549](https://uk.westlaw.com/D-106-5776?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=499185a9ecb940b1a3a505768c861e1b)_). However, unless the parties expressly agree otherwise, the seller is not obliged to procure that the target company actually approves and registers the transfer (_[London Founders Association Ltd v Clarke [1888] 20 QBD 576](https://uk.westlaw.com/D-106-5778?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=499185a9ecb940b1a3a505768c861e1b)_). As a result, the buyer typically includes a provision in the SPA which requires the seller to procure that the target company holds a board meeting at completion for the purpose of approving the transfer of the target shares to the buyer, subject only to the transfer being stamped.
-```
+> [!note]
+> A seller of shares is under a general duty not to obstruct or delay the registration of the buyer as the holder of the shares (_[Hooper v Herts [1906] 1 Ch 549](https://uk.westlaw.com/D-106-5776?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=499185a9ecb940b1a3a505768c861e1b)_). However, unless the parties expressly agree otherwise, the seller is not obliged to procure that the target company actually approves and registers the transfer (_[London Founders Association Ltd v Clarke [1888] 20 QBD 576](https://uk.westlaw.com/D-106-5778?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=499185a9ecb940b1a3a505768c861e1b)_). As a result, the buyer typically includes a provision in the SPA which requires the seller to procure that the target company holds a board meeting at completion for the purpose of approving the transfer of the target shares to the buyer, subject only to the transfer being stamped.
 
 Subsidiaries may also need board meetings to implements changes.
 
@@ -228,9 +222,8 @@ Matters that may require shareholder approval:
 
 Changes/ approvals to be effected by the shareholders will usually be dealt with by written resolution at the completion board meeting of the target company.
 
-```ad-note
-The buyer does not become a member of the target company until its name is entered into the register of members (CA 2006, s 112) – after stamping of the stock transfer form. So the sellers must usually pass the resolution. 
-```
+> [!note]
+> The buyer does not become a member of the target company until its name is entered into the register of members (CA 2006, s 112) – after stamping of the stock transfer form. So the sellers must usually pass the resolution. 
 
 #### Completion Documents
 
@@ -264,15 +257,13 @@ If completion is not face to face, take care to ensure legal validity. Ensure th
 
 Historically, the non-availability of a signatory for an exchange or completion meeting might have been addressed by arranging for the absent signatory to sign separate signature pages in advance, and then attaching the pre-signed pages to the relevant documents once they were finalised. However, this practice has been curtailed following the High Court decision in [[R (Mercury Tax Group Ltd and another) v HMRC [2008] EWHC 2721 (Admin)]].
 
-```ad-action
-title: Recommended options for virtual completion: JWP note
-
-- **Option 1.** The signatory prints and signs the relevant signature page of the final version of the document. They then return a single email to their lawyers attaching both the entire final version of the document and a scanned copy of the signed signature page. This approach is suitable for all types of documents, including deeds.
-
-- **Option 2.** The signatory prints and signs the relevant signature page of the final version of the document. They then return to their lawyers a scanned copy of the signed signature page only and authorise them to attach the signed page to the final version of the document. This approach is **not** suitable for deeds or real estate contracts.
-
-- **Option 3.** The signatory pre-signs a signature page for the relevant document. They then returns this page to their lawyers to attach to the document once the final version is agreed. This approach is **not** suitable for deeds or real estate contracts.
-```
+> [!action] Recommended options for virtual completion: JWP note
+> 
+> - **Option 1.** The signatory prints and signs the relevant signature page of the final version of the document. They then return a single email to their lawyers attaching both the entire final version of the document and a scanned copy of the signed signature page. This approach is suitable for all types of documents, including deeds.
+> 
+> - **Option 2.** The signatory prints and signs the relevant signature page of the final version of the document. They then return to their lawyers a scanned copy of the signed signature page only and authorise them to attach the signed page to the final version of the document. This approach is **not** suitable for deeds or real estate contracts.
+> 
+> - **Option 3.** The signatory pre-signs a signature page for the relevant document. They then returns this page to their lawyers to attach to the document once the final version is agreed. This approach is **not** suitable for deeds or real estate contracts.
 
 When a party signs a document and sends this to their lawyer in advance of exchange or completion, they should give or confirm in writing the authority to deliver the relevant signed document, clearly stating any conditions.
 
@@ -285,9 +276,8 @@ Where all required signatories cannot be physically present at exchange or compl
 1. Authorising the third party to sign as the party's agent.
 2. Granting an ordinary power of attorney. This approach tends to be more common in practice and will be the only viable option if the transaction documents include a deed, given that authority to execute a deed must be given by deed ([[Steiglitz v Eggington [1815] Holt 141]]).
 
-```ad-warning
-It is not usually possible for an absent director to appoint an attorney to sign a document on their behalf in their capacity as a director of a company.
-```
+> [!warning]
+> It is not usually possible for an absent director to appoint an attorney to sign a document on their behalf in their capacity as a director of a company.
 
 ### Payment Arrangements
 
@@ -303,19 +293,16 @@ The seller will expect the buyer to pay any cash element of the transaction in c
 
 Where a seller needs the sale proceeds to discharge a security interest at completion, this can cause cash flow issues.
 
-```ad-action
-The lender's lawyers giving an undertaking to the buyer's lawyers to forward the lender's deed of release to them once the lender has received the monies following completion of the share sale may resolve this timing issue.
-```
+> [!action]
+> The lender's lawyers giving an undertaking to the buyer's lawyers to forward the lender's deed of release to them once the lender has received the monies following completion of the share sale may resolve this timing issue.
 
 ### Funding Acquisition
 
 If a buyer is seeking to raise the requisite funds for the acquisition through an issue of equity or by obtaining debt finance, this can cause timing issues for completion:
 
-```ad-note
-title: Catch-22
-- The buyer may not want to raise funds unless acquisition is certain to complete. 
-- Buyer unable to complete the transaction if it does not raise the necessary funds $\rightarrow$ wants to avoid being subject to an obligation to complete in these circumstances. 
-```
+> [!note] Catch-22
+> - The buyer may not want to raise funds unless acquisition is certain to complete. 
+> - Buyer unable to complete the transaction if it does not raise the necessary funds $\rightarrow$ wants to avoid being subject to an obligation to complete in these circumstances. 
 
 - Acquisition funded by a placing
 	- SPA often provides that completion is conditional on the allotment and listing of placing shares
@@ -329,9 +316,8 @@ title: Catch-22
 
 ### Stamp Duty and Filing
 
-```ad-important
-On a share purchase of a company registered in England and Wales, the buyer’s lawyers must ensure that the duly executed stock transfer forms are delivered to the HMRC Stamp Office within **30 days** together with the requisite transfer duty.
-```
+> [!important]
+> On a share purchase of a company registered in England and Wales, the buyer’s lawyers must ensure that the duly executed stock transfer forms are delivered to the HMRC Stamp Office within **30 days** together with the requisite transfer duty.
 
 Usually done immediately by the buyer's lawyers. Stamp duty is payable on the transfer of certificated shares unless the consideration for the transfer is £1,000 or less, or another exemption applies.
 
@@ -452,10 +438,9 @@ Common law requires a deed for:
 
 ### Principles
 
-```ad-important
-- A contract contained in a deed can only be varied or discharged by another contract contained in a deed.
-- The release of a debt, liability or obligation must be effected by deed.
-```
+> [!important]
+> - A contract contained in a deed can only be varied or discharged by another contract contained in a deed.
+> - The release of a debt, liability or obligation must be effected by deed.
 
 However, a variation or release can take effect in equity in the absence of a deed provided that valuable consideration has been given (_[Webb v Hewitt (1857) 3 K and J 438](https://uk.practicallaw.thomsonreuters.com/D-009-7407?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=0e69ecc7bd0b425c8c07be4517611bac)_).
 

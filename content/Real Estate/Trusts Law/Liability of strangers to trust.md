@@ -102,28 +102,24 @@ Knowing receipt claims are not limited to cases where the recipient had the requ
 
 The leading authority on the knowledge required for the purposes of a knowing receipt claim is [[Bank of Credit and Commerce International (Overseas) Ltd v Akindele [2001] Ch 437]].
 
-```ad-test
-title: Akindele unconscionable test
-
-In [[Bank of Credit and Commerce International (Overseas) Ltd v Akindele [2001] Ch 437]] it was held that
-1. dishonesty is not a requirement for a knowing receipt claim, and
-2. The recipient’s state of knowledge must be such as to make it unconscionable for him to retain the benefit of the receipt.
-```
+> [!test] Akindele unconscionable test
+> 
+> In [[Bank of Credit and Commerce International (Overseas) Ltd v Akindele [2001] Ch 437]] it was held that
+> 1. dishonesty is not a requirement for a knowing receipt claim, and
+> 2. The recipient’s state of knowledge must be such as to make it unconscionable for him to retain the benefit of the receipt.
 
 In Akindele, Nourse LJ conceded (at 455) that the ‘unconscionable’ test would present ‘difficulties of application’ and this has proven to be true.
 
 Confronted with a difficult, open-ended test, some judges have reverted to the familiar Baden scale of knowledge and have applied the Akindele test by reference to that scale:
 
-```ad-test
-title: The Baden scale
-
-The Baden scale was articulated by Peter Gibson J in [[Baden v Société Générale pour Favoriser le Développement du Commerce et de L’Industrie en France SA [1993] 1 WLR 509]], para 250. It comprises five types of knowledge:
-1. actual knowledge
-2. wilfully shutting one’s eyes to the obvious
-3. wilfully and recklessly failing to make such inquiries as an honest and reasonable man would make
-4. knowledge of circumstances which would indicate the facts to an honest and reasonable man
-5. knowledge of circumstances which would put an honest and reasonable man on inquiry
-```
+> [!test] The Baden scale
+> 
+> The Baden scale was articulated by Peter Gibson J in [[Baden v Société Générale pour Favoriser le Développement du Commerce et de L’Industrie en France SA [1993] 1 WLR 509]], para 250. It comprises five types of knowledge:
+> 1. actual knowledge
+> 2. wilfully shutting one’s eyes to the obvious
+> 3. wilfully and recklessly failing to make such inquiries as an honest and reasonable man would make
+> 4. knowledge of circumstances which would indicate the facts to an honest and reasonable man
+> 5. knowledge of circumstances which would put an honest and reasonable man on inquiry
 
 ### Applying the Baden Scale
 

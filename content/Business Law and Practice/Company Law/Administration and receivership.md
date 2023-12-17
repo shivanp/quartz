@@ -57,11 +57,9 @@ The following parties may appoint an administrator using the out-of-court proced
 
 The most common method of appointing an administrator is by directors using the out-of-court procedure.
 
-```ad-warning
-title: Exception
-
-Directors **cannot** use the out-of-court procedure where a creditor has presented a petition for the winding up of the company. The directors can then apply to court for an administration order, or the qualifying floating charge holder can use the out-of-court procedure to appoint an administrator. 
-```
+> [!warning] Exception
+> 
+> Directors **cannot** use the out-of-court procedure where a creditor has presented a petition for the winding up of the company. The directors can then apply to court for an administration order, or the qualifying floating charge holder can use the out-of-court procedure to appoint an administrator. 
 
 ## Role of the Administrator
 
@@ -113,25 +111,21 @@ Pre-packaged sales are controversial, particularly where the sale is to existing
 
 ## Examples
 
-```ad-example
-title: Debenhams
+> [!example] Debenhams
+> 
+> The UK department store group appointed administrators for a second time in May 2020 to protect itself from its creditors. The administrators were pursuing three strategies; a sale of the business, a restructure of the business and the wind-down of the business. Debenhams had heavy debts of around £600m.
+> 
+> Debenhams initially closed its Irish division, which had eleven stores, 958 staff and 300 concessions, and also closed its Hong Kong and Bangladeshi subsidiaries.
+> 
+> The Debenhams brand was bought by fashion retailer Boohoo for £55m in January 2021. The stores reopened to clear stock and then began to close. The last remaining UK stores closed in May 2021. The Debenhams brand continued its operations online as part of the internet-only fashion retailer Boohoo.
 
-The UK department store group appointed administrators for a second time in May 2020 to protect itself from its creditors. The administrators were pursuing three strategies; a sale of the business, a restructure of the business and the wind-down of the business. Debenhams had heavy debts of around £600m.
-
-Debenhams initially closed its Irish division, which had eleven stores, 958 staff and 300 concessions, and also closed its Hong Kong and Bangladeshi subsidiaries.
-
-The Debenhams brand was bought by fashion retailer Boohoo for £55m in January 2021. The stores reopened to clear stock and then began to close. The last remaining UK stores closed in May 2021. The Debenhams brand continued its operations online as part of the internet-only fashion retailer Boohoo.
-```
-
-```ad-example
-title: Cath Kidston
-
-The fashion and accessories chain appointed administrators in April 2020. Like many fashion retailers, the company had long-standing problems in maintaining sales and profitability. It lost £27m between 2018 – 2020, resulting in its closing stores and cutting head-office staff. There were 200 stores globally.
-
-In May 2020, the company’s parent company, Baring Private Equity Asia, bought the company’s brand and online operations through a pre-packaged deal from the administrators. This led to the closure of all 60 UK stores, with the loss of 900 jobs. The company went on to trade in the UK as an online-only retailer.
-
-In December 2020, Cath Kidston returned to the UK high street with the re-opening of its flagship store in London’s Piccadilly.
-```
+> [!example] Cath Kidston
+> 
+> The fashion and accessories chain appointed administrators in April 2020. Like many fashion retailers, the company had long-standing problems in maintaining sales and profitability. It lost £27m between 2018 – 2020, resulting in its closing stores and cutting head-office staff. There were 200 stores globally.
+> 
+> In May 2020, the company’s parent company, Baring Private Equity Asia, bought the company’s brand and online operations through a pre-packaged deal from the administrators. This led to the closure of all 60 UK stores, with the loss of 900 jobs. The company went on to trade in the UK as an online-only retailer.
+> 
+> In December 2020, Cath Kidston returned to the UK high street with the re-opening of its flagship store in London’s Piccadilly.
 
 ## Receivership
 

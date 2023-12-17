@@ -25,15 +25,13 @@ The court is not permitted to draw an adverse inference from a defendant’s sil
 
 ## S 34 Criminal Justice and Public Order Act 1994
 
-```ad-statute
-title: s 34 Criminal Justice and Public Order Act 1994
-(1) Where, in any proceedings against a person for an offence, evidence is given that the accused—
-- (a) at any time before he was charged with the offence, on being questioned under caution by a constable trying to discover whether or by whom the offence had been committed, failed to mention any fact relied on in his defence in those proceedings; or
-- (b) on being charged with the offence or officially informed that he might be prosecuted for it, failed to mention any such fact,
-- (c) at any time after being charged with the offence, on being questioned under section 22 of the Counter-Terrorism Act 2008 (post-charge questioning), failed to mention any such fact,
-
-being a fact which in the circumstances existing at the time the accused could reasonably have been expected to mention when so questioned, charged or informed... the court or jury... may draw such inferencese from the failure as appear proper. 
-```
+> [!statute] s 34 Criminal Justice and Public Order Act 1994
+> (1) Where, in any proceedings against a person for an offence, evidence is given that the accused—
+> - (a) at any time before he was charged with the offence, on being questioned under caution by a constable trying to discover whether or by whom the offence had been committed, failed to mention any fact relied on in his defence in those proceedings; or
+> - (b) on being charged with the offence or officially informed that he might be prosecuted for it, failed to mention any such fact,
+> - (c) at any time after being charged with the offence, on being questioned under section 22 of the Counter-Terrorism Act 2008 (post-charge questioning), failed to mention any such fact,
+> 
+> being a fact which in the circumstances existing at the time the accused could reasonably have been expected to mention when so questioned, charged or informed... the court or jury... may draw such inferencese from the failure as appear proper. 
 
 The terms of s 34 may be satisfied even where a defendant has answered every question put to him, if at trial he raises some other fact in his defence that he did not mention, but could reasonably have been expected to mention, when interviewed.
 
@@ -84,10 +82,8 @@ Solicitor may advise the client to remain silent:
 - If the nature of the case is particularly complex/ relates to events occurring a long time ago
 - Personal circumstances of the suspect.
 
-```ad-test
-title: Advising silence adverse inference
-Staying silent at a police interview under legal advice does not automatically prevent the court drawing an adverse inference. But the fact that D was advised not to answer questions in the police station must be given appropriate weight at trial ([[Condron v UK [2000] Crim LR 679]]). In this case, the court will ask whether the facts relied on in trial were facts which the defendant could reasonably have been expected to mention in police interview. The jury will now be directed by the trial judge that adverse inferences should not be drawn under s 34 if the jury believe that the defendant genuinely and reasonably relied on the legal advice to remain silent.
-```
+> [!test] Advising silence adverse inference
+> Staying silent at a police interview under legal advice does not automatically prevent the court drawing an adverse inference. But the fact that D was advised not to answer questions in the police station must be given appropriate weight at trial ([[Condron v UK [2000] Crim LR 679]]). In this case, the court will ask whether the facts relied on in trial were facts which the defendant could reasonably have been expected to mention in police interview. The jury will now be directed by the trial judge that adverse inferences should not be drawn under s 34 if the jury believe that the defendant genuinely and reasonably relied on the legal advice to remain silent.
 
 ## Legal Privilege
 
@@ -98,21 +94,17 @@ At trial, a defendant may give evidence which has the effect of waiving privileg
 - Once a defendant gives this information, privilege is waived ([[R v Bowden [1999] 1 WLR 823]]).
 - So can be cross-examined as to the reason for the solicitor's decision to advise him to remain silent.
 
-```ad-action
-title: Big brain strategy
-- When giving evidence-in-chief, D says nothing about the reason for his silence when interviewed
-- Prosecution during cross-examination allege D fabricated his defence. 
-- D tells court that he disclosed his defence to the solicitor whilst at the police station, but the solicitor advised him to remain silent for other reasons. 
-- D will not waive privilege ([[R v Loizou [2006] EWCA Crim 1719]])
-```
+> [!action] Big brain strategy
+> - When giving evidence-in-chief, D says nothing about the reason for his silence when interviewed
+> - Prosecution during cross-examination allege D fabricated his defence. 
+> - D tells court that he disclosed his defence to the solicitor whilst at the police station, but the solicitor advised him to remain silent for other reasons. 
+> - D will not waive privilege ([[R v Loizou [2006] EWCA Crim 1719]])
 
 In the absence of a waiver of privilege by a defendant, no questions could be asked which would in effect require the defendant to waive his privilege or be criticised for not doing so ([[R v Seaton [2010] EWCA Crim 1980]]).
 
-```ad-action
-title: Big brain strategy 2
-Many solicitors who advise a client to remain silent in interview now give such advice on tape at the start of the interview:
-> I now advise you to remain silent because … [the disclosure given by the police is so limited that I cannot properly advise you/I do not consider you to be in a fit state to be interviewed/the offences you are alleged to have committed occurred so long ago or are so complex that you cannot be expected to give an immediate response, etc].
-```
+> [!action] Big brain strategy 2
+> Many solicitors who advise a client to remain silent in interview now give such advice on tape at the start of the interview:
+> > I now advise you to remain silent because … [the disclosure given by the police is so limited that I cannot properly advise you/I do not consider you to be in a fit state to be interviewed/the offences you are alleged to have committed occurred so long ago or are so complex that you cannot be expected to give an immediate response, etc].
 
 This does not amount to a waiver of privilege because the advice is being given to the client there and then.
 

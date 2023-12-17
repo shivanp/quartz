@@ -17,22 +17,19 @@ date modified: Sunday, December 10th 2023, 12:39:42 am
 
 ### Definitions
 
-```ad-statute
-title: s 4(2) CA 2006
-A “public company” is a company limited by shares or limited by guarantee and having a share capital—
-- (a) whose certificate of incorporation states that it is a public company, and
-- (b) in relation to which the requirements of this Act, or the former Companies Acts, as to registration or re-registration as a public company have been complied with on or after the relevant date.
-```
+> [!statute] s 4(2) CA 2006
+> A “public company” is a company limited by shares or limited by guarantee and having a share capital—
+> - (a) whose certificate of incorporation states that it is a public company, and
+> - (b) in relation to which the requirements of this Act, or the former Companies Acts, as to registration or re-registration as a public company have been complied with on or after the relevant date.
 
 Broadly, a listed company is a public company, any of the shares of which are officially listed and trade on a stock market.
 
 In the UK there are two competitor stock markets to the London Stock Exchange, AQSE and Cboe Europe Equities.
 
-```ad-warning
-The s 385 CA 2006 definition of ‘quoted company’ is different to companies listed on ‘regulated markets’ including the Main Market (and, e.g., NYSE) but not AIM.
-
-
-```
+> [!warning]
+> The s 385 CA 2006 definition of ‘quoted company’ is different to companies listed on ‘regulated markets’ including the Main Market (and, e.g., NYSE) but not AIM.
+> 
+> 
 
 Here, "listed" means admitted to listing on the FCA Official List and admitted to trading on the Main Market.
 
@@ -120,30 +117,28 @@ A company can achieve public company status in two ways:
 1. registering as a public company on original incorporation; or
 2. registering as a private company on original incorporation then re-registering as a public company.
 
-```ad-statute
-title: s 9 CA 2006 - Registration documents
-
-(1) The memorandum of association must be delivered to the registrar together with an application for registration of the company, the documents required by this section and a statement of compliance.
-
-(2) The application for registration must state—
-- (a) the company's proposed name,
-- (b) whether the company's registered office is to be situated in England and Wales (or in Wales), in Scotland or in Northern Ireland,
-- (c) whether the liability of the members of the company is to be limited, and if so whether it is to be limited by shares or by guarantee, and
-- (d) whether the company is to be a private or a public company.
-
-(3) If the application is delivered by a person as agent for the subscribers to the memorandum of association, it must state his name and address.
-
-(4) The application must contain—
-- (a) in the case of a company that is to have a share capital, a statement of capital and initial shareholdings (see section 10);
-- (b) in the case of a company that is to be limited by guarantee, a statement of guarantee (see section 11);
-- (c) a statement of the company's proposed officers (see section 12);
-- (d) a statement of initial significant control (see section 12A).
-
-(5) The application must also contain—
-- (a) a statement of the intended address of the company's registered office;
-- (b) a copy of any proposed articles of association (to the extent that these are not supplied by the default application of model articles: see section 20); and
-- (c) a statement of the type of company it is to be and its intended principal business activities.
-```
+> [!statute] s 9 CA 2006 - Registration documents
+> 
+> (1) The memorandum of association must be delivered to the registrar together with an application for registration of the company, the documents required by this section and a statement of compliance.
+> 
+> (2) The application for registration must state—
+> - (a) the company's proposed name,
+> - (b) whether the company's registered office is to be situated in England and Wales (or in Wales), in Scotland or in Northern Ireland,
+> - (c) whether the liability of the members of the company is to be limited, and if so whether it is to be limited by shares or by guarantee, and
+> - (d) whether the company is to be a private or a public company.
+> 
+> (3) If the application is delivered by a person as agent for the subscribers to the memorandum of association, it must state his name and address.
+> 
+> (4) The application must contain—
+> - (a) in the case of a company that is to have a share capital, a statement of capital and initial shareholdings (see section 10);
+> - (b) in the case of a company that is to be limited by guarantee, a statement of guarantee (see section 11);
+> - (c) a statement of the company's proposed officers (see section 12);
+> - (d) a statement of initial significant control (see section 12A).
+> 
+> (5) The application must also contain—
+> - (a) a statement of the intended address of the company's registered office;
+> - (b) a copy of any proposed articles of association (to the extent that these are not supplied by the default application of model articles: see section 20); and
+> - (c) a statement of the type of company it is to be and its intended principal business activities.
 
 To register as a public company on original incorporation, there are additional requirements:
 
@@ -166,9 +161,8 @@ The company will then receive a certificate from the Registrar that the company 
 
 A trading certificate is issued under s 761 CA 2006, confirming that the company has met the allotted share capital requirements. To obtain this certificate, an application must be made (accompanied by a statement of compliance) to the Registrar under s 762 of the CA 2006.
 
-```ad-example
-If 50,000 £1 shares are allotted at nominal value, the minimum consideration which must be paid to the company is £12,500. 
-```
+> [!example]
+> If 50,000 £1 shares are allotted at nominal value, the minimum consideration which must be paid to the company is £12,500. 
 
 ### Re-registration
 
@@ -189,9 +183,8 @@ At the time the shareholders pass the special resolution, the company must have 
 1. the company must have allotted shares at least up to the value of the authorised minimum (s 91(1)(a)), which is currently £50,000 (CA 2006, s 763) or the euro equivalent, currently €57,100, and
 2. that each allotted share must be paid up to at least one-quarter of its nominal value together with the whole of any premium on it (s 91(1)(b)).
 
-```ad-note
-A trading certificate is not required for a public company which re-registers as a public company. 
-```
+> [!note]
+> A trading certificate is not required for a public company which re-registers as a public company. 
 
 #### Application for Re-registration
 

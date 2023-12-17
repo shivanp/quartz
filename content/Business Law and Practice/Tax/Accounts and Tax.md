@@ -40,11 +40,9 @@ pandoc-latex-admonition:
 
 ### Setting up Business
 
-```ad-defn
-title: Capital
-
-The amount a business owes its owner.
-```
+> [!defn] Capital
+> 
+> The amount a business owes its owner.
 
 ### P&L Account
 
@@ -58,11 +56,9 @@ $$
 
 Assets and liabilities are shown. One of the assets is usually cash.
 
-```ad-defn
-title: Fixed and current assets
-
-Fixed assets are major assets bought to help the business function. Current assets are cash and liquid assets, such as debtors and stock. 
-```
+> [!defn] Fixed and current assets
+> 
+> Fixed assets are major assets bought to help the business function. Current assets are cash and liquid assets, such as debtors and stock. 
 
 $$
 \text{Net assets} = \text{Assets} - \text{Liabilities}
@@ -103,24 +99,21 @@ On a daily basis, a business must keep a record of income, expenses, assets and 
 
 ## Double Entry Bookkeeping
 
-```ad-defn
-title: Bookkeeping
-The process of recording financial transactions in the accounting records of a business.
-```
+> [!defn] Bookkeeping
+> The process of recording financial transactions in the accounting records of a business.
 
 The double entry system was developed by Venetian traders in the 1400s and is still used to this day. The idea is that there are two aspects to every transaction.
 
-```ad-example
-1. The business pays cash to buy premises
-	1. The business has less cash
-	1. The business has acquired premises
-2. The business pays wages
-	1. The business has less cash
-	1. The business has incurred an expense
-3. The client pays the business owed money
-	1. The business has lost the debt it was owed
-	1. The business has more cash
-```
+> [!example]
+> 1. The business pays cash to buy premises
+> 	1. The business has less cash
+> 	1. The business has acquired premises
+> 2. The business pays wages
+> 	1. The business has less cash
+> 	1. The business has incurred an expense
+> 3. The client pays the business owed money
+> 	1. The business has lost the debt it was owed
+> 	1. The business has more cash
 
 ### Rules for Recording Transactions
 
@@ -156,9 +149,8 @@ Professionals do not sell trading stock, they sell services. The charge for prof
 
 The 'cash' account is in reality a record of receipts into and payments out of the bank account. But a business will usually need some petty cash in the office to cover day-to-day expenses–these transactions are recorded in a petty cash account.
 
-```ad-defn
-All accounts apart from the cash account are referred to as ledger accounts. There is a single cash account: the petty cash account.
-``` 
+> [!defn]
+> All accounts apart from the cash account are referred to as ledger accounts. There is a single cash account: the petty cash account. 
 
 #### Drawings
 
@@ -172,9 +164,8 @@ Businesses will check their bookkeeping periodically. If every transaction has b
 
 $$
 
-```ad-defn
-The process of adding together all DR and CR balances and comparing totals is known as preparing a Trial Balance. 
-```
+> [!defn]
+> The process of adding together all DR and CR balances and comparing totals is known as preparing a Trial Balance. 
 
 Note that this is only a check but cannot reveal all errors, e.g., if the bookkeeper has failed to make any entries relating to a particular transaction.
 
@@ -291,9 +282,8 @@ $$
 \text{Cost of Goods Sold} = \text{Purchases} + \text{Opening Stock} - \text{Closing Stock}
 $$
 
-```ad-warning
-By convention, stock is valued in the Final Accounts at the lower of its acquisition cost or its realisable value.
-```
+> [!warning]
+> By convention, stock is valued in the Final Accounts at the lower of its acquisition cost or its realisable value.
 
 The value given for closing stock is always an estimate–the business cannot predict with total accuracy how much of the remaining stock it will be able to sell (e.g., clothing which has gone out of fashion).
 
@@ -387,20 +377,16 @@ About 1/3 of UK tax receipts come from income tax, collected by HMRC. Individual
 
 Income tax is recurrent, whereas capital transactions are usually one-off. Income tax paid by individuals, partnerships, personal representatives and trustees. Companies pay corporation tax. There are tax-efficient ways of giving to charity.
 
-```ad-example
-title: Income
-- Interest
-- Dividends
-- Salary/ wages
-- Rent
-```
+> [!example] Income
+> - Interest
+> - Dividends
+> - Salary/ wages
+> - Rent
 
-```ad-example
-title: Capital
-- Sale of shares
-- Buying a house
-- Sale of antique
-```
+> [!example] Capital
+> - Sale of shares
+> - Buying a house
+> - Sale of antique
 
  Income can be received gross (trading income, property income), or net–tax-deducted (employment income, PAYE). Sources of income for an individual include trading income, employment income, property income and saving and investment income.
 
@@ -632,9 +618,8 @@ Distinguish CGT with income tax. Capital Gains Tax is a one-off tax on the diffe
 
 Introduced in 1965 to stop people avoiding income tax. Statute: Taxation of Chargeable Gains Act 1992.
 
-```ad-defn
-Capital gains tax is charged on the chargeable gains made by a chargeable person on the disposal of chargeable assets in a tax year (6th April - 5th April)
-```
+> [!defn]
+> Capital gains tax is charged on the chargeable gains made by a chargeable person on the disposal of chargeable assets in a tax year (6th April - 5th April)
 
 ## Calculation
 
@@ -721,9 +706,8 @@ The gain is generally the consideration for the disposal less expenditures:
 - Incidental costs of disposal
 	- e.g., legal fees, estate agent fees.
 
-```ad-note
-Expenditure deductible for income tax purposes not deductible for capital gains purposes.
-```
+> [!note]
+> Expenditure deductible for income tax purposes not deductible for capital gains purposes.
 
 ### Indexation Allowance
 
@@ -944,18 +928,16 @@ Usually money received for the sale of goods and services.
 
 Tax legislation stipulates what is and is not deductible expenditure, so does not include e.g., bad debts, as in business accounts.
 
-```ad-example
-title: Examples of deductible expenditure for companies
-1. Directors'/ employees' salaries or fees and benefits in kind. 
-	1. So long as not excessive
-	2. If paid for personal reasons and not wholly and exclusively for the purposes of the trade, then it will not be deductible. 
-2. Contributions to an approved pension scheme for directors/ employees
-3. Payment to director/ employee for termination of employment
-	1. When made as compensation for loss of office/ employment, deductible expense
-	2. When made in return for a non-compete undertaking, deductible under specifi provisions
-4. Interest payments on borrowings
-	1. Generally deductible under loan relationships rules, though there are limits on the amount of interest payments which can be deducted by listed companies. 
-```
+> [!example] Examples of deductible expenditure for companies
+> 1. Directors'/ employees' salaries or fees and benefits in kind. 
+> 	1. So long as not excessive
+> 	2. If paid for personal reasons and not wholly and exclusively for the purposes of the trade, then it will not be deductible. 
+> 2. Contributions to an approved pension scheme for directors/ employees
+> 3. Payment to director/ employee for termination of employment
+> 	1. When made as compensation for loss of office/ employment, deductible expense
+> 	2. When made in return for a non-compete undertaking, deductible under specifi provisions
+> 4. Interest payments on borrowings
+> 	1. Generally deductible under loan relationships rules, though there are limits on the amount of interest payments which can be deducted by listed companies. 
 
 ### Capital Allowances
 
@@ -1096,10 +1078,8 @@ ss 45-45B CTA 2010: can carry forward the trading loss for an accounting period 
 
 CTA 2009, Part 8.
 
-```ad-guid
-title: General rule
-Receipts from transactions in intangible fixed assets will generally be treated as income receipts, and expenditure on intangible fixed assets will generally be deductible in calculating a company’s income profits (although not when the expenditure is part of the incorporation of a business).
-```
+> [!guid] General rule
+> Receipts from transactions in intangible fixed assets will generally be treated as income receipts, and expenditure on intangible fixed assets will generally be deductible in calculating a company’s income profits (although not when the expenditure is part of the incorporation of a business).
 
 ### Disposal of Intangible Fixed Assets
 

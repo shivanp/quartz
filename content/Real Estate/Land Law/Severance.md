@@ -17,9 +17,8 @@ The imposition of a trust involves the separation of legal and equitable title. 
 > Severance…is the process of separating off the share of a joint tenant, so that the concurrent ownership will continue, but the right of survivorship will no longer apply. The parties will hold separate shares as tenants in common.  
 > Dillon LJ in [[Harris v Goddard [1983] 1 WLR 1203]]
 
-```ad-note
-Severance does not destroy co-ownership but simply changes the basis on which the parties hold the equitable interest in the future.
-```
+> [!note]
+> Severance does not destroy co-ownership but simply changes the basis on which the parties hold the equitable interest in the future.
 
 ## Details
 
@@ -38,15 +37,13 @@ If a beneficial (equitable) joint tenancy is created, it is open to any joint te
 
 It is important to understand that severance does not bring co-ownership to an end: it simply changes the basis on which the equitable co-owners continue to hold the equitable title. Severance is the process of converting an equitable interest held as a joint tenancy into an interest held as a tenancy in common.
 
-```ad-statute
-title: s 36(2) LPA 1925
-
-No severance of a joint tenancy of a legal estate, so as to create a tenancy in common in land, shall be permissible, whether by operation of law or otherwise, but this subsection does not affect the right of a joint tenant to release his interest to the other joint tenants, or the right to sever a joint tenancy in an equitable interest whether or not the legal estate is vested in the joint tenants:
-
-Provided that, where a legal estate (not being settled land) is vested in joint tenants beneficially, and any tenant desires to sever the joint tenancy in equity, he shall give to the other joint tenants a notice in writing of such desire or do such other acts or things as would, in the case of personal estate, have been effectual to sever the tenancy in equity, and thereupon the land shall be held in trust on terms which would have been requisite for giving effect to the beneficial interests if there had been an actual severance.
-
-Nothing in this Act affects the right of a survivor of joint tenants, who is solely and beneficially interested, to deal with his legal estate as if it were not held in trust.
-```
+> [!statute] s 36(2) LPA 1925
+> 
+> No severance of a joint tenancy of a legal estate, so as to create a tenancy in common in land, shall be permissible, whether by operation of law or otherwise, but this subsection does not affect the right of a joint tenant to release his interest to the other joint tenants, or the right to sever a joint tenancy in an equitable interest whether or not the legal estate is vested in the joint tenants:
+> 
+> Provided that, where a legal estate (not being settled land) is vested in joint tenants beneficially, and any tenant desires to sever the joint tenancy in equity, he shall give to the other joint tenants a notice in writing of such desire or do such other acts or things as would, in the case of personal estate, have been effectual to sever the tenancy in equity, and thereupon the land shall be held in trust on terms which would have been requisite for giving effect to the beneficial interests if there had been an actual severance.
+> 
+> Nothing in this Act affects the right of a survivor of joint tenants, who is solely and beneficially interested, to deal with his legal estate as if it were not held in trust.
 
 It is not possible to sever a legal joint tenancy; only an equitable one. This is to preserve the simplicity of the legal title. If legal trustees could sever the joint tenancy and leave an interest held as a tenancy in common to other(s), that would complicate the legal title for two reasons: first, the number of legal owners could grow, not shrink! Second, documents would be required to prove that the new holders had actually acquired title properly. With a joint tenancy, the only document required on the death of a joint tenant is a copy of that person’s death certificate.
 
@@ -90,22 +87,20 @@ The severance must take place during the joint tenant’s lifetime. Making a wil
 
 If a joint tenant successfully severs the equitable joint tenancy, that person will, in future, hold a tenancy in common which is an equal share, based on the number of former joint tenants not on the proportion of contributions made to the initial price: [[Goodman v Gallant [1986] Fam 106]].
 
-```ad-example
-A, B, C and D are the legal owners of property, which they hold on trust for themselves and E and F as joint tenants in equity. D wishes to sever the joint tenancy so that he can leave his share of the property to G in his will.
+> [!example]
+> A, B, C and D are the legal owners of property, which they hold on trust for themselves and E and F as joint tenants in equity. D wishes to sever the joint tenancy so that he can leave his share of the property to G in his will.
+> 
+> It is not possible to sever the legal joint tenancy, so D will continue to have the administrative responsibilities of a legal trustee. The equitable joint tenancy can be severed, and if D does this by one of the methods recognised in **LPA s 36(2)**, D will have a one-sixth separate equitable share as tenant in common.
+> - A B C and D hold legal title as joint tenants.
+> - A B C E F hold 5/6 as JTs.
+> - D has 1/6 as TIC.
 
-It is not possible to sever the legal joint tenancy, so D will continue to have the administrative responsibilities of a legal trustee. The equitable joint tenancy can be severed, and if D does this by one of the methods recognised in **LPA s 36(2)**, D will have a one-sixth separate equitable share as tenant in common.
-- A B C and D hold legal title as joint tenants.
-- A B C E F hold 5/6 as JTs.
-- D has 1/6 as TIC.
-```
-
-```ad-example
-A and B are the legal owners of property, which they hold on trust for themselves as joint tenants in equity. B wishes to sever the joint tenancy so that he can leave his share of the property to C in his will.
-
-It is not possible to sever the legal joint tenancy, so B will continue to have the administrative responsibilities of a legal trustee. The equitable joint tenancy can be severed, and if B does this by one of the methods recognised in LPA s 36(2), A and B will each have a 50% equitable share as tenant in common. It is not possible for A to continue as a joint tenant.
-- A and B hold legal title as joint tenants.
-- A and B hold 50% each as TIC.
-```
+> [!example]
+> A and B are the legal owners of property, which they hold on trust for themselves as joint tenants in equity. B wishes to sever the joint tenancy so that he can leave his share of the property to C in his will.
+> 
+> It is not possible to sever the legal joint tenancy, so B will continue to have the administrative responsibilities of a legal trustee. The equitable joint tenancy can be severed, and if B does this by one of the methods recognised in LPA s 36(2), A and B will each have a 50% equitable share as tenant in common. It is not possible for A to continue as a joint tenant.
+> - A and B hold legal title as joint tenants.
+> - A and B hold 50% each as TIC.
 
 ```mermaid
 graph TD
@@ -139,17 +134,15 @@ A notice in writing must be served correctly in order to sever the joint tenancy
 
 Difficulties regarding when and whether a notice has been properly served are resolved by **Law of Property Act 1925, s 196(3) and s 196(4)** and related case law.
 
-```ad-statute
-title: s 196 LPA 1925
-
-(1) Any notice required or authorised to be served or given by this Act shall be in writing.
-
-(2) Any notice required or authorised by this Act to be served on a lessee or mortgagor shall be sufficient, although only addressed to the lessee or mortgagor by that designation, without his name, or generally to the persons interested, without any name, and notwithstanding that any person to be affected by the notice is absent, under disability, unborn, or unascertained.
-
-(3) Any notice required or authorised by this Act to be served shall be sufficiently served if it is left at the last-known place of abode or business in the United Kingdom of the lessee, lessor, mortgagee, mortgagor, or other person to be served, or, in case of a notice required or authorised to be served on a lessee or mortgagor, is affixed or left for him on the land or any house or building comprised in the lease or mortgage, or, in case of a mining lease, is left for the lessee at the office or counting-house of the mine.
-
-(4) Any notice required or authorised by this Act to be served shall also be sufficiently served, if it is sent by post in a registered letter addressed to the lessee, lessor, mortgagee, mortgagor, or other person to be served, by name, at the aforesaid place of abode or business, office, or counting-house, and if that letter is not returned [F1by the postal operator (within the meaning of [F2Part 3 of the Postal Services Act 2011]) concerned] undelivered; and that service shall be deemed to be made at the time at which the registered letter would in the ordinary course be delivered.
-```
+> [!statute] s 196 LPA 1925
+> 
+> (1) Any notice required or authorised to be served or given by this Act shall be in writing.
+> 
+> (2) Any notice required or authorised by this Act to be served on a lessee or mortgagor shall be sufficient, although only addressed to the lessee or mortgagor by that designation, without his name, or generally to the persons interested, without any name, and notwithstanding that any person to be affected by the notice is absent, under disability, unborn, or unascertained.
+> 
+> (3) Any notice required or authorised by this Act to be served shall be sufficiently served if it is left at the last-known place of abode or business in the United Kingdom of the lessee, lessor, mortgagee, mortgagor, or other person to be served, or, in case of a notice required or authorised to be served on a lessee or mortgagor, is affixed or left for him on the land or any house or building comprised in the lease or mortgage, or, in case of a mining lease, is left for the lessee at the office or counting-house of the mine.
+> 
+> (4) Any notice required or authorised by this Act to be served shall also be sufficiently served, if it is sent by post in a registered letter addressed to the lessee, lessor, mortgagee, mortgagor, or other person to be served, by name, at the aforesaid place of abode or business, office, or counting-house, and if that letter is not returned [F1by the postal operator (within the meaning of [F2Part 3 of the Postal Services Act 2011]) concerned] undelivered; and that service shall be deemed to be made at the time at which the registered letter would in the ordinary course be delivered.
 
 A notice can be served by handing it over personally. If it is posted it will be deemed to be served if it has been left at the ‘last known place of abode or business’ of the joint tenants. This means that it could be served by the severing joint tenant leaving it there, or by postal delivery there. If it is made by registered post and not returned undelivered, it will be deemed served at the time a registered item would in the ordinary course of events be delivered.
 
@@ -180,23 +173,19 @@ The unilateral acts can be subdivided into acts of total alienation; partial ali
 - Partial alienation: acts of ‘partial’ alienation occur where the severing owner temporarily disposes of the interest, by way of mortgage or lease. This is partial alienation because when the loan is repaid or the lease expires, the holder will take the interest back unencumbered.
 - Involuntary alienation: this occurs when the joint tenant is declared bankrupt by the court. It is ‘involuntary’ as this will happen against the will of the joint tenant!
 
-```ad-example
-title: Sale as an act of total alienation
-It is very common for one joint tenant to ‘buy out’ another. The sale will have the effect of severing the equitable joint tenancy and the purchaser will acquire the interest as a tenant in common. The legal title will remain unaffected as the legal joint tenancy cannot be severed. Imagine that A B C and D own property as beneficial joint tenants. B has been offered a job in another city and sells his equitable interest to C.
+> [!example] Sale as an act of total alienation
+> It is very common for one joint tenant to ‘buy out’ another. The sale will have the effect of severing the equitable joint tenancy and the purchaser will acquire the interest as a tenant in common. The legal title will remain unaffected as the legal joint tenancy cannot be severed. Imagine that A B C and D own property as beneficial joint tenants. B has been offered a job in another city and sells his equitable interest to C.
+> 
+> Position before the sale: the usual rules on co-ownership operate and ABC & D are legal joint tenants holding the property on trust for themselves as equitable joint tenants.
+> 
+> Position after the sale: ABC & D continue as legal joint tenants as the legal title cannot be severed. B’s equitable interest is severed on sale to C, who holds it as a tenant in common. C remains a joint tenant with A & D as to the remaining equitable title.
 
-Position before the sale: the usual rules on co-ownership operate and ABC & D are legal joint tenants holding the property on trust for themselves as equitable joint tenants.
-
-Position after the sale: ABC & D continue as legal joint tenants as the legal title cannot be severed. B’s equitable interest is severed on sale to C, who holds it as a tenant in common. C remains a joint tenant with A & D as to the remaining equitable title.
-```
-
-```ad-example
-title:Mortgage as an act of partial alienation
-Most property purchases are funded by mortgage finance. Where all legal joint tenants act together to create a legal mortgage or charge over the property as security for a loan, this does not result in severance, because the joint tenants are charging the legal estate. The equitable estate remains unaffected.
-
-If an equitable joint tenant mortgages his/her equitable interest, that will be an act of severance, resulting in a tenancy in common.
-
-Where one joint tenant fraudulently tries to mortgage/sell the entire property. In this case, the disposition is deemed to be a mortgage/sale of the equitable interest.
-```
+> [!example] Mortgage as an act of partial alienation
+> Most property purchases are funded by mortgage finance. Where all legal joint tenants act together to create a legal mortgage or charge over the property as security for a loan, this does not result in severance, because the joint tenants are charging the legal estate. The equitable estate remains unaffected.
+> 
+> If an equitable joint tenant mortgages his/her equitable interest, that will be an act of severance, resulting in a tenancy in common.
+> 
+> Where one joint tenant fraudulently tries to mortgage/sell the entire property. In this case, the disposition is deemed to be a mortgage/sale of the equitable interest.
 
 See [[First National Security v Hegarty [1985] QB 850]]
 
@@ -220,17 +209,16 @@ In [[Burgess v Rawnsley [1975] Ch 429]], Sir John Pennycuick acknowledged that s
 
 See [[Gore and Snell v Carpenter [1990] 60 P&CR 456]] and [[Davis v Smith [2011] EWCA Civ 1603]].
 
-```ad-summary
-**Law of Property Act 1925, s 36(2)** states that an equitable joint tenancy can be severed by ‘other acts or things…’.
-
-According to the case of **Williams v Hensman** this behaviour can be unilateral acts, mutual agreement or mutual conduct.
-
-Examples of unilateral acts operating on a share include selling, mortgaging, or gifting a share; or being declared bankrupt.
-
-Severance by mutual agreement occurs when the joint tenants all agree, expressly or impliedly, to change the basis on which they continue to hold the equitable title to the property
-
-Severance by mutual conduct may occur when the parties embark on a ‘course of dealings’ which demonstrates that they are treating their shares in the property as separate. This may cover ongoing negotiations, but it is unclear exactly what will suffice here.
-```
+> [!summary]
+> **Law of Property Act 1925, s 36(2)** states that an equitable joint tenancy can be severed by ‘other acts or things…’.
+> 
+> According to the case of **Williams v Hensman** this behaviour can be unilateral acts, mutual agreement or mutual conduct.
+> 
+> Examples of unilateral acts operating on a share include selling, mortgaging, or gifting a share; or being declared bankrupt.
+> 
+> Severance by mutual agreement occurs when the joint tenants all agree, expressly or impliedly, to change the basis on which they continue to hold the equitable title to the property
+> 
+> Severance by mutual conduct may occur when the parties embark on a ‘course of dealings’ which demonstrates that they are treating their shares in the property as separate. This may cover ongoing negotiations, but it is unclear exactly what will suffice here.
 
 ## Bevan
 

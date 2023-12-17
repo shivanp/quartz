@@ -64,19 +64,16 @@ The buyer should ensure it receives the benefit of all contracts entered into be
 
 Under English law, can do this by assigning the benefit of the contract. If legal assignment is required, notice must be given to the other contracting party (s 136 LPA 1925). This is desirable – otherwise the 3rd party can continue making payments to the seller.
 
-```ad-warning
-This method only transfers the benefit of the contract, so the seller will still be liable to the 3rd party for any outstanding obligations.
-```
+> [!warning]
+> This method only transfers the benefit of the contract, so the seller will still be liable to the 3rd party for any outstanding obligations.
 
-```ad-example
-In an exclusive distribution agreement, if the seller is the distributor, the benefit under the agreement is the receipt of goods for resale in a given territory; the burden is payment for the goods. Under English law, the right to receive the goods can be legally assigned by giving notice under s 136 of the Law of Property Act 1925 (unless the contract says consent is required), but the obligation to pay for the goods remains with the seller.
-```
+> [!example]
+> In an exclusive distribution agreement, if the seller is the distributor, the benefit under the agreement is the receipt of goods for resale in a given territory; the burden is payment for the goods. Under English law, the right to receive the goods can be legally assigned by giving notice under s 136 of the Law of Property Act 1925 (unless the contract says consent is required), but the obligation to pay for the goods remains with the seller.
 
 To get around this, the existing contract can be **novated**. Involves the other party to the contract agreeing to release the seller from the contract, allowing the buyer to take over the benefit and burden. The parties to the novation agreement will be the buyer, the seller and the 3rd party.
 
-```ad-note
-Because this involves the cooperation of the third party, can be time-consuming. 
-```
+> [!note]
+> Because this involves the cooperation of the third party, can be time-consuming. 
 
 ### Debtors and Creditors
 
@@ -167,10 +164,8 @@ The method chosen depends both on the type and size of the buyout.
 
 ## Management Buyout
 
-```ad-defn
-title: "MBO"
-A transaction by which the target is acquired by some or all of its management, usually through the vehicle of a new company established for this purpose (‘Newco’).
-```
+> [!defn] "MBO"
+> A transaction by which the target is acquired by some or all of its management, usually through the vehicle of a new company established for this purpose (‘Newco’).
 
 - May proceed as share or asset acquisitions
 - Usually requires external funding – a business plan is drawn up to seek PE funding.
@@ -189,16 +184,14 @@ Parties to the venture enter into an Investment Agreement. Sets out the basis of
 
 ### Conflicts of Interest
 
-```ad-warning
-Take care to ensure the actions of the management team do not breach any obligations of good faith or confidentiality to the target. 
-```
+> [!warning]
+> Take care to ensure the actions of the management team do not breach any obligations of good faith or confidentiality to the target. 
 
 1. Management team wants to get the best price
 2. But they also owe duties to the company and its shareholders and employees.
 
-```ad-action
-Upon deciding to initiate an MBO, approach the board to declare the director's interest and seek consent to proceed.
-```
+> [!action]
+> Upon deciding to initiate an MBO, approach the board to declare the director's interest and seek consent to proceed.
 
 #### Consideration
 
@@ -218,9 +211,8 @@ PE provider hoping to acquire a majority shareholding in a private company with 
 
 Ratio is a commercial question. Consider the internal rate of return; the lower the amount of equity, the greater the gains per share. Often there is lots and lots of debt (especially since debt was cheap until recently).
 
-```ad-important
-Private companies are not subject to prohibitions on financial assistance. So any borrowing for the acquisition of target's shares can be secured on the assets of target. Where a public company is acquired by a PE fund, the public target is first immediately converted to a private company (to allow this to happen). 
-```
+> [!important]
+> Private companies are not subject to prohibitions on financial assistance. So any borrowing for the acquisition of target's shares can be secured on the assets of target. Where a public company is acquired by a PE fund, the public target is first immediately converted to a private company (to allow this to happen). 
 
 ### Management Team
 
@@ -364,30 +356,26 @@ In company law, each company within the group is treated as a separate entity wi
 	- s 197 CA 2006: shareholder approval is required for a company to make loans to its directors
 	- If a loan is to be made to a director of the company’s holding company, the approval of the members of the holding company must also be sought.
 
-```ad-statute
-title: s 192 - Exception for transactions with members or other group companies
-
-Approval is not required under section 190 (requirement of members' approval for substantial property transactions)—
-- (a) for a transaction between a company and a person in his character as a member of that company, or
-- (b) for a transaction between—
-	- (i) a holding company and its wholly-owned subsidiary, or
-	- (ii) two wholly-owned subsidiaries of the same holding company.
-```
+> [!statute] s 192 - Exception for transactions with members or other group companies
+> 
+> Approval is not required under section 190 (requirement of members' approval for substantial property transactions)—
+> - (a) for a transaction between a company and a person in his character as a member of that company, or
+> - (b) for a transaction between—
+> 	- (i) a holding company and its wholly-owned subsidiary, or
+> 	- (ii) two wholly-owned subsidiaries of the same holding company.
 
 ### Definition of Group
 
-```ad-statute
-title: s 1159 CA 2006 - Meaning of “subsidiary” etc
-
-(1) A company is a “subsidiary” of another company, its “holding company”, if that other company—
-- (a) holds a majority of the voting rights in it, or
-- (b) is a member of it and has the right to appoint or remove a majority of its board of directors, or
-- (c) is a member of it and controls alone, pursuant to an agreement with other members, a majority of the voting rights in it,
-
-or if it is a subsidiary of a company that is itself a subsidiary of that other company.
-
-(2) A company is a “wholly-owned subsidiary” of another company if it has no members except that other and that other's wholly-owned subsidiaries or persons acting on behalf of that other or its wholly-owned subsidiaries.
-```
+> [!statute] s 1159 CA 2006 - Meaning of “subsidiary” etc
+> 
+> (1) A company is a “subsidiary” of another company, its “holding company”, if that other company—
+> - (a) holds a majority of the voting rights in it, or
+> - (b) is a member of it and has the right to appoint or remove a majority of its board of directors, or
+> - (c) is a member of it and controls alone, pursuant to an agreement with other members, a majority of the voting rights in it,
+> 
+> or if it is a subsidiary of a company that is itself a subsidiary of that other company.
+> 
+> (2) A company is a “wholly-owned subsidiary” of another company if it has no members except that other and that other's wholly-owned subsidiaries or persons acting on behalf of that other or its wholly-owned subsidiaries.
 
 Indirect holdings are taken into account, so this may include voting rights held through other subsidiaries, certain nominees and trustees.
 
@@ -440,9 +428,8 @@ Each company is a separate legal entity and should enter into an agreement for t
 
 A transfer may also be required in order to create a packaged unit for sale to an external third party. For example, the buyer may want to acquire a division, but the parties prefer the transaction to proceed as a share acquisition. Hive up/ hive down may be necessary.
 
-```ad-action
-If the intra-group transfer of assets is to be followed by a sale to an external third party, the third party buyer should investigate the terms of the intra-group transfer in case there are any latent tax liabilities or breaches of company law provisions.
-```
+> [!action]
+> If the intra-group transfer of assets is to be followed by a sale to an external third party, the third party buyer should investigate the terms of the intra-group transfer in case there are any latent tax liabilities or breaches of company law provisions.
 
 ### Documenting Transfer
 
@@ -528,9 +515,8 @@ s 154 of CTA 2010 is designed to prevent the artificial manipulation of group re
 
 A company will not be regarded as a member of the group if ‘**arrangements**’ are in existence for the transfer of that company to another group: relief is not available during any period when such arrangements are in force ([[Shepherd (Inspector of Taxes) v Law Land plc [1990] STC 795]]).
 
-```ad-question
-When is there an arrangement?
-```
+> [!question]
+> When is there an arrangement?
 
 1. Arrangements will not normally come into existence in the case of a straightforward sale of a company before the date of the acceptance (subject to contract or on a similar conditional basis) of the offer;
 2. where a disposal of shares requires approval of shareholders, no arrangement will come into existence until that approval has been given or the directors are aware that it will be given;
@@ -542,9 +528,8 @@ If capital assets are transferred within a defined group then the transfer will 
 
 Such a disposal is treated as being for such a consideration as not to give rise to either a capital gain or loss, i.e., the consideration is treated as being equal to the original acquisition cost of the asset.
 
-```ad-important
-If that asset is transferred out of that defined group, or the company that received that asset leaves the defined group within six years of receiving that asset, then a tax charge will arise.
-```
+> [!important]
+> If that asset is transferred out of that defined group, or the company that received that asset leaves the defined group within six years of receiving that asset, then a tax charge will arise.
 
 #### Definition of Group
 
@@ -555,14 +540,12 @@ Definition of a group for the purposes of transfer of capital assets – s 170 T
 - for a subsidiary to be an ‘effective 51% subsidiary’, the principal company must be beneficially entitled to more than 50% of any profits available (multiplying % entitlements) for distribution to equity holders of the subsidiary and more than 50% of any assets available for distribution to equity holders on a winding up;
 - a company which is a 75% subsidiary of another company cannot itself be a principal company unless it is prevented from being part of a group because it fails the ‘effective 51% subsidiary’ test.
 
-```ad-statute
-title: s 170(7) TCGA 1992
-For the purposes of this section and sections 171 to 181, a company (“the subsidiary”) is an effective 51 per cent. subsidiary of another company (“the parent”) at any time if and only if—
-
-- (a) the parent is beneficially entitled to more than 50 per cent. of any profits available for distribution to equity holders of the subsidiary; and
-
-- (b) the parent would be beneficially entitled to more than 50 per cent. of any assets of the subsidiary available for distribution to its equity holders on a winding-up.
-```
+> [!statute] s 170(7) TCGA 1992
+> For the purposes of this section and sections 171 to 181, a company (“the subsidiary”) is an effective 51 per cent. subsidiary of another company (“the parent”) at any time if and only if—
+> 
+> - (a) the parent is beneficially entitled to more than 50 per cent. of any profits available for distribution to equity holders of the subsidiary; and
+> 
+> - (b) the parent would be beneficially entitled to more than 50 per cent. of any assets of the subsidiary available for distribution to its equity holders on a winding-up.
 
 #### Degrouping Charge on Company Leaving Group
 
@@ -572,13 +555,11 @@ S 179 TCGA 1992 provides that, on leaving a group, a company is treated as if it
 
 Disposal and reacquisition is deemed to have taken place on the date the asset was last acquired intra-group.
 
-```ad-question
-title: Who bears the loss?
-- The departing company used to bear the degrouping gain/ loss. 
-- Finance Act 2011: different provisions now apply to degrouping charges which arise as a reult of a disposal of shares. 
-- Any degrouping gain or loss will accrue to the company making the share disposal (ie the **seller**) and will be taken into account as part of the proceeds of the share disposal,
-- The departing company will continue to be deemed to have made the aforementioned disposal and immediate reacquisition of the asset.
-```
+> [!question] Who bears the loss?
+> - The departing company used to bear the degrouping gain/ loss. 
+> - Finance Act 2011: different provisions now apply to degrouping charges which arise as a reult of a disposal of shares. 
+> - Any degrouping gain or loss will accrue to the company making the share disposal (ie the **seller**) and will be taken into account as part of the proceeds of the share disposal,
+> - The departing company will continue to be deemed to have made the aforementioned disposal and immediate reacquisition of the asset.
 
 - Degrouping gain
 	- The seller can apply its available reliefs and exemptions, most notably the substantial shareholding exemption if applicable.
@@ -614,9 +595,8 @@ ss 775-776 CTA 2009
 - Defined group basically the same as that for capital assets under s 170 TCGA 1992.
 - If the receiving company leaves the defined group it is subject to a degrouping charge.
 
-```ad-important
-Rather than arising at the start of the accounting period in which it leaves the group, as for a capital asset, the resulting degrouping charge arises immediately before the transferee leaves the group.
-```
+> [!important]
+> Rather than arising at the start of the accounting period in which it leaves the group, as for a capital asset, the resulting degrouping charge arises immediately before the transferee leaves the group.
 
 ### Stamp Duty and SDLT
 
@@ -848,17 +828,14 @@ Section 19 provides that a person must not carry on a regulated activity in the 
 
 s 22 FSMA 2000 sets out the definition of a regulated activity, which has been substantially amended by FSA 2012.
 
-```ad-test
-title: Is an activity regulated?
-Tests:
-1. Are you in business?
-2. Is there a specified activity?
-3. Is there a specified investment, or does the specified actifvitiy relate to information about a person's financial standing or administering a benchmark?
-```
+> [!test] Is an activity regulated?
+> Tests:
+> 1. Are you in business?
+> 2. Is there a specified activity?
+> 3. Is there a specified investment, or does the specified actifvitiy relate to information about a person's financial standing or administering a benchmark?
 
-```ad-note
-RAO 2001 is shorthand for Financial Services and Markets Act 2000 (Regulated Activities) Order 2001, SI 2001/544
-```
+> [!note]
+> RAO 2001 is shorthand for Financial Services and Markets Act 2000 (Regulated Activities) Order 2001, SI 2001/544
 
 - Particular activities and investments are specified by the Treasure in RAO 2001, s 22.
 - Information about a person's financial standing includes credit references and stuff

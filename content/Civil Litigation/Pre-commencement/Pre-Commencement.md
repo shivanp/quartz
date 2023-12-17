@@ -50,30 +50,28 @@ The aim was to simplify the legal system and cut costs. Further changes occurred
 
 A civil justice system that was just, fair and easily understood, as well as being reasonable in cost and timescales. Woolf thought it necessary to transfer control of litigation from the parties to the court. The court then imposes strict timetables, backed by a system of sanctions.
 
-```ad-statute
-title: r 1.1 CPR 1998
-(1) These Rules are a new procedural code with the overriding objective of enabling the court to deal with cases justly.
-
-(2) Dealing with a case justly includes, so far as is practicable—
-
-- (a) ensuring that the parties are on an equal footing;
-
-- (b) saving expense;
-
-- (c) dealing with the case in ways which are proportionate—
-
-	- (i) to the amount of money involved;
-	
-	- (ii) to the importance of the case;
-	
-	- (iii) to the complexity of the issues; and
-	
-	- (iv) to the financial position of each party;
-
-- (d) ensuring that it is dealt with expeditiously and fairly; and
-
-- (e) allotting to it an appropriate share of the court’s resources, while taking into account the need to allot resources to other cases.
-```
+> [!statute] r 1.1 CPR 1998
+> (1) These Rules are a new procedural code with the overriding objective of enabling the court to deal with cases justly.
+> 
+> (2) Dealing with a case justly includes, so far as is practicable—
+> 
+> - (a) ensuring that the parties are on an equal footing;
+> 
+> - (b) saving expense;
+> 
+> - (c) dealing with the case in ways which are proportionate—
+> 
+> 	- (i) to the amount of money involved;
+> 	
+> 	- (ii) to the importance of the case;
+> 	
+> 	- (iii) to the complexity of the issues; and
+> 	
+> 	- (iv) to the financial position of each party;
+> 
+> - (d) ensuring that it is dealt with expeditiously and fairly; and
+> 
+> - (e) allotting to it an appropriate share of the court’s resources, while taking into account the need to allot resources to other cases.
 
 ### Unequal Representation
 
@@ -89,29 +87,23 @@ In addition, note that in his Final Report, Lord Woolf suggested that:
 
 The overriding objective must be kept in mind at all times when conducting civil litigation by the court:
 
-```ad-statute
-title: r 1.2 CPR
-The court must seek to give effect to the overriding objective when it—
-- (a) exercises any power given to it by the Rules; or
-- (b) interprets any rule.
-```
+> [!statute] r 1.2 CPR
+> The court must seek to give effect to the overriding objective when it—
+> - (a) exercises any power given to it by the Rules; or
+> - (b) interprets any rule.
 
 and by the parties:
 
-```ad-statute
-title: r 1.3 CPR
-The parties are required to help the court to further the overriding objective. 
-```
+> [!statute] r 1.3 CPR
+> The parties are required to help the court to further the overriding objective. 
 
 #### Parties' Duty
 
 All other rules are designed to try to achieve the overriding objective. Observe that r 1.3 imposes a positive duty on solicitors and their clients to help the court further the overriding objective. This applies to dealings (including correspondence) between legal representatives as well as dealings with the court.
 
-```ad-question
-title: Does this mean a party to litigation owes a duty to the other party?
-No - [[Woodward v Phoenix Healthcare Distribution Ltd [2018] EWHC 2152 (Ch)]]. HHJ Hodge: 
-> In my judgment, the culture introduced by the CPR does not require a solicitor who has in no way contributed to a mistake on the part of his opponent, or his opponent’s solicitors, to draw attention to that mistake. That is, in my judgment, not required by CPR 1.3; and it does not amount to ‘technical game playing'.
-```
+> [!question] Does this mean a party to litigation owes a duty to the other party?
+> No - [[Woodward v Phoenix Healthcare Distribution Ltd [2018] EWHC 2152 (Ch)]]. HHJ Hodge: 
+> > In my judgment, the culture introduced by the CPR does not require a solicitor who has in no way contributed to a mistake on the part of his opponent, or his opponent’s solicitors, to draw attention to that mistake. That is, in my judgment, not required by CPR 1.3; and it does not amount to ‘technical game playing'.
 
 See also [[Hannigan v Hannigan [2000] 2 FCR 650]].
 
@@ -125,36 +117,34 @@ A solicitor is also bound by the standards of professional conduct set by the SR
 
 Under CPR 1998, the court has a duty to manage cases and will determine the pace of litigation. Governed by Rule 1.4
 
-```ad-statute
-title: r 1.4 CPR
-(1) The court must further the overriding objective by actively managing cases.
-
-(2) Active case management includes —
-
-- (a) encouraging the parties to co-operate with each other in the conduct of the proceedings;
-
-- (b) identifying the issues at an early stage;
-
-- (c) deciding promptly which issues need full investigation and trial and accordingly disposing summarily of the others;
-
-- (d) deciding the order in which issues are to be resolved;
-
-- (e) encouraging the parties to use an alternative dispute resolution(GL) procedure if the court considers that appropriate and facilitating the use of such procedure;
-
-- (f) helping the parties to settle the whole or part of the case;
-
-- (g) fixing timetables or otherwise controlling the progress of the case;
-
-- (h) considering whether the likely benefits of taking a particular step justify the cost of taking it;
-
-- (i) dealing with as many aspects of the case as it can on the same occasion;
-
-- (j) dealing with the case without the parties needing to attend at court;
-
-- (k) making use of technology; and
-
-- (l) giving directions to ensure that the trial of a case proceeds quickly and efficiently.
-```
+> [!statute] r 1.4 CPR
+> (1) The court must further the overriding objective by actively managing cases.
+> 
+> (2) Active case management includes —
+> 
+> - (a) encouraging the parties to co-operate with each other in the conduct of the proceedings;
+> 
+> - (b) identifying the issues at an early stage;
+> 
+> - (c) deciding promptly which issues need full investigation and trial and accordingly disposing summarily of the others;
+> 
+> - (d) deciding the order in which issues are to be resolved;
+> 
+> - (e) encouraging the parties to use an alternative dispute resolution(GL) procedure if the court considers that appropriate and facilitating the use of such procedure;
+> 
+> - (f) helping the parties to settle the whole or part of the case;
+> 
+> - (g) fixing timetables or otherwise controlling the progress of the case;
+> 
+> - (h) considering whether the likely benefits of taking a particular step justify the cost of taking it;
+> 
+> - (i) dealing with as many aspects of the case as it can on the same occasion;
+> 
+> - (j) dealing with the case without the parties needing to attend at court;
+> 
+> - (k) making use of technology; and
+> 
+> - (l) giving directions to ensure that the trial of a case proceeds quickly and efficiently.
 
 #### Vulnerable Parties or Witnesses
 
@@ -291,30 +281,25 @@ Parties may apply to the court for any specific orders that may be required.
 
 ### Causes of Action
 
-```ad-defn
-title: Cause of action
-A cause of action is the legal basis of a claim. e.g., breach of contract, negligence, negligenct misstatement, misrepresentation, nuisance... 
-```
+> [!defn] Cause of action
+> A cause of action is the legal basis of a claim. e.g., breach of contract, negligence, negligenct misstatement, misrepresentation, nuisance... 
 
-```ad-example
-title: Breach of contract
-To succeed in a claim for breach of contract, need to establish:
-- (a) contract (its formation – parties, date, written or oral, subject matter (goods, goods and
-- services/materials and work, services), consideration);
-- (b) terms relied on (express and/or implied);
-- (c) breach of those terms;
-- (d) factual consequences of the breach of those terms;
-- (e) damage and loss.
-```
+> [!example] Breach of contract
+> To succeed in a claim for breach of contract, need to establish:
+> - (a) contract (its formation – parties, date, written or oral, subject matter (goods, goods and
+> - services/materials and work, services), consideration);
+> - (b) terms relied on (express and/or implied);
+> - (c) breach of those terms;
+> - (d) factual consequences of the breach of those terms;
+> - (e) damage and loss.
 
 Often, solicitors record their analysis in a table. Continually review issues in dispute and how they will be proved.
 
-```ad-important
-Key case analysis points are:
-1. Viability
-2. Liability
-3. Quantum
-```
+> [!important]
+> Key case analysis points are:
+> 1. Viability
+> 2. Liability
+> 3. Quantum
 
 # First Interview Considerations
 
@@ -326,18 +311,15 @@ Solicitor needs to:
 - Explain issues and options
 - Agree next steps
 
-```ad-defn
-The scope of the work to be done for the client is formally known as the solicitor's "retainer".  
-```
+> [!defn]
+> The scope of the work to be done for the client is formally known as the solicitor's "retainer".  
 
 ## Professional Conduct
 
 ### Duty of Confidentiality
 
-```ad-statute
-title: Para 6.3 Code for Solicitors
-A solicitor is under a duty to maintain the confidentiality of their client's affairs except the client's prior authority is obtained to disclose particular information, or if the solicitor is required or permitted by law to do so. 
-```
+> [!statute] Para 6.3 Code for Solicitors
+> A solicitor is under a duty to maintain the confidentiality of their client's affairs except the client's prior authority is obtained to disclose particular information, or if the solicitor is required or permitted by law to do so. 
 
 If a solicitor holds confidential information on (former) client A, they should not risk breaching confidentiality by acting, or continuing to act, for another client (B) on a matter where:
 
@@ -350,10 +332,9 @@ See [[Professional Conduct and Regulation 1#Ch 12 LF Confidentiality]].
 
 A solicitor should not act for two or more clients where this would cause a conflict of interest.
 
-```ad-defn
-A conflict of interests exists if the
-solicitor owes separate duties to act in the best interests of two or more clients in relation to the same or related matters, and those duties conflict or there is a significant risk that those duties may conflict.
-```
+> [!defn]
+> A conflict of interests exists if the
+> solicitor owes separate duties to act in the best interests of two or more clients in relation to the same or related matters, and those duties conflict or there is a significant risk that those duties may conflict.
 
 See [[Professional Conduct and Regulation 1#Ch 13 LF Conflicts of Interest]].
 
@@ -361,10 +342,8 @@ See [[Professional Conduct and Regulation 1#Ch 13 LF Conflicts of Interest]].
 
 See [[Professional Conduct and Regulation 2#Ch 15 Money Laundering]].
 
-```ad-question
-title: A solicitor should ask: 
-Who is my client and am I authorised to act?
-```
+> [!question] A solicitor should ask:
+> Who is my client and am I authorised to act?
 
 ### Officer of Court
 
@@ -386,10 +365,8 @@ If you don't give clients regular cost information, can be bound by original cos
 
 The solicitor should explain the distinction between solicitor and client costs, and the costs that may be awarded between parties in litigation.
 
-```ad-statute
-title: r 44.2(2)(a) CPR 1998
-As a general rule the unsuccessful party in litigation will be ordered to pay the costs of the successful party.
-```
+> [!statute] r 44.2(2)(a) CPR 1998
+> As a general rule the unsuccessful party in litigation will be ordered to pay the costs of the successful party.
 
 If a client wins the case, they will still have to pay their own solicitor's costs, and then they will receive their costs from the opponent. But it is normal for the costs awarded to be less than the actual legal cost paid.
 
@@ -397,10 +374,8 @@ Even if successful, the court has the power to reduce costs to reflect any unrea
 
 ### Contingency Fee Arrangements
 
-```ad-defn
-title: Contingency fee arrangement
-The client only pays a fee if they are successful.
-```
+> [!defn] Contingency fee arrangement
+> The client only pays a fee if they are successful.
 
 These used to be completely illegal – solicitors could only charge clients on a time basis. Currently, only two types are legal:
 
@@ -409,10 +384,8 @@ These used to be completely illegal – solicitors could only charge clients on 
 
 ### Conditional Fee Arrangements
 
-```ad-defn
-title: Conditional fee arrangement (CFA)
-‘An agreement with a person providing advocacy or litigation services which provides for his fees and expenses, or any part of them, to be payable only in specified circumstances’ - s 58(2)(a) of the Courts and Legal Services Act 1990 (CLSA 1990)
-```
+> [!defn] Conditional fee arrangement (CFA)
+> ‘An agreement with a person providing advocacy or litigation services which provides for his fees and expenses, or any part of them, to be payable only in specified circumstances’ - s 58(2)(a) of the Courts and Legal Services Act 1990 (CLSA 1990)
 
 (Circumstances are winning the case).
 
@@ -440,16 +413,14 @@ If the opponent is ordered to pay costs, these cannot include the success fee, w
 
 The solicitor is taking a risk here, so they should perform a thorough risk assessment (likely damages, chances of client succeeding, likely time taken etc.). This might take time and research, and the success fee should not be set arbitrarily.
 
-```ad-question
-title: Can you accept a client suggested success fee which is exorbitant?
-No:
-- principle 2 - upholding public trust and confidence, 
-- principle 4 - acting with honesty, 
-- principle 5 - acting with integrity, 
-- principle 6 - acting in best interests of client,
-- para 1.2 - solicitor must not abuse their position by taking unfair advantage of the client, 
-- para 8.7 - ensuring clients receive the best possible information about how their matter will be priced.
-```
+> [!question] Can you accept a client suggested success fee which is exorbitant?
+> No:
+> - principle 2 - upholding public trust and confidence, 
+> - principle 4 - acting with honesty, 
+> - principle 5 - acting with integrity, 
+> - principle 6 - acting in best interests of client,
+> - para 1.2 - solicitor must not abuse their position by taking unfair advantage of the client, 
+> - para 8.7 - ensuring clients receive the best possible information about how their matter will be priced.
 
 #### Liability for Costs
 
@@ -461,12 +432,10 @@ Can mitigate by purchasing after-the-event insurance (AEI). The solicitor should
 
 Key statute:
 
-```ad-statute
-title: s 58AA(3)(a) CLSA 1990
-An agreement between a person providing advocacy services, litigation services or claims management services and the recipient of those services which provides that—
-- (i) the recipient is to make a payment to the person providing the services if the recipient obtains a specified financial benefit in connection with the matter in relation to which the services are provided, and
-- (ii) the amount of that payment is to be determined by reference to the amount of the financial benefit obtained.
-```
+> [!statute] s 58AA(3)(a) CLSA 1990
+> An agreement between a person providing advocacy services, litigation services or claims management services and the recipient of those services which provides that—
+> - (i) the recipient is to make a payment to the person providing the services if the recipient obtains a specified financial benefit in connection with the matter in relation to which the services are provided, and
+> - (ii) the amount of that payment is to be determined by reference to the amount of the financial benefit obtained.
 
 It means that if the client receives damages, the solicitor's fee is an agreed percentage of those damages.
 
@@ -494,14 +463,11 @@ The terms and conditions of a DBA must specify:
 - (ii) the circumstances in which the representative’s payment, expenses and costs, or part of them, are payable; and
 - (iii) the reason for setting the amount of the payment at the level agreed.
 
-```ad-question
-title: Is a DBA valid if it contains a clause which provides that the client must pay the solicitors’ normal fees and disbursements if they terminate the retainer prematurely?
-Yes, see [[Zuberi v Lexlaw Ltd [2021] EWCA Civ 16]]. The case is also authority for the use of so-called ‘hybrid DBAs’. For example, a law firm may receive concurrent funding via both a DBA and some other form of retainer; this might consist of the DBA in the event of the claim’s success and discounted hourly rate fees in the event of the claim’s failure. Alternatively, a DBA might comprise one or other of the methods of funding for different stages of the legal proceedings.
-```
+> [!question] Is a DBA valid if it contains a clause which provides that the client must pay the solicitors’ normal fees and disbursements if they terminate the retainer prematurely?
+> Yes, see [[Zuberi v Lexlaw Ltd [2021] EWCA Civ 16]]. The case is also authority for the use of so-called ‘hybrid DBAs’. For example, a law firm may receive concurrent funding via both a DBA and some other form of retainer; this might consist of the DBA in the event of the claim’s success and discounted hourly rate fees in the event of the claim’s failure. Alternatively, a DBA might comprise one or other of the methods of funding for different stages of the legal proceedings.
 
-```ad-warning
-Slightly different provisions for the DBA for personal injury claims/ employment matters.
-```
+> [!warning]
+> Slightly different provisions for the DBA for personal injury claims/ employment matters.
 
 #### Insurance
 
@@ -545,12 +511,10 @@ Recall the need to assess viability, liability, and quantum.
 
 A solicitor must ascertain when the limitation period began and when it will expire. Continually review this.
 
-```ad-question
-title: What if claim forms are sent to the court very close to the expiration date?
-Per [[St Helens Metropolitan BC v Barnes [2006] EWCA Civ 1372]], 
-> Proceedings are started when the court issues a claim form at the request of the claimant (see rule 7.2) but where the claim form as issued was received in the court office on a date earlier than the date on which it was issued by the court, the claim is ‘brought’ for the purposes of the Limitation Act 1980 and
-> any other relevant statute on that earlier date.
-```
+> [!question] What if claim forms are sent to the court very close to the expiration date?
+> Per [[St Helens Metropolitan BC v Barnes [2006] EWCA Civ 1372]], 
+> > Proceedings are started when the court issues a claim form at the request of the claimant (see rule 7.2) but where the claim form as issued was received in the court office on a date earlier than the date on which it was issued by the court, the claim is ‘brought’ for the purposes of the Limitation Act 1980 and
+> > any other relevant statute on that earlier date.
 
 The Limitation Act 1980 (LA 1980) (as amended) prescribes fixed periods of time for issuing
 
@@ -576,9 +540,8 @@ Additionally, there is a long-stop limitation period of 15 years from the date o
 
 ### Person Under Disability
 
-```ad-defn
-Either a child (under 18) or a protected party (a person of unsound mind under the meaning of the Mental Capacity Act 2005 who is incapable of managing and administering their property and affairs).
-```
+> [!defn]
+> Either a child (under 18) or a protected party (a person of unsound mind under the meaning of the Mental Capacity Act 2005 who is incapable of managing and administering their property and affairs).
 
 When the claimant is a person under disability when a right of action accrues, the limitation
 
@@ -598,10 +561,8 @@ Check if any limitation period is specified in the contract.
 
 Different remedies available – remember contract law. The most common one is damages.
 
-```ad-defn
-title: Quantum
-How much D will pay to V if liability is proved (or vice versa if not).
-```
+> [!defn] Quantum
+> How much D will pay to V if liability is proved (or vice versa if not).
 
 ### Damages
 
@@ -629,9 +590,8 @@ the court observed that this duty means looking at what the claimant
 
 A debt action is a particular type of contract claim. The claimant is claiming a sum which D promised to pay under the contract. Note that in debt actions, V has no duty to mitigate their loss.
 
-```ad-example
-If the buyer takes delivery for goods but fails to pay, the action is for debt.
-```
+> [!example]
+> If the buyer takes delivery for goods but fails to pay, the action is for debt.
 
 ### Quantum
 
@@ -643,24 +603,22 @@ Think about the evidence you have to prove the loss. Figures or estimates?
 
 Viability of a claim depends on a number of questions.
 
-```ad-note
-title: Considerations
-- Who is the prospective defendant?
-- Is there more than one possible defendant?
-- Where is the defendant?
-- Is the defendant solvent?
-- Where are the defendant’s assets?
-- What are those assets worth?
-- Will the defendant be able to pay any judgment?
-- What can the client afford to pay?
-- Does the client have any suitable BEI?
-- Is the case suitable for a CFA or DBA and/or AEI cover?
-- Does the client qualify for public funding or require third-party funding?
-- How much time and resources will the client have to commit to investigate and deal
-with the case?
-- Does a cost–benefit analysis suggest the desirability of a quicker and cheaper solution
-than litigation can offer?
-```
+> [!note] Considerations
+> - Who is the prospective defendant?
+> - Is there more than one possible defendant?
+> - Where is the defendant?
+> - Is the defendant solvent?
+> - Where are the defendant’s assets?
+> - What are those assets worth?
+> - Will the defendant be able to pay any judgment?
+> - What can the client afford to pay?
+> - Does the client have any suitable BEI?
+> - Is the case suitable for a CFA or DBA and/or AEI cover?
+> - Does the client qualify for public funding or require third-party funding?
+> - How much time and resources will the client have to commit to investigate and deal
+> with the case?
+> - Does a cost–benefit analysis suggest the desirability of a quicker and cheaper solution
+> than litigation can offer?
 
 ### Defendants and Status
 
@@ -762,10 +720,8 @@ In [[Tate & Lyle Food and Distribution Ltd v Greater London Council [1982] 1 WLR
 
 > One looks, therefore, not at the profit which the defendant wrongly made out of the money he withheld – this would indeed involve a scrutiny of the defendant’s financial position – but at the cost to the [claimant] of being deprived of the money which he should have had. I feel satisfied that in commercial cases, the interest is intended to reflect the rate at which the [claimant] would have had to borrow money to supply the place of that which was withheld.
 
-```ad-defn
-title: Commercial case
-Generally, one where all parties are in business and the claim is based on the transaction of trade and commerce. 
-```
+> [!defn] Commercial case
+> Generally, one where all parties are in business and the claim is based on the transaction of trade and commerce. 
 
 In non-commercial cases, the courts award interest at their discretion under s 35A of the SCA 1981 or s 69 of the CCA 1984 at 8% pa. Traditionally, in commercial cases, the award of interest has been at 1% or 2% over base rate. However, in J[[aura v Ahmed [2002] EWCA Civ 210]], the Court of Appeal held that it is permissible for a judge to depart from this conventional rate if it is necessary to reflect the higher rate at which the claimant had to borrow, e.g., if the claimant was a small businessperson who could only borrow from a bank at 3% pa over base rate.
 
@@ -794,10 +750,8 @@ In international cases, consider:
 
 ### Arbitration
 
-```ad-defn
-title: Arbitration
-Adjudication operating outside the normal court process, by which a third party reaches a decision binding on the parties in dispute. 
-```
+> [!defn] Arbitration
+> Adjudication operating outside the normal court process, by which a third party reaches a decision binding on the parties in dispute. 
 
 Many business contracts specify using arbitration rather than litigation.
 
@@ -809,9 +763,8 @@ Advantages:
 - Often more practical than the solutions a court has power to order
 - Decisions binding on parties.
 
-```ad-important
-The winning party to an arbitration can apply to the High Court for permission to enforce the arbitration award as if it were a court judgment (Arbitration Act 1996, s 66).
-```
+> [!important]
+> The winning party to an arbitration can apply to the High Court for permission to enforce the arbitration award as if it were a court judgment (Arbitration Act 1996, s 66).
 
 Disadvantages:
 
@@ -823,20 +776,16 @@ Disadvantages:
 
 Independent third parties helps parties reach a solution. The third party will often suggest a solution to the parties but not impose one (known as ‘non-determinative ADR’). But sometimes the third party will impose a solution (known as ‘determinative ADR’). The decision to use ADR is voluntary; the parties choose the process and either of them can withdraw at any time before a settlement is reached.
 
-```ad-example
-title: ADR examples
-- mediation
-- expert appraisal
-- expert determination
-```
+> [!example] ADR examples
+> - mediation
+> - expert appraisal
+> - expert determination
 
 Under the CPR 1998, the courts actively encourage parties to use some form of ADR.
 
-```ad-question
-title: Can a court order that parties must use an ADR method?
-
-No, held the Court of Appeal in [[Halsey v Milton Keynes General NHS Trust [2004] EWCA Civ 576]]. 
-```
+> [!question] Can a court order that parties must use an ADR method?
+> 
+> No, held the Court of Appeal in [[Halsey v Milton Keynes General NHS Trust [2004] EWCA Civ 576]]. 
 
 Distinguish this from Early Neutral Evaluation, which the court can order parties to engage with since it is part of the court process (unlike mediation etc.).
 
@@ -946,10 +895,8 @@ Expert must:
 
 Clear expert's fees with the clients.
 
-```ad-question
-title: Can an expert be instructed on a conditional or contingency fee basis?
-No - para 88 Guidance for the Instruction of Experts in Civil Claims. Incompatible with an expert's duty of independence and impartiality. 
-```
+> [!question] Can an expert be instructed on a conditional or contingency fee basis?
+> No - para 88 Guidance for the Instruction of Experts in Civil Claims. Incompatible with an expert's duty of independence and impartiality. 
 
 The use of expert evidence during proceedings requires permission from the court. So the fee paid to the expert may not be recoverable from the opponent even if the client is successful in litigation.
 
@@ -961,10 +908,8 @@ Check the report for errors. Send to the client to do the same. Be open to retur
 
 An expert can give opinion evidence (while an ordinary witness cannot).
 
-```ad-statute
-title: Section 3(1) Civil Evidence Act 1972
-Where a person is called as a witness in any civil proceedings, his opinion on any relevant matter on which he is qualified to give expert evidence shall be admissible in evidence.
-```
+> [!statute] Section 3(1) Civil Evidence Act 1972
+> Where a person is called as a witness in any civil proceedings, his opinion on any relevant matter on which he is qualified to give expert evidence shall be admissible in evidence.
 
 ### Restriction on Use of Expert Evidence
 
@@ -984,10 +929,8 @@ May be needed for the purpose of taking photographs or making plans. Though unli
 
 It is not necessary to instruct a barrister in every case.
 
-```ad-bug
-title:
-As a highly trained lawyer, the solicitor should have confidence in their own knowledge and ability!!
-```
+> [!bug]
+> As a highly trained lawyer, the solicitor should have confidence in their own knowledge and ability!!
 
 Judicious use of counsel is sensible. If issues are difficult, sensible to instruct counsel to advise on liability. Counsel's opinion on quantum may b needed at an early stage if the case is not straightforward.
 
@@ -1011,10 +954,8 @@ for example, [[Percy v Merriman White [2021] EWHC 22 (Ch)]]).
 
 ## Pre-action Protocols
 
-```ad-example
-title: Protocols
-There are approved protocols for debt claims, personal injury, clinical disputes, construction and engineering, judicial review, media and communications, disease and illness, package travel claims, possession claims by social landlords, possession claims for mortgage arrears, housing condition cases (England); Housing Disrepair Cases (Wales), low value personal injury claims in road traffic accidents, personal injury claims below the small claims limit in road traffic accidents, dilapidations (commercial property), low value employers’ and public liability claims, and professional negligence claims.
-```
+> [!example] Protocols
+> There are approved protocols for debt claims, personal injury, clinical disputes, construction and engineering, judicial review, media and communications, disease and illness, package travel claims, possession claims by social landlords, possession claims for mortgage arrears, housing condition cases (England); Housing Disrepair Cases (Wales), low value personal injury claims in road traffic accidents, personal injury claims below the small claims limit in road traffic accidents, dilapidations (commercial property), low value employers’ and public liability claims, and professional negligence claims.
 
 ### Aims
 
@@ -1030,16 +971,14 @@ The main aim is efficiency! More specifically,
 
 The Practice Direction and protocols deal with matters such as notification to the defendant of a possible claim as soon as possible, the form of the letter before claim, disclosure of documents and the instruction of experts, where relevant.
 
-```ad-statute
-title: Para 3 Practice Direction
-Before commencing proceedings, the court will expect parties to have exchanged sufficient information to:
-- (a) understand each other’s position;
-- (b) make decisions about how to proceed;
-- (c) try to settle the issues without proceedings;
-- (d) consider a form of Alternative Dispute Resolution (ADR) to assist with settlement;
-- (e) support the efficient management of those proceedings; and
-- (f) reduce the costs of resolving the dispute.
-```
+> [!statute] Para 3 Practice Direction
+> Before commencing proceedings, the court will expect parties to have exchanged sufficient information to:
+> - (a) understand each other’s position;
+> - (b) make decisions about how to proceed;
+> - (c) try to settle the issues without proceedings;
+> - (d) consider a form of Alternative Dispute Resolution (ADR) to assist with settlement;
+> - (e) support the efficient management of those proceedings; and
+> - (f) reduce the costs of resolving the dispute.
 
 Para 8 of the Practice Direction states that the parties should consider whether some form of ADR procedure would enable them to settle their dispute without commencing proceedings. The courts take the view that litigation should be a last resort, and that claims should not be issued prematurely when a settlement is still actively being explored. Parties are warned that if this provision is not followed, then the court must have regard to such conduct when determining costs.
 
@@ -1061,9 +1000,8 @@ The court should aim to place the innocent party in no worse a position than the
 
 Where the solicitor is satisfied that the client has a valid claim, they should advise the client and obtain instructions to send a letter to the prospective defendant setting out full details of the claim. This is called a ‘letter before claim’.
 
-```ad-note
-Called a "letter of claim" in professional negligence pre-action protocols and a "letter before claim" in PD of pre-action conduct. 
-```
+> [!note]
+> Called a "letter of claim" in professional negligence pre-action protocols and a "letter before claim" in PD of pre-action conduct. 
 
 ### Professional Conduct
 
@@ -1074,18 +1012,16 @@ The letter is normally addressed to the potential defendant in person, or to the
 The Practice Direction provides at para 6(a) that the claimant’s letter before claim should give  
 concise details about the matter.
 
-```ad-example
-title: Suggested to include
-1. state the claimant’s full name and address;
-2. state the basis on which the claim is made (ie why the claimant says the defendant is liable);
-3. provide a clear summary of the facts on which the claim is based;
-4. state what the claimant wants from the defendant;
-5. if financial loss is claimed, provide an explanation of how the amount has been calculated;
-6. list the essential documents on which the claimant intends to rely;
-7. set out the form of ADR (if any) that the claimant considers the most suitable and invite the defendant to agree to this;
-8. state the date by which the claimant considers it reasonable for a full response to be provided by the defendant; and
-9. identify and ask for copies of any relevant documents not in the claimant’s possession and which the claimant wishes to see.
-```
+> [!example] Suggested to include
+> 1. state the claimant’s full name and address;
+> 2. state the basis on which the claim is made (ie why the claimant says the defendant is liable);
+> 3. provide a clear summary of the facts on which the claim is based;
+> 4. state what the claimant wants from the defendant;
+> 5. if financial loss is claimed, provide an explanation of how the amount has been calculated;
+> 6. list the essential documents on which the claimant intends to rely;
+> 7. set out the form of ADR (if any) that the claimant considers the most suitable and invite the defendant to agree to this;
+> 8. state the date by which the claimant considers it reasonable for a full response to be provided by the defendant; and
+> 9. identify and ask for copies of any relevant documents not in the claimant’s possession and which the claimant wishes to see.
 
 Straightforward claim: give 14 days for acknowledgement of receipt and/ or full response. For more tricky stuff involving insurers, give a month or even three.
 
@@ -1166,9 +1102,8 @@ The court must consider the circumstances of the communications from an objectiv
 
 Once a settlement is concluded, any ‘without prejudice’ correspondence can be produced in court to show the terms agreed between the parties. This might be necessary if, for example, a dispute arose as to enforcement of an agreed settlement or the true terms of the agreement reached (see [[Oceanbulk Shipping & Trading SA v TMT Asia Ltd [2010] UKSC 44]]).
 
-```ad-note
-If a party wishes to reserve the right to draw the trial judge’s attention to a without prejudice offer to settle a case on the question of costs, they should mark the offer ‘without prejudice save as to costs’
-```
+> [!note]
+> If a party wishes to reserve the right to draw the trial judge’s attention to a without prejudice offer to settle a case on the question of costs, they should mark the offer ‘without prejudice save as to costs’
 
 A without prejudice or without prejudice save as to costs offer of settlement that has no time limit for acceptance can be accepted even after the trial has started; such an offer does not lapse at the commencement of the hearing (see [[MEF (A Protected Party, by his Mother and Litigation Friend, FEM) v St George's Healthcare NHS Trust [2020] EWHC 1300 (QB)]]).
 
@@ -1229,10 +1164,8 @@ Strictly speaking, negotiation is a form of ADR. It is both voluntary and non-bi
 
 The CPR 1998 specifically recognise the advantages of ADR.
 
-```ad-statute
-title: Rule 1.4(2)(e)
-The court may further the overriding objective of dealing with cases justly by encouraging the parties to use an alternative dispute resolution procedure if the court considers that appropriate and facilitating the use of such procedure.
-```
+> [!statute] Rule 1.4(2)(e)
+> The court may further the overriding objective of dealing with cases justly by encouraging the parties to use an alternative dispute resolution procedure if the court considers that appropriate and facilitating the use of such procedure.
 
 Arbitration and ADR procedures are confidential. Nothing said can be referred to in any later court proceedings unless all parties agree to waive confidentiality.
 
@@ -1330,15 +1263,11 @@ Allows the parties to instruct their chosen neutral to make a preliminary assess
 
 submit written case summaries and supporting documents. The evaluator then makes a recommendation. This very often helps the parties to negotiate a settlement (or move to another ADR method), avoiding the expense of litigation.
 
-```ad-statute
-title: Rule 3.1(2)(m) CPR 1998
-The court may take any step or make any order for the purpose of managing the case and furthering the overriding objective, including hearing an early neutral evaluation (ENE) with the aim of helping the parties to settle the case.
-```
+> [!statute] Rule 3.1(2)(m) CPR 1998
+> The court may take any step or make any order for the purpose of managing the case and furthering the overriding objective, including hearing an early neutral evaluation (ENE) with the aim of helping the parties to settle the case.
 
-```ad-question
-title: Can the court order that a judicial appraisal take place by way of ENE against the wishes of the parties?
-Yes, see [[Lomax v Lomax [2019] EWCA Civ 1467]], because it is part of the court process which can assist with the fair and sensible resolution of a case.
-```
+> [!question] Can the court order that a judicial appraisal take place by way of ENE against the wishes of the parties?
+> Yes, see [[Lomax v Lomax [2019] EWCA Civ 1467]], because it is part of the court process which can assist with the fair and sensible resolution of a case.
 
 The outcome of Judicial ENE is normally 'without prejudice' unless privilege is mutually waived, and is not normally binding unless the parties agree.
 

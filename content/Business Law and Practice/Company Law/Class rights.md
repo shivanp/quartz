@@ -68,16 +68,15 @@ May be converted to a different type of share in the issuing company, according 
 
 Employees' share schemes can have tax advantages. Usually ordinary shares with extra restrictions (e.g., on transfer).
 
-```ad-example
-
-**PGDL Limited** has **participating preference shares** in issue which carry a right to receive a fixed preferential dividend of 5% of the par value of the shares per annum. The shares have a par value of £1 each.
-
-Assuming that a dividend has been declared, the preference shareholders would be entitled to receive a dividend of 5p per share per annum before the ordinary shareholders receive any dividend. They would then also be entitled to a fraction of the remaining general dividend alongside the ordinary shareholders.
-
-**SQE Limited** has **non-participating preference shares** in issue which carry a right to receive a fixed preferential dividend of 5% of the total subscription price per share per annum. The shares have a par value of £1 each but were subscribed for at a price of £2 per share.
-
-Assuming that a dividend has been declared, the preference shareholders would be entitled to receive a dividend of 10p per share per annum before the ordinary shareholders receive any dividend. They would not be entitled to any further dividend.
-```
+> [!example]
+> 
+> **PGDL Limited** has **participating preference shares** in issue which carry a right to receive a fixed preferential dividend of 5% of the par value of the shares per annum. The shares have a par value of £1 each.
+> 
+> Assuming that a dividend has been declared, the preference shareholders would be entitled to receive a dividend of 5p per share per annum before the ordinary shareholders receive any dividend. They would then also be entitled to a fraction of the remaining general dividend alongside the ordinary shareholders.
+> 
+> **SQE Limited** has **non-participating preference shares** in issue which carry a right to receive a fixed preferential dividend of 5% of the total subscription price per share per annum. The shares have a par value of £1 each but were subscribed for at a price of £2 per share.
+> 
+> Assuming that a dividend has been declared, the preference shareholders would be entitled to receive a dividend of 10p per share per annum before the ordinary shareholders receive any dividend. They would not be entitled to any further dividend.
 
 ## Variation of Class Rights
 

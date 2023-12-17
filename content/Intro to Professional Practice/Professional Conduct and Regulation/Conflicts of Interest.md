@@ -20,18 +20,14 @@ A solicitor can **never** act where there is a conflict between themselves and a
 
 ## Conflict Between Clients
 
-```ad-defn
-title: Conflict of interest
-A situation where the solicitor's or firm's separate duties to act in the best interests of two or more clients conflict (SRA glossary).
-```
+> [!defn] Conflict of interest
+> A situation where the solicitor's or firm's separate duties to act in the best interests of two or more clients conflict (SRA glossary).
 
-```ad-statute
-title: Para 6.2, Code of Conduct
-
-A solicitor or firm must not act in relation to a matter or particular aspect of it if there is a conflict of interest or a significant risk of such a conflict unless:
-a) The clients have a substantially common interest in relation to the matter or aspect of it; or
-b) The clients are competing for the same objective.
-```
+> [!statute] Para 6.2, Code of Conduct
+> 
+> A solicitor or firm must not act in relation to a matter or particular aspect of it if there is a conflict of interest or a significant risk of such a conflict unless:
+> a) The clients have a substantially common interest in relation to the matter or aspect of it; or
+> b) The clients are competing for the same objective.
 
 ### Former Clients
 
@@ -53,19 +49,15 @@ The exceptions were introduced by the Law Society following a period of lobbying
 
 Where there is a conflict or a significant risk of one, a solicitor or firm can still act where the clients have a substantially common interest in relation to the matter.
 
-```ad-defn
-title: Substantially common interest
-A situation where there is a clear common purpose between the clients and a strong consensus as to how it is to be achieved. 
-```
+> [!defn] Substantially common interest
+> A situation where there is a clear common purpose between the clients and a strong consensus as to how it is to be achieved. 
 
 e.g., this exception may be used where a solicitor is instructed by a group of people who want to set up a company.
 
 ### Competing for the Same Interest ('commercial') Exception
 
-```ad-defn
-title: Competing for the same interest
-Two or more clients competing for an objective which, if attained by one client, will make the objective unattainable to the other client/ clients. 
-```
+> [!defn] Competing for the same interest
+> Two or more clients competing for an objective which, if attained by one client, will make the objective unattainable to the other client/ clients. 
 
 Here, an objective is an asset, contract or business opportunity which clients are seeking to acquire or recover through liquidation or by means of an auction or tender process, but not a public takeover.
 
@@ -97,10 +89,8 @@ A solicitor may not make a secret profit while acting for the client.
 
 ### Systems for Identifying Conflict
 
-```ad-statute
-title: Code of Conduct for Firms para 2.1(a)
-Firms must have effective systems and controls in place to ensure they comply with all the SRA's regulatory requirements. 
-```
+> [!statute] Code of Conduct for Firms para 2.1(a)
+> Firms must have effective systems and controls in place to ensure they comply with all the SRA's regulatory requirements. 
 
 To identify 'own interest' conflicts, the firm should assess all relevant circumstances, including whether the solicitor's ability as an individual, or that of anyone within the firm, to act in the best interests of the client is impaired by:
 

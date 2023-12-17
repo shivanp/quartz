@@ -48,9 +48,8 @@ When an exempt supply is made, any input tax incurred in connection with that su
 
 Notification of the option to HMRC is necessary for it to be effective.
 
-```ad-note
-If the option to tax is exercised, tax is chargeable at standard rate. 
-```
+> [!note]
+> If the option to tax is exercised, tax is chargeable at standard rate. 
 
 ### Residential Properties
 
@@ -97,15 +96,14 @@ If VAT is chargeable in a property transaction, it is necessary to ensure that t
 
 Seller has the option to tax. If the option to tax is exercised, see above for impact of standard conditions.
 
-```ad-action
-The buyer should be warned of the dangers of the seller opting to tax prior to completion in respect of an old commercial building. Consider:
-1. Incorporating condition A1 in Part 2 of SCPCs.
-	-  Provides that the sale does not constitute a supply for VAT purposes and the seller will not opt to tax. 
-	- Exception: A1.3: if there is a change in law between exchange and completion that makes the sale of the property a VATable supply, the buyer will have to pay VAT. 
-2. Incorporating a special condition that disapplies SCPC 2 and provides that the purchase price is inclusive of VAT. 
-	- Eliminates the risk of the exception above
-	- But seller may not agree. 
-```
+> [!action]
+> The buyer should be warned of the dangers of the seller opting to tax prior to completion in respect of an old commercial building. Consider:
+> 1. Incorporating condition A1 in Part 2 of SCPCs.
+> 	-  Provides that the sale does not constitute a supply for VAT purposes and the seller will not opt to tax. 
+> 	- Exception: A1.3: if there is a change in law between exchange and completion that makes the sale of the property a VATable supply, the buyer will have to pay VAT. 
+> 2. Incorporating a special condition that disapplies SCPC 2 and provides that the purchase price is inclusive of VAT. 
+> 	- Eliminates the risk of the exception above
+> 	- But seller may not agree. 
 
 #### Commercial Lease
 

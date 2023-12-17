@@ -39,14 +39,12 @@ Recall that under fraudulent trading, a claim could be brought against any perso
 
 ## Requirements for Liability
 
-```ad-tip
-title:Wrongful Trading (s 214(2)/246ZB(2))
-
-For a director to be liable for wrongful trading, the court must be satisfied that the company has gone into insolvent [[Liquidation]] or insolvent administration, and 
-1. At some time before the commencement of the winding up or insolvent administration (for convenience, that time is referred to as the ‘point of no return’)
-2. The director knew or ought to have concluded that
-3. There was no reasonable prospect that the company would avoid going into insolvent [[liquidation]] (or insolvent administration).
-```
+> [!tip] Wrongful Trading (s 214(2)/246ZB(2))
+> 
+> For a director to be liable for wrongful trading, the court must be satisfied that the company has gone into insolvent [[Liquidation]] or insolvent administration, and 
+> 1. At some time before the commencement of the winding up or insolvent administration (for convenience, that time is referred to as the ‘point of no return’)
+> 2. The director knew or ought to have concluded that
+> 3. There was no reasonable prospect that the company would avoid going into insolvent [[liquidation]] (or insolvent administration).
 
 For these purposes, a company goes into insolvent liquidation/ administration at a time when its assets are insufficient for the payment of its debts and other liabilities, and the expenses of the winding up/ administration (s 214(6) / 246ZB(6)).
 

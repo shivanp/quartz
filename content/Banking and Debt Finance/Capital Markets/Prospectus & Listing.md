@@ -51,9 +51,8 @@ The ISM was introduced 5 years ago to try to stop people listing bonds in Irelan
 
 ## Approved Prospectus
 
-```ad-tip
-A prospectus approved by the UKLA is essentially required (as a prerequisite) if a bond issue is to be offered to the public or admitted to trading on the Main Market.
-```
+> [!tip]
+> A prospectus approved by the UKLA is essentially required (as a prerequisite) if a bond issue is to be offered to the public or admitted to trading on the Main Market.
 
 Following the UK’s exit from the EU, passporting (or “mutual recognition”) of prospectuses is no longer possible.
 
@@ -99,9 +98,8 @@ The information may vary depending on:
 - The circumstances of the issuer.
 - In respect of non-equity securities, whether or not the securities have a denomination per unit of at least EUR100,000 or are to be traded only on a regulated market, or specific segment thereof, to which only qualified investors have access for the purpose of trading those securities.
 
-```ad-tip
-The level of detail required in a prospectus will depend on whether it is a ‘retail’ (ie ‘nonexempt’) or ‘wholesale’ (ie ‘exempt’) offer. The ‘wholesale’ regime requires less detailed disclosure, but applies only if the securities are denominated at or above €100,000.
-```
+> [!tip]
+> The level of detail required in a prospectus will depend on whether it is a ‘retail’ (ie ‘nonexempt’) or ‘wholesale’ (ie ‘exempt’) offer. The ‘wholesale’ regime requires less detailed disclosure, but applies only if the securities are denominated at or above €100,000.
 
 ### Prospectus Format
 

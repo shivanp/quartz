@@ -10,9 +10,8 @@ title: Easements
 
 ## Introduction
 
-```ad-defn
-An easement is a proprietary right to use land which belongs to somebody else. The use is more limited than an exclusive right to occupy or use.
-```
+> [!defn]
+> An easement is a proprietary right to use land which belongs to somebody else. The use is more limited than an exclusive right to occupy or use.
 
 The person who receives the benefit of the easement is the grantee and their land, which is benefitted by the easement, is the *dominant tenement*.
 
@@ -22,33 +21,28 @@ The person who grants the easement land is the grantor and their land, which is 
 
 An easement is capable of being a legal interest in land if it fulfils the requirements as to duration.
 
-```ad-statute
-title: LPA 1925, s 1(2)(a)
+> [!statute] LPA 1925, s 1(2)(a)
+> 
+> ‘An easement…for an estate equivalent to an estate in fee simple absolute in possession or a term of years absolute’.
 
-‘An easement…for an estate equivalent to an estate in fee simple absolute in possession or a term of years absolute’.
-```
-
-```ad-example
-A right of way granted when part of freehold land is sold will be granted forever. A right of drainage granted in a five-year lease will be granted for the term of that lease.
-```
+> [!example]
+> A right of way granted when part of freehold land is sold will be granted forever. A right of drainage granted in a five-year lease will be granted for the term of that lease.
 
 ## Equitable Easements
 
 If an easement is **not** granted for the equivalent of a freehold or leasehold estate, it can only be equitable.
 
-```ad-example
-A right to park which is granted ‘until the alternative parking facility is completed’ can only be equitable as it is not granted forever or for a set/certain period of time.
-```
+> [!example]
+> A right to park which is granted ‘until the alternative parking facility is completed’ can only be equitable as it is not granted forever or for a set/certain period of time.
 
 ### Positive Easements
 
 The overwhelming majority of easements are positive, in that they allow the holder to use the servient land of another in a particular way.
 
-```ad-example
-- A right of way allows the holder to use a driveway on neighbouring land.
-- A right of drainage allows the holder to use the pipes under that land.
-- A right to park allows the holder to drive onto and park on part of neighbouring land.
-```
+> [!example]
+> - A right of way allows the holder to use a driveway on neighbouring land.
+> - A right of drainage allows the holder to use the pipes under that land.
+> - A right to park allows the holder to drive onto and park on part of neighbouring land.
 
 ### Negative Easements
 
@@ -81,11 +75,10 @@ Do not confuse easements with:
 
 A **grant** exists where C, a landowner, sells or leases part of C’s land to D, and gives to D an easement over the land which C has retained.
 
-```ad-example
-- C owns a large piece of land which adjoins a main road.
-- C sells part of the land to D and retains the part of the land nearest the road.
-- In the transfer deed, C creates a right of way in D’s favour across the driveway on C’s retained land.
-```
+> [!example]
+> - C owns a large piece of land which adjoins a main road.
+> - C sells part of the land to D and retains the part of the land nearest the road.
+> - In the transfer deed, C creates a right of way in D’s favour across the driveway on C’s retained land.
 
 ### Reservation
 
@@ -93,11 +86,10 @@ A **reservation** exists where C sells or leases part of C’s land to D, and re
 
 A reservation is strictly construed against the person reserving it, because they are in a position to reserve exactly what is required and are assumed to have done so. Any attempt by C to extend the right will fail. To interpret the right more widely would be to ‘**derogate from the grant**’ that C has made to D, in that D has a lesser use of the land than originally envisaged ([[Cordell v Second Clanfield Properties Ltd [1969] 2 Ch 9]]).
 
-```ad-example
-- C owns a large piece of land which adjoins a main road.
-- C sells part of the land nearest the road to D and retains the rest.
-- In the transfer deed, C retains a right of way in C’s favour across the driveway on D’s land.
-```
+> [!example]
+> - C owns a large piece of land which adjoins a main road.
+> - C sells part of the land nearest the road to D and retains the rest.
+> - In the transfer deed, C retains a right of way in C’s favour across the driveway on D’s land.
 
 ## Creation of Easements
 
@@ -125,9 +117,8 @@ Three types of prescription:
 2. Prescription under the doctrine of Lost Modern Grant
 3. [Prescription Act 1832](https://www.legislation.gov.uk/ukpga/Will4/2-3/71/contents)
 
-```ad-note
-Prescription will succeed under the Prescription Act 1832 if the user can prove uninterrupted enjoyment for the 20 year period. [No use for 1 year or more = interruption]
-```
+> [!note]
+> Prescription will succeed under the Prescription Act 1832 if the user can prove uninterrupted enjoyment for the 20 year period. [No use for 1 year or more = interruption]
 
 The basic criteria for a prescription are:
 
@@ -172,16 +163,12 @@ In order to enforce an easement, the dominant owner must have the benefit of the
 
 It does not matter whether the easement is legal or equitable, or whether the land is registered or unregistered: the benefit will pass with the dominant land, enabling the dominant owner to enforce it.
 
-```ad-statute
-title: [s 205(1)(ix) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/205)
-‘Land’ includes… an easement, right, privilege, or benefit in, over or derived from land…’
-```
+> [!statute] [s 205(1)(ix) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/205)
+> ‘Land’ includes… an easement, right, privilege, or benefit in, over or derived from land…’
 
-```ad-statute
-title: [s 62(1) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/62)
-
-‘A conveyance of land shall be deemed to include and shall by virtue of this Act be deemed to convey, with the land, all… easements, rights and advantages whatsoever...’
-```
+> [!statute] [s 62(1) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/62)
+> 
+> ‘A conveyance of land shall be deemed to include and shall by virtue of this Act be deemed to convey, with the land, all… easements, rights and advantages whatsoever...’
 
 ### Express Legal Easements: Enforceability Against Servient Owner
 
@@ -223,12 +210,11 @@ To be protected, a **Notice** must be entered in the charges register of the ser
 
 A volunteer (i.e., someone who is gifted or inherits the land) will always be bound, whether the interest is protected or not, [LRA 2002, s 28](https://www.legislation.gov.uk/ukpga/2002/9/section/28).
 
-```ad-summary
-- The easements must be properly created: either [LPA 1925, s 53(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/53) or [LP(MP)A 1989, s 2](https://www.legislation.gov.uk/ukpga/1989/34/section/2)
-- The easements must be protected by Notice in the charges register of the burdened land: [LRA 2002, s 32](https://www.legislation.gov.uk/ukpga/2002/9/section/32)
-- If done, easement binds everyone: [LRA 2002, s 29(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/29)
-- If not done, the purchaser for value is not bound: [LRA 2002, s 29(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/29) but the volunteer is: [s 28](https://www.legislation.gov.uk/ukpga/2002/9/section/28)
-```
+> [!summary]
+> - The easements must be properly created: either [LPA 1925, s 53(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/53) or [LP(MP)A 1989, s 2](https://www.legislation.gov.uk/ukpga/1989/34/section/2)
+> - The easements must be protected by Notice in the charges register of the burdened land: [LRA 2002, s 32](https://www.legislation.gov.uk/ukpga/2002/9/section/32)
+> - If done, easement binds everyone: [LRA 2002, s 29(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/29)
+> - If not done, the purchaser for value is not bound: [LRA 2002, s 29(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/29) but the volunteer is: [s 28](https://www.legislation.gov.uk/ukpga/2002/9/section/28)
 
 #### Unregistered Land
 
@@ -238,12 +224,11 @@ To be protected, a Class D(iii) Land Charge must be entered in the Land Charges 
 
 A volunteer will always be bound.
 
-```ad-summary
-- The easements must be properly created: either [LPA 1925, s 53(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/53) or [LP(MP)A 1989, s 2](https://www.legislation.gov.uk/ukpga/1989/34/section/2)
-- The easements must be protected by a D(iii) Land Charge: [LCA 1972, s 2(5)(iii)](https://www.legislation.gov.uk/ukpga/1972/61/section/2)
-- If done, easement binds everyone: [LRA 2002, s 198](https://www.legislation.gov.uk/ukpga/2002/9/section/198)
-- If not done, the purchaser for value is not bound: [LCA 1972, s 4(6)](https://www.legislation.gov.uk/ukpga/1972/61/section/4) but the volunteer is.
-```
+> [!summary]
+> - The easements must be properly created: either [LPA 1925, s 53(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/53) or [LP(MP)A 1989, s 2](https://www.legislation.gov.uk/ukpga/1989/34/section/2)
+> - The easements must be protected by a D(iii) Land Charge: [LCA 1972, s 2(5)(iii)](https://www.legislation.gov.uk/ukpga/1972/61/section/2)
+> - If done, easement binds everyone: [LRA 2002, s 198](https://www.legislation.gov.uk/ukpga/2002/9/section/198)
+> - If not done, the purchaser for value is not bound: [LCA 1972, s 4(6)](https://www.legislation.gov.uk/ukpga/1972/61/section/4) but the volunteer is.
 
 #### Implied Equitable Easement
 

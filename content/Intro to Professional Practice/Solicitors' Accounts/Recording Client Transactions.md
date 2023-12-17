@@ -196,10 +196,8 @@ If a payment is made for a client using petty cash, an election has been made to
 
 A law firm may be offered commission from insurance companies/ financial services companies. But it is rare for a firm to be entitled to keep this commission.
 
-```ad-statute
-title: SRA Code for Firms, r 5.1
-You properly account to clients for any financial benefit you receive as a result of their instructions, except where they have agreed otherwise.
-```
+> [!statute] SRA Code for Firms, r 5.1
+> You properly account to clients for any financial benefit you receive as a result of their instructions, except where they have agreed otherwise.
 
 "Properly account for" means
 

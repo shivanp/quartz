@@ -38,19 +38,15 @@ pandoc-latex-admonition:
 
 ## Definition
 
-```ad-defn
-title: Confession
-Any statement wholly or partly adverse to the person who made it, whether made to a person in authority or not and whether made in words or otherwise (s 82(1) PACE 1984).
-```
+> [!defn] Confession
+> Any statement wholly or partly adverse to the person who made it, whether made to a person in authority or not and whether made in words or otherwise (s 82(1) PACE 1984).
 
 ## Admissibility
 
 ### Confessions
 
-```ad-statute
-title: s 76(1) PACE 1984
-In any proceedings a confession made by an accused person may be given in evidence against him in so far as it is relevant to any matter in issue in the proceedings and is not excluded by the court in pursuance of this section.
-```
+> [!statute] s 76(1) PACE 1984
+> In any proceedings a confession made by an accused person may be given in evidence against him in so far as it is relevant to any matter in issue in the proceedings and is not excluded by the court in pursuance of this section.
 
 Proposition: A **pre-trial confession** is admissible in trial to prove D's guilt.
 
@@ -84,14 +80,12 @@ D can challenge the admissibility of a confession by arguing:
 
 If challenging on ground (2), use
 
-```ad-statute
-title: s 72(2) PACE 1984
-If, in any proceedings where the prosecution proposes to give in evidence a confession made by an accused person, it is represented to the court that the confession was or may have been obtained—
-- (a) by **oppression** of the person who made it; or
-- (b) in consequence of **anything said or done** which was likely, in the circumstances existing at the time, to render **unreliable** any confession which might be made by him in consequence thereof,
-
-the court shall not allow the confession to be given in evidence against him except in so far as the prosecution proves to the court beyond reasonable doubt that the confession (notwithstanding that it may be true) was not obtained as aforesaid. 
-```
+> [!statute] s 72(2) PACE 1984
+> If, in any proceedings where the prosecution proposes to give in evidence a confession made by an accused person, it is represented to the court that the confession was or may have been obtained—
+> - (a) by **oppression** of the person who made it; or
+> - (b) in consequence of **anything said or done** which was likely, in the circumstances existing at the time, to render **unreliable** any confession which might be made by him in consequence thereof,
+> 
+> the court shall not allow the confession to be given in evidence against him except in so far as the prosecution proves to the court beyond reasonable doubt that the confession (notwithstanding that it may be true) was not obtained as aforesaid. 
 
 If this is raised, the burden of proof is on the prosecution to show beyond a reasonable doubt that the confession was not so obtained.
 
@@ -103,45 +97,38 @@ If this is raised, the burden of proof is on the prosecution to show beyond a re
 
 Although s 76(2)(b) does not require deliberate misconduct on the part of the police, the thing which is said or done will usually involve an alleged breach of Code C.
 
-```ad-example
-- Denying a suspect refreshments/ rest between interviews
-- Offering a suspect an inducement to confess
-- Misrepresentating the strength of the prosecution case
-- Questioning a suspect in an inappropriate way
-- Questioning a suspect who the police should have known was not in a fit state to be interviewed
-- Threatening a suspect.
-```
+> [!example]
+> - Denying a suspect refreshments/ rest between interviews
+> - Offering a suspect an inducement to confess
+> - Misrepresentating the strength of the prosecution case
+> - Questioning a suspect in an inappropriate way
+> - Questioning a suspect who the police should have known was not in a fit state to be interviewed
+> - Threatening a suspect.
 
-```ad-question
-title: Being denied access to legal advice
-- Being denied access to legal advice at the police station is a breach of Code C and s 58 PACE 1984. 
-- This will not alone lead to the exclusion of the confession
-- Must be a **causal link** between the breach and the unreliability of the confession subsequently made ("but for" test)
-```
+> [!question] Being denied access to legal advice
+> - Being denied access to legal advice at the police station is a breach of Code C and s 58 PACE 1984. 
+> - This will not alone lead to the exclusion of the confession
+> - Must be a **causal link** between the breach and the unreliability of the confession subsequently made ("but for" test)
 
 Note that the causal link is needed for any unreliability argument, not just legal advice.
 
 ### Co-defendant Confession Evidence
 
-```ad-statute
-title: s 76A PACE 1984 - Confessions may be given in evidence for co-accused
-(1) In any proceedings a **confession made by an accused** person may be given **in evidence for another** person charged in the same proceedings (a co-accused) in so far as it is relevant to any matter in issue in the proceedings and is **not excluded** by the court in pursuance of this section.
-
-(2) If, in any proceedings where a co-accused proposes to give in evidence a confession made by an accused person, it is represented to the court that the confession was or may have been obtained—
-- (a) by oppression of the person who made it; or
-- (b) in consequence of anything said or done which was likely, in the circumstances existing at the time, to render **unreliable** any confession which might be made by him in consequence thereof,
-
-the court shall **not allow** the confession to be given in evidence for the co-accused except in so far as it is proved to the court on the **balance of probabilities** that the confession (notwithstanding that it may be true) was **not so obtained**.
-```
+> [!statute] s 76A PACE 1984 - Confessions may be given in evidence for co-accused
+> (1) In any proceedings a **confession made by an accused** person may be given **in evidence for another** person charged in the same proceedings (a co-accused) in so far as it is relevant to any matter in issue in the proceedings and is **not excluded** by the court in pursuance of this section.
+> 
+> (2) If, in any proceedings where a co-accused proposes to give in evidence a confession made by an accused person, it is represented to the court that the confession was or may have been obtained—
+> - (a) by oppression of the person who made it; or
+> - (b) in consequence of anything said or done which was likely, in the circumstances existing at the time, to render **unreliable** any confession which might be made by him in consequence thereof,
+> 
+> the court shall **not allow** the confession to be given in evidence for the co-accused except in so far as it is proved to the court on the **balance of probabilities** that the confession (notwithstanding that it may be true) was **not so obtained**.
 
 ## Challenging Admissibility – S 78
 
-```ad-statute
-title: s 78 PACE 1984 - Exclusion of unfair evidence
-(1) In any proceedings the court may **refuse to allow evidence** on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the **fairness of the proceedings** that the court ought not to admit it.
-
-(2) Nothing in this section shall prejudice any rule of law requiring a court to exclude evidence.
-```
+> [!statute] s 78 PACE 1984 - Exclusion of unfair evidence
+> (1) In any proceedings the court may **refuse to allow evidence** on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the **fairness of the proceedings** that the court ought not to admit it.
+> 
+> (2) Nothing in this section shall prejudice any rule of law requiring a court to exclude evidence.
 
 This provides the court with the discretion to exclude confession evidence.
 

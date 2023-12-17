@@ -30,13 +30,11 @@ Historically, minority shareholders had very little recourse. The only remedy wa
 
 s 459 CA 1985 (now [s 994 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/994)) introduced an action for unfair prejudice. Note that s 994 CA 2006 is substantially the same as s 459 CA 1985 (so old case law relevant).
 
-```ad-defn
-title: s 994(1)
-
-A member of a company may apply to the court by petition for an order … on the ground:
-(a) that the company’s affairs are being or have been conducted in a manner which is unfairly prejudicial to the interests of its members generally or of some part of its members (including at least himself), or
-(b) that any actual or proposed act or omission of the company (including an act or omission on its behalf) is or would be so prejudicial.
-```
+> [!defn] s 994(1)
+> 
+> A member of a company may apply to the court by petition for an order … on the ground:
+> (a) that the company’s affairs are being or have been conducted in a manner which is unfairly prejudicial to the interests of its members generally or of some part of its members (including at least himself), or
+> (b) that any actual or proposed act or omission of the company (including an act or omission on its behalf) is or would be so prejudicial.
 
 ### Conduct of Company's Affairs
 
@@ -69,14 +67,12 @@ In [[Re Tobian Properties Ltd [2012] EWCA Civ 998]], Arden LJ stated:
 
 >“The key phrase in section 994(1), ‘unfairly prejudicial’, comprises two elements, unfairness and prejudice but both of these must be understood in the context of company law. The concept of fairness inherent in this phrase is flexible and open-textured, but it is not unbounded. The courts must act on a principled basis even though the concept is to be approached flexibly. They cannot decide whether to grant or refuse relief from unfair prejudice on the basis of palm-tree justice.”
 
-```ad-tip
-title: Unfair Prejudice Test
-
-
-The [[O'Neill v Phillips [1999] 1 WLR 1092 HL]] test for unfair justice is that a petitioner must prove
-- Breach of contract (the articles or a shareholders' agreement), or
-- Breach of some fundamental understanding
-```
+> [!tip] Unfair Prejudice Test
+> 
+> 
+> The [[O'Neill v Phillips [1999] 1 WLR 1092 HL]] test for unfair justice is that a petitioner must prove
+> - Breach of contract (the articles or a shareholders' agreement), or
+> - Breach of some fundamental understanding
 
 The court will consider:
 

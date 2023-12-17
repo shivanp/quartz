@@ -7,9 +7,8 @@ date modified: Sunday, December 10th 2023, 12:39:20 am
 
 # Hunter v Babbage (1995) 69 P&CR 548
 
-```ad-summary
-The mutual agreement was evidenced by the draft consent order in divorce proceedings. The shares were equal, based on the number of joint tenants: the rule in **Goodman v Gallant** prevailed over the terms of the draft consent order.
-```
+> [!summary]
+> The mutual agreement was evidenced by the draft consent order in divorce proceedings. The shares were equal, based on the number of joint tenants: the rule in **Goodman v Gallant** prevailed over the terms of the draft consent order.
 
 **FACTS:** Mr Babbage and Mrs Allen (formerly Mrs Babbage) owned their home as beneficial joint tenants. In the course of divorce proceedings, Mrs Allen applied for a property adjustment order. She stated that the fairest way of dealing with the house would be for it to be sold, and the proceeds split in such a way as to give her the larger share, to enable her to buy a small flat, with the rest going to Mr Babbage. After negotiations, an agreement was reached and the terms were incorporated in a draft consent order (often used in family law cases). The consent order had not been finalised when Mr Babbage died.
 

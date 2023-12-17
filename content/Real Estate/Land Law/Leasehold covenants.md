@@ -38,10 +38,8 @@ This section may either be in the main part of the lease or in a schedule to the
 
 If there is no mention of an action in a lease, the tenant is free to do it.
 
-```ad-example
-title: Tenant covenants
-Payment of rent, payment of service charge, use of premises, covenant against assignment and subletting.
-```
+> [!example] Tenant covenants
+> Payment of rent, payment of service charge, use of premises, covenant against assignment and subletting.
 
 ### Landlord’s Covenants
 
@@ -95,18 +93,17 @@ To be legal, a lease must be granted by deed ([LPA 1925, s 52](https://www.legis
 
 When the Land Registration Act 2002 came into force more leases became registrable. The Land Registry devised a method to speed up lease registration. Where you are granting a registrable lease, your lease must include a list of **Prescribed Lease Clauses** at the front. You will see that, in the majority of cases, the main areas to focus on will be: date of lease; landlord’s title number; parties; term; [[easements]] granted and reserved.
 
-```ad-summary
-Most residential and commercial leases follow a basic structure which includes the following provisions:
-
-- Parties, date, definitions, interpretation provisions
-- Demise and rents
-- Tenants covenants
-- Landlord ’s covenants
-- Rights granted / excepted and reserved
-- Execution
-
-A lease may also contain a forfeiture provision, a clause dealing with insured risks, and provisions relating to security of tenure, rent review and service charge. A tenant may do anything not expressly prohibited by the lease. A covenant for quiet enjoyment means a landlord must not interfere with a tenant’s possession, use or enjoyment of the premises.
-```
+> [!summary]
+> Most residential and commercial leases follow a basic structure which includes the following provisions:
+> 
+> - Parties, date, definitions, interpretation provisions
+> - Demise and rents
+> - Tenants covenants
+> - Landlord ’s covenants
+> - Rights granted / excepted and reserved
+> - Execution
+> 
+> A lease may also contain a forfeiture provision, a clause dealing with insured risks, and provisions relating to security of tenure, rent review and service charge. A tenant may do anything not expressly prohibited by the lease. A covenant for quiet enjoyment means a landlord must not interfere with a tenant’s possession, use or enjoyment of the premises.
 
 ## Key Covenants in Leases
 
@@ -116,10 +113,8 @@ Four of the main covenants found in leases are introduced: repair, alterations, 
 
 The basic rule is that a tenant may do all the things that an owner of an estate can do unless the lease prohibits such actions. For this reason, leases are drafted in a prohibitory or negative manner, setting out what the tenant cannot do by way of a number of tenant covenants. A lease will also contain covenants given by the landlord.
 
-```ad-defn
-title: Leasehold covenant
-A promise contained in a lease given by a landlord or a tenant.
-```
+> [!defn] Leasehold covenant
+> A promise contained in a lease given by a landlord or a tenant.
 
 ### Types of Covenant
 
@@ -141,9 +136,8 @@ The courts have considered the test of 'reasonableness’, especially in respect
 
 [[International Drilling Fluids Ltd v Louisville Investments (Uxbridge) Ltd [1986] Ch 513]] stated the basic principles to be applied in determining the reasonableness of a landlord’s decision and made it clear that a landlord is not entitled to refuse his consent on grounds which have nothing to do with the landlord and tenant relationship.
 
-```ad-example
-It would not be reasonable for a landlord to refuse consent on the basis that he did not like the proposed assignee, or he supported a different football team. It must be something to do with, for example, the proposed assignee’s ability to pay the rent or bad references.
-```
+> [!example]
+> It would not be reasonable for a landlord to refuse consent on the basis that he did not like the proposed assignee, or he supported a different football team. It must be something to do with, for example, the proposed assignee’s ability to pay the rent or bad references.
 
 ### Repair
 
@@ -182,10 +176,8 @@ However, the landlord will usually wish to control this by:
 
 The [Landlord and Tenant Act (‘LTA’) 1927, s 19(2)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/19) applies to 'qualified' **alterations** covenants.
 
-```ad-statute
-title: s 19(2) LTA 1927
-In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against the making of improvements without a licence or consent, such covenant condition or agreement shall be deemed, notwithstanding any express provision to the contrary, to be **subject to a proviso that such licence or consent is not to be unreasonably withheld**; but this proviso does not preclude the right to require as a condition of such licence or consent the payment of a reasonable sum in respect of any damage to or diminution in the value of the premises or any neighbouring premises belonging to the landlord, and of any legal or other expenses properly incurred in connection with such licence or consent nor, in the case of an improvement which does not add to the letting value of the holding, does it preclude the right to require as a condition of such licence or consent, where such a requirement would be reasonable, an undertaking on the part of the tenant to reinstate the premises in the condition in which they were before the improvement was executed.
-```
+> [!statute] s 19(2) LTA 1927
+> In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against the making of improvements without a licence or consent, such covenant condition or agreement shall be deemed, notwithstanding any express provision to the contrary, to be **subject to a proviso that such licence or consent is not to be unreasonably withheld**; but this proviso does not preclude the right to require as a condition of such licence or consent the payment of a reasonable sum in respect of any damage to or diminution in the value of the premises or any neighbouring premises belonging to the landlord, and of any legal or other expenses properly incurred in connection with such licence or consent nor, in the case of an improvement which does not add to the letting value of the holding, does it preclude the right to require as a condition of such licence or consent, where such a requirement would be reasonable, an undertaking on the part of the tenant to reinstate the premises in the condition in which they were before the improvement was executed.
 
 Where there is a qualified covenant against alteration then LTA 1927, s 19(2) implies into a qualified covenant against improvements a proviso that the landlord’s consent is not to be unreasonably withheld. It therefore **converts a qualified covenant against alterations that amount to improvements into a fully qualified one**.
 
@@ -217,10 +209,8 @@ A lease will often contain a tenant covenant relating to the use of the premises
 
 [LTA 1927, s 19(3)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/19) applies to 'qualified' **user** covenants.
 
-```ad-statute
-title: s 19(3) LTA 1927
-In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against the alteration of the user of the demised premises, without licence or consent, such covenant condition or agreement shall, if the alteration does not involve any structural alteration of the premises, be deemed, notwithstanding any express provision to the contrary, to be subject to a proviso that **no fine or sum of money in the nature of a fine, whether by way of increase of rent or otherwise, shall be payable for or in respect of such licence or consent**; but this proviso does not preclude the right of the landlord to require payment of a reasonable sum in respect of any damage to or diminution in the value of the premises or any neighbouring premises belonging to him and of any legal or other expenses incurred in connection with such licence or consent. 
-```
+> [!statute] s 19(3) LTA 1927
+> In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against the alteration of the user of the demised premises, without licence or consent, such covenant condition or agreement shall, if the alteration does not involve any structural alteration of the premises, be deemed, notwithstanding any express provision to the contrary, to be subject to a proviso that **no fine or sum of money in the nature of a fine, whether by way of increase of rent or otherwise, shall be payable for or in respect of such licence or consent**; but this proviso does not preclude the right of the landlord to require payment of a reasonable sum in respect of any damage to or diminution in the value of the premises or any neighbouring premises belonging to him and of any legal or other expenses incurred in connection with such licence or consent. 
 
 If the change of use does involve a change to the structure, the landlord can increase the rent or charge the tenant a lump sum (in the statute referred to as a 'fine' or 'premium') in return for the consent.
 
@@ -234,24 +224,21 @@ In practice, this term is usually used to describe assignment, underletting and 
 
 Restrictions on alienation are very common in shorter leases.
 
-```ad-summary
-- Unless expressly prohibited in the lease, a tenant is free to do anything.
-- A leasehold covenant is a promise by either the landlord or tenant. Usual tenant covenants found in most leases relate to repair, user, alterations and alienation.
-- A covenant to repair includes an obligation to put premises into repair. It does not include renewal of the whole or substantially the whole of the premises. A covenant to repair can be limited by a schedule of condition.
-- A covenant can be absolute, qualified or fully qualified.
-- Statute intervenes in respect of certain qualified covenants.
-- **LTA 1927, s 19(2)** upgrades a qualified covenant to a fully qualified covenant in respect of works that constitute, in the eyes of the tenant, an improvement to the premises. It does, however, allow a landlord to impose a number of conditions upon its consent, which can include a requirement to reinstate.
-- **LTA 1927, s 19(3)** applies to qualified user covenants. It does not impose a reasonableness requirement but does prevent a landlord from demanding payment for its consent.
-```
+> [!summary]
+> - Unless expressly prohibited in the lease, a tenant is free to do anything.
+> - A leasehold covenant is a promise by either the landlord or tenant. Usual tenant covenants found in most leases relate to repair, user, alterations and alienation.
+> - A covenant to repair includes an obligation to put premises into repair. It does not include renewal of the whole or substantially the whole of the premises. A covenant to repair can be limited by a schedule of condition.
+> - A covenant can be absolute, qualified or fully qualified.
+> - Statute intervenes in respect of certain qualified covenants.
+> - **LTA 1927, s 19(2)** upgrades a qualified covenant to a fully qualified covenant in respect of works that constitute, in the eyes of the tenant, an improvement to the premises. It does, however, allow a landlord to impose a number of conditions upon its consent, which can include a requirement to reinstate.
+> - **LTA 1927, s 19(3)** applies to qualified user covenants. It does not impose a reasonableness requirement but does prevent a landlord from demanding payment for its consent.
 
 ## Alienation Covenants
 
 The basic rule is that a tenant can do anything not expressly prohibited. A lease will often therefore contain many restrictions on alienation. Landlords of shorter leases in particular will want to control what the tenant can do with their lease.
 
-```ad-defn
-title: Alienation
-A method for the tenant disposing of the whole, or part, of their interest in a leasehold property. In practice, this term is usually used to describe assignment, underletting and parting with possession, although it does encompass charging/mortgaging the lease or surrendering it.
-```
+> [!defn] Alienation
+> A method for the tenant disposing of the whole, or part, of their interest in a leasehold property. In practice, this term is usually used to describe assignment, underletting and parting with possession, although it does encompass charging/mortgaging the lease or surrendering it.
 
 This element will explore assignment and underletting provisions and the impact of statute on certain types of alienation covenants.
 
@@ -318,12 +305,10 @@ Leases nowadays generally contain an absolute prohibition against assignment of 
 
 [LTA 1927, s 19(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/19) applies to all forms of alienation (so including assignment and underletting.)
 
-```ad-statute
-title: s 19(1)(a) LTA 1927
-(1) In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against assigning, underletting, charging or parting with the possession of demised premises or any part thereof without licence or consent, such covenant condition or agreement shall, notwithstanding any express provision to the contrary, be deemed to be subject—
-
-(a) to a proviso to the effect that s**uch licence or consent is not to be unreasonably withheld**, but this proviso does not preclude the right of the landlord to require payment of a reasonable sum in respect of any legal or other expenses incurred in connection with such licence or consent;
-```
+> [!statute] s 19(1)(a) LTA 1927
+> (1) In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against assigning, underletting, charging or parting with the possession of demised premises or any part thereof without licence or consent, such covenant condition or agreement shall, notwithstanding any express provision to the contrary, be deemed to be subject—
+> 
+> (a) to a proviso to the effect that s**uch licence or consent is not to be unreasonably withheld**, but this proviso does not preclude the right of the landlord to require payment of a reasonable sum in respect of any legal or other expenses incurred in connection with such licence or consent;
 
 It assists tenants by converting a qualified covenant against alienation into a fully qualified covenant (i.e., where landlord’s consent is required, it is not to be unreasonably withheld).
 
@@ -363,21 +348,17 @@ A tenant could incur costs such as agent’s fees (for the agent who markets the
 
 If the landlord’s behaviour is particularly unreasonable a tenant may have exemplary damages awarded.
 
-```ad-example
-title: Examples of reasonable refusal
-- Unsatisfactory tenant’s reference.
-- The proposed assignee’s use of the property would damage the landlord’s own commercial interests as the assignee proposed to run a rival business next door.
-- The proposed subletting was at a substantial premium and at a rent well below the open market value.
-- Where the existing tenant is already in breach of covenant – the landlord can insist upon the breach being remedied before giving consent unless it is clear that the assignee can remedy the breach.
-```
+> [!example] Examples of reasonable refusal
+> - Unsatisfactory tenant’s reference.
+> - The proposed assignee’s use of the property would damage the landlord’s own commercial interests as the assignee proposed to run a rival business next door.
+> - The proposed subletting was at a substantial premium and at a rent well below the open market value.
+> - Where the existing tenant is already in breach of covenant – the landlord can insist upon the breach being remedied before giving consent unless it is clear that the assignee can remedy the breach.
 
-```ad-example
-title: Examples of unreasonable refusal
-
-- Where the proposed assignee was a diplomat who would be protected by diplomatic immunity.
-- Where the landlord’s intention was to bring the tenancy to an end and the landlord did not therefore propose to give consent to any assignee, not just to the particular assignee in question.
-- Where the proposed assignee was already a tenant of the landlord in another property which would have been difficult to re-let.
-```
+> [!example] Examples of unreasonable refusal
+> 
+> - Where the proposed assignee was a diplomat who would be protected by diplomatic immunity.
+> - Where the landlord’s intention was to bring the tenancy to an end and the landlord did not therefore propose to give consent to any assignee, not just to the particular assignee in question.
+> - Where the proposed assignee was already a tenant of the landlord in another property which would have been difficult to re-let.
 
 ### Pre-conditions for Alienation for New Tenancies
 
@@ -388,18 +369,16 @@ title: Examples of unreasonable refusal
 - Such circumstances or conditions will be automatically reasonable if imposed by the landlord when giving consent to assign or underlet.
 - These circumstances and conditions are agreed in advance by including them in the lease when it is drafted.
 
-```ad-statute
-title: s 19(1A) LTA 1927
-Where the landlord and the tenant under a qualifying lease have entered into an agreement specifying for the purposes of this subsection—
-- (a) any circumstances in which the landlord may withhold his licence or consent to an assignment of the demised premises or any part of them, or
-- (b) any conditions subject to which any such licence or consent may be granted,
-
-then the landlord—
-- (i) shall not be regarded as unreasonably withholding his licence or consent to any such assignment if he withholds it on the ground (and it is the case) that any such circumstances exist, and
-- (ii) if he gives any such licence or consent subject to any such conditions, shall not be regarded as giving it subject to unreasonable conditions;
-
-and section 1 of the Landlord and Tenant Act 1988 (qualified duty to consent to assignment etc.) shall have effect subject to the provisions of this subsection.
-```
+> [!statute] s 19(1A) LTA 1927
+> Where the landlord and the tenant under a qualifying lease have entered into an agreement specifying for the purposes of this subsection—
+> - (a) any circumstances in which the landlord may withhold his licence or consent to an assignment of the demised premises or any part of them, or
+> - (b) any conditions subject to which any such licence or consent may be granted,
+> 
+> then the landlord—
+> - (i) shall not be regarded as unreasonably withholding his licence or consent to any such assignment if he withholds it on the ground (and it is the case) that any such circumstances exist, and
+> - (ii) if he gives any such licence or consent subject to any such conditions, shall not be regarded as giving it subject to unreasonable conditions;
+> 
+> and section 1 of the Landlord and Tenant Act 1988 (qualified duty to consent to assignment etc.) shall have effect subject to the provisions of this subsection.
 
 ### Conditions Commonly Attached to the landlord’s Consent for an Assignment
 
@@ -411,19 +390,18 @@ An AGA is a guarantee by an outgoing tenant of the immediate assignee’s obliga
 
 The landlord will only ever have the current tenant and the tenant immediately prior to the current tenant 'on the hook'.
 
-```ad-summary
-If a tenant assigns their lease, they are transferring their leasehold estate to a new party who ‘steps into the shoes’ of the tenant. If a tenant underlets their premises, they grant a new lease to a third party out of their own lease.
-
-To assign a lease, a deed must be used. If the lease is registered, the assignment must be registered at the Land Registry.
-
-A qualified covenant against alienation will be ‘upgraded’ to a fully qualified covenant so that the landlord cannot unreasonably withhold their consent **(LTA 1927, s 19(1)(a).)**
-
-In acting reasonably, the landlord cannot refuse consent on grounds that have nothing to do with the landlord and tenant relationship.
-
-**LTA 1988, s 1** applies to fully qualified covenants and requires a landlord to respond to a tenant’s request in writing within a ‘reasonable period’ (deemed to be 28 days).
-
-**LTA 1927, s19(1A)** applies to new leases and allows a landlord and tenant to agree in advance the circumstances a landlord can refuse consent, which will automatically be reasonable, and the conditions a landlord is reasonably entitled to impose, which may include a requirement upon assignment that the outgoing tenant enters into an **AGA.**
-```
+> [!summary]
+> If a tenant assigns their lease, they are transferring their leasehold estate to a new party who ‘steps into the shoes’ of the tenant. If a tenant underlets their premises, they grant a new lease to a third party out of their own lease.
+> 
+> To assign a lease, a deed must be used. If the lease is registered, the assignment must be registered at the Land Registry.
+> 
+> A qualified covenant against alienation will be ‘upgraded’ to a fully qualified covenant so that the landlord cannot unreasonably withhold their consent **(LTA 1927, s 19(1)(a).)**
+> 
+> In acting reasonably, the landlord cannot refuse consent on grounds that have nothing to do with the landlord and tenant relationship.
+> 
+> **LTA 1988, s 1** applies to fully qualified covenants and requires a landlord to respond to a tenant’s request in writing within a ‘reasonable period’ (deemed to be 28 days).
+> 
+> **LTA 1927, s19(1A)** applies to new leases and allows a landlord and tenant to agree in advance the circumstances a landlord can refuse consent, which will automatically be reasonable, and the conditions a landlord is reasonably entitled to impose, which may include a requirement upon assignment that the outgoing tenant enters into an **AGA.**
 
 [[Enforcing leasehold covenants]]
 
@@ -431,35 +409,33 @@ In acting reasonably, the landlord cannot refuse consent on grounds that have no
 
 The Landlord and Tenant (Covenants) Act 1995 made some fundamental changes to the running of leasehold covenants on assignment of a lease / the reversion. In relation to a lease granted on or after 1 January 1996, these new rules govern whether an assignee of the reversion or the lease can sue or be sued for a breach of covenant.
 
-```ad-statute
-title: LT(C)A 1995 s 3
-
-(1) The benefit and burden of all landlord and tenant covenants of a tenancy—
-- (a) shall be annexed and incident to the whole, and to each and every part, of the premises demised by the tenancy and of the reversion in them, and
-- (b) shall in accordance with this section pass on an assignment of the whole or any part of those premises or of the reversion in them.
-
-(2) Where the assignment is by the tenant under the tenancy, then as from the assignment the assignee—
-- (a) becomes bound by the tenant covenants of the tenancy except to the extent that—
-	- (i) immediately before the assignment they did not bind the assignor, or
-	- (ii) they fall to be complied with in relation to any demised premises not comprised in the assignment; and
-- (b) becomes entitled to the benefit of the landlord covenants of the tenancy except to the extent that they fall to be complied with in relation to any such premises.
-
-(3) Where the assignment is by the landlord under the tenancy, then as from the assignment the assignee—
-- (a) becomes bound by the landlord covenants of the tenancy except to the extent that—
-	- (i) immediately before the assignment they did not bind the assignor, or
-	- (ii) they fall to be complied with in relation to any demised premises not comprised in the assignment; and
-- (b) becomes entitled to the benefit of the tenant covenants of the tenancy except to the extent that they fall to be complied with in relation to any such premises.
-
-(4) In determining for the purposes of subsection (2) or (3) whether any covenant bound the assignor immediately before the assignment, any waiver or release of the covenant which (in whatever terms) is expressed to be personal to the assignor shall be disregarded.
-
-(5) Any landlord or tenant covenant of a tenancy which is restrictive of the user of land shall, as well as being capable of enforcement against an assignee, be capable of being enforced against any other person who is the owner or occupier of any demised premises to which the covenant relates, even though there is no express provision in the tenancy to that effect.
-
-(6) Nothing in this section shall operate—
-- (a) in the case of a covenant which (in whatever terms) is expressed to be personal to any person, to make the covenant enforceable by or (as the case may be) against any other person; or
-- (b) to make a covenant enforceable against any person if, apart from this section, it would not be enforceable against him by reason of its not having been registered under the Land Registration Act 2002 or the M1Land Charges Act 1972.
-
-(7) To the extent that there remains in force any rule of law by virtue of which the burden of a covenant whose subject matter is not in existence at the time when it is made does not run with the land affected unless the covenantor covenants on behalf of himself and his assigns, that rule of law is hereby abolished in relation to tenancies.
-```
+> [!statute] LT(C)A 1995 s 3
+> 
+> (1) The benefit and burden of all landlord and tenant covenants of a tenancy—
+> - (a) shall be annexed and incident to the whole, and to each and every part, of the premises demised by the tenancy and of the reversion in them, and
+> - (b) shall in accordance with this section pass on an assignment of the whole or any part of those premises or of the reversion in them.
+> 
+> (2) Where the assignment is by the tenant under the tenancy, then as from the assignment the assignee—
+> - (a) becomes bound by the tenant covenants of the tenancy except to the extent that—
+> 	- (i) immediately before the assignment they did not bind the assignor, or
+> 	- (ii) they fall to be complied with in relation to any demised premises not comprised in the assignment; and
+> - (b) becomes entitled to the benefit of the landlord covenants of the tenancy except to the extent that they fall to be complied with in relation to any such premises.
+> 
+> (3) Where the assignment is by the landlord under the tenancy, then as from the assignment the assignee—
+> - (a) becomes bound by the landlord covenants of the tenancy except to the extent that—
+> 	- (i) immediately before the assignment they did not bind the assignor, or
+> 	- (ii) they fall to be complied with in relation to any demised premises not comprised in the assignment; and
+> - (b) becomes entitled to the benefit of the tenant covenants of the tenancy except to the extent that they fall to be complied with in relation to any such premises.
+> 
+> (4) In determining for the purposes of subsection (2) or (3) whether any covenant bound the assignor immediately before the assignment, any waiver or release of the covenant which (in whatever terms) is expressed to be personal to the assignor shall be disregarded.
+> 
+> (5) Any landlord or tenant covenant of a tenancy which is restrictive of the user of land shall, as well as being capable of enforcement against an assignee, be capable of being enforced against any other person who is the owner or occupier of any demised premises to which the covenant relates, even though there is no express provision in the tenancy to that effect.
+> 
+> (6) Nothing in this section shall operate—
+> - (a) in the case of a covenant which (in whatever terms) is expressed to be personal to any person, to make the covenant enforceable by or (as the case may be) against any other person; or
+> - (b) to make a covenant enforceable against any person if, apart from this section, it would not be enforceable against him by reason of its not having been registered under the Land Registration Act 2002 or the M1Land Charges Act 1972.
+> 
+> (7) To the extent that there remains in force any rule of law by virtue of which the burden of a covenant whose subject matter is not in existence at the time when it is made does not run with the land affected unless the covenantor covenants on behalf of himself and his assigns, that rule of law is hereby abolished in relation to tenancies.
 
 LT(C)A 1995, s 3 provides for the automatic transmission of the benefit and burden of all landlord covenants to the new owner of the reversion, and of the benefit and burden of all tenant covenants to the assignee.
 
@@ -478,11 +454,9 @@ Expressed to be personal’ is not defined in the L(C)TA 1995, but it appears to
 
 There is a limit on the extent of the assignee’s liability under:
 
-```ad-statute
-title: LTA 1995 s 23(1)
-
-Where as a result of an assignment a person becomes, by virtue of this Act, bound by or entitled to the benefit of a covenant, he shall not by virtue of this Act have any liability or rights under the covenant in relation to any time falling before the assignment.
-```
+> [!statute] LTA 1995 s 23(1)
+> 
+> Where as a result of an assignment a person becomes, by virtue of this Act, bound by or entitled to the benefit of a covenant, he shall not by virtue of this Act have any liability or rights under the covenant in relation to any time falling before the assignment.
 
 The case of [[Edlington Properties Ltd v JH Fenner & Co Ltd (2006) 1 WLR 1583]] shows that it is the intention of the Landlord and Tenant (Covenants) Act 1995, s 23(1) that the parties remain liable for the breaches which occur during their period of occupation.
 
@@ -490,9 +464,8 @@ The case of [[Edlington Properties Ltd v JH Fenner & Co Ltd (2006) 1 WLR 1583]] 
 
 Under LT(C)A 1995, s 5 a tenant with a new lease will obtain an automatic release from the tenant’s covenants upon assignment, unless there has been an excluded assignment.
 
-```ad-example
-If a lease is assigned in breach of an alienation covenant, this is an ‘excluded assignment’.
-```
+> [!example]
+> If a lease is assigned in breach of an alienation covenant, this is an ‘excluded assignment’.
 
 The [Landlord and Tenant (Covenants) Act 1995, s 11](https://www.legislation.gov.uk/ukpga/1995/30/section/11) states that any excluded assignment will be excluded from the automatic release provisions under the Landlord and Tenant (Covenants) Act 1995, s 5 for the purposes of that assignment, and that the defaulting tenant will not be released from its obligations under the terms of the lease.
 
@@ -561,23 +534,21 @@ The effect of this is as follows:
 - Any tenant (whether the original tenant or an assignee) knowing they are responsible for breaches of the subtenant is likely to include a provision in the sublease in which the subtenant covenants to observe and perform the covenants contained in the head lease. This makes it easier for the tenant to control the actions of the subtenant and it indirectly protects the landlord;
 - If the landlord forfeits the head lease, the sublease is also automatically terminated, subject to a claim for relief. The threat of this should be a strong incentive to a subtenant to observe the covenants in the head lease.
 
-```ad-note
-Relief is where a tenant or subtenant can apply to have a forfeiture or termination of the lease set aside by the court.
-```
+> [!note]
+> Relief is where a tenant or subtenant can apply to have a forfeiture or termination of the lease set aside by the court.
 
 In addition, a prudent landlord will, as a condition of consent to the subletting, insist on any subtenant of the property entering into direct covenants with it to observe and perform the covenants in the lease. This will create a contractual relationship between the landlord and the subtenant, enabling enforcement of the covenants based upon the law of contract.
 
-```ad-summary
-Upon assignment of a new lease, the LT(C)A 1995 provides for the automatic transmission of the benefit and burden of the covenants to the new owner of the reversion / the lease.
-
-The only exception is that the benefit and burden of covenants which are expressed to be personal will not pass to a third party.
-
-If a lease is assigned in breach of an alienation covenant, this is an ‘excluded assignment’ and the defaulting tenant will not be released from its obligations under the terms of the lease.
-
-If a landlord chooses to sue a former tenant who remains liable for the covenants under an authorised guarantee agreement, the former tenant may rely on an express or common law indemnity to recoup its losses from the defaulting tenant.
-
-A landlord may sue a subtenant for breach of a restrictive covenant in the headlease.
-```
+> [!summary]
+> Upon assignment of a new lease, the LT(C)A 1995 provides for the automatic transmission of the benefit and burden of the covenants to the new owner of the reversion / the lease.
+> 
+> The only exception is that the benefit and burden of covenants which are expressed to be personal will not pass to a third party.
+> 
+> If a lease is assigned in breach of an alienation covenant, this is an ‘excluded assignment’ and the defaulting tenant will not be released from its obligations under the terms of the lease.
+> 
+> If a landlord chooses to sue a former tenant who remains liable for the covenants under an authorised guarantee agreement, the former tenant may rely on an express or common law indemnity to recoup its losses from the defaulting tenant.
+> 
+> A landlord may sue a subtenant for breach of a restrictive covenant in the headlease.
 
 ## Authorised Guarantee Agreements
 
@@ -587,9 +558,8 @@ Under [Landlord and Tenant (Covenants) Act 1995, s 5](https://www.legislation.go
 
 There are preconditions in the Landlord and Tenant (Covenants) Act 1995, s 16(3): **the assignment must be either an absolute or a qualified assignment; and the lease must contain a condition that the outgoing tenant will provide an AGA**:
 
-```ad-defn
-The landlord, as a condition of granting consent to the assignment, may require the outgoing tenant to guarantee the performance of its immediate successor in title. This form of guarantee is described in the Landlord and Tenant (Covenants) Act 1995, s 16 as an ‘authorised guarantee agreement’ or ‘AGA’.
-```
+> [!defn]
+> The landlord, as a condition of granting consent to the assignment, may require the outgoing tenant to guarantee the performance of its immediate successor in title. This form of guarantee is described in the Landlord and Tenant (Covenants) Act 1995, s 16 as an ‘authorised guarantee agreement’ or ‘AGA’.
 
 An authorised guarantee agreement is the guarantee by an outgoing tenant of the obligations of the incoming assignee. The tenant provides the AGA to the landlord on assignment.
 
@@ -597,15 +567,13 @@ An authorised guarantee agreement is the guarantee by an outgoing tenant of the 
 
 There are limits imposed on the form of the guarantee to be given under the Landlord and Tenant (Covenants) Act 1995, s 16(4).
 
-```ad-statute
-title: s 16(4) LT(C)A 1995
-
-An agreement is not an authorised guarantee agreement to the extent that it purports—
-
-(a) to impose on the tenant any requirement to guarantee in any way the performance of the relevant covenant by any person other than the assignee; or
-
-(b) to impose on the tenant any liability, restriction or other requirement (of whatever nature) in relation to any time after the assignee is released from that covenant by virtue of this Act.
-```
+> [!statute] s 16(4) LT(C)A 1995
+> 
+> An agreement is not an authorised guarantee agreement to the extent that it purports—
+> 
+> (a) to impose on the tenant any requirement to guarantee in any way the performance of the relevant covenant by any person other than the assignee; or
+> 
+> (b) to impose on the tenant any liability, restriction or other requirement (of whatever nature) in relation to any time after the assignee is released from that covenant by virtue of this Act.
 
 The guarantee lasts for the period the assignee is the tenant of the premises (assuming the assignee is released upon his own assignment of the lease) and the outgoing tenant may only be asked to guarantee the assignee.
 
@@ -627,13 +595,12 @@ In new leases, the Landlord and Tenant Act 1927, s 19(1A) (inserted by the Landl
 
 These circumstances and conditions are agreed in advance by including them in the lease when it is drafted.
 
-```ad-summary
-- Under the **Landlord and Tenant (Covenants) Act 1995, s 5**, a tenant with a new lease will generally obtain an automatic release from the burden of the tenant’s covenants upon assignment.
-- There is an exception under **LT(C)A 1995, s 16**: the landlord may require the outgoing tenant to provide an authorised guarantee agreement, guaranteeing the performance of its immediate successor in title.
-- A landlord may only request an **AGA** if the assignment is either an absolute or a qualified assignment.
-- The **AGA** lasts for the period that the assignee is the tenant of the premises.
-- In a commercial lease scenario, the **LT(C)A 1995, s 22** allows the landlord to ask the tenant to satisfy certain conditions before consent to the assignment will be granted. An **AGA** is one such common condition.
-```
+> [!summary]
+> - Under the **Landlord and Tenant (Covenants) Act 1995, s 5**, a tenant with a new lease will generally obtain an automatic release from the burden of the tenant’s covenants upon assignment.
+> - There is an exception under **LT(C)A 1995, s 16**: the landlord may require the outgoing tenant to provide an authorised guarantee agreement, guaranteeing the performance of its immediate successor in title.
+> - A landlord may only request an **AGA** if the assignment is either an absolute or a qualified assignment.
+> - The **AGA** lasts for the period that the assignee is the tenant of the premises.
+> - In a commercial lease scenario, the **LT(C)A 1995, s 22** allows the landlord to ask the tenant to satisfy certain conditions before consent to the assignment will be granted. An **AGA** is one such common condition.
 
 ## LT(C)A 1995 Retrospective Provisions
 
@@ -655,9 +622,8 @@ These provisions apply to former tenants who remain liable either under an old l
 
 The [Landlord and Tenant (Covenants) Act 1995, s 17](https://www.legislation.gov.uk/ukpga/1995/30/section/17) states that where a landlord wishes to pursue a former tenant who remains liable under the terms of the lease for a fixed charge, the landlord must serve notice of the potential claim on such tenants within six months of the charge becoming due.
 
-```ad-tip
-So practically, cannot recover more than 6 months rent at a time in this way. 
-```
+> [!tip]
+> So practically, cannot recover more than 6 months rent at a time in this way. 
 
 A fixed charge is defined in the [Landlord and Tenant (Covenants) Act 1995, s 17](https://www.legislation.gov.uk/ukpga/1995/30/section/17) as including arrears of rent, service charge or insurance premiums but not unascertained liabilities or damages which become ascertained only after a court order has been obtained.
 
@@ -669,9 +635,8 @@ This also applies for guarantors under AGAs.
 
 The [Landlord and Tenant (Covenants) Act 1995, s 18](https://www.legislation.gov.uk/ukpga/1995/30/section/18) states that former tenants and guarantors are not liable to pay any additional amounts owing in respect of variations which have been made to the lease subsequent to assignment which they could not have anticipated at the time when the lease was entered into.
 
-```ad-example
-The former tenant who is still liable for the rent under an old lease or under an authorised guarantee agreement will still be liable for rent which is reviewed after assignment pursuant to the rent review clause in the original lease. Such a variation was anticipated at the time when the lease was entered into.
-```
+> [!example]
+> The former tenant who is still liable for the rent under an old lease or under an authorised guarantee agreement will still be liable for rent which is reviewed after assignment pursuant to the rent review clause in the original lease. Such a variation was anticipated at the time when the lease was entered into.
 
 ### Overriding Leases
 

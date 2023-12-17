@@ -40,15 +40,14 @@ If there has been a breach of trust, ask:
 - What remedy should be awarded?
 - If more than one trustee is liable, how should liability be apportioned between them?
 
-```ad-example
-A trust fund includes a majority shareholding in a private company.
-
-What should the trustees do in order to properly monitor this investment?
-
-Where trust investments include company shares, the trustees will need to monitor the investment to ensure it produces an appropriate amount of income and capital growth (and to enable them to determine whether to sell the shares if not). If the trust only holds a small number of shares, the trustees are limited in what they can do, beyond reviewing publicly available information and anything provided to them as shareholders.
-
-If, however, the trust has a majority shareholding in the company, this gives the trustees power over that company, which they are expected to make use of to safeguard the investment. This could involve using their shareholding to have a trustee appointed as a director, giving them greater oversight and an ability to affect decisions of the company. See [[Bartlett v Barclays Bank Trust Co Limited [1980] Ch 515]].
-```
+> [!example]
+> A trust fund includes a majority shareholding in a private company.
+> 
+> What should the trustees do in order to properly monitor this investment?
+> 
+> Where trust investments include company shares, the trustees will need to monitor the investment to ensure it produces an appropriate amount of income and capital growth (and to enable them to determine whether to sell the shares if not). If the trust only holds a small number of shares, the trustees are limited in what they can do, beyond reviewing publicly available information and anything provided to them as shareholders.
+> 
+> If, however, the trust has a majority shareholding in the company, this gives the trustees power over that company, which they are expected to make use of to safeguard the investment. This could involve using their shareholding to have a trustee appointed as a director, giving them greater oversight and an ability to affect decisions of the company. See [[Bartlett v Barclays Bank Trust Co Limited [1980] Ch 515]].
 
 ### Identifying Who Breached Trust
 
@@ -56,9 +55,8 @@ Where a trust has more than one trustee, it is necessary to identify which of th
 
 As trusteeship is a joint office, it will often be the case that more than one trustee will be liable, although they may be liable for breaches in different ways. For example, one trustee may misapply trust property and be actively responsible for a breach, while the other trustees may be liable for failing to monitor the actions of their co-trustees. Where multiple trustees have breached the trust, they will be jointly and severally liable.
 
-```ad-example
-A is a professional trustee and breaches their duty of care by authorising an investment without considering the standard investment criteria. B is a co-trustee and lay person, who agrees to the investment on the basis that A has suggested it. Both trustees have breached the trust. A has actively breached it by making the investment while B has breached it by failing to properly turn their own mind to the matter.
-```
+> [!example]
+> A is a professional trustee and breaches their duty of care by authorising an investment without considering the standard investment criteria. B is a co-trustee and lay person, who agrees to the investment on the basis that A has suggested it. Both trustees have breached the trust. A has actively breached it by making the investment while B has breached it by failing to properly turn their own mind to the matter.
 
 ### Liability Before Appointment as Trustee
 

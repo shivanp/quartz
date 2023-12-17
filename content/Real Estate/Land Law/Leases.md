@@ -102,10 +102,8 @@ If the occupiers together have the right to exclude all others, including the la
 
 The question is whether they have one single lease (a 'joint tenancy') or several individual leases.
 
-```ad-defn
-title: Joint tenancy
-Where there is a joint tenancy all co-owners/tenant are deemed to constitute one single entity, and own/lease the whole property as one collective entity. Nobody owns a single/specific share; rather each are jointly and severally liable for the terms of the agreement.
-```
+> [!defn] Joint tenancy
+> Where there is a joint tenancy all co-owners/tenant are deemed to constitute one single entity, and own/lease the whole property as one collective entity. Nobody owns a single/specific share; rather each are jointly and severally liable for the terms of the agreement.
 
 As joint tenants are viewed as a single entity, they must hold the four unities: [[A G Securities v Vaughan [1990] 1 AC 417]]: unity of possession; unity of interest; unity of time; and unity of title.
 
@@ -124,9 +122,8 @@ As Lord Templemen said:
 
 > '…the two agreements were interdependent. Both would have been signed or neither. The two agreements must therefore be read together. Mr. Villiers and Miss Bridger applied to rent the flat jointly and sought and enjoyed joint and exclusive occupation of the whole of the flat. They shared the rights and the obligations imposed by the terms of their occupation. They acquired joint and exclusive occupation of the flat in consideration of periodical payments, and they therefore acquired a tenancy jointly.'
 
-```ad-important
-If it is found that the occupants do not have the four unities, they cannot have a joint tenancy. But if they can show that they each have exclusive possession of a part of the property then it is possible for them to have individual leases of their own part. If neither a joint tenancy nor an individual tenancy exists then the occupants can only be individual licensees sharing with each other.
-```
+> [!important]
+> If it is found that the occupants do not have the four unities, they cannot have a joint tenancy. But if they can show that they each have exclusive possession of a part of the property then it is possible for them to have individual leases of their own part. If neither a joint tenancy nor an individual tenancy exists then the occupants can only be individual licensees sharing with each other.
 
 ## Lease, Licence, Tenancy at Will
 
@@ -154,14 +151,13 @@ Key characteristics of a licence:
 - Does not grant the licensee security of tenure. A licence cannot be protected by the 1954 Act because it is not a tenancy.
 - Simple document to draft and agree.
 
-```ad-example
-In a commercial context, examples of where a licence to occupy may be encountered include:
-- staying in a hotel room;
-- paying to use a commercial car park;
-- occupying ‘serviced offices’ for short periods of time;
-- a ‘concession’ arrangement in a department store e.g. the Clarins counter in Debenhams; and
-- in a conveyancing transaction – sometimes during the period between exchange and completion a seller allows the buyer in occupation to redecorate - that arrangement is often a licence and written in the contract as such.
-```
+> [!example]
+> In a commercial context, examples of where a licence to occupy may be encountered include:
+> - staying in a hotel room;
+> - paying to use a commercial car park;
+> - occupying ‘serviced offices’ for short periods of time;
+> - a ‘concession’ arrangement in a department store e.g. the Clarins counter in Debenhams; and
+> - in a conveyancing transaction – sometimes during the period between exchange and completion a seller allows the buyer in occupation to redecorate - that arrangement is often a licence and written in the contract as such.
 
 ### Tenancy at Will
 
@@ -197,9 +193,8 @@ A members’ club is also carrying on a business for the purposes of the LTA 195
 
 So the tenant does not have to be a company, it could be a partnership or a sole trader. It could also be a sports club. Thus, a body of persons running a tennis club was held to be a business in [[Addiscombe Garden Estates v Crabbe [1958] 1 QB 513]].
 
-```ad-warning
-A tenancy at will is not a legal estate as it does not fall within the definition of a term of years absolute in the Law of Property Act 1925. [[Hagee (London) Ltd v AB Erikson and Larson [1975] 3 All ER 234]] confirmed that a tenancy at will does not fall within the protection of the 1954 Act.
-```
+> [!warning]
+> A tenancy at will is not a legal estate as it does not fall within the definition of a term of years absolute in the Law of Property Act 1925. [[Hagee (London) Ltd v AB Erikson and Larson [1975] 3 All ER 234]] confirmed that a tenancy at will does not fall within the protection of the 1954 Act.
 
 #### Effect
 
@@ -286,9 +281,8 @@ The tenant must sign either a **simple declaration** or a **statutory declaratio
 | Simple declaration    | In a prescribed form, states that the tenant has received and accepted the consequences of the landlord’s warning notice. |
 | Statutory declaration | In a prescribed form and made in front of an independent solicitor, is to the effect that the warning notice has been received and the tenant accepts the consequences.                                                                                                                          |
 
-```ad-warning
-The warning notice is served by the landlord on the tenant and the tenant makes a declaration.
-```
+> [!warning]
+> The warning notice is served by the landlord on the tenant and the tenant makes a declaration.
 
 ### Lease Wording
 

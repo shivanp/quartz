@@ -15,23 +15,19 @@ date modified: Sunday, December 10th 2023, 12:40:51 am
 
 ### Value of Claim
 
-```ad-statute
-title: PD 7A para 2.1
-Proceedings may not be started in the High Court unless the value of the claim is $>£100,000$. 
-```
+> [!statute] PD 7A para 2.1
+> Proceedings may not be started in the High Court unless the value of the claim is $>£100,000$. 
 
 So for claims worth $>£100,000$, there is often a choice of whether to start the claim in the High Court or County Court.
 
 When to choose High Court:
 
-```ad-statute
-title: PD 7A para 2.4
-A claim should be started in the High Court if by reason of:
-(1) the financial value of the claim and the amount in dispute, and/or
-(2) the complexity of the facts, legal issues, remedies or procedures involved, and/or
-(3) the importance of the outcome of the claim to the public in general,
-the claimant believes that the claim ought to be dealt with by a High Court judge.
-```
+> [!statute] PD 7A para 2.4
+> A claim should be started in the High Court if by reason of:
+> (1) the financial value of the claim and the amount in dispute, and/or
+> (2) the complexity of the facts, legal issues, remedies or procedures involved, and/or
+> (3) the importance of the outcome of the claim to the public in general,
+> the claimant believes that the claim ought to be dealt with by a High Court judge.
 
 ### County Court
 
@@ -72,32 +68,28 @@ The general rule is that the Claim Form will be served by the court unless the C
 
 Increasingly in practice you will find that the Claimant will want to serve the Claim Form, so that they have control over exactly when and how the Claim Form is served. In which case, they will also need to file a Certificate of Service with the court as evidence that they have served the Claim Form. In either case, you will need to consider where the Claim Form must be served.
 
-```ad-statute
-title: PD 16 para 2 - Claim Form
-**2.1** Rule 16.2 refers to matters which the claim form must contain. Where the claim is for money, the claim form must also contain the statement of value referred to in rule 16.3.
+> [!statute] PD 16 para 2 - Claim Form
+> **2.1** Rule 16.2 refers to matters which the claim form must contain. Where the claim is for money, the claim form must also contain the statement of value referred to in rule 16.3.
+> 
+> **2.2** The claim form must include an address at which the claimant resides or carries on business. This paragraph applies even though the claimant's address for service is the business address of his solicitor.
+> 
+> **2.3** Where the defendant is an individual, the claimant should (if he is able to do so) include in the claim form an address at which the defendant resides or carries on business. This paragraph applies even though the defendant’s solicitors have agreed to accept service on the defendant’s behalf.
+> 
+> **2.4** Any address which is provided for the purpose of these provisions must include a postcode or its equivalent in any EEA state (if applicable), unless the court orders otherwise. Postcode information for the United Kingdom may be obtained from www.royalmail.com or the Royal Mail Address Management Guide.
+> 
+> **2.5** If the claim form does not show a full address, including postcode, at which the claimant(s) and defendant(s) reside or carry on business, the claim form will be issued but will be retained by the court and will not be served until the claimant has supplied a full address, including postcode, or the court has dispensed with the requirement to do so. The court will notify the claimant.
+> 
+> **2.6** The claim form must be headed with the title of the proceedings, including the full name of each party. The full name means, in each case where it is known:
+> - (a) in the case of an individual, his full unabbreviated name and title by which he is known;
+> - (b) in the case of an individual carrying on business in a name other than his own name, the full unabbreviated name of the individual, together with the title by which he is known, and the full trading name (for example, John Smith ‘trading as’ or ‘T/as’ ‘JS Autos’);
+> - (c) in the case of a partnership (other than a limited liability partnership (LLP)) –
+> 	- (i) where partners are being sued in the name of the partnership, the full name by which the partnership is known, together with the words ‘(A Firm)’; or
+> 	- (ii) where partners are being sued as individuals, the full unabbreviated name of each partner and the title by which he is known;
+> - (d) in the case of a company or limited liability partnership registered in England and Wales, the full registered name, including suffix (plc, limited, LLP, etc), if any;
+> - (e) in the case of any other company or corporation, the full name by which it is known, including suffix where appropriate.
 
-**2.2** The claim form must include an address at which the claimant resides or carries on business. This paragraph applies even though the claimant's address for service is the business address of his solicitor.
-
-**2.3** Where the defendant is an individual, the claimant should (if he is able to do so) include in the claim form an address at which the defendant resides or carries on business. This paragraph applies even though the defendant’s solicitors have agreed to accept service on the defendant’s behalf.
-
-**2.4** Any address which is provided for the purpose of these provisions must include a postcode or its equivalent in any EEA state (if applicable), unless the court orders otherwise. Postcode information for the United Kingdom may be obtained from www.royalmail.com or the Royal Mail Address Management Guide.
-
-**2.5** If the claim form does not show a full address, including postcode, at which the claimant(s) and defendant(s) reside or carry on business, the claim form will be issued but will be retained by the court and will not be served until the claimant has supplied a full address, including postcode, or the court has dispensed with the requirement to do so. The court will notify the claimant.
-
-**2.6** The claim form must be headed with the title of the proceedings, including the full name of each party. The full name means, in each case where it is known:
-- (a) in the case of an individual, his full unabbreviated name and title by which he is known;
-- (b) in the case of an individual carrying on business in a name other than his own name, the full unabbreviated name of the individual, together with the title by which he is known, and the full trading name (for example, John Smith ‘trading as’ or ‘T/as’ ‘JS Autos’);
-- (c) in the case of a partnership (other than a limited liability partnership (LLP)) –
-	- (i) where partners are being sued in the name of the partnership, the full name by which the partnership is known, together with the words ‘(A Firm)’; or
-	- (ii) where partners are being sued as individuals, the full unabbreviated name of each partner and the title by which he is known;
-- (d) in the case of a company or limited liability partnership registered in England and Wales, the full registered name, including suffix (plc, limited, LLP, etc), if any;
-- (e) in the case of any other company or corporation, the full name by which it is known, including suffix where appropriate.
-```
-
-```ad-question
-title: When can a claimant seek anonymity?
-CPR 1998, r 39.2(4) provides that the court must order that the identity of any party (or witness) shall not be disclosed if, and only if, it considers non-disclosure necessary to secure the proper administration of justice and in order to protect the interests of that party (or witness).
-```
+> [!question] When can a claimant seek anonymity?
+> CPR 1998, r 39.2(4) provides that the court must order that the identity of any party (or witness) shall not be disclosed if, and only if, it considers non-disclosure necessary to secure the proper administration of justice and in order to protect the interests of that party (or witness).
 
 #### Brief Details of Claim
 
@@ -146,12 +138,10 @@ File with the court within seven days of service on the defendant (r 7.4(3)).
 
 Who can sign?
 
-```ad-statute
-title: PD 22, para 3.1
-In a statement of case, a response or an application notice, the statement of truth must be signed by:
-(1) the party or his litigation friend, or
-(2) the legal representative of the party or litigation friend.
-```
+> [!statute] PD 22, para 3.1
+> In a statement of case, a response or an application notice, the statement of truth must be signed by:
+> (1) the party or his litigation friend, or
+> (2) the legal representative of the party or litigation friend.
 
 Precedent drafting is given by PD 22 para 2.1:
 
@@ -173,19 +163,16 @@ Sign “The [party] believes…". PD 22 para 3.7: the statement refers to the cl
 
 The solicitor must state the capacity in which they sign and the name of their firm.
 
-```ad-note
-PD 22, para 3.10: the solicitor must sign in their own name and not that of their firm.
-```
+> [!note]
+> PD 22, para 3.10: the solicitor must sign in their own name and not that of their firm.
 
 ###### Implications of Solicitor Signing
 
-```ad-statute
-title: PD 22 para 3.8
-When a legal representative signs a statement of truth, they are representing:
-(1) that the client on whose behalf he has signed had authorised him to do so;
-(2) that before signing he had explained to the client that in signing the statement of truth he would be confirming the client’s belief that the facts stated in the document were true; and
-(3) that before signing he had informed the client of the possible consequences to the client if it should subsequently appear that the client did not have an honest belief in the truth of those facts.
-```
+> [!statute] PD 22 para 3.8
+> When a legal representative signs a statement of truth, they are representing:
+> (1) that the client on whose behalf he has signed had authorised him to do so;
+> (2) that before signing he had explained to the client that in signing the statement of truth he would be confirming the client’s belief that the facts stated in the document were true; and
+> (3) that before signing he had informed the client of the possible consequences to the client if it should subsequently appear that the client did not have an honest belief in the truth of those facts.
 
 ##### Statement Omission Consequences
 
@@ -252,10 +239,8 @@ A settlement against a child/ PP is not valid until approved by the court.
 - If proceedings issued solely for court approval of such a settlement, claim must be made under Part 8 CPR.
 - If money recovered for child/ PP, usually paid into High Court for investment.
 
-```ad-question
-title: Is a consent judgment involving a protected party without the appointment of LF/ approval of court, where the protected party's lack of capacity unknown to everyone acting in the litigation, valid?
-No, [[Dunhill (a protected party by her litigation friend Paul Tasker) v Burgin [2014] UKSC 18]]
-```
+> [!question] Is a consent judgment involving a protected party without the appointment of LF/ approval of court, where the protected party's lack of capacity unknown to everyone acting in the litigation, valid?
+> No, [[Dunhill (a protected party by her litigation friend Paul Tasker) v Burgin [2014] UKSC 18]]
 
 #### Partnerships
 
@@ -283,47 +268,41 @@ Permissible to sue an unnamed D only in very limited circumstances ([[Cameron v 
 
 ##### Application
 
-```ad-statute
-title: 19.4(2) CPR 1998
-An application for permission to remove, add or substitute a party may be made by:
-(a) an existing party; or
-(b) a person who wishes to become a party.
-```
+> [!statute] 19.4(2) CPR 1998
+> An application for permission to remove, add or substitute a party may be made by:
+> (a) an existing party; or
+> (b) a person who wishes to become a party.
 
 - The application may be made without notice and must be supported by evidence.
 - Nobody may be added or substituted **as a claimant** unless they have given their consent in writing and that consent has been filed with the court.
 
 ##### When
 
-```ad-statute
-title: r 19.2 CPR
-(2) The court may order a person to be added as a new party if—
-- (a) it is desirable to add the new party so that the court can resolve all the matters in dispute in the proceedings; or
-- (b) there is an issue involving the new party and an existing party which is connected to the matters in dispute in the proceedings, and it is desirable to add the new party so that the court can resolve that issue.
-
-(3) The court may order any person to cease to be a party if it is not desirable for that person to be a
-party to the proceedings.
-
-(4) The court may order a new party to be substituted for an existing one if—
-- (a) the existing party’s interest or liability has passed to the new party; and
-- (b) it is desirable to substitute the new party so that the court can resolve the matters in dispute in the proceedings.
-
-```
+> [!statute] r 19.2 CPR
+> (2) The court may order a person to be added as a new party if—
+> - (a) it is desirable to add the new party so that the court can resolve all the matters in dispute in the proceedings; or
+> - (b) there is an issue involving the new party and an existing party which is connected to the matters in dispute in the proceedings, and it is desirable to add the new party so that the court can resolve that issue.
+> 
+> (3) The court may order any person to cease to be a party if it is not desirable for that person to be a
+> party to the proceedings.
+> 
+> (4) The court may order a new party to be substituted for an existing one if—
+> - (a) the existing party’s interest or liability has passed to the new party; and
+> - (b) it is desirable to substitute the new party so that the court can resolve the matters in dispute in the proceedings.
+> 
 
 Special provisions apply where parties are to be added or substituted after the end of the  
 relevant limitation period–see r 19.5 for details of the necessity test.
 
-```ad-statute
-title: r 19.5
-(2) The court may add or substitute a party only if—
-- (a) the relevant limitation period was current when the proceedings were started; and
-- (b) the addition or substitution is necessary.
-
-(3) The addition or substitution of a party is necessary only if the court is satisfied that—
-- (a) the new party is to be substituted for a party who was named in the claim form in mistake for the new party;
-- (b) the claim cannot properly be carried on by or against the original party unless the new party is added or substituted as claimant or defendant; or
-- (c) the original party has died or had a bankruptcy order made against him and his interest or liability has passed to the new party.
-```
+> [!statute] r 19.5
+> (2) The court may add or substitute a party only if—
+> - (a) the relevant limitation period was current when the proceedings were started; and
+> - (b) the addition or substitution is necessary.
+> 
+> (3) The addition or substitution of a party is necessary only if the court is satisfied that—
+> - (a) the new party is to be substituted for a party who was named in the claim form in mistake for the new party;
+> - (b) the claim cannot properly be carried on by or against the original party unless the new party is added or substituted as claimant or defendant; or
+> - (c) the original party has died or had a bankruptcy order made against him and his interest or liability has passed to the new party.
 
 #### Professional Conduct
 
@@ -353,14 +332,12 @@ If a solicitor acts without authority of their client, they will be personally l
 
 General rule: any solicitor is authorised to accept service.
 
-```ad-statute
-title: CPR r 6.7
-(1) Solicitor within the jurisdiction: Subject to rule 6.5(1), where –
-- (a) the defendant has given in writing the business address within the jurisdiction of a solicitor as an address at which the defendant may be served with the claim form; or
-- (b) a solicitor acting for the defendant has notified the claimant in writing that the solicitor is instructed by the defendant to accept service of the claim form on behalf of the defendant at a business address within the jurisdiction,
-
-the claim form must be served at the business address of that solicitor.
-```
+> [!statute] CPR r 6.7
+> (1) Solicitor within the jurisdiction: Subject to rule 6.5(1), where –
+> - (a) the defendant has given in writing the business address within the jurisdiction of a solicitor as an address at which the defendant may be served with the claim form; or
+> - (b) a solicitor acting for the defendant has notified the claimant in writing that the solicitor is instructed by the defendant to accept service of the claim form on behalf of the defendant at a business address within the jurisdiction,
+> 
+> the claim form must be served at the business address of that solicitor.
 
 If parties’ solicitors have been in correspondence before litigation starts, it is usual for the  
 claimant’s solicitors to ask the defendant’s solicitors if they are ‘authorised to accept service of  
@@ -412,9 +389,8 @@ By r 7.5(1), a claimant who wishes to serve a claim form in the jurisdiction mus
 
 ### Deemed Service
 
-```ad-important
-Rule 6.14 introduces a simple, indisputable presumption that the claim form is deemed to have been served on the second business day after the step set out above has occurred.
-```
+> [!important]
+> Rule 6.14 introduces a simple, indisputable presumption that the claim form is deemed to have been served on the second business day after the step set out above has occurred.
 
 r 6.2(b): ‘business day’ here means any day except Saturday, Sunday, a bank holiday, Good Friday or Christmas Day.
 
@@ -428,25 +404,21 @@ Court usually serves by first class post, except for when (r 6.4(1)):
 
 #### Undelivered Claim
 
-```ad-statute
-title: r 6.18 CPR
-(1) Where –
-- (a) the court serves the claim form by post; and
-- (b) the claim form is returned to the court,
-
-the court will send notification to the claimant that the claim form has been returned.
-
-(2) The claim form will be deemed to be served unless the address for the defendant on the claim form is not the relevant address for the purpose of rules 6.7 to 6.10.
-```
+> [!statute] r 6.18 CPR
+> (1) Where –
+> - (a) the court serves the claim form by post; and
+> - (b) the claim form is returned to the court,
+> 
+> the court will send notification to the claimant that the claim form has been returned.
+> 
+> (2) The claim form will be deemed to be served unless the address for the defendant on the claim form is not the relevant address for the purpose of rules 6.7 to 6.10.
 
 #### After Service
 
-```ad-statute
-title: r 6.17(2) CPR - Certificate of service
-Where the claimant serves the claim form, the claimant –
-- (a) must file a certificate of service within 21 days of service of the particulars of claim, unless all the defendants to the proceedings have filed acknowledgments of service within that time; and
-- (b) may not obtain judgment in default under Part 12 unless a certificate of service has been filed.
-```
+> [!statute] r 6.17(2) CPR - Certificate of service
+> Where the claimant serves the claim form, the claimant –
+> - (a) must file a certificate of service within 21 days of service of the particulars of claim, unless all the defendants to the proceedings have filed acknowledgments of service within that time; and
+> - (b) may not obtain judgment in default under Part 12 unless a certificate of service has been filed.
 
 #### Service Out of Jurisdiction
 
@@ -488,11 +460,9 @@ Same as claim forms for how to serve, who to serve and where to serve - see rule
 
 ## Service of Particulars of Claim
 
-```ad-statute
-title: PD 7A, para 6.1
-Where the claimant does not include the particulars of claim in the claim form, they may be served separately:
-
-(1) either at the same time as the claim form, or
-
-(2) within 14 days after service of the claim form provided that the service of the particulars of claim is within 4 months after the date of issue of the claim form
-```
+> [!statute] PD 7A, para 6.1
+> Where the claimant does not include the particulars of claim in the claim form, they may be served separately:
+> 
+> (1) either at the same time as the claim form, or
+> 
+> (2) within 14 days after service of the claim form provided that the service of the particulars of claim is within 4 months after the date of issue of the claim form

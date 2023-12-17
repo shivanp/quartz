@@ -46,15 +46,11 @@ Different types of loan security have different effects:
 - Security under which ownership in the secured asset is transferred to the bank
 - Security under which a bank has actual (or "constructive") possession of the secured asset.
 
-```ad-defn
-title: Ownership
-Having (legal or equitable) title to an asset.
-```
+> [!defn] Ownership
+> Having (legal or equitable) title to an asset.
 
-```ad-defn
-title: Possession
-Having physical possession of an asset.
-```
+> [!defn] Possession
+> Having physical possession of an asset.
 
 ## Giving Rights Over Assets
 
@@ -74,9 +70,8 @@ This allows the borrower to use the charged assets unless and until any “enfor
 
 On an ‘enforcement event’, under its contractual rights in the charge document, the bank may require the borrower to sell the asset, or the bank may take possession of, and sell, the asset, or appoint a receiver to do the same (this carries less risk for the bank since the receiver acts as the borrower’s agent).
 
-```ad-tip
-If the borrower sells an asset subject to a fixed charge, the rights created by the charge usually remain with the asset.
-```
+> [!tip]
+> If the borrower sells an asset subject to a fixed charge, the rights created by the charge usually remain with the asset.
 
 ## Floating Charges
 
@@ -87,13 +82,12 @@ A fixed charge is still unsuitable to secure assets which a borrower might want 
 - Unlike a fixed charge, a floating charge specifically allows the borrower to deal with the charged assets in the **ordinary course of business** (construed widely).
 - Possible to create more than one floating charge over the same group of assets.
 
-```ad-defn
-In [[Re Yorkshire Woolcombers Association [1904] AC 355]], a floating charge was defined as
-
-- A class of assets, present and future; and
-- Which in the ordinary course of the company's business changes from time to time; and
-- It is contemplated that until the holders of the charge take steps to enforce it, the company may carry on business in the ordinary way as far as concerns the assets charged.
-```
+> [!defn]
+> In [[Re Yorkshire Woolcombers Association [1904] AC 355]], a floating charge was defined as
+> 
+> - A class of assets, present and future; and
+> - Which in the ordinary course of the company's business changes from time to time; and
+> - It is contemplated that until the holders of the charge take steps to enforce it, the company may carry on business in the ordinary way as far as concerns the assets charged.
 
 Subsequent cases have emphasised the third characteristic identified by Romer LJ. Thus, if a charge allows a borrower to deal with the charged assets without the bank’s consent, it almost certainly will not be a fixed charge. Similarly, if a borrower is not free to deal with secured assets without the bank’s consent, the security will be fixed even if it is described as ‘floating’ in the security document ([[Russell Cooke Trust Company Ltd v Elliott [2007] EWHC 1443 (Ch)]]).
 
@@ -105,10 +99,8 @@ However, the assets subject to crystallisation of the floating charge are **not*
 
 If the company receives more assets of the same class after crystallisation, these are automatically subject to the crystallisation charge ([[NW Robbie and Co v Whitney Warehouse Co Ltd [1963] 1 WLR 1324, CA]]). The triggering events for crystallisation are set out in contract.
 
-```ad-note
-title: Partial crystallisation
-Most charges provide for crystallisation to be simultaneously effective over all the assets secured by the charge. There is, however, no reason why a floating charge should not be partially crystallised.
-```
+> [!note] Partial crystallisation
+> Most charges provide for crystallisation to be simultaneously effective over all the assets secured by the charge. There is, however, no reason why a floating charge should not be partially crystallised.
 
 - Advantages
 	- Allows the company to deal with the secured assets on a day-to-day basis.
@@ -151,9 +143,8 @@ Circumstances precipitating crystallisation commonly agreed contractually betwee
 
 #### Post-crystallisation
 
-```ad-important
-A floating charge creates an immediate security interest but does not attach to any individual asset until crystallisation. 
-```
+> [!important]
+> A floating charge creates an immediate security interest but does not attach to any individual asset until crystallisation. 
 
 Crystallisation does not in itself create a new charge to be registered under the CA 2006 ([[Re Manurewa Transport Ltd [1971] NZLR 909]]).
 
@@ -184,10 +175,9 @@ Subject to the security provider's right to require the creditor to transfer the
 
 A type of mortgage (known as “charge by way of legal mortgage” or “charge by deed expressed to be by way of legal mortgage”–s 87 LPA 1925) is usually taken over land. Ownership will remain vested in the security provider in this case.
 
-```ad-tip
-A mortgage can therefore be thought of as an ‘enhanced’ charge, since it gives rights over an asset which are backed with a transfer of legal or equitable title.
-$$\text{Mortgage} = \text{Right of appropriation} + \text{Transfer of ownership}$$
-```
+> [!tip]
+> A mortgage can therefore be thought of as an ‘enhanced’ charge, since it gives rights over an asset which are backed with a transfer of legal or equitable title.
+> $\text{Mortgage} = \text{Right of appropriation} + \text{Transfer of ownership}$
 
 Subject to contrary intention (and statutory restrictions in the case of land), a (legal) mortgage entitles the bank to take immediate possession of the mortgaged asset. But taking possession is not required to perfect the security.
 
@@ -212,9 +202,8 @@ There is little practical difference between an equitable mortgage and equitable
 
 ##### Disadvantages of Equitable Mortgages
 
-```ad-warning
-An equitable mortgage can be ignored by a bona fide purchaser (or ‘security taker’) for value of the legal title to an asset without notice (actual or constructive) of the equitable security.
-```
+> [!warning]
+> An equitable mortgage can be ignored by a bona fide purchaser (or ‘security taker’) for value of the legal title to an asset without notice (actual or constructive) of the equitable security.
 
 But this disadvantage is largely overcome if the equitable security is registered since this provides notice of the security to anyone searching the register.
 
@@ -224,9 +213,8 @@ An equitable mortgage may not benefit from the ‘automatic’ powers vested in 
 
 ### Pledge
 
-```ad-defn
-A pledge is a way of creating security by the actual (or constructive) delivery of a tangible movable asset to a creditor, to be held until the performance of an obligation (eg, repaying a debt). The bank will take possession while the borrower retains ownership.
-```
+> [!defn]
+> A pledge is a way of creating security by the actual (or constructive) delivery of a tangible movable asset to a creditor, to be held until the performance of an obligation (eg, repaying a debt). The bank will take possession while the borrower retains ownership.
 
 There is a right to sell the asset to settle the debt owed, upon the giving of reasonable notice.
 
@@ -234,10 +222,8 @@ There is a right to sell the asset to settle the debt owed, upon the giving of r
 
 The security is the possession of an asset. A pledged asset must be “delivered” by the borrower. This can be through physical delivery or “constructive delivery” i.e., vesting control (e.g., keys to a safe deposit box).
 
-```ad-note
-title: Delivery of documents
-Assets may be pledged by delivery of documents, if these documents effectively provide control. So holding the share certificate of a registered share does not give sufficient control, even if accompanied by a blank stock transfer form. 
-```
+> [!note] Delivery of documents
+> Assets may be pledged by delivery of documents, if these documents effectively provide control. So holding the share certificate of a registered share does not give sufficient control, even if accompanied by a blank stock transfer form. 
 
 The pledge ends when the pledged asset is returned to the borrower. The most important right implied by a pledge is the right to sell pledged assets to meet a defaulted debt.
 
@@ -284,24 +270,21 @@ An assignment by way of security can be legal or equitable:
 
 Assignment ‘by way of charge’ is expressly excluded from s 136 and so assigning rights by way of security will constitute a legal assignment only if it is an absolute assignment with a proviso for re-assignment on satisfaction of the secured obligation.
 
-```ad-statute
-title: 136 - Legal assignments of things in action.
-
-(1) Any absolute assignment by writing under the hand of the assignor (not purporting to be by way of charge only) of any debt or other legal thing in action, of which **express notice in writing** has been given to the debtor, trustee or other person from whom the assignor would have been entitled to claim such debt or thing in action, is effectual in law (subject to equities having priority over the right of the assignee) to pass and transfer from the date of such notice—
-- (a) the legal right to such debt or thing in action;
-- (b) all legal and other remedies for the same; and
-- (c) the power to give a good discharge for the same without the concurrence of the assignor:
-
-Provided that, if the debtor, trustee or other person liable in respect of such debt or thing in action has notice—
-- (a) that the assignment is disputed by the assignor or any person claiming under him; or
-- (b) of any other opposing or conflicting claims to such debt or thing in action;he may, if he thinks fit, either call upon the persons making claim thereto to interplead concerning the same, or pay the debt or other thing in action into court under the provisions of the M1Trustee Act, 1925.
-```
+> [!statute] 136 - Legal assignments of things in action.
+> 
+> (1) Any absolute assignment by writing under the hand of the assignor (not purporting to be by way of charge only) of any debt or other legal thing in action, of which **express notice in writing** has been given to the debtor, trustee or other person from whom the assignor would have been entitled to claim such debt or thing in action, is effectual in law (subject to equities having priority over the right of the assignee) to pass and transfer from the date of such notice—
+> - (a) the legal right to such debt or thing in action;
+> - (b) all legal and other remedies for the same; and
+> - (c) the power to give a good discharge for the same without the concurrence of the assignor:
+> 
+> Provided that, if the debtor, trustee or other person liable in respect of such debt or thing in action has notice—
+> - (a) that the assignment is disputed by the assignor or any person claiming under him; or
+> - (b) of any other opposing or conflicting claims to such debt or thing in action;he may, if he thinks fit, either call upon the persons making claim thereto to interplead concerning the same, or pay the debt or other thing in action into court under the provisions of the M1Trustee Act, 1925.
 
 Assignments by way of security will always include a provision (either explicit or implied) for reassignment on satisfaction of the debt. Priority between assignments depends on notice being given to the third party.
 
-```ad-warning
-It is not possible to take a legal assignment over future choses in action. So an assignment can never cover e.g., future debts. 
-```
+> [!warning]
+> It is not possible to take a legal assignment over future choses in action. So an assignment can never cover e.g., future debts. 
 
 ## Terminology
 
@@ -334,10 +317,8 @@ There are various ways a bank might choose to enhance its prospects of repayment
 
 ## Guarantees and Comfort Letters
 
-```ad-defn
-title: Obligors
-The borrower, together with any third parties willing to support the borrower's repayment obligations. 
-```
+> [!defn] Obligors
+> The borrower, together with any third parties willing to support the borrower's repayment obligations. 
 
 Guarantors are also known as sureties.
 
@@ -356,9 +337,8 @@ An indemnity creates an obligation to indemnify a party for a specified loss whi
 
 It is possible for both a guarantee and an indemnity to be given at the same time. For the lender, it is essential that a guarantee of a loan is supported by an indemnity if the lender is to be properly protected.
 
-```ad-action
-When including both an indemnity and a guarantee in the same document, it is very important to spell out the terms of the obligations, as the onus will be on the lender to prove that the document is both a primary and secondary obligation. The title of the document will not determine whether it is a guarantee or an indemnity, or both, and neither will the practice of referring to a guarantor and indemnifier simply as a guarantor, even though this is widespread.
-```
+> [!action]
+> When including both an indemnity and a guarantee in the same document, it is very important to spell out the terms of the obligations, as the onus will be on the lender to prove that the document is both a primary and secondary obligation. The title of the document will not determine whether it is a guarantee or an indemnity, or both, and neither will the practice of referring to a guarantor and indemnifier simply as a guarantor, even though this is widespread.
 
 Assume that A has borrowed money from B, and so A owes a contractual obligation to repay that money to B.
 
@@ -432,10 +412,8 @@ The guarantee document should postpone the rights until such time as the bank ha
 - The courts also consider the extent to which the promise can be construed as being the main purpose of the transaction (a guarantee) or incidental to the main purpose of the transaction (an indemnity) (_[Harburg India Rubber Comb Co v Martin [1902] 1 KB 778](https://uk.westlaw.com/D-000-5044?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=31b1b10b11a346b28acbfa5d800fec19)_).
 - Identifying a guarantee involves making a distinction between the promisor having a mere motive for making the promise and having a “real interest” in (that is, deriving actual benefit from) the underlying transaction (_[Pitts v Jones [2007] EWCA Civ 1301](https://uk.westlaw.com/D-000-2980?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=31b1b10b11a346b28acbfa5d800fec19)_).
 
-```ad-defn
-title: Principle of co-extensiveness
-The key feature of a guarantee that a guarantor is only liable to the beneficiary to the same extent as the underlying obligor.
-```
+> [!defn] Principle of co-extensiveness
+> The key feature of a guarantee that a guarantor is only liable to the beneficiary to the same extent as the underlying obligor.
 
 #### Principle Debtor
 
@@ -465,20 +443,15 @@ The generally accepted view is that a principal debtor clause is unlikely to con
 	- The term “financial assistance” includes the provision of guarantees, security or indemnities and any form of assistance whereby the net assets of the assisting company are reduced to a material extent or where the assisting company has no net assets.
 	- Penalties include the guarantee/ indemnity being void, and directors being liable for a fine and $\leq 2$ years imprisonment.
 
-```ad-test
-title: Rule in Clayton's case
+> [!test] Rule in Clayton's case
+> 
+> Technically, the rule applying to withdrawals from a current bank account is the rule in [[Clayton’s Case (1816) 1 Mer 529]]. Grant MR stated: ‘it is the sum first paid in that is first drawn out.’ The rule is commonly described as ‘the first in, first out’ rule.
 
-Technically, the rule applying to withdrawals from a current bank account is the rule in [[Clayton’s Case (1816) 1 Mer 529]]. Grant MR stated: ‘it is the sum first paid in that is first drawn out.’ The rule is commonly described as ‘the first in, first out’ rule.
-```
+> [!example]
+> T misapplies £1,000 of trust fund A and pays it into a current bank account (‘the account’). T misapplies £1,000 of trust fund B and pays it into the account. T withdraws £1,000 from the account and uses it to purchase shares. T misapplies £1,000 of trust fund C and pays it into the account. T withdraws £1,000 from the account and dissipates it. £1,000 is still credited to the account.
 
-```ad-example
-T misapplies £1,000 of trust fund A and pays it into a current bank account (‘the account’). T misapplies £1,000 of trust fund B and pays it into the account. T withdraws £1,000 from the account and uses it to purchase shares. T misapplies £1,000 of trust fund C and pays it into the account. T withdraws £1,000 from the account and dissipates it. £1,000 is still credited to the account.
-```
-
-```ad-important
-title: Illegality
-Azimut-Bennetti v Healay – if the underlying obligation was void for public policy (e.g. as a penalty), then the guarantee will also be void for reasons of public policy and there is nothing that the guarantee can say to change it.
-```
+> [!important] Illegality
+> Azimut-Bennetti v Healay – if the underlying obligation was void for public policy (e.g. as a penalty), then the guarantee will also be void for reasons of public policy and there is nothing that the guarantee can say to change it.
 
 ### Insolvency Act 1986
 
@@ -512,9 +485,8 @@ This may undermine a bank's security, so it is common for the bank to require re
 
 A right to set a debt owed by a creditor to a debtor against the debtor’s debt, and so reduce or extinguish that debt.
 
-```ad-tip
-Basically the right to take money from the borrower's current account if it defaults on its loan. 
-```
+> [!tip]
+> Basically the right to take money from the borrower's current account if it defaults on its loan. 
 
 3 ways in which a bank is likely to have a right of set-off against the borrower:
 
@@ -524,9 +496,8 @@ Basically the right to take money from the borrower's current account if it defa
 | Contractual set-off        | Most security documents supporting a loan will enhance the equitable right of set-off by allowing the bank to set off unliquidated (contingent) claims. |
 | Set-off on liquidation     | r 490 Insolvency Rules 1986 provides for mandatory set-off. Basically, any ‘mutual’ credits, debts or dealings can be set off so long as the bank did not know of the petition for insolvency against the borrower when it gave credit. Set off of contingent claims also allowed.                                                                                                                                                         |
 
-```ad-note
-The right of set-off is particularly important if a debtor is in danger of becoming insolvent (but no petition has been lodged), since it allows access to the debtor’s unsecured assets (ie, cash) without risk of being a transaction at an undervalue or a preference under IA 1986, ss 238 and 239.
-```
+> [!note]
+> The right of set-off is particularly important if a debtor is in danger of becoming insolvent (but no petition has been lodged), since it allows access to the debtor’s unsecured assets (ie, cash) without risk of being a transaction at an undervalue or a preference under IA 1986, ss 238 and 239.
 
 ### Banker's Right of Combination
 
@@ -548,12 +519,10 @@ Banks didn't like this, so successfully lobbied for the right to block an admini
 
 #### Administrative Receiver pre-EA 2002
 
-```ad-statute
-title: s 29(2) IA 1986
-“Administrative receiver” means—
-- (a) a receiver or manager of the whole (or substantially the whole) of a company’s property appointed by or on behalf of the holders of any debentures of the company secured by a charge which, as created, was a floating charge, or by such a charge and one or more other securities; or
-- (b) a person who would be such a receiver or manager but for the appointment of some other person as the receiver of part of the company’s property.
-```
+> [!statute] s 29(2) IA 1986
+> “Administrative receiver” means—
+> - (a) a receiver or manager of the whole (or substantially the whole) of a company’s property appointed by or on behalf of the holders of any debentures of the company secured by a charge which, as created, was a floating charge, or by such a charge and one or more other securities; or
+> - (b) a person who would be such a receiver or manager but for the appointment of some other person as the receiver of part of the company’s property.
 
 The term ‘debenture’ ‘includes … bonds and any other securities of a company …’. So long as a bank held security (which included a floating charge) over ‘all or substantially all’ of a borrower’s assets, it could appoint an administrative receiver, with wide-ranging powers to manage the business and sell assets to repay the bank debt and, crucially, the power to block an administration order and moratorium.
 
@@ -585,9 +554,8 @@ In addition to any floating charges created before 15 September 2003, there are 
 
 Applies only to specialist financing.
 
-```ad-summary
-Where the bank holds a ‘qualifying floating charge’ created after 15 September 2003, but does not fall within one of the eight statutory exceptions, it will be permitted to appoint an administrator only to realise security on insolvency. The bank’s administrator must consider the two prior purposes of administration before realising assets on the bank’s behalf.
-```
+> [!summary]
+> Where the bank holds a ‘qualifying floating charge’ created after 15 September 2003, but does not fall within one of the eight statutory exceptions, it will be permitted to appoint an administrator only to realise security on insolvency. The bank’s administrator must consider the two prior purposes of administration before realising assets on the bank’s behalf.
 
 ### Peripheral Benefits
 
@@ -645,38 +613,35 @@ All charges (remember this includes mortgages) may be registered, with the follo
 2. a charge created by a member of Lloyd’s to secure its obligations in connection with its underwriting business;
 3. a charge excluded by any other Act.
 
-```ad-statute
-title: s 859A CA 2006 - Charges created by a company
+> [!statute] s 859A CA 2006 - Charges created by a company
+> 
+> (1) Subject to subsection (6), this section applies where a company creates a charge.
+> 
+> (2) The registrar must register the charge if, before the end of the period allowed for delivery, the company or any person interested in the charge delivers to the registrar for registration a section 859D statement of particulars.
+> 
+> (3) Where the charge is created or evidenced by an instrument, the registrar is required to register it only if a certified copy of the instrument is delivered to the registrar with the statement of particulars.
+> 
+> (4) “The period allowed for delivery” is 21 days beginning with the day after the date of creation of the charge (see section 859E), unless an order allowing an extended period is made under section 859F(3).
+> 
+> (5) Where an order is made under section 859F(3) a copy of the order must be delivered to the registrar with the statement of particulars.
+> 
+> (6) This section does not apply to—
+> - (a) a charge in favour of a landlord on a cash deposit given as a security in connection with the lease of land;
+> - (b) a charge created by a member of Lloyd's (within the meaning of the Lloyd's Act 1982 F2) to secure its obligations in connection with its underwriting business at Lloyd's;
+> - (c) a charge excluded from the application of this section by or under any other Act.
+> 
+> (7) In this Part—
+> 
+> “cash” includes foreign currency,
+> 
+> “charge” includes—
+> - (a) a mortgage;
+> - (b) a standard security, assignation in security, and any other right in security constituted under the law of Scotland, including any heritable security, but not including a pledge, and
+> 
+> “company” means a UK-registered company.
 
-(1) Subject to subsection (6), this section applies where a company creates a charge.
-
-(2) The registrar must register the charge if, before the end of the period allowed for delivery, the company or any person interested in the charge delivers to the registrar for registration a section 859D statement of particulars.
-
-(3) Where the charge is created or evidenced by an instrument, the registrar is required to register it only if a certified copy of the instrument is delivered to the registrar with the statement of particulars.
-
-(4) “The period allowed for delivery” is 21 days beginning with the day after the date of creation of the charge (see section 859E), unless an order allowing an extended period is made under section 859F(3).
-
-(5) Where an order is made under section 859F(3) a copy of the order must be delivered to the registrar with the statement of particulars.
-
-(6) This section does not apply to—
-- (a) a charge in favour of a landlord on a cash deposit given as a security in connection with the lease of land;
-- (b) a charge created by a member of Lloyd's (within the meaning of the Lloyd's Act 1982 F2) to secure its obligations in connection with its underwriting business at Lloyd's;
-- (c) a charge excluded from the application of this section by or under any other Act.
-
-(7) In this Part—
-
-“cash” includes foreign currency,
-
-“charge” includes—
-- (a) a mortgage;
-- (b) a standard security, assignation in security, and any other right in security constituted under the law of Scotland, including any heritable security, but not including a pledge, and
-
-“company” means a UK-registered company.
-```
-
-```ad-warning
-Charges over shares are, strictly speaking, exempt from registration under the Companies Act 2006 because of the effect of the Financial Collateral Arrangements (No. 2) Regulations 2003 (as amended). However, in practice, security over shares is usually registered, even when registration is not strictly required, because often the share security document covers more than just the shares, thereby giving rise to the concern that payments on the shares (e.g. dividends) may be book debts and, therefore, the security may be registrable.
-```
+> [!warning]
+> Charges over shares are, strictly speaking, exempt from registration under the Companies Act 2006 because of the effect of the Financial Collateral Arrangements (No. 2) Regulations 2003 (as amended). However, in practice, security over shares is usually registered, even when registration is not strictly required, because often the share security document covers more than just the shares, thereby giving rise to the concern that payments on the shares (e.g. dividends) may be book debts and, therefore, the security may be registrable.
 
 #### Who Registers
 
@@ -684,14 +649,13 @@ Either the company or “any person interested in the charge” (s 859A(2)). Thi
 
 #### Requirements
 
-```ad-action
-Once agreement has been entered into, the company/ any person interested in the charge should deliver (s 859A(2)):
-
-1. A s 859D statement of particulars to Companies House (s 859A(2))
-	- This will usually be Form MR01 for a company (or MR08 where there is no charge instrument) or the equivalent forms LLMR01 and LLMR08 for a limited liability partnership.
-2. A certified copy of the instrument creating the charge (s 859A(3))
-3. The requisite fee
-```
+> [!action]
+> Once agreement has been entered into, the company/ any person interested in the charge should deliver (s 859A(2)):
+> 
+> 1. A s 859D statement of particulars to Companies House (s 859A(2))
+> 	- This will usually be Form MR01 for a company (or MR08 where there is no charge instrument) or the equivalent forms LLMR01 and LLMR08 for a limited liability partnership.
+> 2. A certified copy of the instrument creating the charge (s 859A(3))
+> 3. The requisite fee
 
 s 859G allows certain details to be obscured in the certified copy of the charge instrument (known as ‘redaction’), such as
 
@@ -782,9 +746,8 @@ Registration of charges applies to all charges created by UK companies/ LLPs, ev
 
 The Bills of Sale Acts 1878 and 1882 impose registration requirements on security created by individuals.
 
-```ad-note
-The Acts require most written, non-possessory charges given by an individual or a partnership over tangible property to be registered in prescribed form at the Supreme Court as a bill of sale.
-```
+> [!note]
+> The Acts require most written, non-possessory charges given by an individual or a partnership over tangible property to be registered in prescribed form at the Supreme Court as a bill of sale.
 
 IA 1986, s 344 requires most forms of assignment of a trader’s book debts to be registered as a bill of sale if they are to be valid against a trustee in bankruptcy.
 
@@ -815,9 +778,8 @@ IA 1986, s 344 requires most forms of assignment of a trader’s book debts to b
 
 [[Dearle v Hall (1828) 3 Russ 1]] establishes a rule of priority applicable to all assignments or charges of equitable interests and any interest in debts.
 
-```ad-action
-To ensure priority, notice of the charge or assignment must be given to the third party which owes the obligation.
-```
+> [!action]
+> To ensure priority, notice of the charge or assignment must be given to the third party which owes the obligation.
 
 The same rule applies to charges. The rule will not apply, however, where a subsequent assignee (or chargee) knows of the earlier assignment when taking its assignment. Thus, registration of the security at the Companies Registry will usually defeat the rule.
 
@@ -845,12 +807,10 @@ Participants restricted so that:
 		- More robust than contingent debt subordination.
 - The pooled money will then be distributed in accordance with the agreement.
 
-```ad-question
-title: Does a turnover trust create a proprietory interest over the debt which requires registration as a charge under CA 2006?
-[[SSSL Realisations Limited [2004] EWHC (Ch) 1760]] held that the turnover trust in that case did not create a charge: it did create a proprietory right, but since it was limited to the debt owed there was no charge over the ‘junior’ creditor’s property.
-
-Some practitioners register anyway just to be sure. 
-```
+> [!question] Does a turnover trust create a proprietory interest over the debt which requires registration as a charge under CA 2006?
+> [[SSSL Realisations Limited [2004] EWHC (Ch) 1760]] held that the turnover trust in that case did not create a charge: it did create a proprietory right, but since it was limited to the debt owed there was no charge over the ‘junior’ creditor’s property.
+> 
+> Some practitioners register anyway just to be sure. 
 
 There is also **structural subordination**: ordinary shareholders automatically subordinated to debt-holding creditors because debts must be repaid before capital can be realised.
 
@@ -864,9 +824,8 @@ Subordination between shareholders through preference shares.
 
 ## Tacking
 
-```ad-defn
-Tacking is the ability to secure new advances under existing security.
-```
+> [!defn]
+> Tacking is the ability to secure new advances under existing security.
 
 Depends on the asset:
 
@@ -905,9 +864,8 @@ In the absence of any specific agreement, the rule in [[Clayton’s Case (1816) 
 
 Subject to contrary agreement, once a guaranteed liability has been fixed in value, any payment by the borrower to the bank will be deemed to reduce the guaranteed debt.
 
-```ad-action
-Can be avoided by specifying the guarantee to be ‘continuing’, or alternatively an ‘all monies guarantee’.
-```
+> [!action]
+> Can be avoided by specifying the guarantee to be ‘continuing’, or alternatively an ‘all monies guarantee’.
 
 ## Fixed or Floating
 
@@ -918,10 +876,8 @@ Floating charge advantages (for the bank):
 	- After changes made by the EA 2002, this is relevant only to ‘specialised’ financial structures.
 - The holder of a ‘qualifying floating charge’ (as defined by IA 1986, Sch B1, para 14) can appoint an administrator using an out-of-court procedure.
 
-```ad-defn
-title: “Lightweight”/ “Phantom” floating charge
-Charge taken primarily for the purpose of allowing the bank to appoint an administrative receiver.
-```
+> [!defn] “Lightweight”/ “Phantom” floating charge
+> Charge taken primarily for the purpose of allowing the bank to appoint an administrative receiver.
 
 Floating charge disadvantages:
 
@@ -936,10 +892,8 @@ See also [[Common Securities]].
 
 ## Hardening Periods
 
-```ad-defn
-title: Hardening period
-A period during which the security is vulnerable to provision in IA 1986 for setting aside certain transactions. 
-```
+> [!defn] Hardening period
+> A period during which the security is vulnerable to provision in IA 1986 for setting aside certain transactions. 
 
 Possible grounds for setting aside security:
 
@@ -955,13 +909,11 @@ Before lending, check the capacity of the borrower to provide security.
 
 The powers and limitations on trustees will be found in the trust deed.
 
-```ad-statute
-title: s 16 TA 1925 - Power to raise money by sale, mortgage, &c.
-
-(1) Where trustees are authorised by the instrument, if any, creating the trust or by law to pay or apply capital money subject to the trust for any purpose or in any manner, they shall have and shall be deemed always to have had power to raise the money required by sale, conversion, calling in, or mortgage of all or any part of the trust property for the time being in possession.
-
-(2) This section applies notwithstanding anything to the contrary contained in the instrument, if any, creating the trust, but does not apply to trustees of property held for charitable purposes, or to trustees of a settlement for the purposes of the Settled Land Act, 1925, not being also the statutory owners.
-```
+> [!statute] s 16 TA 1925 - Power to raise money by sale, mortgage, &c.
+> 
+> (1) Where trustees are authorised by the instrument, if any, creating the trust or by law to pay or apply capital money subject to the trust for any purpose or in any manner, they shall have and shall be deemed always to have had power to raise the money required by sale, conversion, calling in, or mortgage of all or any part of the trust property for the time being in possession.
+> 
+> (2) This section applies notwithstanding anything to the contrary contained in the instrument, if any, creating the trust, but does not apply to trustees of property held for charitable purposes, or to trustees of a settlement for the purposes of the Settled Land Act, 1925, not being also the statutory owners.
 
 So trustees are granted the power to grant security provided that borrowing is authorised and for the purpose of the trust, regardless of what the trust deed says.
 
@@ -997,9 +949,8 @@ CA 2006 **removed** the prohibition in relation to private companies, so now pro
 
 The consequences of unlawful financial assistance are that the transaction will be held void and the company, and any officer in default, will be liable to a fine/ up to two years in prison.
 
-```ad-important
-The rules on financial assistance are relevant in the context of share purchases and do not apply where the buyer is acquiring the target company's assets.
-```
+> [!important]
+> The rules on financial assistance are relevant in the context of share purchases and do not apply where the buyer is acquiring the target company's assets.
 
 #### Purpose
 
@@ -1042,58 +993,54 @@ These provide that financial assistance is not prohibited:
 
 These exceptions can be difficult to rely on ([[Brady v Brady [1989] AC 755]]) since they are extremely narrowly construed by the courts.
 
-```ad-statute
-title: s 678 - Assistance for acquisition of shares in public company
+> [!statute] s 678 - Assistance for acquisition of shares in public company
+> 
+> (1) Where a person is acquiring or proposing to acquire shares in a public company, it is not lawful for that company, or a company that is a subsidiary of that company, to give financial assistance directly or indirectly for the purpose of the acquisition **before or at the same time** as the acquisition takes place.
+> 
+> (2) Subsection (1) does not prohibit a company from giving financial assistance for the acquisition of shares in it or its holding company if—
+> - (a) the company's principal purpose in giving the assistance is not to give it for the purpose of any such acquisition, or
+> - (b) the giving of the assistance for that purpose is only an incidental part of some larger purpose of the company,
+> 
+> and the assistance is given in good faith in the interests of the company.
+> 
+> (3) Where—
+> - (a) a person has acquired shares in a company, and
+> - (b) a liability **has been incurred** (by that or another person) for the purpose of the acquisition,
+> 
+> it is not lawful for that company, or a company that is a subsidiary of that company, to give financial assistance directly or indirectly for the purpose of **reducing or discharging the liability** if, **at the time the assistance is given**, the company in which the shares were acquired is a public company.
+> 
+> (4) Subsection (3) does not prohibit a company from giving financial assistance if—
+> - (a) the company's principal purpose in giving the assistance is not to reduce or discharge any liability incurred by a person for the purpose of the acquisition of shares in the company or its holding company, or
+> - (b) the reduction or discharge of any such liability is only an incidental part of some larger purpose of the company,
+> 
+> and the assistance is given in good faith in the interests of the company.
+> 
+> (5) This section has effect subject to sections 681 and 682 (unconditional and conditional exceptions to prohibition).
 
-(1) Where a person is acquiring or proposing to acquire shares in a public company, it is not lawful for that company, or a company that is a subsidiary of that company, to give financial assistance directly or indirectly for the purpose of the acquisition **before or at the same time** as the acquisition takes place.
-
-(2) Subsection (1) does not prohibit a company from giving financial assistance for the acquisition of shares in it or its holding company if—
-- (a) the company's principal purpose in giving the assistance is not to give it for the purpose of any such acquisition, or
-- (b) the giving of the assistance for that purpose is only an incidental part of some larger purpose of the company,
-
-and the assistance is given in good faith in the interests of the company.
-
-(3) Where—
-- (a) a person has acquired shares in a company, and
-- (b) a liability **has been incurred** (by that or another person) for the purpose of the acquisition,
-
-it is not lawful for that company, or a company that is a subsidiary of that company, to give financial assistance directly or indirectly for the purpose of **reducing or discharging the liability** if, **at the time the assistance is given**, the company in which the shares were acquired is a public company.
-
-(4) Subsection (3) does not prohibit a company from giving financial assistance if—
-- (a) the company's principal purpose in giving the assistance is not to reduce or discharge any liability incurred by a person for the purpose of the acquisition of shares in the company or its holding company, or
-- (b) the reduction or discharge of any such liability is only an incidental part of some larger purpose of the company,
-
-and the assistance is given in good faith in the interests of the company.
-
-(5) This section has effect subject to sections 681 and 682 (unconditional and conditional exceptions to prohibition).
-```
-
-```ad-statute
-title: s 679 - Assistance by public company for acquisition of shares in its private holding company
-
-(1) Where a person is acquiring or proposing to acquire shares in a private company, it is not lawful for a public company that is a subsidiary of that company to give financial assistance directly or indirectly for the purpose of the acquisition **before or at the same time** as the acquisition takes place.
-
-(2) Subsection (1) does not prohibit a company from giving financial assistance for the acquisition of shares in its holding company if—
-- (a) the company's principal purpose in giving the assistance is not to give it for the purpose of any such acquisition, or
-- (b) the giving of the assistance for that purpose is only an incidental part of some larger purpose of the company,
-
-and the assistance is given in good faith in the interests of the company.
-
-(3) Where—
-- (a) a person has acquired shares in a private company, and
-- (b) a liability **has been incurred** (by that or another person) for the purpose of the acquisition,
-
-it is not lawful for a public company that is a subsidiary of that company to give financial assistance directly or indirectly for the purpose of **reducing or discharging the liability**.
-
-(4) Subsection (3) does not prohibit a company from giving financial assistance if—
-- (a) the company's principal purpose in giving the assistance is not to reduce or discharge any liability incurred by a person for the purpose of the acquisition of shares in its holding company, or
-- (b) the reduction or discharge of any such liability is only an incidental part of some larger purpose of the company,
-
-and the assistance is given in good faith in the interests of the company.
-
-(5) This section has effect subject to sections 681 and 682 (unconditional and conditional exceptions to prohibition).
-
-```
+> [!statute] s 679 - Assistance by public company for acquisition of shares in its private holding company
+> 
+> (1) Where a person is acquiring or proposing to acquire shares in a private company, it is not lawful for a public company that is a subsidiary of that company to give financial assistance directly or indirectly for the purpose of the acquisition **before or at the same time** as the acquisition takes place.
+> 
+> (2) Subsection (1) does not prohibit a company from giving financial assistance for the acquisition of shares in its holding company if—
+> - (a) the company's principal purpose in giving the assistance is not to give it for the purpose of any such acquisition, or
+> - (b) the giving of the assistance for that purpose is only an incidental part of some larger purpose of the company,
+> 
+> and the assistance is given in good faith in the interests of the company.
+> 
+> (3) Where—
+> - (a) a person has acquired shares in a private company, and
+> - (b) a liability **has been incurred** (by that or another person) for the purpose of the acquisition,
+> 
+> it is not lawful for a public company that is a subsidiary of that company to give financial assistance directly or indirectly for the purpose of **reducing or discharging the liability**.
+> 
+> (4) Subsection (3) does not prohibit a company from giving financial assistance if—
+> - (a) the company's principal purpose in giving the assistance is not to reduce or discharge any liability incurred by a person for the purpose of the acquisition of shares in its holding company, or
+> - (b) the reduction or discharge of any such liability is only an incidental part of some larger purpose of the company,
+> 
+> and the assistance is given in good faith in the interests of the company.
+> 
+> (5) This section has effect subject to sections 681 and 682 (unconditional and conditional exceptions to prohibition).
+> 
 
 ### Types
 
@@ -1160,9 +1107,8 @@ If the provision of financial assistance is not in accordance with the directors
 
 A director may also be liable for disqualification as a result of a company's involvement in a prohibited transaction (_[section 1](https://uk.westlaw.com/5-506-8501?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=fc9f4d9e83af4b4c8d47bf5847a3205c), [Company Directors Disqualification Act 1986](https://uk.westlaw.com/4-505-7796?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=fc9f4d9e83af4b4c8d47bf5847a3205c)_).
 
-```ad-note
-Misfeasance can include illegal financial assistance (s 212)
-```
+> [!note]
+> Misfeasance can include illegal financial assistance (s 212)
 
 #### Recipient Liability
 
@@ -1281,19 +1227,16 @@ and
 
 > A charge in favour of a debtor of his own indebtedness to the chargor is conceptually impossible.
 
-```ad-note
-title: Logic
-- An account is a debt owed by a bank to a depositor. 
-- A debt is a right to sue the debtor for the amount owed. 
-- If this was charged/ mortgaged in favour of the debt, this would give the debtor the right to sue itself. 
-- So this would cancel/ reduce the debt. 
-```
+> [!note] Logic
+> - An account is a debt owed by a bank to a depositor. 
+> - A debt is a right to sue the debtor for the amount owed. 
+> - If this was charged/ mortgaged in favour of the debt, this would give the debtor the right to sue itself. 
+> - So this would cancel/ reduce the debt. 
 
 In [[Morris v Agrichemicals Ltd [1997] 3 WLR 909]] (‘BCCI No 8’), the House of Lords, led by Lord Hoffmann, declared that a **charge** in favour of a person over the benefit of a deposit made with that person, by another, is not a conceptual impossibility. But an assignment (mortgage) of the account to the bank remains ineffective.
 
-```ad-question
-How shold a depositor provide a bank with security ("cash collateral") over a deposit with that bank?
-```
+> [!question]
+> How shold a depositor provide a bank with security ("cash collateral") over a deposit with that bank?
 
 The means of enforcing a cash collateral arrangement should be by set-off – contractual set-off prior to winding-up, and mandatory set-off after winding-up. Any security granted over the account is intended to ensure that the money is in the account when the bank needs to set off. So the bank should require:
 
@@ -1302,10 +1245,9 @@ The means of enforcing a cash collateral arrangement should be by set-off – co
 3. a prohibition on the depositor assigning the account (to deal with the fact that a bona fide purchaser, for value, without notice could defeat the fixed charge); and
 4. if the depositor’s obligation is contingent, a ‘flawed asset’ arrangement (that is, the deposit only becomes repayable at the same time that the depositor’s debt becomes due and unpaid). This protects the account from a liquidator until the bank can exercise its rights of set-off.
 
-```ad-note
-- An assignment (mortgage) will usually be possible if security over an account is given to a security trustee or an agent bank on behalf of a syndicate
-- None of these issues will apply if a borrower gives security over an account held with a third party bank.
-```
+> [!note]
+> - An assignment (mortgage) will usually be possible if security over an account is given to a security trustee or an agent bank on behalf of a syndicate
+> - None of these issues will apply if a borrower gives security over an account held with a third party bank.
 
 #### Goodwill
 
@@ -1332,13 +1274,11 @@ In the early 1990s there was a run of judgments which moved against the previous
 
 Eventually, the position was resolved in [[National Westminster Bank plc v Spectrum Plus Limited and others [2005] UKHL 41]]. It is now very difficult to demonstrate the requisite level of control over book debts for a fixed charge. It would require at least a blocked account.
 
-```ad-important
-title: Charge over book debts
-
-From the case of [[National Westminster Bank plc v Spectrum Plus Limited and others [2005] UKHL 41]] it is only possible to have a fixed charge over book debts if they are paid into a blocked account which gives the lender the degree of control required.
-
-**Book debts can only be secured by a fixed charge where the charge holder has control over both the debts and the proceeds once they were paid.**
-```
+> [!important] Charge over book debts
+> 
+> From the case of [[National Westminster Bank plc v Spectrum Plus Limited and others [2005] UKHL 41]] it is only possible to have a fixed charge over book debts if they are paid into a blocked account which gives the lender the degree of control required.
+> 
+> **Book debts can only be secured by a fixed charge where the charge holder has control over both the debts and the proceeds once they were paid.**
 
 The vexed question for practitioners, still unanswered by the courts, is how much control (if any) may be given to the borrower without fixed security being lost.
 
@@ -1387,10 +1327,8 @@ Contractual rights are choses in action and so may be secured by way of assignme
 
 ### Further Assurance Clause
 
-```ad-defn
-title: Further assurance
-An undertaking by the borrower to do anything necessary in order to perfect the security.
-```
+> [!defn] Further assurance
+> An undertaking by the borrower to do anything necessary in order to perfect the security.
 
 May include execution of documents, conversion of an equitable to legal mortgage, deposit of documents of title or provision of additional security.
 
@@ -1575,6 +1513,5 @@ Other issues:
 
 ## Reference in Facility Agreement
 
-```ad-warning
-The legal opinion is likely to be referred to in the “Representations” section of the facility agreement and is likely to be listed as a “Condition Precedent” in the facility agreement.
-```
+> [!warning]
+> The legal opinion is likely to be referred to in the “Representations” section of the facility agreement and is likely to be listed as a “Condition Precedent” in the facility agreement.

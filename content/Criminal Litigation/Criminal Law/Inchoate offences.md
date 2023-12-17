@@ -39,18 +39,16 @@ Criminal liability for an attempt:
 
 Attempting to commit a crime was a long-standing common-law offence, however it has now been reformed though legislation.
 
-```ad-statute
-title: Criminal Attempts Act 1981 (CAA 1981) s 1
-
-(1) If, with intent to commit an offence to which this section applies, a person does an act which is more than merely preparatory to the commission of an offence, he is guilty of an attempt to commit that offence.
-
-(2) A person may be guilty of an attempt to commit an offence to which this section applies even though the facts are such that the commission of the offence is impossible.
-
-(3) In any case where:
-- (a) apart from this subsection a person's intention would not be regarded as having amounted to an intent to commit an offence; but
-- (b) if the facts of the case had been as he believed them to be, his intention would be so regarded.
-then, for the purposes of subsection (1) above, he shall be regarded as having had an intent to commit that offence.
-```
+> [!statute] Criminal Attempts Act 1981 (CAA 1981) s 1
+> 
+> (1) If, with intent to commit an offence to which this section applies, a person does an act which is more than merely preparatory to the commission of an offence, he is guilty of an attempt to commit that offence.
+> 
+> (2) A person may be guilty of an attempt to commit an offence to which this section applies even though the facts are such that the commission of the offence is impossible.
+> 
+> (3) In any case where:
+> - (a) apart from this subsection a person's intention would not be regarded as having amounted to an intent to commit an offence; but
+> - (b) if the facts of the case had been as he believed them to be, his intention would be so regarded.
+> then, for the purposes of subsection (1) above, he shall be regarded as having had an intent to commit that offence.
 
 ### Actus Reus
 

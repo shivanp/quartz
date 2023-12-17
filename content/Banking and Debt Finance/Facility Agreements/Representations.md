@@ -112,10 +112,9 @@ Some representations are best cast in general terms due to caveat emptor. Repres
 
 Borrower will want to negotiate wide margins of error.
 
-```ad-warning
-- A borrower should not repeat a representation that there is no "potential event of default", since breach would turn a potential into a full default. 
-- The disclosure letter is effective only on the first instance. If a representation is repeated, the disclosure letter is no longer effective.  
-```
+> [!warning]
+> - A borrower should not repeat a representation that there is no "potential event of default", since breach would turn a potential into a full default. 
+> - The disclosure letter is effective only on the first instance. If a representation is repeated, the disclosure letter is no longer effective.  
 
 The bank will strongly resist wording that representations are qualified with “to the best of our knowledge and belief”, since this defeats the point.
 
@@ -458,6 +457,5 @@ There is a claim for negligent misstatement in the law of tort, based on the jud
 
 The most important remedies for misleading and inaccurate information are built into the facility agreement, typically as events of default. The general law on misrepresentations is therefore only relevant in the unlikely event that a material representation was not caught by the facility agreement, or the facility agreement was unenforceable.
 
-```ad-tip
-The ultimate remedy appropriate for breach of representation in a Facilities Agreement is the immediate repayment of the Loan, together with interest and any other amounts outstanding under the Agreement. Damages aren't really relevant. 
-```
+> [!tip]
+> The ultimate remedy appropriate for breach of representation in a Facilities Agreement is the immediate repayment of the Loan, together with interest and any other amounts outstanding under the Agreement. Damages aren't really relevant. 

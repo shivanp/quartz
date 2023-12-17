@@ -17,9 +17,8 @@ date modified: Sunday, December 10th 2023, 12:41:38 am
 
 A loan facility may be committed or uncommitted.
 
-```ad-defn
-A facility is committed if the facility agreement, once executed, obliges the bank to advance monies at the borrower's request. If the bank has some discretion, the facility is uncommitted.
-```
+> [!defn]
+> A facility is committed if the facility agreement, once executed, obliges the bank to advance monies at the borrower's request. If the bank has some discretion, the facility is uncommitted.
 
 ### Overdraft
 
@@ -96,9 +95,8 @@ Once the facility has been made available, the participating banks might sell pa
 
 But a borrower will usually require the arranger to retain a substantial part of the facility, known as the “minimum hold”, so the arranger has a stake in organising the facility and ensuring the syndicate runs smoothly.
 
-```ad-action
-The facility agreement should specifically state that the arranger does not owe any other syndicate members any common law fiduciary duties. 
-```
+> [!action]
+> The facility agreement should specifically state that the arranger does not owe any other syndicate members any common law fiduciary duties. 
 
 #### Administrative Agent
 
@@ -123,9 +121,8 @@ Carries out the duties and responsibilities of an agent. But the facility agreem
 
 #### Security Trustee
 
-```ad-defn
-If a syndicated loan is secured, one entity (usually one of the syndicate banks) will usually hold the security on trust for the whole syndicate. This entity is known as the ‘security trustee’.
-```
+> [!defn]
+> If a syndicated loan is secured, one entity (usually one of the syndicate banks) will usually hold the security on trust for the whole syndicate. This entity is known as the ‘security trustee’.
 
 Fiduciary duties imposed are more extensive than those of a simple agent.
 

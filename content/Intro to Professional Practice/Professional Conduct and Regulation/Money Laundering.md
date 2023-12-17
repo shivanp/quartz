@@ -7,10 +7,8 @@ date modified: Sunday, December 10th 2023, 12:39:52 am
 
 # Money Laundering
 
-```ad-defn
-title: Money laundering
-The process by which criminals seek to alter or launder their proceeds of crime so that it appears that these funds come from a legitimate source. 
-```
+> [!defn] Money laundering
+> The process by which criminals seek to alter or launder their proceeds of crime so that it appears that these funds come from a legitimate source. 
 
 Solicitors are targets for criminals in their efforts to launder the proceeds of crime.
 
@@ -73,32 +71,26 @@ Will apply to most clients. The solicitor is obliged to verify the identity of t
 
 The definition of a beneficial owner varies depending on the nature of the client.
 
-```ad-defn
-title: Beneficial owner of a company
-For companies, reg 5(1) defines a beneficial owner as:
-- Any individual who exercises ultimate control over the management of the body corporate
-- Any individual who ultimately owns or controls more than 25% of the shares/ voting rights in the body corporate. 
-- An individual who controls the body corporate
-```
+> [!defn] Beneficial owner of a company
+> For companies, reg 5(1) defines a beneficial owner as:
+> - Any individual who exercises ultimate control over the management of the body corporate
+> - Any individual who ultimately owns or controls more than 25% of the shares/ voting rights in the body corporate. 
+> - An individual who controls the body corporate
 
 This does **not** apply to a company listed on a regulated market, but does apply to LLPs.
 
-```ad-defn
-title: Beneficial owner of a partnership
-Reg 5(3) defines the beneficial owner of a partnership as any individual who:
-- Is ultimately entitled to or controls $>25\%$ of capital/ profits/ voting rights of the partnership
-- Otherwise exercises control over the management of the partnership.
-```
+> [!defn] Beneficial owner of a partnership
+> Reg 5(3) defines the beneficial owner of a partnership as any individual who:
+> - Is ultimately entitled to or controls $>25\%$ of capital/ profits/ voting rights of the partnership
+> - Otherwise exercises control over the management of the partnership.
 
-```ad-defn
-title: Beneficial owner of a trust
-Reg 6(1) says this includes:
-- The settlor
-- The trustees
-- The beneficiary
-- The class of persons in whose main interest the trust is set up
-- Any individual who has control over the trust. 
-```
+> [!defn] Beneficial owner of a trust
+> Reg 6(1) says this includes:
+> - The settlor
+> - The trustees
+> - The beneficiary
+> - The class of persons in whose main interest the trust is set up
+> - Any individual who has control over the trust. 
 
 This is more thorough than for companies, since the trust does not have legal personality itself. Beneficial owners are those individuals who hold equivalent or similar positions to those set out in reg 6(1).
 
@@ -137,44 +129,40 @@ This Act made it an offence to be involved in money laundering. There are 3 offe
 
 ### Arrangements
 
-```ad-statute
-title: Proceeds of Crime Act 2002, s 328
-
-(1) A person commits an offence if he enters into or becomes concerned in an arrangement which he knows or suspects facilitates (by whatever means) the acquisition, retention, use or control of criminal property by or on behalf of another person.
-
-(2) But a person does not commit such an offence if—
-
-- (a) he makes an authorised disclosure under section 338 and (if the disclosure is made before he does the act mentioned in subsection (1)) he has the appropriate consent;
-
-- (b) he intended to make such a disclosure but had a reasonable excuse for not doing so;
-
-- (c) the act he does is done in carrying out a function he has relating to the enforcement of any provision of this Act or of any other enactment relating to criminal conduct or benefit from criminal conduct.
-
-(3) Nor does a person commit an offence under subsection (1) if—
-
-- (a) he knows, or believes on reasonable grounds, that the relevant criminal conduct occurred in a particular country or territory outside the United Kingdom, and
-
-- (b) the relevant criminal conduct—
-
-	- (i) was not, at the time it occurred, unlawful under the criminal law then applying in that country or territory, and
-	
-	- (ii) is not of a description prescribed by an order made by the Secretary of State.
-
-(4) In subsection (3) _“the relevant criminal conduct”_ is the criminal conduct by reference to which the property concerned is criminal property.
-
-(5) A deposit-taking body, electronic money institution or payment institution]3 that does an act mentioned in subsection (1) does not commit an offence under that subsection if—
-
-- (a) it does the act in operating an account maintained with it, and
-
-- (b) the arrangement facilitates the acquisition, retention, use or control of criminal property of a value that is less than the threshold amount determined under section 339A for the act.
-```
+> [!statute] Proceeds of Crime Act 2002, s 328
+> 
+> (1) A person commits an offence if he enters into or becomes concerned in an arrangement which he knows or suspects facilitates (by whatever means) the acquisition, retention, use or control of criminal property by or on behalf of another person.
+> 
+> (2) But a person does not commit such an offence if—
+> 
+> - (a) he makes an authorised disclosure under section 338 and (if the disclosure is made before he does the act mentioned in subsection (1)) he has the appropriate consent;
+> 
+> - (b) he intended to make such a disclosure but had a reasonable excuse for not doing so;
+> 
+> - (c) the act he does is done in carrying out a function he has relating to the enforcement of any provision of this Act or of any other enactment relating to criminal conduct or benefit from criminal conduct.
+> 
+> (3) Nor does a person commit an offence under subsection (1) if—
+> 
+> - (a) he knows, or believes on reasonable grounds, that the relevant criminal conduct occurred in a particular country or territory outside the United Kingdom, and
+> 
+> - (b) the relevant criminal conduct—
+> 
+> 	- (i) was not, at the time it occurred, unlawful under the criminal law then applying in that country or territory, and
+> 	
+> 	- (ii) is not of a description prescribed by an order made by the Secretary of State.
+> 
+> (4) In subsection (3) _“the relevant criminal conduct”_ is the criminal conduct by reference to which the property concerned is criminal property.
+> 
+> (5) A deposit-taking body, electronic money institution or payment institution]3 that does an act mentioned in subsection (1) does not commit an offence under that subsection if—
+> 
+> - (a) it does the act in operating an account maintained with it, and
+> 
+> - (b) the arrangement facilitates the acquisition, retention, use or control of criminal property of a value that is less than the threshold amount determined under section 339A for the act.
 
 This is drafted very widely. There is no requirement that the funds pass through the hands of the solicitor for them to be criminally liable. The maximum penalty is 14 years' imprisonment.
 
-```ad-defn
-title: Criminal property
-A person's direct or indirect benefit from criminal conduct (s 340)
-```
+> [!defn] Criminal property
+> A person's direct or indirect benefit from criminal conduct (s 340)
 
 Criminal conduct is defined very widely to include basically all offences, including conduct internationally which is criminalised in the UK.
 
@@ -194,9 +182,8 @@ A solicitor may also seek to make an authorised disclosure after the prohibited 
 
 #### Exception: Litigation
 
-```ad-important
-In [[Bowman v Fels [2005] EWCA Civ 226]], the Court of Appeal held that taking steps in litigation and the resolution of issues in a litigious context were excluded from the scope of s 328. 
-```
+> [!important]
+> In [[Bowman v Fels [2005] EWCA Civ 226]], the Court of Appeal held that taking steps in litigation and the resolution of issues in a litigious context were excluded from the scope of s 328. 
 
 But the solicitor would not be able to take advantage of this exclusion if the litigation was a sham created for the purpose of money laundering.
 
@@ -206,53 +193,51 @@ A solicitor will not commit an offence where the criminal conduct occurred outsi
 
 #### Acquisition, Use or Possession
 
-```ad-statute
-title: Proceeds of Crime Act 2002, s 329
-
-(1) A person commits an offence if he—
-
-- (a) acquires criminal property;
-
-- (b) uses criminal property;
-
-- (c) has possession of criminal property.
-
-(2) But a person does not commit such an offence if—
-
-- (a) he makes an authorised disclosure under section 338 and (if the disclosure is made before he does the act mentioned in subsection (1)) he has the appropriate consent;
-
-- (b) he intended to make such a disclosure but had a reasonable excuse for not doing so;
-
-- (c) he acquired or used or had possession of the property for adequate consideration;
-
-- (d) the act he does is done in carrying out a function he has relating to the enforcement of any provision of this Act or of any other enactment relating to criminal conduct or benefit from criminal conduct.
-
-(2A) Nor does a person commit an offence under subsection (1) if—
-
-- (a) he knows, or believes on reasonable grounds, that the relevant criminal conduct occurred in a particular country or territory outside the United Kingdom, and
-
-- (b) the relevant criminal conduct—
-
-	- (i) was not, at the time it occurred, unlawful under the criminal law then applying in that country or territory, and
-	
-	- (ii) is not of a description prescribed by an order made by the Secretary of State.
-
-(2B) In subsection (2A) _“the relevant criminal conduct”_ is the criminal conduct by reference to which the property concerned is criminal property.
-
-(2C) A deposit-taking body [, electronic money institution or payment institution]3 that does an act mentioned in subsection (1) does not commit an offence under that subsection if—
-
-- (a) it does the act in operating an account maintained with it, and
-
-- (b) the value of the criminal property concerned is less than the threshold amount determined under section 339A for the act.
-
-(3) For the purposes of this section—
-
-- (a) a person acquires property for inadequate consideration if the value of the consideration is significantly less than the value of the property;
-
-- (b) a person uses or has possession of property for inadequate consideration if the value of the consideration is significantly less than the value of the use or possession;
-
-- (c) the provision by a person of goods or services which he knows or suspects may help another to carry out criminal conduct is not consideration.
-```
+> [!statute] Proceeds of Crime Act 2002, s 329
+> 
+> (1) A person commits an offence if he—
+> 
+> - (a) acquires criminal property;
+> 
+> - (b) uses criminal property;
+> 
+> - (c) has possession of criminal property.
+> 
+> (2) But a person does not commit such an offence if—
+> 
+> - (a) he makes an authorised disclosure under section 338 and (if the disclosure is made before he does the act mentioned in subsection (1)) he has the appropriate consent;
+> 
+> - (b) he intended to make such a disclosure but had a reasonable excuse for not doing so;
+> 
+> - (c) he acquired or used or had possession of the property for adequate consideration;
+> 
+> - (d) the act he does is done in carrying out a function he has relating to the enforcement of any provision of this Act or of any other enactment relating to criminal conduct or benefit from criminal conduct.
+> 
+> (2A) Nor does a person commit an offence under subsection (1) if—
+> 
+> - (a) he knows, or believes on reasonable grounds, that the relevant criminal conduct occurred in a particular country or territory outside the United Kingdom, and
+> 
+> - (b) the relevant criminal conduct—
+> 
+> 	- (i) was not, at the time it occurred, unlawful under the criminal law then applying in that country or territory, and
+> 	
+> 	- (ii) is not of a description prescribed by an order made by the Secretary of State.
+> 
+> (2B) In subsection (2A) _“the relevant criminal conduct”_ is the criminal conduct by reference to which the property concerned is criminal property.
+> 
+> (2C) A deposit-taking body [, electronic money institution or payment institution]3 that does an act mentioned in subsection (1) does not commit an offence under that subsection if—
+> 
+> - (a) it does the act in operating an account maintained with it, and
+> 
+> - (b) the value of the criminal property concerned is less than the threshold amount determined under section 339A for the act.
+> 
+> (3) For the purposes of this section—
+> 
+> - (a) a person acquires property for inadequate consideration if the value of the consideration is significantly less than the value of the property;
+> 
+> - (b) a person uses or has possession of property for inadequate consideration if the value of the consideration is significantly less than the value of the use or possession;
+> 
+> - (c) the provision by a person of goods or services which he knows or suspects may help another to carry out criminal conduct is not consideration.
 
 ##### Adequate Consideration Defence
 
@@ -269,41 +254,39 @@ A person commits an offence under s 330 Proceeds of Crime Act 2002 if:
 3. The information may assist in identifying the money launderer or the location of any laundered property; and
 4. They do not make an authorised disclosure as soon as is practicable.
 
-```ad-statute
-title: Proceeds of Crime Act 2002, s 330
-
-(1) A person commits an offence if [the conditions in subsections (2) to (4) are satisfied.
-
-(2) The first condition is that he—
-
-- (a) knows or suspects, or
-
-- (b) has reasonable grounds for knowing or suspecting,
-
-that another person is engaged in money laundering.
-
-(3) The second condition is that the information or other matter—
-
-- (a) on which his knowledge or suspicion is based, or
-
-- (b) which gives reasonable grounds for such knowledge or suspicion,
-
-came to him in the course of a business in the regulated sector.
-
-(3A) The third condition is—
-
-- (a) that he can identify the other person mentioned in subsection (2) or the whereabouts of any of the laundered property, or
-
-- (b) that he believes, or it is reasonable to expect him to believe, that the information or other matter mentioned in subsection (3) will or may assist in identifying that other person or the whereabouts of any of the laundered property.
-
-(4) The fourth condition is that he does not make the required disclosure to—
-
-- (a) a nominated officer, or
-
-- (b) a person authorised for the purposes of this Part by [the Director General of the National Crime Agency,
-
-as soon as is practicable after the information or other matter mentioned in subsection (3) comes to him.
-```
+> [!statute] Proceeds of Crime Act 2002, s 330
+> 
+> (1) A person commits an offence if [the conditions in subsections (2) to (4) are satisfied.
+> 
+> (2) The first condition is that he—
+> 
+> - (a) knows or suspects, or
+> 
+> - (b) has reasonable grounds for knowing or suspecting,
+> 
+> that another person is engaged in money laundering.
+> 
+> (3) The second condition is that the information or other matter—
+> 
+> - (a) on which his knowledge or suspicion is based, or
+> 
+> - (b) which gives reasonable grounds for such knowledge or suspicion,
+> 
+> came to him in the course of a business in the regulated sector.
+> 
+> (3A) The third condition is—
+> 
+> - (a) that he can identify the other person mentioned in subsection (2) or the whereabouts of any of the laundered property, or
+> 
+> - (b) that he believes, or it is reasonable to expect him to believe, that the information or other matter mentioned in subsection (3) will or may assist in identifying that other person or the whereabouts of any of the laundered property.
+> 
+> (4) The fourth condition is that he does not make the required disclosure to—
+> 
+> - (a) a nominated officer, or
+> 
+> - (b) a person authorised for the purposes of this Part by [the Director General of the National Crime Agency,
+> 
+> as soon as is practicable after the information or other matter mentioned in subsection (3) comes to him.
 
 Breaking this down:
 
@@ -332,15 +315,11 @@ Maximum 5 years' imprisonment for s 330 offence.
 
 #### Tipping Off
 
-```ad-statute
-title: Disclosing a suspicious activity report (s 333A(1))
-It is an offence to disclose to any person that a suspicious activity report (on money laundering) has been made if that disclosure is likely to prejudice any investigation that follows such a report. 
-```
+> [!statute] Disclosing a suspicious activity report (s 333A(1))
+> It is an offence to disclose to any person that a suspicious activity report (on money laundering) has been made if that disclosure is likely to prejudice any investigation that follows such a report. 
 
-```ad-statute
-title: Disclosing an investigation (s 333A(3))
-More general offence which is committed where a disclosure is made to any person that an investigation into money laundering is being carried out or contemplated, and that disclosure is likely to prejudice the money laundering investigation.
-```
+> [!statute] Disclosing an investigation (s 333A(3))
+> More general offence which is committed where a disclosure is made to any person that an investigation into money laundering is being carried out or contemplated, and that disclosure is likely to prejudice the money laundering investigation.
 
 ##### Defences
 

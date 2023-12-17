@@ -149,11 +149,10 @@ Operates in the [[Magistrates' Court]], in a similar way to at the police statio
 
 ### Representation Order
 
-```ad-test
-To apply for criminal legal aid in the magistrates' court, D must satsify:
-1. Interests of justice test - D must show that it is in the interests of justice that they receive public funding for legal representation. 
-2. Means test - D must demonstrate inability to pay for the costs of legal representation. 
-```
+> [!test]
+> To apply for criminal legal aid in the magistrates' court, D must satsify:
+> 1. Interests of justice test - D must show that it is in the interests of justice that they receive public funding for legal representation. 
+> 2. Means test - D must demonstrate inability to pay for the costs of legal representation. 
 
 D must submit Form CRM14 – Application for Legal Aid in Criminal Proceedings. Unless means test is automatically satisfied, D must submit a financial statement (Form CRM15) and supporting documentation (unless unable to provide due to being in custody, in which case this should be stated).
 
@@ -161,10 +160,8 @@ D must submit Form CRM14 – Application for Legal Aid in Criminal Proceedings. 
 
 Ensures compliance with Article 6(3)(a) of the ECHR, which provides that a defendant who does not have sufficient means to pay for legal assistance should receive this free ‘when the interests of justice’ so require.
 
-```ad-defn
-title: Widgery criteria
-Factors taken into account in deciding whether D can satisfy the interests of justice test. Set out in Sch 3 para 5(2) Access to Justice Act 1999 (N.B. this has been repealed - presumably still relevant?). 
-```
+> [!defn] Widgery criteria
+> Factors taken into account in deciding whether D can satisfy the interests of justice test. Set out in Sch 3 para 5(2) Access to Justice Act 1999 (N.B. this has been repealed - presumably still relevant?). 
 
 These are whether:
 
@@ -246,9 +243,8 @@ Applicant's disposable income calculated.
 | =                                               |
 | Disposable income                               |
 
-```ad-important
-To qualify for criminal legal aid, the applicant’s annual disposable income must not exceed **£3,398**.
-```
+> [!important]
+> To qualify for criminal legal aid, the applicant’s annual disposable income must not exceed **£3,398**.
 
 If the applicant fails the means test but cannot fund his own defence, complete an application for review on the grounds of hardship (Form CRM16).
 
@@ -290,16 +286,14 @@ D entitled to receive initial details of the prosecution case (IDPC) (CrimPR r 8
 
 D will contact the CPS in advance of the first hearing with a Unique Reference Number. CPS emails solicitor the IDPC via Criminal Justice Secure Mail account. For clients seen in court for the first time, the solicitor phones a centralised CPS number and papers will be emailed over.
 
-```ad-statute
-title: r 8.4 CrimPR
-(1) This rule applies where—
-- (a) the prosecutor wants to introduce information contained in a document listed in rule 8.3; and
-- (b) the prosecutor has not—
-	- (i) served that document on the defendant, or
-	- (ii) made that information available to the defendant.
-
-(2) The court must not allow the prosecutor to introduce that information unless the court first allows the defendant sufficient time to consider it. 
-```
+> [!statute] r 8.4 CrimPR
+> (1) This rule applies where—
+> - (a) the prosecutor wants to introduce information contained in a document listed in rule 8.3; and
+> - (b) the prosecutor has not—
+> 	- (i) served that document on the defendant, or
+> 	- (ii) made that information available to the defendant.
+> 
+> (2) The court must not allow the prosecutor to introduce that information unless the court first allows the defendant sufficient time to consider it. 
 
 #### IDPC
 
@@ -374,19 +368,17 @@ When D appears before the magistrates:
 
 #### Crown Court to Sentence
 
-```ad-statute
-title: s 14 Sentencing Act 2020 - Committal for sentence on summary trial of offence triable either way
-
-(1) This section applies where—
-- (a) on the summary trial of an offence triable either way a person aged 18 or over is convicted of the offence, and
-- (b) the court is of the opinion that—
-	- (i) the offence, or
-	- (ii) the combination of the offence and one or more offences associated with it,
-
-was so serious that the Crown Court should have the power to deal with the offender in any way it could deal with the offender if the offender had been convicted on indictment.
-
-(2) The court **may commit the offender** in custody or on bail **to the Crown Court for sentence** in accordance with section 21(2).
-```
+> [!statute] s 14 Sentencing Act 2020 - Committal for sentence on summary trial of offence triable either way
+> 
+> (1) This section applies where—
+> - (a) on the summary trial of an offence triable either way a person aged 18 or over is convicted of the offence, and
+> - (b) the court is of the opinion that—
+> 	- (i) the offence, or
+> 	- (ii) the combination of the offence and one or more offences associated with it,
+> 
+> was so serious that the Crown Court should have the power to deal with the offender in any way it could deal with the offender if the offender had been convicted on indictment.
+> 
+> (2) The court **may commit the offender** in custody or on bail **to the Crown Court for sentence** in accordance with section 21(2).
 
 If D pleads guilty at the plea before venue hearing and is committed to Crown Court for sentence, the magistrates will not generally alter the position as regards bail or custody.
 
@@ -430,12 +422,10 @@ Set out in ss 19-20 Magistrates' Courts Act 1980:
 6. D asked whether he consents to summary judgment or wishes to be trialled on indictment (s 20(8) & (9))
 7. s 25: prosecution are permitted to make an application before summary trial for an either way offence allocated at summary trial to be sent to the Crown Court for trial.
 
-```ad-question
-title: Suppose D pleads guilty to either way offence $EWO_G$ and not guilty to $EWO_{NG}$. 
-Magistrates proceed with the allocation hearing in respect of $EWO_{NG}$. 
-- If magistrates accept jurisdiction, they will either sentence D immediately for $EWO_G$, or adjourn sentence until the end of $EWO_{NG}$ trial. 
-- If magistrates decline jurisdiction, send $EWO_{NG}$ to Crown Court for trial and decide whether to sentence D for$EWO_G$/ send to Crown Court. 
-```
+> [!question] Suppose D pleads guilty to either way offence $EWO_G$ and not guilty to $EWO_{NG}$.
+> Magistrates proceed with the allocation hearing in respect of $EWO_{NG}$. 
+> - If magistrates accept jurisdiction, they will either sentence D immediately for $EWO_G$, or adjourn sentence until the end of $EWO_{NG}$ trial. 
+> - If magistrates decline jurisdiction, send $EWO_{NG}$ to Crown Court for trial and decide whether to sentence D for$EWO_G$/ send to Crown Court. 
 
 ## Sending Straight to Crown Court
 
@@ -484,13 +474,11 @@ Usually there are several adjournments before a case is concluded.
 
 ## Remand Periods
 
-```ad-defn
-title: Remand
-An adjournment where the court attempts to ensure D will attend the next hearing. May be remanded:
-1. In custody
-2. On bail with conditions
-3. On unconditional bail. 
-```
+> [!defn] Remand
+> An adjournment where the court attempts to ensure D will attend the next hearing. May be remanded:
+> 1. In custody
+> 2. On bail with conditions
+> 3. On unconditional bail. 
 
 ### Remand in Custody Prior to Conviction
 
@@ -614,18 +602,15 @@ A court has the power to grant bail subject to conditions necessary to:
 
 ### Sureties
 
-```ad-defn
-title: Surety
-A person who enters a "recognisance" of money and is under an obligation to use every reasonable effort to ensure D attends court. 
-```
+> [!defn] Surety
+> A person who enters a "recognisance" of money and is under an obligation to use every reasonable effort to ensure D attends court. 
 
 Can be used to ensure D answers bail. If D fails to answer bail, the court must declare an immediate and automatic forfeiture of the recognisance. A court hearing will then determine whether some or all of the surety should be paid.
 
 The surety must give evidence of their financial resources, character, previous convictions and relationship.
 
-```ad-conduct
-A solicitor should never stand surety for D. 
-```
+> [!conduct]
+> A solicitor should never stand surety for D. 
 
 ### Security
 
@@ -726,36 +711,32 @@ D's solicitor should ask:
 
 ## Purpose
 
-```ad-statute
-title: s 57 SC - purposes of sentencing: adults
-
-(1) This section applies where—
-- (a) a court is dealing with an offender for an offence, and
-- (b) the offender is aged 18 or over.
-
-(2) The court must have regard to the following purposes of sentencing—
-- (a) the **punishment** of offenders,
-- (b) the **reduction of crime** (including its reduction by deterrence),
-- (c) the **reform and rehabilitation** of offenders,
-- (d) the **protection** of the public, and
-- (e) the making of **reparation** by offenders to persons affected by their offences.
-
-(3) Subsection (1) does not apply—
-- (a) to an offence in relation to which a mandatory sentence requirement applies (see section 399)
-```
+> [!statute] s 57 SC - purposes of sentencing: adults
+> 
+> (1) This section applies where—
+> - (a) a court is dealing with an offender for an offence, and
+> - (b) the offender is aged 18 or over.
+> 
+> (2) The court must have regard to the following purposes of sentencing—
+> - (a) the **punishment** of offenders,
+> - (b) the **reduction of crime** (including its reduction by deterrence),
+> - (c) the **reform and rehabilitation** of offenders,
+> - (d) the **protection** of the public, and
+> - (e) the making of **reparation** by offenders to persons affected by their offences.
+> 
+> (3) Subsection (1) does not apply—
+> - (a) to an offence in relation to which a mandatory sentence requirement applies (see section 399)
 
 The court's decision must be open:
 
-```ad-statute
-title: s 52 SC 2020
-(2) The court must state **in open court, in ordinary language** and in general terms, the court's reasons for deciding on the sentence.
-
-(3) The court must **explain to the offender** in ordinary language—
-- (a) the effect of the sentence,
-- (b) the effects of non-compliance with any order that the offender is required to comply with and that forms part of the sentence,
-- (c) any power of the court to vary or review any order that forms part of the sentence, and
-- (d) the effects of failure to pay a fine, if the sentence consists of or includes a fine.
-```
+> [!statute] s 52 SC 2020
+> (2) The court must state **in open court, in ordinary language** and in general terms, the court's reasons for deciding on the sentence.
+> 
+> (3) The court must **explain to the offender** in ordinary language—
+> - (a) the effect of the sentence,
+> - (b) the effects of non-compliance with any order that the offender is required to comply with and that forms part of the sentence,
+> - (c) any power of the court to vary or review any order that forms part of the sentence, and
+> - (d) the effects of failure to pay a fine, if the sentence consists of or includes a fine.
 
 ## Types of Sentence
 
@@ -768,38 +749,34 @@ These are referred to as the “sentencing ladder”.
 
 ![[sentencing-ladder.png]]
 
-```ad-statute
-title: s 204 SC 2020 - Exercise of power to impose community order: general considerations
+> [!statute] s 204 SC 2020 - Exercise of power to impose community order: general considerations
+> 
+> (1) This section applies where a community order is available.
+> 
+> (2) The court must not make a community order unless it is of the opinion that—
+> - (a) the offence, or
+> - (b) the combination of the offence and one or more offences associated with it,
+> 
+> was serious enough to warrant the making of such an order.
+> 
+> (3) In forming its opinion for the purposes of subsection (2), the court must take into account all the information that is available to it about the circumstances of the offence, or of it and the associated offence or offences, including any aggravating or mitigating factors.
+> 
+> (4) The pre-sentence report requirements (see section 30) apply to the court in relation to forming that opinion.
+> 
+> (5) The fact that, by virtue of subsection (2), the court may make a community order does not require it to do so.
 
-(1) This section applies where a community order is available.
-
-(2) The court must not make a community order unless it is of the opinion that—
-- (a) the offence, or
-- (b) the combination of the offence and one or more offences associated with it,
-
-was serious enough to warrant the making of such an order.
-
-(3) In forming its opinion for the purposes of subsection (2), the court must take into account all the information that is available to it about the circumstances of the offence, or of it and the associated offence or offences, including any aggravating or mitigating factors.
-
-(4) The pre-sentence report requirements (see section 30) apply to the court in relation to forming that opinion.
-
-(5) The fact that, by virtue of subsection (2), the court may make a community order does not require it to do so.
-```
-
-```ad-statute
-title: s 230 SC 2020 - Threshold for imposing discretionary custodial sentence
-(1) Subsection (2) applies where a person is convicted of an offence which is punishable with a custodial sentence.
-
-This is subject to subsection (3).
-
-(2) The court must not pass a custodial sentence unless it is of the opinion that—
-- (a) the offence, or
-- (b) the combination of the offence and one or more offences associated with it,
-
-was so serious that neither a fine alone nor a community sentence can be justified for the offence.
-
-*Threshold generally not applicable where mandatory sentence requirement applies*.
-```
+> [!statute] s 230 SC 2020 - Threshold for imposing discretionary custodial sentence
+> (1) Subsection (2) applies where a person is convicted of an offence which is punishable with a custodial sentence.
+> 
+> This is subject to subsection (3).
+> 
+> (2) The court must not pass a custodial sentence unless it is of the opinion that—
+> - (a) the offence, or
+> - (b) the combination of the offence and one or more offences associated with it,
+> 
+> was so serious that neither a fine alone nor a community sentence can be justified for the offence.
+> 
+> *Threshold generally not applicable where mandatory sentence requirement applies*.
 
 ### Ancillary Orders
 
@@ -847,16 +824,14 @@ CJA 2003 radically changed sentencing.
 
 ### Seriousness
 
-```ad-statute
-title: s 63 - Assessing seriousness
-
-Where a court is considering the seriousness of any offence, it must consider—
-- (a) the offender's culpability in committing the offence, and
-- (b) any harm which the offence—
-	- (i) caused,
-	- (ii) was intended to cause, or
-	- (iii) might foreseeably have caused. 
-```
+> [!statute] s 63 - Assessing seriousness
+> 
+> Where a court is considering the seriousness of any offence, it must consider—
+> - (a) the offender's culpability in committing the offence, and
+> - (b) any harm which the offence—
+> 	- (i) caused,
+> 	- (ii) was intended to cause, or
+> 	- (iii) might foreseeably have caused. 
 
 General Guideline for sentencing offences not covered by a specific sentencing guideline, effective from 01/10/19.
 
@@ -890,15 +865,13 @@ Any discounted sentence in consequence of assistance given/ offered to the prose
 
 #### 4: Reduction for Guilty Pleas
 
-```ad-statute
-title: s 73 SC 2020
-
-(1) This section applies where a court is determining what sentence to pass on an offender who has pleaded guilty to an offence in proceedings before that or another court.
-
-(2) The court must take into account the following matters—
-- (a) the **stage in the proceedings** for the offence at which the offender indicated the intention to plead guilty, and
-- (b) the **circumstances** in which the indication was given.
-```
+> [!statute] s 73 SC 2020
+> 
+> (1) This section applies where a court is determining what sentence to pass on an offender who has pleaded guilty to an offence in proceedings before that or another court.
+> 
+> (2) The court must take into account the following matters—
+> - (a) the **stage in the proceedings** for the offence at which the offender indicated the intention to plead guilty, and
+> - (b) the **circumstances** in which the indication was given.
 
 The Reduction in Sentence for a Guilty Plea Definitive Guideline applies to all adult Ds and to both the [[Magistrates' Court]] and [[Crown Court]].
 
@@ -908,10 +881,8 @@ $\frac{1}{3}$ discount on sentence available:
 - on a guilty plea and committal for sentence;
 - on indication of a guilty plea to an indictable-only offence, followed by a guilty plea at first hearing in the Crown Court.
 
-```ad-defn
-title: Committal
-A committal for sentence happens when magistrates have found someone guilty of a crime but they think their sentencing powers are not enough. The magistrates transfer the case to the Crown Court where a higher sentence can be imposed.
-```
+> [!defn] Committal
+> A committal for sentence happens when magistrates have found someone guilty of a crime but they think their sentencing powers are not enough. The magistrates transfer the case to the Crown Court where a higher sentence can be imposed.
 
 $\frac{1}{4}$ discount available at the plea and trial preparation hearing stage (PTPH).
 
@@ -965,9 +936,8 @@ Standard format of report. Report includes:
 	- If D is of good character, can someone in a position of respect in the community provide a character reference?
 - Medical reports
 
-```ad-action
-Solicitor should discuss report with D and ensure accuracy.
-```
+> [!action]
+> Solicitor should discuss report with D and ensure accuracy.
 
 ## Sentencing Procedure
 
@@ -998,9 +968,8 @@ Usually if a judge adjourns a case for preparation of reports, they will reserve
 
 Again there is a presumption of bail.
 
-```ad-important
-D must be told the reasons for and effect of the sentence imposed (s 52(1) SC 2020)
-```
+> [!important]
+> D must be told the reasons for and effect of the sentence imposed (s 52(1) SC 2020)
 
 ## Conduct
 

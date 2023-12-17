@@ -104,14 +104,13 @@ A simple example would be to provide that the trust should last for 21 years. An
 
 > “£5,000 to my trustees on trust to maintain my grave for a period not exceeding 21 years following the death of the last surviving descendant of Queen Elizabeth II who is alive at the date of my death."
 
-```ad-summary
-The statutory rule against remoteness of vesting applies to trusts with people or charities as their objects.
-- The statutory perpetuity period is 125 years. The trust property must vest in a person or charity at the end of that period.
-- It does not need to be clear from the outset that the trust property will vest within 125 years. The ‘wait and see’ rule applies.
-- The class closing rules apply at the end of the statutory perpetuity period.
-
-The common law rule against inalienability applies to non-charitable purpose trusts.
-- The common law perpetuity period is 21 years.
-- It must be clear from the outset of the trust that it will come to an end within the common law perpetuity period. It is not possible to wait and see.
-- The common law perpetuity period can be extended by reference to a life in being. A common way to do this is by way of a Royal lives clause.
-```
+> [!summary]
+> The statutory rule against remoteness of vesting applies to trusts with people or charities as their objects.
+> - The statutory perpetuity period is 125 years. The trust property must vest in a person or charity at the end of that period.
+> - It does not need to be clear from the outset that the trust property will vest within 125 years. The ‘wait and see’ rule applies.
+> - The class closing rules apply at the end of the statutory perpetuity period.
+> 
+> The common law rule against inalienability applies to non-charitable purpose trusts.
+> - The common law perpetuity period is 21 years.
+> - It must be clear from the outset of the trust that it will come to an end within the common law perpetuity period. It is not possible to wait and see.
+> - The common law perpetuity period can be extended by reference to a life in being. A common way to do this is by way of a Royal lives clause.

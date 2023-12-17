@@ -31,9 +31,8 @@ The three categories are:
 
 It is logical to start with the ‘basic rule of priority’ in [LRA 2002, s 28](https://www.legislation.gov.uk/ukpga/2002/9/section/28). It states that an interest of whatever kind will take priority over later dispositions.
 
-```ad-example
-If A has a registered freehold estate and grants an easement to B, then enters a covenant with C, then sells the freehold to D, D will take the freehold subject to the pre-existing easement and covenant. That seems to be entirely logical.
-```
+> [!example]
+> If A has a registered freehold estate and grants an easement to B, then enters a covenant with C, then sells the freehold to D, D will take the freehold subject to the pre-existing easement and covenant. That seems to be entirely logical.
 
 [LRA 2002, s 29](https://www.legislation.gov.uk/ukpga/2002/9/section/29) provides an important exception to this rule, which operates in the majority of transactions affecting land: a disposition of a registered estate for valuable consideration.
 
@@ -45,9 +44,8 @@ This means that s 28 and the normal rule of priority is limited in scope to tran
 
 Where the transaction is for valuable consideration, s 28 has no application and the situation is governed by s 29. The new owner will be bound only by pre-existing interests which are either registrable dispositions which have been properly registered, interests properly protected by a notice or overriding interests.
 
-```ad-defn
-To achieve an accurate register of title, [LRA 2002, s 27](https://www.legislation.gov.uk/ukpga/2002/9/section/27) states that some transactions, set out in s 27(2) and called ‘registrable dispositions’, must be completed by registration. S 27(1) states that the dispositions do not operate ‘at law’ until the registration has been completed.
-```
+> [!defn]
+> To achieve an accurate register of title, [LRA 2002, s 27](https://www.legislation.gov.uk/ukpga/2002/9/section/27) states that some transactions, set out in s 27(2) and called ‘registrable dispositions’, must be completed by registration. S 27(1) states that the dispositions do not operate ‘at law’ until the registration has been completed.
 
 Some of the dispositions listed in s 27(2) relate to legal estates. The transfer of an existing registered freehold or leasehold estate must be completed by registration: s 27(2)(a); as must the grant of a new lease for a term of more than seven years: s 27(2)(b).
 
@@ -79,27 +77,25 @@ The following are registrable dispositions (s 27(2) LRA 2002):
 4. Grant of a legal charge
 5. Grant of a landlord's right of entry
 
-```ad-statute
-title: s 27(2) LRA 2002
-In the case of a registered estate, the following are the dispositions which are required to be completed by registration—
-
-(a) a transfer,
-
-(b) where the registered estate is an estate in land, the grant of a term of years absolute—
-- (i) for a term of more than seven years from the date of the grant,
-- (ii) to take effect in possession after the end of the period of three months beginning with the date of the grant,
-- (iii) under which the right to possession is discontinuous,
-- (iv) in pursuance of Part 5 of the Housing Act 1985 (c. 68) (the right to buy), or
-- (v) in circumstances where section 171A of that Act applies (disposal by landlord which leads to a person no longer being a secure tenant),
-
-(c) where the registered estate is a franchise or manor, the grant of a lease,
-
-(d) the express grant or reservation of an interest of a kind falling within section 1(2)(a) of the Law of Property Act 1925 (c. 20), other than one which is capable of being registered under Part 1 of the Commons Act 2006,
-
-(e) the express grant or reservation of an interest of a kind falling within section 1(2)(b) or (e) of the Law of Property Act 1925, and
-
-(f) the grant of a legal charge.
-```
+> [!statute] s 27(2) LRA 2002
+> In the case of a registered estate, the following are the dispositions which are required to be completed by registration—
+> 
+> (a) a transfer,
+> 
+> (b) where the registered estate is an estate in land, the grant of a term of years absolute—
+> - (i) for a term of more than seven years from the date of the grant,
+> - (ii) to take effect in possession after the end of the period of three months beginning with the date of the grant,
+> - (iii) under which the right to possession is discontinuous,
+> - (iv) in pursuance of Part 5 of the Housing Act 1985 (c. 68) (the right to buy), or
+> - (v) in circumstances where section 171A of that Act applies (disposal by landlord which leads to a person no longer being a secure tenant),
+> 
+> (c) where the registered estate is a franchise or manor, the grant of a lease,
+> 
+> (d) the express grant or reservation of an interest of a kind falling within section 1(2)(a) of the Law of Property Act 1925 (c. 20), other than one which is capable of being registered under Part 1 of the Commons Act 2006,
+> 
+> (e) the express grant or reservation of an interest of a kind falling within section 1(2)(b) or (e) of the Law of Property Act 1925, and
+> 
+> (f) the grant of a legal charge.
 
 ## Equitable Interests Protected by Entry
 
@@ -172,9 +168,8 @@ Where tenants in common are registered as proprietors, the following restriction
 
 > No disposition by a sole proprietor of the registered estate (except a trust corporation) under which capital money arises is to be registered unless authorised by an order of the court.
 
-```ad-important
-Restrictions cannot prevent dispositions altogether: they simply impose conditions which must be fulfilled before the disposition can be registered.
-```
+> [!important]
+> Restrictions cannot prevent dispositions altogether: they simply impose conditions which must be fulfilled before the disposition can be registered.
 
 ### Old Methods
 

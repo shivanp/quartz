@@ -29,10 +29,8 @@ If the company is issuing shares as consideration or using equity finance to rai
 
 The general obligation of a listed company, under MAR, Article 17(1), to disclose major new developments in its sphere of activity if the information is not already public knowledge and may lead to substantial movement in its share price.
 
-```ad-bug
-title: Exception 
-A company does not need to disclose information about matters in the course of negotiation, unless there is a breach of confidence during those negotiations
-```
+> [!bug] Exception
+> A company does not need to disclose information about matters in the course of negotiation, unless there is a breach of confidence during those negotiations
 
 Rules relevant in ensuring the company discloses the transaction through an RIS in a timely manner.
 
@@ -79,9 +77,8 @@ Includes the grant of certain options.
 
 Listing Rule 10.1.4G: Ch 10 Regime intended to cover transactions outside the ordinary course of a company's business and may change a shareholder's economic interest in the company's assets/ liabilities.
 
-```ad-tip
-The regime is focused on the potential impact of the transaction on the company.
-```
+> [!tip]
+> The regime is focused on the potential impact of the transaction on the company.
 
 ### Classification Regime
 
@@ -91,27 +88,19 @@ The classification is necessary to protect shareholders. Regulatory requirements
 
 ### Class Tests
 
-```ad-test
-title: Gross assets test
-$$\frac{\text{Gross assets which are the subject of the transaction}}{\text{Gross assets of the listed company}} \times 100$$
-```
+> [!test] Gross assets test
+> $\frac{\text{Gross assets which are the subject of the transaction}}{\text{Gross assets of the listed company}} \times 100$
 
-```ad-test
-title: Profits test
-$$\frac{\text{Asset profits}}{\text{Listed company profits}} \times 100$$
-```
+> [!test] Profits test
+> $\frac{\text{Asset profits}}{\text{Listed company profits}} \times 100$
 
-```ad-test
-title: Consideration test (!)
-$$\frac{\text{Consideration for transaction}}{\text{Market value of listed company shares}} \times 100$$
-```
+> [!test] Consideration test (!)
+> $\frac{\text{Consideration for transaction}}{\text{Market value of listed company shares}} \times 100$
 
-```ad-test
-title: Gross capital test
-$$\frac{\text{Gross capital of acquisition}}{\text{Gross capital of listed company}} \times 100$$
-
-Only performed for acquisitions, not disposals (para 7R(2)). 
-```
+> [!test] Gross capital test
+> $\frac{\text{Gross capital of acquisition}}{\text{Gross capital of listed company}} \times 100$
+> 
+> Only performed for acquisitions, not disposals (para 7R(2)). 
 
 Annex 1 to the Listing Rules, Chapter 10 provides further guidance on the application of the class tests.
 
@@ -119,9 +108,8 @@ The ‘listed company’ referred to in the class tests is the premium-listed co
 
 #### Different Sellers
 
-```ad-warning
-Remember in share sales the sellers are the shareholders.
-```
+> [!warning]
+> Remember in share sales the sellers are the shareholders.
 
 A joint venture entered into by a listed company must be classified twice – once for the disposal into the new joint venture company and again for the acquisition of an interest in the joint venture company.
 

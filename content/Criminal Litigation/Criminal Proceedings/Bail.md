@@ -14,13 +14,11 @@ Usually there are several adjournments before a case is concluded.
 
 ## Remand Periods
 
-```ad-defn
-title: Remand
-An adjournment where the court attempts to ensure D will attend the next hearing. May be remanded:
-1. In custody
-2. On bail with conditions
-3. On unconditional bail. 
-```
+> [!defn] Remand
+> An adjournment where the court attempts to ensure D will attend the next hearing. May be remanded:
+> 1. In custody
+> 2. On bail with conditions
+> 3. On unconditional bail. 
 
 ### Remand in Custody Prior to Conviction
 
@@ -144,18 +142,15 @@ A court has the power to grant bail subject to conditions necessary to:
 
 ### Sureties
 
-```ad-defn
-title: Surety
-A person who enters a "recognisance" of money and is under an obligation to use every reasonable effort to ensure D attends court. 
-```
+> [!defn] Surety
+> A person who enters a "recognisance" of money and is under an obligation to use every reasonable effort to ensure D attends court. 
 
 Can be used to ensure D answers bail. If D fails to answer bail, the court must declare an immediate and automatic forfeiture of the recognisance. A court hearing will then determine whether some or all of the surety should be paid.
 
 The surety must give evidence of their financial resources, character, previous convictions and relationship.
 
-```ad-conduct
-A solicitor should never stand surety for D. 
-```
+> [!conduct]
+> A solicitor should never stand surety for D. 
 
 ### Security
 

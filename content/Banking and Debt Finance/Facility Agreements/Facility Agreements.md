@@ -144,9 +144,8 @@ Fact finding exercise. Scope of investigation depends on risk of transaction, si
 - Borrower may immediately accept bank's draft, or negotiate (requiring re-approval by credit department). Bank may involve advisers.
 - Solicitors instructed to put together initial draft facility agreement on the basis of the term sheet.
 
-```ad-note
-A solicitor can obtain copies of a corporate borrower's registered documents to get information. But if the borrower has not filed returns propely, this would result in a fine for the company and its officers.But there is no provision for compensating a 3rd party who suffers loss. 
-```
+> [!note]
+> A solicitor can obtain copies of a corporate borrower's registered documents to get information. But if the borrower has not filed returns propely, this would result in a fine for the company and its officers.But there is no provision for compensating a 3rd party who suffers loss. 
 
 ### Acquisition Finance
 
@@ -198,9 +197,8 @@ There is no implied duty of good faith under English law. So either party may wi
 
 A loan facility may be committed or uncommitted.
 
-```ad-defn
-A facility is committed if the facility agreement, once executed, obliges the bank to advance monies at the borrower's request. If the bank has some discretion, the facility is uncommitted.
-```
+> [!defn]
+> A facility is committed if the facility agreement, once executed, obliges the bank to advance monies at the borrower's request. If the bank has some discretion, the facility is uncommitted.
 
 ### Overdraft
 
@@ -277,9 +275,8 @@ Once the facility has been made available, the participating banks might sell pa
 
 But a borrower will usually require the arranger to retain a substantial part of the facility, known as the “minimum hold”, so the arranger has a stake in organising the facility and ensuring the syndicate runs smoothly.
 
-```ad-action
-The facility agreement should specifically state that the arranger does not owe any other syndicate members any common law fiduciary duties. 
-```
+> [!action]
+> The facility agreement should specifically state that the arranger does not owe any other syndicate members any common law fiduciary duties. 
 
 #### Administrative Agent
 
@@ -304,9 +301,8 @@ Carries out the duties and responsibilities of an agent. But the facility agreem
 
 #### Security Trustee
 
-```ad-defn
-If a syndicated loan is secured, one entity (usually one of the syndicate banks) will usually hold the security on trust for the whole syndicate. This entity is known as the ‘security trustee’.
-```
+> [!defn]
+> If a syndicated loan is secured, one entity (usually one of the syndicate banks) will usually hold the security on trust for the whole syndicate. This entity is known as the ‘security trustee’.
 
 Fiduciary duties imposed are more extensive than those of a simple agent.
 
@@ -497,10 +493,9 @@ Some representations are best cast in general terms due to caveat emptor. Repres
 
 Borrower will want to negotiate wide margins of error.
 
-```ad-warning
-- A borrower should not repeat a representation that there is no "potential event of default", since breach would turn a potential into a full default. 
-- The disclosure letter is effective only on the first instance. If a representation is repeated, the disclosure letter is no longer effective.  
-```
+> [!warning]
+> - A borrower should not repeat a representation that there is no "potential event of default", since breach would turn a potential into a full default. 
+> - The disclosure letter is effective only on the first instance. If a representation is repeated, the disclosure letter is no longer effective.  
 
 The bank will strongly resist wording that representations are qualified with “to the best of our knowledge and belief”, since this defeats the point.
 
@@ -817,9 +812,8 @@ There is a claim for negligent misstatement in the law of tort, based on the jud
 
 The most important remedies for misleading and inaccurate information are built into the facility agreement, typically as events of default. The general law on misrepresentations is therefore only relevant in the unlikely event that a material representation was not caught by the facility agreement, or the facility agreement was unenforceable.
 
-```ad-tip
-The ultimate remedy appropriate for breach of representation in a Facilities Agreement is the immediate repayment of the Loan, together with interest and any other amounts outstanding under the Agreement. Damages aren't really relevant. 
-```
+> [!tip]
+> The ultimate remedy appropriate for breach of representation in a Facilities Agreement is the immediate repayment of the Loan, together with interest and any other amounts outstanding under the Agreement. Damages aren't really relevant. 
 
 # Undertakings
 
@@ -839,9 +833,8 @@ Categories:
 3. General undertakings
 	- e.g., by prohibiting disposals, maintaining insurance and sticking to the key business.
 
-```ad-warning
-Breach of an undertaking is made an event of default, allowing the bnak to cancel its commitment and demand repayment. 
-```
+> [!warning]
+> Breach of an undertaking is made an event of default, allowing the bnak to cancel its commitment and demand repayment. 
 
 ## Undertaking Vs Representation
 
@@ -849,9 +842,8 @@ Undertakings can often be recast as repeat representations (just stating the fac
 
 In either case, the likely result of the breach is an event of default. But preferable to get a borrower to represent the position at signing and also undertake to maintain the position throughout the term of the loan.
 
-```ad-tip
-This results in a "tighter" constraint: the borrower is in default immediately as the undertaking is broken, rather than a repeating representation being tested at the time of repetition (typically at the start of every interest period). 
-```
+> [!tip]
+> This results in a "tighter" constraint: the borrower is in default immediately as the undertaking is broken, rather than a repeating representation being tested at the time of repetition (typically at the start of every interest period). 
 
 Also gives more flexibility: can make the representation more strict than the subsequent undertaking.
 
@@ -1253,18 +1245,15 @@ If the loan is terminated and outstanding amounts are immediately repayable, def
 
 Some events of default include a **specified period** during which the borrower is permitted to **remedy** the event or apply for a **waiver**. During the grace period, the borrower is prevented from borrowing new money (“draw stop”).
 
-```ad-defn
-An event of default with an in-built grace period is sometimes referred to as a ‘potential event of default’.
-```
+> [!defn]
+> An event of default with an in-built grace period is sometimes referred to as a ‘potential event of default’.
 
-```ad-note
-title: Variation
-LMA facilities define “default” to mean
-
-> an Event of Default or any event or circumstance specified in Clause [ ] (Events of Default) which would (with the expiry of a grace period, the giving of notice, the making of any determination under the Finance Documents or any combination of any of the foregoing) be an Event of Default.
-
-The equivalent of a ‘potential event of default’ is then described as ‘a Default other than an Event of Default’.
-```
+> [!note] Variation
+> LMA facilities define “default” to mean
+> 
+> > an Event of Default or any event or circumstance specified in Clause [ ] (Events of Default) which would (with the expiry of a grace period, the giving of notice, the making of any determination under the Finance Documents or any combination of any of the foregoing) be an Event of Default.
+> 
+> The equivalent of a ‘potential event of default’ is then described as ‘a Default other than an Event of Default’.
 
 Borrowers must undertake to tell the banks as soon as they are aware of a ‘potential event of default’, but
 
@@ -1346,9 +1335,8 @@ If a bank cannot recover money it has lent, there is a danger it may be unable t
 
 #### Rationale
 
-```ad-important
-The key proposition of Basel regime is that a bank needs to recover its assets (primarily loans) to repay its depositors: if there is a risk that an asset cannot be recovered in full, it must be backed by ‘capital’ to create a ‘buffer’. Capital buffer known as "regulatory capital".
-```
+> [!important]
+> The key proposition of Basel regime is that a bank needs to recover its assets (primarily loans) to repay its depositors: if there is a risk that an asset cannot be recovered in full, it must be backed by ‘capital’ to create a ‘buffer’. Capital buffer known as "regulatory capital".
 
 Starting point: regulatory capital is 8% of the value of each asset (but this is a minimum). Assets must be risk weighted.
 
@@ -1501,14 +1489,12 @@ Some facility agreements contain one-sided jurisdiction clauses, allowing the ba
 
 If any of the obligors in the facility is not an English registered company and does not have a branch or other place of business in Great Britain, the service of any English court documents on that obligor would require service ‘out of jurisdiction’.
 
-```ad-statute
-title: CPR 6.11(1) - Service of the claim form by contractually agreed method
-Where –
-- (a) a contract contains a term providing that, in the event of a claim being started in relation to the contract, the claim form may be served by a method or at a place specified in the contract; and
-- (b) a claim solely in respect of that contract is started,
-
-the claim form may, subject to paragraph (2), be served on the defendant by the method or at the place specified in the contract.
-```
+> [!statute] CPR 6.11(1) - Service of the claim form by contractually agreed method
+> Where –
+> - (a) a contract contains a term providing that, in the event of a claim being started in relation to the contract, the claim form may be served by a method or at a place specified in the contract; and
+> - (b) a claim solely in respect of that contract is started,
+> 
+> the claim form may, subject to paragraph (2), be served on the defendant by the method or at the place specified in the contract.
 
 The usual contractually agreed method is to appoint a 3rd party to receive documents on the obligors' behalf. This avoids a bank having to apply to court for leave to serve a foreign corporation. Several companies offer services for a fee.
 
@@ -1542,9 +1528,8 @@ Other provisions include:
 
 Where a syndicated loan requires a party to perform several defined roles, conventional for a bank to execute separately for each of the roles. s 44(6) CA 2006 requires that if a director is signing a document as director for more than one company (quite common for large groups), they must sign separately for each company.
 
-```ad-question
-Whhat if the loan involves a large syndicate and it is not possible to find a signing date which works for everyone?
-```
+> [!question]
+> Whhat if the loan involves a large syndicate and it is not possible to find a signing date which works for everyone?
 
 1. Documents can be sent to each signatory in turn (cumbersome)
 2. Absent party may appoint someone to sign on their behalf under a power of attorney, created through a deed. The attorney can sign in their own name or that of the principal (s 7(1) Powers of Attorney Act 1971).
@@ -1626,15 +1611,13 @@ Main aim of the bank: to remove the risk associated with the asset.
 
 The only way in which a party can effectively ‘transfer’ all its rights and obligations under a contract is with the consent of all the parties involved.
 
-```ad-important
-Novation involves one party’s rights and obligations under a contract being cancelled and discharged, whilst a third party assumes identical new rights and obligations in their place.
-```
+> [!important]
+> Novation involves one party’s rights and obligations under a contract being cancelled and discharged, whilst a third party assumes identical new rights and obligations in their place.
 
 The new bank assumes identical rights and obligations with respect to the borrower as applied to the existing bank.
 
-```ad-warning
-Strictly, a novation does not transfer rights and liabilities: it cancels an existing contract and replaces it with another. The borrower’s promise to perform its obligations in favour of a new bank is consideration for the existing bank releasing the old debt.
-```
+> [!warning]
+> Strictly, a novation does not transfer rights and liabilities: it cancels an existing contract and replaces it with another. The borrower’s promise to perform its obligations in favour of a new bank is consideration for the existing bank releasing the old debt.
 
 #### Advantages
 
@@ -1676,10 +1659,9 @@ Assignment is the transfer of **rights**. **s 136 LPA 1925** provides that an as
 	- To be ‘absolute’ in the context of loan transfers, an assignment must transfer the whole of the debt owed to the existing bank ([[Walter and Sullivan Ltd v Murphy (J) and Sons Ltd [1955] 2 QB 584]]) (and cannot be ‘by way of charge’)
 3. Notified in writing to any person(s) against whom the assignor could enforce the assigned rights.
 
-```ad-tip
-- If any one of the conditions for legal (or "statutory") assignment is not fulfilled, the assignment will be an equitable one.
-- An assignment can transfer only rights, not obligations
-```
+> [!tip]
+> - If any one of the conditions for legal (or "statutory") assignment is not fulfilled, the assignment will be an equitable one.
+> - An assignment can transfer only rights, not obligations
 
 #### Advantages
 
@@ -1737,10 +1719,8 @@ A notice of assignment (legal or equitable) should require a borrower to confirm
 
 Novation and assignment are attractive to banks because they enable it to remove loans from its balance sheet. Possible to achieve the same effect while leaving the original loan in place: sub-participation (“funded participation”).
 
-```ad-defn
-title: Sub-participation
-An arrangement under which an existing bank matches part or all of its loan to a borrower with a deposit it takes from a new bank (the ‘sub-participant’). The new bank agrees that its deposit will be serviced and repaid only when the borrower services and repays the loan from the existing bank. The sub-participant has effectively taken on the risk of the first loan.
-```
+> [!defn] Sub-participation
+> An arrangement under which an existing bank matches part or all of its loan to a borrower with a deposit it takes from a new bank (the ‘sub-participant’). The new bank agrees that its deposit will be serviced and repaid only when the borrower services and repays the loan from the existing bank. The sub-participant has effectively taken on the risk of the first loan.
 
 - The transaction does not involve any transfer of rights or obligations: the existing bank's contractual relationship with the borrower is unaffected.
 - Since sub-participation is an entirely separate agreement, the sub-participant bank has no-recourse against the borrower (“non-recourse transaction”).
@@ -1774,9 +1754,8 @@ An arrangement under which an existing bank matches part or all of its loan to a
 
 ## Global Transfer Agreement
 
-```ad-defn
-A new contract which amends (and restates) the facility agreement to add a new schedule of commitments.
-```
+> [!defn]
+> A new contract which amends (and restates) the facility agreement to add a new schedule of commitments.
 
 - A deal may require a large amount of simultaneous transfers.
 - To avoid preparing a large number of transfer certificates, a Global Transfer Agreement may be used.
@@ -1796,20 +1775,17 @@ A new contract which amends (and restates) the facility agreement to add a new s
 - Novation will not usually involve a transfer of property for stamp duty purposes and so will not normally attract the tax (unless the asset includes, e.g., rights to acquire property).
 - Assignment may attract stamp duty or SDRT, but exemptions can often by used.
 
-```ad-defn
-Income tax in respect of recurring payments at source is sometimes collected by requiring the payer to make a deduction on account of income tax before making the payment. This deduction is generally known as withholding tax. It frequently applies to dividends (although not those paid by UK companies), interest and royalties.
-```
+> [!defn]
+> Income tax in respect of recurring payments at source is sometimes collected by requiring the payer to make a deduction on account of income tax before making the payment. This deduction is generally known as withholding tax. It frequently applies to dividends (although not those paid by UK companies), interest and royalties.
 
 In all asset sales between banks, and involving a UK resident/domiciled borrower, the relevance of withholding tax on interest payments will depend largely on whether the exemption under s 879 of the ITA 2007 applies.
 
 The s 879 exemption will apply to loans which have been assigned as long as the advance was initially made by a ‘bank’ and the assignee is beneficially entitled to the interest and within the charge to UK corporation tax at the time interest is paid. If a loan is novated, this probably creates a new advance and so must be made to a ‘bank’ to ensure s 879 still applies.
 
-```ad-statute
-title: s 879 ITA 2007 - interest paid on advances from banks
-(1) The duty to deduct a sum representing income tax under section 874 does not apply to a payment of interest on an advance from a bank if, at the time when the payment is made, the person beneficially entitled to the interest is within the charge to corporation tax as respects the interest [F1or is a bank that would be within the charge to corporation tax as respects the interest apart from section 18A of CTA 2009].
-
-(2) Section 991 (meaning of “bank”) applies for the purposes of this section.
-```
+> [!statute] s 879 ITA 2007 - interest paid on advances from banks
+> (1) The duty to deduct a sum representing income tax under section 874 does not apply to a payment of interest on an advance from a bank if, at the time when the payment is made, the person beneficially entitled to the interest is within the charge to corporation tax as respects the interest [F1or is a bank that would be within the charge to corporation tax as respects the interest apart from section 18A of CTA 2009].
+> 
+> (2) Section 991 (meaning of “bank”) applies for the purposes of this section.
 
 Summary – withholding tax not payable if:
 
@@ -1818,10 +1794,8 @@ Summary – withholding tax not payable if:
 
 ## FSMA Implications
 
-```ad-statute
-title: s 19 FSMA 2000
-No person may carry on a regulated activity in the United Kingdom or purport to do so unless he is an authorised person or an exempt person.
-```
+> [!statute] s 19 FSMA 2000
+> No person may carry on a regulated activity in the United Kingdom or purport to do so unless he is an authorised person or an exempt person.
 
 When selling participations, the bank should ensure that it is authorised to do so under the Act.
 
@@ -1848,12 +1822,10 @@ Commonly negotiated conditions:
 - List of named institutions to which banks can transfer without consent pre-agreed.
 - Freedom to transfer upon the borrower's event of default?
 
-```ad-question
-title: Can a borrower buy back portions of their own loan debt?
-- This is a very cheap way to repay a debt. 
-- May be issues with prepayment restrictions, pro-rata sharing between lenders, restrictions on cash usage, and issues with novation. 
-- Even if buy-back is allowed, the buying entity is usually required to allow all the syndicate banks a chance to sell.
-```
+> [!question] Can a borrower buy back portions of their own loan debt?
+> - This is a very cheap way to repay a debt. 
+> - May be issues with prepayment restrictions, pro-rata sharing between lenders, restrictions on cash usage, and issues with novation. 
+> - Even if buy-back is allowed, the buying entity is usually required to allow all the syndicate banks a chance to sell.
 
 # Drafting Tips
 
@@ -1876,9 +1848,8 @@ title: Can a borrower buy back portions of their own loan debt?
 	- Use headings and contents table.
 	- Drafting must work in practice, e.g., references to business days.
 
-```ad-warning
-If using precedents, ensure conformity of terminology and check if any standard clauses have been removed/ amended. 
-```
+> [!warning]
+> If using precedents, ensure conformity of terminology and check if any standard clauses have been removed/ amended. 
 
 ## Techniques
 

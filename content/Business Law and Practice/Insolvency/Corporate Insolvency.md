@@ -21,17 +21,15 @@ Aims of insolvency law:
 
 ## Proving Insolvency
 
-```ad-statute
-title: s 122 IA 1986 - Circumstances in which company may be wound up by the court.
-
-(1) A company may be wound up by the court if—
-- (a) the company has by special resolution resolved that the company be wound up by the court,
-- (b) being a public company which was registered as such on its original incorporation, the company has not been issued with a trading certificate under section 761 of the Companies Act 2006 (requirement as to minimum share capital) and more than a year has expired since it was so registered,
-- (c) it is an old public company, within the meaning of the Schedule 3 to the Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009,
-- (d) the company does not commence its business within a year from its incorporation or suspends its business for a whole year;
-- (f) **the company is unable to pay its debts,**
-- (g) the court is of the opinion that it is just and equitable that the company should be wound up.
-```
+> [!statute] s 122 IA 1986 - Circumstances in which company may be wound up by the court.
+> 
+> (1) A company may be wound up by the court if—
+> - (a) the company has by special resolution resolved that the company be wound up by the court,
+> - (b) being a public company which was registered as such on its original incorporation, the company has not been issued with a trading certificate under section 761 of the Companies Act 2006 (requirement as to minimum share capital) and more than a year has expired since it was so registered,
+> - (c) it is an old public company, within the meaning of the Schedule 3 to the Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009,
+> - (d) the company does not commence its business within a year from its incorporation or suspends its business for a whole year;
+> - (f) **the company is unable to pay its debts,**
+> - (g) the court is of the opinion that it is just and equitable that the company should be wound up.
 
 Test | Description
 ---|---
@@ -67,15 +65,13 @@ As well as the above, a secured creditor can:
 - Appoint an LPA receiver
 - Appoint an administrative receiver (if security for the debt was created before 15/09/03)
 
-```ad-warning
-If serving a statutory demand, the secured creditor must be careful to only serve this for the unsecured element of the debt, else it may lose its security. 
-```
+> [!warning]
+> If serving a statutory demand, the secured creditor must be careful to only serve this for the unsecured element of the debt, else it may lose its security. 
 
 ## Liquidation
 
-```ad-defn
-Liquidation is the process by which a company's business is wound up, and its assets transferred to creditors and (if there is a surplus of assets over liabilities) to its members.
-```
+> [!defn]
+> Liquidation is the process by which a company's business is wound up, and its assets transferred to creditors and (if there is a surplus of assets over liabilities) to its members.
 
 Basic steps:
 
@@ -138,9 +134,8 @@ The court will consider all relevant factors and may dismiss the petition if the
 
 If the winding-up petition is accepted and a winding-up order is made, the Official Receiver, a civil servant or court official will automatically become a liquidator. Must decide whether it is appropriate to appoint an insolvency practitioner as liquidator in their place. This will generally be done if $>50\%$ creditors by value choose a private practice insolvency practitioner.
 
-```ad-note
-Where a commercial debt is owed to a landlord and the Commercial Rent (Coronavirus) Act 2020 applies, a legally binding arbitration procss will be available to seek to resolve disputes about pandemic related debt. 
-```
+> [!note]
+> Where a commercial debt is owed to a landlord and the Commercial Rent (Coronavirus) Act 2020 applies, a legally binding arbitration procss will be available to seek to resolve disputes about pandemic related debt. 
 
 ### Consequences of Winding up Order
 
@@ -331,9 +326,8 @@ A CVA is binding on all unsecured creditors (as regards past but not future debt
 
 But secured/ preferential creditors are **not** bound unless they unanimously consent to the CVA ([s 4 IA 1986](https://www.legislation.gov.uk/ukpga/1986/45/section/4)).
 
-```ad-note
-There is no statutory moratorium under a CVA, but a company could use the moratorium created by CIGA 2020 while creating a CVA proposal to be voted on. 
-```
+> [!note]
+> There is no statutory moratorium under a CVA, but a company could use the moratorium created by CIGA 2020 while creating a CVA proposal to be voted on. 
 
 #### Using CVAs
 
@@ -396,18 +390,14 @@ The court can sanction a Plan if it is **just and equitable** to do so, even if:
 - It brings about a cramdown of shareholders;
 	- Shareholders are forced to accept the Plan, even if it means diluting equity by creating [[debt-for-equity swaps]].
 
-```ad-test
-title: Cross-class cram down
-Will be ordered when:
-1. Court satisfied that no member of the dissenting classes will be any worse off under the plan than they would have been under the 'relevant alternative'
-2. At least one class that would benefit from the relevant alternative has voted in favour of the plan
-3. The court is prepared to sanction the plan. 
-```
+> [!test] Cross-class cram down
+> Will be ordered when:
+> 1. Court satisfied that no member of the dissenting classes will be any worse off under the plan than they would have been under the 'relevant alternative'
+> 2. At least one class that would benefit from the relevant alternative has voted in favour of the plan
+> 3. The court is prepared to sanction the plan. 
 
-```ad-defn
-title: Relevant alternative
-What the court considers to be most likely to occur if the plan is not sanctioned by the court (usually liquidation). 
-```
+> [!defn] Relevant alternative
+> What the court considers to be most likely to occur if the plan is not sanctioned by the court (usually liquidation). 
 
 #### Usage
 

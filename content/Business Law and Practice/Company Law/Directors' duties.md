@@ -180,22 +180,20 @@ Directors involved (and those connected) liable to account to the company for an
 
 s 217: any payment for loss of office to a director needs to be approved by shareholders by way of an ordinary resolution.
 
-```ad-statute
-title: Payment by company: requirement of members' approval
-(1) A company may not make a payment for loss of office to a director of the company unless the payment has been approved by a resolution of the members of the company.
-
-(2) A company may not make a payment for loss of office to a director of its holding company unless the payment has been approved by a resolution of the members of each of those companies.
-
-(3) A resolution approving a payment to which this section applies must not be passed unless a memorandum setting out particulars of the proposed payment (including its amount) is made available to the members of the company whose approval is sought—
-- (a) in the case of a written resolution, by being sent or submitted to every eligible member at or before the time at which the proposed resolution is sent or submitted to him;
-- (b) in the case of a resolution at a meeting, by being made available for inspection by the members both—
-	- (i) at the company's registered office for not less than 15 days ending with the date of the meeting, and
-	- (ii) at the meeting itself. 
-
-(4)No approval is required under this section on the part of the members of a body corporate that—
-- (a) is not a UK-registered company, or
-- (b) is a wholly-owned subsidiary of another body corporate.
-```
+> [!statute] Payment by company: requirement of members' approval
+> (1) A company may not make a payment for loss of office to a director of the company unless the payment has been approved by a resolution of the members of the company.
+> 
+> (2) A company may not make a payment for loss of office to a director of its holding company unless the payment has been approved by a resolution of the members of each of those companies.
+> 
+> (3) A resolution approving a payment to which this section applies must not be passed unless a memorandum setting out particulars of the proposed payment (including its amount) is made available to the members of the company whose approval is sought—
+> - (a) in the case of a written resolution, by being sent or submitted to every eligible member at or before the time at which the proposed resolution is sent or submitted to him;
+> - (b) in the case of a resolution at a meeting, by being made available for inspection by the members both—
+> 	- (i) at the company's registered office for not less than 15 days ending with the date of the meeting, and
+> 	- (ii) at the meeting itself. 
+> 
+> (4)No approval is required under this section on the part of the members of a body corporate that—
+> - (a) is not a UK-registered company, or
+> - (b) is a wholly-owned subsidiary of another body corporate.
 
 Two exceptions:
 
@@ -270,13 +268,11 @@ Basically an equity thing. [s 1157(1) CA 2006](https://www.legislation.gov.uk/uk
 > (b) a person employed by a company as an auditor,  
 > it appears to the court that the officer or person is or may be liable, but that he acted honestly and reasonably, and that having regard to all the circumstances of the case, he ought fairly to be excused, the court may relieve him from his liability on such terms as it thinks fit.
 
-```ad-test
-title: Court granting equitable relief
-In [[Re HLC Environmental Projects Ltd [2013] EWHC 2876 Ch]], a three part test was established. Need that the director:
-- Acted honestly,
-- acted reasonably, and
-- considering the circumstances of case, ought fairly to be excused. 
-```
+> [!test] Court granting equitable relief
+> In [[Re HLC Environmental Projects Ltd [2013] EWHC 2876 Ch]], a three part test was established. Need that the director:
+> - Acted honestly,
+> - acted reasonably, and
+> - considering the circumstances of case, ought fairly to be excused. 
 
 The burden of proving honesty and reasonableness lies on the director. It is only if both of these are established that the court needs to consider the third element.
 

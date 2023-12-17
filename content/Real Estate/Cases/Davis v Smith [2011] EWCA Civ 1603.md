@@ -7,9 +7,8 @@ date modified: Sunday, December 10th 2023, 12:39:22 am
 
 # Davis v Smith [2011] EWCA Civ 1603
 
-```ad-summary
-The parties had always envisaged a split of the sale proceeds of the house and other assets and had conducted negotiations on that basis.
-```
+> [!summary]
+> The parties had always envisaged a split of the sale proceeds of the house and other assets and had conducted negotiations on that basis.
 
 **FACTS:** In 1989, Mr and Mrs Smith bought a house as beneficial joint tenants. In 2009, they separated and Mr Smith left. Their solicitors advised each to serve a notice in writing on the other, although neither of them did. A divorce petition was issued, and solicitors exchanged correspondence regarding the joint assets: the house, two bank accounts and an endowment policy. It was agreed that the house should be sold and the endowment policy surrendered. The policy proceeds were shared as to £9,500 to Mr Smith and £3,000 to Mrs Smith on the basis that she would receive ‘the lion's share' of the proceeds of the sale of the house. She died before the house was sold.
 

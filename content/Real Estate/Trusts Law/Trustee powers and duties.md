@@ -45,9 +45,8 @@ Trustees therefore have administrative powers which enable them to carry out thi
 
 These administrative powers are typically curtailed by associated duties. Trustees have a duty to exercise their administrative powers in accordance with a prescribed standard of care and skill. They are also usually required to comply with specific rules when exercising their powers.
 
-```ad-example
-Trustees exercising the power of investment will usually be under an obligation to take advice and consider standard investment criteria. They also have ongoing obligations to review their investments. 
-```
+> [!example]
+> Trustees exercising the power of investment will usually be under an obligation to take advice and consider standard investment criteria. They also have ongoing obligations to review their investments. 
 
 There are common law and statutory rules to consider here, as well as anything specifically set out in the terms of the trust. Trust instruments will usually contain express administrative powers but, if not, there are default powers and duties in the [Trustee Act 2000](https://www.legislation.gov.uk/ukpga/2000/29/contents). It is important to check whether these rules have been amended or excluded.
 
@@ -78,9 +77,8 @@ A trustee will breach the trust if they either act outside their powers or fail 
 
 A trustee might also breach their fiduciary duties, whether or not they have breached the trust. In some cases, a trustee may be liable for breach of fiduciary duty even though they have done everything right in terms of their trustee duties and seemingly caused no harm to the trust fund.
 
-```ad-example
-Consider a trustee who uses their powers of investment to benefit both the trust fund and themselves (perhaps by investing in their own business). Although the investment might be a good one for the trust, the trustee may still have breached their fiduciary duties by putting themselves in a position of conflict or by personally profiting from the opportunity.
-```
+> [!example]
+> Consider a trustee who uses their powers of investment to benefit both the trust fund and themselves (perhaps by investing in their own business). Although the investment might be a good one for the trust, the trustee may still have breached their fiduciary duties by putting themselves in a position of conflict or by personally profiting from the opportunity.
 
 It is important to be able to distinguish fiduciary duties from trustee duties because breach of fiduciary duty is a difference cause of action with different consequences to a breach of trust.
 
@@ -120,16 +118,14 @@ The standard investment criteria are found in [s 4 TA 2000](https://www.legislat
 | Suitability (s 4(3)(a))      | Trustees must consider the suitability of the proposed investments. This includes (a) the general suitability of the type of investment, and (b) the specific suitability of the particular investment. |
 | Diversification (s 4(3)(b)) | Trustees must also consider the need for diversification of trust investments. The extent to which diversification is needed will depend on the size and nature of the particular trust.                                                                                                                                                                                                        |
 
-```ad-statute
-title: s 4 TA 2000
-(1) In exercising any power of investment, whether arising under this Part or otherwise, a trustee must have regard to the standard investment criteria.
-
-(2) A trustee must from time to time review the investments of the trust and consider whether, having regard to the standard investment criteria, they should be varied.
-
-(3) The standard investment criteria, in relation to a trust, are—
-- (a) the suitability to the trust of investments of the same kind as any particular investment proposed to be made or retained and of that particular investment as an investment of that kind, and
-- (b) the need for diversification of investments of the trust, in so far as is appropriate to the circumstances of the trust. 
-```
+> [!statute] s 4 TA 2000
+> (1) In exercising any power of investment, whether arising under this Part or otherwise, a trustee must have regard to the standard investment criteria.
+> 
+> (2) A trustee must from time to time review the investments of the trust and consider whether, having regard to the standard investment criteria, they should be varied.
+> 
+> (3) The standard investment criteria, in relation to a trust, are—
+> - (a) the suitability to the trust of investments of the same kind as any particular investment proposed to be made or retained and of that particular investment as an investment of that kind, and
+> - (b) the need for diversification of investments of the trust, in so far as is appropriate to the circumstances of the trust. 
 
 #### Suitability
 
@@ -139,11 +135,10 @@ The question of suitability will be highly fact-specific. A suitable investment 
 - The period of time for which the trust is intended to subsist
 - The respective rights of different beneficiaries
 
-```ad-example
-The trustees of a large, commercial trust fund which is intended to subsist for many years will have a greater degree of freedom to invest in assets which are intended to produce long-term growth, compared to the trustees of a small family trust which is only intended to last for a short period of time.
-
-If the family trust includes both life and remainder interests, the trustees will also need to ensure that any investments produce income for the life tenant as well as capital growth for the remainderman. Trustees must act even-handedly between beneficiaries.
-```
+> [!example]
+> The trustees of a large, commercial trust fund which is intended to subsist for many years will have a greater degree of freedom to invest in assets which are intended to produce long-term growth, compared to the trustees of a small family trust which is only intended to last for a short period of time.
+> 
+> If the family trust includes both life and remainder interests, the trustees will also need to ensure that any investments produce income for the life tenant as well as capital growth for the remainderman. Trustees must act even-handedly between beneficiaries.
 
 #### Diversification
 
@@ -183,16 +178,14 @@ Under [s 5 TA 2000](https://www.legislation.gov.uk/ukpga/2000/29/section/5) trus
 
 There is an exception set out in s 5(3) which provides that trustees need not seek advice if they reasonably conclude that in all the circumstances it is unnecessary to do so. This will depend on the circumstances but might, for example, include situations where the cost of the advice outweighs the benefit of obtaining it or cases where the trustee has sufficient knowledge and expertise to make the decision without advice.
 
-```ad-statute
-title: s 5 TA 2000
-(1) Before exercising any power of investment, whether arising under this Part or otherwise, a trustee must (unless the exception applies) obtain and consider proper advice about the way in which, having regard to the standard investment criteria, the power should be exercised.
-
-(2) When reviewing the investments of the trust, a trustee must (unless the exception applies) obtain and consider proper advice about whether, having regard to the standard investment criteria, the investments should be varied.
-
-(3) The exception is that a trustee need not obtain such advice if he reasonably concludes that in all the circumstances it is unnecessary or inappropriate to do so.
-
-(4) Proper advice is the advice of a person who is reasonably believed by the trustee to be qualified to give it by his ability in and practical experience of financial and other matters relating to the proposed investment.
-```
+> [!statute] s 5 TA 2000
+> (1) Before exercising any power of investment, whether arising under this Part or otherwise, a trustee must (unless the exception applies) obtain and consider proper advice about the way in which, having regard to the standard investment criteria, the power should be exercised.
+> 
+> (2) When reviewing the investments of the trust, a trustee must (unless the exception applies) obtain and consider proper advice about whether, having regard to the standard investment criteria, the investments should be varied.
+> 
+> (3) The exception is that a trustee need not obtain such advice if he reasonably concludes that in all the circumstances it is unnecessary or inappropriate to do so.
+> 
+> (4) Proper advice is the advice of a person who is reasonably believed by the trustee to be qualified to give it by his ability in and practical experience of financial and other matters relating to the proposed investment.
 
 ### Statutory Duty of Care
 
@@ -203,14 +196,12 @@ The statutory duty of care is found in [s 1 TA 2000](https://www.legislation.gov
 - Section 1(1)(a) requires the assessment to take into account ‘any special knowledge or experience’ that a trustee has or holds themselves out as having.
 - Section 1(1)(b) applies to professional trustees and requires the assessment to take into account any ‘special knowledge or experience’ that it is reasonable to expect of a person acting in that capacity.
 
-```ad-statute
-title: s 1 TA 2000
-(1) Whenever the duty under this subsection applies to a trustee, he must exercise such care and skill as is reasonable in the circumstances, having regard in particular—
-- (a) to any special knowledge or experience that he has or holds himself out as having, and
-- (b) if he acts as trustee in the course of a business or profession, to any special knowledge or experience that it is reasonable to expect of a person acting in the course of that kind of business or profession.
-
-(2) In this Act the duty under subsection (1) is called “the duty of care”.
-```
+> [!statute] s 1 TA 2000
+> (1) Whenever the duty under this subsection applies to a trustee, he must exercise such care and skill as is reasonable in the circumstances, having regard in particular—
+> - (a) to any special knowledge or experience that he has or holds himself out as having, and
+> - (b) if he acts as trustee in the course of a business or profession, to any special knowledge or experience that it is reasonable to expect of a person acting in the course of that kind of business or profession.
+> 
+> (2) In this Act the duty under subsection (1) is called “the duty of care”.
 
 In other words, the standard of care is always higher for professional trustees, because they are being paid to provide a service.
 
@@ -218,9 +209,8 @@ It is also raised for lay trustees who may have been appointed on the basis of h
 
 This is why it is important for individuals to think carefully about whether to accept the role of trustee, as their actions will be assessed objectively.
 
-```ad-warning
-The statutory duty of care does not apply to all acts of a trustee, but only to those set out in [Sch 1 TA 2000](https://www.legislation.gov.uk/ukpga/2000/29/schedule/1). Generally, the statutory duty of care only applies to administrative functions, so the common law duty (see below) will ony apply to the exercise of dispositive functions, though the preferable view is that there is no relevant difference between the statutory and common law duties of care.
-```
+> [!warning]
+> The statutory duty of care does not apply to all acts of a trustee, but only to those set out in [Sch 1 TA 2000](https://www.legislation.gov.uk/ukpga/2000/29/schedule/1). Generally, the statutory duty of care only applies to administrative functions, so the common law duty (see below) will ony apply to the exercise of dispositive functions, though the preferable view is that there is no relevant difference between the statutory and common law duties of care.
 
 ### Common Law Duty of Care
 
@@ -236,37 +226,32 @@ If the land is acquired for investment purposes, the trustees must consider the 
 
 The statutory duty of care applies to all trustee powers to acquire land, whether they arise under s 8 or otherwise, and whether the land is acquired for investment or other purposes.
 
-```ad-statute
-title: s 8 TA 2000
-(1) A trustee may acquire freehold or leasehold land in the United Kingdom—
-- (a) as an investment,
-- (b) for occupation by a beneficiary, or
-- (c) for any other reason.
-
-(2) “Freehold or leasehold land” means—
-- (a) in relation to England and Wales, a legal estate in land, ...
-
-(3) For the purpose of exercising his functions as a trustee, a trustee who acquires land under this section has all the powers of an absolute owner in relation to the land.
-```
+> [!statute] s 8 TA 2000
+> (1) A trustee may acquire freehold or leasehold land in the United Kingdom—
+> - (a) as an investment,
+> - (b) for occupation by a beneficiary, or
+> - (c) for any other reason.
+> 
+> (2) “Freehold or leasehold land” means—
+> - (a) in relation to England and Wales, a legal estate in land, ...
+> 
+> (3) For the purpose of exercising his functions as a trustee, a trustee who acquires land under this section has all the powers of an absolute owner in relation to the land.
 
 ### Power of Delegation
 
 [s 11 TA 2000](https://www.legislation.gov.uk/ukpga/2000/29/section/11) provides trustees with broad powers of delegation. Although there are some functions which trustees cannot delegate (such as their distributive obligations) they are permitted to delegate their powers of investment and powers to acquire land.
 
-```ad-statute
-title: s 11 TA 2000
-(1 )Subject to the provisions of this Part, the trustees of a trust may authorise any person to exercise any or all of their delegable functions as their agent.
+> [!statute] s 11 TA 2000
+> (1 )Subject to the provisions of this Part, the trustees of a trust may authorise any person to exercise any or all of their delegable functions as their agent.
+> 
+> (2) In the case of a trust other than a charitable trust, the trustees’ delegable functions consist of any function other than—
+> - (a) any function relating to whether or in what way any assets of the trust should be distributed,
+> - (b) any power to decide whether any fees or other payment due to be made out of the trust funds should be made out of income or capital,
+> - (c) any power to appoint a person to be a trustee of the trust, or
+> - (d) any power conferred by any other enactment or the trust instrument which permits the trustees to delegate any of their functions or to appoint a person to act as a nominee or custodian.
 
-(2) In the case of a trust other than a charitable trust, the trustees’ delegable functions consist of any function other than—
-- (a) any function relating to whether or in what way any assets of the trust should be distributed,
-- (b) any power to decide whether any fees or other payment due to be made out of the trust funds should be made out of income or capital,
-- (c) any power to appoint a person to be a trustee of the trust, or
-- (d) any power conferred by any other enactment or the trust instrument which permits the trustees to delegate any of their functions or to appoint a person to act as a nominee or custodian.
-```
-
-```ad-warning
-All decisions about the exercise of dispositive functions must be made by the trustees rather than delegated to an agent.
-```
+> [!warning]
+> All decisions about the exercise of dispositive functions must be made by the trustees rather than delegated to an agent.
 
 Trustees cannot delegate their investment powers except by an agreement evidenced in writing ([s 15 TA 2000](https://www.legislation.gov.uk/ukpga/2000/29/section/15)). This agreement should include a term ensuring compliance with a written ‘policy statement’ to be prepared by the trustees. The ‘policy statement’ should give guidance as to how the agent should exercise their functions, ensuring they are in line with the best interests of the beneficiaries.
 
@@ -311,25 +296,21 @@ For example, if a trustee holds money on trust for a minor beneficiary until the
 
 It is important to check the trust terms to determine whether the trustee has the power to accumulate the income (i.e. add it to the capital) or if it must be paid out. If the trustees are required to distribute income, they must do so within a reasonable period after its receipt.
 
-```ad-example
-title: Minors
-A trustee holds £1,000 on trust for each of A, B and C. A is 14. B is 15. C has just turned 18. What are the trustee’s obligations?
+> [!example] Minors
+> A trustee holds £1,000 on trust for each of A, B and C. A is 14. B is 15. C has just turned 18. What are the trustee’s obligations?
+> 
+> A, B and C all have vested interests:
+> - Because A and B are minors, the trustee must continue to hold the money on trust for them until they reach the age of 18.
+> - As C has just turned 18, the trustee must distribute their £1,000 to them as soon as possible. This will bring the trust for C to an end.
 
-A, B and C all have vested interests:
-- Because A and B are minors, the trustee must continue to hold the money on trust for them until they reach the age of 18.
-- As C has just turned 18, the trustee must distribute their £1,000 to them as soon as possible. This will bring the trust for C to an end.
-```
-
-```ad-example
-title: Successive interests
-
-A trustee holds property on trust for A for life, remainder to B. Both beneficiaries are over 18.
-
-What are the trustee’s obligations?
-- A has a vested interest in the income: The trustee is required to distribute the income to A during A’s lifetime.
-- B has a vested interest in the capital: After A’s death, B’s interest will vest in possession. The trustee must then transfer the trust property to B, bringing the trust to an end.
-- A and B could also agree to exercise their _Saunders v Vautier_ rights and direct the trustee to transfer the property to them or a third party, in the shares that they choose. The trustee will be obliged to comply with this direction.
-```
+> [!example] Successive interests
+> 
+> A trustee holds property on trust for A for life, remainder to B. Both beneficiaries are over 18.
+> 
+> What are the trustee’s obligations?
+> - A has a vested interest in the income: The trustee is required to distribute the income to A during A’s lifetime.
+> - B has a vested interest in the capital: After A’s death, B’s interest will vest in possession. The trustee must then transfer the trust property to B, bringing the trust to an end.
+> - A and B could also agree to exercise their _Saunders v Vautier_ rights and direct the trustee to transfer the property to them or a third party, in the shares that they choose. The trustee will be obliged to comply with this direction.
 
 ### Liability for Wrongful Distribution
 
@@ -356,9 +337,8 @@ The Benjamin order was expanded by [[Re Green’s Will Trusts [1985] 3 All ER 45
 
 The testator set out in her will that should her son not claim the estate before 2020 it would go to charity. Nourse J went against the testator's express wishes and made an order that the executors could distribute the estate to charity.
 
-```ad-warning
-If a trustee distributes the entirety of a trust fund in accordance with a Benjamin order and a missing beneficiary is later found, the trustee will not be liable to the missing beneficiary but the beneficiary may make a proprietary or receipt-based claim against other beneficiaries who have been overpaid as a result of the distribution.
-```
+> [!warning]
+> If a trustee distributes the entirety of a trust fund in accordance with a Benjamin order and a missing beneficiary is later found, the trustee will not be liable to the missing beneficiary but the beneficiary may make a proprietary or receipt-based claim against other beneficiaries who have been overpaid as a result of the distribution.
 
 ### Unknown Beneficiaries: Advertisements
 
@@ -430,30 +410,28 @@ Note that the provisions of s 31 TA 1925 may be excluded or varied by a trust in
 
 ### Power of Maintenance
 
-```ad-statute
-title: s 31 TA 1925 -  Power to apply income for maintenance and to accumulate surplus income during a minority.
-
-(1) Where any property is held by trustees in trust for any person for any interest whatsoever, whether vested or contingent, then, subject to any prior interests or charges affecting that property—
-- (i) during the infancy of any such person, if his interest so long continues, the trustees may, at their sole discretion, pay to his parent or guardian, if any, or otherwise apply for or towards his maintenance, education, or benefit, the whole or such part, if any, of the income of that property as the trustees may think fit, whether or not there is—
-	- (a) any other fund applicable to the same purpose; or
-	- (b) any person bound by law to provide for his maintenance or education; and
-- (ii) if such person on attaining the age of eighteen years has not a vested interest in such income, the trustees shall thenceforth pay the income of that property and of any accretion thereto under subsection (2) of this section to him, until he either attains a vested interest therein or dies, or until failure of his interest:
-
-(2) During the infancy of any such person, if his interest so long continues, the trustees shall accumulate all the residue of that income by investing it, and any profits from so investing it from time to time in authorised investments, and shall hold those accumulations as follows:—
-- (i) If any such person—
-	- (a) attains the age of eighteen years, or marries under that age or forms a civil partnership under that age, and his interest in such income during his infancy, or until his marriage or his formation of a civil partnership, is a vested interest or;
-	- (b) on attaining the age of eighteen years or on marriage, or formation of a civil partnership, under that age becomes entitled to the property from which such income arose in fee simple, absolute or determinable, or absolutely, or for an entailed interest;
-- the trustees shall hold the accumulations in trust for such person absolutely, but without prejudice to any provision with respect thereto contained in any settlement by him made under any statutory powers during his infancy, and so that the receipt of such person after marriage or formation of a civil partnership, and though still an infant shall be a good discharge, and
-- (ii) In any other case the trustees shall, notwithstanding that such person had a vested interest in such income, hold the accumulations as an accretion to the capital of the property from which such accumulations arose, and as one fund with such capital for all purposes, and so that, if such property is settled land, such accumulations shall be held upon the same trusts as if the same were capital money arising therefrom;
-
-but the trustees may, at any time during the infancy of such person if his interest so long continues, apply those accumulations, or any part thereof, as if they were income arising in the then current year.
-
-(3) This section applies in the case of a contingent interest only if the limitation or trust carries the intermediate income of the property, but it applies to a future or contingent legacy by the parent of, or a person standing in loco parentis to, the legatee, if and for such period as, under the general law, the legacy carries interest for the maintenance of the legatee, and in any such case as last aforesaid the rate of interest shall (if the income available is sufficient, and subject to any rules of court to the contrary) be five pounds per centum per annum.
-
-(4) This section applies to a vested annuity in like manner as if the annuity were the income of property held by trustees in trust to pay the income thereof to the annuitant for the same period for which the annuity is payable, save that in any case accumulations made during the infancy of the annuitant shall be held in trust for the annuitant or his personal representatives absolutely.
-
-(5) This section does not apply where the instrument, if any, under which the interest arises came into operation before the commencement of this Act.
-```
+> [!statute] s 31 TA 1925 -  Power to apply income for maintenance and to accumulate surplus income during a minority.
+> 
+> (1) Where any property is held by trustees in trust for any person for any interest whatsoever, whether vested or contingent, then, subject to any prior interests or charges affecting that property—
+> - (i) during the infancy of any such person, if his interest so long continues, the trustees may, at their sole discretion, pay to his parent or guardian, if any, or otherwise apply for or towards his maintenance, education, or benefit, the whole or such part, if any, of the income of that property as the trustees may think fit, whether or not there is—
+> 	- (a) any other fund applicable to the same purpose; or
+> 	- (b) any person bound by law to provide for his maintenance or education; and
+> - (ii) if such person on attaining the age of eighteen years has not a vested interest in such income, the trustees shall thenceforth pay the income of that property and of any accretion thereto under subsection (2) of this section to him, until he either attains a vested interest therein or dies, or until failure of his interest:
+> 
+> (2) During the infancy of any such person, if his interest so long continues, the trustees shall accumulate all the residue of that income by investing it, and any profits from so investing it from time to time in authorised investments, and shall hold those accumulations as follows:—
+> - (i) If any such person—
+> 	- (a) attains the age of eighteen years, or marries under that age or forms a civil partnership under that age, and his interest in such income during his infancy, or until his marriage or his formation of a civil partnership, is a vested interest or;
+> 	- (b) on attaining the age of eighteen years or on marriage, or formation of a civil partnership, under that age becomes entitled to the property from which such income arose in fee simple, absolute or determinable, or absolutely, or for an entailed interest;
+> - the trustees shall hold the accumulations in trust for such person absolutely, but without prejudice to any provision with respect thereto contained in any settlement by him made under any statutory powers during his infancy, and so that the receipt of such person after marriage or formation of a civil partnership, and though still an infant shall be a good discharge, and
+> - (ii) In any other case the trustees shall, notwithstanding that such person had a vested interest in such income, hold the accumulations as an accretion to the capital of the property from which such accumulations arose, and as one fund with such capital for all purposes, and so that, if such property is settled land, such accumulations shall be held upon the same trusts as if the same were capital money arising therefrom;
+> 
+> but the trustees may, at any time during the infancy of such person if his interest so long continues, apply those accumulations, or any part thereof, as if they were income arising in the then current year.
+> 
+> (3) This section applies in the case of a contingent interest only if the limitation or trust carries the intermediate income of the property, but it applies to a future or contingent legacy by the parent of, or a person standing in loco parentis to, the legatee, if and for such period as, under the general law, the legacy carries interest for the maintenance of the legatee, and in any such case as last aforesaid the rate of interest shall (if the income available is sufficient, and subject to any rules of court to the contrary) be five pounds per centum per annum.
+> 
+> (4) This section applies to a vested annuity in like manner as if the annuity were the income of property held by trustees in trust to pay the income thereof to the annuitant for the same period for which the annuity is payable, save that in any case accumulations made during the infancy of the annuitant shall be held in trust for the annuitant or his personal representatives absolutely.
+> 
+> (5) This section does not apply where the instrument, if any, under which the interest arises came into operation before the commencement of this Act.
 
 Where a minor has a vested interest in trust property (or a contingent interest which carries the intermediate income), the trustees have a wide statutory power under [s 31 TA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/19/section/31) to pay the income as they think fit. The trustees may:
 
@@ -476,36 +454,33 @@ Because the power of maintenance only applies during the minority of a beneficia
 
 If it is not exercised at this time, all accumulated income will become part of the trust capital and the beneficiary will not be able to access it until their interest in the capital vests.
 
-```ad-example
-A testator leaves an estate on trust for A (26), B (19) and C (16) in equal shares upon their reaching 25.
-
-A has reached the age of 25 so their share has vested in possession and should be distributed.
-
-B’s share has vested in interest. Until B reaches 25, the income generated by B’s share must be paid to B. (Note that B has _Saunders v Vautier_ rights so could choose to collapse their share before this).
-
-C is a minor and until C reaches the age of 18 the trustees have the power (but not the obligation) to pay income to C’s parent or guardian (or otherwise apply it for C’s maintenance, education and benefit e.g., by paying school fees directly to the school). Income not used is accumulated.
-```
+> [!example]
+> A testator leaves an estate on trust for A (26), B (19) and C (16) in equal shares upon their reaching 25.
+> 
+> A has reached the age of 25 so their share has vested in possession and should be distributed.
+> 
+> B’s share has vested in interest. Until B reaches 25, the income generated by B’s share must be paid to B. (Note that B has _Saunders v Vautier_ rights so could choose to collapse their share before this).
+> 
+> C is a minor and until C reaches the age of 18 the trustees have the power (but not the obligation) to pay income to C’s parent or guardian (or otherwise apply it for C’s maintenance, education and benefit e.g., by paying school fees directly to the school). Income not used is accumulated.
 
 S 31 is commonly expressly amended to defer a beneficiary's right to income, meaning they become entitled to both income and capital at the same time.
 
 ### Power to Advance Capital
 
-```ad-statute
-title: s 32 TA 1925 - Power of advancement
-
-(1) Trustees may at any time or times pay or apply any capital money subject to a trust, or transfer or apply any other property forming part of the capital of the trust property, for the advancement or benefit, in such manner as they may, in their absolute discretion, think fit, of any person entitled to the capital of the trust property or of any share thereof, whether absolutely or contingently on his attaining any specified age or on the occurrence of any other event, or subject to a gift over on his death under any specified age or on the occurrence of any other event, and whether in possession or in remainder or reversion, and such payment, transfer or application may be made notwithstanding that the interest of such person is liable to be defeated by the exercise of a power of appointment or revocation, or to be diminished by the increase of the class to which he belongs:
-
-Provided that—
-
-- (a) property (including any money) so paid, transferred or applied for the advancement or benefit of any person must not, altogether, represent more than the presumptive or vested share or interest of that person in the trust property; and
-- (b) if that person is or becomes absolutely and indefeasibly entitled to a share in the trust property the money or other property so paid, transferred or applied shall be brought into account as part of such share; and
-- (c) no such payment, transfer or application shall be made so as to prejudice any person entitled to any prior life or other interest, whether vested or contingent, in the money or other property paid, transferred or applied unless such person is in existence and of full age and consents in writing to such payment or application.
-- (1A) In exercise of the foregoing power trustees may pay, transfer or apply money or other property on the basis (express or implied) that it shall be treated as a proportionate part of the capital out of which it was paid, transferred or applied, for the purpose of bringing it into account in accordance with proviso (b) to subsection (1) of this section.
-
-(2) This section does not apply to capital money arising under the M1 Settled Land Act 1925.
-
-(3) This section does not apply to trusts constituted or created before the commencement of this Act.
-```
+> [!statute] s 32 TA 1925 - Power of advancement
+> 
+> (1) Trustees may at any time or times pay or apply any capital money subject to a trust, or transfer or apply any other property forming part of the capital of the trust property, for the advancement or benefit, in such manner as they may, in their absolute discretion, think fit, of any person entitled to the capital of the trust property or of any share thereof, whether absolutely or contingently on his attaining any specified age or on the occurrence of any other event, or subject to a gift over on his death under any specified age or on the occurrence of any other event, and whether in possession or in remainder or reversion, and such payment, transfer or application may be made notwithstanding that the interest of such person is liable to be defeated by the exercise of a power of appointment or revocation, or to be diminished by the increase of the class to which he belongs:
+> 
+> Provided that—
+> 
+> - (a) property (including any money) so paid, transferred or applied for the advancement or benefit of any person must not, altogether, represent more than the presumptive or vested share or interest of that person in the trust property; and
+> - (b) if that person is or becomes absolutely and indefeasibly entitled to a share in the trust property the money or other property so paid, transferred or applied shall be brought into account as part of such share; and
+> - (c) no such payment, transfer or application shall be made so as to prejudice any person entitled to any prior life or other interest, whether vested or contingent, in the money or other property paid, transferred or applied unless such person is in existence and of full age and consents in writing to such payment or application.
+> - (1A) In exercise of the foregoing power trustees may pay, transfer or apply money or other property on the basis (express or implied) that it shall be treated as a proportionate part of the capital out of which it was paid, transferred or applied, for the purpose of bringing it into account in accordance with proviso (b) to subsection (1) of this section.
+> 
+> (2) This section does not apply to capital money arising under the M1 Settled Land Act 1925.
+> 
+> (3) This section does not apply to trusts constituted or created before the commencement of this Act.
 
 A beneficiary who expects to receive capital from a trust at a future date may wish to receive their capital before it vests in possession.
 
@@ -548,15 +523,14 @@ Any such payment must be brought into account when the beneficiary becomes absol
 
 Trustees have a choice between treating the share advanced as a **proportionate share of the overall trust value or its strict monetary value**. The choice they make could have significant consequences for both the beneficiary who receives the advancement and all the other beneficiaries. This is best illustrated by way of example.
 
-```ad-example
-Trustees hold a trust fund worth £20,000 on trust for A, B, C and D in equal shares when they reach 18. The trustees exercise the power of advancement to pay £5,000 to A. The trustees must choose whether this is to be treated as A's proportionate share of the fund. This could make a significant difference to A as £5,000 would amount to 100% of A's share in the trust fund at the date it was paid.
-
-If the £5,000 is treated as A’s proportionate share, A will no longer be entitled to anything from the trust fund, regardless of how much the fund is worth when A reaches 18.
-
-For example, if the fund grows to £25,000 this will be shared equally between B, C and D (£8,333 each).
-
-If the £5,000 is not treated as A’s proportionate share, the trustees will take A’s payment into account before making their distributions, bringing the total trust value to £30,000. That is then shared equally between all four beneficiaries. B,C and D each receive £7,500. A has already had £5,000 so is entitled to an additional £2,500.
-```
+> [!example]
+> Trustees hold a trust fund worth £20,000 on trust for A, B, C and D in equal shares when they reach 18. The trustees exercise the power of advancement to pay £5,000 to A. The trustees must choose whether this is to be treated as A's proportionate share of the fund. This could make a significant difference to A as £5,000 would amount to 100% of A's share in the trust fund at the date it was paid.
+> 
+> If the £5,000 is treated as A’s proportionate share, A will no longer be entitled to anything from the trust fund, regardless of how much the fund is worth when A reaches 18.
+> 
+> For example, if the fund grows to £25,000 this will be shared equally between B, C and D (£8,333 each).
+> 
+> If the £5,000 is not treated as A’s proportionate share, the trustees will take A’s payment into account before making their distributions, bringing the total trust value to £30,000. That is then shared equally between all four beneficiaries. B,C and D each receive £7,500. A has already had £5,000 so is entitled to an additional £2,500.
 
 > [!summary]
 > - Adult beneficiaries with vested interests in trust property will usually have a right to receive the trust income as it arises. Those with contingent interests will only have a right to income if their interest ‘carries the intermediate income’.

@@ -39,9 +39,8 @@ By way of example, it has since been suggested that it may sometimes be necessar
 
 It is murder trials that have provided the forum for discussion of this issue in the past, although there is no reason why this could not become an issue in any offence where intention is the only form of mens rea available. In reality, the number of cases where extended guidance is given to a jury is extremely small.
 
-```ad-defn
-Oblique intent is where the consequence is not the defendant's purpose but rather a side effect that D accepts as an inevitable or certain accompaniment to D’s direct intention. The consequence here does not have to be 'desired'. Indeed, the defendant may even regret that this incidental consequence will occur.
-```
+> [!defn]
+> Oblique intent is where the consequence is not the defendant's purpose but rather a side effect that D accepts as an inevitable or certain accompaniment to D’s direct intention. The consequence here does not have to be 'desired'. Indeed, the defendant may even regret that this incidental consequence will occur.
 
 ### Test
 

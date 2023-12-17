@@ -13,10 +13,8 @@ date modified: Sunday, December 10th 2023, 12:41:21 am
 
 ## Why Grant Security
 
-```ad-defn
-title: Security
-Temporary ownership, possession, or other proprietary interest in an asset to ensure that a debt is repaid (i.e., collateral for a debt).
-```
+> [!defn] Security
+> Temporary ownership, possession, or other proprietary interest in an asset to ensure that a debt is repaid (i.e., collateral for a debt).
 
 The main benefit of taking security is to protect the creditor in the event that the borrower enters into a formal insolvency procedure. It is possible to improve the priority of a debt by taking security for it. Enforcing the security can be a simpler way of obtaining repayment than suing the borrower.
 
@@ -96,13 +94,12 @@ Most companies are unable to grant fixed charges for the majority of their asset
 
 With a floating charge, whatever assets in a particular class that a borrower owns at any point in time are subject to the floating charge.
 
-```ad-defn
-In [[Re Yorkshire Woolcombers Association [1904] AC 355]], a floating charge was defined as
-
-- A class of assets, present and future; and
-- Which in the ordinary course of the company's business changes from time to time; and
-- It is contemplated that until the holders of the charge take steps to enforce it, the company may carry on business in the ordinary way as far as concerns the assets charged.
-```
+> [!defn]
+> In [[Re Yorkshire Woolcombers Association [1904] AC 355]], a floating charge was defined as
+> 
+> - A class of assets, present and future; and
+> - Which in the ordinary course of the company's business changes from time to time; and
+> - It is contemplated that until the holders of the charge take steps to enforce it, the company may carry on business in the ordinary way as far as concerns the assets charged.
 
 Possible to create more than one floating charge over the same group of assets. The asset are usually identified generically (e.g., “stock”).
 
@@ -149,13 +146,11 @@ Case | Authority
 
 Eventually, the position was resolved in [[National Westminster Bank plc v Spectrum Plus Limited and others [2005] UKHL 41]]. It is now very difficult to demonstrate the requisite level of control over book debts for a fixed charge. It would require at least a blocked account.
 
-```ad-important
-title: Charge over book debts
-
-From the case of [[National Westminster Bank plc v Spectrum Plus Limited and others [2005] UKHL 41]] it is only possible to have a fixed charge over book debts if they are paid into a blocked account which gives the lender the degree of control required.
-
-**Book debts can only be secured by a fixed charge where the charge holder has control over both the debts and the proceedds once they were paid.**
-```
+> [!important] Charge over book debts
+> 
+> From the case of [[National Westminster Bank plc v Spectrum Plus Limited and others [2005] UKHL 41]] it is only possible to have a fixed charge over book debts if they are paid into a blocked account which gives the lender the degree of control required.
+> 
+> **Book debts can only be secured by a fixed charge where the charge holder has control over both the debts and the proceedds once they were paid.**
 
 The court will look at the substance of an arrangement, not the title.
 
@@ -226,9 +221,8 @@ After documents have been delivered, the Registrar of Companies must register th
 
 ### Failure to Register
 
-```ad-warning
-Failure to register the charge renders the charge void against a liquidator or an administrator of the company, and also against the company’s other creditors (CA 2006, s 859H(3)).
-```
+> [!warning]
+> Failure to register the charge renders the charge void against a liquidator or an administrator of the company, and also against the company’s other creditors (CA 2006, s 859H(3)).
 
 So another creditor registering a charge over the same asset later will take priority. A liquidator/ administrator can ignore the charge completely when dividing up resources.
 
@@ -282,6 +276,5 @@ It is usual to create a 'negative pledge' clause, prohibiting the company from c
 
 The existence of a negative pledge clause is identified by completing a section of Form MR01 sent to Companies House, and the clause itself will be included in the certified copy of the charging document which is delivered to the Registrar.
 
-```ad-action
-The agreement for the subsequent charge should contain a covenant (contractual promise) by the company to the effect that there are no earlier charges which are subject to a negative pledge clause. If this is not true, the company will be in breach of that agreement and it may be terminated immediately.
-```
+> [!action]
+> The agreement for the subsequent charge should contain a covenant (contractual promise) by the company to the effect that there are no earlier charges which are subject to a negative pledge clause. If this is not true, the company will be in breach of that agreement and it may be terminated immediately.

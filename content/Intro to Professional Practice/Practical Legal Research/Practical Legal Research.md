@@ -217,13 +217,12 @@ A written and verbatim record of the court's judgment. There are two ways in whi
 
 Have all the information contained in a transcript but also some editorial enhancements. Usually produced when a case makes a change to or develops the law.
 
-```ad-example
-- The Law Reports (AC, QB, CH and Fam)
-- The Weekly Law Reports (WLR)
-- The All England Law Reports (All ER)
-
-Brief reports are also published in The Times and practitioner's journals. 
-```
+> [!example]
+> - The Law Reports (AC, QB, CH and Fam)
+> - The Weekly Law Reports (WLR)
+> - The All England Law Reports (All ER)
+> 
+> Brief reports are also published in The Times and practitioner's journals. 
 
 If possible, use these reports rather than judgments. Cases not selected for inclusion in such publications are termed 'unreported'. Applies to 95% of the ~200,000 cases decided each year.
 
@@ -235,9 +234,8 @@ The Law Reports are the nearest to an official series of case reports. They incl
 
 ### Citing Cases
 
-```ad-example
-*Jordan v Burgoyne* [1963] 2 QB 744 means the report of the case of *Jordan v Burgoyne* starts  at p 744 of vol 2 of the Queen's Bench series of the Law Reports for 1963.
-```
+> [!example]
+> *Jordan v Burgoyne* [1963] 2 QB 744 means the report of the case of *Jordan v Burgoyne* starts  at p 744 of vol 2 of the Queen's Bench series of the Law Reports for 1963.
 
 - If the year is superfluous, it appears in round brackets
 - The number of the volume comes before the title of the series

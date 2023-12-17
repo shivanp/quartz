@@ -39,9 +39,8 @@ Dissolution is when a partnership ends. Main question: what happens to the busin
 
 ## Dissolution
 
-```ad-defn
-Dissolution of a partnership means that the contractual relationship joining all the current partners comes to an end. So if a partner leaves and another joins, strictly one partnership is dissolved and a new one formed. 
-```
+> [!defn]
+> Dissolution of a partnership means that the contractual relationship joining all the current partners comes to an end. So if a partner leaves and another joins, strictly one partnership is dissolved and a new one formed. 
 
 ss 32-35 specify certain events which trigger a partnership to be dissolved (though most can be excluded by agreement).
 
@@ -54,29 +53,24 @@ ss 32-35 specify certain events which trigger a partnership to be dissolved (tho
 
 Notice of dissolution may be given by any partner to the others (ss 26 & 32). The notice need not state a reason for dissolution and can have immediate effect.
 
-```ad-defn
-A partnership which is terminable under s 26 is known as a 'partnership at will'.
-```
+> [!defn]
+> A partnership which is terminable under s 26 is known as a 'partnership at will'.
 
-```ad-statute
-title: s 26
-(1) Where no fixed term has been agreed upon for the duration of the partnership, any partner may determine the partnership at any time on giving notice of his intention so to do to all the other partners.
+> [!statute] s 26
+> (1) Where no fixed term has been agreed upon for the duration of the partnership, any partner may determine the partnership at any time on giving notice of his intention so to do to all the other partners.
+> 
+> (2) Where the partnership has originally been constituted by deed, a notice in writing, signed by the partner giving it, shall be sufficient for this purpose.
 
-(2) Where the partnership has originally been constituted by deed, a notice in writing, signed by the partner giving it, shall be sufficient for this purpose.
-```
-
-```ad-statute
-title: s 32
-Subject to any agreement between the partners, a partnership is dissolved—
-
-- (a) If entered into for a fixed term, by the expiration of that term:
-
-- (b) If entered into for a single adventure or undertaking, by the termination of that adventure or undertaking:
-
-- (c) If entered into for an undefined time, by any partner giving notice to the other or others of his intention to dissolve the partnership.
-
-In the last mentioned case the partnership is dissolved as from the date mentioned in the notice as the date of dissolution, or, if no date is so mentioned, as from the date of the communication of the notice.
-```
+> [!statute] s 32
+> Subject to any agreement between the partners, a partnership is dissolved—
+> 
+> - (a) If entered into for a fixed term, by the expiration of that term:
+> 
+> - (b) If entered into for a single adventure or undertaking, by the termination of that adventure or undertaking:
+> 
+> - (c) If entered into for an undefined time, by any partner giving notice to the other or others of his intention to dissolve the partnership.
+> 
+> In the last mentioned case the partnership is dissolved as from the date mentioned in the notice as the date of dissolution, or, if no date is so mentioned, as from the date of the communication of the notice.
 
 ### Expiry of Fixed Term
 
@@ -117,12 +111,10 @@ id3.2 --> id4(May be sold to other partners <br/> or an outsider)
 
 ### Death or Bankruptcy
 
-```ad-statute
-title: s 33
-(1)  Subject to any agreement between the partners, every partnership is dissolved as regards all the partners by the death or bankruptcy of any partner.
-
-(2)  A partnership may, at the option of the other partners, be dissolved if any partner suffers his share of the partnership property to be charged under this Act for his separate debt.
-```
+> [!statute] s 33
+> (1)  Subject to any agreement between the partners, every partnership is dissolved as regards all the partners by the death or bankruptcy of any partner.
+> 
+> (2)  A partnership may, at the option of the other partners, be dissolved if any partner suffers his share of the partnership property to be charged under this Act for his separate debt.
 
 The personal representatives of the deceased/ trustee in bankruptcy can collect the former partner's share of the estate.
 
@@ -130,10 +122,8 @@ With a joint venture, need a mechanism for unwinding if one party becomes insolv
 
 ### Illegality
 
-```ad-statute
-title: s 34
-A partnership is in every case dissolved by the happening of any event which makes it unlawful for the business of the firm to be carried on or for the members of the firm to carry it on in partnership. 
-```
+> [!statute] s 34
+> A partnership is in every case dissolved by the happening of any event which makes it unlawful for the business of the firm to be carried on or for the members of the firm to carry it on in partnership. 
 
 This includes cases where:
 
@@ -225,19 +215,15 @@ If partners cannot reach an agreement as to continuing business/ purchasing shar
 
 May be by sale of as a going concern, or by breaking up the business and selling assets separately.
 
-```ad-statute
-title: s 39
-Every partner has the right to insist on a disposal and payment, if necessary by applicaiton to court. 
-```
+> [!statute] s 39
+> Every partner has the right to insist on a disposal and payment, if necessary by applicaiton to court. 
 
 ### Goodwill
 
 Clearly, if the business is broken up and assets sold separately, there is financial disadvantage.
 
-```ad-defn
-title: Goodwill
-The benefit of a business's reputation and connections. 
-```
+> [!defn] Goodwill
+> The benefit of a business's reputation and connections. 
 
 Goodwill is commonly valued by a year or two's profit. Alternatively, consider the value from a buyer's perspective, versus their option of setting up under a new business. Goodwill can be sold!
 
@@ -257,10 +243,8 @@ be used in the following sequence (PA 1890, s 44).
 
 ### Parties
 
-```ad-statute
-title: s 38 PA 1890
-Each partner (except a bankrupt partner) has continuing authority to act for the purposes of winding up the firm’s affairs.
-```
+> [!statute] s 38 PA 1890
+> Each partner (except a bankrupt partner) has continuing authority to act for the purposes of winding up the firm’s affairs.
 
 - So often no need for anyone external in a dissolution.
 - But if there is dispute/ problems, any partner may apply to court for the appointment of a person (or one of the partners):

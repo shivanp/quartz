@@ -86,10 +86,9 @@ Permits the tenant to assign, provided the seller tenant obtains the prior conse
 
 LTA 1998: the landlord must, upon being served with a written request for consent, give consent within a reasonable time unless it is reasonable to withhold consent. Written notice of decision must be served on the tenant within a reasonable time, stating any conditions attached to consent/ reasons for withholding. Breach = breach of statutory duty (in tort) $\rightarrow$ tenant gets damages.
 
-```ad-warning
-The obligations under the 1988 Act will not be triggered unless the written application for consent has been correctly served on the landlord. In [[EON UK plc v Gilespor ts Ltd [2012] EWHC 2172 (Ch)]], the landlord’s statutory duties
-under the 1988 Act were not triggered by an application for consent to assign made by the tenant via email - since the lease did not allow service by email.
-```
+> [!warning]
+> The obligations under the 1988 Act will not be triggered unless the written application for consent has been correctly served on the landlord. In [[EON UK plc v Gilespor ts Ltd [2012] EWHC 2172 (Ch)]], the landlord’s statutory duties
+> under the 1988 Act were not triggered by an application for consent to assign made by the tenant via email - since the lease did not allow service by email.
 
 In leases of commercial property granted on or after 01/01/96, the lease may provide for the circumstances in which the landlord would withhold his consent to an assignment and any conditions subject to which such consent will be granted (Landlord and Tenant (Covenants) Act 1995). A landlord will not be withholding his consent unreasonably if he insists on compliance with these conditions.
 
@@ -103,9 +102,8 @@ Landlord cannot demand a premium as a condition for consent – unless the lease
 
 The landlord is entitled to ask the tenant to pay the landlord’s solicitor’s reasonable charges in connection with the preparation of the deed of consent (licence to assign). On the assignment of a commercial lease, it is usual for the landlord’s solicitors to require an undertaking from the seller’s solicitors for the payment of the costs, although it is not clear whether it is reasonable to insist on such an undertaking.
 
-```ad-action
-The seller’s solicitor should first seek their client’s authority to give the undertaking, the undertaking should be limited to the reasonable costs incurred, and a cap on such costs could also be sought.
-```
+> [!action]
+> The seller’s solicitor should first seek their client’s authority to give the undertaking, the undertaking should be limited to the reasonable costs incurred, and a cap on such costs could also be sought.
 
 ### SCPC
 
@@ -143,9 +141,8 @@ Registration with a good leasehold title provides no guarantee of the soundness 
 
 If a seller is in breach of a repairing covenant in the lease, the lack of repair could involve him in liability to the buyer after completion under the covenants for title, which will be implied in the transfer deed. Where the seller sells with full or limited title guarantee, the covenants for title include a promise that the seller has complied with the tenant’s covenants in the lease, including repair.
 
-```ad-note
-Seller should **not** make any promises about repiar, because *caveat emptor* applies.
-```
+> [!note]
+> Seller should **not** make any promises about repiar, because *caveat emptor* applies.
 
 There is a conflict here between the promise implied by the covenants for title and caveat emptor. It is resolved by modifying the covenants for title to bring them into line with caveat emptor (SCPC 4.2.2 and 7.6.4) by excluding references to repair. This type of contractual condition must be reflected by an express modification of the implied covenants for title in the transfer deed itself (usually box 9 or 11 of TR1).
 

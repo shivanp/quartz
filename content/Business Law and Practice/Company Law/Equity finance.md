@@ -100,15 +100,13 @@ Capital can still be lost as a result of poor business decisions or market condi
 
 Many companies, large and small, have very limited share capital: so the doctrine doesn't really protect creditors much in this case.
 
-```ad-important
-title: Doctrine of capital maintenance ([s 658 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/658))
-
- 1. A limited company must not acquire its own shares, whether by purchase, subscription or otherwise, except in accordance with the provisions of this Part.
- 2. If a company purports to act in contravention of this section—
-(a) an offence is committed by (i) the company, and (ii) every officer of the company who is in default, and
-(b) the purported acquisition is void.
-
-```
+> [!important] Doctrine of capital maintenance ([s 658 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/658))
+> 
+>  1. A limited company must not acquire its own shares, whether by purchase, subscription or otherwise, except in accordance with the provisions of this Part.
+>  2. If a company purports to act in contravention of this section—
+> (a) an offence is committed by (i) the company, and (ii) every officer of the company who is in default, and
+> (b) the purported acquisition is void.
+> 
 
 [s 659 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/659) provides a set of limited exceptions.
 
@@ -171,9 +169,8 @@ The courts have found that there has been a “disguised” return of capital to
 
 When an unlawful distribution is made, both the directors who authorised the distribution and the shareholders receiving it may be liable.
 
-```ad-warning
-If a dividend is paid when there are insufficient profits available for the purpose, the directors who authorised the payment are jointly and severally liable to the company for the full amount.
-```
+> [!warning]
+> If a dividend is paid when there are insufficient profits available for the purpose, the directors who authorised the payment are jointly and severally liable to the company for the full amount.
 
 - Directors who knew or ought to have known that the payment amounted to a breach are liable to personally repay the dividends ([[Bairstow v Queens Moat Houses plc [2001] EWCA Civ 712]]).
 - [s 847 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/847) provides that where a distribution is made in contravention of the requirements of the Act, and if at the time of distribution the member knows or has reasonable grounds for believing the distribution to have been unlawful, they are liable to repay it to the company ([[It's a Wrap (UK) Ltd v Gula [2006] EWCA Civ 544]]).

@@ -43,9 +43,8 @@ Bonds typically take:
 - Many of these restrictions are imposed on issues made to the public in order to protect unsophisticated investors/ policies of investment control or taxation.
 - To avoid contravening any restrictions which might apply to it, a bond will include contractual restrictions on the institutions selling the issue (the ‘syndicate’). These are known as ‘selling restrictions’.
 
-```ad-note
-The most commonly applicable selling restrictions are those imposed under US tax and securities laws. Some of these require that definitive bonds cannot be delivered for a period (usually 40 days) after issue (known as a ‘lock-up’ period). More commonly, there will be a restricted period during which definitive bonds may be offered only to certain investors. So temporary global note helps. 
-```
+> [!note]
+> The most commonly applicable selling restrictions are those imposed under US tax and securities laws. Some of these require that definitive bonds cannot be delivered for a period (usually 40 days) after issue (known as a ‘lock-up’ period). More commonly, there will be a restricted period during which definitive bonds may be offered only to certain investors. So temporary global note helps. 
 
 Once any lock-up period expires, the temporary global note must be exchanged for either a permanent global note (permanent version of the temporary global note), or bonds in definitive form (separate certificates representing each bond).
 
@@ -57,10 +56,8 @@ The main advantage of using a permanent global note rather than definitive bonds
 
 But leaves bondholders without a bearer instrument with which to prove ownership. In circumstances where it is important that the investor has legal ownership of the debt obligation represented by the bond, the terms and conditions require the issuer to print definitive bearer bonds and distribute them to the investors. The permanent global notes state the circumstances in which definitives should be printed.
 
-```ad-warning
-title: Potential issue
-Even if the global note states that the issuer must print definitive bonds (providing the investor with legal ownership), the issuer may refuse to comply with that condition.
-```
+> [!warning] Potential issue
+> Even if the global note states that the issuer must print definitive bonds (providing the investor with legal ownership), the issuer may refuse to comply with that condition.
 
 Solution:
 
@@ -121,9 +118,8 @@ The consequences of negotiability work in favour of a transferee who purchases t
 3. the purchaser can sue the issuer directly in the case of a dispute over the bond, and does not need to join the transferor in a claim;
 4. if a ‘holder in due course’ presents a stolen bond, the issuer must pay out on that bond as well as on any replacement bond it has issued to the original bondholder.
 
-```ad-action
-An issuer will not usually provide a replacement bond without first obtaining an indemnity from the original bondholder to the effect that they will recompense the issuer if it has to pay out on the original bond.
-```
+> [!action]
+> An issuer will not usually provide a replacement bond without first obtaining an indemnity from the original bondholder to the effect that they will recompense the issuer if it has to pay out on the original bond.
 
 ## Registered Vs Bearer Bonds
 
@@ -168,6 +164,5 @@ If any of these parties goes into liquidation in possession of the investor’s 
 
 The final link in the chain is that between the clearing system and the depositary bank. This relationship is subject not only to the local law of the relevant clearing system, but also to the law of the jurisdiction in which the depository is situated.
 
-```ad-action
-Participant msut ensure that the proprietary rights in the bearer securities are not in any way transferred to the depository bank. Often participants take a legal opinion from a local lawyer to this effect. 
-```
+> [!action]
+> Participant msut ensure that the proprietary rights in the bearer securities are not in any way transferred to the depository bank. Often participants take a legal opinion from a local lawyer to this effect. 

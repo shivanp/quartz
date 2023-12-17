@@ -88,9 +88,8 @@ Law Society wording:
 
 > In consideration of you today completing the purchase of [insert description of property] we hereby undertake forthwith to pay over to [insert name of lender] the money required to discharge the mortgage/legal charge dated [insert date of charge] and to forward the receipted mortgage/Form DS1 to you as soon as it is received by us from [insert name of lender].
 
-```ad-note
-Above wording should be amended if ED or e-DS1 system is used. 
-```
+> [!note]
+> Above wording should be amended if ED or e-DS1 system is used. 
 
 Although acceptance of such an undertaking is not entirely risk-free, it is not negligent to rely on such undertakings except in “exceptional circumstances” ([[Pat el v Daybells  
 [2001] EWCA Civ 1229]]).

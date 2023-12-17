@@ -10,15 +10,13 @@ date modified: Sunday, December 10th 2023, 12:41:15 am
 
 ## From Scratch
 
-```ad-statute
-title: s 7: Method of forming company
-
-(1) A company is formed under this Act by one or more persons—
-- (a) subscribing their names to a memorandum of association (see section 8), and
-- (b) complying with the requirements of this Act as to registration (see sections 9 to 13).
-
-(2) A company may not be so formed for an unlawful purpose.
-```
+> [!statute] s 7: Method of forming company
+> 
+> (1) A company is formed under this Act by one or more persons—
+> - (a) subscribing their names to a memorandum of association (see section 8), and
+> - (b) complying with the requirements of this Act as to registration (see sections 9 to 13).
+> 
+> (2) A company may not be so formed for an unlawful purpose.
 
 ### Registration
 
@@ -77,9 +75,8 @@ The application for registration of the company is required by s 9(1). Must incl
 
 The application must state whether the company is private or public, limited or unlimited, and limited by shares or by guarantee.
 
-```ad-warning
-THis registration process cannot be used to set up an LLP.
-```
+> [!warning]
+> THis registration process cannot be used to set up an LLP.
 
 ### Company Name
 
@@ -136,10 +133,8 @@ There are similar restrictions on the use of business names as apply to the comp
 
 ## Registered Office
 
-```ad-statute
-title: s 86
-A company must at all times have a registered office to which all communications and notices may be addressed. 
-```
+> [!statute] s 86
+> A company must at all times have a registered office to which all communications and notices may be addressed. 
 
 The registered office may be at any address, but it is usually either a place where the company carries on its business (e.g. offices or factory), or the address of its solicitors or accountants.
 
@@ -149,28 +144,26 @@ The address must be provided on the application (CA 2006, s 9(5)(a)), and must i
 
 The application for registration must include a statement of capital and initial shareholdings (s 9(4)(a)). This statement must comply with the requirements set out in s 10.
 
-```ad-statute
-title: Statement of capital and initial shareholdings
-
-(1) The statement of capital and initial shareholdings required to be delivered in the case of a company that is to have a share capital must comply with this section.
-
-(2) It must state—
-- (a) the **total number** of shares of the company to be taken on formation by the subscribers to the memorandum of association,
-- (b) the **aggregate nominal value** of those shares,
-- (ba) the aggregate **amount (if any) to be unpaid** on those shares (whether on account of their nominal value or by way of premium), and
-- (c) for each class of shares—
-	- (i) prescribed particulars of the **rights** attached to the shares,
-	- (ii) the **total number** of shares of that class, and
-	- (iii) the aggregate **nominal value** of shares of that class.
-
-(3) It must contain such information as may be prescribed for the purpose of identifying the subscribers to the memorandum of association.
-
-(4) It must state, **with respect to each subscriber** to the memorandum—
-- (a) the number, nominal value (of each share) and class of shares to be taken by him on formation, and
-- (b) the amount to be paid up and the amount (if any) to be unpaid on each share (whether on account of the nominal value of the share or by way of premium).
-
-(5) Where a subscriber to the memorandum is to take shares of more than one class, the information required under subsection (4)(a) is required for each class.
-```
+> [!statute] Statement of capital and initial shareholdings
+> 
+> (1) The statement of capital and initial shareholdings required to be delivered in the case of a company that is to have a share capital must comply with this section.
+> 
+> (2) It must state—
+> - (a) the **total number** of shares of the company to be taken on formation by the subscribers to the memorandum of association,
+> - (b) the **aggregate nominal value** of those shares,
+> - (ba) the aggregate **amount (if any) to be unpaid** on those shares (whether on account of their nominal value or by way of premium), and
+> - (c) for each class of shares—
+> 	- (i) prescribed particulars of the **rights** attached to the shares,
+> 	- (ii) the **total number** of shares of that class, and
+> 	- (iii) the aggregate **nominal value** of shares of that class.
+> 
+> (3) It must contain such information as may be prescribed for the purpose of identifying the subscribers to the memorandum of association.
+> 
+> (4) It must state, **with respect to each subscriber** to the memorandum—
+> - (a) the number, nominal value (of each share) and class of shares to be taken by him on formation, and
+> - (b) the amount to be paid up and the amount (if any) to be unpaid on each share (whether on account of the nominal value of the share or by way of premium).
+> 
+> (5) Where a subscriber to the memorandum is to take shares of more than one class, the information required under subsection (4)(a) is required for each class.
 
 s 8(1)(b): each subscriber to the memorandum must take at least one share in the company.
 
@@ -241,31 +234,27 @@ Replace MAs with bespoke or tailor-made articles. Submit complete set of new art
 
 It is possible to include provisions in the company’s articles which are entrenched (s 22). The inclusion of such entrenched provisions must be notified to the Registrar on the application (s 23).
 
-```ad-statute
-title: Entrenched provisions of the articles
-
-(1) A company's articles may contain provision (“provision for entrenchment”) to the effect that specified provisions of the articles may be amended or repealed only if conditions are met, or procedures are complied with, that are more restrictive than those applicable in the case of a special resolution.
-
-(2) Provision for entrenchment may only be made—
-- (a) in the company's articles on formation, or
-- (b) by an amendment of the company's articles agreed to by all the members of the company.
-
-(3) Provision for entrenchment does not prevent amendment of the company's articles—
-- (a) by agreement of all the members of the company, or
-- (b) by order of a court or other authority having power to alter the company's articles.
-
-(4) Nothing in this section affects any power of a court or other authority to alter a company's articles.
-```
+> [!statute] Entrenched provisions of the articles
+> 
+> (1) A company's articles may contain provision (“provision for entrenchment”) to the effect that specified provisions of the articles may be amended or repealed only if conditions are met, or procedures are complied with, that are more restrictive than those applicable in the case of a special resolution.
+> 
+> (2) Provision for entrenchment may only be made—
+> - (a) in the company's articles on formation, or
+> - (b) by an amendment of the company's articles agreed to by all the members of the company.
+> 
+> (3) Provision for entrenchment does not prevent amendment of the company's articles—
+> - (a) by agreement of all the members of the company, or
+> - (b) by order of a court or other authority having power to alter the company's articles.
+> 
+> (4) Nothing in this section affects any power of a court or other authority to alter a company's articles.
 
 ## Memorandum of Association
 
 s 9(1) CA: must be submitted together with application for registration and the articles (if required).
 
-```ad-guid
-title: Memorandum
-- Must state that the subscribers wish to form a company and that they agree to become be members of the company taking at least one share each (s 8).
-- Must be in the form set out in Companies (Registration) Regulations 2008 (SI 2008/3014)
-```
+> [!guid] Memorandum
+> - Must state that the subscribers wish to form a company and that they agree to become be members of the company taking at least one share each (s 8).
+> - Must be in the form set out in Companies (Registration) Regulations 2008 (SI 2008/3014)
 
 In a 1985 Act company, this document sets out the identity of the proposed first shareholders and also the number of shares they propose to take on incorporation.
 
@@ -302,22 +291,20 @@ s 14: if everything is in order, the Registrar will issue a certificate of incor
 
 ## Certificate of Incorporation
 
-```ad-statute
-title: s 15 - Issue of certificate of incorporation
-
-(1) On the registration of a company, the registrar of companies shall give a certificate that the company is incorporated.
-
-(2) The certificate must state—
-- (a) the name and registered number of the company,
-- (b) the date of its incorporation,
-- (c) whether it is a limited or unlimited company, and if it is limited whether it is limited by shares or limited by guarantee,
-- (d) whether it is a private or a public company, and
-- (e) whether the company's registered office is situated in England and Wales (or in Wales), in Scotland or in Northern Ireland.
-
-(3) The certificate must be signed by the registrar or authenticated by the registrar's official seal.
-
-(4) The certificate is conclusive evidence that the requirements of this Act as to registration have been complied with and that the company is duly registered under this Act.
-```
+> [!statute] s 15 - Issue of certificate of incorporation
+> 
+> (1) On the registration of a company, the registrar of companies shall give a certificate that the company is incorporated.
+> 
+> (2) The certificate must state—
+> - (a) the name and registered number of the company,
+> - (b) the date of its incorporation,
+> - (c) whether it is a limited or unlimited company, and if it is limited whether it is limited by shares or limited by guarantee,
+> - (d) whether it is a private or a public company, and
+> - (e) whether the company's registered office is situated in England and Wales (or in Wales), in Scotland or in Northern Ireland.
+> 
+> (3) The certificate must be signed by the registrar or authenticated by the registrar's official seal.
+> 
+> (4) The certificate is conclusive evidence that the requirements of this Act as to registration have been complied with and that the company is duly registered under this Act.
 
 - s 1066: the company is given a registered number.
 - A new public company must also be issued with a trading certificate by the Registrar of Companies before it can do business or use its borrowing powers.
@@ -326,25 +313,23 @@ title: s 15 - Issue of certificate of incorporation
 
 The company becomes a **separate legal person**.
 
-```ad-statute
-title: s 16 - Effect of registration
-
-(1) The registration of a company has the following effects as from the date of incorporation.
-
-(2) The subscribers to the memorandum, together with such other persons as may from time to time become members of the company, are a body corporate by the name stated in the certificate of incorporation.
-
-(3) That body corporate is capable of exercising all the functions of an incorporated company.
-
-(4) The status and registered office of the company are as stated in, or in connection with, the application for registration.
-
-(5) In the case of a company having a share capital, the subscribers to the memorandum become holders of the shares specified in the statement of capital and initial shareholdings.
-
-(6) The persons named in the statement of proposed officers—
-- (a) as director, or
-- (b) as secretary or joint secretary of the company,
-
-are deemed to have been appointed to that office.
-```
+> [!statute] s 16 - Effect of registration
+> 
+> (1) The registration of a company has the following effects as from the date of incorporation.
+> 
+> (2) The subscribers to the memorandum, together with such other persons as may from time to time become members of the company, are a body corporate by the name stated in the certificate of incorporation.
+> 
+> (3) That body corporate is capable of exercising all the functions of an incorporated company.
+> 
+> (4) The status and registered office of the company are as stated in, or in connection with, the application for registration.
+> 
+> (5) In the case of a company having a share capital, the subscribers to the memorandum become holders of the shares specified in the statement of capital and initial shareholdings.
+> 
+> (6) The persons named in the statement of proposed officers—
+> - (a) as director, or
+> - (b) as secretary or joint secretary of the company,
+> 
+> are deemed to have been appointed to that office.
 
 s 7(2): a company must not be formed for an unlawful purpose. If by mistake the Registrar registers a company which breaches this rule, then the company may be stuck off the register by the court and it will be wound up.
 

@@ -13,9 +13,8 @@ title: CICTs
 > ‘In law, ‘context’ is everything and the domestic context is very different from the commercial world.’  
 > Baroness Hale, [[Stack v Dowden [2007] UKHL 17]]
 
-```ad-question
-In the domestic context of the shared family home, when will equity impose a trust?
-```
+> [!question]
+> In the domestic context of the shared family home, when will equity impose a trust?
 
 For many couples, the family home will be the most significant asset that they own. Disputes as to ownership of the home are likely to arise in two broad circumstances:
 
@@ -146,9 +145,8 @@ This element explores the operation of common intention constructive trusts, whe
 > ‘…cases in which the joint legal owners are to be taken to have intended that their beneficial interests should be different from their legal interests will be very unusual.’  
 > Baroness Hale, [[Stack v Dowden [2007] UKHL 17]]
 
-```ad-question
-In what circumstances will joint legal owners be taken to have intended to have different beneficial interests?
-```
+> [!question]
+> In what circumstances will joint legal owners be taken to have intended to have different beneficial interests?
 
 ### Joint Legal Ownership: The Issue
 
@@ -162,12 +160,10 @@ As the parties have chosen to purchase the property in joint names, this presump
 
 In Stack v Dowden, Lady Hale stated that the starting point in all family homes cases is that “equity follows the law”.
 
-```ad-test
-title: Two-step process
-Following on from Stack v Dowden, in [[Jones v Kernott [2011] UKSC 53]] the Supreme Court confirmed the two-step approach in joint legal ownership cases:
-1. Step 1: Rebutting the presumption – did the parties have a common intention to hold the property other than as joint tenants?
-2. Step 2: Quantification - if the parties are not joint tenants, they must be tenants in common. But in what proportions?
-```
+> [!test] Two-step process
+> Following on from Stack v Dowden, in [[Jones v Kernott [2011] UKSC 53]] the Supreme Court confirmed the two-step approach in joint legal ownership cases:
+> 1. Step 1: Rebutting the presumption – did the parties have a common intention to hold the property other than as joint tenants?
+> 2. Step 2: Quantification - if the parties are not joint tenants, they must be tenants in common. But in what proportions?
 
 ### Step 1: Rebutting the Presumption
 
@@ -212,9 +208,8 @@ The same factors are taken into account at this stage of the process. Clearly, a
 
 In the absence of an express agreement as to quantification, the case law again indicates that financial factors will carry the greatest weight.
 
-```ad-note
-Although it was made clear in [[Stack v Dowden [2007] UKHL 17]] that the presumption will only be rebutted in exceptional cases, Stack itself was one of those cases.
-```
+> [!note]
+> Although it was made clear in [[Stack v Dowden [2007] UKHL 17]] that the presumption will only be rebutted in exceptional cases, Stack itself was one of those cases.
 
 ### Post-_Stack_ Case Law
 
@@ -248,15 +243,14 @@ As both inference and imputation require the court to take account of the whole 
 
 However, the distinction remains relevant, with the Court of Appeal confirming in [[Barnes v Phillips [2015] EWCA Civ 1056]] that imputation can only occur at the quantification stage, but not when rebutting the presumption of joint tenancy.
 
-```ad-summary
-- When dealing with a property in which the parties are joint legal owners the starting point is that ‘equity follows the law’.
-- Therefore, in the absence of an express trust the parties are presumed to be equitable joint tenants.
-- Claiming a quantifiable share is a two stage process requiring rebuttal of the presumption of joint tenancy followed by quantification of the beneficial interests.
-- The presumption can only be rebutted in exceptional cases. Providing evidence to rebut it is a heavy burden requiring unusual facts.
-- Unequal contributions to the purchase price and/or to the mortgage are not enough alone to rebut the presumption.
-- Rebutting the presumption requires evidence of the actual intention of the parties (which can be either express or inferred) based on the whole course of conduct.
-- At the quantification stage the search should still be for the actual intention of the parties but the court may impute an intention for fair shares as a last resort.
-```
+> [!summary]
+> - When dealing with a property in which the parties are joint legal owners the starting point is that ‘equity follows the law’.
+> - Therefore, in the absence of an express trust the parties are presumed to be equitable joint tenants.
+> - Claiming a quantifiable share is a two stage process requiring rebuttal of the presumption of joint tenancy followed by quantification of the beneficial interests.
+> - The presumption can only be rebutted in exceptional cases. Providing evidence to rebut it is a heavy burden requiring unusual facts.
+> - Unequal contributions to the purchase price and/or to the mortgage are not enough alone to rebut the presumption.
+> - Rebutting the presumption requires evidence of the actual intention of the parties (which can be either express or inferred) based on the whole course of conduct.
+> - At the quantification stage the search should still be for the actual intention of the parties but the court may impute an intention for fair shares as a last resort.
 
 | Stage                  | Description                                                                                        | Legal title | Equitable title                 |
 | ---------------------- | -------------------------------------------------------------------------------------------------- | ----------- | ------------------------------- |
@@ -285,18 +279,16 @@ In Stack v Dowden, Lady Hale stated that the starting point in all family homes 
 
 If land is held by a sole legal owner, equity follows the law, meaning they are also the sole beneficial owner unless there is an enforceable trust over the property.
 
-```ad-test
-title: Two-step process
-Since _Stack v Dowden_ there has been a series of cases applying the principles to sole legal ownership cases. The following two step process has emerged from these cases:
-
-**Step 1: Establishing an interest**
-
-Did the parties have a common intention for the non-legal owner to acquire a beneficial interest? Has that person relied on this to their detriment?
-
-**Step 2: Quantification**
-
-If the non-legal owner can establish an interest, what is the quantum of that interest as a proportion of the property?
-```
+> [!test] Two-step process
+> Since _Stack v Dowden_ there has been a series of cases applying the principles to sole legal ownership cases. The following two step process has emerged from these cases:
+> 
+> **Step 1: Establishing an interest**
+> 
+> Did the parties have a common intention for the non-legal owner to acquire a beneficial interest? Has that person relied on this to their detriment?
+> 
+> **Step 2: Quantification**
+> 
+> If the non-legal owner can establish an interest, what is the quantum of that interest as a proportion of the property?
 
 ### Step 1: Establishing an Interest
 
@@ -427,14 +419,13 @@ The Court of Appeal dealt with this issue in the sole ownership case of [[Graham
 
 The Court of Appeal held that it is not the role of the court to reallocate property rights based on other matters (such as the presence of domestic violence in the relationship), which have no link to the acquisition of the property.
 
-```ad-summary
-- Under Stack v Dowden the starting point in all family homes cases is that equity follows the law.
-- A sole legal owner is therefore the sole beneficial owner unless another person is able to establish an interest under a trust. In the absence of an express trust, they will need to demonstrate that a common intention constructive trust has arisen.
-- The first step in establishing a common intention constructive trust requires proof of an actual common intention (express or inferred) to share ownership of the property. It is not possible to impute intention at this stage.
-- It is also necessary to demonstrate detrimental reliance upon the common intention.
-- At the quantification stage the search should still be for the actual intention of the parties but the court may impute an intention for fair shares as a last resort.
-- The holistic approach from Stack v Dowden is used both when inferring intention (at the acquisition and quantification stages) and when imputing intention (at the quantification stage only).
-```
+> [!summary]
+> - Under Stack v Dowden the starting point in all family homes cases is that equity follows the law.
+> - A sole legal owner is therefore the sole beneficial owner unless another person is able to establish an interest under a trust. In the absence of an express trust, they will need to demonstrate that a common intention constructive trust has arisen.
+> - The first step in establishing a common intention constructive trust requires proof of an actual common intention (express or inferred) to share ownership of the property. It is not possible to impute intention at this stage.
+> - It is also necessary to demonstrate detrimental reliance upon the common intention.
+> - At the quantification stage the search should still be for the actual intention of the parties but the court may impute an intention for fair shares as a last resort.
+> - The holistic approach from Stack v Dowden is used both when inferring intention (at the acquisition and quantification stages) and when imputing intention (at the quantification stage only).
 
 | Stage                  | Description                                                                                                     | Legal title | Equitable title                 |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------- |

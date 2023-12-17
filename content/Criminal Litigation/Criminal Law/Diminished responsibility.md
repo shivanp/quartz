@@ -14,19 +14,17 @@ date modified: Sunday, December 10th 2023, 12:40:11 am
 - The burden falls upon the defence to prove on the balance of probabilities that the defendant was acting under diminished responsibility: s 2(2) HA 1957.
 - Diminished responsibility is not available as a defence to a charge of attempted murder, [[R v Campbell [1987] 84 Cr App R 255]]. But didn't seem to be attempted murder??
 
-```ad-statute
-title: [Homicide Act 1957, s 2(1)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/section/2) (as amended by the [Coroners and Justice Act (CJA) 2009, s 52](https://www.legislation.gov.uk/ukpga/2009/25/section/52))
-
-(1) A person ("D") who kills or is a party to the killing of another is not to be convicted of murder if D was suffering from an abnormality of mental functioning which-
-(a) arose from a recognised medical condition,
-(b) substantially impaired D's ability to do one or more of the things mentioned in subsection (1A), and
-(c) provides an explanation for D's acts and omissions in doing or being a party to the killing.
-(1A) Those things are—
-(a) to understand the nature of D's conduct;
-(b) to form a rational judgment;
-(c) to exercise self-control.
-(1B) For the purposes of subsection (1)(c), an abnormality of mental functioning provides an explanation for D's conduct if it causes, or is a significant contributory factor in causing, D to carry out that conduct.’
-```
+> [!statute] [Homicide Act 1957, s 2(1)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/section/2) (as amended by the [Coroners and Justice Act (CJA) 2009, s 52](https://www.legislation.gov.uk/ukpga/2009/25/section/52))
+> 
+> (1) A person ("D") who kills or is a party to the killing of another is not to be convicted of murder if D was suffering from an abnormality of mental functioning which-
+> (a) arose from a recognised medical condition,
+> (b) substantially impaired D's ability to do one or more of the things mentioned in subsection (1A), and
+> (c) provides an explanation for D's acts and omissions in doing or being a party to the killing.
+> (1A) Those things are—
+> (a) to understand the nature of D's conduct;
+> (b) to form a rational judgment;
+> (c) to exercise self-control.
+> (1B) For the purposes of subsection (1)(c), an abnormality of mental functioning provides an explanation for D's conduct if it causes, or is a significant contributory factor in causing, D to carry out that conduct.’
 
 We will consider four key aspects to diminished responsibility:
 
@@ -57,17 +55,16 @@ The meaning of ‘substantially’ was considered by the Supreme Court in [[R 
 
 The impact is not substantial if it had not made any great difference ([[R v Simcox [1964] Crim LR 402]])
 
-```ad-example
-- **Law Commission, Report No 304** provided the following examples:
-
-- A boy aged 10 who has been left to play very violent video games for hours on end for much of his life, loses his temper and kills another child when the child attempts to take a game from him. When interviewed, he shows no real understanding that, when a person is killed they cannot simply be later revived, as happens in the games he has been continually playing.
-
-- A woman suffering from post-traumatic stress disorder, following violent abuse suffered at her husband's hands, comes to believe that only burning her husband to death will rid the world of his sins.
-
-- A mentally sub-normal boy believes that he must follow his older brother’s instructions, even when they involve taking take part in a killing. He says, "I wouldn’t dream of disobeying my brother and he would never tell me to do something if it was really wrong“.
-
-- A depressed man who has been caring for many years for a terminally ill spouse, kills her, at her request. He found it progressively more difficult to stop her repeated requests dominating his thoughtsA man says that sometimes the devil takes control of him and implants in him a desire to kill, a desire that must be acted on before the devil will go away.
-```
+> [!example]
+> - **Law Commission, Report No 304** provided the following examples:
+> 
+> - A boy aged 10 who has been left to play very violent video games for hours on end for much of his life, loses his temper and kills another child when the child attempts to take a game from him. When interviewed, he shows no real understanding that, when a person is killed they cannot simply be later revived, as happens in the games he has been continually playing.
+> 
+> - A woman suffering from post-traumatic stress disorder, following violent abuse suffered at her husband's hands, comes to believe that only burning her husband to death will rid the world of his sins.
+> 
+> - A mentally sub-normal boy believes that he must follow his older brother’s instructions, even when they involve taking take part in a killing. He says, "I wouldn’t dream of disobeying my brother and he would never tell me to do something if it was really wrong“.
+> 
+> - A depressed man who has been caring for many years for a terminally ill spouse, kills her, at her request. He found it progressively more difficult to stop her repeated requests dominating his thoughtsA man says that sometimes the devil takes control of him and implants in him a desire to kill, a desire that must be acted on before the devil will go away.
 
 ### To Exercise Self-control
 

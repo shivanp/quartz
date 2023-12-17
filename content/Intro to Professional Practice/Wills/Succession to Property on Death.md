@@ -31,12 +31,10 @@ If an individual does not dispose of property by will, it can pass on death acco
 
 ## Requirements of a Valid Will
 
-```ad-test
-title: Valid will
-To create a valid will, a testator must have
-1. the necessary capacity and intention, and
-2. must observe the formalities for execution of wills laid down in the Wills Act 1837. 
-```
+> [!test] Valid will
+> To create a valid will, a testator must have
+> 1. the necessary capacity and intention, and
+> 2. must observe the formalities for execution of wills laid down in the Wills Act 1837. 
 
 ### Capacity
 
@@ -75,11 +73,10 @@ The burden of proving the testator's knowledge and approval falls on the person 
 
 #### Conduct
 
-```ad-conduct
-Those regulated by the SRA are required to act with honesty and integrity and in the best interests of clients (Principles 4, 5 and 7). They must not abuse their position by taking unfair advantage of clients, and they must not act if there is a significant risk that the duty to act in the best interests of the client conflicts with their own interests. There is such a risk where someone prepares a will which benefits themselves or someone close to them.
-
-It is therefore sensible for firms to have a policy of refusing to act where a client proposes to make a gift of significant value to a fee earner or member of their family unless the client takes independent legal advice.
-```
+> [!conduct]
+> Those regulated by the SRA are required to act with honesty and integrity and in the best interests of clients (Principles 4, 5 and 7). They must not abuse their position by taking unfair advantage of clients, and they must not act if there is a significant risk that the duty to act in the best interests of the client conflicts with their own interests. There is such a risk where someone prepares a will which benefits themselves or someone close to them.
+> 
+> It is therefore sensible for firms to have a policy of refusing to act where a client proposes to make a gift of significant value to a fee earner or member of their family unless the client takes independent legal advice.
 
 #### Challenging
 
@@ -102,28 +99,26 @@ For a party to prove it has been the victim of undue influence, needs to show:
 
 #### Formalities
 
-```ad-statute
-title: s 9 Wills Act 1837
-Signing and attestation of wills
-
-(1) No will shall be valid unless—
-
-- (a) it is in writing, and signed by the testator, or by some other person in his presence and by his direction; and
-
-- (b) it appears that the testator intended by his signature to give effect to the will; and
-
-- (c) the signature is made or acknowledged by the testator in the presence of two or more witnesses present at the same time; and
-
-- (d) each witness either—
-	- (i) attests and signs the will; or
-	- (ii) acknowledges his signature,
-
-	in the presence of the testator (but not necessarily in the presence of any other witness),
-
-but no form of attestation shall be necessary.
-
-(2) For the purposes of paragraphs (c) and (d) of subsection (1), in relation to wills made on or after 31 January 2020 and on or before 31 January, “presence” includes presence by means of videoconference or other visual transmission.
-```
+> [!statute] s 9 Wills Act 1837
+> Signing and attestation of wills
+> 
+> (1) No will shall be valid unless—
+> 
+> - (a) it is in writing, and signed by the testator, or by some other person in his presence and by his direction; and
+> 
+> - (b) it appears that the testator intended by his signature to give effect to the will; and
+> 
+> - (c) the signature is made or acknowledged by the testator in the presence of two or more witnesses present at the same time; and
+> 
+> - (d) each witness either—
+> 	- (i) attests and signs the will; or
+> 	- (ii) acknowledges his signature,
+> 
+> 	in the presence of the testator (but not necessarily in the presence of any other witness),
+> 
+> but no form of attestation shall be necessary.
+> 
+> (2) For the purposes of paragraphs (c) and (d) of subsection (1), in relation to wills made on or after 31 January 2020 and on or before 31 January, “presence” includes presence by means of videoconference or other visual transmission.
 
 A will made on actual military service or by a mariner or seaman at sea is valid and may be in any form, including a mere oral statement: Wills Act 1837, s 11.
 
@@ -146,10 +141,8 @@ Must be:
 
 #### Proof and Presumptions
 
-```ad-defn
-title: Attestation clause
-If the will includes a clause which recites that the s 9 formalities were observed ("attestation clause"), a presumption of due execution is raised. The will is valid unless there is proof that the formalities were not observed.
-```
+> [!defn] Attestation clause
+> If the will includes a clause which recites that the s 9 formalities were observed ("attestation clause"), a presumption of due execution is raised. The will is valid unless there is proof that the formalities were not observed.
 
 If there is no attestation clause, the district judge will require an affidavit of due execution from a witness/ affidavit of handwriting evidence from the testator/ will refer the case to a judge.
 
@@ -197,11 +190,9 @@ Basic rule: alterations invalid unless it can be proved they were made before th
 
 Basic rule:
 
-```ad-statute
-title: s 24 Wills Act 1837 - A will shall be construed to speak from the death of the testator.
-
-Every will shall be construed, with reference to the real estate and personal estate comprised in it, to speak and take effect as if it had been executed immediately before the death of the testator, unless a contrary intention shall appear by the will. 
-```
+> [!statute] s 24 Wills Act 1837 - A will shall be construed to speak from the death of the testator.
+> 
+> Every will shall be construed, with reference to the real estate and personal estate comprised in it, to speak and take effect as if it had been executed immediately before the death of the testator, unless a contrary intention shall appear by the will. 
 
 #### Ademption
 
@@ -211,10 +202,8 @@ If the nature of an asset has changed since the will was made, ask whether the a
 
 Suppose 'my car' is gifted in the will, but subsequently the testator bought a new car. Then generally the gift is adeemed.
 
-```ad-defn
-title: Codicil
-A supplement to a will which, to be valid, must be executed in the same way as a will. A testator may wish to add to or change a will in a minor way and so may execute a supplementary codicil.
-```
+> [!defn] Codicil
+> A supplement to a will which, to be valid, must be executed in the same way as a will. A testator may wish to add to or change a will in a minor way and so may execute a supplementary codicil.
 
 A codicil has the effect of republishing the will as at the date of the codicil. So the property referred to is the property at the date of the codicil (i.e., references to items in the will are references to the items on the date of republication).
 
@@ -226,11 +215,9 @@ Where no conditions to the contrary are imposed in the will, a gift vests on the
 
 #### S 184 LPA 1925
 
-```ad-statute
-title: s 184 LPA 1925 - Presumption of survivorship in regard to claims to property.
-
-In all cases where, after the commencement of this Act, two or more persons have died in circumstances rendering it uncertain which of them survived the other or others, such deaths shall (subject to any order of the court), for all purposes affecting the title to property, be presumed to have occurred in order of seniority, and accordingly the younger shall be deemed to have survived the elder. 
-```
+> [!statute] s 184 LPA 1925 - Presumption of survivorship in regard to claims to property.
+> 
+> In all cases where, after the commencement of this Act, two or more persons have died in circumstances rendering it uncertain which of them survived the other or others, such deaths shall (subject to any order of the court), for all purposes affecting the title to property, be presumed to have occurred in order of seniority, and accordingly the younger shall be deemed to have survived the elder. 
 
 #### Survivorship Clauses
 
@@ -277,10 +264,8 @@ References to “children” means only biological children and not step-childre
 
 Persons who have obtained a full gender recognition certificate from the Gender Recognition Panel are legally recognised in the acquired gender.
 
-```ad-statute
-title: s 15 Gender Recognition Act 2004 
-The fact that a person’s gender has become the acquired gender under the Act does not affect the disposal or devolution of property under a will or other instrument made before 4 April 2005.
-```
+> [!statute] s 15 Gender Recognition Act 2004
+> The fact that a person’s gender has become the acquired gender under the Act does not affect the disposal or devolution of property under a will or other instrument made before 4 April 2005.
 
 But it will do if the will is made after that date. s 18 GRA 2004: where the disposition or evolution of any property under a will or other instrument (made on or after the appointed day) is different from what it would be but for the fact that a person’s gender has become the acquired gender under the Act, an application may be made to the High Court where expectations have been defeated.
 
@@ -300,10 +285,8 @@ in a will and includes a power of sale by the PRs. The remaining balance is the 
 
 A spouse is the person to whom the deceased was married at their death, whether or not they were living together. Civil partners are treated in the same way as spouses. Former spouses excluded.
 
-```ad-defn
-title: Issue
-Includes all direct descendants, as well as adopted children and remoter descendants. Step children not included. 
-```
+> [!defn] Issue
+> Includes all direct descendants, as well as adopted children and remoter descendants. Step children not included. 
 
 #### Entitlement
 

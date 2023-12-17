@@ -19,11 +19,9 @@ A company seeking to float can do so in a number of ways:
 
 Equity finance involves using equity securities (e.g., shares) to raise finance.
 
-```ad-note
-title: Terminology
-- A secondary issue can refer to a subsequent issue of shares by the company following an IPO
-- Also refers to a transfer by a shareholder of existing shares. 
-```
+> [!note] Terminology
+> - A secondary issue can refer to a subsequent issue of shares by the company following an IPO
+> - Also refers to a transfer by a shareholder of existing shares. 
 
 ## Purpose
 
@@ -113,13 +111,12 @@ On an IPO, multiple methods are usually combined.
 
 ## Rights Issue
 
-```ad-defn
-Defined in Appendix 1.1 LR:
-- an offer to issue new shares or transfer existing shares (or other securities);
-- to existing shareholders (or security holders) in proportion to their existing holdings;
-- made by way of the issue of a renounceable letter;
-- which may be traded ‘nil paid’ for a period before payment for the shares (or other securities) is due.
-```
+> [!defn]
+> Defined in Appendix 1.1 LR:
+> - an offer to issue new shares or transfer existing shares (or other securities);
+> - to existing shareholders (or security holders) in proportion to their existing holdings;
+> - made by way of the issue of a renounceable letter;
+> - which may be traded ‘nil paid’ for a period before payment for the shares (or other securities) is due.
 
 Aim: to raise capital through the issue of new shares.
 
@@ -179,17 +176,15 @@ The FCA does not allow shares in listed companies to be allotted provisionally o
 	- The first day is counted from the day of making the offer. This therefore starts from the day of posting the PAL.
 - N.B. 10 business days could be longer than 14 days depending on public holidays.
 
-```ad-tip
-A standard listed company is only subject to the requirements of the CA 2006, including s 562(5) above.
-```
+> [!tip]
+> A standard listed company is only subject to the requirements of the CA 2006, including s 562(5) above.
 
 ### Underwriting
 
 The underwriters (usually an investment bank or a broker) basically guarantee that the company will receive the equity finance it seeks, by agreeing to take up, at no less than the subscription price under the rights issue, any shares which are not taken up by shareholders and which cannot be sold in the market – including fractional entitlements if s 561 has been disapplied.
 
-```ad-defn
-These shares are referred to as ‘the rump’.
-```
+> [!defn]
+> These shares are referred to as ‘the rump’.
 
 Any premium received over the subscription price must be given to the person to whom the shares were provisionally allotted.
 
@@ -358,12 +353,10 @@ Offer is usually for cash. Offer is made by an application form rather than a PA
 
 ## Placing
 
-```ad-defn
-title: Placing (Appendix 1.1 Listing Rules)
-- Offer by the company to issue new shares and/ or offer by existing shareholders to transfer existing unlisted shares
-- To specified persons or clients of any financial adviser assisting in the placing
-- Which does not involve an offer to the public or to existing holders of the company's securities. 
-```
+> [!defn] Placing (Appendix 1.1 Listing Rules)
+> - Offer by the company to issue new shares and/ or offer by existing shareholders to transfer existing unlisted shares
+> - To specified persons or clients of any financial adviser assisting in the placing
+> - Which does not involve an offer to the public or to existing holders of the company's securities. 
 
 ### Price
 
@@ -396,9 +389,8 @@ Not pre-emptive:
 
 ## Acquisition Issue
 
-```ad-defn
-An issue of new shares by the company to the seller(s) of an asset or assets (which includes shares) in consideration for the acquisition by the company of that asset or assets. Also known as a ‘share-for-share exchange’, or a ‘securities exchange offer’.
-```
+> [!defn]
+> An issue of new shares by the company to the seller(s) of an asset or assets (which includes shares) in consideration for the acquisition by the company of that asset or assets. Also known as a ‘share-for-share exchange’, or a ‘securities exchange offer’.
 
 ![[acquisition-issue.png]]
 
@@ -429,12 +421,10 @@ Useful in the context of an acquisition, where
 - Company does not have sufficient cash to buy the business
 - Seller is not willing to accept non-cash consideration.
 
-```ad-action
-title: Structure
-- There is an acquisition issue. 
-- Company arranges for the investment bank to place the shares issued to the seller as consideration
-- Investment bank gives the proceeds of the placing in cash to the seller. 
-```
+> [!action] Structure
+> - There is an acquisition issue. 
+> - Company arranges for the investment bank to place the shares issued to the seller as consideration
+> - Investment bank gives the proceeds of the placing in cash to the seller. 
 
 ### Price
 

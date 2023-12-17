@@ -61,9 +61,8 @@ This includes the cost of selling assets secured by a floating charge, and the c
 
 The prescribed part fund is calculated by reference to a percentage of the company's net property which is subject to floating charges (50% of the first £10,000 of net floating charge realisations, plus 20% of anything thereafter, up to £800,000 limit). This is set aside for distribution to the company's unsecured creditors ([s 176A IA 1986](https://www.legislation.gov.uk/ukpga/1986/45/section/176)). ‘Net property’ means the proceeds of selling property other than that which is subject to a fixed charge, after deduction of the liquidator’s expenses and any preferential debts.
 
-```ad-important
-Secured creditors are not allowed to have access to the ring-fenced fund for any unsecured portion of their debts ([[Re Airbase (UK) Ltd v HMRC [2008] EWHC 124 (Ch)]]).
-```
+> [!important]
+> Secured creditors are not allowed to have access to the ring-fenced fund for any unsecured portion of their debts ([[Re Airbase (UK) Ltd v HMRC [2008] EWHC 124 (Ch)]]).
 
 The pot of money is reserved to be shared rateably among the unsecured creditors when they are paid. For this purpose, a floating charge holder who suffers a shortfall on floating charge realisations does **not** share in the prescribed part fund, although the shortfall does constitute an unsecured claim against the company.
 
@@ -92,7 +91,5 @@ The shareholders who participate in the equity of the company will rank last. Th
 
 In most insolvent liquidations, the shareholders are unlikely to receive any value from their shares.
 
-```ad-defn
-title: Rank and abate equally
-Means that all creditors in a particular category share the money available.
-```
+> [!defn] Rank and abate equally
+> Means that all creditors in a particular category share the money available.

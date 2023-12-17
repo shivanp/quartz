@@ -124,6 +124,5 @@ Other issues:
 
 ## Reference in Facility Agreement
 
-```ad-warning
-The legal opinion is likely to be referred to in the “Representations” section of the facility agreement and is likely to be listed as a “Condition Precedent” in the facility agreement.
-```
+> [!warning]
+> The legal opinion is likely to be referred to in the “Representations” section of the facility agreement and is likely to be listed as a “Condition Precedent” in the facility agreement.

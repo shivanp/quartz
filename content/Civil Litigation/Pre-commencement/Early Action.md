@@ -86,10 +86,8 @@ Expert must:
 
 Clear expert's fees with the clients.
 
-```ad-question
-title: Can an expert be instructed on a conditional or contingency fee basis?
-No - para 88 Guidance for the Instruction of Experts in Civil Claims. Incompatible with an expert's duty of independence and impartiality. 
-```
+> [!question] Can an expert be instructed on a conditional or contingency fee basis?
+> No - para 88 Guidance for the Instruction of Experts in Civil Claims. Incompatible with an expert's duty of independence and impartiality. 
 
 The use of expert evidence during proceedings requires permission from the court. So the fee paid to the expert may not be recoverable from the opponent even if the client is successful in litigation.
 
@@ -101,10 +99,8 @@ Check the report for errors. Send to the client to do the same. Be open to retur
 
 An expert can give opinion evidence (while an ordinary witness cannot).
 
-```ad-statute
-title: Section 3(1) Civil Evidence Act 1972
-Where a person is called as a witness in any civil proceedings, his opinion on any relevant matter on which he is qualified to give expert evidence shall be admissible in evidence.
-```
+> [!statute] Section 3(1) Civil Evidence Act 1972
+> Where a person is called as a witness in any civil proceedings, his opinion on any relevant matter on which he is qualified to give expert evidence shall be admissible in evidence.
 
 ### Restriction on Use of Expert Evidence
 
@@ -124,10 +120,8 @@ May be needed for the purpose of taking photographs or making plans. Though unli
 
 It is not necessary to instruct a barrister in every case.
 
-```ad-bug
-title:
-As a highly trained lawyer, the solicitor should have confidence in their own knowledge and ability!!
-```
+> [!bug]
+> As a highly trained lawyer, the solicitor should have confidence in their own knowledge and ability!!
 
 Judicious use of counsel is sensible. If issues are difficult, sensible to instruct counsel to advise on liability. Counsel's opinion on quantum may b needed at an early stage if the case is not straightforward.
 
@@ -151,10 +145,8 @@ for example, [[Percy v Merriman White [2021] EWHC 22 (Ch)]]).
 
 ## Pre-action Protocols
 
-```ad-example
-title: Protocols
-There are approved protocols for debt claims, personal injury, clinical disputes, construction and engineering, judicial review, media and communications, disease and illness, package travel claims, possession claims by social landlords, possession claims for mortgage arrears, housing condition cases (England); Housing Disrepair Cases (Wales), low value personal injury claims in road traffic accidents, personal injury claims below the small claims limit in road traffic accidents, dilapidations (commercial property), low value employers’ and public liability claims, and professional negligence claims.
-```
+> [!example] Protocols
+> There are approved protocols for debt claims, personal injury, clinical disputes, construction and engineering, judicial review, media and communications, disease and illness, package travel claims, possession claims by social landlords, possession claims for mortgage arrears, housing condition cases (England); Housing Disrepair Cases (Wales), low value personal injury claims in road traffic accidents, personal injury claims below the small claims limit in road traffic accidents, dilapidations (commercial property), low value employers’ and public liability claims, and professional negligence claims.
 
 ### Aims
 
@@ -170,16 +162,14 @@ The main aim is efficiency! More specifically,
 
 The Practice Direction and protocols deal with matters such as notification to the defendant of a possible claim as soon as possible, the form of the letter before claim, disclosure of documents and the instruction of experts, where relevant.
 
-```ad-statute
-title: Para 3 Practice Direction
-Before commencing proceedings, the court will expect parties to have exchanged sufficient information to:
-- (a) understand each other’s position;
-- (b) make decisions about how to proceed;
-- (c) try to settle the issues without proceedings;
-- (d) consider a form of Alternative Dispute Resolution (ADR) to assist with settlement;
-- (e) support the efficient management of those proceedings; and
-- (f) reduce the costs of resolving the dispute.
-```
+> [!statute] Para 3 Practice Direction
+> Before commencing proceedings, the court will expect parties to have exchanged sufficient information to:
+> - (a) understand each other’s position;
+> - (b) make decisions about how to proceed;
+> - (c) try to settle the issues without proceedings;
+> - (d) consider a form of Alternative Dispute Resolution (ADR) to assist with settlement;
+> - (e) support the efficient management of those proceedings; and
+> - (f) reduce the costs of resolving the dispute.
 
 Para 8 of the Practice Direction states that the parties should consider whether some form of ADR procedure would enable them to settle their dispute without commencing proceedings. The courts take the view that litigation should be a last resort, and that claims should not be issued prematurely when a settlement is still actively being explored. Parties are warned that if this provision is not followed, then the court must have regard to such conduct when determining costs.
 
@@ -201,9 +191,8 @@ The court should aim to place the innocent party in no worse a position than the
 
 Where the solicitor is satisfied that the client has a valid claim, they should advise the client and obtain instructions to send a letter to the prospective defendant setting out full details of the claim. This is called a ‘letter before claim’.
 
-```ad-note
-Called a "letter of claim" in professional negligence pre-action protocols and a "letter before claim" in PD of pre-action conduct. 
-```
+> [!note]
+> Called a "letter of claim" in professional negligence pre-action protocols and a "letter before claim" in PD of pre-action conduct. 
 
 ### Professional Conduct
 
@@ -214,18 +203,16 @@ The letter is normally addressed to the potential defendant in person, or to the
 The Practice Direction provides at para 6(a) that the claimant’s letter before claim should give  
 concise details about the matter.
 
-```ad-example
-title: Suggested to include
-1. state the claimant’s full name and address;
-2. state the basis on which the claim is made (ie why the claimant says the defendant is liable);
-3. provide a clear summary of the facts on which the claim is based;
-4. state what the claimant wants from the defendant;
-5. if financial loss is claimed, provide an explanation of how the amount has been calculated;
-6. list the essential documents on which the claimant intends to rely;
-7. set out the form of ADR (if any) that the claimant considers the most suitable and invite the defendant to agree to this;
-8. state the date by which the claimant considers it reasonable for a full response to be provided by the defendant; and
-9. identify and ask for copies of any relevant documents not in the claimant’s possession and which the claimant wishes to see.
-```
+> [!example] Suggested to include
+> 1. state the claimant’s full name and address;
+> 2. state the basis on which the claim is made (ie why the claimant says the defendant is liable);
+> 3. provide a clear summary of the facts on which the claim is based;
+> 4. state what the claimant wants from the defendant;
+> 5. if financial loss is claimed, provide an explanation of how the amount has been calculated;
+> 6. list the essential documents on which the claimant intends to rely;
+> 7. set out the form of ADR (if any) that the claimant considers the most suitable and invite the defendant to agree to this;
+> 8. state the date by which the claimant considers it reasonable for a full response to be provided by the defendant; and
+> 9. identify and ask for copies of any relevant documents not in the claimant’s possession and which the claimant wishes to see.
 
 Straightforward claim: give 14 days for acknowledgement of receipt and/ or full response. For more tricky stuff involving insurers, give a month or even three.
 
@@ -306,9 +293,8 @@ The court must consider the circumstances of the communications from an objectiv
 
 Once a settlement is concluded, any ‘without prejudice’ correspondence can be produced in court to show the terms agreed between the parties. This might be necessary if, for example, a dispute arose as to enforcement of an agreed settlement or the true terms of the agreement reached (see [[Oceanbulk Shipping & Trading SA v TMT Asia Ltd [2010] UKSC 44]]).
 
-```ad-note
-If a party wishes to reserve the right to draw the trial judge’s attention to a without prejudice offer to settle a case on the question of costs, they should mark the offer ‘without prejudice save as to costs’
-```
+> [!note]
+> If a party wishes to reserve the right to draw the trial judge’s attention to a without prejudice offer to settle a case on the question of costs, they should mark the offer ‘without prejudice save as to costs’
 
 A without prejudice or without prejudice save as to costs offer of settlement that has no time limit for acceptance can be accepted even after the trial has started; such an offer does not lapse at the commencement of the hearing (see [[MEF (A Protected Party, by his Mother and Litigation Friend, FEM) v St George's Healthcare NHS Trust [2020] EWHC 1300 (QB)]]).
 
