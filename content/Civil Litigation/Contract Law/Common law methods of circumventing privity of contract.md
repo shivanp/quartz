@@ -76,3 +76,6 @@ This judicial boldness has been stemmed by a House of Lords decision in [[McAlpi
 See also the recent case [[First Abu Dhabi Bank v BP Oil [2018] EWCA Civ 14]], where Linden Gardens was reluctantly followed by the Court of Appeal.
 
 The Albazero principle will only be applied if the third party has no other means of recourse, consistent with the judicial intention to obviate the harshness of the doctrine of privity.  
+
+
+
