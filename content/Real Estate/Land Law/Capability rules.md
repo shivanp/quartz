@@ -25,15 +25,13 @@ As an easement is a very powerful right in land, there are strict tests which mu
 
 ## Test in *Re Ellenborough Park*
 
-```ad-test
-title: Test: Characteristics of an easement
-
-Quoting Dr Cheshire’s _Modern Real Property_ Evershed MR set out four essential characteristics of an easement:
-- There must be a dominant and servient tenement
-- The right must accommodate the dominant tenement
-- There must be diversity of ownership
-- The right must ‘lie in grant’
-```
+> [!test] Test: Characteristics of an easement
+> 
+> Quoting Dr Cheshire’s _Modern Real Property_ Evershed MR set out four essential characteristics of an easement:
+> - There must be a dominant and servient tenement
+> - The right must accommodate the dominant tenement
+> - There must be diversity of ownership
+> - The right must ‘lie in grant’
 
 ### Dominant and Servient Tenement
 
@@ -41,22 +39,19 @@ There must be two identifiable pieces of land: one which benefits from the exerc
 
 This means that an easement cannot exist ‘in gross’ [[Hawkins v Rutter [1892] 1 QB 668]]. It cannot be exercised by the holder independently of the land: that would be a licence or personal right. An easement cannot exist unless there is a dominant tenement which benefits.
 
-```ad-example
-B sells land to A and grants a right of way to A over B’s land. A’s land is the dominant land benefitting from right of way while B’s retained land is servient land burdened by the right of way.
-```
+> [!example]
+> B sells land to A and grants a right of way to A over B’s land. A’s land is the dominant land benefitting from right of way while B’s retained land is servient land burdened by the right of way.
 
 ### Right Must Accommodate the Dominant Tenement
 
 Lord Oliver’s test from a covenants case [[P&A Swift Investments Ltd v Combined English Stores Group plc [1989] AC 632]] is helpful here:
 
-```ad-test
-title: Test: Accommodating dominant tenement
-
-The right must have some direct beneficial impact on the dominant tenement:
-1. The right only benefits the dominant owner whilst they own dominant land.
-2. The right should affect nature, quality, use or value of dominant land
-3. The right should not be expressly personal.
-```
+> [!test] Test: Accommodating dominant tenement
+> 
+> The right must have some direct beneficial impact on the dominant tenement:
+> 1. The right only benefits the dominant owner whilst they own dominant land.
+> 2. The right should affect nature, quality, use or value of dominant land
+> 3. The right should not be expressly personal.
 
 Useful questions to ask are:
 
@@ -79,9 +74,8 @@ The question is whether the business is a necessary incident to the use of the l
 
 The final requirement for a right to accommodate the dominant tenement is that the dominant and servient land must be sufficiently proximate to each other. Normally the dominant and servient land will be adjoining, but this need not be the case. In [[Pugh v Savage [1970] 2 QB 373]] there was a right of way over one field to get to another. There was a third field in the middle. The right of way was still held to benefit the dominant tenement, even though the dominant and servient tenements weren’t adjoining. They were close enough for the dominant land to derive a benefit from the right.
 
-```ad-example
-B sells land to A and grants a right of way to A over B’s land. C owns land between A’s and B’s land. However, this does not mean there is not proximity because A’s land is close enough to B’s land to benefit from the right of way.
-```
+> [!example]
+> B sells land to A and grants a right of way to A over B’s land. C owns land between A’s and B’s land. However, this does not mean there is not proximity because A’s land is close enough to B’s land to benefit from the right of way.
 
 In *Brevan* this is presented as a series of glosses on the accommodation requirement, known as the Ellenberg Park glosses:
 
@@ -94,21 +88,19 @@ In *Brevan* this is presented as a series of glosses on the accommodation requir
 
 The dominant and servient land must be owned by different people. It is not possible for an owner to claim an easement over their own land: [[ Roe v Siddons (1888) 22 QBD 224]]. Benefits enjoyed over one’s own land are called quasi-easements and are capable of becoming [[easements]] if the land is ever partitioned.
 
-```ad-note
-‘Ownership’ could be ownership of a freehold or a leasehold estate. A may own a freehold and sell part of that freehold to B. Alternatively A may own a freehold and lease part of that land to B. In each case there is diversity of ownership.
-```
+> [!note]
+> ‘Ownership’ could be ownership of a freehold or a leasehold estate. A may own a freehold and sell part of that freehold to B. Alternatively A may own a freehold and lease part of that land to B. In each case there is diversity of ownership.
 
 Conversely, if the dominant and servient land ever came back into common ownership, any easements enjoyed by the would be extinguished.
 
-```ad-example
-For example, if C owns the freehold of land and grants a lease of part of it to D, there is diversity of ownership, and C may grant [[easements]] to D.
-
-When D’s lease comes to an end, C is once again the sole freehold owner of all of the land. Any [[easements]] which existed for the benefit of the leasehold land will be extinguished.
-
-In the same way, if C owns the freehold of land and sells part of it to D, there is diversity of ownership and C may grant easements to D.
-
-If C were to buy D’s land back again; or D were to buy C’s land, or E were to buy C’s and D’s land, the land is once again in sole ownership. Any [[easements]] which existed for the benefit D’s land would be extinguished.
-```
+> [!example]
+> For example, if C owns the freehold of land and grants a lease of part of it to D, there is diversity of ownership, and C may grant [[easements]] to D.
+> 
+> When D’s lease comes to an end, C is once again the sole freehold owner of all of the land. Any [[easements]] which existed for the benefit of the leasehold land will be extinguished.
+> 
+> In the same way, if C owns the freehold of land and sells part of it to D, there is diversity of ownership and C may grant easements to D.
+> 
+> If C were to buy D’s land back again; or D were to buy C’s land, or E were to buy C’s and D’s land, the land is once again in sole ownership. Any [[easements]] which existed for the benefit D’s land would be extinguished.
 
 ### Right Must Lie in Grant
 
@@ -147,24 +139,19 @@ Easements are in essence limited rights to use the servient land. Of course, the
 
 If the exercise of the right amounts to exclusive possession by the dominant owner, the right cannot be an easement because the use by the dominant owner is too intense. An easement is an interest, not an estate in land. In that situation, the right could amount to a lease, or simply a personal licence to occupy.
 
-```ad-quote
-"An easement must not amount to rights of occupation or… substantially deprive the owners of proprietorship of legal possession of the servient land."
-
-Lord Evershed MR in [[Re Ellenborough Park [1956] Ch 131]]
-```
+> [!quote]
+> "An easement must not amount to rights of occupation or… substantially deprive the owners of proprietorship of legal possession of the servient land."
+> 
+> Lord Evershed MR in [[Re Ellenborough Park [1956] Ch 131]]
 
 There are two tests for what amounts to exclusive possession:
 
-```ad-test
-title: Ouster principle test
+> [!test] Ouster principle test
+> 
+> The easement must not leave the servient owner with no reasonable use of the servient land ([[Batchelor v Marlow [2003] 1 WLR 764]]).
 
-The easement must not leave the servient owner with no reasonable use of the servient land ([[Batchelor v Marlow [2003] 1 WLR 764]]).
-```
-
-```ad-test
-title: Possession and control test
-The test in [[Moncrieff v Jamieson [2007] 1 WLR 2620]] asks whether the servient owner retains ultimate possession and control of the servient land, subject to the reasonable exercise of the right.
-```
+> [!test] Possession and control test
+> The test in [[Moncrieff v Jamieson [2007] 1 WLR 2620]] asks whether the servient owner retains ultimate possession and control of the servient land, subject to the reasonable exercise of the right.
 
 #### Reconciling Tests
 

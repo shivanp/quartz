@@ -25,9 +25,8 @@ On completion, the terms of the contract merge with the transfer deed in so far 
 
 SCPC 10.1 restricts the remedies available for a breach of contract. Buyer entitled to damages only if there is a material difference in the tenure/ value of the property. Entitled to terminate contract only if the error/ omission results from fraud/ recklessness or where otherwise obliged to accept property differing substantially in quality, quantity or tenure from expectations.
 
-```ad-example
-So the buyer is only entitled to damages for an undisclosed incumbrance if this caused a material difference in the value of the land. 
-```
+> [!example]
+> So the buyer is only entitled to damages for an undisclosed incumbrance if this caused a material difference in the value of the land. 
 
 Exclusion clauses contained in contracts for the sale of land (except those relating to the exclusion of liability for misrepresentation) are not subject to the reasonableness test in the Unfair Contract Terms Act 1977.
 
@@ -118,9 +117,8 @@ s 1 Misrepresentation Act 1967: where a misrepresentation has become incorporate
 
 Knowledge gained by a solicitor in the course of a transaction is deemed to be known by the solicitor’s client, whether or not this is in fact the case.
 
-```ad-example
-Where a solicitor gives an incorrect reply to pre-contract enquiries, the solicitor’s knowledge, and also their misstatement, is attributable to the client who w ill be liable to the buyer in misrepresentation ([[CEMP Properties (UK) Ltd v Dentsply Research and Development Corporation (No 1) (1989) 2 EGLR 192]]). In such a situation, the solicitor would be liable to their own client in negligence.
-```
+> [!example]
+> Where a solicitor gives an incorrect reply to pre-contract enquiries, the solicitor’s knowledge, and also their misstatement, is attributable to the client who w ill be liable to the buyer in misrepresentation ([[CEMP Properties (UK) Ltd v Dentsply Research and Development Corporation (No 1) (1989) 2 EGLR 192]]). In such a situation, the solicitor would be liable to their own client in negligence.
 
 ### Exclusion Clauses
 

@@ -60,10 +60,8 @@ The method chosen depends both on the type and size of the buyout.
 
 ## Management Buyout
 
-```ad-defn
-title: "MBO"
-A transaction by which the target is acquired by some or all of its management, usually through the vehicle of a new company established for this purpose (‘Newco’).
-```
+> [!defn] "MBO"
+> A transaction by which the target is acquired by some or all of its management, usually through the vehicle of a new company established for this purpose (‘Newco’).
 
 - May proceed as share or asset acquisitions
 - Usually requires external funding – a business plan is drawn up to seek PE funding.
@@ -82,16 +80,14 @@ Parties to the venture enter into an Investment Agreement. Sets out the basis of
 
 ### Conflicts of Interest
 
-```ad-warning
-Take care to ensure the actions of the management team do not breach any obligations of good faith or confidentiality to the target. 
-```
+> [!warning]
+> Take care to ensure the actions of the management team do not breach any obligations of good faith or confidentiality to the target. 
 
 1. Management team wants to get the best price
 2. But they also owe duties to the company and its shareholders and employees.
 
-```ad-action
-Upon deciding to initiate an MBO, approach the board to declare the director's interest and seek consent to proceed.
-```
+> [!action]
+> Upon deciding to initiate an MBO, approach the board to declare the director's interest and seek consent to proceed.
 
 #### Consideration
 
@@ -111,9 +107,8 @@ PE provider hoping to acquire a majority shareholding in a private company with 
 
 Ratio is a commercial question. Consider the internal rate of return; the lower the amount of equity, the greater the gains per share. Often there is lots and lots of debt (especially since debt was cheap until recently).
 
-```ad-important
-Private companies are not subject to prohibitions on financial assistance. So any borrowing for the acquisition of target's shares can be secured on the assets of target. Where a public company is acquired by a PE fund, the public target is first immediately converted to a private company (to allow this to happen). 
-```
+> [!important]
+> Private companies are not subject to prohibitions on financial assistance. So any borrowing for the acquisition of target's shares can be secured on the assets of target. Where a public company is acquired by a PE fund, the public target is first immediately converted to a private company (to allow this to happen). 
 
 ### Management Team
 

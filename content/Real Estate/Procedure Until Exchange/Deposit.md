@@ -54,9 +54,8 @@ Buyer's solicitor must ensure that the deposit is received with enough time to b
 
 Both sets of Standard Conditions provide for the deposit to be held by an auctioneer as agent (SC 2.3.6 and SCPC 3.3.6) but by a conveyancer as stakeholder (SC 2.2.6 and SCPC 3.2.2). **EXCEPTION**: SC 2.2.5 allows the seller to use the deposit as a deposit on a related purchase of a house for the seller’s residence, provided that in such related purchase it will be held on the same terms as SC 2.2.5 and 2.2.6.
 
-```ad-warning
-Until exchange, the deposit is held to the order of the buyer's solicitor. Only once exchange has taken place will the deposit be held as stakeholder until completion (SCPC 3.2.2).
-```
+> [!warning]
+> Until exchange, the deposit is held to the order of the buyer's solicitor. Only once exchange has taken place will the deposit be held as stakeholder until completion (SCPC 3.2.2).
 
 Details:
 

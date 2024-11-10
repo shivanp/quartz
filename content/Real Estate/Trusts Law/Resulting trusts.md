@@ -32,9 +32,8 @@ For example, resulting trusts will arise for A in each of the following circumst
 - A transfers property to B intending B to hold it on trust for C and D but fails to specify their beneficial entitlements. The trust fails for uncertainty of subject matter.
 - A transfers property to B intending B to hold it for a non-charitable purpose which does not fall within a recognised exception to the beneficiary principle. The trust fails for non-compliance with the beneficiary principle.
 
-```ad-important
-It is important to note that not all failed attempts to create an express trust will produce a resulting trust. In particular, if the trust fails due to lack of constitution (i.e., legal title has not passed to the trustee) there is nothing to result back to the settlor. They already have the property. If an implied trust is to arise in this situation it will be a constructive trust which perfects the failed trust.
-```
+> [!important]
+> It is important to note that not all failed attempts to create an express trust will produce a resulting trust. In particular, if the trust fails due to lack of constitution (i.e., legal title has not passed to the trustee) there is nothing to result back to the settlor. They already have the property. If an implied trust is to arise in this situation it will be a constructive trust which perfects the failed trust.
 
 ### Failure of Validly Created Trust
 
@@ -85,19 +84,16 @@ It is preferable to declare an express trust over the land which makes the [[ben
 
 It is important to note that presumed resulting trusts are not used to determine [[beneficial entitlement]] to land acquired jointly as a family home. Such cases involve the use of common intention constructive trusts.
 
-```ad-example
-A and B each contribute half of the purchase price for land, and B is registered as the sole legal owner. There is no evidence A intends a gift to B. No express trust is declared. B holds the land on trust for A and B as tenants in common in equal shares.
-```
+> [!example]
+> A and B each contribute half of the purchase price for land, and B is registered as the sole legal owner. There is no evidence A intends a gift to B. No express trust is declared. B holds the land on trust for A and B as tenants in common in equal shares.
 
-```ad-example
-A contributes 70% and B contributes 30% of the purchase price. They are registered as joint legal owners. They do not discuss how the property should be shared, and no express trust is declared. A and B hold the land as legal joint tenants on trust for A and B as equitable tenants in common. A has a 70% equitable share and B has a 30% equitable share.
-```
+> [!example]
+> A contributes 70% and B contributes 30% of the purchase price. They are registered as joint legal owners. They do not discuss how the property should be shared, and no express trust is declared. A and B hold the land as legal joint tenants on trust for A and B as equitable tenants in common. A has a 70% equitable share and B has a 30% equitable share.
 
-```ad-summary
-- Resulting trusts involve the return of a beneficial interest to the original legal owner of property or contributor to that property.
-- Automatic resulting trusts are default trusts which arise when property is vested in an intended trustee but the trust fails, either from the outset or subsequently.
-- Common reasons for an automatic resulting trust to arise include uncertainty of subject matter, uncertainty of objects, non-compliance with the beneficiary principle or a surplus fund remaining at the end of the trust period.
-- A presumption of resulting trust arises where a person either transfers property to another person or contributes towards the acquisition of an asset for the benefit of another person. The presumption can be rebutted by evidence of the actual intention.
-- Where A transfers an asset to (or purchases an asset for) B, B will hold that asset on resulting trust for A unless there is evidence that this was not A’s intention.
-- If A and B jointly contribute towards the purchase price of an asset, regardless of how legal title is held, they will each gain an equitable interest which reflects their respective contributions unless there is evidence of a contrary intention.
-```
+> [!summary]
+> - Resulting trusts involve the return of a beneficial interest to the original legal owner of property or contributor to that property.
+> - Automatic resulting trusts are default trusts which arise when property is vested in an intended trustee but the trust fails, either from the outset or subsequently.
+> - Common reasons for an automatic resulting trust to arise include uncertainty of subject matter, uncertainty of objects, non-compliance with the beneficiary principle or a surplus fund remaining at the end of the trust period.
+> - A presumption of resulting trust arises where a person either transfers property to another person or contributes towards the acquisition of an asset for the benefit of another person. The presumption can be rebutted by evidence of the actual intention.
+> - Where A transfers an asset to (or purchases an asset for) B, B will hold that asset on resulting trust for A unless there is evidence that this was not A’s intention.
+> - If A and B jointly contribute towards the purchase price of an asset, regardless of how legal title is held, they will each gain an equitable interest which reflects their respective contributions unless there is evidence of a contrary intention.

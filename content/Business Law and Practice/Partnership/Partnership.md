@@ -160,9 +160,8 @@ Each partner's role should be explicitly stated. Anything agreed is binding betw
 
 Unless agreed to the contrary, all partnership decisions will be made on the basis of a simple majority, except decisions on changing the nature of the business or on introduction of a new partner, which require unanimity.
 
-```ad-note
-Anything contained in the agreement is a term of the contract between the partners so cannot be altered without the consent of all parties to the contract. The consent could be built into the contract itself - the agreement might contain provision for altering its terms (e.g., with a majority vote).
-```
+> [!note]
+> Anything contained in the agreement is a term of the contract between the partners so cannot be altered without the consent of all parties to the contract. The consent could be built into the contract itself - the agreement might contain provision for altering its terms (e.g., with a majority vote).
 
 In a joint venture between companies, a decision-making mechanism will need to be included in the agreement.
 
@@ -194,19 +193,15 @@ Possible provisions and effects:
 
 #### Death or Bankruptcy
 
-```ad-statute
-title: s 33 PA 1890
-Unless there is contrary agreement, the death or bankruptcy of a partner will automatically cause dissolution of the entire partnership. 
-```
+> [!statute] s 33 PA 1890
+> Unless there is contrary agreement, the death or bankruptcy of a partner will automatically cause dissolution of the entire partnership. 
 
 Sensible to add a provision saying if other partners buy out, the partnership will continue. In a joint venture between companies, the agreement will need a mechanism for unwinding if one party becomes insolvent.
 
 #### Court Order
 
-```ad-statute
-title: s 35 PA 1890
-On certain grounds, the court can make an order for dissolution. This allows the partner to break their agreement with the other partners without being liable for breach of contract.
-```
+> [!statute] s 35 PA 1890
+> On certain grounds, the court can make an order for dissolution. This allows the partner to break their agreement with the other partners without being liable for breach of contract.
 
 #### Retirement
 
@@ -226,12 +221,10 @@ When a person ceases to be a partner because of retirement, expulsion, death or 
 
 If the agreement is silent and settlement cannot be reached:
 
-```ad-statute
-title: s 42 PA 1890
-If a person ceases to be a partner and others continue in the partnership, but there is a delay in final payment of the former partner's share, the former partner/ their estate is entitled to receive either:
-- Interest at 5% on the aount of their share, or
-- Such share of the profits as is attributable to the use of the outgoing partner's share.
-```
+> [!statute] s 42 PA 1890
+> If a person ceases to be a partner and others continue in the partnership, but there is a delay in final payment of the former partner's share, the former partner/ their estate is entitled to receive either:
+> - Interest at 5% on the aount of their share, or
+> - Such share of the profits as is attributable to the use of the outgoing partner's share.
 
 Provisions drafted here should include:
 
@@ -249,10 +242,8 @@ There should always be a provision limiting an outgoing partner's freedom to com
 
 In [[Bridge and Deacons]] it was held that restraint of trade clauses must only protect a legitimate interest, such as a business and its goodwill, a share of which has been acquired from the partner being restrained. Secondly, they must do no more is than is necessary to protect that interest.
 
-```ad-defn
-title: Non-competition clause
-A commonly used clause prevents a person from being involved in any way in a competing business. 
-```
+> [!defn] Non-competition clause
+> A commonly used clause prevents a person from being involved in any way in a competing business. 
 
 ##### Other Forms of Restraint
 
@@ -265,32 +256,30 @@ To avoid expense, delay and adverse publicity, the agreement may provide that ce
 
 #### Sharing Between Partners
 
-```ad-statute
-title: s 24 PA 1890
-The interests of partners in the partnership property and their rights and duties in relation to the partnership shall be determined, subject to any agreement express or implied between the partners, by the following rules:—
-
-(1) All the partners are entitled to share equally in the capital and profits of the business, and must contribute equally towards the losses whether of capital or otherwise sustained by the firm.
-
-(2) The firm must indemnify every partner in respect of payments made and personal liabilities incurred by him—
-
-- (a) In the ordinary and proper conduct of the business of the firm; or,
-
-- (b) In or about anything necessarily done for the preservation of the business or property of the firm.
-
-(3) A partner making, for the purpose of the partnership, any actual payment or advance beyond the amount of capital which he has agreed to subscribe, is entitled to interest at the rate of five per cent. per annum from the date of the payment or advance.
-
-(4) A partner is not entitled, before the ascertainment of profits, to interest on the capital subscribed by him.
-
-(5) Every partner may take part in the management of the partnership business.
-
-(6) No partner shall be entitled to remuneration for acting in the partnership business.
-
-(7) No person may be introduced as a partner without the consent of all existing partners.
-
-(8) Any difference arising as to ordinary matters connected with the partnership business may be decided by a majority of the partners, but no change may be made in the nature of the partnership business without the consent of all existing partners.
-
-(9) The partnership books are to be kept at the place of business of the partnership (or the principal place, if there is more than one), and every partner may, when he thinks fit, have access to and inspect and copy any of them.
-```
+> [!statute] s 24 PA 1890
+> The interests of partners in the partnership property and their rights and duties in relation to the partnership shall be determined, subject to any agreement express or implied between the partners, by the following rules:—
+> 
+> (1) All the partners are entitled to share equally in the capital and profits of the business, and must contribute equally towards the losses whether of capital or otherwise sustained by the firm.
+> 
+> (2) The firm must indemnify every partner in respect of payments made and personal liabilities incurred by him—
+> 
+> - (a) In the ordinary and proper conduct of the business of the firm; or,
+> 
+> - (b) In or about anything necessarily done for the preservation of the business or property of the firm.
+> 
+> (3) A partner making, for the purpose of the partnership, any actual payment or advance beyond the amount of capital which he has agreed to subscribe, is entitled to interest at the rate of five per cent. per annum from the date of the payment or advance.
+> 
+> (4) A partner is not entitled, before the ascertainment of profits, to interest on the capital subscribed by him.
+> 
+> (5) Every partner may take part in the management of the partnership business.
+> 
+> (6) No partner shall be entitled to remuneration for acting in the partnership business.
+> 
+> (7) No person may be introduced as a partner without the consent of all existing partners.
+> 
+> (8) Any difference arising as to ordinary matters connected with the partnership business may be decided by a majority of the partners, but no change may be made in the nature of the partnership business without the consent of all existing partners.
+> 
+> (9) The partnership books are to be kept at the place of business of the partnership (or the principal place, if there is more than one), and every partner may, when he thinks fit, have access to and inspect and copy any of them.
 
 Generally, the Act aims for equality between partners. That is not always wanted, and sometimes more sophisticated rights and duties are more appropriate to a particular partnership. As a result, the terms implied by the Partnership Act are often overridden.
 
@@ -304,15 +293,13 @@ A partner as certain responsibilities towards others and corresponding rights.
 
 ## Utmost Good Faith
 
-```ad-important
-By common law, a partnership is a relationship onto which is imposed a duty of utmost fairness and good faith from one partner to another. 
-```
+> [!important]
+> By common law, a partnership is a relationship onto which is imposed a duty of utmost fairness and good faith from one partner to another. 
 
 Perhaps the most fundamental obligation imposed on a partner is the duty to conduct oneself with complete good faith towards co-partners in all partnership dealings and transactions. This duty is fiduciary in nature and an inherent obligation of partnership. Partners must conduct themselves towards one another with the ‘highest standard of honour’, integrity and openness, even where their interests conflict.
 
-```ad-example
-In [[Helmore and Smith]] one judge said that he could not conceive of a stronger case of a fiduciary relationship than that which exists between partners. For example, in _Law and Law_ the court said that a partner negotiating to buy the share of another partner and who is in possession of facts material to that negotiation, is under a duty to disclose those facts to the selling partner and not to conceal what the seller does not know, even if to do so will affect the price the seller will demand. This obligation is now reflected to a large extent by the terms of section 28 of the Partnership Act.
-```
+> [!example]
+> In [[Helmore and Smith]] one judge said that he could not conceive of a stronger case of a fiduciary relationship than that which exists between partners. For example, in _Law and Law_ the court said that a partner negotiating to buy the share of another partner and who is in possession of facts material to that negotiation, is under a duty to disclose those facts to the selling partner and not to conceal what the seller does not know, even if to do so will affect the price the seller will demand. This obligation is now reflected to a large extent by the terms of section 28 of the Partnership Act.
 
 ### Applications in PA 1890
 
@@ -330,9 +317,8 @@ Lastly, whilst section 19 of the Partnership Act permits the statutory duties un
 
 In fact, it is common practice to impose a contractual duty of good faith to sit alongside the equitable duty so as to provide contractual remedies to sit alongside the equitable remedy.
 
-```ad-example
-The doctrine of caveat emptor does not apply to partners' dealings with one another. So in negotiating to sell the partnership business premises owned by them, a partner must not suppress information which will affect the valuation.
-```
+> [!example]
+> The doctrine of caveat emptor does not apply to partners' dealings with one another. So in negotiating to sell the partnership business premises owned by them, a partner must not suppress information which will affect the valuation.
 
 Key case: [[Broadhurse v Broadhurst]].
 
@@ -365,9 +351,8 @@ The relevant provisions of PA 1890 are based on the law of agency:
 | s 7 | Partners using business credit for private purposes | When a partner pledges firm credit for a purpose not connected, the firm is not bound, though the partner incurs personal liability. |
 | s 8 | Effect of notice that firm will not be bound by acts of partner | Restrictions can be placed on partners' ability to bind the firm, then acts in contravention of the agreement are not binding wrt people with notice of the agreement. |
 
-```ad-note
-"Firm" here means "partners", since the partnership has no legal personality. 
-```
+> [!note]
+> "Firm" here means "partners", since the partnership has no legal personality. 
 
 s 5: the act has to be in the usual course of business (see [[Hirst v Etherington [1999] Lloyd's Rep PN 938]]).
 
@@ -410,15 +395,11 @@ So far liability in contract was considered. What about liability in tort?
 
 s 10 makes the firm liable for any wrongful act or omission of a partner who acts in the ordinary course of the firm's business or with the authority of the partner's partners.
 
-```ad-statute
-title: s 10 PA 1890
-Where, by any wrongful act or omission of any partner acting in the ordinary course of the business of the firm, or with the authority of his co-partners, loss or injury is caused to any person not being a partner in the firm, or any penalty is incurred, the firm is liable therefor to the same extent as the partner so acting or omitting to act.
-```
+> [!statute] s 10 PA 1890
+> Where, by any wrongful act or omission of any partner acting in the ordinary course of the business of the firm, or with the authority of his co-partners, loss or injury is caused to any person not being a partner in the firm, or any penalty is incurred, the firm is liable therefor to the same extent as the partner so acting or omitting to act.
 
-```ad-statute
-title: s 12 PA 1890
-Every partner is liable jointly with his co-partners and also severally for everything for which the firm while he is a partner therein becomes liable under either of the two last preceding sections. 
-```
+> [!statute] s 12 PA 1890
+> Every partner is liable jointly with his co-partners and also severally for everything for which the firm while he is a partner therein becomes liable under either of the two last preceding sections. 
 
 - s 10 covers all types of wrongdoing, including a dishonest breach of trust or fiduciary duty, and is not limited to common law torts ([[Dubai Aluminium Co Ltd v Salaam [2002] 3 WLR 1913]])
 - ss 5 and 10 do not make the other partners liable for breach of contract and deceit arising out of a fraudulent investment scheme ([[JJ Coughlan v Ruparelia [2003] EWCA Civ 1057]]).
@@ -468,12 +449,11 @@ In [[Sangster v Biddulphs [2005] EWHC 658 (Ch)]], the test relied on for liabili
 
 The firm’s debts can be enforced against all those who were partners at the time when the debt or obligation was incurred. Although a person may retire from a partnership, they remain liable on those contracts already made. The terms for the purchase of the partner’s share in the business should include a provision whereby the purchasing partner(s) indemnify the partner against liability for any such debts which were taken into account in valuing the partner’s share.
 
-```ad-action
-When a partner leaves the partnership, the partner must give notice of their leaving since otherwise the partner may become liable for the acts of their former partner(s) done after the partner leaves the firm, if the creditor is unaware that the partner has left. s 36 prescribes the notices which the partner should give:
-
-1. Actual notice (e.g., by sending out standard letters announcing the partner is leaving) to all those who have dealt with the firm prior to the partner leaving (s 36(1)); and
-2. An advertisement in the London Gazette as notice to any person who did not deal with the firm prior to the date of that partner's retirement or expulsion (s 36(2)).
-```
+> [!action]
+> When a partner leaves the partnership, the partner must give notice of their leaving since otherwise the partner may become liable for the acts of their former partner(s) done after the partner leaves the firm, if the creditor is unaware that the partner has left. s 36 prescribes the notices which the partner should give:
+> 
+> 1. Actual notice (e.g., by sending out standard letters announcing the partner is leaving) to all those who have dealt with the firm prior to the partner leaving (s 36(1)); and
+> 2. An advertisement in the London Gazette as notice to any person who did not deal with the firm prior to the date of that partner's retirement or expulsion (s 36(2)).
 
 A creditor who was unaware of the partner’s leaving and who can establish that the type of notice appropriate to the creditor (as above) was not given, will be able to sue the former partner for the firm’s debt, in spite of the fact that he has ceased to be a partner. The principle on which s 36 is based, unlike that on which s 14 is based, does not depend on the creditor having relied on some representation at the time of the transaction. Rather the creditor is given the right to assume that the membership of the firm continues unchanged until notice of the prescribed type (as above) is given. It follows that, if the creditor was never aware that the person had been a partner, no notice of any sort will be required since that creditor cannot be assuming the continuance of that person in the partnership (s 36(3)).
 
@@ -487,14 +467,11 @@ A novation agreement is a tripartite contract involving:
 2. the partners at the time the contract with the creditor was made, and
 3. the newly constituted partnership.
 
-```ad-example
-Say one partner leaves and another joins. Under a contract of novation, it can be agreed that a creditor will release the initial partners and the new partners will take over this liability. 
-```
+> [!example]
+> Say one partner leaves and another joins. Under a contract of novation, it can be agreed that a creditor will release the initial partners and the new partners will take over this liability. 
 
-```ad-question
-title: What if a partner retires and no new partner retires?
-To make the novation contractually binding, either there must be consideration for the creditor's promise to release the retiring partner from liability, or the contract must be executed as a deed. 
-```
+> [!question] What if a partner retires and no new partner retires?
+> To make the novation contractually binding, either there must be consideration for the creditor's promise to release the retiring partner from liability, or the contract must be executed as a deed. 
 
 ## Inability to Pay
 
@@ -510,12 +487,10 @@ To make the novation contractually binding, either there must be consideration f
 
 The law on insolvency of a partnership and of its partners individually is governed by the Insolvent Partnerships Order 1994 (SI 1994/2421) (as amended by SI 2002/1308) and the Insolvency Act 1986.
 
-```ad-tip
-title: Principle
-
-Although a partnership is not a person in its own right, nevertheless an insolvent partnership may be wound up as an unregistered company or may avail itself of the
-rescue procedures available to companies, such as a ‘voluntary arrangement’ with creditors or an ‘administration order’ of the court.
-```
+> [!tip] Principle
+> 
+> Although a partnership is not a person in its own right, nevertheless an insolvent partnership may be wound up as an unregistered company or may avail itself of the
+> rescue procedures available to companies, such as a ‘voluntary arrangement’ with creditors or an ‘administration order’ of the court.
 
 With a partnership joint venture involving companies, the agreement will need to provide a
 
@@ -535,9 +510,8 @@ Dissolution is when a partnership ends. Main question: what happens to the busin
 
 ## Dissolution
 
-```ad-defn
-Dissolution of a partnership means that the contractual relationship joining all the current partners comes to an end. So if a partner leaves and another joins, strictly one partnership is dissolved and a new one formed. 
-```
+> [!defn]
+> Dissolution of a partnership means that the contractual relationship joining all the current partners comes to an end. So if a partner leaves and another joins, strictly one partnership is dissolved and a new one formed. 
 
 ss 32-35 specify certain events which trigger a partnership to be dissolved (though most can be excluded by agreement).
 
@@ -550,29 +524,24 @@ ss 32-35 specify certain events which trigger a partnership to be dissolved (tho
 
 Notice of dissolution may be given by any partner to the others (ss 26 & 32). The notice need not state a reason for dissolution and can have immediate effect.
 
-```ad-defn
-A partnership which is terminable under s 26 is known as a 'partnership at will'.
-```
+> [!defn]
+> A partnership which is terminable under s 26 is known as a 'partnership at will'.
 
-```ad-statute
-title: s 26
-(1) Where no fixed term has been agreed upon for the duration of the partnership, any partner may determine the partnership at any time on giving notice of his intention so to do to all the other partners.
+> [!statute] s 26
+> (1) Where no fixed term has been agreed upon for the duration of the partnership, any partner may determine the partnership at any time on giving notice of his intention so to do to all the other partners.
+> 
+> (2) Where the partnership has originally been constituted by deed, a notice in writing, signed by the partner giving it, shall be sufficient for this purpose.
 
-(2) Where the partnership has originally been constituted by deed, a notice in writing, signed by the partner giving it, shall be sufficient for this purpose.
-```
-
-```ad-statute
-title: s 32
-Subject to any agreement between the partners, a partnership is dissolved—
-
-- (a) If entered into for a fixed term, by the expiration of that term:
-
-- (b) If entered into for a single adventure or undertaking, by the termination of that adventure or undertaking:
-
-- (c) If entered into for an undefined time, by any partner giving notice to the other or others of his intention to dissolve the partnership.
-
-In the last mentioned case the partnership is dissolved as from the date mentioned in the notice as the date of dissolution, or, if no date is so mentioned, as from the date of the communication of the notice.
-```
+> [!statute] s 32
+> Subject to any agreement between the partners, a partnership is dissolved—
+> 
+> - (a) If entered into for a fixed term, by the expiration of that term:
+> 
+> - (b) If entered into for a single adventure or undertaking, by the termination of that adventure or undertaking:
+> 
+> - (c) If entered into for an undefined time, by any partner giving notice to the other or others of his intention to dissolve the partnership.
+> 
+> In the last mentioned case the partnership is dissolved as from the date mentioned in the notice as the date of dissolution, or, if no date is so mentioned, as from the date of the communication of the notice.
 
 ### Expiry of Fixed Term
 
@@ -613,12 +582,10 @@ id3.2 --> id4(May be sold to other partners <br/> or an outsider)
 
 ### Death or Bankruptcy
 
-```ad-statute
-title: s 33
-(1)  Subject to any agreement between the partners, every partnership is dissolved as regards all the partners by the death or bankruptcy of any partner.
-
-(2)  A partnership may, at the option of the other partners, be dissolved if any partner suffers his share of the partnership property to be charged under this Act for his separate debt.
-```
+> [!statute] s 33
+> (1)  Subject to any agreement between the partners, every partnership is dissolved as regards all the partners by the death or bankruptcy of any partner.
+> 
+> (2)  A partnership may, at the option of the other partners, be dissolved if any partner suffers his share of the partnership property to be charged under this Act for his separate debt.
 
 The personal representatives of the deceased/ trustee in bankruptcy can collect the former partner's share of the estate.
 
@@ -626,10 +593,8 @@ With a joint venture, need a mechanism for unwinding if one party becomes insolv
 
 ### Illegality
 
-```ad-statute
-title: s 34
-A partnership is in every case dissolved by the happening of any event which makes it unlawful for the business of the firm to be carried on or for the members of the firm to carry it on in partnership. 
-```
+> [!statute] s 34
+> A partnership is in every case dissolved by the happening of any event which makes it unlawful for the business of the firm to be carried on or for the members of the firm to carry it on in partnership. 
 
 This includes cases where:
 
@@ -721,19 +686,15 @@ If partners cannot reach an agreement as to continuing business/ purchasing shar
 
 May be by sale of as a going concern, or by breaking up the business and selling assets separately.
 
-```ad-statute
-title: s 39
-Every partner has the right to insist on a disposal and payment, if necessary by applicaiton to court. 
-```
+> [!statute] s 39
+> Every partner has the right to insist on a disposal and payment, if necessary by applicaiton to court. 
 
 ### Goodwill
 
 Clearly, if the business is broken up and assets sold separately, there is financial disadvantage.
 
-```ad-defn
-title: Goodwill
-The benefit of a business's reputation and connections. 
-```
+> [!defn] Goodwill
+> The benefit of a business's reputation and connections. 
 
 Goodwill is commonly valued by a year or two's profit. Alternatively, consider the value from a buyer's perspective, versus their option of setting up under a new business. Goodwill can be sold!
 
@@ -753,10 +714,8 @@ be used in the following sequence (PA 1890, s 44).
 
 ### Parties
 
-```ad-statute
-title: s 38 PA 1890
-Each partner (except a bankrupt partner) has continuing authority to act for the purposes of winding up the firm’s affairs.
-```
+> [!statute] s 38 PA 1890
+> Each partner (except a bankrupt partner) has continuing authority to act for the purposes of winding up the firm’s affairs.
 
 - So often no need for anyone external in a dissolution.
 - But if there is dispute/ problems, any partner may apply to court for the appointment of a person (or one of the partners):

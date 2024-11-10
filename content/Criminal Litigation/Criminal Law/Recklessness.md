@@ -47,6 +47,5 @@ In deciding whether the risk is a reasonable one to take, the jury will consider
 
 In R v G the Lords emphasised that the jury should not take into consideration circumstances not known to the accused at the time D committed the offence.
 
-```ad-example
-If the accused throws a lighted cigarette into an empty waste paper bin which, unknown to D, contains a small quantity of flammable fluid put there by someone else, the jury must ignore the presence of this flammable fluid when answering the second question.
-```
+> [!example]
+> If the accused throws a lighted cigarette into an empty waste paper bin which, unknown to D, contains a small quantity of flammable fluid put there by someone else, the jury must ignore the presence of this flammable fluid when answering the second question.

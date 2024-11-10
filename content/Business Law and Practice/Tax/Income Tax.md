@@ -36,20 +36,16 @@ About 1/3 of UK tax receipts come from income tax, collected by HMRC. Individual
 
 Income tax is recurrent, whereas capital transactions are usually one-off. Income tax paid by individuals, partnerships, personal representatives and trustees. Companies pay corporation tax. There are tax-efficient ways of giving to charity.
 
-```ad-example
-title: Income
-- Interest
-- Dividends
-- Salary/ wages
-- Rent
-```
+> [!example] Income
+> - Interest
+> - Dividends
+> - Salary/ wages
+> - Rent
 
-```ad-example
-title: Capital
-- Sale of shares
-- Buying a house
-- Sale of antique
-```
+> [!example] Capital
+> - Sale of shares
+> - Buying a house
+> - Sale of antique
 
  Income can be received gross (trading income, property income), or net–tax-deducted (employment income, PAYE). Sources of income for an individual include trading income, employment income, property income and saving and investment income.
 

@@ -65,12 +65,11 @@ The appointment may only be made where the order is reasonably likely to achieve
 
 See [[AA Mutual International Insurance Co Ltd [2004] EWHC Ch 1]].
 
-```ad-action
-As soon as reasonably practicable after making the application, the applicant must notify:
-1. any person who has appointed (or is entitled to appoint) an administrative receiver of the company;
-2. any qualifying floating charge holder (QFCH) who may be entitled to appoint an administrator; and
-3. such other persons as may be prescribed by the IR 2016.
-```
+> [!action]
+> As soon as reasonably practicable after making the application, the applicant must notify:
+> 1. any person who has appointed (or is entitled to appoint) an administrative receiver of the company;
+> 2. any qualifying floating charge holder (QFCH) who may be entitled to appoint an administrator; and
+> 3. such other persons as may be prescribed by the IR 2016.
 
 #### Out of Court Procedure
 
@@ -80,26 +79,22 @@ The following parties may appoint an administrator using the out-of-court proced
 - The [[directors]] (Sch B1 para 22(2)); or
 - A [[Qualifying Floating Charge]] holder (Sch B1 para 14)
 
-```ad-defn
-title: Qualifying Floating Charge Holder 'QFCH'
-TLDR: The holder of a floating charge created after 15 September 2003 relating to the whole or substantially the whole of the company's property ([Sch B1 para 14 IA 1986](https://www.legislation.gov.uk/ukpga/1986/45/schedule/B1)). 
-
----
-
-A qualifying floating charge (QFC) is one where the charge document:
-- (a) states that para 14 of Sch B1 to the IA 1986 applies to it and–
-	- (i) purports to empower the holder of the floating charge to appoint an administrator of the company, or
-	- (ii) purports to empower the holder of the floating charge to make an appointment which would be the appointment of an administrative receiver within the meaning given by s 29(2) of the IA 1986; and
-- (b) is a QFC which, on its own or with other security held by the same lender, relates to the whole, or substantially the whole, of the company’s property (para 14(3)).
-```
+> [!defn] Qualifying Floating Charge Holder 'QFCH'
+> TLDR: The holder of a floating charge created after 15 September 2003 relating to the whole or substantially the whole of the company's property ([Sch B1 para 14 IA 1986](https://www.legislation.gov.uk/ukpga/1986/45/schedule/B1)). 
+> 
+> ---
+> 
+> A qualifying floating charge (QFC) is one where the charge document:
+> - (a) states that para 14 of Sch B1 to the IA 1986 applies to it and–
+> 	- (i) purports to empower the holder of the floating charge to appoint an administrator of the company, or
+> 	- (ii) purports to empower the holder of the floating charge to make an appointment which would be the appointment of an administrative receiver within the meaning given by s 29(2) of the IA 1986; and
+> - (b) is a QFC which, on its own or with other security held by the same lender, relates to the whole, or substantially the whole, of the company’s property (para 14(3)).
 
 The most common method of appointing an administrator is by directors using the out-of-court procedure.
 
-```ad-warning
-title: Exception
-
-Directors **cannot** use the out-of-court procedure where a creditor has presented a petition for the winding up of the company. The directors can then apply to court for an administration order, or the qualifying floating charge holder can use the out-of-court procedure to appoint an administrator. 
-```
+> [!warning] Exception
+> 
+> Directors **cannot** use the out-of-court procedure where a creditor has presented a petition for the winding up of the company. The directors can then apply to court for an administration order, or the qualifying floating charge holder can use the out-of-court procedure to appoint an administrator. 
 
 ### Statutory Moratorium
 
@@ -123,12 +118,11 @@ The floating charge must be enforceable, due to the occurrence of some trigger e
 
 It is not possible for a QFCH to appoint an administrator out-of-court under IA 1986, Sch B1, para 14 where there is a provisional liquidator or an administrative receiver already appointed, or the company is already being wound up.
 
-```ad-action
-Notice of appointment has to be filed at court by the lender together with various documents. The notice must include a statutory declaration by the lender to the effect that:
-1. the lender is the holder of a QFC in respect of the company’s property;
-2. the floating charge has become enforceable; and
-3. the appointment is in accordance with IA 1986, Sch B1.
-```
+> [!action]
+> Notice of appointment has to be filed at court by the lender together with various documents. The notice must include a statutory declaration by the lender to the effect that:
+> 1. the lender is the holder of a QFC in respect of the company’s property;
+> 2. the floating charge has become enforceable; and
+> 3. the appointment is in accordance with IA 1986, Sch B1.
 
 Once these documents have been filed at court (and the other parts of Sch B1, para 18 are complied with) the administration begins.
 

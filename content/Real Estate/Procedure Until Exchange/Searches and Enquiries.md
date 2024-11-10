@@ -47,10 +47,8 @@ Additional searches:
 
 ## Local Land Charges Search
 
-```ad-defn
-title: Local land charges
-Financial charges or restrictions on land imposed by public authorities under statute. 
-```
+> [!defn] Local land charges
+> Financial charges or restrictions on land imposed by public authorities under statute. 
 
 Essential to search this in every transaction. It will be necessary to search either a register maintained by the local authority or the land registry, depending on the area. A fee is payable for an official search.
 
@@ -60,18 +58,16 @@ The search will reveal any entries kept under statutory obligations. Might overl
 
 ### Examples
 
-```ad-example
-title: Matters revealed by local land charges
-- Financial charges
-- Tree preservation orders
-- Smoke control orders
-- Compulsory purchase orders
-- Planning permission granted
-- Restrictions on permitted development
-- Orders revoking/ modifying planning permissions. 
-- Conservation area designation orders
-- Listed building status. 
-```
+> [!example] Matters revealed by local land charges
+> - Financial charges
+> - Tree preservation orders
+> - Smoke control orders
+> - Compulsory purchase orders
+> - Planning permission granted
+> - Restrictions on permitted development
+> - Orders revoking/ modifying planning permissions. 
+> - Conservation area designation orders
+> - Listed building status. 
 
 For each, consider:
 
@@ -170,11 +166,10 @@ An incorrect reply to pre-contract enquiries may lead to liability in misreprese
 Where the erroneous reply stems from the seller’s solicitor’s negligence, they will be liable to  
 their own client ([[CEMP Proper ties (UK) Ltd v Dentsply Research and Development Corporation (No 1) (1989) 2 EGLR 192]]), but in this respect they do not owe a duty directly to the buyer (see [[Gran Gelato v Richcliffe (Group) [1992] 1 All ER 865]]).
 
-```ad-tip
-If the seller says "not so far as the seller is aware", they are representing ([[William Sindall plc v Cambridgeshire CC [1994] 1 WLR 1016]]):
-1. Seller has no actual knowledge of a matter
-2. All reasonable enquiries that a prudent conveyancer would have made have been made. 
-```
+> [!tip]
+> If the seller says "not so far as the seller is aware", they are representing ([[William Sindall plc v Cambridgeshire CC [1994] 1 WLR 1016]]):
+> 1. Seller has no actual knowledge of a matter
+> 2. All reasonable enquiries that a prudent conveyancer would have made have been made. 
 
 ## Specific Enquiries
 
@@ -239,9 +234,8 @@ flood cover is provided for most residential properties. Flood Re provides flood
 
 Index of the land in every registered title and pending application for first registration.
 
-```ad-action
-Do this search if the land being sold appears to be unregistered. 
-```
+> [!action]
+> Do this search if the land being sold appears to be unregistered. 
 
 ### Inspection of Property
 

@@ -37,11 +37,10 @@ A solicitor must act with integrity; they are in a position of trust. The concep
 
 Solicitors and firms must act in a way that encourages equality, diversity and inclusion.
 
-```ad-example
-- Making reasonable adjustments for disabled clients
-- Treating employees fairly
-- Having processes in place to deal with bullying, harassment and discrimination.
-```
+> [!example]
+> - Making reasonable adjustments for disabled clients
+> - Treating employees fairly
+> - Having processes in place to deal with bullying, harassment and discrimination.
 
 ## 7. Best Interests of the Client
 

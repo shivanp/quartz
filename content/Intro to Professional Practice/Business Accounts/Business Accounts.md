@@ -12,11 +12,9 @@ title: Intro to Business Accounts
 
 ### Setting up Business
 
-```ad-defn
-title: Capital
-
-The amount a business owes its owner.
-```
+> [!defn] Capital
+> 
+> The amount a business owes its owner.
 
 ### P&L Account
 
@@ -30,11 +28,9 @@ $$
 
 Assets and liabilities are shown. One of the assets is usually cash.
 
-```ad-defn
-title: Fixed and current assets
-
-Fixed assets are major assets bought to help the business function. Current assets are cash and liquid assets, such as debtors and stock. 
-```
+> [!defn] Fixed and current assets
+> 
+> Fixed assets are major assets bought to help the business function. Current assets are cash and liquid assets, such as debtors and stock. 
 
 $$
 \text{Net assets} = \text{Assets} - \text{Liabilities}
@@ -75,26 +71,23 @@ On a daily basis, a business must keep a record of income, expenses, assets and 
 
 ## Double Entry Bookkeeping
 
-```ad-defn
-title: Bookkeeping
-The process of recording financial transactions in the accounting records of a business.
-```
+> [!defn] Bookkeeping
+> The process of recording financial transactions in the accounting records of a business.
 
 The double entry system was developed by Venetian traders in the 1400s and is still used to this day.
 
 The idea is that there are two aspects to every transaction.
 
-```ad-example
-1. The business pays cash to buy premises
-	1. The business has less cash
-	1. The business has acquired premises
-2. The business pays wages
-	1. The business has less cash
-	1. The business has incurred an expense
-3. The client pays the business owed money
-	1. The business has lost the debt it was owed
-	1. The business has more cash
-```
+> [!example]
+> 1. The business pays cash to buy premises
+> 	1. The business has less cash
+> 	1. The business has acquired premises
+> 2. The business pays wages
+> 	1. The business has less cash
+> 	1. The business has incurred an expense
+> 3. The client pays the business owed money
+> 	1. The business has lost the debt it was owed
+> 	1. The business has more cash
 
 ### Rules for Recording Transactions
 
@@ -186,9 +179,8 @@ Professionals do not sell trading stock, they sell services. The charge for prof
 
 The 'cash' account is in reality a record of receipts into and payments out of the bank account. But a business will usually need some petty cash in the office to cover day-to-day expenses – these transactions are recorded in a petty cash account.
 
-```ad-defn
-All accounts apart from the cash account are referred to as ledger accounts. There is a single cash account: the petty cash account.
-``` 
+> [!defn]
+> All accounts apart from the cash account are referred to as ledger accounts. There is a single cash account: the petty cash account. 
 
 ### Drawings
 
@@ -202,9 +194,8 @@ Businesses will check their bookkeeping periodically. If every transaction has b
 
 $$
 
-```ad-defn
-The process of adding together all DR and CR balances and comparing totals is known as preparing a Trial Balance. 
-```
+> [!defn]
+> The process of adding together all DR and CR balances and comparing totals is known as preparing a Trial Balance. 
 
 Note that this is only a check but cannot reveal all errors, e.g., if the bookkeeper has failed to make any entries relating to a particular transaction.
 
@@ -413,9 +404,8 @@ $$
 \text{Cost of Goods Sold} = \text{Purchases} + \text{Opening Stock} - \text{Closing Stock}
 $$
 
-```ad-warning
-By convention, stock is valued in the Final Accounts at the lower of its acquisition cost or its realisable value.
-```
+> [!warning]
+> By convention, stock is valued in the Final Accounts at the lower of its acquisition cost or its realisable value.
 
 The value given for closing stock is always an estimate – the business cannot predict with total accuracy how much of the remaining stock it will be able to sell (e.g., clothing which has gone out of fashion).
 

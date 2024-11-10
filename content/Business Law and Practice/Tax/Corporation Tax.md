@@ -43,18 +43,16 @@ Usually money received for the sale of goods and services.
 
 Tax legislation stipulates what is and is not deductible expenditure, so does not include e.g., bad debts, as in business accounts.
 
-```ad-example
-title: Examples of deductible expenditure for companies
-1. Directors'/ employees' salaries or fees and benefits in kind. 
-	1. So long as not excessive
-	2. If paid for personal reasons and not wholly and exclusively for the purposes of the trade, then it will not be deductible. 
-2. Contributions to an approved pension scheme for directors/ employees
-3. Payment to director/ employee for termination of employment
-	1. When made as compensation for loss of office/ employment, deductible expense
-	2. When made in return for a non-compete undertaking, deductible under specifi provisions
-4. Interest payments on borrowings
-	1. Generally deductible under loan relationships rules, though there are limits on the amount of interest payments which can be deducted by listed companies. 
-```
+> [!example] Examples of deductible expenditure for companies
+> 1. Directors'/ employees' salaries or fees and benefits in kind. 
+> 	1. So long as not excessive
+> 	2. If paid for personal reasons and not wholly and exclusively for the purposes of the trade, then it will not be deductible. 
+> 2. Contributions to an approved pension scheme for directors/ employees
+> 3. Payment to director/ employee for termination of employment
+> 	1. When made as compensation for loss of office/ employment, deductible expense
+> 	2. When made in return for a non-compete undertaking, deductible under specifi provisions
+> 4. Interest payments on borrowings
+> 	1. Generally deductible under loan relationships rules, though there are limits on the amount of interest payments which can be deducted by listed companies. 
 
 ### Capital Allowances
 
@@ -195,10 +193,8 @@ ss 45-45B CTA 2010: can carry forward the trading loss for an accounting period 
 
 CTA 2009, Part 8.
 
-```ad-guid
-title: General rule
-Receipts from transactions in intangible fixed assets will generally be treated as income receipts, and expenditure on intangible fixed assets will generally be deductible in calculating a company’s income profits (although not when the expenditure is part of the incorporation of a business).
-```
+> [!guid] General rule
+> Receipts from transactions in intangible fixed assets will generally be treated as income receipts, and expenditure on intangible fixed assets will generally be deductible in calculating a company’s income profits (although not when the expenditure is part of the incorporation of a business).
 
 ### Disposal of Intangible Fixed Assets
 

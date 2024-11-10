@@ -42,14 +42,12 @@ min_depth: 1
 
 ## Constitution and Documents
 
-```ad-statute
-title: s 7 CA 2006
-(1) A company is formed under this Act by one or more persons—
-- (a) subscribing their names to a memorandum of association (see section 8), and
-- (b) complying with the requirements of this Act as to registration (see sections 9 to 13).
-
-(2) A company may not be so formed for an unlawful purpose.
-```
+> [!statute] s 7 CA 2006
+> (1) A company is formed under this Act by one or more persons—
+> - (a) subscribing their names to a memorandum of association (see section 8), and
+> - (b) complying with the requirements of this Act as to registration (see sections 9 to 13).
+> 
+> (2) A company may not be so formed for an unlawful purpose.
 
 s 20 CA 2006 provides that the [[Articles of Association]] of a 2006 Act company are to be those set out in model Articles created by statutory instrument, except to the extent the [[Business Law and Practice/Company Fundamentals/Shareholders]] substitute their own Articles. There is one set of model Articles for private limited [[companies]] and another for public limited [[companies]]. Both sets of model Articles are to be found in the Companies (Model Articles) Regulations 2008.
 
@@ -63,12 +61,10 @@ When a company is formed:
 - The members of a limited company have limited liability.
 	- There is a limit on the amount of money a shareholder is liable to contribute to a limited company in insolvent liquidation. The extent of this liability is set out in section 74(2)(d) of the Insolvency Act 1986.
 
-```ad-statute
-title: s 74(2)(d) IA 1986
-In the case of a company limited by shares, no contribution is required  
-from any member exceeding the amount (if any) unpaid on the shares in  
-respect of which he is liable as a present or past member.
-```
+> [!statute] s 74(2)(d) IA 1986
+> In the case of a company limited by shares, no contribution is required  
+> from any member exceeding the amount (if any) unpaid on the shares in  
+> respect of which he is liable as a present or past member.
 
 ## Separate Personality
 
@@ -96,16 +92,14 @@ Although forming a company by registration without the need for a royal charter 
 - Directors run the company day-to-day
 	- Take daily decisions such as entering into contracts
 
-```ad-statute
-title: s 112 CA 2006
-(1) The subscribers of a company’s memorandum are deemed to have  
-agreed to become members of the company, and on its registration  
-become members and must be entered as such in its register of  
-members.  
-(2) Every other person who agrees to become a member of a company,  
-and whose name is entered in its register of members, is a member of  
-the company.
-```
+> [!statute] s 112 CA 2006
+> (1) The subscribers of a company’s memorandum are deemed to have  
+> agreed to become members of the company, and on its registration  
+> become members and must be entered as such in its register of  
+> members.  
+> (2) Every other person who agrees to become a member of a company,  
+> and whose name is entered in its register of members, is a member of  
+> the company.
 
 ### Group of Companies
 
@@ -168,9 +162,8 @@ Designed to help third parties in deciding whether to deal with the company.
 
 #### Maintenance of Capital
 
-```ad-defn
-The money invested by shareholders in a company is known as share capital.
-```
+> [!defn]
+> The money invested by shareholders in a company is known as share capital.
 
 It is a fundamental rule of company law that the share capital belongs to the company and not to the shareholders. The share capital is treated as a special fund within the company and
 
@@ -178,9 +171,8 @@ given extra protection by the law. This is so that it is available to repay the 
 
 Its effects are most clearly demonstrated in s 830 CA 2006. This provision allows a company to make distributions to its shareholders only out of distributable profits. Put simply, a company can pay money to its shareholders only from available profits, which do not touch the share capital.
 
-```ad-note
-Most private companies have a share capital of £100 or less.
-```
+> [!note]
+> Most private companies have a share capital of £100 or less.
 
 # Company Constitution
 
@@ -202,10 +194,8 @@ Constitution includes:
 
 ## Articles of Association
 
-```ad-statute
-title: s 18(1) CA 2006
-A company must have articles of association prescribing regulations for the company.
-```
+> [!statute] s 18(1) CA 2006
+> A company must have articles of association prescribing regulations for the company.
 
 | Aspect | Details |
 | ------------------------- | ----------------------------------------------------------------------------------------- |
@@ -215,16 +205,14 @@ A company must have articles of association prescribing regulations for the comp
 
 ### Unamended Model Articles
 
-```ad-statute
-title: s 20 CA 2006 - **Default** application of model articles
-(1) On the formation of a limited company—
-- (a) if articles are not registered, or
-- (b) if articles are registered, in so far as they do not exclude or modify the relevant model articles,
-
-the relevant model articles (so far as applicable) form part of the company's articles in the same manner and to the same extent as if articles in the form of those articles had been duly registered.
-
-(2) The “relevant model articles” means the model articles prescribed for a company of that description as in force at the date on which the company is registered.
-```
+> [!statute] s 20 CA 2006 - **Default** application of model articles
+> (1) On the formation of a limited company—
+> - (a) if articles are not registered, or
+> - (b) if articles are registered, in so far as they do not exclude or modify the relevant model articles,
+> 
+> the relevant model articles (so far as applicable) form part of the company's articles in the same manner and to the same extent as if articles in the form of those articles had been duly registered.
+> 
+> (2) The “relevant model articles” means the model articles prescribed for a company of that description as in force at the date on which the company is registered.
 
 Model articles comprise a set of **minimum basic rules** on running the company. They keep regulation to a minimum.
 
@@ -248,9 +236,8 @@ When reading the model articles, always consider them in conjunction with defini
 
 ### Special Articles
 
-```ad-defn
-Any amendments to MA / other provisions in the Articles are known as 'special articles'.
-```
+> [!defn]
+> Any amendments to MA / other provisions in the Articles are known as 'special articles'.
 
 Commonly included special articles:
 
@@ -268,13 +255,11 @@ It is also possible to create completely bespoke Articles from scratch.
 
 ### Effect of Articles
 
-```ad-statute
-title: s 33 - Effect of company's constitution
-
-(1) The provisions of a company's constitution bind the company and its members to the same extent as if there were covenants on the part of the company and of each member to observe those provisions.
-
-(2) Money payable by a member to the company under its constitution is a debt due from him to the company. In England and Wales and Northern Ireland it is of the nature of an ordinary contract debt. 
-```
+> [!statute] s 33 - Effect of company's constitution
+> 
+> (1) The provisions of a company's constitution bind the company and its members to the same extent as if there were covenants on the part of the company and of each member to observe those provisions.
+> 
+> (2) Money payable by a member to the company under its constitution is a debt due from him to the company. In England and Wales and Northern Ireland it is of the nature of an ordinary contract debt. 
 
 The constitution of a company forms:
 
@@ -297,9 +282,8 @@ and between a company and a new shareholder:
 
 The s 33 contract is very different from a standard trading contract.
 
-```ad-important
-The contract allows for action to be taken only in so far as it deals with membership rights ([[Beattie v E and F Beattie [1938] Ch 708]]).
-```
+> [!important]
+> The contract allows for action to be taken only in so far as it deals with membership rights ([[Beattie v E and F Beattie [1938] Ch 708]]).
 
 This includes:
 
@@ -332,15 +316,12 @@ Since the articles are a contract, it is possible for additional terms to be imp
 
 #### Special Resolution
 
-```ad-action
-title: Procedure
-1. Pass a **special resolution** to change the articles ([s 21 (1) CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/21))
-2. Registrar of Companies sent a copy of the articles as amended $\leq 15$ days after articles amended (s 26(1)) and a copy of the special resolution itself (s 30(1))
-```
+> [!action] Procedure
+> 1. Pass a **special resolution** to change the articles ([s 21 (1) CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/21))
+> 2. Registrar of Companies sent a copy of the articles as amended $\leq 15$ days after articles amended (s 26(1)) and a copy of the special resolution itself (s 30(1))
 
-```ad-note
-Another reason s 33 contractual rights are different from normal contract rights; you can't amend a contract without unanimous consent of 100% of parties.
-```
+> [!note]
+> Another reason s 33 contractual rights are different from normal contract rights; you can't amend a contract without unanimous consent of 100% of parties.
 
 #### Ordinary Resolution Exceptions
 
@@ -371,9 +352,8 @@ If necessary, the court can exceptionally rectify the articles ([[Folkes Group p
 
 [s 22 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/22) permits entrenchment of specific provisions, though this is rare in practice.
 
-```ad-defn
-An entrenched article contains extra procedures or conditions, which makes it harder to change than other articles.
-```
+> [!defn]
+> An entrenched article contains extra procedures or conditions, which makes it harder to change than other articles.
 
 ##### Restrictions
 
@@ -527,15 +507,13 @@ If a shareholder requests a company's constitutional documents, a company must s
 
 ## From Scratch
 
-```ad-statute
-title: s 7: Method of forming company
-
-(1) A company is formed under this Act by one or more persons—
-- (a) subscribing their names to a memorandum of association (see section 8), and
-- (b) complying with the requirements of this Act as to registration (see sections 9 to 13).
-
-(2) A company may not be so formed for an unlawful purpose.
-```
+> [!statute] s 7: Method of forming company
+> 
+> (1) A company is formed under this Act by one or more persons—
+> - (a) subscribing their names to a memorandum of association (see section 8), and
+> - (b) complying with the requirements of this Act as to registration (see sections 9 to 13).
+> 
+> (2) A company may not be so formed for an unlawful purpose.
 
 ### Registration
 
@@ -594,9 +572,8 @@ The application for registration of the company is required by s 9(1). Must incl
 
 The application must state whether the company is private or public, limited or unlimited, and limited by shares or by guarantee.
 
-```ad-warning
-THis registration process cannot be used to set up an LLP.
-```
+> [!warning]
+> THis registration process cannot be used to set up an LLP.
 
 ### Company Name
 
@@ -653,10 +630,8 @@ There are similar restrictions on the use of business names as apply to the comp
 
 ## Registered Office
 
-```ad-statute
-title: s 86
-A company must at all times have a registered office to which all communications and notices may be addressed. 
-```
+> [!statute] s 86
+> A company must at all times have a registered office to which all communications and notices may be addressed. 
 
 The registered office may be at any address, but it is usually either a place where the company carries on its business (e.g. offices or factory), or the address of its solicitors or accountants.
 
@@ -666,28 +641,26 @@ The address must be provided on the application (CA 2006, s 9(5)(a)), and must i
 
 The application for registration must include a statement of capital and initial shareholdings (s 9(4)(a)). This statement must comply with the requirements set out in s 10.
 
-```ad-statute
-title: Statement of capital and initial shareholdings
-
-(1) The statement of capital and initial shareholdings required to be delivered in the case of a company that is to have a share capital must comply with this section.
-
-(2) It must state—
-- (a) the **total number** of shares of the company to be taken on formation by the subscribers to the memorandum of association,
-- (b) the **aggregate nominal value** of those shares,
-- (ba) the aggregate **amount (if any) to be unpaid** on those shares (whether on account of their nominal value or by way of premium), and
-- (c) for each class of shares—
-	- (i) prescribed particulars of the **rights** attached to the shares,
-	- (ii) the **total number** of shares of that class, and
-	- (iii) the aggregate **nominal value** of shares of that class.
-
-(3) It must contain such information as may be prescribed for the purpose of identifying the subscribers to the memorandum of association.
-
-(4) It must state, **with respect to each subscriber** to the memorandum—
-- (a) the number, nominal value (of each share) and class of shares to be taken by him on formation, and
-- (b) the amount to be paid up and the amount (if any) to be unpaid on each share (whether on account of the nominal value of the share or by way of premium).
-
-(5) Where a subscriber to the memorandum is to take shares of more than one class, the information required under subsection (4)(a) is required for each class.
-```
+> [!statute] Statement of capital and initial shareholdings
+> 
+> (1) The statement of capital and initial shareholdings required to be delivered in the case of a company that is to have a share capital must comply with this section.
+> 
+> (2) It must state—
+> - (a) the **total number** of shares of the company to be taken on formation by the subscribers to the memorandum of association,
+> - (b) the **aggregate nominal value** of those shares,
+> - (ba) the aggregate **amount (if any) to be unpaid** on those shares (whether on account of their nominal value or by way of premium), and
+> - (c) for each class of shares—
+> 	- (i) prescribed particulars of the **rights** attached to the shares,
+> 	- (ii) the **total number** of shares of that class, and
+> 	- (iii) the aggregate **nominal value** of shares of that class.
+> 
+> (3) It must contain such information as may be prescribed for the purpose of identifying the subscribers to the memorandum of association.
+> 
+> (4) It must state, **with respect to each subscriber** to the memorandum—
+> - (a) the number, nominal value (of each share) and class of shares to be taken by him on formation, and
+> - (b) the amount to be paid up and the amount (if any) to be unpaid on each share (whether on account of the nominal value of the share or by way of premium).
+> 
+> (5) Where a subscriber to the memorandum is to take shares of more than one class, the information required under subsection (4)(a) is required for each class.
 
 s 8(1)(b): each subscriber to the memorandum must take at least one share in the company.
 
@@ -758,31 +731,27 @@ Replace MAs with bespoke or tailor-made articles. Submit complete set of new art
 
 It is possible to include provisions in the company’s articles which are entrenched (s 22). The inclusion of such entrenched provisions must be notified to the Registrar on the application (s 23).
 
-```ad-statute
-title: Entrenched provisions of the articles
-
-(1) A company's articles may contain provision (“provision for entrenchment”) to the effect that specified provisions of the articles may be amended or repealed only if conditions are met, or procedures are complied with, that are more restrictive than those applicable in the case of a special resolution.
-
-(2) Provision for entrenchment may only be made—
-- (a) in the company's articles on formation, or
-- (b) by an amendment of the company's articles agreed to by all the members of the company.
-
-(3) Provision for entrenchment does not prevent amendment of the company's articles—
-- (a) by agreement of all the members of the company, or
-- (b) by order of a court or other authority having power to alter the company's articles.
-
-(4) Nothing in this section affects any power of a court or other authority to alter a company's articles.
-```
+> [!statute] Entrenched provisions of the articles
+> 
+> (1) A company's articles may contain provision (“provision for entrenchment”) to the effect that specified provisions of the articles may be amended or repealed only if conditions are met, or procedures are complied with, that are more restrictive than those applicable in the case of a special resolution.
+> 
+> (2) Provision for entrenchment may only be made—
+> - (a) in the company's articles on formation, or
+> - (b) by an amendment of the company's articles agreed to by all the members of the company.
+> 
+> (3) Provision for entrenchment does not prevent amendment of the company's articles—
+> - (a) by agreement of all the members of the company, or
+> - (b) by order of a court or other authority having power to alter the company's articles.
+> 
+> (4) Nothing in this section affects any power of a court or other authority to alter a company's articles.
 
 ## Memorandum of Association
 
 s 9(1) CA: must be submitted together with application for registration and the articles (if required).
 
-```ad-guid
-title: Memorandum
-- Must state that the subscribers wish to form a company and that they agree to become be members of the company taking at least one share each (s 8).
-- Must be in the form set out in Companies (Registration) Regulations 2008 (SI 2008/3014)
-```
+> [!guid] Memorandum
+> - Must state that the subscribers wish to form a company and that they agree to become be members of the company taking at least one share each (s 8).
+> - Must be in the form set out in Companies (Registration) Regulations 2008 (SI 2008/3014)
 
 In a 1985 Act company, this document sets out the identity of the proposed first shareholders and also the number of shares they propose to take on incorporation.
 
@@ -819,22 +788,20 @@ s 14: if everything is in order, the Registrar will issue a certificate of incor
 
 ## Certificate of Incorporation
 
-```ad-statute
-title: s 15 - Issue of certificate of incorporation
-
-(1) On the registration of a company, the registrar of companies shall give a certificate that the company is incorporated.
-
-(2) The certificate must state—
-- (a) the name and registered number of the company,
-- (b) the date of its incorporation,
-- (c) whether it is a limited or unlimited company, and if it is limited whether it is limited by shares or limited by guarantee,
-- (d) whether it is a private or a public company, and
-- (e) whether the company's registered office is situated in England and Wales (or in Wales), in Scotland or in Northern Ireland.
-
-(3) The certificate must be signed by the registrar or authenticated by the registrar's official seal.
-
-(4) The certificate is conclusive evidence that the requirements of this Act as to registration have been complied with and that the company is duly registered under this Act.
-```
+> [!statute] s 15 - Issue of certificate of incorporation
+> 
+> (1) On the registration of a company, the registrar of companies shall give a certificate that the company is incorporated.
+> 
+> (2) The certificate must state—
+> - (a) the name and registered number of the company,
+> - (b) the date of its incorporation,
+> - (c) whether it is a limited or unlimited company, and if it is limited whether it is limited by shares or limited by guarantee,
+> - (d) whether it is a private or a public company, and
+> - (e) whether the company's registered office is situated in England and Wales (or in Wales), in Scotland or in Northern Ireland.
+> 
+> (3) The certificate must be signed by the registrar or authenticated by the registrar's official seal.
+> 
+> (4) The certificate is conclusive evidence that the requirements of this Act as to registration have been complied with and that the company is duly registered under this Act.
 
 - s 1066: the company is given a registered number.
 - A new public company must also be issued with a trading certificate by the Registrar of Companies before it can do business or use its borrowing powers.
@@ -843,25 +810,23 @@ title: s 15 - Issue of certificate of incorporation
 
 The company becomes a **separate legal person**.
 
-```ad-statute
-title: s 16 - Effect of registration
-
-(1) The registration of a company has the following effects as from the date of incorporation.
-
-(2) The subscribers to the memorandum, together with such other persons as may from time to time become members of the company, are a body corporate by the name stated in the certificate of incorporation.
-
-(3) That body corporate is capable of exercising all the functions of an incorporated company.
-
-(4) The status and registered office of the company are as stated in, or in connection with, the application for registration.
-
-(5) In the case of a company having a share capital, the subscribers to the memorandum become holders of the shares specified in the statement of capital and initial shareholdings.
-
-(6) The persons named in the statement of proposed officers—
-- (a) as director, or
-- (b) as secretary or joint secretary of the company,
-
-are deemed to have been appointed to that office.
-```
+> [!statute] s 16 - Effect of registration
+> 
+> (1) The registration of a company has the following effects as from the date of incorporation.
+> 
+> (2) The subscribers to the memorandum, together with such other persons as may from time to time become members of the company, are a body corporate by the name stated in the certificate of incorporation.
+> 
+> (3) That body corporate is capable of exercising all the functions of an incorporated company.
+> 
+> (4) The status and registered office of the company are as stated in, or in connection with, the application for registration.
+> 
+> (5) In the case of a company having a share capital, the subscribers to the memorandum become holders of the shares specified in the statement of capital and initial shareholdings.
+> 
+> (6) The persons named in the statement of proposed officers—
+> - (a) as director, or
+> - (b) as secretary or joint secretary of the company,
+> 
+> are deemed to have been appointed to that office.
 
 s 7(2): a company must not be formed for an unlawful purpose. If by mistake the Registrar registers a company which breaches this rule, then the company may be stuck off the register by the court and it will be wound up.
 
@@ -942,18 +907,15 @@ Shelf companies are available to purchase from company formation agents or law f
 
 ## Promoters
 
-```ad-defn
-title: Promoter
-One who undertakes to form a company with reference to a given project and to set it going, and who takes the necessary steps to accomplish that purpose ([[Twycross v Grant (1877) 2 CPD 469]])
-```
+> [!defn] Promoter
+> One who undertakes to form a company with reference to a given project and to set it going, and who takes the necessary steps to accomplish that purpose ([[Twycross v Grant (1877) 2 CPD 469]])
 
 Note, this does not include professional advisers who help set up the company.
 
 ### Fiduciary Duty
 
-```ad-important
-A promoter is placed in a **fiduciary relationship** with the company once it has formed. 
-```
+> [!important]
+> A promoter is placed in a **fiduciary relationship** with the company once it has formed. 
 
 The primary fiduciary duty of the promoter is not to make a ‘secret profit’ when forming the company.
 
@@ -976,16 +938,12 @@ To become a shareholder in a private company (s 112):
 
 Persons who signed the [[Memorandum]] of association as 'subscribers' automatically become the first shareholders of the company when the Registrar of Companies issues the certificate of incorporation (ss 112(1) & 16(5)).
 
-```ad-statute
-title: s 112 - The members of a company 
-(1) The subscribers of a company's memorandum are deemed to have agreed to become members of the company, and on its registration become members and must be entered as such in its register of members.
-(2) Every other person who agrees to become a member of a company, and whose name is entered in its register of members, is a member of the company.
-```
+> [!statute] s 112 - The members of a company
+> (1) The subscribers of a company's memorandum are deemed to have agreed to become members of the company, and on its registration become members and must be entered as such in its register of members.
+> (2) Every other person who agrees to become a member of a company, and whose name is entered in its register of members, is a member of the company.
 
-```ad-statute
-title: s 16(5) - Effect of registration 
-In the case of a company having a share capital, the subscribers to the memorandum become holders of the shares specified in the statement of capital and initial shareholdings.
-```
+> [!statute] s 16(5) - Effect of registration
+> In the case of a company having a share capital, the subscribers to the memorandum become holders of the shares specified in the statement of capital and initial shareholdings.
 
 ### Buying Shares
 
@@ -1010,46 +968,42 @@ If a shareholder goes bankrupt, the bankrupt's property, including their shares,
 
 ## Register of Members
 
-```ad-statute
-title: s 113 - Register of members
-
-(1) Every company must keep a register of its members.
-
-(2) There must be entered in the register—
-- (a) the names and addresses of the members,
-- (b) the date on which each person was registered as a member, and
-- (c) the date at which any person ceased to be a member.
-
-(3) In the case of a company having a share capital, there must be entered in the register, with the names and addresses of the members, a statement of—
-- (a) the shares held by each member, distinguishing each share—
-	- (i) by its number (so long as the share has a number), and
-	- (ii) where the company has more than one class of issued shares, by its class, and
-- (b) the amount paid or agreed to be considered as paid on the shares of each member.
-
-(4) If the company has converted any of its shares into stock, and given notice of the conversion to the registrar, the register of members must show the amount and class of stock held by each member instead of the amount of shares and the particulars relating to shares specified above.
-
-(5) In the case of joint holders of shares or stock in a company, the company's register of members must state the names of each joint holder.
-
-In other respects joint holders are regarded for the purposes of this Chapter as a single member (so that the register must show a single address).
-
-(6) In the case of a company that does not have a share capital but has more than one class of members, there must be entered in the register, with the names and addresses of the members, a statement of the class to which each member belongs.
-
-(7) If a company makes default in complying with this section an offence is committed by—
-- (a) the company, and
-- (b) every officer of the company who is in default.
-
-(8) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
-```
+> [!statute] s 113 - Register of members
+> 
+> (1) Every company must keep a register of its members.
+> 
+> (2) There must be entered in the register—
+> - (a) the names and addresses of the members,
+> - (b) the date on which each person was registered as a member, and
+> - (c) the date at which any person ceased to be a member.
+> 
+> (3) In the case of a company having a share capital, there must be entered in the register, with the names and addresses of the members, a statement of—
+> - (a) the shares held by each member, distinguishing each share—
+> 	- (i) by its number (so long as the share has a number), and
+> 	- (ii) where the company has more than one class of issued shares, by its class, and
+> - (b) the amount paid or agreed to be considered as paid on the shares of each member.
+> 
+> (4) If the company has converted any of its shares into stock, and given notice of the conversion to the registrar, the register of members must show the amount and class of stock held by each member instead of the amount of shares and the particulars relating to shares specified above.
+> 
+> (5) In the case of joint holders of shares or stock in a company, the company's register of members must state the names of each joint holder.
+> 
+> In other respects joint holders are regarded for the purposes of this Chapter as a single member (so that the register must show a single address).
+> 
+> (6) In the case of a company that does not have a share capital but has more than one class of members, there must be entered in the register, with the names and addresses of the members, a statement of the class to which each member belongs.
+> 
+> (7) If a company makes default in complying with this section an offence is committed by—
+> - (a) the company, and
+> - (b) every officer of the company who is in default.
+> 
+> (8) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
 
 Note that the system is very different for publicly traded companies, which have thousands of shares held in electronic form.
 
-```ad-question
-title: Can [[Private companies]] elect not to keep their own register of members?
-- Yes - s 128D(2) CA 2006 - if they ensure necessary information is filed and kept up-to-date on the Companies House central register. 
-- All shareholders must agree for this election to be valid (s 128B(2)(a)), and the Registrar of Companies must be notified (CA 2006, ss 128B(3) and 128C(1)). 
-- During the time that this election not to have a register of members is in force, the company must notify the Registrar of Companies as soon as is reasonably practicable of any information that otherwise would have gone into the register of members (s 128E(2)). 
-- This election can be withdrawn and the register of members reactivated following the procedure in s 128J.
-```
+> [!question] Can [[Private companies]] elect not to keep their own register of members?
+> - Yes - s 128D(2) CA 2006 - if they ensure necessary information is filed and kept up-to-date on the Companies House central register. 
+> - All shareholders must agree for this election to be valid (s 128B(2)(a)), and the Registrar of Companies must be notified (CA 2006, ss 128B(3) and 128C(1)). 
+> - During the time that this election not to have a register of members is in force, the company must notify the Registrar of Companies as soon as is reasonably practicable of any information that otherwise would have gone into the register of members (s 128E(2)). 
+> - This election can be withdrawn and the register of members reactivated following the procedure in s 128J.
 
 ### Content and Form
 
@@ -1059,31 +1013,27 @@ title: Can [[Private companies]] elect not to keep their own register of members
 
 #### Single Shareholder
 
-```ad-statute
-title: s 123 - Single member companies
-(1) If a limited company is formed under this Act with only one member there shall be entered in the company's register of members, with the name and address of the sole member, a statement that the company has only one member.
-
-(2) If the number of members of a limited company falls to one, or if an unlimited company with only one member becomes a limited company on re-registration, there shall upon the occurrence of that event be entered in the company's register of members, with the name and address of the sole member—
-- (a) a statement that the company has only one member, and
-- (b) the date on which the company became a company having only one member.
-
-(3) If the membership of a limited company increases from one to two or more members, there shall upon the occurrence of that event be entered in the company's register of members, with the name and address of the person who was formerly the sole member—
-- (a) a statement that the company has ceased to have only one member, and
-- (b) the date on which that event occurred.
-```
+> [!statute] s 123 - Single member companies
+> (1) If a limited company is formed under this Act with only one member there shall be entered in the company's register of members, with the name and address of the sole member, a statement that the company has only one member.
+> 
+> (2) If the number of members of a limited company falls to one, or if an unlimited company with only one member becomes a limited company on re-registration, there shall upon the occurrence of that event be entered in the company's register of members, with the name and address of the sole member—
+> - (a) a statement that the company has only one member, and
+> - (b) the date on which the company became a company having only one member.
+> 
+> (3) If the membership of a limited company increases from one to two or more members, there shall upon the occurrence of that event be entered in the company's register of members, with the name and address of the person who was formerly the sole member—
+> - (a) a statement that the company has ceased to have only one member, and
+> - (b) the date on which that event occurred.
 
 #### Entering Information
 
 ##### Promptness
 
-```ad-statute
-title: s 771(1)
-When a transfer of shares in or debentures of a company has been lodged with the company, the company must either—
-- (a) register the transfer, or
-- (b) give the transferee notice of refusal to register the transfer, together with its reasons for the refusal,
-
-as soon as practicable and in any event within two months after the date on which the transfer is lodged with it. 
-```
+> [!statute] s 771(1)
+> When a transfer of shares in or debentures of a company has been lodged with the company, the company must either—
+> - (a) register the transfer, or
+> - (b) give the transferee notice of refusal to register the transfer, together with its reasons for the refusal,
+> 
+> as soon as practicable and in any event within two months after the date on which the transfer is lodged with it. 
 
 ##### Prospective Shareholder Status
 
@@ -1105,26 +1055,24 @@ It may at the same time order the company to pay damages to a wronged person and
 
 Under s 114(1), where the company does not keep this information on the public register at Companies House, the register of members must be kept either at the company’s registered office, or at its ‘single alternative inspection location’ (SAIL) if specified under s 1136.
 
-```ad-statute
-title: s 116 - Rights to inspect and require copies
-
-(1) The register and the index of members' names must be open to the inspection—
-- (a) of any member of the company without charge, and
-- (b) of any other person on payment of such fee as may be prescribed.
-
-(2) Any person may require a copy of a company's register of members, or of any part of it, on payment of such fee as may be prescribed.
-
-(3) A person seeking to exercise either of the rights conferred by this section must make a request to the company to that effect.
-
-(4) The request must contain the following information—
-- (a) in the case of an individual, his name and address;
-- (b) in the case of an organisation, the name and address of an individual responsible for making the request on behalf of the organisation;
-- (c) the purpose for which the information is to be used; and
-- (d) whether the information will be disclosed to any other person, and if so—
-	- (i) where that person is an individual, his name and address,
-	- (ii) where that person is an organisation, the name and address of an individual responsible for receiving the information on its behalf, and
-	- (iii) the purpose for which the information is to be used by that person.
-```
+> [!statute] s 116 - Rights to inspect and require copies
+> 
+> (1) The register and the index of members' names must be open to the inspection—
+> - (a) of any member of the company without charge, and
+> - (b) of any other person on payment of such fee as may be prescribed.
+> 
+> (2) Any person may require a copy of a company's register of members, or of any part of it, on payment of such fee as may be prescribed.
+> 
+> (3) A person seeking to exercise either of the rights conferred by this section must make a request to the company to that effect.
+> 
+> (4) The request must contain the following information—
+> - (a) in the case of an individual, his name and address;
+> - (b) in the case of an organisation, the name and address of an individual responsible for making the request on behalf of the organisation;
+> - (c) the purpose for which the information is to be used; and
+> - (d) whether the information will be disclosed to any other person, and if so—
+> 	- (i) where that person is an individual, his name and address,
+> 	- (ii) where that person is an organisation, the name and address of an individual responsible for receiving the information on its behalf, and
+> 	- (iii) the purpose for which the information is to be used by that person.
 
 ##### Responding to Request
 
@@ -1135,10 +1083,8 @@ The company has five working days under s 117(1) of the CA 2006, either to:
 2. Apply to the court to disallow the request (if it thinks the request is not for a ‘proper purpose’) and thus prevent inspection or copying of the register.
 	- Onus is on the company to show that the request was made for an improper purpose ([[Burberry Group plc v Richard Charles Fox-Davies [2014] EWCA Civ 604]])
 
-```ad-note
-title: Rationale 
-To protect privacy of shareholders where company is involved in controversial work.
-```
+> [!note] Rationale
+> To protect privacy of shareholders where company is involved in controversial work.
 
 ##### Non-compliance Consequences
 
@@ -1154,13 +1100,12 @@ make a statement which is materially misleading, false or deceptive.
 
 s 790M of the CA 2006 requires companies to keep a ‘PSC register’ (Persons of Significant Control). The register must be made available for public inspection. Note that this requirement applies only to private companies and public companies that are not publicly traded.
 
-```ad-defn
-A person off significant control is an individual or ‘relevant legal entity’ (RLE) (s 790C(6)), who (s 790 & Sch 1A):
-1. owns $>25\%$ of the shares in the company (this would include non-voting shares, such as preference shares); or
-2. owns or controls $>25\%$ of the voting rights in the company (this would usually be ordinary shares); or
-3. has the right to appoint or remove a majority of the board of directors of the company; or
-4. has the right to exercise, or who actually exercises, significant influence or control over the company.
-```
+> [!defn]
+> A person off significant control is an individual or ‘relevant legal entity’ (RLE) (s 790C(6)), who (s 790 & Sch 1A):
+> 1. owns $>25\%$ of the shares in the company (this would include non-voting shares, such as preference shares); or
+> 2. owns or controls $>25\%$ of the voting rights in the company (this would usually be ordinary shares); or
+> 3. has the right to appoint or remove a majority of the board of directors of the company; or
+> 4. has the right to exercise, or who actually exercises, significant influence or control over the company.
 
 ### Obligation on Company
 
@@ -1254,12 +1199,11 @@ Breach of contract remedies available if parties breach terms. Advantages of put
 - The shareholder must also prove that they have been affected in their capacity as a shareholder, although this has been given a very wide interpretation ([[Gamlestaden Fastigheter v Baltic Partners Limited [2008] 1 BCLC 468]]).
 - It is not necessary to prove that the value of the shareholder’s shares has been adversely affected, although frequently this will happened
 
-```ad-example
-1. non-payment of dividends;
-2. directors awarding themselves excessive remuneration;
-3. directors exercising their powers for an improper purpose (eg to ‘freeze out’ a minority shareholder); and
-4. exclusion from management in a small company (eg one formed on the understanding that all those involved will share the running of the business and the profits).
-```
+> [!example]
+> 1. non-payment of dividends;
+> 2. directors awarding themselves excessive remuneration;
+> 3. directors exercising their powers for an improper purpose (eg to ‘freeze out’ a minority shareholder); and
+> 4. exclusion from management in a small company (eg one formed on the understanding that all those involved will share the running of the business and the profits).
 
 | Case                                                                                  | Ratio                                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1289,12 +1233,10 @@ Generally limited: directors control things day-to-day. The shareholders can cha
 
 Generally, the principle of majority rule governs companies.
 
-```ad-question
-title: What happens if directors breach their duties to the company?
-Rule in [[Foss v Harbottle [1843]]]:
-1. Proper claimant rule: the company, rather than shareholder, must bring a claim for a wrong done to the company. 
-2. Internal management rule: courts will not interfere with the internal management of a company acting within its powers. So when a wrong is alleged, it is for a majority of shareholders to decide whether to make a claim on behalf of the company or to ratify the wrong by ordinary resolution. 
-```
+> [!question] What happens if directors breach their duties to the company?
+> Rule in [[Foss v Harbottle [1843]]]:
+> 1. Proper claimant rule: the company, rather than shareholder, must bring a claim for a wrong done to the company. 
+> 2. Internal management rule: courts will not interfere with the internal management of a company acting within its powers. So when a wrong is alleged, it is for a majority of shareholders to decide whether to make a claim on behalf of the company or to ratify the wrong by ordinary resolution. 
 
 ### Statutory Protection
 
@@ -1322,9 +1264,8 @@ The company’s articles must be ‘bona fide for the benefit of the company as 
 
 See [[Derivative claims]]. There are circumstances in which a minority shareholder is permitted to bring a ‘derivative claim’ in the company’s name for a wrong committed against the company.
 
-```ad-warning
-This is an exception to the rule in [[Foss v Harbottle [1843]]]. Can only be used where the minority shareholder wishes to make a claim in respect of a wrong committed against them, rather than against the property. 
-```
+> [!warning]
+> This is an exception to the rule in [[Foss v Harbottle [1843]]]. Can only be used where the minority shareholder wishes to make a claim in respect of a wrong committed against them, rather than against the property. 
 
 A claim may be brought by any shareholder under s 260(3) of the CA 2006 for an actual or proposed act or omission involving negligence, default, breach of duty or breach of trust by a  
 director. There is no need to demonstrate any actual loss suffered by the company, or indeed any benefit gained by the directors.
@@ -1390,10 +1331,8 @@ Includes company secretary, directors, managers and auditors.
 
 ## Company Secretary
 
-```ad-statute
-title: s 270(1)
-A private company is not required to have a secretary.
-```
+> [!statute] s 270(1)
+> A private company is not required to have a secretary.
 
 The company secretary is an officer of the company (s 1121).
 
@@ -1411,33 +1350,31 @@ The company secretary is an officer of the company (s 1121).
 
 #### Register of Secretaries
 
-```ad-statute
-title: s 275 - Duty to keep register of secretaries
-
-(1) A company must keep a register of its secretaries.
-
-(2) The register must contain the required particulars (see sections 277 to 279) of the person who is, or persons who are, the secretary or joint secretaries of the company.
-
-(3) The register must be kept available for inspection—
-- (a) at the company's registered office, or
-- (b) at a place specified in regulations under section 1136.
-
-(4) The company must give notice to the registrar—
-- (a) of the place at which the register is kept available for inspection, and
-- (b) of any change in that place,
-
-unless it has at all times been kept at the company's registered office.
-
-(5) The register must be open to the inspection—
-- (a) of any member of the company without charge, and
-- (b) of any other person on payment of such fee as may be prescribed.
-
-(6) If default is made in complying with subsection (1), (2) or (3), or if default is made for 14 days in complying with subsection (4), or if an inspection required under subsection (5) is refused, an offence is committed by—
-- (a) the company, and
-- (b) every officer of the company who is in default.
-
-For this purpose a shadow director is treated as an officer of the company. 
-```
+> [!statute] s 275 - Duty to keep register of secretaries
+> 
+> (1) A company must keep a register of its secretaries.
+> 
+> (2) The register must contain the required particulars (see sections 277 to 279) of the person who is, or persons who are, the secretary or joint secretaries of the company.
+> 
+> (3) The register must be kept available for inspection—
+> - (a) at the company's registered office, or
+> - (b) at a place specified in regulations under section 1136.
+> 
+> (4) The company must give notice to the registrar—
+> - (a) of the place at which the register is kept available for inspection, and
+> - (b) of any change in that place,
+> 
+> unless it has at all times been kept at the company's registered office.
+> 
+> (5) The register must be open to the inspection—
+> - (a) of any member of the company without charge, and
+> - (b) of any other person on payment of such fee as may be prescribed.
+> 
+> (6) If default is made in complying with subsection (1), (2) or (3), or if default is made for 14 days in complying with subsection (4), or if an inspection required under subsection (5) is refused, an offence is committed by—
+> - (a) the company, and
+> - (b) every officer of the company who is in default.
+> 
+> For this purpose a shadow director is treated as an officer of the company. 
 
 Private companies can elect not to keep their own register, but to hold everything centrally with Companies House instead (s 279A).
 
@@ -1475,10 +1412,8 @@ Every private company must have at least one director (s 154(1)), and every publ
 
 company must have at least two (s 154(2)).
 
-```ad-statute
-title: s 250 - "Director"
-In the Companies Acts, “director” includes any person occupying the position of director, by whatever name called. 
-```
+> [!statute] s 250 - "Director"
+> In the Companies Acts, “director” includes any person occupying the position of director, by whatever name called. 
 
 ### Executive Director
 
@@ -1506,10 +1441,8 @@ NED can still be liable to the company, for example, for breach of their directo
 
 #### Shadow Director
 
-```ad-defn
-title: Shadow director
-A person in accordance with whose directions or instructions the directors of the company are accustomed to act.
-```
+> [!defn] Shadow director
+> A person in accordance with whose directions or instructions the directors of the company are accustomed to act.
 
 | Case | Ratio |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
@@ -1527,14 +1460,12 @@ Someone who assumes to act as a director but has in fact not been validly appoin
 
 Case law has held that such a person may fall within the definition of a ‘director’ under s 250(1) and under the IA 1986 (e.g., [[Re Hydrodam (Corby) Ltd [1994] 2 BCLC 180]]).
 
-```ad-test
-title: De facto director relevant factors
-1. Whether they have assumed responsibility to act as a director.
-2. Whether or not they acted as a director must be determined objectively. It does not matter whether the individual thought they were acting as a director.
-3. Whether the company considered the individual to be a director and held them out as such, and whether third parties considered that they were a director
-4. Look at the acts in their context and determine their cumulative effect.
-5. The fact that a person is consulted about directorial decisions, or is asked for approval, does not in general make them a director because they are not making the decision.
-```
+> [!test] De facto director relevant factors
+> 1. Whether they have assumed responsibility to act as a director.
+> 2. Whether or not they acted as a director must be determined objectively. It does not matter whether the individual thought they were acting as a director.
+> 3. Whether the company considered the individual to be a director and held them out as such, and whether third parties considered that they were a director
+> 4. Look at the acts in their context and determine their cumulative effect.
+> 5. The fact that a person is consulted about directorial decisions, or is asked for approval, does not in general make them a director because they are not making the decision.
 
 An individual director of a corporate director of another company is not a de facto director of that other company, and could therefore not be held personally liable for the unlawful payment of a dividend ([[Holland v The Commissioners for HMRC [2010] UKSC 51]]) – corporate veil.
 
@@ -1548,12 +1479,10 @@ Usually, another director can be appointed as an alternate director.
 
 It is possible to have a corporate director of a company [[(Holland v The Commissioners for HMRC [2010] UKSC 51]]). But subject to:
 
-```ad-statute
-title: s 155 - Companies required to have at least one director who is a natural person
-(1) A company must have at least one director who is a natural person.
-
-(2) This requirement is met if the office of director is held by a natural person as a corporation sole or otherwise by virtue of an office.
-```
+> [!statute] s 155 - Companies required to have at least one director who is a natural person
+> (1) A company must have at least one director who is a natural person.
+> 
+> (2) This requirement is met if the office of director is held by a natural person as a corporation sole or otherwise by virtue of an office.
 
 ##### Upcoming Changes
 
@@ -1574,35 +1503,30 @@ Directors appointed in accordance with the process set out in the articles.
 
 Articles may provide for the ineligibility of a director.
 
-```ad-example
-title: Art 18(d) MA
-A person ceases to be a director as soon as a registered medical practitioner who is treating that person gives a written opinion to the company stating that that person has become physically or mentally incapable of acting as a director and may remain so for more than three months.
-```
+> [!example] Art 18(d) MA
+> A person ceases to be a director as soon as a registered medical practitioner who is treating that person gives a written opinion to the company stating that that person has become physically or mentally incapable of acting as a director and may remain so for more than three months.
 
 ##### Procedure for Appointment
 
 CA 2006 does not stipulate a procedure for appointing directors, so this is generally governed by the Articles of the company. MA deals with this as follows:
 
-```ad-statute
-title: MA 17
-(1) Any person who is willing to act as a director, and is permitted by law to do so, may be appointed to be a director—
-- (a) by ordinary resolution, or
-- (b) by a decision of the directors.
-```
+> [!statute] MA 17
+> (1) Any person who is willing to act as a director, and is permitted by law to do so, may be appointed to be a director—
+> - (a) by ordinary resolution, or
+> - (b) by a decision of the directors.
 
 Decision of directors is usually used since this is easier. But ALWAYS check the Articles for any modifications.
 
 ###### Ordinary Resolution
 
-```ad-action
-1. Special notice of the resolution to appoint a new director must be given by the proposing shareholders, as required by s 168(2).
-2. Ordinary resolution
-3. Send to registrar a statement by the company that the person has consented to act in that capacity (s 167(2)(b)).
-	- For the first director or directors of the company, this is set out on Form IN01 (see 3.8.1 above). 
-	- For directors appointed after incorporation, the company must sign the statement on Form AP01 (individual) or on Form AP02 (corporate)
-4. As soon as reasonably practicable after the notification of appointment of a new director has been made, the Registrar of Companies must send information on the roles and duties of a director to that director (s 1079B)
-5. Also if the director is an employee, need to satisfy service contract formalities. 
-```
+> [!action]
+> 1. Special notice of the resolution to appoint a new director must be given by the proposing shareholders, as required by s 168(2).
+> 2. Ordinary resolution
+> 3. Send to registrar a statement by the company that the person has consented to act in that capacity (s 167(2)(b)).
+> 	- For the first director or directors of the company, this is set out on Form IN01 (see 3.8.1 above). 
+> 	- For directors appointed after incorporation, the company must sign the statement on Form AP01 (individual) or on Form AP02 (corporate)
+> 4. As soon as reasonably practicable after the notification of appointment of a new director has been made, the Registrar of Companies must send information on the roles and duties of a director to that director (s 1079B)
+> 5. Also if the director is an employee, need to satisfy service contract formalities. 
 
 MERMAID2
 
@@ -1626,10 +1550,8 @@ There is a multi-layered legal relationship between directors and their company 
 
  Broad general authority, e.g.,
 
-```ad-statute
-title: MA 3 - Directors' General Authority
-Subject to the articles, the directors are responsible for the management of the company’s business, for which purpose they may exercise all the powers of the company.
-```
+> [!statute] MA 3 - Directors' General Authority
+> Subject to the articles, the directors are responsible for the management of the company’s business, for which purpose they may exercise all the powers of the company.
 
 #### Joint
 
@@ -1641,12 +1563,10 @@ There are certain decisions for which shareholders hold a veto, e.g., substantia
 
 Shareholders have a reserve power:
 
-```ad-statute
-title: MA 4
-(1) The shareholders may, by special resolution, direct the directors to take, or refrain from taking, specified action.
-
-(2) No such special resolution invalidates anything which the directors have done before the passing of the resolution.
-```
+> [!statute] MA 4
+> (1) The shareholders may, by special resolution, direct the directors to take, or refrain from taking, specified action.
+> 
+> (2) No such special resolution invalidates anything which the directors have done before the passing of the resolution.
 
 #### Delegation of Power
 
@@ -1665,9 +1585,8 @@ MERMAID3
 
 ### Actual Authority
 
-```ad-defn
-Actual authority is where the principal (the company) gives the agent (the director) specific prior consent to the agent’s actions.
-```
+> [!defn]
+> Actual authority is where the principal (the company) gives the agent (the director) specific prior consent to the agent’s actions.
 
 > An ‘actual’ authority is a legal relationship between principal and agent created by a consensual agreement to which they alone are the parties. … To this agreement the third party is a stranger; he may be totally ignorant of the existence of any authority on the part of the agent. Nevertheless, if the agent does enter into a contract pursuant to the ‘actual’ authority, it does create contractual rights and liabilities between the principal and the third party.  
 > [[Freeman and Lockyer v Buckhurst Park Properties (Mangal) Ltd [1964] 2 QB 480]]
@@ -1684,9 +1603,8 @@ May be express or implied.
 
 ### Apparent Authority
 
-```ad-defn
-Apparent authority is where the agent (the director) acts without the principal’s (the company) prior consent but still binds the principal (the company) in the contract with the third party. **The principal (the company) is estopped from denying the agent’s (the director) authority.**
-```
+> [!defn]
+> Apparent authority is where the agent (the director) acts without the principal’s (the company) prior consent but still binds the principal (the company) in the contract with the third party. **The principal (the company) is estopped from denying the agent’s (the director) authority.**
 
 > An ‘apparent’ authority, on the other hand, is a legal relationship between the principal and the third party created by a representation, made by the principal to the third party, intended to be and in fact acted on by the third party, that the agent has authority … To the relationship so created, the agent is a stranger.  
 > [[Freeman and Lockyer v Buckhurst Park Properties (Mangal) Ltd [1964] 2 QB 480]]
@@ -1695,9 +1613,8 @@ Apparent authority cannot arise by the agent's own actions, only by those of the
 
 **Ostensible or apparent authority arises where there has been some holding out or representation on which a third party has relied that the agent acting on the company's behalf had authority to enter into the contract in question.**
 
-```ad-example
-If a company appoints A as a finance director, from the perspective of a third party, A almost certainly has apparent authority to enter into a contract for a purchase order, deriving from his position as finance director.
-```
+> [!example]
+> If a company appoints A as a finance director, from the perspective of a third party, A almost certainly has apparent authority to enter into a contract for a purchase order, deriving from his position as finance director.
 
 The agent has no actual authority but can still bind the principal. Three cases:
 
@@ -1820,10 +1737,8 @@ An executive director is an employee of the company, so should be given a writte
 
 The board has authority to enter service contracts with directors (e.g., MA 3 & 19).
 
-```ad-question
-title: Does the director need to declare a conflict of interest when their service contract is discussed?
-No, a formal declaration to the board of a personal interest will not be necessary due to s 177(6).
-```
+> [!question] Does the director need to declare a conflict of interest when their service contract is discussed?
+> No, a formal declaration to the board of a personal interest will not be necessary due to s 177(6).
 
 - The director will often be prevented under the articles from voting and counting in the quorum for that board meeting for reasons of fairness.
 - But this can create problems if there are only two directors, and the quorum for board meetings is two.
@@ -1859,33 +1774,31 @@ A service contract is defined in s 227(1) to include a contract under which the 
 
 ### Register of Directors
 
-```ad-statute
-title: s 162 - Register of directors
-
-(1) Every company must keep a register of its directors.
-
-(2) The register must contain the required particulars (see sections 163, 164 and 166) of each person who is a director of the company.
-
-(3) The register must be kept available for inspection—
-- (a) at the company's registered office, or
-- (b) at a place specified in regulations under section 1136.
-
-(4) The company must give notice to the registrar—
-- (a) of the place at which the register is kept available for inspection, and
-- (b) of any change in that place,
-
-unless it has at all times been kept at the company's registered office.
-
-(5) The register must be open to the inspection—
-- (a) of any member of the company without charge, and
-- (b) of any other person on payment of such fee as may be prescribed.
-
-(6) If default is made in complying with subsection (1), (2) or (3) or if default is made for 14 days in complying with subsection (4), or if an inspection required under subsection (5) is refused, an offence is committed by—
-- (a) the company, and
-- (b) every officer of the company who is in default.
-
-For this purpose a shadow director is treated as an officer of the company. 
-```
+> [!statute] s 162 - Register of directors
+> 
+> (1) Every company must keep a register of its directors.
+> 
+> (2) The register must contain the required particulars (see sections 163, 164 and 166) of each person who is a director of the company.
+> 
+> (3) The register must be kept available for inspection—
+> - (a) at the company's registered office, or
+> - (b) at a place specified in regulations under section 1136.
+> 
+> (4) The company must give notice to the registrar—
+> - (a) of the place at which the register is kept available for inspection, and
+> - (b) of any change in that place,
+> 
+> unless it has at all times been kept at the company's registered office.
+> 
+> (5) The register must be open to the inspection—
+> - (a) of any member of the company without charge, and
+> - (b) of any other person on payment of such fee as may be prescribed.
+> 
+> (6) If default is made in complying with subsection (1), (2) or (3) or if default is made for 14 days in complying with subsection (4), or if an inspection required under subsection (5) is refused, an offence is committed by—
+> - (a) the company, and
+> - (b) every officer of the company who is in default.
+> 
+> For this purpose a shadow director is treated as an officer of the company. 
 
 There are different particulars to be entered depending on whether the director is a human or corporate director – see ss 163 & 164.
 
@@ -1946,9 +1859,8 @@ Possible for company to insert a 'Bushell v Faith' clause into its articles: see
 
 Might seem contrary to s 168 CA 2006. But such weighted voting clauses allowed because requirement for ordinary resolution not changed, just that way votes are amassed make it easier for director/ shareholder to survive. They represent an internal agreement amongst shareholders as to the weight their vote carries on a specific resolution.
 
-```ad-action
-Check whether it is possible to remove the Bushell v Faith clause by passing a special resolution under s 21 CA 2006 at a GM, or whether the director has weighted voting rights for this. 
-```
+> [!action]
+> Check whether it is possible to remove the Bushell v Faith clause by passing a special resolution under s 21 CA 2006 at a GM, or whether the director has weighted voting rights for this. 
 
 Also check directors' service contract – can be expensive to get rid of the director.
 
@@ -2125,13 +2037,11 @@ To claim a statutory redundancy payment, an employee must prove:
 
 This raises a presumption that they have been dismissed for redundancy. An employee may be show a reason other than redundancy, but then this may lead to a claim for unfair dismissal.
 
-```ad-defn
-title: Redundancy
-s 139 ERA 1996: redundancy involves either:
-1. Complete closedown of the business
-2. Partial closedown of the business
-3. Overmanning or a change in the type of work undertaken.
-```
+> [!defn] Redundancy
+> s 139 ERA 1996: redundancy involves either:
+> 1. Complete closedown of the business
+> 2. Partial closedown of the business
+> 3. Overmanning or a change in the type of work undertaken.
 
 An employee may lose their entitlement if they unreasonably refuse an offer of suitable alternative employment.
 

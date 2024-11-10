@@ -11,9 +11,8 @@ Kennedy supplied a dose of heroin in a syringe, which he handed to the victim, w
 
 The question certified by the Court of Appeal for the consideration of the House following Kennedy's second appeal was as follows:
 
-```ad-question
-'When is it appropriate to find someone guilty of manslaughter where that person has been involved in the supply of a class A controlled drug, which is then freely and voluntarily self-administered by the person to whom it was supplied, and the administration of the drug then causes his death?’
-```
+> [!question]
+> 'When is it appropriate to find someone guilty of manslaughter where that person has been involved in the supply of a class A controlled drug, which is then freely and voluntarily self-administered by the person to whom it was supplied, and the administration of the drug then causes his death?’
 
 The answer given by the House of Lords was emphatic:
 

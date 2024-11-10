@@ -9,9 +9,8 @@ date modified: Sunday, December 10th 2023, 12:38:39 am
 
 ## Bank Deposits
 
-```ad-important
-A bank is not a trustee of money deposited by its customers. Rather it is a debtor in respect of those deposits.
-```
+> [!important]
+> A bank is not a trustee of money deposited by its customers. Rather it is a debtor in respect of those deposits.
 
 Key case: [[Foley v Hill (1848) 11 HLC 2]]
 
@@ -28,9 +27,8 @@ The best example of a device which combines a debt and a trust is a “Quistclos
 
 This was applied in [[Twinsectra Ltd v Yardley [2002] UKHL 12]]. Twinsectra is the most important case on Quistclose trusts as it makes clear that it is not sufficient to demonstrate that money was advanced to the borrower for a particular purpose. Rather, it is necessary to demonstrate the parties’ mutual intention that the money could only be applied for the purpose and was not at the free disposal of the borrower. It is this feature of the transaction which generates the trust in favour of the lender.  
 
-```ad-tip
-A Quistclose trust does not arise where money is paid for a purpose but is at the recipient’s free disposal.
-```
+> [!tip]
+> A Quistclose trust does not arise where money is paid for a purpose but is at the recipient’s free disposal.
 
 Twinsectra also provides helpful guidance on the requirement for certainty of purpose:  
 

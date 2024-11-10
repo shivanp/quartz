@@ -67,9 +67,8 @@ Steps:
 | Phase 2              | Made by an inquiry group of $\geq 3$ people selected from independent experts appointed to CMA panel by SoS. Investigations must be completed within 24 weeks of the date the reference is made, subject to a possible 8 week extension.                                                        |
 | Post-phases         | CMA has the power to discuss remedies with the parties to the merger. Parties may offer formal undertakings to the CMA if this will secure approval for the transaction.                                                                                                                                                                                                                                                                                                 |
 
-```ad-note
-There are proposals requiring mandatory notification of mergers above a certain threshold, and "standstill obligations" to halt the transaction until CMA approval is granted. But not yet in effect. 
-```
+> [!note]
+> There are proposals requiring mandatory notification of mergers above a certain threshold, and "standstill obligations" to halt the transaction until CMA approval is granted. But not yet in effect. 
 
 ### National Security and Investment Act 2021
 
@@ -77,17 +76,15 @@ Gives the UK Govt the ability to intervene in M&A threatening national security.
 
 Applies to businesses of any size and both UK and non-UK acquirers. Proposed transactions in “high-risk” sectors (nuclear, military, communications) require mandatory notification; other notification is voluntary.
 
-```ad-note
-June 2020: Enterprise Act 2002 amended to allow Govt. to intervene on public interest grounds in any transaction falling within the UK merger control regime, where the business is considered important to efforts to combat public health emergencies. 
-```
+> [!note]
+> June 2020: Enterprise Act 2002 amended to allow Govt. to intervene on public interest grounds in any transaction falling within the UK merger control regime, where the business is considered important to efforts to combat public health emergencies. 
 
 ## European Merger Control
 
 ### European Regulation 139/2004
 
-```ad-important
-The EU Merger Regulation will apply if the merger constitutes a concentration within a Union dimension. 
-```
+> [!important]
+> The EU Merger Regulation will apply if the merger constitutes a concentration within a Union dimension. 
 
 Pre-Brexit, if the merger fulfilled these criteria, the EU Merger Regulation applied, to the exclusion of any national competition law rules, and the European Commission had exclusive jurisdiction.
 
@@ -119,13 +116,11 @@ Under Article 1(3):
 3. In each of at least three Member States included for the purpose of point (b), the aggregate turnover of each of at least two of the undertakings concerned is more than €25 million (i.e. both the buyer and seller is >25m); and
 4. The aggregate Union-wide turnover of each of at least two of the undertakings concerned is more than €100 million.
 
-```ad-warning
-Aggregate means aggregate within the company. Combined means between buyer and seller. 
-```
+> [!warning]
+> Aggregate means aggregate within the company. Combined means between buyer and seller. 
 
-```ad-note
-Even if the merger does not have a Union dimension, the EU Merger Regulation provides that the parties can request the European Commission to take jurisdiction over the transaction if the merger is capable of being reviewed under the national competition laws of at least three Member States.
-```
+> [!note]
+> Even if the merger does not have a Union dimension, the EU Merger Regulation provides that the parties can request the European Commission to take jurisdiction over the transaction if the merger is capable of being reviewed under the national competition laws of at least three Member States.
 
 #### Two-thirds Rule
 
@@ -150,9 +145,8 @@ A Member State can intervene to request repatriation of a case if it can demonst
 1. To protect legitimate interests, or
 2. Because the merger significantly threatened competition in a distinct market in the Member State.
 
-```ad-tip
-CMA is likely to concurrently review mergers which are caught by the EU Merger Regulation. 
-```
+> [!tip]
+> CMA is likely to concurrently review mergers which are caught by the EU Merger Regulation. 
 
 ## Acquisition Procedure
 
@@ -292,9 +286,8 @@ But in Germany and the Netherlands, can claim damages for loss of opportunity in
 
 A buyer may be reluctant to spend time and money undertaking a full investigation into the target unless granted an exclusive bargaining right for a certain period. An agreement not to negotiate with anyone else (“lock-out agreements”) for a fixed period is enforceable provided it is sufficiently certain ([[Walford v Miles [1992] 2 WLR 174]]). But held in that case that agreements to negotiate in good faith (“lock-in agreements”), even those with a time-limit, are unenforceable because they are too uncertain.
 
-```ad-important
-An undertaking for a limited period of time to negotiate in good faith can be enforceable if the obligation is sufficiently certain. In [[Petromec Inc Petro Deep Societa Armanmento SpA v Petroleo Brasilerio SpA [2005] EWCA Civ 891]], held that an undertaking to to ‘negotiate in good faith’ on costs, set out in a formally negotiated document as part a series of binding contracts, was enforceable. This obligation was held not to be inconsistent with the ruling in Walford as the obligation was narrow in context, the terms were objectively ascertainable and it was part of a series of binding agreements.
-```
+> [!important]
+> An undertaking for a limited period of time to negotiate in good faith can be enforceable if the obligation is sufficiently certain. In [[Petromec Inc Petro Deep Societa Armanmento SpA v Petroleo Brasilerio SpA [2005] EWCA Civ 891]], held that an undertaking to to ‘negotiate in good faith’ on costs, set out in a formally negotiated document as part a series of binding contracts, was enforceable. This obligation was held not to be inconsistent with the ruling in Walford as the obligation was narrow in context, the terms were objectively ascertainable and it was part of a series of binding agreements.
 
 The exclusivity clause should include a remedy in the event of a breach; usually the recovery of costs incurred in pursuing the acquisition. Unclear whether costs incurred before the execution of the lock-out agreement would be covered by such a provision. The English case of [[Radiant Shipping Co and Sea Containers [1995] CLC 976]] provided that costs incurred before the execution of the agreement could be recovered if this was expressly provided for, as long as it did not amount to a penalty.
 
@@ -306,10 +299,9 @@ Need:
 2. Consideration for the promise
 3. Framed as a lock-out clause.
 
-```ad-action
-- Express exclusivity clause as an agreement not to negotiate with anyone else for a fixed period. 
-- Provision for the remedy should allow for the recovery of all expenses, whether incurred before or after execution of the exclusivity provision.
-```
+> [!action]
+> - Express exclusivity clause as an agreement not to negotiate with anyone else for a fixed period. 
+> - Provision for the remedy should allow for the recovery of all expenses, whether incurred before or after execution of the exclusivity provision.
 
 In Europe, lock-ins are acceptable in certain jurisdictions. Additionally, the duty to negotiate in good faith complicates things.
 

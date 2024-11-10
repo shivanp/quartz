@@ -12,9 +12,8 @@ Summary of conduct issues most likely to be encountered in a conveyancing transa
 
 ## Acting for Seller and Buyer
 
-```ad-question
-Can a solicitor act for both the buyer and seller in a conveyancing transaction?
-```
+> [!question]
+> Can a solicitor act for both the buyer and seller in a conveyancing transaction?
 
 Occasionally, the parties to a conveyancing transaction ask if one solicitor or one firm of solicitors can act for both parties. The parties usually request this as a way of saving duplication of time and expense.
 
@@ -44,11 +43,10 @@ If there is a conflict, or a significant risk of one, the solicitor or firm can 
 - The other exception to the general prohibition in para 6.2 is contained in para 6.2(b) and applies when the clients are competing for the same objective.
 	- This cannot apply to a seller and buyer in a conveyancing transaction as they are not competing for the same asset and therefore do not satisfy the definition of ‘competing for the same objective’.
 
-```ad-summary
-So a solicitor or firm may only act for both parties in a conveyancing transaction in the rare instances where they are satisfied that there is no existing conflict of interest and no significant risk of a conflict arising in future, or there is a conflict of interest but the parties share a substantially common interest. This will be difficult to establish where the land or interest in land is being transferred for value.
-
-Many solicitors and firms therefore take the view that it is best never to act for both buyer and seller in a property transaction, even where this could be justified under the SRA Codes.
-```
+> [!summary]
+> So a solicitor or firm may only act for both parties in a conveyancing transaction in the rare instances where they are satisfied that there is no existing conflict of interest and no significant risk of a conflict arising in future, or there is a conflict of interest but the parties share a substantially common interest. This will be difficult to establish where the land or interest in land is being transferred for value.
+> 
+> Many solicitors and firms therefore take the view that it is best never to act for both buyer and seller in a property transaction, even where this could be justified under the SRA Codes.
 
 ### Steps to Take if You Act
 
@@ -69,32 +67,27 @@ It is usually acceptable to act for joint buyers. It may be necessary to advise 
 
 As soon as the buyer’s solicitor receives instructions to act for the lender, they are effectively acting for both parties in one transaction (i.e., for both lender and borrower). They have two clients and owe a duty to both (see [[Mortgage Express v Bowerman & Partners (A Firm) [1996] 2 All ER 836]]). Acting for borrower and lender is possible unless, under para 6.2 of the SRA Codes, the solicitor or firm has a conflict of interest or a significant risk of a conflict.
 
-```ad-question
-title: When might there be a conflict between a buyer and lender?
-1. The terms of the mortgage offer are unfair to the borrower (e.g., an extortionate rate of interest is being charged);
-2. Instructions reveal that the buyer would be in breach of one of the terms of the offer (e.g., by allowing tenants into possession of the property);
-3. The buyer is unable to comply with the lender’s terms (e.g., to provide the balance of the purchase price from his own funds);
-4. The mortgage documentation requires negotiation between the parties (but see below). 
-```
+> [!question] When might there be a conflict between a buyer and lender?
+> 1. The terms of the mortgage offer are unfair to the borrower (e.g., an extortionate rate of interest is being charged);
+> 2. Instructions reveal that the buyer would be in breach of one of the terms of the offer (e.g., by allowing tenants into possession of the property);
+> 3. The buyer is unable to comply with the lender’s terms (e.g., to provide the balance of the purchase price from his own funds);
+> 4. The mortgage documentation requires negotiation between the parties (but see below). 
 
 Note that (4) is more finely balanced. In residential transactions, the borrower will often be borrowing from a high street bank or building society, where the mortgage is offered on standard terms and conditions. Arguably, there is either no conflict of interest or, if there is, there is a ‘substantially common interest’ under para 6.2 in that both the borrower and the lender want a good and marketable title to the property to be acquired.
 
-```ad-guid
-title: Law Society guidance (June 2020) 
-It may be acceptable to act for both borrower and lender where:
-1. the mortgage is on standard terms, 
-2. a significant part of the lender’s activities consists of lending, 
-3. the mortgaged property is the borrower’s private residence and 
-4. the certificate of title required by the lender is in the form approved by the Law Society and UK Finance.
-
-The risk of conflict is high ‘if the mortgage is not a standard mortgage … of property to be used as the borrower’s private residence’.
-```
+> [!guid] Law Society guidance (June 2020)
+> It may be acceptable to act for both borrower and lender where:
+> 1. the mortgage is on standard terms, 
+> 2. a significant part of the lender’s activities consists of lending, 
+> 3. the mortgaged property is the borrower’s private residence and 
+> 4. the certificate of title required by the lender is in the form approved by the Law Society and UK Finance.
+> 
+> The risk of conflict is high ‘if the mortgage is not a standard mortgage … of property to be used as the borrower’s private residence’.
 
 Sometimes, the lender may ask the borrower’s solicitor to act for both the lender and the borrower on the title investigation and searches and enquiries but instruct its own solicitors to negotiate the loan documentation.
 
-```ad-warning
-If a solicitor is aware that their buyer client is attempting to perpetrate a mortgage fraud, they must stop acting for that client immediately and their duty of confidentiality to the buyer client is discharged. 
-```
+> [!warning]
+> If a solicitor is aware that their buyer client is attempting to perpetrate a mortgage fraud, they must stop acting for that client immediately and their duty of confidentiality to the buyer client is discharged. 
 
 ## Acting for Joint Borrowers
 
@@ -102,14 +95,12 @@ Provided no conflict of interest exists or is likely to exist, there is no rule 
 
 The House of Lords, in the case of [[RBS v Etridge (No 2) [2002] 2 AC 773]] laid down detailed guidance for solicitors acting in such a situation.
 
-```ad-summary
-title: Recall
-- The burden of proof that a landowner entered into a charge because of undue influence rests on the landowner.
-- Where there is a special relationship (parent and child; solicitor and client; but not husband and wife), there is a rebuttable presumption that there has been undue influence.
-- In the case of husband and wife, there is no such presumption. However, where a wife proposes to charge the matrimonial home as a security for a bank loan to her husband, or to a company through which he operates his business, a lender is put on enquiry because, prima facie, such transaction is not to the wife’s advantage.
-- Where the lender is put on such enquiry, it need do no more than take reasonable steps to satisfy itself that the practical implications of the proposed transaction have been explained and understood. 
-- This usually involves hiring a solicitor to advise the wife. 
-```
+> [!summary] Recall
+> - The burden of proof that a landowner entered into a charge because of undue influence rests on the landowner.
+> - Where there is a special relationship (parent and child; solicitor and client; but not husband and wife), there is a rebuttable presumption that there has been undue influence.
+> - In the case of husband and wife, there is no such presumption. However, where a wife proposes to charge the matrimonial home as a security for a bank loan to her husband, or to a company through which he operates his business, a lender is put on enquiry because, prima facie, such transaction is not to the wife’s advantage.
+> - Where the lender is put on such enquiry, it need do no more than take reasonable steps to satisfy itself that the practical implications of the proposed transaction have been explained and understood. 
+> - This usually involves hiring a solicitor to advise the wife. 
 
 Solicitor should ensure to:
 
@@ -118,13 +109,11 @@ Solicitor should ensure to:
 - Explain wife has a choice
 - Check whether wife wants the solicitor to write to the lender confirming that matters have been explained to her.
 
-```ad-question
-title: What if the solicitor thinks the transaction is not in the best interests of the wife?
-- They should give reasoned advice to that effect.
-- Ultimately the decision is for the wife. 
-- The Etridge guidelines on what advice should be given and how it should be given must be followed, even where a wife insists on a very short meeting and appears determined to proceed regardless of the solicitor’s advice ([[Padden v Bevan Ashford Solicitors [2011] EWCA Civ 1616]]). 
-- If it is ‘glaringly obvious’ that the wife is being ‘grievously wronged’, the solicitor should decline to act.
-```
+> [!question] What if the solicitor thinks the transaction is not in the best interests of the wife?
+> - They should give reasoned advice to that effect.
+> - Ultimately the decision is for the wife. 
+> - The Etridge guidelines on what advice should be given and how it should be given must be followed, even where a wife insists on a very short meeting and appears determined to proceed regardless of the solicitor’s advice ([[Padden v Bevan Ashford Solicitors [2011] EWCA Civ 1616]]). 
+> - If it is ‘glaringly obvious’ that the wife is being ‘grievously wronged’, the solicitor should decline to act.
 
 If a solicitor or firm is satisfied that it can act under the SRA Codes, there is no rule
 
@@ -132,9 +121,8 @@ of law preventing one solicitor acting for both the husband and wife. The same p
 
 ## Contract Races
 
-```ad-defn
-A contract race occurs when a seller enters into the conveyancing process with two or more prospective buyers at the same time. The buyers are competing with each other, and the winner of the race is the buyer who is ready to exchange contracts first.
-```
+> [!defn]
+> A contract race occurs when a seller enters into the conveyancing process with two or more prospective buyers at the same time. The buyers are competing with each other, and the winner of the race is the buyer who is ready to exchange contracts first.
 
 ### Disclosure
 
@@ -151,10 +139,8 @@ The solicitor must explain to the client that they are required to comply with t
 
 If the seller wants to proceed with the contract race, having obtained his client’s authority, the seller’s solicitor should disclose the seller’s decision to conduct a contract race direct to the solicitor acting for each prospective buyer, or, where no solicitor is acting, to the prospective buyer(s) in person.
 
-```ad-question
-title: What if the seller refuses to allow the solicitor to notify all prospective buyers?
-If the seller refuses to allow the solicitor to notify all the prospective buyers of the contract race, the solicitor cannot disclose the contract race to the prospective buyers as they have a duty of confidentiality to their client under para 6.3. Instead, if they consider that paras 1.2 or 1.4 would be breached by the non-disclosure, they must decline to act to avoid breaching Principle 2 (acting with integrity).
-```
+> [!question] What if the seller refuses to allow the solicitor to notify all prospective buyers?
+> If the seller refuses to allow the solicitor to notify all the prospective buyers of the contract race, the solicitor cannot disclose the contract race to the prospective buyers as they have a duty of confidentiality to their client under para 6.3. Instead, if they consider that paras 1.2 or 1.4 would be breached by the non-disclosure, they must decline to act to avoid breaching Principle 2 (acting with integrity).
 
 In certain circumstances, it may be possible to act under the exception in para 6.2(b), as the clients have a conflict of interest but are competing for the same objective, particularly where the clients are sophisticated users of legal services and effective safeguards, such as information barriers, can be put in place, as this will make it more likely that the conditions in para 6.2(i)–(iii) have been complied with.
 
@@ -166,9 +152,8 @@ If the seller gets a better offer and withdraws acceptable of the first offer, t
 
 See [[Intro to Professional Practice/Professional Conduct and Regulation/Undertakings]].
 
-```ad-defn
-An undertaking is a statement, made by a solicitor or their firm, that the solicitor or the firm will do something or cause something to be done, or refrain from doing something, given to someone who reasonably places reliance on it.
-```
+> [!defn]
+> An undertaking is a statement, made by a solicitor or their firm, that the solicitor or the firm will do something or cause something to be done, or refrain from doing something, given to someone who reasonably places reliance on it.
 
 In conveyancing contexts where it is standard practice for a solicitor to give an undertaking, The Law Society has agreed standard wording for undertakings.
 
@@ -176,10 +161,9 @@ All the general rules on undertakings apply equally in the context of conveyanci
 
 Failure to honour an undertaking constitutes professional misconduct.
 
-```ad-warning
-Unlike an undertaking given by an
-individual solicitor or a traditional partnership, an undertaking given by an incorporated law firm is not capable of being enforced under the court’s supervisory jurisdiction over solicitors as officers of the court ([[Harcus Sinclair v Your Lawyers [2021] UKSC 32]]). However, it may be enforceable as a contract (or deed), by an action for breach of trust or negligence or in professional disciplinary proceedings.
-```
+> [!warning]
+> Unlike an undertaking given by an
+> individual solicitor or a traditional partnership, an undertaking given by an incorporated law firm is not capable of being enforced under the court’s supervisory jurisdiction over solicitors as officers of the court ([[Harcus Sinclair v Your Lawyers [2021] UKSC 32]]). However, it may be enforceable as a contract (or deed), by an action for breach of trust or negligence or in professional disciplinary proceedings.
 
 ## Dealing with Non-solicitors
 
@@ -207,18 +191,16 @@ However, in such a situation, the solicitor must bear in mind that the interests
 - **Great care must be taken not to create a contractual relationship with the unrepresented opponent** (thereby putting the solicitor in breach of para 6.2 of the SRA Codes), or to become involved in possible breaches of the Legal Services Act 2007.
 	- i.e., don't want to create a contract to be the opponent's solicitor implied through conduct
 
-```ad-guid
-Where a transaction is over £5,000 in value and one of the parties is unrepresented, Land Registry requires a solicitor making certain applications (including applications to register a transfer or discharge a mortgage) to provide certified details and evidence of the unrepresented party’s identity.
-```
+> [!guid]
+> Where a transaction is over £5,000 in value and one of the parties is unrepresented, Land Registry requires a solicitor making certain applications (including applications to register a transfer or discharge a mortgage) to provide certified details and evidence of the unrepresented party’s identity.
 
 ## Money Laundering
 
 See [[Money Laundering]].
 
-```ad-defn
-Money laundering is the conversion, concealment or disguise of the
-proceeds of crime, so as to make it appear that they come from a legitimate source.
-```
+> [!defn]
+> Money laundering is the conversion, concealment or disguise of the
+> proceeds of crime, so as to make it appear that they come from a legitimate source.
 
 Firms must:
 
@@ -226,19 +208,17 @@ Firms must:
 - Appoint a nominated officer
 - Obtain verification of the identity of each of the firm's clients.
 
-```ad-guid
-The Legal Sector Affinity Group, the anti-money laundering supervisors for the legal sector, issues guidance on anti-money laundering for the legal profession.
-```
+> [!guid]
+> The Legal Sector Affinity Group, the anti-money laundering supervisors for the legal sector, issues guidance on anti-money laundering for the legal profession.
 
 ## Mortgage Fraud
 
 Mortgage fraud occurs where individuals defraud a lender through the mortgage process.
 
-```ad-example
-- The borrower overstates his income in order to obtain a higher mortgage,
-- A husband forges his wife’s signature
-- The price shown in the transfer is not the price actually paid by the buyer.
-```
+> [!example]
+> - The borrower overstates his income in order to obtain a higher mortgage,
+> - A husband forges his wife’s signature
+> - The price shown in the transfer is not the price actually paid by the buyer.
 
 Potential consequences for a solicitor in acting/ continuing to act for a client committing mortgage fraud:
 
@@ -251,9 +231,8 @@ Potential consequences for a solicitor in acting/ continuing to act for a client
 
 The duty of confidentiality to the borrower is discharged only where the solicitor is satisfied of a strong prima facie case that the borrower is using them to further a fraud or other criminal purpose.
 
-```ad-guid
-The Law Society suggests that this test may be satisfied if a client makes a deliberate misrepresentation on their mortgage application.
-```
+> [!guid]
+> The Law Society suggests that this test may be satisfied if a client makes a deliberate misrepresentation on their mortgage application.
 
 If the duty of confidentiality is not released, the solicitor should return the mortgage documents to the lender, stating only that they are ceasing to act due to professional reasons. In practice, this may result in the lender withdrawing its mortgage offer.
 

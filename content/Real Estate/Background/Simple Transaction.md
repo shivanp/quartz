@@ -53,9 +53,8 @@ Although the seller has a limited duty to disclose defects in legal title, *cave
 
 The buyer should check proof of ownership sent by the seller. Resolve queries through 'requisitions'. These are questions or requests addressed to the seller, requiring them to resolve any apparent problems with the seller's ownership, or 'title'.
 
-```ad-warning
-The contract normally includes a clause excluding the buyer from questioning the seller's title once contracts for sale and purchase have been entered into. 
-```
+> [!warning]
+> The contract normally includes a clause excluding the buyer from questioning the seller's title once contracts for sale and purchase have been entered into. 
 
 ### Searches
 
@@ -75,9 +74,8 @@ The client must also be able to fund the deposit which traditionally is payable 
 
 Once the draft contract has been agreed, it is prepared for the client's signature. Two copies: the buyer signs one and the seller signs another. These are then exchanged.
 
-```ad-tip
-Prior to physical exchange, which is effected through the post, it is usual for the parties to agree over the telephone that the contract should come into existence at the moment of the  telephone call. This is often referred to as ‘telephonic exchange’.
-```
+> [!tip]
+> Prior to physical exchange, which is effected through the post, it is usual for the parties to agree over the telephone that the contract should come into existence at the moment of the  telephone call. This is often referred to as ‘telephonic exchange’.
 
 ### Exchange of Contracts
 
@@ -95,11 +93,10 @@ Although it was the seller’s solicitor’s duty to prepare the contract, custo
 
 buyer at the same time as the draft contract. This can help to prevent delays between exchange and completion.
 
-```ad-note
-The contract states what the parties have agreed to do; the transfer deed
-carries it out. In other words, the transfer deed activates the terms of the contract and brings
-them alive.
-```
+> [!note]
+> The contract states what the parties have agreed to do; the transfer deed
+> carries it out. In other words, the transfer deed activates the terms of the contract and brings
+> them alive.
 
 The transfer deed can then be ‘engrossed’, i.e., a copy is prepared containing any agreed amendments; this is the copy which will be signed by the parties.
 
@@ -113,11 +110,9 @@ The lender needs to be certain that the property which it is accepting as securi
 
 ### Acting for Buyer or Lender
 
-```ad-question
-title: Is it a conflict of interest to act as solicitor for both the buyer and the buyer's lender?
-
-Frequently, in a residential transaction, the solicitor who is acting for the buyer will also be instructed to act for the buyer’s lender. Acting for more than one party in a transaction is restricted by para 6.2 of the SRA Codes of Conduct, but acting for buyer and lender in a residential transaction is usually  permitted.
-```
+> [!question] Is it a conflict of interest to act as solicitor for both the buyer and the buyer's lender?
+> 
+> Frequently, in a residential transaction, the solicitor who is acting for the buyer will also be instructed to act for the buyer’s lender. Acting for more than one party in a transaction is restricted by para 6.2 of the SRA Codes of Conduct, but acting for buyer and lender in a residential transaction is usually  permitted.
 
 #### Buyer's Lender's Solicitor
 

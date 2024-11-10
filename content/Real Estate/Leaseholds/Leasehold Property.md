@@ -45,10 +45,8 @@ Usually granted at full open market rent (“rack rent”). The lease has no cap
 
 Most commercial property is occupied under leases because of the flexibility they offer, and the undesirability of tying up capital in a freehold.
 
-```ad-defn
-title: Institutional lease
-Where the landlord passes the day-to-day operational cost for occupying the property to the teants, leaving rent as "pure profit". 
-```
+> [!defn] Institutional lease
+> Where the landlord passes the day-to-day operational cost for occupying the property to the teants, leaving rent as "pure profit". 
 
 - Leases are usually 5-15 years long.
 - Possible for a capital sum to be payable, but this is rare. A market rent is payable and this is subject to rent review every few years.
@@ -83,13 +81,11 @@ Where the landlord passes the day-to-day operational cost for occupying the prop
 
 If it is found that the characteristics of a lease are not present, looking at the transaction objectively, then the arrangement can only be a licence.
 
-```ad-tip
-title: Requirements
-For a lease to exist, rather than a licence, there needs to be:
-1. Certainty of term
-2. Exclusive possession
-3. The correct formalities used to create the lease
-```
+> [!tip] Requirements
+> For a lease to exist, rather than a licence, there needs to be:
+> 1. Certainty of term
+> 2. Exclusive possession
+> 3. The correct formalities used to create the lease
 
 - Certainty of term means that the tenancy must be granted for a certain duration. This means you need to know when the arrangement will end.
 	- If certainty of term is not present in the arrangement, no lease will be found.
@@ -110,9 +106,8 @@ This can be shown either with a fixed or periodic term.
 	- An **express** periodic tenancy is where there is a written agreement documenting the agreement.
 	- An **implied** periodic tenancy is where there is nothing set out in writing, but the certain term arises by looking objectively at all relevant circumstances, including payment and acceptance of rent on a periodic basis.
 
-```ad-example
-Monthly payments of rent (without agreement on a fixed term from the outset) may create an implied monthly periodic tenancy.
-```
+> [!example]
+> Monthly payments of rent (without agreement on a fixed term from the outset) may create an implied monthly periodic tenancy.
 
 See also [[Prudential Assurance Co Ltd v London Residuary Body [1992] 2 A.C. 386]].
 
@@ -122,15 +117,13 @@ e.g., if the tenant agrees to pay £10,000 a year by four quarterly payments, th
 
 ### Exclusive Possession
 
-```ad-defn
-Exclusive possession means the right to exclude all others from the property, including the landlord.
-```
+> [!defn]
+> Exclusive possession means the right to exclude all others from the property, including the landlord.
 
 Demonstrating that exclusive possession has been granted is often difficult. Historically, tenants of residential leases were granted greater protection and landlords were keen to avoid granting leases. There are many cases where the court considered the nature of an arrangement, looking beyond the label given to the agreement by the parties (headline case: [[Street v Mountford [1985] AC 809]]).
 
-```ad-info
-Since the introduction of Assured Shorthold Tenancies (ASTs), the distinction between  a lease and licence is of far less importance in a residential context.
-```
+> [!info]
+> Since the introduction of Assured Shorthold Tenancies (ASTs), the distinction between  a lease and licence is of far less importance in a residential context.
 
 Whether exclusive possession exists is a question of fact in each case: the substance of the agreement has to be examined. The courts will look at the reality of a situation. So even if a clause appears to defeat exclusion possession but has been inserted into a lease only to make what would otherwise be a lease appear like a licence, it will be thrown out as a sham.
 
@@ -187,12 +180,10 @@ In the business context, the court tends to construe the document as a whole to 
 
 The issue of control in a business context came before the court in [[Esso Petroleum Co Ltd v Fumegrange Ltd and others [1994] 2 EGLR 90]].
 
-```ad-note
-title: *[[Esso Petroleum Co Ltd v Fumegrange Ltd and others [1994] 2 EGLR 90]]*
-The court considered whether exclusive possession of two service stations was granted to Fumegrange.
-
-The court held that the degree of control exercised by Esso over the premises and the way in which it was conducted was inconsistent with an exclusive right to possession of the service stations being vested in Fumegrange. Esso could make alterations on the premises; it could install a car wash (as was in fact done); and it could change the layout of the shop. This degree of physical control over the premises and conduct of the business at the service station was held to be very significant.
-```
+> [!note] *[[Esso Petroleum Co Ltd v Fumegrange Ltd and others [1994] 2 EGLR 90]]*
+> The court considered whether exclusive possession of two service stations was granted to Fumegrange.
+> 
+> The court held that the degree of control exercised by Esso over the premises and the way in which it was conducted was inconsistent with an exclusive right to possession of the service stations being vested in Fumegrange. Esso could make alterations on the premises; it could install a car wash (as was in fact done); and it could change the layout of the shop. This degree of physical control over the premises and conduct of the business at the service station was held to be very significant.
 
 #### Right to Relocate
 
@@ -205,10 +196,8 @@ Of course, if such a clause is a sham clause, it will not defeat exclusive posse
 
 ### Commencement Date
 
-```ad-defn
-title: Commencement date
-The date when the term of the lease begins. 
-```
+> [!defn] Commencement date
+> The date when the term of the lease begins. 
 
 A lease does not have to take effect in possession immediately and can be granted to take effect at some future time, provided this is within 21 years of its grant (s 149(3) LPA 1925). The commencement date can be backdated to a date before the date of grant of the lease (useful if a landlord wants all the leases to expire at the same time).
 
@@ -242,11 +231,10 @@ The types of arrangement which fall within the ambit of this exception are:
 
 Note that periodic tenancies, whether express or implied, will only fall within the ambit of [LPA 1925, s 54(2)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/54) if each individual period of the tenancy is for **three years or less**, which is likely to be the case.
 
-```ad-example
-- **Short fixed term leases:** A tenant rents a flat for an agreed fixed term of 2 years. This arrangement does not need to be in writing.
-- **Express periodic tenancies:** A tenant rents a flat on a rolling monthly basis paying an agreed monthly rent. There is a written agreement documenting the agreement. In this situation, the written agreement does not need to comply with any formalities.
-- **Implied periodic tenancies:** A tenant is in occupation of premises paying an agreed rent on a monthly basis, but nothing documents this arrangement. In this situation, a periodic tenancy may be implied. It will still be a legal lease because no formalities are required to document the arrangement.
-```
+> [!example]
+> - **Short fixed term leases:** A tenant rents a flat for an agreed fixed term of 2 years. This arrangement does not need to be in writing.
+> - **Express periodic tenancies:** A tenant rents a flat on a rolling monthly basis paying an agreed monthly rent. There is a written agreement documenting the agreement. In this situation, the written agreement does not need to comply with any formalities.
+> - **Implied periodic tenancies:** A tenant is in occupation of premises paying an agreed rent on a monthly basis, but nothing documents this arrangement. In this situation, a periodic tenancy may be implied. It will still be a legal lease because no formalities are required to document the arrangement.
 
 ### Equitable Leases
 
@@ -257,9 +245,8 @@ The courts will recognise the tenant has having an equitable interest in the lan
 1. There is a document that complies with LP(MP)A 1989, s 2 – signed contract in writing and incorporating all express terms.
 2. The remedy of specific performance is available.
 
-```ad-important
-Where there is a conflict between the common law and equity, equity will prevail ([[Walsh v Lonsdale (1882)]])
-```
+> [!important]
+> Where there is a conflict between the common law and equity, equity will prevail ([[Walsh v Lonsdale (1882)]])
 
 Equitable leases usually require some form of registration to make them binding on a purchaser of the reversion. If the reversionary title is registered, the lease must be registered as a minor interest (i.e., notice) on the charges register of the reversionary title. But can be binding without registration if there is an overriding interest (Sch 3 LRA 2002).
 
@@ -319,39 +306,36 @@ So the landlord could seek redress against either the original tenant or any ass
 
 So, an assignee of a lease will usually be required to indemnify the assignor in respect of any breach of covenant committed after the date of assignment. Registered lease; such an indemnity covenant is implied by Sch 12 para 20 LRA 2002, whether or not the assignment is for value.
 
-```ad-statute
-title: LRA 2002 Sch 12 para 20 - Implied indemnity covenants on transfers of pre-1996 leases
-
-(1) On a disposition of a registered leasehold estate by way of transfer, the following covenants are implied in the instrument effecting the disposition, unless the contrary intention is expressed—
-- (a) in the case of a transfer of the whole of the land comprised in the registered lease, the covenant in sub-paragraph (2), and
-- (b) in the case of a transfer of part of the land comprised in the lease—
-	- (i) the covenant in sub-paragraph (3), and
-	- (ii) where the transferor continues to hold land under the lease, the covenant in sub-paragraph (4).
-
-(2) The transferee covenants with the transferor that during the residue of the term granted by the registered lease the transferee and the persons deriving title under him will—
-- (a) pay the rent reserved by the lease,
-- (b) comply with the covenants and conditions contained in the lease, and
-- (c) keep the transferor and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
-
-(3) The transferee covenants with the transferor that during the residue of the term granted by the registered lease the transferee and the persons deriving title under him will—
-- (a) where the rent reserved by the lease is apportioned, pay the rent apportioned to the part transferred,
-- (b) comply with the covenants and conditions contained in the lease so far as affecting the part transferred, and
-- (c) keep the transferor and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
-
-(4) The transferor covenants with the transferee that during the residue of the term granted by the registered lease the transferor and the persons deriving title under him will—
-- (a) where the rent reserved by the lease is apportioned, pay the rent apportioned to the part retained,
-- (b) comply with the covenants and conditions contained in the lease so far as affecting the part retained, and
-- (c) keep the transferee and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
-
-(5) This paragraph does not apply to a lease which is a new tenancy for the purposes of section 1 of the Landlord and Tenant (Covenants) Act 1995 (c. 30).
-
-```
+> [!statute] LRA 2002 Sch 12 para 20 - Implied indemnity covenants on transfers of pre-1996 leases
+> 
+> (1) On a disposition of a registered leasehold estate by way of transfer, the following covenants are implied in the instrument effecting the disposition, unless the contrary intention is expressed—
+> - (a) in the case of a transfer of the whole of the land comprised in the registered lease, the covenant in sub-paragraph (2), and
+> - (b) in the case of a transfer of part of the land comprised in the lease—
+> 	- (i) the covenant in sub-paragraph (3), and
+> 	- (ii) where the transferor continues to hold land under the lease, the covenant in sub-paragraph (4).
+> 
+> (2) The transferee covenants with the transferor that during the residue of the term granted by the registered lease the transferee and the persons deriving title under him will—
+> - (a) pay the rent reserved by the lease,
+> - (b) comply with the covenants and conditions contained in the lease, and
+> - (c) keep the transferor and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
+> 
+> (3) The transferee covenants with the transferor that during the residue of the term granted by the registered lease the transferee and the persons deriving title under him will—
+> - (a) where the rent reserved by the lease is apportioned, pay the rent apportioned to the part transferred,
+> - (b) comply with the covenants and conditions contained in the lease so far as affecting the part transferred, and
+> - (c) keep the transferor and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
+> 
+> (4) The transferor covenants with the transferee that during the residue of the term granted by the registered lease the transferor and the persons deriving title under him will—
+> - (a) where the rent reserved by the lease is apportioned, pay the rent apportioned to the part retained,
+> - (b) comply with the covenants and conditions contained in the lease so far as affecting the part retained, and
+> - (c) keep the transferee and the persons deriving title under him indemnified against all actions, expenses and claims on account of any failure to comply with paragraphs (a) and (b).
+> 
+> (5) This paragraph does not apply to a lease which is a new tenancy for the purposes of section 1 of the Landlord and Tenant (Covenants) Act 1995 (c. 30).
+> 
 
 SCPC 7.6.5 requires the transfer deed to contain an express indemnity covenant, except where one is implied by law.
 
-```ad-important
-If the lease contains a requirement to obtain the landlord’s consent before any assignment takes place, the landlord may, in appropriate circumstances, insist that any assignee enter into a direct contractual relationship with him to observe the tenant’s covenants under the lease for the remainder of the term. This imposes on any assignee the same liability under privity of contract as faced by the original tenant. 
-```
+> [!important]
+> If the lease contains a requirement to obtain the landlord’s consent before any assignment takes place, the landlord may, in appropriate circumstances, insist that any assignee enter into a direct contractual relationship with him to observe the tenant’s covenants under the lease for the remainder of the term. This imposes on any assignee the same liability under privity of contract as faced by the original tenant. 
 
 #### Landlord Liability
 
@@ -379,9 +363,8 @@ These provisions apply to former tenants who remain liable either under an old l
 
 The [Landlord and Tenant (Covenants) Act 1995, s 17](https://www.legislation.gov.uk/ukpga/1995/30/section/17) states that where a landlord wishes to pursue a former tenant who remains liable under the terms of the lease for a fixed charge, the landlord must serve notice of the potential claim on such tenants within **6 months** of the charge becoming due.
 
-```ad-tip
-So practically, cannot recover more than 6 months rent at a time in this way. 
-```
+> [!tip]
+> So practically, cannot recover more than 6 months rent at a time in this way. 
 
 A fixed charge is defined in the [Landlord and Tenant (Covenants) Act 1995, s 17](https://www.legislation.gov.uk/ukpga/1995/30/section/17) as including arrears of rent, service charge or insurance premiums but not unascertained liabilities or damages which become ascertained only after a court order has been obtained.
 
@@ -391,9 +374,8 @@ If the landlord has not notified the former tenant of this claim and the amount 
 
 The [Landlord and Tenant (Covenants) Act 1995, s 18](https://www.legislation.gov.uk/ukpga/1995/30/section/18) states that former tenants and guarantors are not liable to pay any additional amounts owing in respect of variations which have been made to the lease subsequent to assignment which they could not have anticipated at the time when the lease was entered into.
 
-```ad-example
-The former tenant who is still liable for the rent under an old lease or under an authorised guarantee agreement will still be liable for rent which is reviewed after assignment pursuant to the rent review clause in the original lease. Such a variation was anticipated at the time when the lease was entered into.
-```
+> [!example]
+> The former tenant who is still liable for the rent under an old lease or under an authorised guarantee agreement will still be liable for rent which is reviewed after assignment pursuant to the rent review clause in the original lease. Such a variation was anticipated at the time when the lease was entered into.
 
 #### Overriding Leases
 
@@ -401,10 +383,8 @@ The [Landlord and Tenant (Covenants) Act 1995, s 19](https://www.legislation.gov
 
 A former tenant who has been served with a s 17 notice and has made payment in full is entitled to call on the landlord to grant it an overriding lease (LTCA 1995, s 19(1)). If granted, the former tenant becomes the immediate landlord of the defaulting party.
 
-```ad-defn
-title: Overriding lease
-An overriding lease is a concurrent lease of the premises demised by the first lease and makes the former tenant the immediate landlord of the defaulting tenant. It therefore gives the former tenant the right to forfeit the first lease to the defaulting tenant and/or exercise the landlord’s other remedies for non-payment of rent.
-```
+> [!defn] Overriding lease
+> An overriding lease is a concurrent lease of the premises demised by the first lease and makes the former tenant the immediate landlord of the defaulting tenant. It therefore gives the former tenant the right to forfeit the first lease to the defaulting tenant and/or exercise the landlord’s other remedies for non-payment of rent.
 
 The overriding lease is granted for a term equal to the remaining term of the lease in question plus three days. It contains the same covenants as the lease in question (other than those covenants which are expressed to be personal). If the former tenant requests an overriding lease, the landlord is obliged to grant it within a reasonable time.
 
@@ -440,19 +420,17 @@ The different ways a lease can end:
 
 This is the usual common law way in which a lease for a fixed term comes to an end. No notice is needed to end a fixed term. Note, however, that at the end of the lease, the tenant may have security of tenure. Security of tenure is a right for a tenant to remain in the premises at the end of the lease term and to request the grant of a new lease.
 
-```ad-example
-Many **business tenancies** are protected by the Landlord and Tenant Act 1954, Part II. If the tenant follows certain procedures and time limits, he may be entitled to require the landlord to grant him a new lease.
-
-A **residential tenant** may have rights to remain in occupation under the Rent Act 1977 (for private tenancies granted before 15 January 1989) or the Housing Acts 1985 (public sector tenancies) and 1988 (private tenancies granted after 15 January 1989). Since the introduction of assured shorthold tenancies (ASTs) it is now very rare for a residential tenant to have security of tenure.
-```
+> [!example]
+> Many **business tenancies** are protected by the Landlord and Tenant Act 1954, Part II. If the tenant follows certain procedures and time limits, he may be entitled to require the landlord to grant him a new lease.
+> 
+> A **residential tenant** may have rights to remain in occupation under the Rent Act 1977 (for private tenancies granted before 15 January 1989) or the Housing Acts 1985 (public sector tenancies) and 1988 (private tenancies granted after 15 January 1989). Since the introduction of assured shorthold tenancies (ASTs) it is now very rare for a residential tenant to have security of tenure.
 
 ### By a ‘break’ Clause
 
 A lease for a fixed term may contain a provision allowing either party (landlord or tenant or both) to serve notice during its currency to bring it to a premature end. The terms of a break clause must be strictly complied with if the exercise of it is to be valid.
 
-```ad-example
-“Either party may end this lease on the fifth anniversary of the term start date by serving 6 months written notice on the other.”
-```
+> [!example]
+> “Either party may end this lease on the fifth anniversary of the term start date by serving 6 months written notice on the other.”
 
 ### By Surrender
 
@@ -470,9 +448,8 @@ This is the method for determining a periodic tenancy.
 
 For a yearly tenancy, either side must give at least half a year’s notice to quit to determine the tenancy. Other periodic tenancies, for example quarterly, monthly or weekly, must be determined by a full period’s notice to expire at the end of a complete period.
 
-```ad-defn
-A periodic tenancy is a lease that runs from one period of time to another. Each period is seen as an individual lease.
-```
+> [!defn]
+> A periodic tenancy is a lease that runs from one period of time to another. Each period is seen as an individual lease.
 
 ### Forfeiture
 
@@ -517,9 +494,8 @@ From 6 April 2014, a landlord's right to levy distress for rent arrears was ther
 
 This requires a landlord to serve an enforcement notice on the tenant, giving **seven clear days’ notice** that he will seize goods. Once notice has been served, the tenant can apply for it to be set aside or for its execution to be delayed.
 
-```ad-warning
-There must be a minimum of seven days' rent arrears in order to use this procedure, and the remedy is not available in respect of mixed use or residential premises.
-```
+> [!warning]
+> There must be a minimum of seven days' rent arrears in order to use this procedure, and the remedy is not available in respect of mixed use or residential premises.
 
 The notice requirements clearly reduce the effectiveness of the remedy from a landlord's perspective because tenants have the opportunity to remove goods from the premises and put them out of the landlord's reach.
 
@@ -558,9 +534,8 @@ A lease is a proprietary right to possess the land. One way in which a lease can
 
 There must be an express forfeiture clause in the lease allowing the landlord to forfeit the lease in the event of breach of covenant (or insolvency) by the tenant. Every well-drawn lease should contain a forfeiture clause. The right to forfeit is never implied into a legal lease.
 
-```ad-note
-In a legal lease, the forfeiture clause creates a legal right of re-entry (one of the five legal rights listed in LPA 1925, s 1(2)). A forfeiture clause is therefore also known as a re-entry clause.
-```
+> [!note]
+> In a legal lease, the forfeiture clause creates a legal right of re-entry (one of the five legal rights listed in LPA 1925, s 1(2)). A forfeiture clause is therefore also known as a re-entry clause.
 
 #### Equitable Leases
 
@@ -679,21 +654,20 @@ This is the case even where the head-tenant cannot get relief himself. The court
 
 In summary, under the above provisions, the court usually allows the lease to continue on condition that the tenant pays off the arrears.
 
-```ad-summary
-**Step 1:** There must be a breach of covenant.
-
-**Step 2:** There must be a forfeiture clause in the lease.
-
-**Step 3:** The landlord must not have waived the right to forfeit: distinguish here between a continuing and non-continuing breach.
-
-**Breach of rent covenant:**
-
-**Step 4:** The landlord must have served a demand for payment, or the lease must waive this right.
-
-**Step 5:** The landlord can then forfeit the lease for the breach of covenant by peaceable re-entry or court order. However, if the tenancy is residential, the landlord must obtain a court order.
-
-**Step 6:** The tenant, and any sub-tenant, can apply for relief from forfeiture. Relief is the court's discretion to allow the lease to continue. Relief can be applied for regardless of whether the right has been exercised by court order or peaceable re-entry.
-```
+> [!summary]
+> **Step 1:** There must be a breach of covenant.
+> 
+> **Step 2:** There must be a forfeiture clause in the lease.
+> 
+> **Step 3:** The landlord must not have waived the right to forfeit: distinguish here between a continuing and non-continuing breach.
+> 
+> **Breach of rent covenant:**
+> 
+> **Step 4:** The landlord must have served a demand for payment, or the lease must waive this right.
+> 
+> **Step 5:** The landlord can then forfeit the lease for the breach of covenant by peaceable re-entry or court order. However, if the tenancy is residential, the landlord must obtain a court order.
+> 
+> **Step 6:** The tenant, and any sub-tenant, can apply for relief from forfeiture. Relief is the court's discretion to allow the lease to continue. Relief can be applied for regardless of whether the right has been exercised by court order or peaceable re-entry.
 
 ![[forfeiture-rent.png]]
 
@@ -714,9 +688,8 @@ This notice must:
 - Require the lessee to make compensation in money for the breach if the landlord requires such compensation.
 	- The landlord does not have to request compensation if he does not want it ([[Rugby School (Governors) v Tannahill [1935] 1 KB 87]]).
 
-```ad-note
-The law is unclear as to whether a s 146 notice needs to be served for non-payment of sums like service charge and insurance rent, where these sums are reserved as rent in the lease. 
-```
+> [!note]
+> The law is unclear as to whether a s 146 notice needs to be served for non-payment of sums like service charge and insurance rent, where these sums are reserved as rent in the lease. 
 
 ![[forfeiture-non-rent.png]]
 
@@ -766,9 +739,8 @@ Where the landlord serves notice under LPA 1925, s 146 and the notice relates to
 
 The limitations can be circumvented with a self-help clause in the lease. This allows the landlord to enter the premises and carry out the repairs if the tenant has failed to comply, and the tenant must then pay the landlord's costs for the repairs.
 
-```ad-important
-These costs are recoverable as a **debt**, not **damages** ([[Jervis v Harris [1996] Ch 195]] or lease clause), though best to specify explicitly in the lease too) $\implies$ L will be pursuing for non-payment of a debt, not T's failure to repair $\implies$ LP(R)A 1938 & s 18 LTA 19927 limitations can be avoided. 
-```
+> [!important]
+> These costs are recoverable as a **debt**, not **damages** ([[Jervis v Harris [1996] Ch 195]] or lease clause), though best to specify explicitly in the lease too) $\implies$ L will be pursuing for non-payment of a debt, not T's failure to repair $\implies$ LP(R)A 1938 & s 18 LTA 19927 limitations can be avoided. 
 
 ##### Specific Performance?
 
@@ -792,10 +764,8 @@ If the breach is not capable of remedy, the landlord must merely give the tenant
 
 The tenant may then apply for relief from forfeiture. 'Relief' means the court’s discretion to allow the lease to continue and thereby end the forfeiture process. This discretion to grant relief is an ancient equitable jurisdiction, but is now enshrined in various statutes, as explained below.
 
-```ad-statute
-title: s 146(2) LPA 1925
-Where a lessor is proceeding, by action or otherwise, to enforce such a right of re-entry or forfeiture, the lessee may, in the lessor’s action, if any, or in any action brought by himself, apply to the court for relief; and the court may grant or refuse relief, as the court, having regard to the proceedings and conduct of the parties under the foregoing provisions of this section, and to all the other circumstances, thinks fit; and in case of relief may grant it on such terms, if any, as to costs, expenses, damages, compensation, penalty, or otherwise, including the granting of an injunction to restrain any like breach in the future, as the court, in the circumstances of each case, thinks fit.
-```
+> [!statute] s 146(2) LPA 1925
+> Where a lessor is proceeding, by action or otherwise, to enforce such a right of re-entry or forfeiture, the lessee may, in the lessor’s action, if any, or in any action brought by himself, apply to the court for relief; and the court may grant or refuse relief, as the court, having regard to the proceedings and conduct of the parties under the foregoing provisions of this section, and to all the other circumstances, thinks fit; and in case of relief may grant it on such terms, if any, as to costs, expenses, damages, compensation, penalty, or otherwise, including the granting of an injunction to restrain any like breach in the future, as the court, in the circumstances of each case, thinks fit.
 
 LPA 1925, s 146(2) provides that, where the landlord is proceeding by action or otherwise to enforce forfeiture, the tenant may in the landlord’s action, or in any action brought by himself, apply to the court for relief.
 
@@ -818,20 +788,19 @@ The judicial dislike of peaceable re-entry as a method of forfeiture is apparent
 
 LPA 1925, s 146(4) allows a subtenant to apply to the court for relief against forfeiture for breach of other covenants. It is a matter of discretion whether a subtenant will be granted relief. An unlawful subtenant (where no consent was given for the subletting) is unlikely to get relief ([[St Marylebone Property Co v Tesco Stores Ltd [1988] 2 EGLR 40]]). The House of Lords’ interpretation of s 146(2) in Billson must surely apply equally to s 146(4), so that a subtenant must apply for relief within a reasonable time after peaceable re-entry.
 
-```ad-summary
-**Step 1:** There must be a breach of covenant.
-
-**Step 2:** There must be a forfeiture clause in the lease.
-
-**Step 3:** The landlord must not have waived the right to forfeit: distinguish here between a continuing and non-continuing breach.
-
-**Breach of a non rent covenant:**
-
-**Step 4:** The landlord must have served a LPA 1925, s 146 Notice.
-
-(Does the breach relate to a repair covenant? Consider does the additional protection under **LP(R)A 1938 or LPA 1925, s 147** apply?)
-
-**Step 5:** The landlord can then forfeit the lease for the breach of covenant by peaceable re-entry or court order. However, if the tenancy is residential, the landlord must obtain a court order.
-
-**Step 6:** The tenant, and any sub-tenant, can apply for relief from forfeiture. Relief is the court's discretion to allow the lease to continue. Relief can be applied for regardless of whether the right has been exercised by court order or peaceable re-entry.
-```
+> [!summary]
+> **Step 1:** There must be a breach of covenant.
+> 
+> **Step 2:** There must be a forfeiture clause in the lease.
+> 
+> **Step 3:** The landlord must not have waived the right to forfeit: distinguish here between a continuing and non-continuing breach.
+> 
+> **Breach of a non rent covenant:**
+> 
+> **Step 4:** The landlord must have served a LPA 1925, s 146 Notice.
+> 
+> (Does the breach relate to a repair covenant? Consider does the additional protection under **LP(R)A 1938 or LPA 1925, s 147** apply?)
+> 
+> **Step 5:** The landlord can then forfeit the lease for the breach of covenant by peaceable re-entry or court order. However, if the tenancy is residential, the landlord must obtain a court order.
+> 
+> **Step 6:** The tenant, and any sub-tenant, can apply for relief from forfeiture. Relief is the court's discretion to allow the lease to continue. Relief can be applied for regardless of whether the right has been exercised by court order or peaceable re-entry.

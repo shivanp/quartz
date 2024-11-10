@@ -45,9 +45,8 @@ Under English law, there is no offence of homicide as such. It is a generic term
 
 Murder carries a mandatory life sentence pursuant to the [Murder (Abolition of Death Penalty) Act 1965](https://www.legislation.gov.uk/ukpga/1965/71/contents). The judge has no discretion in sentencing other than to recommend a minimum term before a prisoner can be released on licence.
 
-```ad-defn
-Murder is a common law offence and is defined as: 'unlawful homicide with malice aforethought’ (intention to kill or cause grevious bodily harm).
-```
+> [!defn]
+> Murder is a common law offence and is defined as: 'unlawful homicide with malice aforethought’ (intention to kill or cause grevious bodily harm).
 
 The actus reus elements of the offence are the words ‘unlawful homicide’.
 

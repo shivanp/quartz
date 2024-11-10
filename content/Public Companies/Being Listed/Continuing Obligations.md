@@ -36,9 +36,8 @@ Types of obligations include:
 4. obligations relating to **financial information** about the company ; and
 5. obligations in the **Admission and Disclosure Standards**.
 
-```ad-note
-Following only applicable to a premium listed company. 
-```
+> [!note]
+> Following only applicable to a premium listed company. 
 
 The Association of General Counsel and Company Secretaries has produced guidelines establishing systems and controls complying with all of the above.
 
@@ -87,10 +86,8 @@ Sources of obligations:
 
 ### Disclosing Inside Information
 
-```ad-important
-title: Art 17(1) UK MAR
-General obligation to disclose "inside information" about the company. Applies to premium and standard listings, as well as companies quoted on AIM. Applies to **issuers** of financial instruments (as defined in MiFID II). 
-```
+> [!important] Art 17(1) UK MAR
+> General obligation to disclose "inside information" about the company. Applies to premium and standard listings, as well as companies quoted on AIM. Applies to **issuers** of financial instruments (as defined in MiFID II). 
 
 Helps to ensure that the share price accurately reflects the company's value, reducing the scope of those with insider information to make a secret profit.
 
@@ -100,37 +97,34 @@ Here financial instruments include ordinary shares. Defined under Art 17(3) to i
 
 #### Inside Information
 
-```ad-defn
-UK MAR, Article 7 defines inside information. It is information:
-1. of a precise nature;
-2. which has not been made public;
-3. which relates, directly or indirectly, to an issuer of a financial instrument or to the financial instrument itself; and
-4. if generally available, would be likely to have a significant effect on the price of the financial instrument or the price of related investments.
-
-```
+> [!defn]
+> UK MAR, Article 7 defines inside information. It is information:
+> 1. of a precise nature;
+> 2. which has not been made public;
+> 3. which relates, directly or indirectly, to an issuer of a financial instrument or to the financial instrument itself; and
+> 4. if generally available, would be likely to have a significant effect on the price of the financial instrument or the price of related investments.
+> 
 
 - The company and its advisers are best placed to make an initial assessment of whether information is ‘inside information’ which therefore must be disclosed (DTR 2.2.7G).
 - The board must carefully and continuously monitor any changes in the company’s circumstances, which may mean an announcement is required (DTR 2.2.8G).
 
 ##### Precise Nature
 
-```ad-test
-MAR, Article 7(2) provides that information is of a precise nature if it 
-1. EITHER:
-	1. indicates a set of circumstances that:
-		- exist; or
-		- may reasonably be expected to come into existence; OR
-	2. indicates an event that:
-		- has occurred; or
-		- may reasonably be expected to occur; AND
-2. is specific enough to enable a conclusion to be drawn as to the possible effect, on the price of the financial instrument, of that set of circumstances or that event.
-```
+> [!test]
+> MAR, Article 7(2) provides that information is of a precise nature if it 
+> 1. EITHER:
+> 	1. indicates a set of circumstances that:
+> 		- exist; or
+> 		- may reasonably be expected to come into existence; OR
+> 	2. indicates an event that:
+> 		- has occurred; or
+> 		- may reasonably be expected to occur; AND
+> 2. is specific enough to enable a conclusion to be drawn as to the possible effect, on the price of the financial instrument, of that set of circumstances or that event.
 
-```ad-important
-Precise information includes information on:
-1. a protracted process that is intended to bring about, or that results in, particular circumstances or a particular event, those future circumstances or that future event; and
-2. intermediate steps of that process which are connected with bringing about or resulting in those future circumstances or that future event.
-```
+> [!important]
+> Precise information includes information on:
+> 1. a protracted process that is intended to bring about, or that results in, particular circumstances or a particular event, those future circumstances or that future event; and
+> 2. intermediate steps of that process which are connected with bringing about or resulting in those future circumstances or that future event.
 
 This is a very wide definition:
 
@@ -141,21 +135,18 @@ Information about an intermediate step will be inside information itself if it s
 
 #### Financial Instrument
 
-```ad-defn
-This term is defined in MAR, Article 3(1)(1), which refers to the definition of ‘financial instrument’ under Article 4(1)(15) of the MiFID II Directive (2014/65/EU) which refers to the list of instruments in Section C of Annex I to the Directive.
-
-It includes shares (transferable securities), but it also includes other investments such as options to acquire shares, and interest rate, currency and equity swaps.
-
-```
+> [!defn]
+> This term is defined in MAR, Article 3(1)(1), which refers to the definition of ‘financial instrument’ under Article 4(1)(15) of the MiFID II Directive (2014/65/EU) which refers to the list of instruments in Section C of Annex I to the Directive.
+> 
+> It includes shares (transferable securities), but it also includes other investments such as options to acquire shares, and interest rate, currency and equity swaps.
+> 
 
 #### Significant Effect on a Price
 
 There is no specific figure (percentage or otherwise) which can be set which constitutes a ‘significant effect’ on the price (DTR 2.2.4G(2)).
 
-```ad-test
-title: Reasonable investor test
-The test will be satisfied if a reasonable investor would be likely to use the information as part of the basis of his investment decision (MAR, Article 7(4)).
-```
+> [!test] Reasonable investor test
+> The test will be satisfied if a reasonable investor would be likely to use the information as part of the basis of his investment decision (MAR, Article 7(4)).
 
 DTR 2.2.6G provides that information about the following matters is likely to fulfil the reasonable investor test:
 
@@ -166,10 +157,9 @@ DTR 2.2.6G provides that information about the following matters is likely to fu
 5. major new developments in the company’s business; or
 6. information previously disclosed to the market.
 
-```ad-tip
-If a reasonable investor would be likely to use information as part of the basis of his or her investment decisions, that means it is information which would be likely to have a significant effect on price. There is therefore no need to show that the information is actually price sensitive.
-
-```
+> [!tip]
+> If a reasonable investor would be likely to use information as part of the basis of his or her investment decisions, that means it is information which would be likely to have a significant effect on price. There is therefore no need to show that the information is actually price sensitive.
+> 
 
 #### Making Inside Information Public
 
@@ -217,24 +207,19 @@ The company should make what is called a ‘holding announcement’ where it bel
 
 The FCA should be consulted if there are any doubts about the timing of the company’s announcements under MAR (DTR 2.2.9G(4)).
 
-```ad-warning
-A failure to follow the rules surrounding prompt disclosure of information can be costly. 
-```
+> [!warning]
+> A failure to follow the rules surrounding prompt disclosure of information can be costly. 
 
-```ad-question
-title: Is it possible for companies to "offset" bad news with good news to avoid making an announcement?
-No, companies should disclose both and let the market decide. 
-```
+> [!question] Is it possible for companies to "offset" bad news with good news to avoid making an announcement?
+> No, companies should disclose both and let the market decide. 
 
 #### Delaying Disclosure
 
-```ad-test
-title: When disclosure can be delayed
-MAR, Article 17(4) provides that the company can delay disclosure if the following three conditions are met:
-1. immediate disclosure is likely to prejudice the company’s **legitimate interests**;
-2. delay of disclosure is not likely to **mislead** the public; and
-3. the company can ensure the **confidentiality** of that information.
-```
+> [!test] When disclosure can be delayed
+> MAR, Article 17(4) provides that the company can delay disclosure if the following three conditions are met:
+> 1. immediate disclosure is likely to prejudice the company’s **legitimate interests**;
+> 2. delay of disclosure is not likely to **mislead** the public; and
+> 3. the company can ensure the **confidentiality** of that information.
 
 ##### Legitimate Interests
 
@@ -262,10 +247,8 @@ A holding announcement should be prepared where disclosure of inside information
 
 Where there is press speculation or market rumour concerning a company, the listed company should assess whether its general obligation to announce has arisen under MAR, Article 17(1). To do this, the company needs to assess carefully whether the speculation or rumour has given rise to a situation where the company has inside information (DTR 2.7.1G).
 
-```ad-question
-title: Is knowledge that a market rumour is false inside information?
-Generally no, but possibly. Where it does amount to inside information, the FCA expects that there may be cases where an issuer would be able to delay disclosure in accordance with MAR, Article 17(4) (DTR 2.7.3G).
-```
+> [!question] Is knowledge that a market rumour is false inside information?
+> Generally no, but possibly. Where it does amount to inside information, the FCA expects that there may be cases where an issuer would be able to delay disclosure in accordance with MAR, Article 17(4) (DTR 2.7.3G).
 
 ##### Announcing Delayed Inside Information
 
@@ -302,26 +285,20 @@ Any breach of the general obligation of disclosure under MAR, Article 17 may
 - Company will be liable if a PDMR for the company knew that the statement was wrong or misleading, was reckless as to whether it was, or knew any omission was a dishonest concealment of a material fact.
 - Offence to dishonestly delay the publication of information released through a RIS under s 90A FSMA 2000.
 
-```ad-question
-title: Can a director be personally liable?
-A director could bear liability to his company for negligence, or could have sanctions imposed on him if he was knowingly concerned in the breach under s 91(2) of the FSMA 2000
-```
+> [!question] Can a director be personally liable?
+> A director could bear liability to his company for negligence, or could have sanctions imposed on him if he was knowingly concerned in the breach under s 91(2) of the FSMA 2000
 
 ### Insider Lists
 
-```ad-statute
-title: MAR Article 18(1)
-Premium, standard and AIM companies must compile a list of those persons who work for it who have access to inside information relating to the company.
-```
+> [!statute] MAR Article 18(1)
+> Premium, standard and AIM companies must compile a list of those persons who work for it who have access to inside information relating to the company.
 
 As well as the company's own employees, this should include all persons ‘otherwise performing tasks’ who have access to inside information about it, such as advisers, accountants or credit rating agencies (MAR Art 18(2)).
 
 MAR, Article 18(1) requires ‘any person acting on … behalf’ of the publicly traded company to maintain their own list of those who have access to inside information relating to the company.
 
-```ad-note
-title: Reasoning
-To protect market integrity and help manage duties of confidentiality. 
-```
+> [!note] Reasoning
+> To protect market integrity and help manage duties of confidentiality. 
 
 If the FCA asks to see the list then the company must provide it as soon as possible (MAR, Article 18(1)(c)).
 
@@ -335,9 +312,8 @@ If the FCA asks to see the list then the company must provide it as soon as poss
 
 Listing Rule 1.4.11R and Transparency Rule 6.3.2R require that all regulated information must be disclosed in accordance with DTRs 6.3.3R to 6.3.8R which sets out minimum standards of dissemination.
 
-```ad-important
-The RIS system complies with these requirements. 
-```
+> [!important]
+> The RIS system complies with these requirements. 
 
 #### Copies of Documents
 
@@ -348,9 +324,8 @@ Listing Rules 9.6.1R to 9.6.3R provide that a premium listed company must file t
 
 The company must also notify an RIS that it has filed such documents with the FCA, and set out where copies of the document can be obtained.
 
-```ad-note
-These provisions have now been superseded by the obligation on listed companies to file documents with the NSM.
-```
+> [!note]
+> These provisions have now been superseded by the obligation on listed companies to file documents with the NSM.
 
 #### Notification Relating to Capital
 
@@ -392,9 +367,8 @@ Listing Rules 9.6.16R and 9.6.17R provide that the premium listed company must n
 
 The premium listed company must notify an RIS as soon as possible after a general meeting of all resolutions passed (other than resolutions concerning ordinary business passed at an AGM) (LR 9.6.18R).
 
-```ad-note
-"Ordinary business" is not defined.
-```
+> [!note]
+> "Ordinary business" is not defined.
 
 #### Change of Name
 
@@ -416,11 +390,9 @@ A listed company must pass on the information it receives to an RIS no later tha
 
 #### RIS Not Open for Business
 
-```ad-question
-title: What happens when the company suddenly discovers it needs to make an announcement, to comply with the ‘as soon as possible’ requirement, and the RIS is closed?
-
-DTR 1.3.6R and LR 1.3.4R, which provide that the company must ensure that it distributes the information to at least two national newspapers in the UK and to two newswire services operating in the UK. In addition the information should be notified to an RIS as soon as it re-opens.
-```
+> [!question] What happens when the company suddenly discovers it needs to make an announcement, to comply with the ‘as soon as possible’ requirement, and the RIS is closed?
+> 
+> DTR 1.3.6R and LR 1.3.4R, which provide that the company must ensure that it distributes the information to at least two national newspapers in the UK and to two newswire services operating in the UK. In addition the information should be notified to an RIS as soon as it re-opens.
 
 ## Disclosure of Transactions by Managers
 
@@ -441,11 +413,10 @@ PDMRs, including directors, manage the day-to-day business of the company. They 
 
 #### PDMR
 
-```ad-defn
-A PDMR is defined in UK MAR, Article 3(1)(25) as:
-1. a member of the administrative, management or supervisory body [of the listed company]; and
-2. a senior executive who is not a member of the administrative, management or supervisory body of that entity, but who has regular access to inside information relating directly or indirectly to [the listed company] and the power to make managerial decisions affecting the future developments and business prospects of [the listed company].
-```
+> [!defn]
+> A PDMR is defined in UK MAR, Article 3(1)(25) as:
+> 1. a member of the administrative, management or supervisory body [of the listed company]; and
+> 2. a senior executive who is not a member of the administrative, management or supervisory body of that entity, but who has regular access to inside information relating directly or indirectly to [the listed company] and the power to make managerial decisions affecting the future developments and business prospects of [the listed company].
 
 As regards a senior executive who is not a director, DTR 3.1.2AG(2) makes it clear that the nature, or even absence, of a contractual arrangement between him and the company will not prevent that person being a PDMR if he has regular access to the company’s inside information and he can take managerial decisions.
 
@@ -497,24 +468,20 @@ A PDMR is not allowed to make a transaction during a ‘closed period’ (UK MAR
 
 #### "Closed period"
 
-```ad-defn
-A ‘closed period’ is defined as the period of 30 calendar days before the announcement of an interim financial report or a year-end report which the listed company is obliged to make public according to the rules of the trading venue.
-```
+> [!defn]
+> A ‘closed period’ is defined as the period of 30 calendar days before the announcement of an interim financial report or a year-end report which the listed company is obliged to make public according to the rules of the trading venue.
 
 This will be the date of the announcement of preliminary financial results provided the disclosed preliminary financial results contain all the key information relating to the financial figures expected to be included in the final year-end report.
 
-```ad-note
-A company listed on the Main Market of the London Stock Exchange is obliged to produce an annual financial report and a six-monthly report.
-```
+> [!note]
+> A company listed on the Main Market of the London Stock Exchange is obliged to produce an annual financial report and a six-monthly report.
 
 #### Exceptions
 
 A PDMR may conduct a transaction during a closed period in the circumstances set out in UK MAR, Article 19(12). The PDMR must be able to demonstrate that the particular transaction cannot be executed at another moment in time than during the closed period.
 
-```ad-defn
-title: Exceptional circumstances
-Commission Delegated Regulation (EU) 2016/522:  Circumstances shall be considered to be exceptional when they are extremely urgent, unforeseen and compelling and where their cause is external to the PDMR and the PDMR has no control over them.
-```
+> [!defn] Exceptional circumstances
+> Commission Delegated Regulation (EU) 2016/522:  Circumstances shall be considered to be exceptional when they are extremely urgent, unforeseen and compelling and where their cause is external to the PDMR and the PDMR has no control over them.
 
 The PDMR wishing to avail him or herself of this exception must provide a reasoned written request to the listed company for obtaining its permission to proceed with immediate sale of shares during a closed period. The company will take into account whether the PDMR:
 
@@ -576,10 +543,8 @@ ss 308, 309, 333, 1143, 1148 CA 2006 apply to all companies. Permit (but do not 
 
 Transparency Rule 6.1.7G permits (but does not compel) listed companies to communicate with their shareholders by ‘electronic means’, provided certain conditions are met, the most important of these being (DTR 6.1.8R) the need for prior approval of the shareholders by ordinary resolution and for identification arrangements to be put in place.
 
-```ad-defn
-title: Electronic means
-A ‘means of electronic equipment for the processing (including digital compression), storage and transmission of data, employing wires, radio optical technologies, or any other electromagnetic means.’
-```
+> [!defn] Electronic means
+> A ‘means of electronic equipment for the processing (including digital compression), storage and transmission of data, employing wires, radio optical technologies, or any other electromagnetic means.’
 
 ICSA has produced a guidance note for electronic communication with shareholders setting out recommended best practice.
 

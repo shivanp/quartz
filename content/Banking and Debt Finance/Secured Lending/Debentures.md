@@ -58,19 +58,16 @@ and
 
 > A charge in favour of a debtor of his own indebtedness to the chargor is conceptually impossible.
 
-```ad-note
-title: Logic
-- An account is a debt owed by a bank to a depositor. 
-- A debt is a right to sue the debtor for the amount owed. 
-- If this was charged/ mortgaged in favour of the debt, this would give the debtor the right to sue itself. 
-- So this would cancel/ reduce the debt. 
-```
+> [!note] Logic
+> - An account is a debt owed by a bank to a depositor. 
+> - A debt is a right to sue the debtor for the amount owed. 
+> - If this was charged/ mortgaged in favour of the debt, this would give the debtor the right to sue itself. 
+> - So this would cancel/ reduce the debt. 
 
 In [[Morris v Agrichemicals Ltd [1997] 3 WLR 909]] (‘BCCI No 8’), the House of Lords, led by Lord Hoffmann, declared that a **charge** in favour of a person over the benefit of a deposit made with that person, by another, is not a conceptual impossibility. But an assignment (mortgage) of the account to the bank remains ineffective.
 
-```ad-question
-How shold a depositor provide a bank with security ("cash collateral") over a deposit with that bank?
-```
+> [!question]
+> How shold a depositor provide a bank with security ("cash collateral") over a deposit with that bank?
 
 The means of enforcing a cash collateral arrangement should be by set-off – contractual set-off prior to winding-up, and mandatory set-off after winding-up. Any security granted over the account is intended to ensure that the money is in the account when the bank needs to set off. So the bank should require:
 
@@ -79,10 +76,9 @@ The means of enforcing a cash collateral arrangement should be by set-off – co
 3. a prohibition on the depositor assigning the account (to deal with the fact that a bona fide purchaser, for value, without notice could defeat the fixed charge); and
 4. if the depositor’s obligation is contingent, a ‘flawed asset’ arrangement (that is, the deposit only becomes repayable at the same time that the depositor’s debt becomes due and unpaid). This protects the account from a liquidator until the bank can exercise its rights of set-off.
 
-```ad-note
-- An assignment (mortgage) will usually be possible if security over an account is given to a security trustee or an agent bank on behalf of a syndicate
-- None of these issues will apply if a borrower gives security over an account held with a third party bank.
-```
+> [!note]
+> - An assignment (mortgage) will usually be possible if security over an account is given to a security trustee or an agent bank on behalf of a syndicate
+> - None of these issues will apply if a borrower gives security over an account held with a third party bank.
 
 #### Goodwill
 
@@ -109,13 +105,11 @@ In the early 1990s there was a run of judgments which moved against the previous
 
 Eventually, the position was resolved in [[National Westminster Bank plc v Spectrum Plus Limited and others [2005] UKHL 41]]. It is now very difficult to demonstrate the requisite level of control over book debts for a fixed charge. It would require at least a blocked account.
 
-```ad-important
-title: Charge over book debts
-
-From the case of [[National Westminster Bank plc v Spectrum Plus Limited and others [2005] UKHL 41]] it is only possible to have a fixed charge over book debts if they are paid into a blocked account which gives the lender the degree of control required.
-
-**Book debts can only be secured by a fixed charge where the charge holder has control over both the debts and the proceeds once they were paid.**
-```
+> [!important] Charge over book debts
+> 
+> From the case of [[National Westminster Bank plc v Spectrum Plus Limited and others [2005] UKHL 41]] it is only possible to have a fixed charge over book debts if they are paid into a blocked account which gives the lender the degree of control required.
+> 
+> **Book debts can only be secured by a fixed charge where the charge holder has control over both the debts and the proceeds once they were paid.**
 
 The vexed question for practitioners, still unanswered by the courts, is how much control (if any) may be given to the borrower without fixed security being lost.
 
@@ -164,10 +158,8 @@ Contractual rights are choses in action and so may be secured by way of assignme
 
 ### Further Assurance Clause
 
-```ad-defn
-title: Further assurance
-An undertaking by the borrower to do anything necessary in order to perfect the security.
-```
+> [!defn] Further assurance
+> An undertaking by the borrower to do anything necessary in order to perfect the security.
 
 May include execution of documents, conversion of an equitable to legal mortgage, deposit of documents of title or provision of additional security.
 

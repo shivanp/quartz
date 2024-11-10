@@ -100,39 +100,37 @@ Effect of s 551(1)(b): brings more than just shares within the ambit of s 551. T
 
 ![[s551-flowchart.png]]
 
-```ad-statute
-title: s 551 CA 2006 - Power of directors to allot shares etc: authorisation by company
-
-(1) The directors of a company may exercise a power of the company—
-- (a) to allot shares in the company, or
-- (b) to grant rights to subscribe for or to convert any security into shares in the company,
-
-if they are authorised to do so by the company's articles or by resolution of the company.
-
-(2) Authorisation may be given for a particular exercise of the power or for its exercise generally, and may be unconditional or subject to conditions.
-
-(3) Authorisation must—
-- (a) state the maximum amount of shares that may be allotted under it, and
-- (b) specify the date on which it will expire, which must be not more than five years from—
-	- (i) in the case of authorisation contained in the company's articles at the time of its original incorporation, the date of that incorporation;
-	- (ii) in any other case, the date on which the resolution is passed by virtue of which the authorisation is given.
-
-(4) Authorisation may—
-- (a) be renewed or further renewed by resolution of the company for a further period not exceeding five years, and
-- (b) be revoked or varied at any time by resolution of the company.
-
-(5) A resolution renewing authorisation must—
-- (a) state (or restate) the maximum amount of shares that may be allotted under the authorisation or, as the case may be, the amount remaining to be allotted under it, and
-- (b) specify the date on which the renewed authorisation will expire.
-
-(6) In relation to rights to subscribe for or to convert any security into shares in the company, references in this section to the maximum amount of shares that may be allotted under the authorisation are to the maximum amount of shares that may be allotted pursuant to the rights.
-
-(7) The directors may allot shares, or grant rights to subscribe for or to convert any security into shares, after authorisation has expired if—
-- (a) the shares are allotted, or the rights are granted, in pursuance of an offer or agreement made by the company before the authorisation expired, and
-- (b) the authorisation allowed the company to make an offer or agreement which would or might require shares to be allotted, or rights to be granted, after the authorisation had expired.
-
-(8) A resolution of a company to give, vary, revoke or renew authorisation under this section may be an ordinary resolution, even though it amends the company's articles.
-```
+> [!statute] s 551 CA 2006 - Power of directors to allot shares etc: authorisation by company
+> 
+> (1) The directors of a company may exercise a power of the company—
+> - (a) to allot shares in the company, or
+> - (b) to grant rights to subscribe for or to convert any security into shares in the company,
+> 
+> if they are authorised to do so by the company's articles or by resolution of the company.
+> 
+> (2) Authorisation may be given for a particular exercise of the power or for its exercise generally, and may be unconditional or subject to conditions.
+> 
+> (3) Authorisation must—
+> - (a) state the maximum amount of shares that may be allotted under it, and
+> - (b) specify the date on which it will expire, which must be not more than five years from—
+> 	- (i) in the case of authorisation contained in the company's articles at the time of its original incorporation, the date of that incorporation;
+> 	- (ii) in any other case, the date on which the resolution is passed by virtue of which the authorisation is given.
+> 
+> (4) Authorisation may—
+> - (a) be renewed or further renewed by resolution of the company for a further period not exceeding five years, and
+> - (b) be revoked or varied at any time by resolution of the company.
+> 
+> (5) A resolution renewing authorisation must—
+> - (a) state (or restate) the maximum amount of shares that may be allotted under the authorisation or, as the case may be, the amount remaining to be allotted under it, and
+> - (b) specify the date on which the renewed authorisation will expire.
+> 
+> (6) In relation to rights to subscribe for or to convert any security into shares in the company, references in this section to the maximum amount of shares that may be allotted under the authorisation are to the maximum amount of shares that may be allotted pursuant to the rights.
+> 
+> (7) The directors may allot shares, or grant rights to subscribe for or to convert any security into shares, after authorisation has expired if—
+> - (a) the shares are allotted, or the rights are granted, in pursuance of an offer or agreement made by the company before the authorisation expired, and
+> - (b) the authorisation allowed the company to make an offer or agreement which would or might require shares to be allotted, or rights to be granted, after the authorisation had expired.
+> 
+> (8) A resolution of a company to give, vary, revoke or renew authorisation under this section may be an ordinary resolution, even though it amends the company's articles.
 
 ### Existing S 551 Authority
 
@@ -192,13 +190,11 @@ Breach of s 551 does not actually invalidate the share allotment (CA 2006, s 549
 
 ## Allotment Pre-emption
 
-```ad-question
-Do the pre-emption rights under s 561 apply to the allotment? Does the company need to disapply them?
-```
+> [!question]
+> Do the pre-emption rights under s 561 apply to the allotment? Does the company need to disapply them?
 
-```ad-defn
-A pre-emption right on allotment is a right of first refusal for existing shareholders on an issue of shares by a company. When a company wants to issue shares, it must first offer those shares to the existing shareholders in proportion to their existing shareholdings.
-```
+> [!defn]
+> A pre-emption right on allotment is a right of first refusal for existing shareholders on an issue of shares by a company. When a company wants to issue shares, it must first offer those shares to the existing shareholders in proportion to their existing shareholdings.
 
 The right of pre-emption protects the shareholders against the dilution of their shareholdings. Provisions found in:
 
@@ -209,38 +205,30 @@ The right of pre-emption protects the shareholders against the dilution of their
 
 ### S 561 CA 2006
 
-```ad-statute
-title: s 561 CA 2006
-(1) A company must not allot equity securities to a person on any terms unless—
-
-- (a) it has made an offer to each person who holds ordinary shares in the company to allot to him on the same or more favourable terms a proportion of those securities that is as nearly as practicable equal to the proportion in nominal value held by him of the ordinary share capital of the company, and
-
-- (b) the period during which any such offer may be accepted has expired or the company has received notice of the acceptance or refusal of every offer so made.
-
-(2) Securities that a company has offered to allot to a holder of ordinary shares may be allotted to him, or anyone in whose favour he has renounced his right to their allotment, without contravening subsection (1)(b).
-```
+> [!statute] s 561 CA 2006
+> (1) A company must not allot equity securities to a person on any terms unless—
+> 
+> - (a) it has made an offer to each person who holds ordinary shares in the company to allot to him on the same or more favourable terms a proportion of those securities that is as nearly as practicable equal to the proportion in nominal value held by him of the ordinary share capital of the company, and
+> 
+> - (b) the period during which any such offer may be accepted has expired or the company has received notice of the acceptance or refusal of every offer so made.
+> 
+> (2) Securities that a company has offered to allot to a holder of ordinary shares may be allotted to him, or anyone in whose favour he has renounced his right to their allotment, without contravening subsection (1)(b).
 
 Provides statutory pre-emption rights on allotment. A company proposing to issue equity securities in return for cash must first offer the shares to holders of ordinary shares in proportion to the nominal value of their existing shareholdings.
 
-```ad-defn
-title: Equity securities
-The shares the company is proposing to issue which might trigger pre-emption rights, so that those equity securities must be offered first to those people who have pre-emption rights; and
-```
+> [!defn] Equity securities
+> The shares the company is proposing to issue which might trigger pre-emption rights, so that those equity securities must be offered first to those people who have pre-emption rights; and
 
-```ad-defn
-title: Ordinary shares 
-The shares which entitle their owners to pre-emption rights, so that their owners are offered first refusal over an issue of equity securities.
-```
+> [!defn] Ordinary shares
+> The shares which entitle their owners to pre-emption rights, so that their owners are offered first refusal over an issue of equity securities.
 
 ### Equity Securities
 
-```ad-statute
-title: s 560(1)
-- “equity securities” means—
-	- (a) ordinary shares in the company, or
-	- (b) rights to subscribe for, or to convert securities into, ordinary shares in the company;
-- “ordinary shares” means shares other than shares that as respects dividends and capital carry a right to participate only up to a specified amount in a distribution.
-```
+> [!statute] s 560(1)
+> - “equity securities” means—
+> 	- (a) ordinary shares in the company, or
+> 	- (b) rights to subscribe for, or to convert securities into, ordinary shares in the company;
+> - “ordinary shares” means shares other than shares that as respects dividends and capital carry a right to participate only up to a specified amount in a distribution.
 
 So equity securities are:
 
@@ -253,9 +241,8 @@ So equity securities are:
 
 ![[Equity securities]]
 
-```ad-warning
-Under LR 9.3.11R, holders of "equity shares" in a premium-listed company only are entitled to be offered "equity securities" on an issue of "equity securities".  Under the statutory pre-emption right (s561 CA 2006) holders of "ordinary shares" are entitled to be offered "equity securities" on a pre-emptive basis. The Listing Rules definition of "equity securities" however is narrower than the s560 CA 2006 definition of "equity securities" in that it doesn't include rights to subscribe for ordinary shares.
-```
+> [!warning]
+> Under LR 9.3.11R, holders of "equity shares" in a premium-listed company only are entitled to be offered "equity securities" on an issue of "equity securities".  Under the statutory pre-emption right (s561 CA 2006) holders of "ordinary shares" are entitled to be offered "equity securities" on a pre-emptive basis. The Listing Rules definition of "equity securities" however is narrower than the s560 CA 2006 definition of "equity securities" in that it doesn't include rights to subscribe for ordinary shares.
 
 ### For Cash
 
@@ -278,11 +265,9 @@ Falls within the definition of equity securities, but outside the definition of 
 
 #### Employee Share Schemes
 
-```ad-statute
-title: s 566 - Exceptions to pre-emption right: employees' share schemes
-
-Section 561 (existing shareholders' right of pre-emption) does not apply to the allotment of equity securities that would, apart from any renunciation or assignment of the right to their allotment, be held under or allotted or transferred pursuant to an employees' share scheme.
-```
+> [!statute] s 566 - Exceptions to pre-emption right: employees' share schemes
+> 
+> Section 561 (existing shareholders' right of pre-emption) does not apply to the allotment of equity securities that would, apart from any renunciation or assignment of the right to their allotment, be held under or allotted or transferred pursuant to an employees' share scheme.
 
 Employee share scheme shares will not trigger the s 561 pre-emption provisions when they are issued, but, once issued, they will entitle their owners to pre-emption rights in the event that the company issues equity securities.
 
@@ -314,9 +299,8 @@ Sections 564 and 577 state that the allotment of bonus/subscriber shares will no
 
 Premium listed companies only must, in addition to the statutory pre-emption rights, comply with pre-emption rights on allotment (LR 9.3.11R). The Listing Rules rights apply just to premium listed companies. These will usually be UK-registered, but they may also be registered overseas and so not subject to the CA 2006.
 
-```ad-important
-On an issue of equity securities for cash, there is a continuing obligation on a premium listed company to offer those shares first to the existing equity shareholders (of shares of that class, or of another class who are entitled to be offered them) in proportion to their existing holdings. 
-```
+> [!important]
+> On an issue of equity securities for cash, there is a continuing obligation on a premium listed company to offer those shares first to the existing equity shareholders (of shares of that class, or of another class who are entitled to be offered them) in proportion to their existing holdings. 
 
 An issue by a premium listed company pursuant to the pre-emption rights set out in LR 9.3.11R is known as a ‘rights issue’ or an ‘open offer’.
 
@@ -340,36 +324,34 @@ Public companies can disapply pre-emption rights under ss 570 and 571 of the CA 
 
 #### Specific Disapplication (s 571)
 
-```ad-statute
-title: s 571 - Disapplication of pre-emption rights by special resolution
-
-(1) Where the directors of a company are authorised for the purposes of section 551 (power of directors to allot shares etc: authorisation by company), whether generally or otherwise, the company may by special resolution resolve that section 561 (existing shareholders' right of pre-emption)—
-- (a) does not apply to a specified allotment of equity securities to be made pursuant to that authorisation, or
-- (b) applies to such an allotment with such modifications as may be specified in the resolution.
-
-(2) Where such a resolution is passed the provisions of this Chapter have effect accordingly.
-
-(3) A special resolution under this section ceases to have effect when the authorisation to which it relates—
-- (a) is revoked, or
-- (b) would (if not renewed) expire.
-
-But if the authorisation is renewed the resolution may also be renewed, for a period not longer than that for which the authorisation is renewed, by a special resolution of the company.
-
-(4) Notwithstanding that any such resolution has expired, the directors may allot equity securities in pursuance of an offer or agreement previously made by the company if the resolution enabled the company to make an offer or agreement that would or might require equity securities to be allotted after it expired.
-
-(5) A special resolution under this section, or a special resolution to renew such a resolution, must not be proposed unless—
-- (a) it is recommended by the directors, and
-- (b) the directors have complied with the following provisions.
-
-(6) Before such a resolution is proposed, the directors must make a written statement setting out—
-- (a) their reasons for making the recommendation,
-- (b) the amount to be paid to the company in respect of the equity securities to be allotted, and
-- (c) the directors' justification of that amount.
-
-(7) The directors' statement must—
-- (a) if the resolution is proposed as a written resolution, be sent or submitted to every eligible member at or before the time at which the proposed resolution is sent or submitted to him;
-- (b) if the resolution is proposed at a general meeting, be circulated to the members entitled to notice of the meeting with that notice.
-```
+> [!statute] s 571 - Disapplication of pre-emption rights by special resolution
+> 
+> (1) Where the directors of a company are authorised for the purposes of section 551 (power of directors to allot shares etc: authorisation by company), whether generally or otherwise, the company may by special resolution resolve that section 561 (existing shareholders' right of pre-emption)—
+> - (a) does not apply to a specified allotment of equity securities to be made pursuant to that authorisation, or
+> - (b) applies to such an allotment with such modifications as may be specified in the resolution.
+> 
+> (2) Where such a resolution is passed the provisions of this Chapter have effect accordingly.
+> 
+> (3) A special resolution under this section ceases to have effect when the authorisation to which it relates—
+> - (a) is revoked, or
+> - (b) would (if not renewed) expire.
+> 
+> But if the authorisation is renewed the resolution may also be renewed, for a period not longer than that for which the authorisation is renewed, by a special resolution of the company.
+> 
+> (4) Notwithstanding that any such resolution has expired, the directors may allot equity securities in pursuance of an offer or agreement previously made by the company if the resolution enabled the company to make an offer or agreement that would or might require equity securities to be allotted after it expired.
+> 
+> (5) A special resolution under this section, or a special resolution to renew such a resolution, must not be proposed unless—
+> - (a) it is recommended by the directors, and
+> - (b) the directors have complied with the following provisions.
+> 
+> (6) Before such a resolution is proposed, the directors must make a written statement setting out—
+> - (a) their reasons for making the recommendation,
+> - (b) the amount to be paid to the company in respect of the equity securities to be allotted, and
+> - (c) the directors' justification of that amount.
+> 
+> (7) The directors' statement must—
+> - (a) if the resolution is proposed as a written resolution, be sent or submitted to every eligible member at or before the time at which the proposed resolution is sent or submitted to him;
+> - (b) if the resolution is proposed at a general meeting, be circulated to the members entitled to notice of the meeting with that notice.
 
 A disapplication of pre-emption rights in relation to a specific allotment must be effected by a special resolution. However, this is not a popular method because of the requirements of s 571(5)–(7). This provides that before the resolution is proposed, the directors must recommend that the resolution be passed and circulate a written statement setting out:
 
@@ -383,23 +365,21 @@ The statement must be circulated to the members before the general meeting to pa
 
 The disapplication can be effected either by special resolution, which is most common, or by a provision in the articles. Unlike under s 571, the directors are not required to make any recommendation in relation to the resolution.
 
-```ad-statute
-title: s 570 - Disapplication of pre-emption rights: directors acting under general authorisation
-
-(1) Where the directors of a company are generally authorised for the purposes of section 551 (power of directors to allot shares etc: authorisation by company), they may be given power by the articles, or by a special resolution of the company, to allot equity securities pursuant to that authorisation as if section 561 (existing shareholders' right of pre-emption)—
-- (a) did not apply to the allotment, or
-- (b) applied to the allotment with such modifications as the directors may determine.
-
-(2) Where the directors make an allotment under this section, the provisions of this Chapter have effect accordingly.
-
-(3) The power conferred by this section ceases to have effect when the authorisation to which it relates—
-- (a) is revoked, or
-- (b) would (if not renewed) expire.
-
-But if the authorisation is renewed the power may also be renewed, for a period not longer than that for which the authorisation is renewed, by a special resolution of the company.
-
-(4) Notwithstanding that the power conferred by this section has expired, the directors may allot equity securities in pursuance of an offer or agreement previously made by the company if the power enabled the company to make an offer or agreement that would or might require equity securities to be allotted after it expired.
-```
+> [!statute] s 570 - Disapplication of pre-emption rights: directors acting under general authorisation
+> 
+> (1) Where the directors of a company are generally authorised for the purposes of section 551 (power of directors to allot shares etc: authorisation by company), they may be given power by the articles, or by a special resolution of the company, to allot equity securities pursuant to that authorisation as if section 561 (existing shareholders' right of pre-emption)—
+> - (a) did not apply to the allotment, or
+> - (b) applied to the allotment with such modifications as the directors may determine.
+> 
+> (2) Where the directors make an allotment under this section, the provisions of this Chapter have effect accordingly.
+> 
+> (3) The power conferred by this section ceases to have effect when the authorisation to which it relates—
+> - (a) is revoked, or
+> - (b) would (if not renewed) expire.
+> 
+> But if the authorisation is renewed the power may also be renewed, for a period not longer than that for which the authorisation is renewed, by a special resolution of the company.
+> 
+> (4) Notwithstanding that the power conferred by this section has expired, the directors may allot equity securities in pursuance of an offer or agreement previously made by the company if the power enabled the company to make an offer or agreement that would or might require equity securities to be allotted after it expired.
 
 #### Duration
 
@@ -438,15 +418,13 @@ Paragraph 1 of Part 1 of the Statement: the Principles apply to equity issues fo
 
 A general disapplication is one sought by a company at an AGM other than for the purpose of an identified, proposed issue of ordinary shares (Part 2A, para 1). While the company needs to explain why the disapplication is required, and notify shareholders of the need for it in good time, shareholders are likely to agree in principle with such requests.
 
-```ad-guid
-title: When a general disapplication is likely to be supported by institutional shareholders
-1. when the company is seeking authority to issue **non-pre-emptively $\leq 5\%$** issued ordinary share capital in any one year (regardless of the purpose) (Part 2A, para 3);
-2. when the company is seeking authority to issue **non-pre-emptively** no more than an **additional 5%** of issued ordinary share capital provided that the company intends to use it only in connection with an **acquisition or specified capital investment** which is announced together with the issue, or which has taken place in the preceding **six-month** period;
-3. a company should not issue more than **7.5% of its ordinary share capital for cash**, other than to existing shareholders, in any rolling three year period (excluding a disapplication for an acquisition or specified capital investment or a specific disapplication, unless:
-	1. it has consulted suitably in advance, or
-	2. the matter was specifically highlighted when the disapplication request was made (Part 2B, para 2); and
-4. the price at which the shares are proposed to be issued should be at a **discount** of no more than **5%** (Part 2B, para 5).
-```
+> [!guid] When a general disapplication is likely to be supported by institutional shareholders
+> 1. when the company is seeking authority to issue **non-pre-emptively $\leq 5\%$** issued ordinary share capital in any one year (regardless of the purpose) (Part 2A, para 3);
+> 2. when the company is seeking authority to issue **non-pre-emptively** no more than an **additional 5%** of issued ordinary share capital provided that the company intends to use it only in connection with an **acquisition or specified capital investment** which is announced together with the issue, or which has taken place in the preceding **six-month** period;
+> 3. a company should not issue more than **7.5% of its ordinary share capital for cash**, other than to existing shareholders, in any rolling three year period (excluding a disapplication for an acquisition or specified capital investment or a specific disapplication, unless:
+> 	1. it has consulted suitably in advance, or
+> 	2. the matter was specifically highlighted when the disapplication request was made (Part 2B, para 2); and
+> 4. the price at which the shares are proposed to be issued should be at a **discount** of no more than **5%** (Part 2B, para 5).
 
 A disapplication should not be granted for more than 15 months or until the next AGM, whichever is the shorter (Part 2A, para 4).
 
@@ -487,12 +465,10 @@ A public company cannot allot shares as fully or partly paid up otherwise than i
 
 ### Issuing Shares at a Discount
 
-```ad-statute
-title: s 580 - Shares not to be allotted at a discount
-(1) A company's shares must not be allotted at a discount.
-
-(2) If shares are allotted in contravention of this section, the allottee is liable to pay the company an amount equal to the amount of the discount, with interest at the appropriate rate.
-```
+> [!statute] s 580 - Shares not to be allotted at a discount
+> (1) A company's shares must not be allotted at a discount.
+> 
+> (2) If shares are allotted in contravention of this section, the allottee is liable to pay the company an amount equal to the amount of the discount, with interest at the appropriate rate.
 
 Public company: each share (other than a share allotted pursuant to an employee share scheme) must be paid up at least as to one-quarter of its nominal value, together with the whole of any premium paid on it.
 
@@ -500,13 +476,11 @@ Pre-emption Group’s Principles provide that a listed company should not issue 
 
 ### Valuation of Non-cash Consideration
 
-```ad-statute
-title: s 593(1)
-A public company must not allot shares as fully or partly paid up (as to their nominal value or any premium on them) otherwise than in cash unless—
-- (a) the consideration for the allotment has been independently valued in accordance with the provisions of this Chapter,
-- (b) the valuer's report has been made to the company during the six months immediately preceding the allotment of the shares, and
-- (c) a copy of the report has been sent to the proposed allottee.
-```
+> [!statute] s 593(1)
+> A public company must not allot shares as fully or partly paid up (as to their nominal value or any premium on them) otherwise than in cash unless—
+> - (a) the consideration for the allotment has been independently valued in accordance with the provisions of this Chapter,
+> - (b) the valuer's report has been made to the company during the six months immediately preceding the allotment of the shares, and
+> - (c) a copy of the report has been sent to the proposed allottee.
 
 One important exception relates to a ‘share-for-share exchange’, that is, when the consideration for the issue of shares by one company is shares in another company. In this case, no valuation is required (s 594).
 

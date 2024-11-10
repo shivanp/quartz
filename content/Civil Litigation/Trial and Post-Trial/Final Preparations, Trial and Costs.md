@@ -41,24 +41,22 @@ A witness summons to require the attendance of an expert at trial should be used
 
 Claimant should file $3 \leq T \leq 7$ days before trial.
 
-```ad-statute
-title: PD 32 para 27.5
-Unless the court orders otherwise, the trial bundle should include a copy of—
-- (a) the claim form and all statements of case;
-- (b) a case summary and/or chronology where appropriate;
-- (c) requests for further information and responses to the requests;
-- (d) all witness statements to be relied on as evidence;
-- (e) any witness summaries;
-- (f) any notices of intention to rely on hearsay evidence under rule 32.2;
-- (g) any notices of intention to rely on evidence (such as a plan, photograph etc.) under rule 33.6 which is not—
-	- (i) contained in a witness statement, affidavit or experts’ report;
-	- (ii) being given orally at trial; and
-	- (iii) hearsay evidence under rule 33.2;
-- (h) any medical reports and responses to them;
-- (i) any experts’ reports and responses to them;
-- (j) any order giving directions as to the conduct of the trial; and
-- (k) any other necessary documents.
-```
+> [!statute] PD 32 para 27.5
+> Unless the court orders otherwise, the trial bundle should include a copy of—
+> - (a) the claim form and all statements of case;
+> - (b) a case summary and/or chronology where appropriate;
+> - (c) requests for further information and responses to the requests;
+> - (d) all witness statements to be relied on as evidence;
+> - (e) any witness summaries;
+> - (f) any notices of intention to rely on hearsay evidence under rule 32.2;
+> - (g) any notices of intention to rely on evidence (such as a plan, photograph etc.) under rule 33.6 which is not—
+> 	- (i) contained in a witness statement, affidavit or experts’ report;
+> 	- (ii) being given orally at trial; and
+> 	- (iii) hearsay evidence under rule 33.2;
+> - (h) any medical reports and responses to them;
+> - (i) any experts’ reports and responses to them;
+> - (j) any order giving directions as to the conduct of the trial; and
+> - (k) any other necessary documents.
 
 Paragraph 27.12 of PD 32 provides that the contents of the trial bundle should be agreed  
 where possible.
@@ -102,20 +100,19 @@ Include with the trial bundle:
 - Fast track: trial should be finished in one day. Usually, if it overruns, continues the next day.
 - Multi-track: consecutive days.
 
-```ad-conduct
-- SRA Code para 1.4: solicitor must never mislead the court. 
-- If client admits they have committed perjury/ misled court in a material way
-	- Refuse to act further unless the client tells the court the truth
-	- Don't inform court/ parties of the reason for ceasing to act (para 6.3 - client confidentiality)
-- $\exists$ information which the solicitor is obliged to disclose to court. 
-	- Relevant cases and statutory provisions -> within realistic limits. 
-	- But no duty to inform the court/ opponent of any facts/ witnesses which would assist the opponent. 
-- When acting as an advocate
-	- Don't insult/ say anything merely scandalous
-	- Avoid naming in open court any 3rd party whose character would be called into question, unless necessary
-	- Don't call into question character of witness, unless witness is given an opportunity to defend themselves
-	- Do not suggest a person is guilty of a crime/ fraud/ misconduct unless material to case & supported by reassonable grounds. 
-```
+> [!conduct]
+> - SRA Code para 1.4: solicitor must never mislead the court. 
+> - If client admits they have committed perjury/ misled court in a material way
+> 	- Refuse to act further unless the client tells the court the truth
+> 	- Don't inform court/ parties of the reason for ceasing to act (para 6.3 - client confidentiality)
+> - $\exists$ information which the solicitor is obliged to disclose to court. 
+> 	- Relevant cases and statutory provisions -> within realistic limits. 
+> 	- But no duty to inform the court/ opponent of any facts/ witnesses which would assist the opponent. 
+> - When acting as an advocate
+> 	- Don't insult/ say anything merely scandalous
+> 	- Avoid naming in open court any 3rd party whose character would be called into question, unless necessary
+> 	- Don't call into question character of witness, unless witness is given an opportunity to defend themselves
+> 	- Do not suggest a person is guilty of a crime/ fraud/ misconduct unless material to case & supported by reassonable grounds. 
 
 Permission is needed to tweet in court, unless you are a journalist.
 
@@ -198,26 +195,22 @@ Judgments of the High Court and County Court are officially recorded on the regi
 
 ### Indemnity Principle
 
-```ad-guid
-title: Indemnity principle
-The winner is entitled to an indemnity in respect of the costs they have incurred, meaning they cannot seek more than their solicitor and client costs. Do not confuse with indemnity basis. 
-```
+> [!guid] Indemnity principle
+> The winner is entitled to an indemnity in respect of the costs they have incurred, meaning they cannot seek more than their solicitor and client costs. Do not confuse with indemnity basis. 
 
 In reality, “indemnity” is misleading; the paying party will challenge various items.
 
 ### General Provisions
 
-```ad-statute
-title: r 44.2 CPR
-(1) The court has discretion as to –
-- (a) whether costs are payable by one party to another;
-- (b) the amount of those costs; and
-- (c) when they are to be paid.
-
-(2) If the court decides to make an order about costs –
-- (a) the general rule is that the unsuccessful party will be ordered to pay the costs of the successful party; but
-- (b) the court may make a different order.
-```
+> [!statute] r 44.2 CPR
+> (1) The court has discretion as to –
+> - (a) whether costs are payable by one party to another;
+> - (b) the amount of those costs; and
+> - (c) when they are to be paid.
+> 
+> (2) If the court decides to make an order about costs –
+> - (a) the general rule is that the unsuccessful party will be ordered to pay the costs of the successful party; but
+> - (b) the court may make a different order.
 
 “Costs” include fees, charges, disbursements, expenses and remuneration (r 44.1). This includes pre-action costs (r 44.2(6)(d)).
 
@@ -273,34 +266,32 @@ Pretty flexible, could be a proportion of a party's costs, a stated amount of pa
 
 ### Basis of Assessment
 
-```ad-statute
-title: r 44.3(1)
-(1) Where the court is to assess the amount of costs (whether by summary or detailed assessment) it will assess those costs –
-- (a) on the standard basis; or
-- (b) on the indemnity basis,
-
-but the court will not in either case allow costs which have been unreasonably incurred or are unreasonable in amount.
-
-(2) Where the amount of costs is to be assessed on the standard basis, the court will –
-- (a) only allow costs which are **proportionate** to the matters in issue. Costs which are disproportionate in amount may be disallowed or reduced even if they were reasonably or necessarily incurred; and
-- (b) resolve any doubt which it may have as to whether costs were reasonably and proportionately incurred or were reasonable and proportionate in amount in favour of the paying party.
-
-(3) Where the amount of costs is to be assessed on the indemnity basis, the court will resolve any doubt which it may have as to whether costs were **reasonably incurred or were reasonable in amount** in favour of the receiving party.
-
-(4) Where –
-- (a) the court makes an order about costs without indicating the basis on which the costs are to be assessed; or
-- (b) the court makes an order for costs to be assessed on a basis other than the standard basis or the indemnity basis,
-
-the costs will be assessed on the standard basis.
-
-(5) Costs incurred are proportionate if they bear a reasonable relationship to –
-- (a) the sums in issue in the proceedings;
-- (b) the value of any non-monetary relief in issue in the proceedings;
-- (c) the complexity of the litigation;
-- (d) any additional work generated by the conduct of the paying party,
-- (e) any wider factors involved in the proceedings, such as reputation or public importance; and
-- (f) any additional work undertaken or expense incurred due to the vulnerability of a party or any witness.
-```
+> [!statute] r 44.3(1)
+> (1) Where the court is to assess the amount of costs (whether by summary or detailed assessment) it will assess those costs –
+> - (a) on the standard basis; or
+> - (b) on the indemnity basis,
+> 
+> but the court will not in either case allow costs which have been unreasonably incurred or are unreasonable in amount.
+> 
+> (2) Where the amount of costs is to be assessed on the standard basis, the court will –
+> - (a) only allow costs which are **proportionate** to the matters in issue. Costs which are disproportionate in amount may be disallowed or reduced even if they were reasonably or necessarily incurred; and
+> - (b) resolve any doubt which it may have as to whether costs were reasonably and proportionately incurred or were reasonable and proportionate in amount in favour of the paying party.
+> 
+> (3) Where the amount of costs is to be assessed on the indemnity basis, the court will resolve any doubt which it may have as to whether costs were **reasonably incurred or were reasonable in amount** in favour of the receiving party.
+> 
+> (4) Where –
+> - (a) the court makes an order about costs without indicating the basis on which the costs are to be assessed; or
+> - (b) the court makes an order for costs to be assessed on a basis other than the standard basis or the indemnity basis,
+> 
+> the costs will be assessed on the standard basis.
+> 
+> (5) Costs incurred are proportionate if they bear a reasonable relationship to –
+> - (a) the sums in issue in the proceedings;
+> - (b) the value of any non-monetary relief in issue in the proceedings;
+> - (c) the complexity of the litigation;
+> - (d) any additional work generated by the conduct of the paying party,
+> - (e) any wider factors involved in the proceedings, such as reputation or public importance; and
+> - (f) any additional work undertaken or expense incurred due to the vulnerability of a party or any witness.
 
 #### Factors (r 44.4(3))
 
@@ -358,10 +349,8 @@ If a party agrees to mediate but frustrates the process by delaying and dragging
 - Delaying too long means costs racked up are the biggest obstacle to mediation being successful.
 - So try to time it such that the details of claim and response are fully known to both sides, but costs not yet crazy.
 
-```ad-question
-title: Is a party who agrees to mediation but then causes the mediation to fail by taking an unreasonable position to be treated the same as a party who unreasonably refuses to mediate?
-Yes, held in [[Earl of Malmesbury v Strutt & Parker [2008] EWHC 424]]. But remember that ADR procedures are confidential unless all parties agree to waive confidentiality.
-```
+> [!question] Is a party who agrees to mediation but then causes the mediation to fail by taking an unreasonable position to be treated the same as a party who unreasonably refuses to mediate?
+> Yes, held in [[Earl of Malmesbury v Strutt & Parker [2008] EWHC 424]]. But remember that ADR procedures are confidential unless all parties agree to waive confidentiality.
 
 The increasing importance the court attaches to the consideration of ADR is evidenced by the standard directions that require a party who rejects a proposal for ADR to file a witness statement detailing that party’s reasons for rejecting the proposal.
 
@@ -520,12 +509,11 @@ r 46.14: either party may start proceedings by issuing a claim form in accordanc
 
 ### Practical
 
-```ad-action
-When scrutinising an opponent’s bill of costs, consider the following:
-1) Check the scope of the costs order
-2) What is the basis of assessment – standard or indemnity? Where standard, consider overall proportionality first and identify the correct tests.
-3) Interim costs orders?
-4) Check the costs budgets/CMOs. Is there a 20% or more difference?
-5) Compare solicitors’ hourly rates and counsels’ fees with the summary assessment rates.
-6) Check compliance with PD 47 as to content. Are all items claimed allowable?
-```
+> [!action]
+> When scrutinising an opponent’s bill of costs, consider the following:
+> 1) Check the scope of the costs order
+> 2) What is the basis of assessment – standard or indemnity? Where standard, consider overall proportionality first and identify the correct tests.
+> 3) Interim costs orders?
+> 4) Check the costs budgets/CMOs. Is there a 20% or more difference?
+> 5) Compare solicitors’ hourly rates and counsels’ fees with the summary assessment rates.
+> 6) Check compliance with PD 47 as to content. Are all items claimed allowable?

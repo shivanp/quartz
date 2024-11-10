@@ -71,33 +71,27 @@ Implied trusts may arise:
 - If a property is bought in A’s name, but B makes a financial contribution. A trust will be implied in favour of B to reflect B’s contribution, by way of resulting trust. So if B paid 25% of the price, A will hold the property on trust for A and B in a 75%:25% ratio. (In the context of the family home, a resulting trust no longer has any place, and a common intention constructive trust will be used instead.
 - Constructive trusts arise in a wider range of circumstances, but all respond to unconscionability. They will therefore be imposed in cases where it is unconscionable for the legal owner of the land to deny the interest of another person.
 
-```ad-example
-title: Express trust
-A grandfather made a Will in which he left his house on trust for this six grandchildren in equal shares. He appointed A and B as trustees.
+> [!example] Express trust
+> A grandfather made a Will in which he left his house on trust for this six grandchildren in equal shares. He appointed A and B as trustees.
+> 
+> After the grandfather’s death, the executors of his estate transferred the legal title of the house to A and B. As the Will set out the declaration of trust in writing which was signed (LPA 1925, s 53(1)(b)), the trust is properly declared in favour of the grandchildren. They hold the equitable interest.
+> 
+> The trustees have the power to sell the house, but they cannot keep the proceeds: they are bound as trustees to account to the beneficiaries or reinvest for them.
 
-After the grandfather’s death, the executors of his estate transferred the legal title of the house to A and B. As the Will set out the declaration of trust in writing which was signed (LPA 1925, s 53(1)(b)), the trust is properly declared in favour of the grandchildren. They hold the equitable interest.
+> [!example] Express trust
+> A brother and sister, X and Y, bought a home together. X paid 75% of the price and Y paid 25%.
+> 
+> The transfer deed transferred the legal title to them both. In the transfer deed X and Y made an express declaration that they hold the property for themselves beneficially in proportion to their contributions (75% for X and 25% for Y.)
+> 
+> Here, X and Y hold both the legal and equitable title. The flexible rules relating to the equitable title enable them to reflect their individual contributions.
 
-The trustees have the power to sell the house, but they cannot keep the proceeds: they are bound as trustees to account to the beneficiaries or reinvest for them.
-```
-
-```ad-example
-title: Express trust
-A brother and sister, X and Y, bought a home together. X paid 75% of the price and Y paid 25%.
-
-The transfer deed transferred the legal title to them both. In the transfer deed X and Y made an express declaration that they hold the property for themselves beneficially in proportion to their contributions (75% for X and 25% for Y.)
-
-Here, X and Y hold both the legal and equitable title. The flexible rules relating to the equitable title enable them to reflect their individual contributions.
-```
-
-```ad-example
-title: Implied trust
-
-V and W decided to buy a home together. Although they both contributed to the purchase price, the property was transferred to V as sole legal owner.
-
-As the property was bought as a family home, and W paid part of the price, they may be able to establish an interest under a common intention constructive trust. No formalities are required for this to happen: LPA 1925, s 53(2). V will hold the property as trustee for V and W in shares quantified by the court.
-
-If the property is mortgaged or sold, V as trustee will be the person who has the power to execute the mortgage or transfer deed.
-```
+> [!example] Implied trust
+> 
+> V and W decided to buy a home together. Although they both contributed to the purchase price, the property was transferred to V as sole legal owner.
+> 
+> As the property was bought as a family home, and W paid part of the price, they may be able to establish an interest under a common intention constructive trust. No formalities are required for this to happen: LPA 1925, s 53(2). V will hold the property as trustee for V and W in shares quantified by the court.
+> 
+> If the property is mortgaged or sold, V as trustee will be the person who has the power to execute the mortgage or transfer deed.
 
 ## Legal and Equitable Titles
 
@@ -144,9 +138,8 @@ The practical significance of holding land as a joint tenant or as a tenant in c
 
 This means that the notional interest of the deceased joint tenant accrues to the surviving joint tenants. It is incorrect to say that the deceased joint tenant’s ‘share’ goes to the surviving joint tenants, as of course a joint tenant does not have a ‘share’ in the first place.
 
-```ad-note
-The right of survivorship will only apply to co-owners holding the land as joint tenants.
-```
+> [!note]
+> The right of survivorship will only apply to co-owners holding the land as joint tenants.
 
 Survivorship operates automatically as soon as the joint tenant dies. This means that the interest accrues immediately on death and is unaffected by any provision in a will, or by the intestacy rules if there is no will. This is because a will is of no effect until after death, by which time the survivorship has already operated. Therefore, any provision in a will which purports to leave a joint tenant’s interest to someone will have no effect: [[Re Caines deceased [1978] 1 WLR 540]].
 
@@ -201,20 +194,19 @@ Where there is no specific wording, a rebuttable presumption of a tenancy in com
 - land is a business asset ([[Lake v Craddock (1732) 3 P Wms 158]]); and
 - the purchase price of a non-domestic property has been paid in unequal shares ([[Bull v Bull [1955] 1 QB 234]]).
 
-```ad-summary
-Legal Title
-- Maximum of 4 Trustees (i.e. 4 legal owners registered at the Land Registry)
-- All must be ‘sui juris’ (+18 and of sound mind)
-- Must hold as joint tenants. This means the 4 unities must be present and the right of survivorship applies.
-- The joint tenancy cannot be severed into a tenancy in common
-
-Equitable Title
-- Unlimited number can hold
-- Can be held by U18’s and those that lack mental capacity
-- Can be held as joint tenancy or tenancy in common
-- Equitable joint tenancy can be severed into tenancy in common
-- Survivorship also applies to equitable joint tenancy, but not to an equitable tenancy in common
-```
+> [!summary]
+> Legal Title
+> - Maximum of 4 Trustees (i.e. 4 legal owners registered at the Land Registry)
+> - All must be ‘sui juris’ (+18 and of sound mind)
+> - Must hold as joint tenants. This means the 4 unities must be present and the right of survivorship applies.
+> - The joint tenancy cannot be severed into a tenancy in common
+> 
+> Equitable Title
+> - Unlimited number can hold
+> - Can be held by U18’s and those that lack mental capacity
+> - Can be held as joint tenancy or tenancy in common
+> - Equitable joint tenancy can be severed into tenancy in common
+> - Survivorship also applies to equitable joint tenancy, but not to an equitable tenancy in common
 
 ## Severance
 
@@ -236,35 +228,32 @@ One of the most important brakes on the trustee’s powers is contained in [TLAT
 
 This means that if the trustees wish to sell the property they are obliged to consult the beneficiaries, but need not give effect to their wishes unless it is deemed to be in the general interest of the trust.
 
-```ad-statute
-title: s 6 TLATA 1996
-(1) For the purpose of exercising their functions as trustees, the trustees of land have in relation to the land subject to the trust all the powers of an absolute owner.
+> [!statute] s 6 TLATA 1996
+> (1) For the purpose of exercising their functions as trustees, the trustees of land have in relation to the land subject to the trust all the powers of an absolute owner.
+> 
+> (2) Where in the case of any land subject to a trust of land each of the beneficiaries interested in the land is a person of full age and capacity who is absolutely entitled to the land, the powers conferred on the trustees by subsection (1) include the power to convey the land to the beneficiaries even though they have not required the trustees to do so; and where land is conveyed by virtue of this subsection—
+> 
+> - (a) the beneficiaries shall do whatever is necessary to secure that it vests in them, and
+> 
+> - (b) if they fail to do so, the court may make an order requiring them to do so.
+> 
+> (3) The trustees of land have power to acquire land under the power conferred by section 8 of the Trustee Act 2000.
+> 
+> (5) In exercising the powers conferred by this section trustees shall have regard to the rights of the beneficiaries.
+> 
+> (6) The powers conferred by this section shall not be exercised in contravention of, or of any order made in pursuance of, any other enactment or any rule of law or equity.
+> 
+> (7) The reference in subsection (6) to an order includes an order of any court or of the Charity Commission.
+> 
+> (8) Where any enactment other than this section confers on trustees authority to act subject to any restriction, limitation or condition, trustees of land may not exercise the powers conferred by this section to do any act which they are prevented from doing under the other enactment by reason of the restriction, limitation or condition.
+> 
+> (9) The duty of care under section 1 of the Trustee Act 2000 applies to trustees of land when exercising the powers conferred by this section.
 
-(2) Where in the case of any land subject to a trust of land each of the beneficiaries interested in the land is a person of full age and capacity who is absolutely entitled to the land, the powers conferred on the trustees by subsection (1) include the power to convey the land to the beneficiaries even though they have not required the trustees to do so; and where land is conveyed by virtue of this subsection—
-
-- (a) the beneficiaries shall do whatever is necessary to secure that it vests in them, and
-
-- (b) if they fail to do so, the court may make an order requiring them to do so.
-
-(3) The trustees of land have power to acquire land under the power conferred by section 8 of the Trustee Act 2000.
-
-(5) In exercising the powers conferred by this section trustees shall have regard to the rights of the beneficiaries.
-
-(6) The powers conferred by this section shall not be exercised in contravention of, or of any order made in pursuance of, any other enactment or any rule of law or equity.
-
-(7) The reference in subsection (6) to an order includes an order of any court or of the Charity Commission.
-
-(8) Where any enactment other than this section confers on trustees authority to act subject to any restriction, limitation or condition, trustees of land may not exercise the powers conferred by this section to do any act which they are prevented from doing under the other enactment by reason of the restriction, limitation or condition.
-
-(9) The duty of care under section 1 of the Trustee Act 2000 applies to trustees of land when exercising the powers conferred by this section.
-```
-
-```ad-summary
-Trustees - hold legal title
-- Have the powers of an absolute owner (s 6(1)) but must have regard to the rights of the beneficiaries (s 6(5))
-- Duty of care imposed in s 6(9) and Trustee Act 2000 s 1
-- Duty to consult beneficiaries of full age and give effect to the wishes of those beneficiaries or, in the case of a dispute, to the wishes of the majority by value of the combined interests.
-```
+> [!summary]
+> Trustees - hold legal title
+> - Have the powers of an absolute owner (s 6(1)) but must have regard to the rights of the beneficiaries (s 6(5))
+> - Duty of care imposed in s 6(9) and Trustee Act 2000 s 1
+> - Duty to consult beneficiaries of full age and give effect to the wishes of those beneficiaries or, in the case of a dispute, to the wishes of the majority by value of the combined interests.
 
 ### Rights of Beneficiaries
 
@@ -283,19 +272,17 @@ Beneficiaries have a right to occupy trust property: [TLATA 1996, s 12](https://
 1. It must be shown that the land was intended for occupation by those beneficiaries: TLATA 1996, s 12(1).
 2. It must be shown that the land is suitable for occupation by the particular beneficiaries: TLATA 1996, s 12(2).
 
-```ad-statute
-title: s 12 TLATA 1996
-
-(1) A beneficiary who is beneficially entitled to an interest in possession in land subject to a trust of land is entitled by reason of his interest to occupy the land at any time if at that time—
-
-- (a) the purposes of the trust include making the land available for his occupation (or for the occupation of beneficiaries of a class of which he is a member or of beneficiaries in general), or
-
-- (b) the land is held by the trustees so as to be so available.
-
-(2) Subsection (1) does not confer on a beneficiary a right to occupy land if it is either unavailable or unsuitable for occupation by him.
-
-(3) This section is subject to section 13.
-```
+> [!statute] s 12 TLATA 1996
+> 
+> (1) A beneficiary who is beneficially entitled to an interest in possession in land subject to a trust of land is entitled by reason of his interest to occupy the land at any time if at that time—
+> 
+> - (a) the purposes of the trust include making the land available for his occupation (or for the occupation of beneficiaries of a class of which he is a member or of beneficiaries in general), or
+> 
+> - (b) the land is held by the trustees so as to be so available.
+> 
+> (2) Subsection (1) does not confer on a beneficiary a right to occupy land if it is either unavailable or unsuitable for occupation by him.
+> 
+> (3) This section is subject to section 13.
 
 It is clear from above that where a couple owns a home jointly, each will have the right to occupy it, as the property is both intended and suitable for occupation by them.
 
@@ -315,11 +302,10 @@ If a beneficiary is already in occupation of the land, the trustees cannot exerc
 
 These provisions weaken the apparently strong right to occupy considerably.
 
-```ad-summary
-Beneficiaries - hold Equitable title
-- Right to be consulted if 18+ (s 11)
-- Right to occupy the land (s 12) if the land was intended for and is suitable for occupation, but can be restricted if two or more beneficiaries have the right to occupy (s 13). Conditions can also be imposed, such as paying outgoings.
-```
+> [!summary]
+> Beneficiaries - hold Equitable title
+> - Right to be consulted if 18+ (s 11)
+> - Right to occupy the land (s 12) if the land was intended for and is suitable for occupation, but can be restricted if two or more beneficiaries have the right to occupy (s 13). Conditions can also be imposed, such as paying outgoings.
 
 ## Dispute Resolution
 
@@ -335,19 +321,17 @@ Trusts of Land and Appointment of Trustees Act 1996 (TLATA 1996) does not simply
 
 [TLATA 1996, s 14](https://www.legislation.gov.uk/ukpga/1996/47/section/14) gives courts jurisdiction to hear applications regarding disputes which involve co-owned land. Anyone with an interest in the land can apply to the court for an order relating to it.
 
-```ad-statute
-title: s 14 TLATA 1996
-(1) Any person who is a trustee of land or has an interest in property subject to a trust of land may make an application to the court for an order under this section.
-
-(2) On an application for an order under this section the court may make any such order—
-- (a) relating to the exercise by the trustees of any of their functions (including an order relieving them of any obligation to obtain the consent of, or to consult, any person in connection with the exercise of any of their functions), or
-- (b) declaring the nature or extent of a person’s interest in property subject to the trust,
-as the court thinks fit.
-
-(3) The court may not under this section make any order as to the appointment or removal of trustees.
-
-(4) The powers conferred on the court by this section are exercisable on an application whether it is made before or after the commencement of this Act.
-```
+> [!statute] s 14 TLATA 1996
+> (1) Any person who is a trustee of land or has an interest in property subject to a trust of land may make an application to the court for an order under this section.
+> 
+> (2) On an application for an order under this section the court may make any such order—
+> - (a) relating to the exercise by the trustees of any of their functions (including an order relieving them of any obligation to obtain the consent of, or to consult, any person in connection with the exercise of any of their functions), or
+> - (b) declaring the nature or extent of a person’s interest in property subject to the trust,
+> as the court thinks fit.
+> 
+> (3) The court may not under this section make any order as to the appointment or removal of trustees.
+> 
+> (4) The powers conferred on the court by this section are exercisable on an application whether it is made before or after the commencement of this Act.
 
 - Applicants could be trustees; beneficiaries; mortgagees of the legal or equitable title; trustees in bankruptcy; people who hold charging orders etc.
 - The court may order trustees to do something eg: sell; or allow a beneficiary into occupation. It cannot order one beneficiary to ‘buy out’ the another
@@ -357,28 +341,25 @@ as the court thinks fit.
 
 The court must apply all factors in [s 15 TLATA 1996](https://www.legislation.gov.uk/ukpga/1996/47/section/15) in reaching its decision in relation to s 14 applications. It cannot pick and choose which factors to apply: all relevant factors must be considered equally. Each must be considered carefully and a decision made as to whether it leans towards granting an application for, say, an order for sale, or against it.
 
-```ad-statute
-title: s 15 TLATA 1996
-(1) The matters to which the court is to have regard in determining an application for an order under section 14 include—
-- (a) the intentions of the person or persons (if any) who created the trust,
-- (b) the purposes for which the property subject to the trust is held,
-- (c) the welfare of any minor who occupies or might reasonably be expected to occupy any land subject to the trust as his home, and
-- (d) the interests of any secured creditor of any beneficiary.
-
-(2) In the case of an application relating to the exercise in relation to any land of the powers conferred on the trustees by section 13, the matters to which the court is to have regard also include the circumstances and wishes of each of the beneficiaries who is (or apart from any previous exercise by the trustees of those powers would be) entitled to occupy the land under section 12.
-
-(3) In the case of any other application, other than one relating to the exercise of the power mentioned in section 6(2), the matters to which the court is to have regard also include the circumstances and wishes of any beneficiaries of full age and entitled to an interest in possession in property subject to the trust or (in case of dispute) of the majority (according to the value of their combined interests).
-
-(4) This section does not apply to an application if section 335A of the M1Insolvency Act 1986 (which is inserted by Schedule 3 and relates to applications by a trustee of a bankrupt) applies to it.
-```
+> [!statute] s 15 TLATA 1996
+> (1) The matters to which the court is to have regard in determining an application for an order under section 14 include—
+> - (a) the intentions of the person or persons (if any) who created the trust,
+> - (b) the purposes for which the property subject to the trust is held,
+> - (c) the welfare of any minor who occupies or might reasonably be expected to occupy any land subject to the trust as his home, and
+> - (d) the interests of any secured creditor of any beneficiary.
+> 
+> (2) In the case of an application relating to the exercise in relation to any land of the powers conferred on the trustees by section 13, the matters to which the court is to have regard also include the circumstances and wishes of each of the beneficiaries who is (or apart from any previous exercise by the trustees of those powers would be) entitled to occupy the land under section 12.
+> 
+> (3) In the case of any other application, other than one relating to the exercise of the power mentioned in section 6(2), the matters to which the court is to have regard also include the circumstances and wishes of any beneficiaries of full age and entitled to an interest in possession in property subject to the trust or (in case of dispute) of the majority (according to the value of their combined interests).
+> 
+> (4) This section does not apply to an application if section 335A of the M1Insolvency Act 1986 (which is inserted by Schedule 3 and relates to applications by a trustee of a bankrupt) applies to it.
 
 When we are considering co-owned land, we need not be concerned with the factor in **TLATA 1996, s 15(a)** as this relates to expressly created lifetime trusts, or will trusts, and not to everyday co-ownership. It is where someone sits down to bequeath their assets through a trust to create wealth for their family. TLATA 1996, s 15(b) requires the court to consider: "the purposes for which the property subject to the trust is held".
 
 If that purpose is still continuing, it will weigh against an order for sale being made. The contrasting cases [[In re Ever’s Trust [1980] 1 WLR 1327]] and [[Jones v Challenger [1961] 1 QB 176]] illustrate this.
 
-```ad-note
-These cases were decided under a different statutory regime, before TLATA 1996 came into force, but there is no reason to think that, were they to be decided today, the outcome would be any different.
-```
+> [!note]
+> These cases were decided under a different statutory regime, before TLATA 1996 came into force, but there is no reason to think that, were they to be decided today, the outcome would be any different.
 
 #### S 15(c)
 
@@ -402,14 +383,13 @@ Further cases:
 
 Finally, do not forget the general sweeper in s 15(3). The court must have regard to the wishes of the beneficiaries who are over 18. If there is a dispute, the court shall have regard to the majority (in respect of value of interest held.)
 
-```ad-summary
-**TLATA 1996 s 14** allows anyone with an interest in land to apply to the court for an order in relation to that land.
-
-The usual form of order requested is an order for sale of the property, which can be postponed for a period of time.
-
-In making its decision, the court must have regard to the criteria in **TLATA 1996, s 15.**
-
-All criteria should be weighed even-handedly: the purpose for which the land was bought; the interests of minors; the interests of secured creditors; and the circumstances and wishes of beneficiaries of full age.
-
-In practice, greater weight tends to be given to the interests of creditors, especially where the debt has spiralled out of control, or there is sufficient equity in the property to purchase an alternative.
-```
+> [!summary]
+> **TLATA 1996 s 14** allows anyone with an interest in land to apply to the court for an order in relation to that land.
+> 
+> The usual form of order requested is an order for sale of the property, which can be postponed for a period of time.
+> 
+> In making its decision, the court must have regard to the criteria in **TLATA 1996, s 15.**
+> 
+> All criteria should be weighed even-handedly: the purpose for which the land was bought; the interests of minors; the interests of secured creditors; and the circumstances and wishes of beneficiaries of full age.
+> 
+> In practice, greater weight tends to be given to the interests of creditors, especially where the debt has spiralled out of control, or there is sufficient equity in the property to purchase an alternative.

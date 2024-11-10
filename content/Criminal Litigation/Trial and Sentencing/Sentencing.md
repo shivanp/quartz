@@ -20,36 +20,32 @@ date modified: Monday, September 12th 2022, 11:59:39 pm
 
 ## Purpose
 
-```ad-statute
-title: s 57 SC - purposes of sentencing: adults
-
-(1) This section applies where—
-- (a) a court is dealing with an offender for an offence, and
-- (b) the offender is aged 18 or over.
-
-(2) The court must have regard to the following purposes of sentencing—
-- (a) the **punishment** of offenders,
-- (b) the **reduction of crime** (including its reduction by deterrence),
-- (c) the **reform and rehabilitation** of offenders,
-- (d) the **protection** of the public, and
-- (e) the making of **reparation** by offenders to persons affected by their offences.
-
-(3) Subsection (1) does not apply—
-- (a) to an offence in relation to which a mandatory sentence requirement applies (see section 399)
-```
+> [!statute] s 57 SC - purposes of sentencing: adults
+> 
+> (1) This section applies where—
+> - (a) a court is dealing with an offender for an offence, and
+> - (b) the offender is aged 18 or over.
+> 
+> (2) The court must have regard to the following purposes of sentencing—
+> - (a) the **punishment** of offenders,
+> - (b) the **reduction of crime** (including its reduction by deterrence),
+> - (c) the **reform and rehabilitation** of offenders,
+> - (d) the **protection** of the public, and
+> - (e) the making of **reparation** by offenders to persons affected by their offences.
+> 
+> (3) Subsection (1) does not apply—
+> - (a) to an offence in relation to which a mandatory sentence requirement applies (see section 399)
 
 The court's decision must be open:
 
-```ad-statute
-title: s 52 SC 2020
-(2) The court must state **in open court, in ordinary language** and in general terms, the court's reasons for deciding on the sentence.
-
-(3) The court must **explain to the offender** in ordinary language—
-- (a) the effect of the sentence,
-- (b) the effects of non-compliance with any order that the offender is required to comply with and that forms part of the sentence,
-- (c) any power of the court to vary or review any order that forms part of the sentence, and
-- (d) the effects of failure to pay a fine, if the sentence consists of or includes a fine.
-```
+> [!statute] s 52 SC 2020
+> (2) The court must state **in open court, in ordinary language** and in general terms, the court's reasons for deciding on the sentence.
+> 
+> (3) The court must **explain to the offender** in ordinary language—
+> - (a) the effect of the sentence,
+> - (b) the effects of non-compliance with any order that the offender is required to comply with and that forms part of the sentence,
+> - (c) any power of the court to vary or review any order that forms part of the sentence, and
+> - (d) the effects of failure to pay a fine, if the sentence consists of or includes a fine.
 
 ## Types of Sentence
 
@@ -62,38 +58,34 @@ These are referred to as the “sentencing ladder”.
 
 ![[sentencing-ladder.png]]
 
-```ad-statute
-title: s 204 SC 2020 - Exercise of power to impose community order: general considerations
+> [!statute] s 204 SC 2020 - Exercise of power to impose community order: general considerations
+> 
+> (1) This section applies where a community order is available.
+> 
+> (2) The court must not make a community order unless it is of the opinion that—
+> - (a) the offence, or
+> - (b) the combination of the offence and one or more offences associated with it,
+> 
+> was serious enough to warrant the making of such an order.
+> 
+> (3) In forming its opinion for the purposes of subsection (2), the court must take into account all the information that is available to it about the circumstances of the offence, or of it and the associated offence or offences, including any aggravating or mitigating factors.
+> 
+> (4) The pre-sentence report requirements (see section 30) apply to the court in relation to forming that opinion.
+> 
+> (5) The fact that, by virtue of subsection (2), the court may make a community order does not require it to do so.
 
-(1) This section applies where a community order is available.
-
-(2) The court must not make a community order unless it is of the opinion that—
-- (a) the offence, or
-- (b) the combination of the offence and one or more offences associated with it,
-
-was serious enough to warrant the making of such an order.
-
-(3) In forming its opinion for the purposes of subsection (2), the court must take into account all the information that is available to it about the circumstances of the offence, or of it and the associated offence or offences, including any aggravating or mitigating factors.
-
-(4) The pre-sentence report requirements (see section 30) apply to the court in relation to forming that opinion.
-
-(5) The fact that, by virtue of subsection (2), the court may make a community order does not require it to do so.
-```
-
-```ad-statute
-title: s 230 SC 2020 - Threshold for imposing discretionary custodial sentence
-(1) Subsection (2) applies where a person is convicted of an offence which is punishable with a custodial sentence.
-
-This is subject to subsection (3).
-
-(2) The court must not pass a custodial sentence unless it is of the opinion that—
-- (a) the offence, or
-- (b) the combination of the offence and one or more offences associated with it,
-
-was so serious that neither a fine alone nor a community sentence can be justified for the offence.
-
-*Threshold generally not applicable where mandatory sentence requirement applies*.
-```
+> [!statute] s 230 SC 2020 - Threshold for imposing discretionary custodial sentence
+> (1) Subsection (2) applies where a person is convicted of an offence which is punishable with a custodial sentence.
+> 
+> This is subject to subsection (3).
+> 
+> (2) The court must not pass a custodial sentence unless it is of the opinion that—
+> - (a) the offence, or
+> - (b) the combination of the offence and one or more offences associated with it,
+> 
+> was so serious that neither a fine alone nor a community sentence can be justified for the offence.
+> 
+> *Threshold generally not applicable where mandatory sentence requirement applies*.
 
 ### Ancillary Orders
 
@@ -141,16 +133,14 @@ CJA 2003 radically changed sentencing.
 
 ### Seriousness
 
-```ad-statute
-title: s 63 - Assessing seriousness
-
-Where a court is considering the seriousness of any offence, it must consider—
-- (a) the offender's culpability in committing the offence, and
-- (b) any harm which the offence—
-	- (i) caused,
-	- (ii) was intended to cause, or
-	- (iii) might foreseeably have caused. 
-```
+> [!statute] s 63 - Assessing seriousness
+> 
+> Where a court is considering the seriousness of any offence, it must consider—
+> - (a) the offender's culpability in committing the offence, and
+> - (b) any harm which the offence—
+> 	- (i) caused,
+> 	- (ii) was intended to cause, or
+> 	- (iii) might foreseeably have caused. 
 
 General Guideline for sentencing offences not covered by a specific sentencing guideline, effective from 01/10/19.
 
@@ -184,15 +174,13 @@ Any discounted sentence in consequence of assistance given/ offered to the prose
 
 #### 4: Reduction for Guilty Pleas
 
-```ad-statute
-title: s 73 SC 2020
-
-(1) This section applies where a court is determining what sentence to pass on an offender who has pleaded guilty to an offence in proceedings before that or another court.
-
-(2) The court must take into account the following matters—
-- (a) the **stage in the proceedings** for the offence at which the offender indicated the intention to plead guilty, and
-- (b) the **circumstances** in which the indication was given.
-```
+> [!statute] s 73 SC 2020
+> 
+> (1) This section applies where a court is determining what sentence to pass on an offender who has pleaded guilty to an offence in proceedings before that or another court.
+> 
+> (2) The court must take into account the following matters—
+> - (a) the **stage in the proceedings** for the offence at which the offender indicated the intention to plead guilty, and
+> - (b) the **circumstances** in which the indication was given.
 
 The Reduction in Sentence for a Guilty Plea Definitive Guideline applies to all adult Ds and to both the [[Magistrates' Court]] and [[Crown Court]].
 
@@ -202,10 +190,8 @@ $\frac{1}{3}$ discount on sentence available:
 - on a guilty plea and committal for sentence;
 - on indication of a guilty plea to an indictable-only offence, followed by a guilty plea at first hearing in the Crown Court.
 
-```ad-defn
-title: Committal
-A committal for sentence happens when magistrates have found someone guilty of a crime but they think their sentencing powers are not enough. The magistrates transfer the case to the Crown Court where a higher sentence can be imposed.
-```
+> [!defn] Committal
+> A committal for sentence happens when magistrates have found someone guilty of a crime but they think their sentencing powers are not enough. The magistrates transfer the case to the Crown Court where a higher sentence can be imposed.
 
 $\frac{1}{4}$ discount available at the plea and trial preparation hearing stage (PTPH).
 
@@ -259,9 +245,8 @@ Standard format of report. Report includes:
 	- If D is of good character, can someone in a position of respect in the community provide a character reference?
 - Medical reports
 
-```ad-action
-Solicitor should discuss report with D and ensure accuracy.
-```
+> [!action]
+> Solicitor should discuss report with D and ensure accuracy.
 
 ## Sentencing Procedure
 
@@ -292,9 +277,8 @@ Usually if a judge adjourns a case for preparation of reports, they will reserve
 
 Again there is a presumption of bail.
 
-```ad-important
-D must be told the reasons for and effect of the sentence imposed (s 52(1) SC 2020)
-```
+> [!important]
+> D must be told the reasons for and effect of the sentence imposed (s 52(1) SC 2020)
 
 ## Conduct
 

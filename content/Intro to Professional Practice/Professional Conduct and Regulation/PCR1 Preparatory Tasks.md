@@ -46,17 +46,15 @@ Under para 6.2, to use this exception:
 
 Principle 7 is relevant: need to act in the best interests of both the clients (note this is always the case for conflicts of interest).
 
-```ad-statute
-title: para 6.2 Code for Solicitors
-You do not act in relation to a matter or particular aspect of it if you have a [conflict of interest](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#conflict-of-interest) or a significant risk of such a conflict in relation to that matter or aspect of it, unless:
-
-1.  the [clients](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#client) have a [substantially common interest](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#substantially-common-interest) in relation to the matter or the aspect of it, as appropriate; or
-2.  the [clients](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#client) are [competing for the same objective](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#competing-for-the-same-objective),  
-      
-    and the conditions below are met, namely that:
-    1.  all the [clients](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#client) have given informed consent, given or evidenced in writing, to you acting;
-    2.  where appropriate, you put in place effective safeguards to protect your [clients](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#client)' confidential information; and
-    3.  you are satisfied it is reasonable for you to act for all the [clients](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#client).
-```
+> [!statute] para 6.2 Code for Solicitors
+> You do not act in relation to a matter or particular aspect of it if you have a [conflict of interest](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#conflict-of-interest) or a significant risk of such a conflict in relation to that matter or aspect of it, unless:
+> 
+> 1.  the [clients](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#client) have a [substantially common interest](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#substantially-common-interest) in relation to the matter or the aspect of it, as appropriate; or
+> 2.  the [clients](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#client) are [competing for the same objective](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#competing-for-the-same-objective),  
+>       
+>     and the conditions below are met, namely that:
+>     1.  all the [clients](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#client) have given informed consent, given or evidenced in writing, to you acting;
+>     2.  where appropriate, you put in place effective safeguards to protect your [clients](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#client)' confidential information; and
+>     3.  you are satisfied it is reasonable for you to act for all the [clients](https://www.sra.org.uk/solicitors/standards-regulations/glossary/#client).
 
 There does seem to be quite a significant risk here. One is probably going to claim from the other under contributory negligence. So probably shouldn't take them both on to start with. So not reasonable to take them both on.

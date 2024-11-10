@@ -35,12 +35,10 @@ You're allowed 2 ringbinders in the exam. So probably need to highlight and shit
 
 Do it this way for all written questions.
 
-```ad-note
-Be specific whether you're talking about code for solicitors or for firms.
-```
+> [!note]
+> Be specific whether you're talking about code for solicitors or for firms.
 
 Key case about mistaken correspondence: [[Ablitt v Mills & Reeve (1995)]].
 
-```ad-warning
-Competing for the same objective company does not apply to takeover of a public company (see SRA glossary)
-```
+> [!warning]
+> Competing for the same objective company does not apply to takeover of a public company (see SRA glossary)

@@ -109,54 +109,48 @@ April 2005 – procedural rules for criminal court consolidated into the CrimPR,
 
 ### Overriding Objective
 
-```ad-statute
-title: r 1.1 Criminal Procedure Rules 2020 - The overriding objective
-
-(1) The overriding objective of this procedural code is that criminal cases be dealt with justly.
-
-(2) Dealing with a criminal case justly includes―
-- (a) acquitting the innocent and convicting the guilty;
-- (b) dealing with the prosecution and the defence fairly;
-- (c) recognising the rights of a defendant, particularly those under Article 6 of the European Convention on Human Rights;
-- (d) respecting the interests of witnesses, victims and jurors and keeping them informed of the progress of the case;
-- (e) dealing with the case efficiently and expeditiously;
-- (f) ensuring that appropriate information is available to the court when bail and sentence are considered; and
-- (g) dealing with the case in ways that take into account―
-	- (i) the gravity of the offence alleged,
-	- (ii) the complexity of what is in issue,
-	- (iii) the severity of the consequences for the defendant and others affected, and
-	- (iv) the needs of other cases. 
-```
+> [!statute] r 1.1 Criminal Procedure Rules 2020 - The overriding objective
+> 
+> (1) The overriding objective of this procedural code is that criminal cases be dealt with justly.
+> 
+> (2) Dealing with a criminal case justly includes―
+> - (a) acquitting the innocent and convicting the guilty;
+> - (b) dealing with the prosecution and the defence fairly;
+> - (c) recognising the rights of a defendant, particularly those under Article 6 of the European Convention on Human Rights;
+> - (d) respecting the interests of witnesses, victims and jurors and keeping them informed of the progress of the case;
+> - (e) dealing with the case efficiently and expeditiously;
+> - (f) ensuring that appropriate information is available to the court when bail and sentence are considered; and
+> - (g) dealing with the case in ways that take into account―
+> 	- (i) the gravity of the offence alleged,
+> 	- (ii) the complexity of what is in issue,
+> 	- (iii) the severity of the consequences for the defendant and others affected, and
+> 	- (iv) the needs of other cases. 
 
 ### Duty of Participants
 
-```ad-statute
-title: r 1.2 CrimPR - The duty of the participants in a criminal case
-(1) Each participant, in the conduct of each case, must―
-- (a) prepare and conduct the case in accordance with the overriding objective;
-- (b) comply with these Rules, practice directions and directions made by the court; and
-- (c) at once inform the court and all parties of any significant failure (whether or not that participant is responsible for that failure) to take any procedural step required by these Rules, any practice direction or any direction of the court. A failure is significant if it might hinder the court in furthering the overriding objective.
-
-(2) Anyone involved in any way with a criminal case is a participant in its conduct for the purposes of this rule.
-
-```
+> [!statute] r 1.2 CrimPR - The duty of the participants in a criminal case
+> (1) Each participant, in the conduct of each case, must―
+> - (a) prepare and conduct the case in accordance with the overriding objective;
+> - (b) comply with these Rules, practice directions and directions made by the court; and
+> - (c) at once inform the court and all parties of any significant failure (whether or not that participant is responsible for that failure) to take any procedural step required by these Rules, any practice direction or any direction of the court. A failure is significant if it might hinder the court in furthering the overriding objective.
+> 
+> (2) Anyone involved in any way with a criminal case is a participant in its conduct for the purposes of this rule.
+> 
 
 ### Case Management Powers
 
 The court must further the overriding objective (r 3.2(1)) by actively managing the case (r 3.2(1)).
 
-```ad-statute
-title: r 3.2(2)
-Active case management includes―
-- (a) the early identification of the real issues;
-- (b) the early identification of the needs of witnesses;
-- (c) achieving certainty as to what must be done, by whom, and when, in particular by the early setting of a timetable for the progress of the case;
-- (d) monitoring the progress of the case and compliance with directions;
-- (e) ensuring that evidence, whether disputed or not, is presented in the shortest and clearest way;
-- (f) discouraging delay, dealing with as many aspects of the case as possible on the same occasion, and avoiding unnecessary hearings;
-- (g) encouraging the participants to co-operate in the progression of the case; and
-- (h) making use of technology.
-```
+> [!statute] r 3.2(2)
+> Active case management includes―
+> - (a) the early identification of the real issues;
+> - (b) the early identification of the needs of witnesses;
+> - (c) achieving certainty as to what must be done, by whom, and when, in particular by the early setting of a timetable for the progress of the case;
+> - (d) monitoring the progress of the case and compliance with directions;
+> - (e) ensuring that evidence, whether disputed or not, is presented in the shortest and clearest way;
+> - (f) discouraging delay, dealing with as many aspects of the case as possible on the same occasion, and avoiding unnecessary hearings;
+> - (g) encouraging the participants to co-operate in the progression of the case; and
+> - (h) making use of technology.
 
 Parties must actively assist the court in its duty to manage the case (r 3.3), since failure to do so is inconsistent with the overriding objective ([[R (on the application of DPP) v Chorley [2006] EWHC 1795]]).
 
@@ -164,17 +158,15 @@ Parties must actively assist the court in its duty to manage the case (r 3.3), s
 - The court will nominate a “case progression officer”, ensuring the parties comply and keeping the court informed of anything affecting the case.
 - The court is given the power to make any direction or take any step actively to manage a case, unless such a direction or step would contravene legislation (r 3.5).
 
-```ad-statute
-title: r 3.8 - Case preparation and progression
-(1) At every hearing, if a case cannot be concluded there and then the court must give directions so that it can be concluded at the next hearing or as soon as possible after that.
-
-(2) At every hearing the court must, where relevant―
-- (a) if the defendant is absent, decide whether to proceed nonetheless;
-- (b) take the defendant’s plea (unless already done) or if no plea can be taken then find out whether the defendant is likely to plead guilty or not guilty;
-- (c) set, follow or revise a timetable for the progress of the case, which may include a timetable for any hearing including the trial or (in the Crown Court) the appeal;
-- (d) in giving directions, ensure continuity in relation to the court and to the parties’ representatives where that is appropriate and practicable; and
-- (e) where a direction has not been complied with, find out why, identify who was responsible, and take appropriate action. 
-```
+> [!statute] r 3.8 - Case preparation and progression
+> (1) At every hearing, if a case cannot be concluded there and then the court must give directions so that it can be concluded at the next hearing or as soon as possible after that.
+> 
+> (2) At every hearing the court must, where relevant―
+> - (a) if the defendant is absent, decide whether to proceed nonetheless;
+> - (b) take the defendant’s plea (unless already done) or if no plea can be taken then find out whether the defendant is likely to plead guilty or not guilty;
+> - (c) set, follow or revise a timetable for the progress of the case, which may include a timetable for any hearing including the trial or (in the Crown Court) the appeal;
+> - (d) in giving directions, ensure continuity in relation to the court and to the parties’ representatives where that is appropriate and practicable; and
+> - (e) where a direction has not been complied with, find out why, identify who was responsible, and take appropriate action. 
 
 ## Professional Conduct
 
@@ -183,9 +175,8 @@ title: r 3.8 - Case preparation and progression
 - All solicitors in criminal proceedings have a duty not to mislead the court (para 1.4 SRA Code)
 - This overrides Principle 7 – the duty to act in the client's best interests.
 
-```ad-conduct
-If a client tells you they intend to give false evidence at court, the solicitor must tell the client that the solicitor will need to be withdrawn from acting for the client unless the client agrees not to do this. 
-```
+> [!conduct]
+> If a client tells you they intend to give false evidence at court, the solicitor must tell the client that the solicitor will need to be withdrawn from acting for the client unless the client agrees not to do this. 
 
 ### Prosecution
 
@@ -377,12 +368,10 @@ detention was authorised have ceased to apply, the suspect must be released imme
 
 Section 41 provides that a person ‘shall not be kept in police detention for more than 24 hours without being charged’. This 24-hour period begins from the ‘relevant time’.
 
-```ad-defn
-title: Relevant time
-1. In the case of a person attending voluntarily at the police station who is then arrested at the police station, the time of his arrest (s 41(2)(c));
-2. In the case of a person who attends a police station to answer ‘street bail’ granted under s 30A, the time when he arrives at the police station (s 41(2)(ca));
-3. In any other case, the relevant time is the time when the suspect arrested arrives at the first police station to which he is taken after his arrest (s 41(1)(d)).
-```
+> [!defn] Relevant time
+> 1. In the case of a person attending voluntarily at the police station who is then arrested at the police station, the time of his arrest (s 41(2)(c));
+> 2. In the case of a person who attends a police station to answer ‘street bail’ granted under s 30A, the time when he arrives at the police station (s 41(2)(ca));
+> 3. In any other case, the relevant time is the time when the suspect arrested arrives at the first police station to which he is taken after his arrest (s 41(1)(d)).
 
 #### Extending Maximum Period
 
@@ -399,9 +388,8 @@ The police are able to obtain a warrant of further detention from a magistrates�
 
 In exceptional cases, the police may make an additional application to a magistrates’ court under s 44 for an extension of the warrant of further detention granted under s 43.
 
-```ad-note
-The police can detain a suspect in police custody for a maximum period of four days before that suspect must be either released or charged.
-```
+> [!note]
+> The police can detain a suspect in police custody for a maximum period of four days before that suspect must be either released or charged.
 
 #### Detention Reviews
 
@@ -413,30 +401,26 @@ The first review must take place no later than six hours after **the custody off
 
 ### Right to Have Someone Informed of the Arrest
 
-```ad-statute
-title: s 56 - Right to have someone informed when arrested.
-(1) Where a person has been arrested and is being held in custody in a police station or other premises, he shall be entitled, if he so requests, to have one friend or relative or other person who is known to him or who is likely to take an interest in his welfare told, as soon as is practicable except to the extent that delay is permitted by this section, that he has been arrested and is being detained there. 
-
-(2) Delay is only permitted—
-- (a) in the case of a person who is in police detention for an indictable offence ; and
-- (b) if an officer of at least the rank of inspector authorises it.
-
-(3) In any case the person in custody must be permitted to exercise the right conferred by subsection (1) above within 36 hours from the relevant time, as defined in section 41(2) above.
-
-(4) An officer may give an authorisation under subsection (2) above orally or in writing but, if he gives it orally, he shall confirm it in writing as soon as is practicable.
-
-(5) An officer may only authorise delay where he has reasonable grounds for believing that telling the named person of the arrest—
-- (a) will lead to interference with or harm to evidence connected with an indictable offence or interference with or physical injury to other persons; or
-- (b) will lead to the alerting of other persons suspected of having committed such an offence but not yet arrested for it; or
-- (c) will hinder the recovery of any property obtained as a result of such an offence.
-```
+> [!statute] s 56 - Right to have someone informed when arrested.
+> (1) Where a person has been arrested and is being held in custody in a police station or other premises, he shall be entitled, if he so requests, to have one friend or relative or other person who is known to him or who is likely to take an interest in his welfare told, as soon as is practicable except to the extent that delay is permitted by this section, that he has been arrested and is being detained there. 
+> 
+> (2) Delay is only permitted—
+> - (a) in the case of a person who is in police detention for an indictable offence ; and
+> - (b) if an officer of at least the rank of inspector authorises it.
+> 
+> (3) In any case the person in custody must be permitted to exercise the right conferred by subsection (1) above within 36 hours from the relevant time, as defined in section 41(2) above.
+> 
+> (4) An officer may give an authorisation under subsection (2) above orally or in writing but, if he gives it orally, he shall confirm it in writing as soon as is practicable.
+> 
+> (5) An officer may only authorise delay where he has reasonable grounds for believing that telling the named person of the arrest—
+> - (a) will lead to interference with or harm to evidence connected with an indictable offence or interference with or physical injury to other persons; or
+> - (b) will lead to the alerting of other persons suspected of having committed such an offence but not yet arrested for it; or
+> - (c) will hinder the recovery of any property obtained as a result of such an offence.
 
 ### Right to Legal Advice
 
-```ad-statute
-title: s 58(1)
-A person arrested and held in custody in a police station or other premises shall be entitled, if he so requests, to consult a solicitor privately at any time.
-```
+> [!statute] s 58(1)
+> A person arrested and held in custody in a police station or other premises shall be entitled, if he so requests, to consult a solicitor privately at any time.
 
 Free, independent legal advice is available. Unless a suspect asks for legal advice to be paid for by himself, the police must contact the Defence Solicitor Call Centre (DSCC) – even if the suspect has asked for a named solicitor or firm. The DSCC will then determine whether the case is such that telephone advice is sufficient or whether a solicitor should attend.
 
@@ -527,10 +511,8 @@ Exceptions:
 
 If there is no solicitor present when the suspect wants one, at the start of the interview, the suspect will be cautioned that ‘You do not have to say anything, but anything you do say may be given in evidence.’
 
-```ad-statute
-title: s 58 Youth Justice and Criminal Evidence Act 1999
-No adverse inferences may be drawn at trial from the suspect’s silence in interview if the suspect had not at the time of the interview been allowed access to legal advice.
-```
+> [!statute] s 58 Youth Justice and Criminal Evidence Act 1999
+> No adverse inferences may be drawn at trial from the suspect’s silence in interview if the suspect had not at the time of the interview been allowed access to legal advice.
 
 ## Charging Suspect
 
@@ -787,10 +769,8 @@ The police are not obliged to provide the solicitor with evidence, but will usua
 
 If the investigating officer refuses to make any disclosure, or discloses only a very limited amount of information, the solicitor should point out to him that in those circumstances the solicitor cannot properly advise the client as to the nature of the case against him and will only be able to advise the client to give a ‘no comment’ interview.
 
-```ad-statute
-title: para 11.1A, Code C
-Before a person is interviewed, they and, if they are represented, their solicitor must be given sufficient information to enable them to understand the nature of any such offence, and why they are suspected of committing it.
-```
+> [!statute] para 11.1A, Code C
+> Before a person is interviewed, they and, if they are represented, their solicitor must be given sufficient information to enable them to understand the nature of any such offence, and why they are suspected of committing it.
 
 ### Significant statements/ Silences
 
@@ -835,9 +815,8 @@ If representing both suspects, they should not disclose anything between suspect
 
 And always have regard to the overriding duty not to mislead the court.
 
-```ad-important
-Co-accused who are represented by the same solicitor may attempt to use that solicitor to pass information between each other so that they can jointly fabricate a defence and give the police a consistent ‘story’. To guard against this, the solicitor should ensure that before telling the second client what they have been told by the first client, they obtain an account of the second client’s version of events.
-```
+> [!important]
+> Co-accused who are represented by the same solicitor may attempt to use that solicitor to pass information between each other so that they can jointly fabricate a defence and give the police a consistent ‘story’. To guard against this, the solicitor should ensure that before telling the second client what they have been told by the first client, they obtain an account of the second client’s version of events.
 
 ### Disclosure to TP
 
@@ -870,11 +849,10 @@ Client has 4 options:
 | Selective silence    | None                                                                                                                                                                                                                                                                                                                    | Makes it look like D has something to hide/ has no satisfactory answer to some questions.                                                                                                                                                                                                                                                                                                                                                                                              |
 | Written statement    | Client needs to place his version of events on record, but may perform badly under interview (if young, emotional, or first conviction). Avoids adverse inferences under s 34 CJPOA 1994 **if it sets out all the facts**. The statement should say no more than is necessary to prevent the drawing of adverse inferences. | Gives the police extra information.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-```ad-important
-- If advising a "no comment" interview, make a full written note of the reasons for advising this. This may become evidence at trial. 
-- If producing a written statement, standard practice is to hand it to the police during the interview. But hand it in after the police have decided to charge the suspect, if the evidence against them is particularly weak (to avoid the statement containing a partial admission which means the suspect can be charged). 
-- Solicitor will occasionally take a written statement but keep it on file rather than handing it to the police, if the defence is existent but weak/ has plot holes. 
-```
+> [!important]
+> - If advising a "no comment" interview, make a full written note of the reasons for advising this. This may become evidence at trial. 
+> - If producing a written statement, standard practice is to hand it to the police during the interview. But hand it in after the police have decided to charge the suspect, if the evidence against them is particularly weak (to avoid the statement containing a partial admission which means the suspect can be charged). 
+> - Solicitor will occasionally take a written statement but keep it on file rather than handing it to the police, if the defence is existent but weak/ has plot holes. 
 
 ![[no-comment-decision.png]]
 
@@ -925,15 +903,13 @@ The court is not permitted to draw an adverse inference from a defendant’s sil
 
 ## S 34 Criminal Justice and Public Order Act 1994
 
-```ad-statute
-title: s 34 Criminal Justice and Public Order Act 1994
-(1) Where, in any proceedings against a person for an offence, evidence is given that the accused—
-- (a) at any time before he was charged with the offence, on being questioned under caution by a constable trying to discover whether or by whom the offence had been committed, failed to mention any fact relied on in his defence in those proceedings; or
-- (b) on being charged with the offence or officially informed that he might be prosecuted for it, failed to mention any such fact,
-- (c) at any time after being charged with the offence, on being questioned under section 22 of the Counter-Terrorism Act 2008 (post-charge questioning), failed to mention any such fact,
-
-being a fact which in the circumstances existing at the time the accused could reasonably have been expected to mention when so questioned, charged or informed... the court or jury... may draw such inferencese from the failure as appear proper. 
-```
+> [!statute] s 34 Criminal Justice and Public Order Act 1994
+> (1) Where, in any proceedings against a person for an offence, evidence is given that the accused—
+> - (a) at any time before he was charged with the offence, on being questioned under caution by a constable trying to discover whether or by whom the offence had been committed, failed to mention any fact relied on in his defence in those proceedings; or
+> - (b) on being charged with the offence or officially informed that he might be prosecuted for it, failed to mention any such fact,
+> - (c) at any time after being charged with the offence, on being questioned under section 22 of the Counter-Terrorism Act 2008 (post-charge questioning), failed to mention any such fact,
+> 
+> being a fact which in the circumstances existing at the time the accused could reasonably have been expected to mention when so questioned, charged or informed... the court or jury... may draw such inferencese from the failure as appear proper. 
 
 The terms of s 34 may be satisfied even where a defendant has answered every question put to him, if at trial he raises some other fact in his defence that he did not mention, but could reasonably have been expected to mention, when interviewed.
 
@@ -984,10 +960,8 @@ Solicitor may advise the client to remain silent:
 - If the nature of the case is particularly complex/ relates to events occurring a long time ago
 - Personal circumstances of the suspect.
 
-```ad-test
-title: Advising silence adverse inference
-Staying silent at a police interview under legal advice does not automatically prevent the court drawing an adverse inference. But the fact that D was advised not to answer questions in the police station must be given appropriate weight at trial ([[Condron v UK [2000] Crim LR 679]]). In this case, the court will ask whether the facts relied on in trial were facts which the defendant could reasonably have been expected to mention in police interview. The jury will now be directed by the trial judge that adverse inferences should not be drawn under s 34 if the jury believe that the defendant genuinely and reasonably relied on the legal advice to remain silent.
-```
+> [!test] Advising silence adverse inference
+> Staying silent at a police interview under legal advice does not automatically prevent the court drawing an adverse inference. But the fact that D was advised not to answer questions in the police station must be given appropriate weight at trial ([[Condron v UK [2000] Crim LR 679]]). In this case, the court will ask whether the facts relied on in trial were facts which the defendant could reasonably have been expected to mention in police interview. The jury will now be directed by the trial judge that adverse inferences should not be drawn under s 34 if the jury believe that the defendant genuinely and reasonably relied on the legal advice to remain silent.
 
 ## Legal Privilege
 
@@ -998,21 +972,17 @@ At trial, a defendant may give evidence which has the effect of waiving privileg
 - Once a defendant gives this information, privilege is waived ([[R v Bowden [1999] 1 WLR 823]]).
 - So can be cross-examined as to the reason for the solicitor's decision to advise him to remain silent.
 
-```ad-action
-title: Big brain strategy
-- When giving evidence-in-chief, D says nothing about the reason for his silence when interviewed
-- Prosecution during cross-examination allege D fabricated his defence. 
-- D tells court that he disclosed his defence to the solicitor whilst at the police station, but the solicitor advised him to remain silent for other reasons. 
-- D will not waive privilege ([[R v Loizou [2006] EWCA Crim 1719]])
-```
+> [!action] Big brain strategy
+> - When giving evidence-in-chief, D says nothing about the reason for his silence when interviewed
+> - Prosecution during cross-examination allege D fabricated his defence. 
+> - D tells court that he disclosed his defence to the solicitor whilst at the police station, but the solicitor advised him to remain silent for other reasons. 
+> - D will not waive privilege ([[R v Loizou [2006] EWCA Crim 1719]])
 
 In the absence of a waiver of privilege by a defendant, no questions could be asked which would in effect require the defendant to waive his privilege or be criticised for not doing so ([[R v Seaton [2010] EWCA Crim 1980]]).
 
-```ad-action
-title: Big brain strategy 2
-Many solicitors who advise a client to remain silent in interview now give such advice on tape at the start of the interview:
-> I now advise you to remain silent because … [the disclosure given by the police is so limited that I cannot properly advise you/I do not consider you to be in a fit state to be interviewed/the offences you are alleged to have committed occurred so long ago or are so complex that you cannot be expected to give an immediate response, etc].
-```
+> [!action] Big brain strategy 2
+> Many solicitors who advise a client to remain silent in interview now give such advice on tape at the start of the interview:
+> > I now advise you to remain silent because … [the disclosure given by the police is so limited that I cannot properly advise you/I do not consider you to be in a fit state to be interviewed/the offences you are alleged to have committed occurred so long ago or are so complex that you cannot be expected to give an immediate response, etc].
 
 This does not amount to a waiver of privilege because the advice is being given to the client there and then.
 

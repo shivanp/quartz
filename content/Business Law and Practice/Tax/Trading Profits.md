@@ -61,15 +61,13 @@ Very small businesses may be allowed to work on a cash basis, but the vast major
 
 ## Deductible Expenditure
 
-```ad-statute
-title: s 24 ITTOIA 2005 - Expenses not wholly and exclusively for trade and unconnected losses
-
-(1) In calculating the profits of a trade, no deduction is allowed for—
-- (a) expenses not incurred wholly and exclusively for the purposes of the trade, or
-- (b) losses not connected with or arising out of the trade.
-
-(2) If an expense is incurred for more than one purpose, this section does not prohibit a deduction for any identifiable part or identifiable proportion of the expense which is incurred wholly and exclusively for the purposes of the trade.
-```
+> [!statute] s 24 ITTOIA 2005 - Expenses not wholly and exclusively for trade and unconnected losses
+> 
+> (1) In calculating the profits of a trade, no deduction is allowed for—
+> - (a) expenses not incurred wholly and exclusively for the purposes of the trade, or
+> - (b) losses not connected with or arising out of the trade.
+> 
+> (2) If an expense is incurred for more than one purpose, this section does not prohibit a deduction for any identifiable part or identifiable proportion of the expense which is incurred wholly and exclusively for the purposes of the trade.
 
 Must deduct:
 
@@ -92,10 +90,8 @@ But this could cause cash flow difficulties, so legislation allows a specified a
 
 This is the equivalent of amortisation in accounting.
 
-```ad-defn
-title: Capital allowances
-Under the Capital Allowances Act 2001 (CAA 2001), where expenditure is incurred on certain assets or activities, a percentage of the capital expenditure will be allowed as a deduction in calculating trading profits in a given accounting period. These deductions are known as capital allowances.
-```
+> [!defn] Capital allowances
+> Under the Capital Allowances Act 2001 (CAA 2001), where expenditure is incurred on certain assets or activities, a percentage of the capital expenditure will be allowed as a deduction in calculating trading profits in a given accounting period. These deductions are known as capital allowances.
 
 ### Plant and Machinery
 
@@ -117,19 +113,17 @@ These ensure that the taxpayer had relief for exactly the amount by which the as
 
 Generally, all expenditure on plant and machinery is pooled together and the writing down allowance given each year on the balance of expenditure.
 
-```ad-statute
-title: s 55 CAA 2001 - Determination of entitlement or liability
-
-(1) Whether a person is entitled to a writing-down allowance or a balancing allowance, or liable to a balancing charge, for a chargeable period is determined separately for each pool of qualifying expenditure and depends on—
-- (a) the available qualifying expenditure in that pool for that period (“AQE”), and
-- (b) the total of any disposal receipts to be brought into account in that pool for that period (“TDR”).
-
-(2) If AQE exceeds TDR, the person is entitled to a writing-down allowance or a balancing allowance for the period.
-
-(3) If TDR exceeds AQE, the person is liable to a balancing charge for the period.
-
-(4) The entitlement under subsection (2) is to a writing-down allowance except for the final chargeable period when it is to a balancing allowance.
-```
+> [!statute] s 55 CAA 2001 - Determination of entitlement or liability
+> 
+> (1) Whether a person is entitled to a writing-down allowance or a balancing allowance, or liable to a balancing charge, for a chargeable period is determined separately for each pool of qualifying expenditure and depends on—
+> - (a) the available qualifying expenditure in that pool for that period (“AQE”), and
+> - (b) the total of any disposal receipts to be brought into account in that pool for that period (“TDR”).
+> 
+> (2) If AQE exceeds TDR, the person is entitled to a writing-down allowance or a balancing allowance for the period.
+> 
+> (3) If TDR exceeds AQE, the person is liable to a balancing charge for the period.
+> 
+> (4) The entitlement under subsection (2) is to a writing-down allowance except for the final chargeable period when it is to a balancing allowance.
 
 Generally, no balancing allowance or charge should occur until the whole pool is sold/ trade discontinued.
 
@@ -139,9 +133,8 @@ If the written-down value of the pool being used for an accounting period is eve
 
 Every ongoing business receives an annual investment allowance up to £1,000,000. So the first £1,000,000 of fresh **qualifying** expenditure on plant and machinery will be fully deductible.
 
-```ad-important
-The key here is "qualifying". So if you're not qualifying (meaning would usually qualify for 18% deduction, use the annual investment allowance).
-```
+> [!important]
+> The key here is "qualifying". So if you're not qualifying (meaning would usually qualify for 18% deduction, use the annual investment allowance).
 
 Note that this was meant to be a temporary measure from £200,000, but hasn't been changed.
 
@@ -153,9 +146,8 @@ Note this can apply to second hand machinery being purchased. So either apply AI
 
 Expenditure on assets usually attracting a 6% (e.g., life-long assets) receive first year allowance of 50%.
 
-```ad-warning
-Only applies to companies.
-```
+> [!warning]
+> Only applies to companies.
 
 #### Special Rules
 

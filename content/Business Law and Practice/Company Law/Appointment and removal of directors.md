@@ -69,11 +69,9 @@ Might seem contrary to s 168 CA 2006. But such weighted voting clauses allowed b
 
 **Company Directors Disqualification Act 1986 (CDDA 1986)** outlines circumstances in which directors can be disqualified.
 
-```ad-defn
-title: s 1(1) CDDA 1986
-
-Where a person is disqualified, they shall not, without the leave of the court, “be a director of a company, or a liquidator or administrator of a company, or be a receiver or manager of a company's property, or, in any way, whether directly or indirectly, be concerned or take part in the promotion, formation or management of a company, for a specified period beginning with the date of the order.”
-```
+> [!defn] s 1(1) CDDA 1986
+> 
+> Where a person is disqualified, they shall not, without the leave of the court, “be a director of a company, or a liquidator or administrator of a company, or be a receiver or manager of a company's property, or, in any way, whether directly or indirectly, be concerned or take part in the promotion, formation or management of a company, for a specified period beginning with the date of the order.”
 
 #### Mandatory Disqualification
 

@@ -9,13 +9,11 @@ date modified: Sunday, December 10th 2023, 12:40:03 am
 
 ## Statute
 
-```ad-statute
-title: [s 8 Theft Act 1968](https://www.legislation.gov.uk/ukpga/1968/60/section/8) (TA 1968)
-
-(1) A person is guilty of robbery if he steals, and immediately before or at the time of doing so, and in order to do so, he uses force on any person or puts or seeks to put any person in fear of being then and there subjected to force.
-
-(2) A person guilty of robbery, or of an assault with intent to rob, shall on conviction on indictment be liable to imprisonment for life.
-```
+> [!statute] [s 8 Theft Act 1968](https://www.legislation.gov.uk/ukpga/1968/60/section/8) (TA 1968)
+> 
+> (1) A person is guilty of robbery if he steals, and immediately before or at the time of doing so, and in order to do so, he uses force on any person or puts or seeks to put any person in fear of being then and there subjected to force.
+> 
+> (2) A person guilty of robbery, or of an assault with intent to rob, shall on conviction on indictment be liable to imprisonment for life.
 
 | Element    | Robbery                                                                                                                                                                                                                                |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,9 +22,8 @@ title: [s 8 Theft Act 1968](https://www.legislation.gov.uk/ukpga/1968/60/section
 
 Robbery is an aggravated form of theft, and the wording of the [s 8 TA 1968](https://www.legislation.gov.uk/ukpga/1968/60/section/8) tells us we must establish that the accused has stolen. A conviction for robbery will only follow if all the elements of theft as defined in the [TA 1968, s 1(1)](https://www.legislation.gov.uk/ukpga/1968/60/section/1) are satisfied.
 
-```ad-tip
-If there is no theft, there is no robbery. You should consider whether the full offence of theft is satisfied first before moving onto whether it becomes a robbery. See [[R v Robinson [1977] Crim LR 173]].
-```
+> [!tip]
+> If there is no theft, there is no robbery. You should consider whether the full offence of theft is satisfied first before moving onto whether it becomes a robbery. See [[R v Robinson [1977] Crim LR 173]].
 
 ## Actus Reus
 

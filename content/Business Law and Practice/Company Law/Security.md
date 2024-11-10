@@ -92,11 +92,9 @@ Case | Authority
 
 Eventually, the position was resolved in [[National Westminster Bank plc v Spectrum Plus Limited and others [2005] UKHL 41]]. It is now very difficult to demonstrate the requisite level of control over book debts for a fixed charge. It would require at least a blocked account.
 
-```ad-important
-title: Charge over book debts
-
-From the case of [[National Westminster Bank plc v Spectrum Plus Limited and others [2005] UKHL 41]] it is only possible to have a fixed charge over book debts if they are paid into a blocked account which gives the lender the degree of control required.
-```
+> [!important] Charge over book debts
+> 
+> From the case of [[National Westminster Bank plc v Spectrum Plus Limited and others [2005] UKHL 41]] it is only possible to have a fixed charge over book debts if they are paid into a blocked account which gives the lender the degree of control required.
 
 ## Guarantees
 
@@ -104,12 +102,11 @@ Guarantees are not securities strictly, since they do not give rise to assets. B
 
 A guarantee for a loan means an agreement that the guarantor will pay the borrower's debt if the borrower fails to do so.
 
-```ad-example
-
-A Bank is intending to lend £20,000 to a company which was recently incorporated by an entrepreneur who is the majority shareholder in the company and is its managing director. The bank will be granted a fixed charge over certain assets.
-
-However, the bank is concerned that the value of the assets might depreciate rapidly, leaving it exposed. As the company is newly incorporated, it may not have substantial assets. The Bank could also look to take a personal guarantee from the entrepreneur if they have valuable assets. If the company defaulted, the bank could call on the guarantee and, if the entrepreneur refused to pay, sue them for the money. They may also give security for the loan (eg by granting a mortgage over their home, subject to any rights of any other person living there with them).
-```
+> [!example]
+> 
+> A Bank is intending to lend £20,000 to a company which was recently incorporated by an entrepreneur who is the majority shareholder in the company and is its managing director. The bank will be granted a fixed charge over certain assets.
+> 
+> However, the bank is concerned that the value of the assets might depreciate rapidly, leaving it exposed. As the company is newly incorporated, it may not have substantial assets. The Bank could also look to take a personal guarantee from the entrepreneur if they have valuable assets. If the company defaulted, the bank could call on the guarantee and, if the entrepreneur refused to pay, sue them for the money. They may also give security for the loan (eg by granting a mortgage over their home, subject to any rights of any other person living there with them).
 
 ## Liquidation Priority
 

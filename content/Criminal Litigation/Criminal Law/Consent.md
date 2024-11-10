@@ -119,16 +119,14 @@ Sexual gratification/ accidental infliction of harm cases:
 - [[R v Emmett (1999) The Times, 15 October]]
 - [[R v Slingsby [1995] Crim LR 570]]
 
-```ad-bug
-title: Discussion
-The defendant’s acquittal in R v Slingsby is consistent with R v Meachen in that the defendant did not intend, nor did he see the risk of causing any harm, so consent was available. Professor Sir John Smith believes that R v Boyea (where consent was not allowed as a defence) should have been decided in the same way. It was wrongly decided because the court considered whether there was an obvious risk of causing harm, rather than applying a subjective test for recklessness.
-
-R v Emmett and R v Brown (where consent was not available as a defence), can be distinguished, as in these cases there was a clear intention to cause harm.
-
-So in conclusion, it is not clear whether R v Slingsby should be seen as an example of the sexual gratification exception or as under the Meachen principle of lack of foresight of risk. Equally it is not clear whether the Meachen principle is part of the general rule or another exception to the general rule.
-
-It may well be that the courts will just consider the issue of consent on a case by case basis. See dicta in R v Meachen that there are no hard and fast rules/lists, rather that the court must look at each case on its facts.
-```
+> [!bug] Discussion
+> The defendant’s acquittal in R v Slingsby is consistent with R v Meachen in that the defendant did not intend, nor did he see the risk of causing any harm, so consent was available. Professor Sir John Smith believes that R v Boyea (where consent was not allowed as a defence) should have been decided in the same way. It was wrongly decided because the court considered whether there was an obvious risk of causing harm, rather than applying a subjective test for recklessness.
+> 
+> R v Emmett and R v Brown (where consent was not available as a defence), can be distinguished, as in these cases there was a clear intention to cause harm.
+> 
+> So in conclusion, it is not clear whether R v Slingsby should be seen as an example of the sexual gratification exception or as under the Meachen principle of lack of foresight of risk. Equally it is not clear whether the Meachen principle is part of the general rule or another exception to the general rule.
+> 
+> It may well be that the courts will just consider the issue of consent on a case by case basis. See dicta in R v Meachen that there are no hard and fast rules/lists, rather that the court must look at each case on its facts.
 
 See also s 71 Domestic Abuse Act 2021: it is no longer possible to consent to serious harm for the purposes of sexual gratification.
 
@@ -142,38 +140,34 @@ In considering whether or not a parent could use this defence, the jury must loo
 
 This area is also governed by the [Children Act 2004, s 58](https://www.legislation.gov.uk/ukpga/2004/31/section/58) which outlines that the reasonable punishment defence cannot be relied on if it results in ABH or above, for example.
 
-```ad-statute
-title: s 58 Children Act 2004
+> [!statute] s 58 Children Act 2004
+> 
+> (1) In relation to any offence specified in subsection (2), battery of a child cannot be justified on the ground that it constituted reasonable punishment.
+> 
+> (2) The offences referred to in subsection (1) are—
+> 
+> - (a) an offence under section 18 or 20 of the Offences against the Person Act 1861 (c. 100) (wounding and causing grievous bodily harm);
+> 
+> - (b) an offence under section 47 of that Act (assault occasioning actual bodily harm);
+> 
+> - (c) an offence under section 1 of the Children and Young Persons Act 1933 (c. 12) (cruelty to persons under 16).
+> 
+> (3) Battery of a child causing actual bodily harm to the child cannot be justified in any civil proceedings on the ground that it constituted reasonable punishment.
+> 
+> (4) For the purposes of subsection (3) “actual bodily harm” has the same meaning as it has for the purposes of section 47 of the Offences against the Person Act 1861.
+> 
+> (5) In section 1 of the Children and Young Persons Act 1933, omit subsection (7).
 
-(1) In relation to any offence specified in subsection (2), battery of a child cannot be justified on the ground that it constituted reasonable punishment.
-
-(2) The offences referred to in subsection (1) are—
-
-- (a) an offence under section 18 or 20 of the Offences against the Person Act 1861 (c. 100) (wounding and causing grievous bodily harm);
-
-- (b) an offence under section 47 of that Act (assault occasioning actual bodily harm);
-
-- (c) an offence under section 1 of the Children and Young Persons Act 1933 (c. 12) (cruelty to persons under 16).
-
-(3) Battery of a child causing actual bodily harm to the child cannot be justified in any civil proceedings on the ground that it constituted reasonable punishment.
-
-(4) For the purposes of subsection (3) “actual bodily harm” has the same meaning as it has for the purposes of section 47 of the Offences against the Person Act 1861.
-
-(5) In section 1 of the Children and Young Persons Act 1933, omit subsection (7).
-```
-
-```ad-warning
-So if D intended or was reckless as to causing ABH or above, the lawful correction of a child defence cannot be relied on.
-```
+> [!warning]
+> So if D intended or was reckless as to causing ABH or above, the lawful correction of a child defence cannot be relied on.
 
 In [[R v BM [2018] EWCA Crim 560]], Lord Burnett of Maldon said these categories should not be extended by the courts:
 
 > ‘New exceptions should not be recognised on a case by case basis, save perhaps where there is a close analogy with an existing exception to the general rule established in the Brown case. The recognition of an entirely new exception would involve a value judgement which is policy laden, and on which there may be powerful conflicting views in society. The criminal trial process is inapt to enable a wide-ranging inquiry into the underlying policy issues, which are much better explored in the political environment.’
 
-```ad-summary
-- The victim’s consent can sometimes prevent a defendant being liable for a crime, e.g. belief in owner’s consent, section 5(2)(a) Criminal Damage Act 1971 and section 2(1)(b) Theft Act 1968.
-- For offences against the person the victim’s consent may also prevent the defendant from being liable for a crime:
-- The general rule is that consent is only available as a defence to assault and battery, AG’s Reference (No 6 of 1980).
-- The general rule was extended by R v Meachen- consent is available even where ABH or worse is caused provided D only intended to commit a battery with the consent of the victim and did not see the risk of inflicting ABH or above.
-- If ABH or above has been caused to the victim and the defendant intended to cause such harm (or possibly saw a risk of causing such harm), consent is not available unless D’s behaviour falls into one of the one of the exceptions to the general rule: medical treatment, sport, horseplay, tattooing, body piercing or personal adornment or sexual gratification/ accidental infliction of harm.
-```
+> [!summary]
+> - The victim’s consent can sometimes prevent a defendant being liable for a crime, e.g. belief in owner’s consent, section 5(2)(a) Criminal Damage Act 1971 and section 2(1)(b) Theft Act 1968.
+> - For offences against the person the victim’s consent may also prevent the defendant from being liable for a crime:
+> - The general rule is that consent is only available as a defence to assault and battery, AG’s Reference (No 6 of 1980).
+> - The general rule was extended by R v Meachen- consent is available even where ABH or worse is caused provided D only intended to commit a battery with the consent of the victim and did not see the risk of inflicting ABH or above.
+> - If ABH or above has been caused to the victim and the defendant intended to cause such harm (or possibly saw a risk of causing such harm), consent is not available unless D’s behaviour falls into one of the one of the exceptions to the general rule: medical treatment, sport, horseplay, tattooing, body piercing or personal adornment or sexual gratification/ accidental infliction of harm.

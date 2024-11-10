@@ -83,9 +83,8 @@ Potential claims include the common law claim for wrongful dismissal and statuto
 
 ### Wrongful Dismissal
 
-```ad-important
-Likely to apply if the employer terminates a contract for an indefinite term with no notice/ inadequate notice, or if a fixed-term contract is terminated before its expiry date.
-```
+> [!important]
+> Likely to apply if the employer terminates a contract for an indefinite term with no notice/ inadequate notice, or if a fixed-term contract is terminated before its expiry date.
 
 Most employment contracts are for an indefinite term and terminable, by either side giving correct contractual notice.
 
@@ -99,18 +98,16 @@ In a fixed-term contract, the contract is not usually terminable by notice. In t
 - For more senior employees, a longer period will be implied.
 - But any implied period is still subject to the s 86 minimum.
 
-```ad-test
-title: s 86 ERA 1996 notice period
-For time of continuous employment $T$, the statutory minimum notice period is $P$ weeks, where:
-
-$$P = \begin{cases}  
-1 , & \text{if } 1 \text{ month} \leq T < 2 \text{ years}\\  
-T , & \text{if } 2 \text{ years} \leq T < 13 \text{ years},\\  
-12, & \text{if } T \geq 13 \text{ years}  
-\end{cases}  
-$$
-
-```
+> [!test] s 86 ERA 1996 notice period
+> For time of continuous employment $T$, the statutory minimum notice period is $P$ weeks, where:
+> 
+> $P = \begin{cases}  
+> 1 , & \text{if } 1 \text{ month} \leq T < 2 \text{ years}\\  
+> T , & \text{if } 2 \text{ years} \leq T < 13 \text{ years},\\  
+> 12, & \text{if } T \geq 13 \text{ years}  
+> \end{cases}  
+> $
+> 
 
 A claim for wrongful dismissal requires a dismissal in breach of contract.
 
@@ -203,13 +200,11 @@ To claim a statutory redundancy payment, an employee must prove:
 
 This raises a **presumption** that they have been dismissed for **redundancy**. An employee may be show a reason other than redundancy, but then this may lead to a claim for unfair dismissal.
 
-```ad-defn
-title: Redundancy
-s 139 ERA 1996: redundancy involves either:
-1. Complete closedown of the business
-2. Partial closedown of the business
-3. Overmanning or a change in the type of work undertaken.
-```
+> [!defn] Redundancy
+> s 139 ERA 1996: redundancy involves either:
+> 1. Complete closedown of the business
+> 2. Partial closedown of the business
+> 3. Overmanning or a change in the type of work undertaken.
 
 Upon fulfilling this definition, an employee may have a prima facie entitlement to a redundancy payment. An employee may lose their entitlement if they unreasonably refuse an offer of suitable alternative employment.
 

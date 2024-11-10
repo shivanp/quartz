@@ -14,11 +14,9 @@ There is a distinction in English law between rules applying to land (real prope
 
 Following the Norman Conquest, all land in England and Wales belongs to the Crown as sovereign. This rule is still valid today, so land ownership is really ownership of a right in the land. The most powerful such right is the right to possess and use the land.
 
-```ad-defn
-title: Land law
-
-The study of proprietary (or property) rights in the land and the responsibilities and duties in land related relationships
-```
+> [!defn] Land law
+> 
+> The study of proprietary (or property) rights in the land and the responsibilities and duties in land related relationships
 
 ### Legislation
 
@@ -31,10 +29,8 @@ A right which relates to the land can either be proprietary or personal in natur
 - The remedy available to someone who is deprived of their right; and
 - The enforceability of it against third parties.
 
-```ad-defn
-title: Third Party
-A new owner of the land burdened by the right.
-```
+> [!defn] Third Party
+> A new owner of the land burdened by the right.
 
 A proprietary right in land can be enforced by an **action in rem**, meaning that use or possession of the land can be recovered. The holder of the right does not have to settle for damages if they are deprived of their right. A proprietary right is also capable of **being enforced against a third party** (though it is not automatically enforceable against a third party).
 
@@ -80,27 +76,23 @@ id2 --> id3(Creation of right - formalities?)
 id3 --> id4(Protection of right - <br/>enforceable against third party?)
 ```
 
-```ad-example
-title: Proprietary right example
+> [!example] Proprietary right example
+> 
+> A person has a right of way over their neighbour’s back yard. This right of way could be an easement, which is a recognised proprietary right in the land – it is on the **fixed list of rights** recognised as having proprietary status.
+> 
+> Whether the right of way will be an easement depends on whether the right in question satisfies the **substantive requirements** of an easement. Even if it does it will have had to be created using the correct **formalities** in order to have proprietary status.
+> 
+> If the right of way is an easement, then the person will be able to recover use of the right of way if their neighbour blocked the right of way so to prevent the person from using it, they would not have to settle for damages as compensation for loss of a right.
+> 
+> In addition, if the right of way is an easement, the person would be able to enforce the right of way against any new owner of their neighbour’s back yard providing the easement is **registered at the Land Registry**.
 
-A person has a right of way over their neighbour’s back yard. This right of way could be an easement, which is a recognised proprietary right in the land – it is on the **fixed list of rights** recognised as having proprietary status.
-
-Whether the right of way will be an easement depends on whether the right in question satisfies the **substantive requirements** of an easement. Even if it does it will have had to be created using the correct **formalities** in order to have proprietary status.
-
-If the right of way is an easement, then the person will be able to recover use of the right of way if their neighbour blocked the right of way so to prevent the person from using it, they would not have to settle for damages as compensation for loss of a right.
-
-In addition, if the right of way is an easement, the person would be able to enforce the right of way against any new owner of their neighbour’s back yard providing the easement is **registered at the Land Registry**.
-```
-
-```ad-example
-title: Personal right example
-
-A person owns a house by the sea. From this house, the owner runs a guesthouse and people pay to stay in one of the bedrooms. The owner is granting their guests a licence to stay, and they enter into a contract with them. Such a right is not a recognised proprietary right; it is a personal right against the owner to stay in the house.
-
-If the owner stopped a guest from staying at the guesthouse, then the guest would only be able to seek damages for breach of contract and they would not be able to recover the right to stay at the guesthouse.
-
-If the owner sold the house to a third party, then the guests would not be able to enforce the contract against the third party. The guests would have to seek damages for breach of contract.
-```
+> [!example] Personal right example
+> 
+> A person owns a house by the sea. From this house, the owner runs a guesthouse and people pay to stay in one of the bedrooms. The owner is granting their guests a licence to stay, and they enter into a contract with them. Such a right is not a recognised proprietary right; it is a personal right against the owner to stay in the house.
+> 
+> If the owner stopped a guest from staying at the guesthouse, then the guest would only be able to seek damages for breach of contract and they would not be able to recover the right to stay at the guesthouse.
+> 
+> If the owner sold the house to a third party, then the guests would not be able to enforce the contract against the third party. The guests would have to seek damages for breach of contract.
 
 ## Land Contracts
 
@@ -126,16 +118,14 @@ As per [s 2 LP(MP)A 1989](https://www.legislation.gov.uk/ukpga/1989/34/section/2
 	- The terms may either be contained in one document, which is signed by both parties, or if the contracts are to be exchanged, in two documents provided they are identical (LP(MP)A 1989, s 2(1)).
 	- The standard conveyancing practice is to exchange contracts. Two copies of the contract are drawn up. One copy is signed by the seller and the other by the buyer. To create a binding contract, the parties then exchange their copies.
 
-```ad-statute
-title: s 2 LP(MP)A
-(1) A contract for the sale or other disposition of an interest in land can only be made in writing and only by incorporating all the terms which the parties have expressly agreed in one document or, where contracts are exchanged, in each.
-
-(2) The terms may be incorporated in a document either by being set out in it or by reference to some other document.
-
-(3) The document incorporating the terms or, where contracts are exchanged, one of the documents incorporating them (but not necessarily the same one) must be signed by or on behalf of each party to the contract.
-
-(4) Where a contract for the sale or other disposition of an interest in land satisfies the conditions of this section by reason only of the rectification of one or more documents in pursuance of an order of a court, the contract shall come into being, or be deemed to have come into being, at such time as may be specified in the order.
-```
+> [!statute] s 2 LP(MP)A
+> (1) A contract for the sale or other disposition of an interest in land can only be made in writing and only by incorporating all the terms which the parties have expressly agreed in one document or, where contracts are exchanged, in each.
+> 
+> (2) The terms may be incorporated in a document either by being set out in it or by reference to some other document.
+> 
+> (3) The document incorporating the terms or, where contracts are exchanged, one of the documents incorporating them (but not necessarily the same one) must be signed by or on behalf of each party to the contract.
+> 
+> (4) Where a contract for the sale or other disposition of an interest in land satisfies the conditions of this section by reason only of the rectification of one or more documents in pursuance of an order of a court, the contract shall come into being, or be deemed to have come into being, at such time as may be specified in the order.
 
 This is in addition to the normal contract law requirements and relates to all contracts where the subject of the contract is land.
 
@@ -169,20 +159,18 @@ A land contract may be created deliberately, or it may be that the parties try t
 1. There is a document that complies with LP(MP)A 1989, s 2
 2. The remedy of specific performance is available.
 
-```ad-example
-- A contract to transfer a legal estate (ie a sale contract / option agreement / right of pre-emption) will create an estate contract.
-- A contract to create a legal lease will create an equitable lease.
-- A contract to create a legal mortgage will create an equitable mortgage.
-- A contract to create a legal easement will create an equitable easement.
-```
+> [!example]
+> - A contract to transfer a legal estate (ie a sale contract / option agreement / right of pre-emption) will create an estate contract.
+> - A contract to create a legal lease will create an equitable lease.
+> - A contract to create a legal mortgage will create an equitable mortgage.
+> - A contract to create a legal easement will create an equitable easement.
 
 As an estate contract is a proprietary right in land it is capable of binding and being specifically enforceable against third parties (i.e. subsequent owners of the freehold estate). In order to be binding on third parties purchasers, an estate contract must be protected against third parties. The method of doing this varies depending upon whether it has been created over registered or unregistered land.
 
-```ad-note
-If the interest holder fails to protect the estate contract and the third party is a donee (someone who is gifted or inherits the land) they will be bound by a properly created estate contract, regardless of registration.
-
-This rule applies if the burdened land is registered or unregistered, though the legal authority is different.
-```
+> [!note]
+> If the interest holder fails to protect the estate contract and the third party is a donee (someone who is gifted or inherits the land) they will be bound by a properly created estate contract, regardless of registration.
+> 
+> This rule applies if the burdened land is registered or unregistered, though the legal authority is different.
 
 ### Remedies for Breach of Land Contract
 

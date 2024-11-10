@@ -31,10 +31,9 @@ date modified: Sunday, December 10th 2023, 12:39:25 am
 
 Required for any activity constituting 'development'.
 
-```ad-defn
-1. The carrying out of building, engineering, mining or other operations in, on, over or under land. This can include the erection of new buildings and alteration to existing buildings; and/or
-2. The making of any material change in the use of any buildings or other land.
-```
+> [!defn]
+> 1. The carrying out of building, engineering, mining or other operations in, on, over or under land. This can include the erection of new buildings and alteration to existing buildings; and/or
+> 2. The making of any material change in the use of any buildings or other land.
 
 Material is a question of fact and degree in each case.
 
@@ -70,11 +69,10 @@ Note:
 	- Extension/ alteration of an office building, shop, financial or professional services establishment, industrial unit or warehouse.
 		- Subject to restrictions.
 
-```ad-warning
-- Consider conditions imposed under GPDO
-- Rights may be excluded/ varied in certain areas, e.g., conservation areas or areas of outstanding natural beauty. 
-- LPA has the power to restrict GPDO in its area ("Article 4 Direction").
-```
+> [!warning]
+> - Consider conditions imposed under GPDO
+> - Rights may be excluded/ varied in certain areas, e.g., conservation areas or areas of outstanding natural beauty. 
+> - LPA has the power to restrict GPDO in its area ("Article 4 Direction").
 
 ##### Overlapping LPA Powers
 
@@ -164,9 +162,8 @@ Include:
 	- Recipient cannot appeal.
 - Injunction.
 
-```ad-danger
-Non-compliance with an operative enforcement or other notice is a **criminal** offence.
-```
+> [!danger]
+> Non-compliance with an operative enforcement or other notice is a **criminal** offence.
 
 ## Listed Buildings & Conservation Areas
 
@@ -208,11 +205,10 @@ Care must be taken when seller unable to produce proof of compliance:
 - Structural concerns
 	- Could lead to expensive repairs/ remedial work.
 
-```ad-action
-- The buyer should consider asking the seller to obtain a regularisation certificate from the local authority which will list the work required to bring the building up to the correct standard. 
-- Insurance can be obtained in cases where proof of building regulation consent is not forthcoming
-- The buyer’s lender must also be informed of any breach, who may insist on a full survey. 
-```
+> [!action]
+> - The buyer should consider asking the seller to obtain a regularisation certificate from the local authority which will list the work required to bring the building up to the correct standard. 
+> - Insurance can be obtained in cases where proof of building regulation consent is not forthcoming
+> - The buyer’s lender must also be informed of any breach, who may insist on a full survey. 
 
 ## Transactional Matters
 

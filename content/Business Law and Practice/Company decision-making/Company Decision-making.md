@@ -82,19 +82,17 @@ Directors generally take decisions collectively as a board (except where delegat
 
 ### Calling Meeting
 
-```ad-statute
-title: MA 9(1)
-(1) Any director may call a directors’ meeting by giving notice of the meeting to the directors or by authorising the company secretary (if any) to give such notice.
-
-(2) Notice of any directors’ meeting must indicate—
-- (a) its proposed date and time;
-- (b) where it is to take place; and
-- (c) if it is anticipated that directors participating in the meeting will not be in the same place, how it is proposed that they should communicate with each other during the meeting.
-
-(3) Notice of a directors’ meeting must be given to each director, but need not be in writing.
-
-(4) Notice of a directors’ meeting need not be given to directors who waive their entitlement to notice of that meeting, by giving notice to that effect to the company not more than 7 days after the date on which the meeting is held. Where such notice is given after the meeting has been held, that does not affect the validity of the meeting, or of any business conducted at it.
-```
+> [!statute] MA 9(1)
+> (1) Any director may call a directors’ meeting by giving notice of the meeting to the directors or by authorising the company secretary (if any) to give such notice.
+> 
+> (2) Notice of any directors’ meeting must indicate—
+> - (a) its proposed date and time;
+> - (b) where it is to take place; and
+> - (c) if it is anticipated that directors participating in the meeting will not be in the same place, how it is proposed that they should communicate with each other during the meeting.
+> 
+> (3) Notice of a directors’ meeting must be given to each director, but need not be in writing.
+> 
+> (4) Notice of a directors’ meeting need not be given to directors who waive their entitlement to notice of that meeting, by giving notice to that effect to the company not more than 7 days after the date on which the meeting is held. Where such notice is given after the meeting has been held, that does not affect the validity of the meeting, or of any business conducted at it.
 
 ### Notice
 
@@ -106,49 +104,41 @@ If notice is not given to a director, they can demand another meeting be held wi
 
 ### Quorum
 
-```ad-defn
-title: Quorum
-The minimum number of directors who are required by the company’s articles to be present for valid decisions to be taken at that meeting.
-```
+> [!defn] Quorum
+> The minimum number of directors who are required by the company’s articles to be present for valid decisions to be taken at that meeting.
 
-```ad-statute
-title: [Art 11 MA](https://www.gov.uk/government/publications/model-articles-for-private-companies-limited-by-shares/model-articles-for-private-companies-limited-by-shares#quorum)
-(1) At a directors’ meeting, unless a quorum is participating, no proposal is to be voted on, except a proposal to call another meeting.
-
-(2) The quorum for directors’ meetings may be fixed from time to time by a decision of the directors, but it must never be less than two, and unless otherwise fixed it is two.
-
-(3) If the total number of directors for the time being is less than the quorum required, the directors must not take any decision other than a decision—
-- (a) to appoint further directors, or
-- (b) to call a general meeting so as to enable the shareholders to appoint further directors.
-```
+> [!statute] [Art 11 MA](https://www.gov.uk/government/publications/model-articles-for-private-companies-limited-by-shares/model-articles-for-private-companies-limited-by-shares#quorum)
+> (1) At a directors’ meeting, unless a quorum is participating, no proposal is to be voted on, except a proposal to call another meeting.
+> 
+> (2) The quorum for directors’ meetings may be fixed from time to time by a decision of the directors, but it must never be less than two, and unless otherwise fixed it is two.
+> 
+> (3) If the total number of directors for the time being is less than the quorum required, the directors must not take any decision other than a decision—
+> - (a) to appoint further directors, or
+> - (b) to call a general meeting so as to enable the shareholders to appoint further directors.
 
 - Special articles can be adopted to change quorum rules.
 - There is no provision to allow for the appointment of alternates.
 - Not all directors necessarily count in the quorum, e.g., if a particular director has a personal interest in a transaction.
 
-```ad-defn
-title: Quorate
-A meeting at which the quorum is present.
-```
+> [!defn] Quorate
+> A meeting at which the quorum is present.
 
 #### Director Interest & Quorum
 
-```ad-statute
-title: MA 14
-(1) If a proposed decision of the directors is concerned with an actual or proposed transaction or arrangement with the company in which a director is interested, that director is not to be counted as participating in the decision-making process for quorum or voting purposes.
-
-(2) But if paragraph (3) applies, a director who is interested in an actual or proposed transaction or arrangement with the company is to be counted as participating in the decision-making process for quorum and voting purposes.
-
-(3) This paragraph applies when—
-- (a) the company by ordinary resolution disapplies the provision of the articles which would otherwise prevent a director from being counted as participating in the decision-making process;
-- (b) the director’s interest cannot reasonably be regarded as likely to give rise to a conflict of interest; or
-- (c) the director’s conflict of interest arises from a permitted cause.
-
-(4) For the purposes of this article, the following are permitted causes—
-- (a) a guarantee given, or to be given, by or to a director in respect of an obligation incurred by or on behalf of the company or any of its subsidiaries;
-- (b) subscription, or an agreement to subscribe, for shares or other securities of the company or any of its subsidiaries, or to underwrite, sub-underwrite, or guarantee subscription for any such shares or securities; and
-- (c) arrangements pursuant to which benefits are made available to employees and directors or former employees and directors of the company or any of its subsidiaries which do not provide special benefits for directors or former directors.
-```
+> [!statute] MA 14
+> (1) If a proposed decision of the directors is concerned with an actual or proposed transaction or arrangement with the company in which a director is interested, that director is not to be counted as participating in the decision-making process for quorum or voting purposes.
+> 
+> (2) But if paragraph (3) applies, a director who is interested in an actual or proposed transaction or arrangement with the company is to be counted as participating in the decision-making process for quorum and voting purposes.
+> 
+> (3) This paragraph applies when—
+> - (a) the company by ordinary resolution disapplies the provision of the articles which would otherwise prevent a director from being counted as participating in the decision-making process;
+> - (b) the director’s interest cannot reasonably be regarded as likely to give rise to a conflict of interest; or
+> - (c) the director’s conflict of interest arises from a permitted cause.
+> 
+> (4) For the purposes of this article, the following are permitted causes—
+> - (a) a guarantee given, or to be given, by or to a director in respect of an obligation incurred by or on behalf of the company or any of its subsidiaries;
+> - (b) subscription, or an agreement to subscribe, for shares or other securities of the company or any of its subsidiaries, or to underwrite, sub-underwrite, or guarantee subscription for any such shares or securities; and
+> - (c) arrangements pursuant to which benefits are made available to employees and directors or former employees and directors of the company or any of its subsidiaries which do not provide special benefits for directors or former directors.
 
 #### Voting
 
@@ -182,16 +172,14 @@ Unless the contrary is proved, where minutes are prepared in accordance with s 2
 
 NON-EXAMINABLE: Allows directors to take decisions without having to call and hold a board meeting. Permitted under MA 8(2).
 
-```ad-statute
-title: MA 8(2)
-(1) A decision of the directors is taken in accordance with this article when all eligible directors indicate to each other by any means that they share a common view on a matter.
-
-(2) Such a decision may take the form of a resolution in writing, copies of which have been signed by each eligible director or to which each eligible director has otherwise indicated agreement in writing.
-
-(3) References in this article to eligible directors are to directors who would have been entitled to vote on the matter had it been proposed as a resolution at a directors’ meeting.
-
-(4) A decision may not be taken in accordance with this article if the eligible directors would not have formed a quorum at such a meeting.
-```
+> [!statute] MA 8(2)
+> (1) A decision of the directors is taken in accordance with this article when all eligible directors indicate to each other by any means that they share a common view on a matter.
+> 
+> (2) Such a decision may take the form of a resolution in writing, copies of which have been signed by each eligible director or to which each eligible director has otherwise indicated agreement in writing.
+> 
+> (3) References in this article to eligible directors are to directors who would have been entitled to vote on the matter had it been proposed as a resolution at a directors’ meeting.
+> 
+> (4) A decision may not be taken in accordance with this article if the eligible directors would not have formed a quorum at such a meeting.
 
 Notes:
 
@@ -212,9 +200,8 @@ Notes:
 
 General Meetings are usually called by the board of directors ([s 302 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/302)) by passing a board resolution at a Board Meeting ([[Brown v La Trinidad (1887) 37 Ch. D. 1]]). This is usually passed by a simple majority vote of directors, or can be passed by a signed directors' written resolution.
 
-```ad-note
-On a board resolution just to call a GM, MA stipulates that MA 14 restrictions on quorum and voting do not apply, since the board meeting decision is seen as purely procedural.
-```
+> [!note]
+> On a board resolution just to call a GM, MA stipulates that MA 14 restrictions on quorum and voting do not apply, since the board meeting decision is seen as purely procedural.
 
 The Board must give 14 clear days' notice of a General Meeting ([s 307(1) CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/307) & [s 360 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/360)). The exception is where the **short notice procedure** is used (s 307(4)-(6)): if $\geq 90\%$ of shareholders with voting rights agree, the general meeting can take place on short notice, e.g., immediately after the board meeting (note this requisite percentage can be changed between 90-95% in the Articles).
 
@@ -280,29 +267,27 @@ If shareholders exercise their s 314(1) rights to have a statement circulated be
 
 ### Length of Notice
 
-```ad-statute
-title: s 307 - Notice required of a GM
-
-(1) A general meeting of a private company (other than an adjourned meeting) must be called by notice of at least 14 days.
-
-(2) A general meeting of a public company (other than an adjourned meeting) must be called by notice of—
-- (a) in the case of an annual general meeting, at least 21 days, and
-- (b) in any other case, at least 14 days.
-
-(3) The company's articles may require a longer period of notice than that specified in subsection (1) or (2).
-
-(4) A general meeting may be called by shorter notice than that otherwise required if shorter notice is agreed by the members.
-
-(5) The shorter notice must be agreed to by a majority in number of the members having a right to attend and vote at the meeting, being a majority who—
-- (a) together hold not less than the requisite percentage in nominal value of the shares giving a right to attend and vote at the meeting (excluding any shares in the company held as treasury shares), or
-- (b) in the case of a company not having a share capital, together represent not less than the requisite percentage of the total voting rights at that meeting of all the members.
-
-(6) The requisite percentage is—
-- (a) in the case of a private company, 90% or such higher percentage (not exceeding 95%) as may be specified in the company's articles;
-- (b) in the case of a public company, 95%.
-
-(7) Subsections (5) and (6) do not apply to an annual general meeting of a public company (see instead section 337(2)).
-```
+> [!statute] s 307 - Notice required of a GM
+> 
+> (1) A general meeting of a private company (other than an adjourned meeting) must be called by notice of at least 14 days.
+> 
+> (2) A general meeting of a public company (other than an adjourned meeting) must be called by notice of—
+> - (a) in the case of an annual general meeting, at least 21 days, and
+> - (b) in any other case, at least 14 days.
+> 
+> (3) The company's articles may require a longer period of notice than that specified in subsection (1) or (2).
+> 
+> (4) A general meeting may be called by shorter notice than that otherwise required if shorter notice is agreed by the members.
+> 
+> (5) The shorter notice must be agreed to by a majority in number of the members having a right to attend and vote at the meeting, being a majority who—
+> - (a) together hold not less than the requisite percentage in nominal value of the shares giving a right to attend and vote at the meeting (excluding any shares in the company held as treasury shares), or
+> - (b) in the case of a company not having a share capital, together represent not less than the requisite percentage of the total voting rights at that meeting of all the members.
+> 
+> (6) The requisite percentage is—
+> - (a) in the case of a private company, 90% or such higher percentage (not exceeding 95%) as may be specified in the company's articles;
+> - (b) in the case of a public company, 95%.
+> 
+> (7) Subsections (5) and (6) do not apply to an annual general meeting of a public company (see instead section 337(2)).
 
 - 14 clear days' notice (ss 307(1) & 360).
 - Notice period usually includes weekends and bank holidays.
@@ -311,10 +296,9 @@ title: s 307 - Notice required of a GM
 
 #### Deemed Delivery
 
-```ad-attention
-
-In addition to the minimum 14 clear days’ notice period, it is usually necessary under s 1147 of the CA 2006 to add a further 48 hours before the GM can be held, unless the company’s articles state otherwise. This is because s 1147 provides that a document (including a notice of a GM) is deemed to have been received by the intended recipient 48 hours after it was sent by post or electronically.
-```
+> [!attention]
+> 
+> In addition to the minimum 14 clear days’ notice period, it is usually necessary under s 1147 of the CA 2006 to add a further 48 hours before the GM can be held, unless the company’s articles state otherwise. This is because s 1147 provides that a document (including a notice of a GM) is deemed to have been received by the intended recipient 48 hours after it was sent by post or electronically.
 
 ### Short Notice
 
@@ -332,22 +316,20 @@ There are circumstances for which short notice cannot be used, e.g., s 168 remov
 
 But:
 
-```ad-statute
-title: s 313 - Accidental failure to give notice of resolution or meeting
-
-(1) Where a company gives notice of—
-- (a) a general meeting, or
-- (b) a resolution intended to be moved at a general meeting,
-
-any accidental failure to give notice to one or more persons shall be disregarded for the purpose of determining whether notice of the meeting or resolution (as the case may be) is duly given.
-
-(2) Except in relation to notice given under—
-- (a) section 304 (notice of meetings required by members),
-- (b) section 305 (notice of meetings called by members), or
-- (c) section 339 (notice of resolutions at AGMs proposed by members),
-
-subsection (1) has effect subject to any provision of the company's articles
-```
+> [!statute] s 313 - Accidental failure to give notice of resolution or meeting
+> 
+> (1) Where a company gives notice of—
+> - (a) a general meeting, or
+> - (b) a resolution intended to be moved at a general meeting,
+> 
+> any accidental failure to give notice to one or more persons shall be disregarded for the purpose of determining whether notice of the meeting or resolution (as the case may be) is duly given.
+> 
+> (2) Except in relation to notice given under—
+> - (a) section 304 (notice of meetings required by members),
+> - (b) section 305 (notice of meetings called by members), or
+> - (c) section 339 (notice of resolutions at AGMs proposed by members),
+> 
+> subsection (1) has effect subject to any provision of the company's articles
 
 ## Quorum
 
@@ -397,24 +379,22 @@ Two methods for passing both ordinary resolutions (s 282) and special resolution
 
 Under [MA 42](https://www.gov.uk/government/publications/model-articles-for-private-companies-limited-by-shares/model-articles-for-private-companies-limited-by-shares#votinggen) a resolution put to the vote of a General Meeting must be decided on a show of hands unless a poll is demanded in accordance with the Articles. [MA 44](https://www.gov.uk/government/publications/model-articles-for-private-companies-limited-by-shares/model-articles-for-private-companies-limited-by-shares#pollvotes) deals with the right to demand a poll vote as follows:
 
-```ad-statute
-title: MA 44 - Poll votes
-(1) A poll on a resolution may be demanded—
-- (a) in advance of the general meeting where it is to be put to the vote, or
-- (b) at a general meeting, either before a show of hands on that resolution or immediately after the result of a show of hands on that resolution is declared.
-
-(2) A poll may be demanded by—
-- (a) the chairman of the meeting;
-- (b) the directors;
-- (c) two or more persons having the right to vote on the resolution; or
-- (d) a person or persons representing **not less than one tenth of the total voting rights** of all the shareholders having the right to vote on the resolution.
-
-(3) A demand for a poll may be withdrawn if—
-- (a) the poll has not yet been taken, and
-- (b) the chairman of the meeting consents to the withdrawal.
-
-(4) Polls must be taken immediately and in such manner as the chairman of the meeting directs.
-```
+> [!statute] MA 44 - Poll votes
+> (1) A poll on a resolution may be demanded—
+> - (a) in advance of the general meeting where it is to be put to the vote, or
+> - (b) at a general meeting, either before a show of hands on that resolution or immediately after the result of a show of hands on that resolution is declared.
+> 
+> (2) A poll may be demanded by—
+> - (a) the chairman of the meeting;
+> - (b) the directors;
+> - (c) two or more persons having the right to vote on the resolution; or
+> - (d) a person or persons representing **not less than one tenth of the total voting rights** of all the shareholders having the right to vote on the resolution.
+> 
+> (3) A demand for a poll may be withdrawn if—
+> - (a) the poll has not yet been taken, and
+> - (b) the chairman of the meeting consents to the withdrawal.
+> 
+> (4) Polls must be taken immediately and in such manner as the chairman of the meeting directs.
 
 If the vote is a poll vote, it is taken in writing with one vote per share, usually immediately ([[R v Chillington Iron Co (1825) 29 ChD 159]]); but votes cast in advance of the meeting may also be included in a poll vote, subject to the articles of the company (s 322A).
 
@@ -427,13 +407,11 @@ This right cannot be excluded: [s 321(1) CA 2006](https://www.legislation.gov.uk
 
 ### Proxies
 
-```ad-statute
-title: s 324 - Rights to appoint proxies
-
-(1) A member of a company is entitled to appoint another person as his proxy to exercise all or any of his rights to attend and to speak and vote at a meeting of the company.
-
-(2) In the case of a company having a share capital, a member may appoint more than one proxy in relation to a meeting, provided that each proxy is appointed to exercise the rights attached to a different share or shares held by him, or (as the case may be) to a different £10, or multiple of £10, of stock held by him.
-```
+> [!statute] s 324 - Rights to appoint proxies
+> 
+> (1) A member of a company is entitled to appoint another person as his proxy to exercise all or any of his rights to attend and to speak and vote at a meeting of the company.
+> 
+> (2) In the case of a company having a share capital, a member may appoint more than one proxy in relation to a meeting, provided that each proxy is appointed to exercise the rights attached to a different share or shares held by him, or (as the case may be) to a different £10, or multiple of £10, of stock held by him.
 
 - Corporate shareholders must appoint a representative to attend GMs ([s 323 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/323)).
 - The proxy must vote in accordance with the wishes of the shareholder who appointed the proxy (s 322A).
@@ -550,41 +528,35 @@ Legislation | Rule
 - Normally, **board's responsibility** to initiate (s 291(1))
 - s 292: shareholders can also require circulation of written resolution:
 
-```ad-statute
-title: s 292 - Members' power to require circulation of written resolution 
-(1) The members of a private company may require the company to circulate a resolution that may properly be moved and is proposed to be moved as a written resolution.
-
-(2) Any resolution may properly be moved as a written resolution unless—
-- (a) it would, if passed, be ineffective (whether by reason of inconsistency with any enactment or the company's constitution or otherwise),
-- (b) it is defamatory of any person, or
-- (c) it is frivolous or vexatious.
-
-(3) Where the members require a company to circulate a resolution they may require the company to circulate with it a statement of not more than 1,000 words on the subject matter of the resolution.
-
-(4) A company is required to circulate the resolution and any accompanying statement once it has received requests that it do so from members representing not less than the requisite percentage of the total voting rights of all members entitled to vote on the resolution.
-
-(5) The “requisite percentage” is 5% or such lower percentage as is specified for this purpose in the company's articles.
-
-(6) A request—
-(a) may be in hard copy form or in electronic form,
-(b) must identify the resolution and any accompanying statement, and
-(c) must be authenticated by the person or persons making it.
-```
+> [!statute] s 292 - Members' power to require circulation of written resolution
+> (1) The members of a private company may require the company to circulate a resolution that may properly be moved and is proposed to be moved as a written resolution.
+> 
+> (2) Any resolution may properly be moved as a written resolution unless—
+> - (a) it would, if passed, be ineffective (whether by reason of inconsistency with any enactment or the company's constitution or otherwise),
+> - (b) it is defamatory of any person, or
+> - (c) it is frivolous or vexatious.
+> 
+> (3) Where the members require a company to circulate a resolution they may require the company to circulate with it a statement of not more than 1,000 words on the subject matter of the resolution.
+> 
+> (4) A company is required to circulate the resolution and any accompanying statement once it has received requests that it do so from members representing not less than the requisite percentage of the total voting rights of all members entitled to vote on the resolution.
+> 
+> (5) The “requisite percentage” is 5% or such lower percentage as is specified for this purpose in the company's articles.
+> 
+> (6) A request—
+> (a) may be in hard copy form or in electronic form,
+> (b) must identify the resolution and any accompanying statement, and
+> (c) must be authenticated by the person or persons making it.
 
 ## Circulation
 
 - A written resolution proposed by the directors or the requisitioning shareholders must be circulated to all ‘eligible members’ (ss 291(2) and 293(1) respectively) and to the auditors (s 502(1)).
 - Circulation can be hard copy, electronic or by website, though bear in mind requirements relating to electronic communication with shareholders (ss 298 & 299).
 
-```ad-defn
-title: Eligible member
-A shareholder who would have been entitled to vote on the ‘circulation date’ of the written resolution (s 289(1)). 
-```
+> [!defn] Eligible member
+> A shareholder who would have been entitled to vote on the ‘circulation date’ of the written resolution (s 289(1)). 
 
-```ad-defn
-title:Circulation date
-The date on which a resolution is first sent to an eligible member (s 290).
-```
+> [!defn] Circulation date
+> The date on which a resolution is first sent to an eligible member (s 290).
 
 ## Agreement
 

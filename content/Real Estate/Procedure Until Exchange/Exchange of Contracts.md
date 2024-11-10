@@ -67,9 +67,8 @@ The client's express authority to exchange must be obtained before the procedure
 	- Activated when contact made by the specified time
 	- Usually a provision for the buyer and seller to make use of a deposit due under a dependent sale.
 
-```ad-warning
-Before using Formula C, the client's express permission to use the formula must have been obtained. 
-```
+> [!warning]
+> Before using Formula C, the client's express permission to use the formula must have been obtained. 
 
 ### Personal Exchange
 
@@ -85,6 +84,5 @@ Basically a private postal service. The postal rule does not apply to DX.
 
 ## Insurance
 
-```ad-action
-If the buyer is to insure the property from exchange, the buyer's solicitor should after exchange immediately telephone the lender/ insurer. 
-```
+> [!action]
+> If the buyer is to insure the property from exchange, the buyer's solicitor should after exchange immediately telephone the lender/ insurer. 

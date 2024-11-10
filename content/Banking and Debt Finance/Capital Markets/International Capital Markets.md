@@ -26,15 +26,11 @@ date modified: Sunday, December 10th 2023, 12:41:44 am
 
 ## Domestic and Euromarkets
 
-```ad-defn
-title: Domestic market
-A market in a currency in its currency of origin. 
-```
+> [!defn] Domestic market
+> A market in a currency in its currency of origin. 
 
-```ad-defn
-title: Euromarkets
-"Euro" means currency held outside the currency's country of origin. Euromarkets are international markets. 
-```
+> [!defn] Euromarkets
+> "Euro" means currency held outside the currency's country of origin. Euromarkets are international markets. 
 
 - Eurocurrency market means the FX market.
 - Eurosecurities are international securities (e.g., dollar denominated bond issued by Tesco, or sterling bond issued by Tesco intended to raise sterling from overseas investors).
@@ -68,9 +64,8 @@ However, if a non-British company issues a sterling instrument (to ‘domestic�
 
 ## Bonds and Notes
 
-```ad-defn
-Certificate of debt under which the issuer obligates itself to pay the principal to the bondholder on a specified date.
-```
+> [!defn]
+> Certificate of debt under which the issuer obligates itself to pay the principal to the bondholder on a specified date.
 
 Characteristics:
 
@@ -80,18 +75,16 @@ Characteristics:
 - May or may not be listed
 - Interest bearing/ issued at a discount to face value at redemption
 
-```ad-note
-title: Terminology
-Note used to be reserved for securities with a short maturity/ floating rate coupon and bond for everything else. Now terms used interchangeably. 
-
-Refer to:
-- ‘floating rate notes’, not ‘floating rate bonds’;
-- a ‘global note’, rather than a ‘global bond’;
-- securities issued under a programme as ‘notes’, not ‘bonds’;
-- securities issued under a securitisation as ‘notes’, not ‘bonds’.
-
-If in doubt, use the term ‘note’ rather than ‘bond’.
-```
+> [!note] Terminology
+> Note used to be reserved for securities with a short maturity/ floating rate coupon and bond for everything else. Now terms used interchangeably. 
+> 
+> Refer to:
+> - ‘floating rate notes’, not ‘floating rate bonds’;
+> - a ‘global note’, rather than a ‘global bond’;
+> - securities issued under a programme as ‘notes’, not ‘bonds’;
+> - securities issued under a securitisation as ‘notes’, not ‘bonds’.
+> 
+> If in doubt, use the term ‘note’ rather than ‘bond’.
 
 ### Fixed Rate Bonds
 
@@ -131,9 +124,8 @@ A bond which is subject to a ‘collar’ is similar to an FRN in that its rate 
 
 Do not pay any interest. Bond issued at a discount. Return achieved on maturity. Bond appreciates as the date of maturity becomes closer.
 
-```ad-tip
-As interest rates fall, the price of a zero coupon bond already in issue will rise since the yield it offers can be lower but still compete with equivalent interest-bearing bonds. 
-```
+> [!tip]
+> As interest rates fall, the price of a zero coupon bond already in issue will rise since the yield it offers can be lower but still compete with equivalent interest-bearing bonds. 
 
 Zero coupon bonds advantage: investor taxed on capital gain rather than income.
 
@@ -151,10 +143,9 @@ Provide the bondholder with the option to convert the bond into shares in the is
 
 Once a bondholder converts, the issuer will create new shares to be given in exchange for the bond, which is then redeemed in consideration for the issue of shares.
 
-```ad-action
-- The directors should ensure there are no restrictions on allotment in the articles.
-- New shares are effectively issued for cash consideration so existing shareholders may have pre-emption rights to disapply. 
-```
+> [!action]
+> - The directors should ensure there are no restrictions on allotment in the articles.
+> - New shares are effectively issued for cash consideration so existing shareholders may have pre-emption rights to disapply. 
 
 A convertible bond will also specify the ‘conversion price’. This is the price at which the shares a bondholder receives in exchange for its bond will be valued upon conversion.
 
@@ -167,10 +158,8 @@ Issuer attraction:
 - Interest rate offered on a convertible bond will be less than an equivalent non-convertible bond.
 - Equity financing can be deferred if the issuer feels the share price is currently undervalued.
 
-```ad-note
-title: CoCo bonds
-Convertible capital bonds (also known as ‘CoCo bonds’) are a type of convertible bond that converts into equity at the happening of a defined event as opposed to the issuer’s or investor’s option. The trigger point is typically related to a bank’s regulatory position.
-```
+> [!note] CoCo bonds
+> Convertible capital bonds (also known as ‘CoCo bonds’) are a type of convertible bond that converts into equity at the happening of a defined event as opposed to the issuer’s or investor’s option. The trigger point is typically related to a bank’s regulatory position.
 
 #### Bonds with Warrants (options)
 

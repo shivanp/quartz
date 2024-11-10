@@ -17,10 +17,8 @@ Under the Landlord and Tenant Act 1927, the lettings market was weighted heavily
 
 The 1954 Act was introduced to strike a fairer balance between the landlord and tenant in business lettings. Now, if a business tenant wants to remain in occupation of its rented premises at the end of its lease term it can, if the lease qualifies for protection and the tenant complies with specified procedures. Landlords are only able to end commercial leases if they can prove that one or more of the grounds specified by the 1954 Act exist.
 
-```ad-statute
-title: [s 23(1) LTA 1954](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/23) 
-Subject to the provisions of this Act, this Part of this Act applies to any tenancy where the property comprised in the tenancy is or includes premises which are occupied by the tenant and are so occupied for the purposes of a business carried on by him or for those and other purposes.
-```
+> [!statute] [s 23(1) LTA 1954](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/23)
+> Subject to the provisions of this Act, this Part of this Act applies to any tenancy where the property comprised in the tenancy is or includes premises which are occupied by the tenant and are so occupied for the purposes of a business carried on by him or for those and other purposes.
 
 The key elements to be satisfied are: tenancy, occupation and business purposes.
 
@@ -62,9 +60,8 @@ If the 1954 Act applies, [s 24(1) LTA 1954](https://www.legislation.gov.uk/ukpga
 
 Under [s 38A LTA 1954](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/38A), before completing the lease, the landlord and tenant can agree to exclude the lease from the protection of the 1954 Act.
 
-```ad-warning
-Contracting out is not possible in respect of a periodic tenancy. 
-```
+> [!warning]
+> Contracting out is not possible in respect of a periodic tenancy. 
 
 - This is usual for short term lettings, where the landlord wants to be certain it can regain the premises at the end of the lease term. The decision as to whether a commercial lease is contracted out from the protection of the 1954 Act will be a part of the normal negotiation process prior to the grant of a lease. A protected lease could potentially command a higher rent than a contracted out lease.
 - Prior to June 2004, the contracting out procedure involved obtaining a court order. The lease also had to refer to the court order. From June 2004, the procedure for contracting out changed. It no longer involves a court order, but the lease does still have to make reference to the fact that the parties have agreed to exclude the protection of the 1954 Act (known as security of tenure).
@@ -88,20 +85,17 @@ The tenant must sign either a **simple declaration** or a **statutory declaratio
 | Simple declaration    | In a prescribed form, states that the tenant has received and accepted the consequences of the landlord’s warning notice. |
 | Statutory declaration | In a prescribed form and made in front of an independent solicitor, is to the effect that the warning notice has been received and the tenant accepts the consequences.                                                                                                                          |
 
-```ad-warning
-The warning notice is served by the landlord on the tenant and the tenant makes a declaration.
-```
+> [!warning]
+> The warning notice is served by the landlord on the tenant and the tenant makes a declaration.
 
-```ad-example
-title: Suggested wording
-
-1. The Tenant confirms that before [the date of this Lease] [it became contractually bound to enter into the tenancy created by this Lease]:
-	1. the Landlord served on the Tenant a notice dated [      ] in relation to the tenancy       created by this Lease ("the Notice") in a form complying with the requirements of Schedule 1 to the Regulatory Reform (Business Tenancies) (England and Wales Order 2003 ("the Order")
-	2. the Tenant or a person duly authorised by the Tenant in relation to the Notice made [a declaration] [a statutory declaration] ("the Declaration") dated [ ] in a form complying with the requirements of Schedule 2 of the Order
-2. The Tenant further confirms that where the Declaration was made by a person other than the Tenant the declaration was duly authorised by the Tenant to make the Declaration on the Tenant's behalf.
-3. [The Landlord and Tenant agree that there is no agreement for lease to which this Lease gives effect]  
-4. The Landlord and Tenant agree to exclude the provisions of sections 24 to 28 (inclusive) of the 1954 Act in relation to the tenancy created by this Lease.
-```
+> [!example] Suggested wording
+> 
+> 1. The Tenant confirms that before [the date of this Lease] [it became contractually bound to enter into the tenancy created by this Lease]:
+> 	1. the Landlord served on the Tenant a notice dated [      ] in relation to the tenancy       created by this Lease ("the Notice") in a form complying with the requirements of Schedule 1 to the Regulatory Reform (Business Tenancies) (England and Wales Order 2003 ("the Order")
+> 	2. the Tenant or a person duly authorised by the Tenant in relation to the Notice made [a declaration] [a statutory declaration] ("the Declaration") dated [ ] in a form complying with the requirements of Schedule 2 of the Order
+> 2. The Tenant further confirms that where the Declaration was made by a person other than the Tenant the declaration was duly authorised by the Tenant to make the Declaration on the Tenant's behalf.
+> 3. [The Landlord and Tenant agree that there is no agreement for lease to which this Lease gives effect]  
+> 4. The Landlord and Tenant agree to exclude the provisions of sections 24 to 28 (inclusive) of the 1954 Act in relation to the tenancy created by this Lease.
 
 #### Lease Wording
 
@@ -137,42 +131,36 @@ The Act provides for only seven methods of termination:
 7. Section 27(1A) by Tenant ceasing to be in occupation for business purposes at end of the lease (initiated by Tenant)
 	1. 27 (1A) enables the tenancy to end by effluxion of time where the tenant ceases to be in occupation for business purposes at the end of the lease.
 
-```ad-question
-title: If you are the tenant in a protected tenancy and do not wish to renew once the term expires in 4 months, what should you do?
-Serve notice in writing to the landlord at least 3 months before the end of the tenancy. Or serve notice now to terminate in exactly 3 months. 
-```
+> [!question] If you are the tenant in a protected tenancy and do not wish to renew once the term expires in 4 months, what should you do?
+> Serve notice in writing to the landlord at least 3 months before the end of the tenancy. Or serve notice now to terminate in exactly 3 months. 
 
-```ad-question
-title: If you are the tenant in a protected tenancy and do not wish to renew once the term expires tomorrow, what should you do?
-Move out before the tenancy ends. Then the lease will come to the end as you are not in occupation. This action was approved in [[Esselte AB v Pearl Assurance plc (1997)]].
-```
+> [!question] If you are the tenant in a protected tenancy and do not wish to renew once the term expires tomorrow, what should you do?
+> Move out before the tenancy ends. Then the lease will come to the end as you are not in occupation. This action was approved in [[Esselte AB v Pearl Assurance plc (1997)]].
 
 ## S 25 Notice
 
 Landlord starts the process of terminating the lease by serving a s 25 LTA 1954 notice on the tenant.
 
-```ad-statute
-title: s 25 LTA 1954 - Termination of tenancy by the landlord.
-
-(1) The landlord may terminate a tenancy to which this Part of this Act applies by a notice given to the tenant in the prescribed form specifying the date at which the tenancy is to come to an end (hereinafter referred to as “ the date of termination ”)...
-
-(2) Subject to the provisions of the next following subsection, a notice under this section shall not have effect unless it is given not more than twelve nor less than six months before the date of the termination specified therein.
-
-(3) In the case of a tenancy which apart from this Act could have been brought to an end by notice to quit given by the landlord—
-- (a) the date of termination specified in a notice under this section shall not be earlier than the earliest date on which apart from this Part of this Act the tenancy could have been brought to an end by notice to quit given by the landlord on the date of the giving of the notice under this section; and
-- (b) where apart from this Part of this Act more than six months’ notice to quit would have been required to bring the tenancy to an end, the last foregoing subsection shall have effect with the substitution for twelve months of a period six months longer than the length of notice to quit which would have been required as aforesaid.
-
-(4) In the case of any other tenancy, a notice under this section shall not specify a date of termination earlier than the date on which apart from this Part of this Act the tenancy would have come to an end by effuxion of time.
-
-(6) A notice under this section shall not have effect unless it states whether the landlord is opposed to the grant of a new tenancy to the tenant.
-
-(7) A notice under this section which states that the landlord is opposed to the grant of a new tenancy to the tenant shall not have effect unless it also specifies one or more of the grounds specified in section 30(1) of this Act as the ground or grounds for his opposition.
-
-(8) A notice under this section which states that the landlord is not opposed to the grant of a new tenancy to the tenant shall not have effect unless it sets out the landlord’s proposals as to—
-- (a) the property to be comprised in the new tenancy (being either the whole or part of the property comprised in the current tenancy);
-- (b) the rent to be payable under the new tenancy; and
-- (c) the other terms of the new tenancy.
-```
+> [!statute] s 25 LTA 1954 - Termination of tenancy by the landlord.
+> 
+> (1) The landlord may terminate a tenancy to which this Part of this Act applies by a notice given to the tenant in the prescribed form specifying the date at which the tenancy is to come to an end (hereinafter referred to as “ the date of termination ”)...
+> 
+> (2) Subject to the provisions of the next following subsection, a notice under this section shall not have effect unless it is given not more than twelve nor less than six months before the date of the termination specified therein.
+> 
+> (3) In the case of a tenancy which apart from this Act could have been brought to an end by notice to quit given by the landlord—
+> - (a) the date of termination specified in a notice under this section shall not be earlier than the earliest date on which apart from this Part of this Act the tenancy could have been brought to an end by notice to quit given by the landlord on the date of the giving of the notice under this section; and
+> - (b) where apart from this Part of this Act more than six months’ notice to quit would have been required to bring the tenancy to an end, the last foregoing subsection shall have effect with the substitution for twelve months of a period six months longer than the length of notice to quit which would have been required as aforesaid.
+> 
+> (4) In the case of any other tenancy, a notice under this section shall not specify a date of termination earlier than the date on which apart from this Part of this Act the tenancy would have come to an end by effuxion of time.
+> 
+> (6) A notice under this section shall not have effect unless it states whether the landlord is opposed to the grant of a new tenancy to the tenant.
+> 
+> (7) A notice under this section which states that the landlord is opposed to the grant of a new tenancy to the tenant shall not have effect unless it also specifies one or more of the grounds specified in section 30(1) of this Act as the ground or grounds for his opposition.
+> 
+> (8) A notice under this section which states that the landlord is not opposed to the grant of a new tenancy to the tenant shall not have effect unless it sets out the landlord’s proposals as to—
+> - (a) the property to be comprised in the new tenancy (being either the whole or part of the property comprised in the current tenancy);
+> - (b) the rent to be payable under the new tenancy; and
+> - (c) the other terms of the new tenancy.
 
 ### Prescribed Form
 
@@ -191,29 +179,26 @@ title: s 25 LTA 1954 - Termination of tenancy by the landlord.
 - Parties can agree to extend the time limit between them.
 - L can apply to court for a new lease to be granted.
 
-```ad-warning
-If a tenant wishes to preserve its security of tenure rights under LTA54 following the service of a valid s. 25 notice by the landlord, it must ensure that it applies to court for a new lease before the termination date specified in the s. 25 notice (or any extension agreed in writing before the end of that period).  If it fails to do this, the tenant will lose its protection under LTA54 and will be reliant on the landlord's willingness to grant a lease to the tenant in the absence of this protection. This is the case even if the landlord has stated that it will not oppose the grant of a new lease to the tenant in the s. 25 notice served by it.
-```
+> [!warning]
+> If a tenant wishes to preserve its security of tenure rights under LTA54 following the service of a valid s. 25 notice by the landlord, it must ensure that it applies to court for a new lease before the termination date specified in the s. 25 notice (or any extension agreed in writing before the end of that period).  If it fails to do this, the tenant will lose its protection under LTA54 and will be reliant on the landlord's willingness to grant a lease to the tenant in the absence of this protection. This is the case even if the landlord has stated that it will not oppose the grant of a new lease to the tenant in the s. 25 notice served by it.
 
 ![[s 25 LTA 1954.png]]
 
 ## S 26 Request
 
-```ad-statute
-title: s 26 LTA 1954 - Tenant’s request for a new tenancy.
-
-(1) A tenant’s request for a new tenancy may be made where the current tenancy is a tenancy granted for a term of years certain exceeding one year, whether or not continued by section twenty-four of this Act, or granted for a term of years certain and thereafter from year to year.
-
-(2) A tenant’s request for a new tenancy shall be for a tenancy beginning with such date, not more than twelve nor less than six months after the making of the request, as may be specified therein: Provided that the said date shall not be earlier than the date on which apart from this Act the current tenancy would come to an end by effluxion of time or could be brought to an end by notice to quit given by the tenant.
-
-(3) A tenant’s request for a new tenancy shall not have effect unless it is made by notice in the prescribed form given to the landlord and sets out the tenant’s proposals as to the property to be comprised in the new tenancy (being either the whole or part of the property comprised in the current tenancy), as to the rent to be payable under the new tenancy and as to the other terms of the new tenancy.
-
-(4) A tenant’s request for a new tenancy shall not be made if the landlord has already given notice under the last foregoing section to terminate the current tenancy, or if the tenant has already given notice to quit or notice under the next following section; and no such notice shall be given by the landlord or the tenant after the making by the tenant of a request for a new tenancy.
-
-(5) Where the tenant makes a request for a new tenancy in accordance with the foregoing provisions of this section, the current tenancy shall... terminate immediately before the date specified in the request for the beginning of the new tenancy.
-
-(6) Within two months of the making of a tenant’s request for a new tenancy the landlord may give notice to the tenant that he will oppose an application to the court for the grant of a new tenancy, and any such notice shall state on which of the grounds mentioned in section thirty of this Act the landlord will oppose the application.
-```
+> [!statute] s 26 LTA 1954 - Tenant’s request for a new tenancy.
+> 
+> (1) A tenant’s request for a new tenancy may be made where the current tenancy is a tenancy granted for a term of years certain exceeding one year, whether or not continued by section twenty-four of this Act, or granted for a term of years certain and thereafter from year to year.
+> 
+> (2) A tenant’s request for a new tenancy shall be for a tenancy beginning with such date, not more than twelve nor less than six months after the making of the request, as may be specified therein: Provided that the said date shall not be earlier than the date on which apart from this Act the current tenancy would come to an end by effluxion of time or could be brought to an end by notice to quit given by the tenant.
+> 
+> (3) A tenant’s request for a new tenancy shall not have effect unless it is made by notice in the prescribed form given to the landlord and sets out the tenant’s proposals as to the property to be comprised in the new tenancy (being either the whole or part of the property comprised in the current tenancy), as to the rent to be payable under the new tenancy and as to the other terms of the new tenancy.
+> 
+> (4) A tenant’s request for a new tenancy shall not be made if the landlord has already given notice under the last foregoing section to terminate the current tenancy, or if the tenant has already given notice to quit or notice under the next following section; and no such notice shall be given by the landlord or the tenant after the making by the tenant of a request for a new tenancy.
+> 
+> (5) Where the tenant makes a request for a new tenancy in accordance with the foregoing provisions of this section, the current tenancy shall... terminate immediately before the date specified in the request for the beginning of the new tenancy.
+> 
+> (6) Within two months of the making of a tenant’s request for a new tenancy the landlord may give notice to the tenant that he will oppose an application to the court for the grant of a new tenancy, and any such notice shall state on which of the grounds mentioned in section thirty of this Act the landlord will oppose the application.
 
 - The tenant can take the initiative and serve a request for a new tenancy under s 26.
 - The procedure is not available for periodic tenants or those for a fixed term $\leq 1$ year.
@@ -221,16 +206,14 @@ title: s 26 LTA 1954 - Tenant’s request for a new tenancy.
 	- But may be if rent is currently payable is too high; or
 	- Lease is to be sold and may be more marketable with a new fixed term.
 
-```ad-note
-title: Reasons for serving s26 notice
-1. Rents falling
-	- If the tenant believes that rents have fallen and the current rent is more than what could be achieved under a new lease in the current market, then the tenant will want to terminate the current tenancy and obtain a new one at a reduced rent.
-2. Rents increased
-	- Conversely, the tenant may be making a pre-emptive move to prolong the current tenancy. If rents have increased, the landlord will want to bring the current tenancy to an end and can only do that by service of a section 25 notice giving at least six months' notice.
-	- If however the tenant can step in first and serve their section 26 request for a new tenancy the tenant could give up to 12 months' notice and prolong their current tenancy – at the same rent – for another six months.
-3. Tenants want to sell leasehold with new fixed term
-	- The tenant may have plans to sell the lease and the tenancy would be more attractive to a buyer if a new fixed term has been granted.
-```
+> [!note] Reasons for serving s26 notice
+> 1. Rents falling
+> 	- If the tenant believes that rents have fallen and the current rent is more than what could be achieved under a new lease in the current market, then the tenant will want to terminate the current tenancy and obtain a new one at a reduced rent.
+> 2. Rents increased
+> 	- Conversely, the tenant may be making a pre-emptive move to prolong the current tenancy. If rents have increased, the landlord will want to bring the current tenancy to an end and can only do that by service of a section 25 notice giving at least six months' notice.
+> 	- If however the tenant can step in first and serve their section 26 request for a new tenancy the tenant could give up to 12 months' notice and prolong their current tenancy – at the same rent – for another six months.
+> 3. Tenants want to sell leasehold with new fixed term
+> 	- The tenant may have plans to sell the lease and the tenancy would be more attractive to a buyer if a new fixed term has been granted.
 
 ### Prescribed Form
 
@@ -272,24 +255,21 @@ title: Reasons for serving s26 notice
 	- L **can** rely on the ground if she bought the property with vacant possession, let it, and then sought to possess within 5 years of buying.
 	- May be used by a competitor to drive out a business rival ([[Humber Oil Terminals Trustee Ltd v Associated British Ports [2011] EWHC 2043 (Ch)).]])
 
-```ad-important
-(1) to (3) are discretionary grounds - L must:
-1. Establish the ground; and
-2. Show T ought not to be granted a new tenancy in view of the facts giving rise to the ground. 
-```
+> [!important]
+> (1) to (3) are discretionary grounds - L must:
+> 1. Establish the ground; and
+> 2. Show T ought not to be granted a new tenancy in view of the facts giving rise to the ground. 
 
-```ad-statute
-title: s 30(1) LTA 1954  Opposition by landlord to application for new tenancy.
-
-The grounds on which a landlord may oppose an application under section 24(1) of this Act, or make an application under section 29(2) of this Act, are such of the following grounds as may be stated in the landlord’s notice under section 25 of this Act or, as the case may be, under subsection (6) of section 26 thereof, that is to say:—
-- (a) where under the current tenancy the tenant has any obligations as respects the repair and maintenance of the holding, that the tenant ought not to be granted a new tenancy in view of the state of repair of the holding, being a state resulting from the tenant’s failure to comply with the said obligations;
-- (b) that the tenant ought not to be granted a new tenancy in view of his persistent delay in paying rent which has become due;
-- (c) that the tenant ought not to be granted a new tenancy in view of other substantial breaches by him of his obligations under the current tenancy, or for any other reason connected with the tenant’s use or management of the holding;
-- (d) that the landlord has offered and is willing to provide or secure the provision of alternative accommodation for the tenant, that the terms on which the alternative accommodation is available are reasonable having regard to the terms of the current tenancy and to all other relevant circumstances, and that the accommodation and the time at which it will be available are suitable for the tenant’s requirements (including the requirement to preserve goodwill) having regard to the nature and class of his business and to the situation and extent of, and facilities afforded by, the holding;
-- (e) where the current tenancy was created by the sub-letting of part only of the property comprised in a superior tenancy and the landlord is the owner of an interest in reversion expectant on the termination of that superior tenancy, that the aggregate of the rents reasonably obtainable on separate lettings of the holding and the remainder of that property would be substantially less than the rent reasonably obtainable on a letting of that property as a whole, that on the termination of the current tenancy the landlord requires possession of the holding for the purpose of letting or otherwise disposing of the said property as a whole, and that in view thereof the tenant ought not to be granted a new tenancy;
-- (f) that on the termination of the current tenancy the landlord intends to demolish or reconstruct the premises comprised in the holding or a substantial part of those premises or to carry out substantial work of construction on the holding or part thereof and that he could not reasonably do so without obtaining possession of the holding;
-- (g) subject as hereinafter provided, that on the termination of the current tenancy the landlord intends to occupy the holding for the purposes, or partly for the purposes, of a business to be carried on by him therein, or as his residence.
-```
+> [!statute] s 30(1) LTA 1954  Opposition by landlord to application for new tenancy.
+> 
+> The grounds on which a landlord may oppose an application under section 24(1) of this Act, or make an application under section 29(2) of this Act, are such of the following grounds as may be stated in the landlord’s notice under section 25 of this Act or, as the case may be, under subsection (6) of section 26 thereof, that is to say:—
+> - (a) where under the current tenancy the tenant has any obligations as respects the repair and maintenance of the holding, that the tenant ought not to be granted a new tenancy in view of the state of repair of the holding, being a state resulting from the tenant’s failure to comply with the said obligations;
+> - (b) that the tenant ought not to be granted a new tenancy in view of his persistent delay in paying rent which has become due;
+> - (c) that the tenant ought not to be granted a new tenancy in view of other substantial breaches by him of his obligations under the current tenancy, or for any other reason connected with the tenant’s use or management of the holding;
+> - (d) that the landlord has offered and is willing to provide or secure the provision of alternative accommodation for the tenant, that the terms on which the alternative accommodation is available are reasonable having regard to the terms of the current tenancy and to all other relevant circumstances, and that the accommodation and the time at which it will be available are suitable for the tenant’s requirements (including the requirement to preserve goodwill) having regard to the nature and class of his business and to the situation and extent of, and facilities afforded by, the holding;
+> - (e) where the current tenancy was created by the sub-letting of part only of the property comprised in a superior tenancy and the landlord is the owner of an interest in reversion expectant on the termination of that superior tenancy, that the aggregate of the rents reasonably obtainable on separate lettings of the holding and the remainder of that property would be substantially less than the rent reasonably obtainable on a letting of that property as a whole, that on the termination of the current tenancy the landlord requires possession of the holding for the purpose of letting or otherwise disposing of the said property as a whole, and that in view thereof the tenant ought not to be granted a new tenancy;
+> - (f) that on the termination of the current tenancy the landlord intends to demolish or reconstruct the premises comprised in the holding or a substantial part of those premises or to carry out substantial work of construction on the holding or part thereof and that he could not reasonably do so without obtaining possession of the holding;
+> - (g) subject as hereinafter provided, that on the termination of the current tenancy the landlord intends to occupy the holding for the purposes, or partly for the purposes, of a business to be carried on by him therein, or as his residence.
 
 ## Interim Rent
 

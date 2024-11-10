@@ -37,19 +37,16 @@ The buyer should ensure it receives the benefit of all contracts entered into be
 
 Under English law, can do this by assigning the benefit of the contract. If legal assignment is required, notice must be given to the other contracting party (s 136 LPA 1925). This is desirable – otherwise the 3rd party can continue making payments to the seller.
 
-```ad-warning
-This method only transfers the benefit of the contract, so the seller will still be liable to the 3rd party for any outstanding obligations.
-```
+> [!warning]
+> This method only transfers the benefit of the contract, so the seller will still be liable to the 3rd party for any outstanding obligations.
 
-```ad-example
-In an exclusive distribution agreement, if the seller is the distributor, the benefit under the agreement is the receipt of goods for resale in a given territory; the burden is payment for the goods. Under English law, the right to receive the goods can be legally assigned by giving notice under s 136 of the Law of Property Act 1925 (unless the contract says consent is required), but the obligation to pay for the goods remains with the seller.
-```
+> [!example]
+> In an exclusive distribution agreement, if the seller is the distributor, the benefit under the agreement is the receipt of goods for resale in a given territory; the burden is payment for the goods. Under English law, the right to receive the goods can be legally assigned by giving notice under s 136 of the Law of Property Act 1925 (unless the contract says consent is required), but the obligation to pay for the goods remains with the seller.
 
 To get around this, the existing contract can be **novated**. Involves the other party to the contract agreeing to release the seller from the contract, allowing the buyer to take over the benefit and burden. The parties to the novation agreement will be the buyer, the seller and the 3rd party.
 
-```ad-note
-Because this involves the cooperation of the third party, can be time-consuming. 
-```
+> [!note]
+> Because this involves the cooperation of the third party, can be time-consuming. 
 
 ### Debtors and Creditors
 

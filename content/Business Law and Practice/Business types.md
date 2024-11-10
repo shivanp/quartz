@@ -104,10 +104,8 @@ In summary, the lesson of accidental partnerships is to regulate a venture with 
 
 ### Unlimited Company
 
-```ad-defn
-title: Unlimited company
-A company which does not limit the liability of its members (s 3(4) CA 2006)
-```
+> [!defn] Unlimited company
+> A company which does not limit the liability of its members (s 3(4) CA 2006)
 
 Very rare; one example is Land Rover pre-2013.
 
@@ -115,9 +113,8 @@ A key advantage is that company finances do not need to be made public.
 
 ### Limited Company
 
-```ad-defn
-A company in which the liability of its members is limited by its constitution (CA 2006 s 3(1)). 
-```
+> [!defn]
+> A company in which the liability of its members is limited by its constitution (CA 2006 s 3(1)). 
 
 #### Limiting Liability
 
@@ -136,10 +133,8 @@ Can be easier to make changes to ownership than in a company limited by shares.
 
 Almost all companies are private limited companies. One of the biggest is Iceland.
 
-```ad-defn
-title: Private limited company
-Any company that is not a public company (s 4(1))
-```
+> [!defn] Private limited company
+> Any company that is not a public company (s 4(1))
 
 An Ltd cannot raise money from members of the public at large by issuing securities such as shares (s 755 CA 2006).
 
@@ -163,9 +158,8 @@ A public company may apply to join a UK stock market. Note that not all do. Two 
 - London Stock Exchange's Main Market
 - Alternative Investment Market
 
-```ad-warning
-There is no obligation on a public company to join a stock market. Those which choose not to are called unlisted (e.g., John Lewis)
-```
+> [!warning]
+> There is no obligation on a public company to join a stock market. Those which choose not to are called unlisted (e.g., John Lewis)
 
 #### Main Market
 

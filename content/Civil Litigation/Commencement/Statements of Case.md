@@ -15,16 +15,13 @@ date modified: Sunday, December 10th 2023, 12:40:51 am
 
 ### Definition
 
-```ad-defn
-The formal documents in which parties state their case (previously known as pleadings). 
-```
+> [!defn]
+> The formal documents in which parties state their case (previously known as pleadings). 
 
-```ad-statute
-title: r 2.3
-‘Statement of case’ –
-- (a) means a claim form, particulars of claim where these are not included in a claim form, defence, Part 20 claim, or reply to defence; and
-- (b) includes any further information given in relation to them voluntarily or by court order under rule 18.1;
-```
+> [!statute] r 2.3
+> ‘Statement of case’ –
+> - (a) means a claim form, particulars of claim where these are not included in a claim form, defence, Part 20 claim, or reply to defence; and
+> - (b) includes any further information given in relation to them voluntarily or by court order under rule 18.1;
 
 They must be drafted carefully and reviewed continually as the case develops, as the trial court will not usually allow a party to pursue an issue which, on a fair reading of the statement of case, is not stated ([[Royal Brompton Hospital NHS Trust v Hammond & Others [2000] LTL, 4 December]]). Where the parties’ evidence and submissions at trial are based on their statements of case, the  
 trial judge must not determine the issues on a totally different basis ([[Satyam Enterprises Ltd v Burton [2021] EWCA Civ 287]]).
@@ -48,16 +45,14 @@ PD 16 para 1.4: if a statement of case exceeds 25 pages (excluding schedules) a 
 
 ### References
 
-```ad-statute
-title: PD 16 para 13.3
-A party may:
-
-(1) refer in his statement of case to any point of law on which his claim or defence, as the case may be, is based,
-
-(2) give in his statement of case the name of any witness he proposes to call, and
-
-(3) attach to or serve with this statement of case a copy of any document which he considers is necessary to his claim or defence, as the case may be (including any expert’s report to be filed in accordance with Part 35).
-```
+> [!statute] PD 16 para 13.3
+> A party may:
+> 
+> (1) refer in his statement of case to any point of law on which his claim or defence, as the case may be, is based,
+> 
+> (2) give in his statement of case the name of any witness he proposes to call, and
+> 
+> (3) attach to or serve with this statement of case a copy of any document which he considers is necessary to his claim or defence, as the case may be (including any expert’s report to be filed in accordance with Part 35).
 
 - No need to state any law
 	- Unless parties and court would otherwise ‘be left to speculate upon the relevance in law of a purely factual narrative’ ([[Loveridge v Healey [2004] EWCA Civ 173]])
@@ -68,18 +63,16 @@ A party may:
 
 ### Formalities
 
-```ad-statute
-title: PD 5A para 2.2
-Every document prepared by a party for filing or use at the Court must –  
-  
-1) Unless the nature of the document renders it impracticable, be on A4 paper of durable quality having a margin, not less than 3.5 centimetres wide, 
-2) be fully legible and should normally be typed, 
-3) where possible be bound securely in a manner which would not hamper filing or otherwise each page should be endorsed with the case number, 
-4) have the pages numbered consecutively, 
-5) be divided into numbered paragraphs, 
-6) have all numbers, including dates, expressed as figures, and 
-7) give in the margin the reference of every document mentioned that has already been filed.
-```
+> [!statute] PD 5A para 2.2
+> Every document prepared by a party for filing or use at the Court must –  
+>   
+> 1) Unless the nature of the document renders it impracticable, be on A4 paper of durable quality having a margin, not less than 3.5 centimetres wide, 
+> 2) be fully legible and should normally be typed, 
+> 3) where possible be bound securely in a manner which would not hamper filing or otherwise each page should be endorsed with the case number, 
+> 4) have the pages numbered consecutively, 
+> 5) be divided into numbered paragraphs, 
+> 6) have all numbers, including dates, expressed as figures, and 
+> 7) give in the margin the reference of every document mentioned that has already been filed.
 
 See also principles listed in [[Queen's Bench Division]] Guide.
 
@@ -89,19 +82,15 @@ By PD 5A, para 2.1, where a firm of solicitors prepares a statement of case, the
 
 Only make assertions and put forward statements and representations which are properly arguable, to comply with para 1.4 Code for Solicitors.
 
-```ad-question
-title: Client files statement and tells you it contains a material error intended to mislead the court 
-Advise the client to amend the statement, and if they do not, cease to act. 
-```
+> [!question] Client files statement and tells you it contains a material error intended to mislead the court
+> Advise the client to amend the statement, and if they do not, cease to act. 
 
 ## Particulars of Claim
 
-```ad-statute
-title: r 16.4(1) - Contents of the particulars of claim
-Particulars of claim must include –
-- (a) a concise statement of the facts on which the claimant relies;
-- (b) if the claimant is seeking interest, a statement to that effect and the details set out in paragraph (2);
-```
+> [!statute] r 16.4(1) - Contents of the particulars of claim
+> Particulars of claim must include –
+> - (a) a concise statement of the facts on which the claimant relies;
+> - (b) if the claimant is seeking interest, a statement to that effect and the details set out in paragraph (2);
 
 Where the material facts stated in a claimant’s particulars of claim conflict with those in the witness statements later filed in support of that case, that may prove fatal to the claim.
 
@@ -116,10 +105,9 @@ If evidence changes, apply to amend statement of claim.
 
 Other specifics to include: para 8 PD 16.
 
-```ad-note
-
-It is for the defendant to state in their defence and prove at trial any alleged failure of the claimant to mitigate loss, so V need not include anything about this in PoC. 
-```
+> [!note]
+> 
+> It is for the defendant to state in their defence and prove at trial any alleged failure of the claimant to mitigate loss, so V need not include anything about this in PoC. 
 
 ### Interest
 
@@ -146,35 +134,33 @@ If the particulars of claim are not part of the claim form itself, they must be 
 
 ## Defence
 
-```ad-statute
-title: r 16.5 - Contents of defence
-(1) In his defence, the defendant must state –
-- (a) which of the allegations in the particulars of claim he denies;
-- (b) which allegations he is unable to admit or deny, but which he requires the claimant to prove; and
-- (c) which allegations he admits.
-
-(2) Where the defendant denies an allegation –
-- (a) he must state his reasons for doing so; and
-- (b) if he intends to put forward a different version of events from that given by the claimant, he must state his own version.
-
-(3) A defendant who –
-- (a) fails to deal with an allegation; but
-- (b) has set out in his defence the nature of his case in relation to the issue to which that allegation is relevant,
-
-shall be taken to require that allegation to be proved.
-
-(4) Where the claim includes a money claim, a defendant shall be taken to require that any allegation relating to the amount of money claimed be proved unless he expressly admits the allegation.
-
-(5) Subject to paragraphs (3) and (4), a defendant who fails to deal with an allegation shall be taken to admit that allegation.
-
-(6) If the defendant disputes the claimant’s statement of value under rule 16.3 he must –
-- (a) state why he disputes it; and
-- (b) if he is able, give his own statement of the value of the claim.
-
-(7) If the defendant is defending in a representative capacity, he must state what that capacity is.
-
-(8) If the defendant has not filed an acknowledgment of service under Part 10, the defendant must give an address for service.
-```
+> [!statute] r 16.5 - Contents of defence
+> (1) In his defence, the defendant must state –
+> - (a) which of the allegations in the particulars of claim he denies;
+> - (b) which allegations he is unable to admit or deny, but which he requires the claimant to prove; and
+> - (c) which allegations he admits.
+> 
+> (2) Where the defendant denies an allegation –
+> - (a) he must state his reasons for doing so; and
+> - (b) if he intends to put forward a different version of events from that given by the claimant, he must state his own version.
+> 
+> (3) A defendant who –
+> - (a) fails to deal with an allegation; but
+> - (b) has set out in his defence the nature of his case in relation to the issue to which that allegation is relevant,
+> 
+> shall be taken to require that allegation to be proved.
+> 
+> (4) Where the claim includes a money claim, a defendant shall be taken to require that any allegation relating to the amount of money claimed be proved unless he expressly admits the allegation.
+> 
+> (5) Subject to paragraphs (3) and (4), a defendant who fails to deal with an allegation shall be taken to admit that allegation.
+> 
+> (6) If the defendant disputes the claimant’s statement of value under rule 16.3 he must –
+> - (a) state why he disputes it; and
+> - (b) if he is able, give his own statement of the value of the claim.
+> 
+> (7) If the defendant is defending in a representative capacity, he must state what that capacity is.
+> 
+> (8) If the defendant has not filed an acknowledgment of service under Part 10, the defendant must give an address for service.
 
 ### Notes
 
@@ -218,14 +204,12 @@ When considering an application for amendment of statement of case, the court wi
 
 ## Request for Further Information (Part 18)
 
-```ad-statute
-title: r 18.1(1) - Obtaining further information
-The court may at any time order a party to –
-- (a) clarify any matter which is in dispute in the proceedings; or
-- (b) give additional information in relation to any such matter,
-
-whether or not the matter is contained or referred to in a statement of case.
-```
+> [!statute] r 18.1(1) - Obtaining further information
+> The court may at any time order a party to –
+> - (a) clarify any matter which is in dispute in the proceedings; or
+> - (b) give additional information in relation to any such matter,
+> 
+> whether or not the matter is contained or referred to in a statement of case.
 
 If one of the parties requires further information then, before applying to the court for an order, that party should first serve a written request on the other party stating a date for the response, which must allow a reasonable time for the response.
 

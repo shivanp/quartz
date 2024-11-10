@@ -51,9 +51,8 @@ The relevant provisions of PA 1890 are based on the law of agency:
 | s 7 | Partners using business credit for private purposes | When a partner pledges firm credit for a purpose not connected, the firm is not bound, though the partner incurs personal liability. |
 | s 8 | Effect of notice that firm will not be bound by acts of partner | Restrictions can be placed on partners' ability to bind the firm, then acts in contravention of the agreement are not binding wrt people with notice of the agreement. |
 
-```ad-note
-"Firm" here means "partners", since the partnership has no legal personality. 
-```
+> [!note]
+> "Firm" here means "partners", since the partnership has no legal personality. 
 
 s 5: the act has to be in the usual course of business (see [[Hirst v Etherington [1999] Lloyd's Rep PN 938]]).
 
@@ -96,15 +95,11 @@ So far liability in contract was considered. What about liability in tort?
 
 s 10 makes the firm liable for any wrongful act or omission of a partner who acts in the ordinary course of the firm's business or with the authority of the partner's partners.
 
-```ad-statute
-title: s 10 PA 1890
-Where, by any wrongful act or omission of any partner acting in the ordinary course of the business of the firm, or with the authority of his co-partners, loss or injury is caused to any person not being a partner in the firm, or any penalty is incurred, the firm is liable therefor to the same extent as the partner so acting or omitting to act.
-```
+> [!statute] s 10 PA 1890
+> Where, by any wrongful act or omission of any partner acting in the ordinary course of the business of the firm, or with the authority of his co-partners, loss or injury is caused to any person not being a partner in the firm, or any penalty is incurred, the firm is liable therefor to the same extent as the partner so acting or omitting to act.
 
-```ad-statute
-title: s 12 PA 1890
-Every partner is liable jointly with his co-partners and also severally for everything for which the firm while he is a partner therein becomes liable under either of the two last preceding sections. 
-```
+> [!statute] s 12 PA 1890
+> Every partner is liable jointly with his co-partners and also severally for everything for which the firm while he is a partner therein becomes liable under either of the two last preceding sections. 
 
 - s 10 covers all types of wrongdoing, including a dishonest breach of trust or fiduciary duty, and is not limited to common law torts ([[Dubai Aluminium Co Ltd v Salaam [2002] 3 WLR 1913]])
 - ss 5 and 10 do not make the other partners liable for breach of contract and deceit arising out of a fraudulent investment scheme ([[JJ Coughlan v Ruparelia [2003] EWCA Civ 1057]]).
@@ -154,12 +149,11 @@ In [[Sangster v Biddulphs [2005] EWHC 658 (Ch)]], the test relied on for liabili
 
 The firm’s debts can be enforced against all those who were partners at the time when the debt or obligation was incurred. Although a person may retire from a partnership, they remain liable on those contracts already made. The terms for the purchase of the partner’s share in the business should include a provision whereby the purchasing partner(s) indemnify the partner against liability for any such debts which were taken into account in valuing the partner’s share.
 
-```ad-action
-When a partner leaves the partnership, the partner must give notice of their leaving since otherwise the partner may become liable for the acts of their former partner(s) done after the partner leaves the firm, if the creditor is unaware that the partner has left. s 36 prescribes the notices which the partner should give:
-
-1. Actual notice (e.g., by sending out standard letters announcing the partner is leaving) to all those who have dealt with the firm prior to the partner leaving (s 36(1)); and
-2. An advertisement in the London Gazette as notice to any person who did not deal with the firm prior to the date of that partner's retirement or expulsion (s 36(2)).
-```
+> [!action]
+> When a partner leaves the partnership, the partner must give notice of their leaving since otherwise the partner may become liable for the acts of their former partner(s) done after the partner leaves the firm, if the creditor is unaware that the partner has left. s 36 prescribes the notices which the partner should give:
+> 
+> 1. Actual notice (e.g., by sending out standard letters announcing the partner is leaving) to all those who have dealt with the firm prior to the partner leaving (s 36(1)); and
+> 2. An advertisement in the London Gazette as notice to any person who did not deal with the firm prior to the date of that partner's retirement or expulsion (s 36(2)).
 
 A creditor who was unaware of the partner’s leaving and who can establish that the type of notice appropriate to the creditor (as above) was not given, will be able to sue the former partner for the firm’s debt, in spite of the fact that he has ceased to be a partner. The principle on which s 36 is based, unlike that on which s 14 is based, does not depend on the creditor having relied on some representation at the time of the transaction. Rather the creditor is given the right to assume that the membership of the firm continues unchanged until notice of the prescribed type (as above) is given. It follows that, if the creditor was never aware that the person had been a partner, no notice of any sort will be required since that creditor cannot be assuming the continuance of that person in the partnership (s 36(3)).
 
@@ -173,14 +167,11 @@ A novation agreement is a tripartite contract involving:
 2. the partners at the time the contract with the creditor was made, and
 3. the newly constituted partnership.
 
-```ad-example
-Say one partner leaves and another joins. Under a contract of novation, it can be agreed that a creditor will release the initial partners and the new partners will take over this liability. 
-```
+> [!example]
+> Say one partner leaves and another joins. Under a contract of novation, it can be agreed that a creditor will release the initial partners and the new partners will take over this liability. 
 
-```ad-question
-title: What if a partner retires and no new partner retires?
-To make the novation contractually binding, either there must be consideration for the creditor's promise to release the retiring partner from liability, or the contract must be executed as a deed. 
-```
+> [!question] What if a partner retires and no new partner retires?
+> To make the novation contractually binding, either there must be consideration for the creditor's promise to release the retiring partner from liability, or the contract must be executed as a deed. 
 
 ## Inability to Pay
 
@@ -196,12 +187,10 @@ To make the novation contractually binding, either there must be consideration f
 
 The law on insolvency of a partnership and of its partners individually is governed by the Insolvent Partnerships Order 1994 (SI 1994/2421) (as amended by SI 2002/1308) and the Insolvency Act 1986.
 
-```ad-tip
-title: Principle
-
-Although a partnership is not a person in its own right, nevertheless an insolvent partnership may be wound up as an unregistered company or may avail itself of the
-rescue procedures available to companies, such as a ‘voluntary arrangement’ with creditors or an ‘administration order’ of the court.
-```
+> [!tip] Principle
+> 
+> Although a partnership is not a person in its own right, nevertheless an insolvent partnership may be wound up as an unregistered company or may avail itself of the
+> rescue procedures available to companies, such as a ‘voluntary arrangement’ with creditors or an ‘administration order’ of the court.
 
 With a partnership joint venture involving companies, the agreement will need to provide a
 

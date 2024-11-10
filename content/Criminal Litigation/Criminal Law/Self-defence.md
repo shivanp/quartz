@@ -52,12 +52,10 @@ What is clear is that self defence can only be used to protect yourself or anoth
 
 >The appellant believed the force he used was necessary to prevent the harm to himself from occurring. But we feel constrained to agree with the judge below that physical force may not be used to prevent psychological harm. Like must be met with like.’
 
-```ad-statute
-title: s 3 Criminal Law Act 1967
-(1) A person may use such force as is reasonable in the circumstances in the prevention of crime, or in effecting or assisting in the lawful arrest of offenders or suspected offenders or of persons unlawfully at large.
-
-(2) Subsection (1) above shall replace the rules of the common law on the question when force used for a purpose mentioned in the subsection is justified by that purpose.
-```
+> [!statute] s 3 Criminal Law Act 1967
+> (1) A person may use such force as is reasonable in the circumstances in the prevention of crime, or in effecting or assisting in the lawful arrest of offenders or suspected offenders or of persons unlawfully at large.
+> 
+> (2) Subsection (1) above shall replace the rules of the common law on the question when force used for a purpose mentioned in the subsection is justified by that purpose.
 
 In many instances, the common law plea of self-defence overlaps with the plea under the Criminal Law Act 1967, s 3. The same legal rules apply to both defences, so the courts and commentators usually refer to self-defence without specifying whether they are referring to the common law defence or that contained in the Criminal Law Act 1967.
 
@@ -71,17 +69,15 @@ Note that all references to a 'defence' or 'defences' below can be taken to refe
 
 ## Entitlement
 
-```ad-test
-title: Entitlement to Defences
-
-A defendant is entitled to rely on any of these defences if:
-- the defendant honestly believed that the use of force was necessary; and
-- the level of force the defendant used in response was objectively reasonable in the circumstances as the defendant believed them to be.
-
-These two requirements have been referred to as the trigger and the response.
-
-Note that it is for the prosecution to disprove that the defendant acted in self-defence. It is an all or nothing general defence, so D will either be acquitted by self-defence or the defence will fail.
-```
+> [!test] Entitlement to Defences
+> 
+> A defendant is entitled to rely on any of these defences if:
+> - the defendant honestly believed that the use of force was necessary; and
+> - the level of force the defendant used in response was objectively reasonable in the circumstances as the defendant believed them to be.
+> 
+> These two requirements have been referred to as the trigger and the response.
+> 
+> Note that it is for the prosecution to disprove that the defendant acted in self-defence. It is an all or nothing general defence, so D will either be acquitted by self-defence or the defence will fail.
 
 In [[R v Clegg [1995] 1 AC 482]] it was held that self-defence is a complete defence against all crimes. However, if it fails in any way, the defence will fail in its entirety, e.g., if a defendant uses slightly excessive force, there is no partial defence of self-defence. However, where the charge that the defendant is facing is murder, and a defence of self-defence fails, it is possible that a jury will convict the defendant of the lesser offence of voluntary manslaughter on the basis of a loss of control: see [[R v Dawes, Hatter and Bower [2013] EWCA Crim 322]].
 
@@ -136,106 +132,104 @@ In [[R v Keane and McGrath [2010] EWCA Crim 2514]] the Court of Appeal said:
 
 ## Non 'householder' Cases
 
-```ad-statute
-title: s 76 Criminal Justice and Immigration Act 2008
-(1) This section applies where in proceedings for an offence—
-
-- (a) an issue arises as to whether a person charged with the offence (“D”) is entitled to rely on a defence within subsection (2), and
-
-- (b) the question arises whether the degree of force used by D against a person (“V”) was reasonable in the circumstances.
-
-(2) The defences are—
-
-- (a) the common law defence of self-defence; [F1and]
-
-- (aa) the common law defence of defence of property; and
-
-- (b) the defences provided by section 3(1) of the Criminal Law Act 1967 (c. 58) or section 3(1) of the Criminal Law Act (Northern Ireland) 1967 (c. 18 (N.I.)) (use of force in prevention of crime or making arrest).
-
-(3) The question whether the degree of force used by D was reasonable in the circumstances is to be decided by reference to the circumstances as D believed them to be, and subsections (4) to (8) also apply in connection with deciding that question.
-
-(4) If D claims to have held a particular belief as regards the existence of any circumstances—
-
-- (a) the reasonableness or otherwise of that belief is relevant to the question whether D genuinely held it; but
-
-- (b) if it is determined that D did genuinely hold it, D is entitled to rely on it for the purposes of subsection (3), whether or not—
-
-	- (i) it was mistaken, or
-	
-	- (ii) (if it was mistaken) the mistake was a reasonable one to have made.
-
-(5) But subsection (4)(b) does not enable D to rely on any mistaken belief attributable to intoxication that was voluntarily induced.
-
-(5A) In a householder case, the degree of force used by D is not to be regarded as having been reasonable in the circumstances as D believed them to be if it was grossly disproportionate in those circumstances.]
-
-(6) In a case other than a householder case,] the degree of force used by D is not to be regarded as having been reasonable in the circumstances as D believed them to be if it was disproportionate in those circumstances.
-
-(6A) In deciding the question mentioned in subsection (3), a possibility that D could have retreated is to be considered (so far as relevant) as a factor to be taken into account, rather than as giving rise to a duty to retreat.
-
-(7) In deciding the question mentioned in subsection (3) the following considerations are to be taken into account (so far as relevant in the circumstances of the case)—
-
-- (a) that a person acting for a legitimate purpose may not be able to weigh to a nicety the exact measure of any necessary action; and
-
-- (b) that evidence of a person's having only done what the person honestly and instinctively thought was necessary for a legitimate purpose constitutes strong evidence that only reasonable action was taken by that person for that purpose.
-
-(8) Subsections (6A) and (7) are not to be read as preventing other matters from being taken into account where they are relevant to deciding the question mentioned in subsection (3).
-
-(8A) For the purposes of this section “a householder case” is a case where—
-
-- (a) the defence concerned is the common law defence of self-defence,
-
-- (b) the force concerned is force used by D while in or partly in a building, or part of a building, that is a dwelling or is forces accommodation (or is both),
-
-- (c) D is not a trespasser at the time the force is used, and
-
-- (d) at that time D believed V to be in, or entering, the building or part as a trespasser.
-
-(8B) Where—
-
-- (a) a part of a building is a dwelling where D dwells,
-
-- (b) another part of the building is a place of work for D or another person who dwells in the first part, and
-
-- (c) that other part is internally accessible from the first part,
-
-- that other part, and any internal means of access between the two parts, are each treated for the purposes of subsection (8A) as a part of a building that is a dwelling.
-
-(8C) Where—
-
-- (a) a part of a building is forces accommodation that is living or sleeping accommodation for D,
-
-- (b) another part of the building is a place of work for D or another person for whom the first part is living or sleeping accommodation, and
-
-- (c) that other part is internally accessible from the first part,
-
-- that other part, and any internal means of access between the two parts, are each treated for the purposes of subsection (8A) as a part of a building that is forces accommodation.
-
-(8D) Subsections (4) and (5) apply for the purposes of subsection (8A)(d) as they apply for the purposes of subsection (3).
-
-(8E) The fact that a person derives title from a trespasser, or has the permission of a trespasser, does not prevent the person from being a trespasser for the purposes of subsection (8A).
-
-(8F) In subsections (8A) to (8C)—
-
-“building” includes a vehicle or vessel, and
-
-“forces accommodation” means service living accommodation for the purposes of Part 3 of the Armed Forces Act 2006 by virtue of section 96(1)(a) or (b) of that Act.]
-
-(9) This section, except so far as making different provision for householder cases, is intended to clarify the operation of the existing defences mentioned in subsection (2).
-
-(10) In this section—
-
-- (a) “legitimate purpose” means—
-
-	- (i) the purpose of self-defence under the common law, or
-	
-	- (ia) the purpose of defence of property under the common law, or
-	
-	- (ii) the prevention of crime or effecting or assisting in the lawful arrest of persons mentioned in the provisions referred to in subsection (2)(b);
-
-- (b) references to self-defence include acting in defence of another person; and
-
-- (c) references to the degree of force used are to the type and amount of force used.
-```
+> [!statute] s 76 Criminal Justice and Immigration Act 2008
+> (1) This section applies where in proceedings for an offence—
+> 
+> - (a) an issue arises as to whether a person charged with the offence (“D”) is entitled to rely on a defence within subsection (2), and
+> 
+> - (b) the question arises whether the degree of force used by D against a person (“V”) was reasonable in the circumstances.
+> 
+> (2) The defences are—
+> 
+> - (a) the common law defence of self-defence; [F1and]
+> 
+> - (aa) the common law defence of defence of property; and
+> 
+> - (b) the defences provided by section 3(1) of the Criminal Law Act 1967 (c. 58) or section 3(1) of the Criminal Law Act (Northern Ireland) 1967 (c. 18 (N.I.)) (use of force in prevention of crime or making arrest).
+> 
+> (3) The question whether the degree of force used by D was reasonable in the circumstances is to be decided by reference to the circumstances as D believed them to be, and subsections (4) to (8) also apply in connection with deciding that question.
+> 
+> (4) If D claims to have held a particular belief as regards the existence of any circumstances—
+> 
+> - (a) the reasonableness or otherwise of that belief is relevant to the question whether D genuinely held it; but
+> 
+> - (b) if it is determined that D did genuinely hold it, D is entitled to rely on it for the purposes of subsection (3), whether or not—
+> 
+> 	- (i) it was mistaken, or
+> 	
+> 	- (ii) (if it was mistaken) the mistake was a reasonable one to have made.
+> 
+> (5) But subsection (4)(b) does not enable D to rely on any mistaken belief attributable to intoxication that was voluntarily induced.
+> 
+> (5A) In a householder case, the degree of force used by D is not to be regarded as having been reasonable in the circumstances as D believed them to be if it was grossly disproportionate in those circumstances.]
+> 
+> (6) In a case other than a householder case,] the degree of force used by D is not to be regarded as having been reasonable in the circumstances as D believed them to be if it was disproportionate in those circumstances.
+> 
+> (6A) In deciding the question mentioned in subsection (3), a possibility that D could have retreated is to be considered (so far as relevant) as a factor to be taken into account, rather than as giving rise to a duty to retreat.
+> 
+> (7) In deciding the question mentioned in subsection (3) the following considerations are to be taken into account (so far as relevant in the circumstances of the case)—
+> 
+> - (a) that a person acting for a legitimate purpose may not be able to weigh to a nicety the exact measure of any necessary action; and
+> 
+> - (b) that evidence of a person's having only done what the person honestly and instinctively thought was necessary for a legitimate purpose constitutes strong evidence that only reasonable action was taken by that person for that purpose.
+> 
+> (8) Subsections (6A) and (7) are not to be read as preventing other matters from being taken into account where they are relevant to deciding the question mentioned in subsection (3).
+> 
+> (8A) For the purposes of this section “a householder case” is a case where—
+> 
+> - (a) the defence concerned is the common law defence of self-defence,
+> 
+> - (b) the force concerned is force used by D while in or partly in a building, or part of a building, that is a dwelling or is forces accommodation (or is both),
+> 
+> - (c) D is not a trespasser at the time the force is used, and
+> 
+> - (d) at that time D believed V to be in, or entering, the building or part as a trespasser.
+> 
+> (8B) Where—
+> 
+> - (a) a part of a building is a dwelling where D dwells,
+> 
+> - (b) another part of the building is a place of work for D or another person who dwells in the first part, and
+> 
+> - (c) that other part is internally accessible from the first part,
+> 
+> - that other part, and any internal means of access between the two parts, are each treated for the purposes of subsection (8A) as a part of a building that is a dwelling.
+> 
+> (8C) Where—
+> 
+> - (a) a part of a building is forces accommodation that is living or sleeping accommodation for D,
+> 
+> - (b) another part of the building is a place of work for D or another person for whom the first part is living or sleeping accommodation, and
+> 
+> - (c) that other part is internally accessible from the first part,
+> 
+> - that other part, and any internal means of access between the two parts, are each treated for the purposes of subsection (8A) as a part of a building that is forces accommodation.
+> 
+> (8D) Subsections (4) and (5) apply for the purposes of subsection (8A)(d) as they apply for the purposes of subsection (3).
+> 
+> (8E) The fact that a person derives title from a trespasser, or has the permission of a trespasser, does not prevent the person from being a trespasser for the purposes of subsection (8A).
+> 
+> (8F) In subsections (8A) to (8C)—
+> 
+> “building” includes a vehicle or vessel, and
+> 
+> “forces accommodation” means service living accommodation for the purposes of Part 3 of the Armed Forces Act 2006 by virtue of section 96(1)(a) or (b) of that Act.]
+> 
+> (9) This section, except so far as making different provision for householder cases, is intended to clarify the operation of the existing defences mentioned in subsection (2).
+> 
+> (10) In this section—
+> 
+> - (a) “legitimate purpose” means—
+> 
+> 	- (i) the purpose of self-defence under the common law, or
+> 	
+> 	- (ia) the purpose of defence of property under the common law, or
+> 	
+> 	- (ii) the prevention of crime or effecting or assisting in the lawful arrest of persons mentioned in the provisions referred to in subsection (2)(b);
+> 
+> - (b) references to self-defence include acting in defence of another person; and
+> 
+> - (c) references to the degree of force used are to the type and amount of force used.
 
 This is an objective test.
 
@@ -266,21 +260,20 @@ The two points made by s 76(7) replicate the common law:
 - ‘in the circumstances one did not use jewellers’ scales to measure reasonable force’ comes from Geoffrey Lane J in [[Reed v Wastie [1972] Crim LR 221]].
 - S 76(7)(b)- ‘that evidence of a person's having only done what the person honestly and instinctively thought was necessary for a legitimate purpose constitutes strong evidence that only reasonable action was taken by that person for that purpose’ is also taken from R v Palmer.
 
-```ad-summary
-- Self-defence can be used to protect yourself, another or property from attack or imminent anticipated physical attack. It can also be used to prevent a crime or assist in the arrest of an offender.
-- It is a defence that is found in both common law and the Criminal Justice and Immigration Act 2008, s.76 (as amended). The defendant is entitled to rely on the defence if the trigger and response are satisfied:
-- The defendant honestly believed that the use of force was necessary (the trigger)
-- Subjective test, whether the belief is reasonable or not. However, if a mistaken belief is due to the voluntary intoxication of the defendant, then the defendant will not be able to rely on their mistake.
-- There is no duty to retreat but the opportunity to do so may be a relevant factor.
-- It can be used by an antagonist and it can be used against an innocent third party.
-- The level of force the defendant used in response was objectively reasonable in the circumstances and the danger as the defendant subjectively believed them to be (the response).
-- Force will not be reasonable if it was disproportionate. In deciding this the jury must take into account that:
-- A person acting for a legitimate purpose may not be able to weigh to a nicety the exact measure of any necessary action; and
-- That evidence of a person's having only done what the person honestly and instinctively thought was necessary for a legitimate purpose constitutes strong evidence that only reasonable action was taken by that person for that purpose.
-- The defendant can be mistaken and the mistake does not ned to be a reasonable one.
-
-Note that it is for the prosecution to disprove that the defendant acted in self-defence. It is an all or nothing general defence, so D will either be acquitted by self-defence or the defence will fail.
-```
+> [!summary]
+> - Self-defence can be used to protect yourself, another or property from attack or imminent anticipated physical attack. It can also be used to prevent a crime or assist in the arrest of an offender.
+> - It is a defence that is found in both common law and the Criminal Justice and Immigration Act 2008, s.76 (as amended). The defendant is entitled to rely on the defence if the trigger and response are satisfied:
+> - The defendant honestly believed that the use of force was necessary (the trigger)
+> - Subjective test, whether the belief is reasonable or not. However, if a mistaken belief is due to the voluntary intoxication of the defendant, then the defendant will not be able to rely on their mistake.
+> - There is no duty to retreat but the opportunity to do so may be a relevant factor.
+> - It can be used by an antagonist and it can be used against an innocent third party.
+> - The level of force the defendant used in response was objectively reasonable in the circumstances and the danger as the defendant subjectively believed them to be (the response).
+> - Force will not be reasonable if it was disproportionate. In deciding this the jury must take into account that:
+> - A person acting for a legitimate purpose may not be able to weigh to a nicety the exact measure of any necessary action; and
+> - That evidence of a person's having only done what the person honestly and instinctively thought was necessary for a legitimate purpose constitutes strong evidence that only reasonable action was taken by that person for that purpose.
+> - The defendant can be mistaken and the mistake does not ned to be a reasonable one.
+> 
+> Note that it is for the prosecution to disprove that the defendant acted in self-defence. It is an all or nothing general defence, so D will either be acquitted by self-defence or the defence will fail.
 
 ## Householder Cases
 
@@ -358,21 +351,20 @@ Non-householder cases are those which do not meet these criteria.
 
 See CJIA 2008, s 76(8A)–(8F)
 
-```ad-summary
-This element considered one of the general defences to a crime, self-defence, in particular ‘householder’ cases.
-
-A householder case is one where D:
-- Acts to protect themselves or another.
-- Uses force while in or partly in a building, or part of a building, that is a dwelling (including vehicles, vessels and buildings that are dwellings and places of work if connected by an internal access route);
-- Is not a trespasser at the time the force is used; and
-- Believed the victim to be in, or entering, the building or part as a trespasser.
-
-The ‘trigger’ is unchanged but the ‘response’ is more lenient towards householders.
-
-The jury must be asked two questions:
-- Was the force was grossly disproportionate in the circumstances as D believed them to be? If it was, there can be no defence.
-- If not, was the level of force reasonable? The jury should take into account that the level of force should not be weighed to a nicety and that if the defendant believed in a moment of unexpected anguish that they were using reasonable force, that was very good evidence that the force was reasonable. R v Ray (Steven) listed circumstances which the jury should consider in determining whether the degree of force used by a householder was reasonable e.g. the shock of coming upon an intruder, the time of day, the vulnerability of the occupants, particularly children etc.
-```
+> [!summary]
+> This element considered one of the general defences to a crime, self-defence, in particular ‘householder’ cases.
+> 
+> A householder case is one where D:
+> - Acts to protect themselves or another.
+> - Uses force while in or partly in a building, or part of a building, that is a dwelling (including vehicles, vessels and buildings that are dwellings and places of work if connected by an internal access route);
+> - Is not a trespasser at the time the force is used; and
+> - Believed the victim to be in, or entering, the building or part as a trespasser.
+> 
+> The ‘trigger’ is unchanged but the ‘response’ is more lenient towards householders.
+> 
+> The jury must be asked two questions:
+> - Was the force was grossly disproportionate in the circumstances as D believed them to be? If it was, there can be no defence.
+> - If not, was the level of force reasonable? The jury should take into account that the level of force should not be weighed to a nicety and that if the defendant believed in a moment of unexpected anguish that they were using reasonable force, that was very good evidence that the force was reasonable. R v Ray (Steven) listed circumstances which the jury should consider in determining whether the degree of force used by a householder was reasonable e.g. the shock of coming upon an intruder, the time of day, the vulnerability of the occupants, particularly children etc.
 
 ## Wording
 

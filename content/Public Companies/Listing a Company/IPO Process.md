@@ -123,9 +123,8 @@ The sponsor has responsibility of ensuring documents are submitted to the FCA/ S
 
 One copy of all finalised documents must be sent electronically or uploaded onto an online facility, the National Storage Mechanism (NSM) – run by the FCA!
 
-```ad-warning
-Submission of documents on the NSM does not replace the obligation to make certain information public as set out in the Prospectus Regulation. 
-```
+> [!warning]
+> Submission of documents on the NSM does not replace the obligation to make certain information public as set out in the Prospectus Regulation. 
 
 ### Prospectus
 
@@ -223,28 +222,25 @@ The company must think about appointing:
 
 Analysts prepare research reports to be circulated to prospective investors in the company. Known as “connected analysts” - work for the sponsor and underwriting banks.
 
-```ad-conduct
-Potential conflict of interest with connected analysts (who want the IPO to be a succes). FCA’s Conduct of Business Rules ("COBS Rules") grants unconnected analysts equal access to the management and sponsor. 
-```
+> [!conduct]
+> Potential conflict of interest with connected analysts (who want the IPO to be a succes). FCA’s Conduct of Business Rules ("COBS Rules") grants unconnected analysts equal access to the management and sponsor. 
 
 Before connected/ unconnected analysts' reports can be published, COBS Rules require publication of an approved **disclosure document** (a day before). This can be a full prospectus/ just the registration document. Ensures investors also receive FCA approved company information. See 11A.1.4F COBS Rules:
 
-```ad-statute
-title: COBS 11A.1.4F - Timing restrictions for disseminating research on equity IPOs
-(1) A firm must not disseminate investment research or non-independent research on the relevant issuer client or relevant securities as described in COBS 11A.1.4AR(1) until after the relevant time in paragraph (2).
-
-(2) The relevant time is:
-- (a) where a firm acts in accordance with COBS 11A.1.4BR(2)(a), one day after the publication of the relevant document in paragraph (3); or
-- (b) otherwise, seven days after the publication of the relevant document in paragraph (3).
-
-(3) The relevant document is:
-- (a) an approved prospectus regarding the relevant securities; or
-- (b) an approved registration document regarding the issuer.
-
-(4) For this rule, publication of the relevant document means making the relevant document available to the public in accordance with article 21 of the Prospectus Regulation.
-
-(5) This rule does not apply to a firm in circumstances where, as a result of the firm’s analysts being prevented from being in communication with the issuer team, it has not needed to engage with any unconnected analysts for the purposes of COBS 11A.1.4BR.
-```
+> [!statute] COBS 11A.1.4F - Timing restrictions for disseminating research on equity IPOs
+> (1) A firm must not disseminate investment research or non-independent research on the relevant issuer client or relevant securities as described in COBS 11A.1.4AR(1) until after the relevant time in paragraph (2).
+> 
+> (2) The relevant time is:
+> - (a) where a firm acts in accordance with COBS 11A.1.4BR(2)(a), one day after the publication of the relevant document in paragraph (3); or
+> - (b) otherwise, seven days after the publication of the relevant document in paragraph (3).
+> 
+> (3) The relevant document is:
+> - (a) an approved prospectus regarding the relevant securities; or
+> - (b) an approved registration document regarding the issuer.
+> 
+> (4) For this rule, publication of the relevant document means making the relevant document available to the public in accordance with article 21 of the Prospectus Regulation.
+> 
+> (5) This rule does not apply to a firm in circumstances where, as a result of the firm’s analysts being prevented from being in communication with the issuer team, it has not needed to engage with any unconnected analysts for the purposes of COBS 11A.1.4BR.
 
 - If connected and unconnected brokers are given access at the same time, one day blackout.
 - If connected analysts given access first, 7 day blackout (from the publication of the registration document).
@@ -270,18 +266,15 @@ Even though the registration document has already been approved, the company wil
 
 By the day of prospectus approval, the offer price will have been set. The prospectus will have been submitted to the FCA $\geq 20$ days before “impact day” (the date of approval of the prospectus).
 
-```ad-statute
-title: Article 20(3) Prospectus Regulation
-The FCA must notify the company whether it has decided to approve the prospectus before the end  of 20 working days beginning with the date of submission of the draft prospectus, although if further drafts have to be submitted, the deadline is 10 working days from the last draft.
-```
+> [!statute] Article 20(3) Prospectus Regulation
+> The FCA must notify the company whether it has decided to approve the prospectus before the end  of 20 working days beginning with the date of submission of the draft prospectus, although if further drafts have to be submitted, the deadline is 10 working days from the last draft.
 
 The IPO is “live” with effect from the day of approval of the prospectus. Floatation is conditional on the FCA admitting the shares to listing and the Stock Exchange admitting the shares to trading. This will not be done until admission day.
 
 #### Publishing Prospectus
 
-```ad-warning
-The company must publish the prospectus at least six working days before the end of the offer period (Art 21(1) of the Prospectus Regulation).
-```
+> [!warning]
+> The company must publish the prospectus at least six working days before the end of the offer period (Art 21(1) of the Prospectus Regulation).
 
 Different ways to publish the prospectus (Art 21(2) Prospectus Regulation) – must be made available in electronic form on:
 
@@ -334,8 +327,7 @@ When the Stock Exchange is satisfied that it wishes to admit the shares to tradi
 
 Sometimes the offer is structured so that initially successful applicants do not receive a share certificate, but a renounceable letter of acceptance. This is a bearer document, and the recipient can transfer title in the shares to someone else simply by handing them the letter.
 
-```ad-important
-Shares can be traded by way of renounceable letter for six weeks from admission day.
-```
+> [!important]
+> Shares can be traded by way of renounceable letter for six weeks from admission day.
 
 The company’s registrars will enter into the company’s register of members whoever holds the letter at the end of the 6 weeks. Useful to allow shares to be transferred easily at a time of substantial trading. Saves work for registrars.

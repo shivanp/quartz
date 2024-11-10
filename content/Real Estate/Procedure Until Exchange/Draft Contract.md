@@ -31,12 +31,10 @@ Check the seller is entitled to sell the whole of the estate in land. Some circu
 	- Standard conditions of sale
 	- Special conditions.
 
-```ad-statute
-title: s 2 LP(MP)A
-(1) A contract for the sale or other disposition of an interest in land can only be made **in writing** and only by **incorporating all the terms** which the parties have expressly agreed in one document or, where contracts are exchanged, in each.
-
-(2) The terms may be incorporated in a document either by being **set out in it or by reference to some other document**.
-```
+> [!statute] s 2 LP(MP)A
+> (1) A contract for the sale or other disposition of an interest in land can only be made **in writing** and only by **incorporating all the terms** which the parties have expressly agreed in one document or, where contracts are exchanged, in each.
+> 
+> (2) The terms may be incorporated in a document either by being **set out in it or by reference to some other document**.
 
 ## Particulars of Sale
 
@@ -87,9 +85,8 @@ Purposes:
 1. May be necessary to deal with particular circumstances of transaction.
 2. May be desirable to vary the standard condition position.
 
-```ad-important
-If a special condition contradicts the standard condition position, the special condition prevails (Standard Condition 1.1.4/ SCPC 1.1.4(a)). But often the standard condition is expressly excluded for the avoidance of doubt. 
-```
+> [!important]
+> If a special condition contradicts the standard condition position, the special condition prevails (Standard Condition 1.1.4/ SCPC 1.1.4(a)). But often the standard condition is expressly excluded for the avoidance of doubt. 
 
 The seller's solicitor should consider the following areas when deciding which special conditions are needed for drafting the contract.
 
@@ -99,10 +96,8 @@ Standard Condition 3.1.1 and SCPC 4.1.1 state that the seller will sell the prop
 
 Some practitioners just list all incumbrances as a special condition, regardless of whether covered under one of the standard conditions.
 
-```ad-note
-title: Defects in title
-Standard Condition 3.1.1 and SCPC 4.1.1 imply that there is no other flaw/ defect in the title. Such flaws must therefore be specifically disclosed by a special conditions, or the buyer will have remedies for non-disclosure. Also state that the buyer will not be entitled to raise any objection to the defect. 
-```
+> [!note] Defects in title
+> Standard Condition 3.1.1 and SCPC 4.1.1 imply that there is no other flaw/ defect in the title. Such flaws must therefore be specifically disclosed by a special conditions, or the buyer will have remedies for non-disclosure. Also state that the buyer will not be entitled to raise any objection to the defect. 
 
 - If a Green Deal plan exists, the contract must acknowledge that the buyer will pay this.
 - Physical defects do not need to be disclosed (SC 3.2.1 and SCPC 4.2.1).

@@ -23,9 +23,8 @@ Categories:
 3. General undertakings
 	- e.g., by prohibiting disposals, maintaining insurance and sticking to the key business.
 
-```ad-warning
-Breach of an undertaking is made an event of default, allowing the bnak to cancel its commitment and demand repayment. 
-```
+> [!warning]
+> Breach of an undertaking is made an event of default, allowing the bnak to cancel its commitment and demand repayment. 
 
 ## Undertaking Vs Representation
 
@@ -33,9 +32,8 @@ Undertakings can often be recast as repeat representations (just stating the fac
 
 In either case, the likely result of the breach is an event of default. But preferable to get a borrower to represent the position at signing and also undertake to maintain the position throughout the term of the loan.
 
-```ad-tip
-This results in a "tighter" constraint: the borrower is in default immediately as the undertaking is broken, rather than a repeating representation being tested at the time of repetition (typically at the start of every interest period). 
-```
+> [!tip]
+> This results in a "tighter" constraint: the borrower is in default immediately as the undertaking is broken, rather than a repeating representation being tested at the time of repetition (typically at the start of every interest period). 
 
 Also gives more flexibility: can make the representation more strict than the subsequent undertaking.
 

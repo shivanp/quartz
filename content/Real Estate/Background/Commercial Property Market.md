@@ -39,9 +39,8 @@ Lenders are traditionally risk averse (although questionable whether this still 
 
 ## Commercial Property
 
-```ad-defn
-Property which is not meant for residential use or use in primary industries. 
-```
+> [!defn]
+> Property which is not meant for residential use or use in primary industries. 
 
 Includes retail, offices, industrial, etc.
 

@@ -71,10 +71,8 @@ But then in [[Hill v Spread Trustee Company Limited [2006] EWCA Civ 542]] it was
 
 So the law is now uncertain given the differences in views between these cases.
 
-```ad-note
-title: TLDR
-Granting of security is unlikely to be  a transactino at an undervalue.
-```
+> [!note] TLDR
+> Granting of security is unlikely to be  a transactino at an undervalue.
 
 Similar uncertainty exists around whether a dividend, lawfully paid, could amount to a transaction at any undervalue. [[BTI 2014 LLC v Sequana SA & others [2019] EWCA Civ 112]] suggests that a dividend can be attacked as a transaction at an undervalue.
 
@@ -171,17 +169,14 @@ The preference is voidable if:
 - It is proved that the company was insolvent (on either a cash flow or balance sheet basis) at the time of the transaction or became so as a result of it (s 240(2)).
 - It is proved that the company was ‘influenced … by a desire’ to prefer the creditor (s 239(5)). This is a **subjective** test (as opposed to an intention to prefer, which is objective). The company must have positively wished to put the party in a better position ([[Re MC Bacon Ltd [1990] BCLC 324]]).
 
-```ad-warning
-Here there is no statutory presumption of knowledge of insolvency where the preference is given to a person who is connected with the company (in contrast to TUV).
-```
+> [!warning]
+> Here there is no statutory presumption of knowledge of insolvency where the preference is given to a person who is connected with the company (in contrast to TUV).
 
-```ad-example
-title: Preference examples
-- Making an unsecured creditor secured;
-- Paying one unsecured creditor before other unsecured creditors
-- Allowing a supplier of goods to change its T&Cs to include a retention of title clause where none existed previously. 
-- Allowing a creditor to enter judgment against the company when the company has a good defence of the claim. 
-```
+> [!example] Preference examples
+> - Making an unsecured creditor secured;
+> - Paying one unsecured creditor before other unsecured creditors
+> - Allowing a supplier of goods to change its T&Cs to include a retention of title clause where none existed previously. 
+> - Allowing a creditor to enter judgment against the company when the company has a good defence of the claim. 
 
 ### Connected Persons
 
@@ -222,12 +217,11 @@ Even if the above requirements are met, a floating charge will be valid to the e
 
 s 245(2) effect: if a floating charge is granted to secure the repayment of a new loan made on or after the creation of the charge, then it will be valid.
 
-```ad-example
-
-An example of when a floating charge would be void is where an existing unsecured creditor is granted a floating charge by a company which is insolvent and the charge purports to secure the repayment of existing monies owed to that creditor.
-
-If s 245 did not apply, such an unsecured creditor would thereby improve its position in the order of priority if the company later went into an insolvency procedure, which would be unfair on the company’s other unsecured creditors. However, if (and to the extent that) an existing unsecured creditor provides further credit to the company (or to the extent that any other new credit is given by a new creditor) then that creditor is entitled to have the protection of a valid floating charge.
-```
+> [!example]
+> 
+> An example of when a floating charge would be void is where an existing unsecured creditor is granted a floating charge by a company which is insolvent and the charge purports to secure the repayment of existing monies owed to that creditor.
+> 
+> If s 245 did not apply, such an unsecured creditor would thereby improve its position in the order of priority if the company later went into an insolvency procedure, which would be unfair on the company’s other unsecured creditors. However, if (and to the extent that) an existing unsecured creditor provides further credit to the company (or to the extent that any other new credit is given by a new creditor) then that creditor is entitled to have the protection of a valid floating charge.
 
 ### Avoidance of Floating Charges
 

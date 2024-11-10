@@ -15,9 +15,8 @@ Distinguish CGT with income tax. Capital Gains Tax is a one-off tax on the diffe
 
 Introduced in 1965 to stop people avoiding income tax. Statute: Taxation of Chargeable Gains Act 1992.
 
-```ad-defn
-Capital gains tax is charged on the chargeable gains made by a chargeable person on the disposal of chargeable assets in a tax year (6th April - 5th April)
-```
+> [!defn]
+> Capital gains tax is charged on the chargeable gains made by a chargeable person on the disposal of chargeable assets in a tax year (6th April - 5th April)
 
 ## Calculation
 
@@ -104,9 +103,8 @@ The gain is generally the consideration for the disposal less expenditures:
 - Incidental costs of disposal
 	- e.g., legal fees, estate agent fees.
 
-```ad-note
-Expenditure deductible for income tax purposes not deductible for capital gains purposes.
-```
+> [!note]
+> Expenditure deductible for income tax purposes not deductible for capital gains purposes.
 
 ### Indexation Allowance
 

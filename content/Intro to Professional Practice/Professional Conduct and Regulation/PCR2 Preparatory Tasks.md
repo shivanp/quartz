@@ -60,9 +60,8 @@ I undertake to ask the client for this. May feel under pressure, but just don't 
 
 Note that this is a completely standard undertaking for the seller's solicitor to give. But not with this wording.
 
-```ad-tip
-Why not just a contractual term of the contract with the seller? This is not as comforting as additionally having the binding word of the seller's solicitor. 
-```
+> [!tip]
+> Why not just a contractual term of the contract with the seller? This is not as comforting as additionally having the binding word of the seller's solicitor. 
 
 Purchaser pays the sale fees to the buyer's solicitor, and vice versa. This is standard practice.
 
@@ -89,9 +88,8 @@ You do not need to consider the s.327 exemption (for professional firms) in this
 
 Guy does not seem to be in business, as he is not acting for the client during this conversation. But there is some risk that the client (or the FCA) may perceive that he is in business. So during the conversation he should make clear he has no expertise and cannot give a professional opinion. Alternatively, just say he's unable to comment.
 
-```ad-note
-No matter how informal the situation, remember that the client will rely on your opinion. So make it clear when you are not competent. So if not competent to advise them on something, pass them on to someone else. 
-```
+> [!note]
+> No matter how informal the situation, remember that the client will rely on your opinion. So make it clear when you are not competent. So if not competent to advise them on something, pass them on to someone else. 
 
 **(b)** Kirti is a real estate lawyer. Her client is a company which is buying a commercial building, funded from its own resources. Just before exchange of contracts, Kirti advises the client’s estate manager that the searches reveal no reasons to pull out of the purchase. The client pays the deposit for the purchase to the firm’s client account, the lawyer arranges for the exchange of contracts, and then proceeds to pay the deposit to the vendor’s solicitors.
 
@@ -111,9 +109,8 @@ Jo is working in business and is arranging the disposal of specified assets. If 
 
 Marlon is acting in business and arranging for the acquisition of specified instruments. As the stockbroker is instructed to act for the client rather than Marlon, he will not be dealing as agent. The exclusion for sale of a body corporate (takeover exclusion) covered the work on the sale of shares, and the authorised third person exclusion covers the reinvestment in shares. So Marlon is not carrying out a regulated activity.
 
-```ad-note
-In the assessment it will be clear which specified activity is going on.
-```
+> [!note]
+> In the assessment it will be clear which specified activity is going on.
 
 **(f)** Tegwyn is a licensed conveyancer working in an SRA regulated firm. His clients have asked him to arrange the purchase of their new home with the assistance of a mortgage that they have chosen. The mortgage company needs Tegwyn to fill in the property details on the mortgage deed, obtain the clients’ signatures, and return it to the mortgage company. The clients’ mortgage broker recommended the mortgage, and they are happy with its terms.
 

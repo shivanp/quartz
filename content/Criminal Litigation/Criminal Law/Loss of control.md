@@ -29,10 +29,9 @@ There are three key requirements of the loss of control defence ([Coroners and J
 
 Loss of control is a **partial** defence to murder. The burden of proof rests with the prosecution once the issue is raised, [CJA 2009, s54(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/54).
 
-```ad-important
-
-The prosecution need to prove that only one of the components is absent for the defence to fail, this is clear from the statute and was confirmed in the first case on the new defence, [[R v Clinton, Parker and Evans [2012] EWCA Crim 2]].
-```
+> [!important]
+> 
+> The prosecution need to prove that only one of the components is absent for the defence to fail, this is clear from the statute and was confirmed in the first case on the new defence, [[R v Clinton, Parker and Evans [2012] EWCA Crim 2]].
 
 It will be a matter for the judge to decide whether the defence can be put before the jury, [CJA 2009, s 54(6)](https://www.legislation.gov.uk/ukpga/2009/25/section/54). The power of the judge to remove the issue of loss of control from the jury may prove to be a significant change from the old law of provocation, [[R v Jewell [2014] EWCA Crim 414]].
 
@@ -71,26 +70,24 @@ Lord Judge in Clinton, made it clear that it would be more difficult to raise th
 
 > 'In section 55(3) it is not enough that the defendant is fearful of violence. He must fear serious violence. In subsection (4)(a) the circumstances must not merely be grave, but extremely so. In subsection (4)(b) it is not enough that the defendant has been caused by the circumstances to feel a sense of grievance. It must arise from a justifiable sense not merely that he has been wronged, but that he has been seriously wronged. By contrast with the former law of provocation, these provisions, as Mr Michael Birnbaum QC, on behalf of Clinton submitted, have raised the bar.’
 
-```ad-statute
-title: s 55 CJA 2009
-
-(1) This section applies for the purposes of section 54.
-
-(2) A loss of self-control had a qualifying trigger if subsection (3), (4) or (5) applies.
-
-(3) This subsection applies if D's loss of self-control was attributable to D's fear of serious violence from V against D or another identified person.
-
-(4) This subsection applies if D's loss of self-control was attributable to a thing or things done or said (or both) which-
-- a) constituted circumstances of an extremely grave character, and
-- b) caused D to have a justifiable sense of being seriously wronged.
-
-(5) This subsection applies if D's loss of self-control was attributable to a combination of the matters mentioned in subsections (3) and (4).
-
-(6) In determining whether a loss of self-control had a qualifying trigger—
-- a) D's fear of serious violence is to be disregarded to the extent that it was caused by a thing which D incited to be done or said for the purpose of providing an excuse to use violence;
-- b) a sense of being seriously wronged by a thing done or said is not justifiable if D incited the thing to be done or said for the purpose of providing an excuse to use violence.
-- (c) the fact that a thing done or said constituted sexual infidelity is to be disregarded.
-```
+> [!statute] s 55 CJA 2009
+> 
+> (1) This section applies for the purposes of section 54.
+> 
+> (2) A loss of self-control had a qualifying trigger if subsection (3), (4) or (5) applies.
+> 
+> (3) This subsection applies if D's loss of self-control was attributable to D's fear of serious violence from V against D or another identified person.
+> 
+> (4) This subsection applies if D's loss of self-control was attributable to a thing or things done or said (or both) which-
+> - a) constituted circumstances of an extremely grave character, and
+> - b) caused D to have a justifiable sense of being seriously wronged.
+> 
+> (5) This subsection applies if D's loss of self-control was attributable to a combination of the matters mentioned in subsections (3) and (4).
+> 
+> (6) In determining whether a loss of self-control had a qualifying trigger—
+> - a) D's fear of serious violence is to be disregarded to the extent that it was caused by a thing which D incited to be done or said for the purpose of providing an excuse to use violence;
+> - b) a sense of being seriously wronged by a thing done or said is not justifiable if D incited the thing to be done or said for the purpose of providing an excuse to use violence.
+> - (c) the fact that a thing done or said constituted sexual infidelity is to be disregarded.
 
 ### Fear Trigger
 
@@ -141,21 +138,19 @@ Further direction can be taken from Dennis Baker and Lucy Zhao (2012) 76 Journal
 
 > '… Similarly, the word “justifiable” in s 55(4)(b) of the Coroners and Justice Act 2009 means that the defendant's sense of being seriously wronged must be one that accords with contemporary society's norms and values. In other words, it must be shown that a normal person in contemporary Britain would have felt seriously wronged in the same situation. This is judged according to the normative standards of a normal person communally situated in Britain.
 
-```ad-example
-An honour killer may have in fact lost control upon learning of his 20-year-old daughter's love affair with a man of a different race or religious faith. Additionally, he may have in fact felt seriously wronged by his daughter's conduct, but this will not qualify as an “objective” trigger for his loss of control. 
+> [!example]
+> An honour killer may have in fact lost control upon learning of his 20-year-old daughter's love affair with a man of a different race or religious faith. Additionally, he may have in fact felt seriously wronged by his daughter's conduct, but this will not qualify as an “objective” trigger for his loss of control. 
+> 
+> The fact he “personally” felt wronged and “subjectively” viewed the circumstances as being of an extremely grave character is irrelevant as far as the new defence is concerned. A normal person communally situated in contemporary Britain would not consider discovering his adult daughter dating someone of a different race or religious faith as constituting extremely grave circumstances. 
+> 
+> A normal relationship between a consenting adult couple does not constitute extremely grave circumstances, and a normal parent in contemporary Britain would not be unjustifiably wronged in an objective sense by having to deal with his or her adult daughter's decision to choose her own partner.
 
-The fact he “personally” felt wronged and “subjectively” viewed the circumstances as being of an extremely grave character is irrelevant as far as the new defence is concerned. A normal person communally situated in contemporary Britain would not consider discovering his adult daughter dating someone of a different race or religious faith as constituting extremely grave circumstances. 
-
-A normal relationship between a consenting adult couple does not constitute extremely grave circumstances, and a normal parent in contemporary Britain would not be unjustifiably wronged in an objective sense by having to deal with his or her adult daughter's decision to choose her own partner.
-```
-
-```ad-example
-Compare this with the situation where a parent arrives at a kindergarten to pick up her child and finds a paedophile teacher molesting her child. Clearly, the latter would constitute objective provocation when measured against contemporary standards in Britain. A normal parent communally situated in contemporary society would have a justifiable sense of being seriously wronged by such conduct.
-
-It is important to note that there is no need for the parent actually to catch the paedophile teacher in the act; it would be enough if it were “said” to him or her that there is a teacher in the building who has just been caught molesting your toddler. 
-
-For example, if the mother uses her smartphone to inform her husband, who is waiting outside the kindergarten, that she has just found a paedophile teacher molesting their child, the husband could raise the defence if what has been “said” to him (i.e., “I found the teacher molesting our child”) causes him to lose control and run into the kindergarten and kill the paedophile teacher. The husband is provoked by the paedophile's act, even though he did not witness it. Second-hand word of such an act would have the same objective provocative effect as witnessing it.
-```
+> [!example]
+> Compare this with the situation where a parent arrives at a kindergarten to pick up her child and finds a paedophile teacher molesting her child. Clearly, the latter would constitute objective provocation when measured against contemporary standards in Britain. A normal parent communally situated in contemporary society would have a justifiable sense of being seriously wronged by such conduct.
+> 
+> It is important to note that there is no need for the parent actually to catch the paedophile teacher in the act; it would be enough if it were “said” to him or her that there is a teacher in the building who has just been caught molesting your toddler. 
+> 
+> For example, if the mother uses her smartphone to inform her husband, who is waiting outside the kindergarten, that she has just found a paedophile teacher molesting their child, the husband could raise the defence if what has been “said” to him (i.e., “I found the teacher molesting our child”) causes him to lose control and run into the kindergarten and kill the paedophile teacher. The husband is provoked by the paedophile's act, even though he did not witness it. Second-hand word of such an act would have the same objective provocative effect as witnessing it.
 
 ## 3. Normal Person Test
 
@@ -229,15 +224,13 @@ The word ‘considered’ is important here, as it implies the defendant has had
 
 The defendant cannot create the qualifying trigger as an excuse to use violence.
 
-```ad-statute
-title: [CJA 2009, s 55(6)](https://www.legislation.gov.uk/ukpga/2009/25/section/55)
-
-(6) In determining whether a loss of self-control had a qualifying trigger—
-
-(a) D's fear of serious violence is to be disregarded to the extent that it was caused by a thing which D incited to be done or said for the purpose of providing an excuse to use violence;
-
-(b) a sense of being seriously wronged by a thing done or said is not justifiable if D incited the thing to be done or said for the purpose of providing an excuse to use violence.
-```
+> [!statute] [CJA 2009, s 55(6)](https://www.legislation.gov.uk/ukpga/2009/25/section/55)
+> 
+> (6) In determining whether a loss of self-control had a qualifying trigger—
+> 
+> (a) D's fear of serious violence is to be disregarded to the extent that it was caused by a thing which D incited to be done or said for the purpose of providing an excuse to use violence;
+> 
+> (b) a sense of being seriously wronged by a thing done or said is not justifiable if D incited the thing to be done or said for the purpose of providing an excuse to use violence.
 
 In *Clinton*, Lord Judge suggested that someone who is out to incite violence may well not 'fear' violence, but actively welcome it, and equally such a person would not feel a sense of being seriously wronged. This suggests that in such circumstances, the defence will always be difficult to run. However, Lord Judge goes on to point out that the CJA 2009, s 55(6)(a) and (b) only apply where the defendant's actions were done with a view to providing an excuse for violence; it is not enough that the defendant 'started it' to invoke CJA 2009, s 55(6). D must have had the intent from the outset to provoke the reaction that then led to the killing. It is therefore only in rare cases that these subsections will apply.
 
@@ -273,10 +266,8 @@ Smith, Hogan and Ormerod’s, Criminal Law states that loss of control ‘is not
 
 At common law, all unlawful homicides which are not murder are manslaughter. Customary to divide manslaughter into voluntary and involuntary manslaughter. Voluntary manslaughter comprises cases where the defendant had the intention to kill or do grievous bodily harm, but some statutory defined mitigating circumstance reduced it from murder.
 
-```ad-defn
-title: Loss of control
-Where D kills with the mens rea for murder but at the time he had lost his self control; one of the statutory qualifying triggers applied, and a person of D's age and sex with a normal degree of tolerance and self-restraint might have done as D did.
-```
+> [!defn] Loss of control
+> Where D kills with the mens rea for murder but at the time he had lost his self control; one of the statutory qualifying triggers applied, and a person of D's age and sex with a normal degree of tolerance and self-restraint might have done as D did.
 
 ### Context
 
@@ -309,9 +300,8 @@ The partial defence cannot apply where there is “a considered desire for reven
 
 The word 'considered' here suggests some element of premeditation, but is undefined. Recall also, there is no requirement for the loss of control to be sudden (s 54(2)).
 
-```ad-question
-Is arming oneself evidence of a considered desire for revenge?
-```
+> [!question]
+> Is arming oneself evidence of a considered desire for revenge?
 
 [[R v Clinton, Parker and Evans [2012] EWCA Crim 2]]: the Court of Appeal approved that a considered desire for revenge connoted a 'deliberate and considered decision which had been thought about'.
 
@@ -379,9 +369,8 @@ What if D's fear of serious violence was based on a mistaken interpretation of t
 
 “Things done or said” – so naturally occurring events are excluded. Note it seems a bit odd to distinguish cases where the trigger is words by a third party (defence available) and naturally occurring events (defence unavailable).
 
-```ad-example
-Say a farmers crops were destroyed by an unknown arsonist, and they then attacked their child, the defence would be techincally available. But if the crops were destroyed by a natural fire, it would not be available.
-```
+> [!example]
+> Say a farmers crops were destroyed by an unknown arsonist, and they then attacked their child, the defence would be techincally available. But if the crops were destroyed by a natural fire, it would not be available.
 
 There must be some evidence of what was said or what was done, has to be concrete. Note the edge cases:
 
@@ -436,13 +425,12 @@ So provided that something else has been said or done amounting to extreme circu
 
 Under s 54(1)(c), the jury must next consider whether a person of D's sex and age, with a normal degree of tolerance and self restraint would have acted in the same or a similar way.
 
-```ad-note
-The statute does not at this final stage preclude consideration of the fact of sexual infidelity. Two explanations for illogicality:
-1. Could argue that what is being considered in s 54(1)(c) is not the sexual infidelity but its effects on D. So the act causing loss of control could be the effects of the unfaithfulness and betrayal rather than the things (sexually) said or done
-2. Jury are allowed to have regard to the act/words in determining whether a person of D's age and sex etc. in his circumstances might have reacted as he did. 
-
-So could argue that there is no contradiction, because the government was seeking to prohibit sexual infidelity as a sole basis for the trigger. 
-```
+> [!note]
+> The statute does not at this final stage preclude consideration of the fact of sexual infidelity. Two explanations for illogicality:
+> 1. Could argue that what is being considered in s 54(1)(c) is not the sexual infidelity but its effects on D. So the act causing loss of control could be the effects of the unfaithfulness and betrayal rather than the things (sexually) said or done
+> 2. Jury are allowed to have regard to the act/words in determining whether a person of D's age and sex etc. in his circumstances might have reacted as he did. 
+> 
+> So could argue that there is no contradiction, because the government was seeking to prohibit sexual infidelity as a sole basis for the trigger. 
 
 Lord Judge CJ in [[R v Clinton, Parker and Evans [2012] EWCA Crim 2]]:
 
@@ -475,23 +463,19 @@ Moreover, s 54(3) only appears to exclude a circumstance on which D seeks to rel
 - This could open up the opportunity for D to claim e.g., that his intake of alcohol was a relevant circumstance if it had an effect which was not just that of diminishing his self-restraint, say if it led to a relevant mistake.
 - If bring drunk only had the effect of diminishing self-restraint, the jury should ask whether a person of D's sex and age with a normal degree of tolerance and self-restraint in the same circumstances, but unaffected by alcohol, might have reacted in the same or a similar way.
 
-```ad-info
-So suppose D was so intoxicated that he mistook V's slap on the back as an attack rather than an act of friendship, and killed him. D's intoxication might bear on his general capacity for tolerance and self-restraint, but it would not be its sole relevance, so would fall in the 'gap' left by the legislation.
-```
+> [!info]
+> So suppose D was so intoxicated that he mistook V's slap on the back as an attack rather than an act of friendship, and killed him. D's intoxication might bear on his general capacity for tolerance and self-restraint, but it would not be its sole relevance, so would fall in the 'gap' left by the legislation.
 
 There is no positive requirement that D's individual circumstances have to affect the gravity of the triggering conduct in order for them to be included in the jury's assessment of what the person of D's age and sex might have done. They only need to have relevance other than to his general capacity for tolerance and self-restraint.
 
-```ad-question
-Which, if any, of D's mental conditions are relevant?
-```
+> [!question]
+> Which, if any, of D's mental conditions are relevant?
 
-```ad-example
-If D has a learning disability and is provoked, his disability will be relevant even if the taunts relate to something completely different. 
-```
+> [!example]
+> If D has a learning disability and is provoked, his disability will be relevant even if the taunts relate to something completely different. 
 
-```ad-example
-If D suffered from a personality disorder which made him unusually likely to become angry and aggressive at the slightest provocation, this could not assist with loss of control. But if D had a personality disorder which had caused him to attempt suicide, then jury is entitled to take into account as one of the circumstances the effect on him of being taunted that he killed himself.
-```
+> [!example]
+> If D suffered from a personality disorder which made him unusually likely to become angry and aggressive at the slightest provocation, this could not assist with loss of control. But if D had a personality disorder which had caused him to attempt suicide, then jury is entitled to take into account as one of the circumstances the effect on him of being taunted that he killed himself.
 
 #### Rejmanski
 
@@ -505,8 +489,7 @@ Important to note that even in these cases, D's conduct must be judged against n
 
 Given that loss of control and diminished responsibility may be pleaded together as alternatives, the law does not ignore a mental disorder rendering the defendant unable to exercise the degree of control of a normal person.
 
-```ad-summary
-Rejmanski confirms:
-1. D's reaction to the qualifying trigger is always assessed against the objective standard required by the legislation
-2. The LOSC defence is more generous to defendants than provocation given that there is no positive requirement for D's  circumstances to affect the gravity of the triggering conduct.
-```
+> [!summary]
+> Rejmanski confirms:
+> 1. D's reaction to the qualifying trigger is always assessed against the objective standard required by the legislation
+> 2. The LOSC defence is more generous to defendants than provocation given that there is no positive requirement for D's  circumstances to affect the gravity of the triggering conduct.

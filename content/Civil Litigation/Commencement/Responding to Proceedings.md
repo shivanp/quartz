@@ -24,21 +24,19 @@ an acknowledgement of service and/or a defence.
 
 ## Computing Time
 
-```ad-statute
-title: CPR r 2.8 - Time
-(1) This rule shows how to calculate any period of time for doing any act which is specified –  
-- (a) by these Rules; 
-- (b) by a practice direction; or 
-- (c) by a judgment or order of the court.  
-  
-(2) A period of time expressed as a number of days shall be computed as clear days.  
-  
-(3) In this rule ‘clear days’ means that in computing the number of days –  
-- (a) the day on which the period begins; and 
-- (b) if the end of the period is defined by reference to an event, the day on which that event occurs  
-
-are not included.
-```
+> [!statute] CPR r 2.8 - Time
+> (1) This rule shows how to calculate any period of time for doing any act which is specified –  
+> - (a) by these Rules; 
+> - (b) by a practice direction; or 
+> - (c) by a judgment or order of the court.  
+>   
+> (2) A period of time expressed as a number of days shall be computed as clear days.  
+>   
+> (3) In this rule ‘clear days’ means that in computing the number of days –  
+> - (a) the day on which the period begins; and 
+> - (b) if the end of the period is defined by reference to an event, the day on which that event occurs  
+> 
+> are not included.
 
 Any order imposing a time limit should, wherever practicable, give a calendar date, i.e., the day, month, year and deadline time for compliance.
 
@@ -50,22 +48,18 @@ Any order imposing a time limit should, wherever practicable, give a calendar da
 
 If the defendant fails to respond within a set time, the claimant can usually enter judgment.
 
-```ad-statute
-title: r 10.2 - Consequence of not filing an acknowledgment of service
-If—
-- (a) a defendant fails to file an acknowledgment of service within the period specified in rule 10.3; and
-- (b) does not within that period file a defence in accordance with Part 15 or serve or file an admission in accordance with Part 14, 
+> [!statute] r 10.2 - Consequence of not filing an acknowledgment of service
+> If—
+> - (a) a defendant fails to file an acknowledgment of service within the period specified in rule 10.3; and
+> - (b) does not within that period file a defence in accordance with Part 15 or serve or file an admission in accordance with Part 14, 
+> 
+> the claimant may obtain default judgment if Part 12 allows it.
 
-the claimant may obtain default judgment if Part 12 allows it.
-```
-
-```ad-statute
-title: r 10.3(1)- The period for filing an acknowledgment of service
-
-(1) The general rule is that the period for filing an acknowledgment of service is—
-- (a) 14 days after service of the particulars of claim where the defendant is served with a claim form which states that particulars of claim are to follow; and
-- (b) 14 days after service of the claim form in any other case.
-```
+> [!statute] r 10.3(1)- The period for filing an acknowledgment of service
+> 
+> (1) The general rule is that the period for filing an acknowledgment of service is—
+> - (a) 14 days after service of the particulars of claim where the defendant is served with a claim form which states that particulars of claim are to follow; and
+> - (b) 14 days after service of the claim form in any other case.
 
 Note that service means deemed service. So:
 
@@ -100,17 +94,14 @@ If the court refuses the defendant’s application, the original acknowledgement
 
 #### Time Limit
 
-```ad-statute
-title: r 15.4(1) - The period for filing a defence
-(1) The general rule is that the period for filing a defence is –
-- (a) 14 days after service of the particulars of claim; or
-- (b) if the defendant files an acknowledgment of service under Part 10, 28 days after service of the particulars of claim.
-```
+> [!statute] r 15.4(1) - The period for filing a defence
+> (1) The general rule is that the period for filing a defence is –
+> - (a) 14 days after service of the particulars of claim; or
+> - (b) if the defendant files an acknowledgment of service under Part 10, 28 days after service of the particulars of claim.
 
-```ad-bug
-
-Remember that the day of deemed service of a claim form or particulars of claim will not always be the same. So if the claim form and particulars of the claim are served together, there is ambiguity. Interpret this as r 15.4 sets out the general position, but r 10.3 applies in respect of default judgment.
-```
+> [!bug]
+> 
+> Remember that the day of deemed service of a claim form or particulars of claim will not always be the same. So if the claim form and particulars of the claim are served together, there is ambiguity. Interpret this as r 15.4 sets out the general position, but r 10.3 applies in respect of default judgment.
 
 To avoid this ambiguity, best to file an acknowledgement of service as quickly as possible and then 28 days given from service of particulars to file defence.
 
@@ -183,25 +174,21 @@ When a court decides time or rate of payment, either party may apply for re-dete
 
 #### Interest
 
-```ad-test
-title: Claiming interest
-Judgment may include interest if following conditions met:
-1. Particulars of claim include a claim for interest, and all details set out in [r 16.4](https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part16#16.4) complied with.
-2. Where interest claimed under s 25A SCA 1981 or s 69 CCA 1984, rate is no hgher than rate of interest payable on judgment debts (8% pa) when claim form was issued.
-3. Request for judgment includes calculation of interest claimed since claim form.
-```
+> [!test] Claiming interest
+> Judgment may include interest if following conditions met:
+> 1. Particulars of claim include a claim for interest, and all details set out in [r 16.4](https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part16#16.4) complied with.
+> 2. Where interest claimed under s 25A SCA 1981 or s 69 CCA 1984, rate is no hgher than rate of interest payable on judgment debts (8% pa) when claim form was issued.
+> 3. Request for judgment includes calculation of interest claimed since claim form.
 
 If the above conditions are not satisfied, the judgment will be for an amount of interest to be decided by the court (e.g., for interest claimed under Late Payment of Commercial Debts (Interest) Act 1998).
 
 Can be varied:
 
-```ad-statute
-title: PD 14 para 6 - Varying the rate of payment
-
-**6.1** Either party may, on account of a change in circumstances since the date of the decision (or re-determination as the case may be) apply to vary the time and rate of payment of instalments still remaining unpaid.
-
-**6.2** An application to vary under paragraph 6.1 above should be made in accordance with Part 23.
-```
+> [!statute] PD 14 para 6 - Varying the rate of payment
+> 
+> **6.1** Either party may, on account of a change in circumstances since the date of the decision (or re-determination as the case may be) apply to vary the time and rate of payment of instalments still remaining unpaid.
+> 
+> **6.2** An application to vary under paragraph 6.1 above should be made in accordance with Part 23.
 
 ### Default Judgment (part 12)
 
@@ -226,10 +213,9 @@ Must fill in the relevant form, and also satisfy the court that:
 3. the defendant has not satisfied the claim;
 4. the defendant has not admitted liability for the full amount of the claim.
 
-```ad-tip
-The filing of an acknowledgment of service or a defence, even late, will prevent the entry of
-judgment in default.
-```
+> [!tip]
+> The filing of an acknowledgment of service or a defence, even late, will prevent the entry of
+> judgment in default.
 
 #### Details
 
@@ -242,8 +228,7 @@ judgment in default.
 | Setting aside              | A defendant against whom a default judgment has been entered may apply to have it set aside.                                                                                             |
 | Effect of stays            | Freezes all time limits and deadlines.                                                                                                                                                                                          |
 
-```ad-important
-Other than in cases where judgment has been wrongly entered, an application to set aside judgment in default is treated as an application for “relief from sanctions”.  This means that the case of _Denton v TH White_ should be considered in addition to the relevant Civil Procedure Rule.
-```
+> [!important]
+> Other than in cases where judgment has been wrongly entered, an application to set aside judgment in default is treated as an application for “relief from sanctions”.  This means that the case of _Denton v TH White_ should be considered in addition to the relevant Civil Procedure Rule.
 
 ![[denton-rules.png]]

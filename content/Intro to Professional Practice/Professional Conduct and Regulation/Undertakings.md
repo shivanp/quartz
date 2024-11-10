@@ -7,10 +7,8 @@ date modified: Sunday, December 10th 2023, 12:39:50 am
 
 # Undertakings
 
-```ad-defn
-title: Undertaking
-A statement given orally or in writingk, whether or not it includes the word "undertake" or "undertaking" to someone who reasonably places reliance on it, that you or a third party will do something or cause something to be done, or refrain from doing something. (SRA Glossary)
-```
+> [!defn] Undertaking
+> A statement given orally or in writingk, whether or not it includes the word "undertake" or "undertaking" to someone who reasonably places reliance on it, that you or a third party will do something or cause something to be done, or refrain from doing something. (SRA Glossary)
 
 A solicitor must perform all undertakings given by them within an agreed timescale, or if no timescale is agreed, within a reasonable amount of time (para 1.3 Codes of Conduct).
 
@@ -80,10 +78,8 @@ The Legal Ombudsman, SRA, and Solicitors Disciplinary Tribunal have no power to 
 
 In a firm, if an undertaking is given by an assistant solicitor and not honoured, there will be a breach of professional conduct by the solicitor and also the partners of the firm. So many firms have strict procedures about undertakings.
 
-```ad-warning
-Be super careful. If you make an undertaking to pay £100k from the proceeds of sale of a house, and the house sells for 90k, you are personally liable for the 10k. So draft the undertaking to expressly limit liability to the money received through the sale. 
-```
+> [!warning]
+> Be super careful. If you make an undertaking to pay £100k from the proceeds of sale of a house, and the house sells for 90k, you are personally liable for the 10k. So draft the undertaking to expressly limit liability to the money received through the sale. 
 
-```ad-question
-Why not just have the client undertake to do something directly? And sign an undertaking/ contract to that effect?
-```
+> [!question]
+> Why not just have the client undertake to do something directly? And sign an undertaking/ contract to that effect?

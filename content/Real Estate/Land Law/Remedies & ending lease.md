@@ -35,9 +35,8 @@ From 6 April 2014, a landlord's right to levy distress for rent arrears was ther
 
 This requires a landlord to serve an enforcement notice on the tenant, giving seven clear days’ notice that he will seize goods. Once notice has been served, the tenant can apply for it to be set aside or for its execution to be delayed.
 
-```ad-warning
-There must be a minimum of seven days' rent arrears in order to use this procedure, and the remedy is not available in respect of mixed use or residential premises.
-```
+> [!warning]
+> There must be a minimum of seven days' rent arrears in order to use this procedure, and the remedy is not available in respect of mixed use or residential premises.
 
 The notice requirements clearly reduce the effectiveness of the remedy from a landlord's perspective because tenants have the opportunity to remove goods from the premises and put them out of the landlord's reach.
 
@@ -49,19 +48,18 @@ This involves bringing the lease to a premature end because of the tenant’s br
 - Specific performance – This is rarely ordered in respect of a repairing covenant; damages will usually be adequate. For example, in the case of [[Jeune v Queen’s Cross Properties Ltd [1974] Ch 97]], the court stated, obiter, that specific performance of a repairing covenant could not be awarded against a tenant.
 - Damages – The ordinary contractual rules as to the measure of damages will generally apply.
 
-```ad-summary
-In the event of a breach by the tenant of a rent covenant, the following remedies are available to a landlord:
-
-- Action for debt
-- Forfeiture - a right to end the tenant’s lease in the event of a breach.
-- Distress is an ancient common law remedy that has been abolished due to its incompatibility with the HRA 1998.
-- Commercial Rent Arrears Recovery may be available as a remedy to a landlord in the event of breach of a rent covenant where the premises let are commercial. 7 days' notice must be served on the tenant.
-
-If the tenant is in breach of another covenant in the lease, the following remedies are also available to a landlord:
-
-- Injunction
-- Specific performance (though this will be rarely granted).
-```
+> [!summary]
+> In the event of a breach by the tenant of a rent covenant, the following remedies are available to a landlord:
+> 
+> - Action for debt
+> - Forfeiture - a right to end the tenant’s lease in the event of a breach.
+> - Distress is an ancient common law remedy that has been abolished due to its incompatibility with the HRA 1998.
+> - Commercial Rent Arrears Recovery may be available as a remedy to a landlord in the event of breach of a rent covenant where the premises let are commercial. 7 days' notice must be served on the tenant.
+> 
+> If the tenant is in breach of another covenant in the lease, the following remedies are also available to a landlord:
+> 
+> - Injunction
+> - Specific performance (though this will be rarely granted).
 
 ## Ending a Lease
 
@@ -88,19 +86,17 @@ Note, however, that at the end of the lease, the tenant may have security of ten
 
 Security of tenure is a right for a tenant to remain in the premises at the end of the lease term and to request the grant of a new lease.
 
-```ad-example
-Many **business tenancies** are protected by the Landlord and Tenant Act 1954, Part II. If the tenant follows certain procedures and time limits, he may be entitled to require the landlord to grant him a new lease.
-
-A **residential tenant** may have rights to remain in occupation under the Rent Act 1977 (for private tenancies granted before 15 January 1989) or the Housing Acts 1985 (public sector tenancies) and 1988 (private tenancies granted after 15 January 1989). Since the introduction of assured shorthold tenancies (ASTs) it is now very rare for a residential tenant to have security of tenure.
-```
+> [!example]
+> Many **business tenancies** are protected by the Landlord and Tenant Act 1954, Part II. If the tenant follows certain procedures and time limits, he may be entitled to require the landlord to grant him a new lease.
+> 
+> A **residential tenant** may have rights to remain in occupation under the Rent Act 1977 (for private tenancies granted before 15 January 1989) or the Housing Acts 1985 (public sector tenancies) and 1988 (private tenancies granted after 15 January 1989). Since the introduction of assured shorthold tenancies (ASTs) it is now very rare for a residential tenant to have security of tenure.
 
 ### By a ‘break’ Clause
 
 A lease for a fixed term may contain a provision allowing either party (landlord or tenant or both) to serve notice during its currency to bring it to a premature end.
 
-```ad-example
-“Either party may end this lease on the fifth anniversary of the term start date by serving 6 months written notice on the other.”
-```
+> [!example]
+> “Either party may end this lease on the fifth anniversary of the term start date by serving 6 months written notice on the other.”
 
 ### By Surrender
 
@@ -118,9 +114,8 @@ This is the method for determining a periodic tenancy.
 
 For a yearly tenancy, either side must give at least half a year’s notice to quit to determine the tenancy. Other periodic tenancies, for example quarterly, monthly or weekly, must be determined by a full period’s notice to expire at the end of a complete period.
 
-```ad-defn
-A periodic tenancy is a lease that runs from one period of time to another. Each period is seen as an individual lease.
-```
+> [!defn]
+> A periodic tenancy is a lease that runs from one period of time to another. Each period is seen as an individual lease.
 
 ### Forfeiture
 
@@ -138,9 +133,8 @@ The procedure to forfeit a lease and how the right can be waived by the landlord
 
 There must be an express forfeiture clause in the lease allowing the landlord to forfeit the lease in the event of breach of covenant (or insolvency) by the tenant. Every well-drawn lease should contain a forfeiture clause. The right to forfeit is never implied into a legal lease.
 
-```ad-note
-In a legal lease, the forfeiture clause creates a legal right of re-entry (one of the five legal rights listed in LPA 1925, s 1(2)). A forfeiture clause is therefore also known as a re-entry clause.
-```
+> [!note]
+> In a legal lease, the forfeiture clause creates a legal right of re-entry (one of the five legal rights listed in LPA 1925, s 1(2)). A forfeiture clause is therefore also known as a re-entry clause.
 
 ### Equitable Leases
 
@@ -193,19 +187,18 @@ This means that each individual non-payment of rent (i.e., each missed payment) 
 
 So, even if the landlord permanently waives his right to forfeit for one incidence of non-payment of rent, this does not preclude the possibility that the landlord could forfeit for another non-payment of rent in the future (which is a likely possibility in such circumstances).
 
-```ad-summary
-Forfeiture is a right for the landlord to terminate the lease prematurely for breach of covenant by the tenant.
-
-Legal leases must contain an express right to forfeit in the lease. This is also called a legal right of re-entry.
-
-A right to forfeit in the event of breach of a rent covenant is implied into an equitable lease.
-
-A right to forfeit can be waived if the landlord **knows about the breach** and then does some **unequivocal act recognising the continued existence of the lease**, such as demanding rent and/or accepting payment of rent.
-
-If the breach is continuing e.g., repair, the right to forfeit will arise again each day the breach continues. If the breach is non-continuing, such as sub-letting without consent, waiver is permanent.
-
-Forfeiture can be exercised by peaceable re-entry or court order. If the premises are residential or mixed residential and commercial, a court order must be obtained.
-```
+> [!summary]
+> Forfeiture is a right for the landlord to terminate the lease prematurely for breach of covenant by the tenant.
+> 
+> Legal leases must contain an express right to forfeit in the lease. This is also called a legal right of re-entry.
+> 
+> A right to forfeit in the event of breach of a rent covenant is implied into an equitable lease.
+> 
+> A right to forfeit can be waived if the landlord **knows about the breach** and then does some **unequivocal act recognising the continued existence of the lease**, such as demanding rent and/or accepting payment of rent.
+> 
+> If the breach is continuing e.g., repair, the right to forfeit will arise again each day the breach continues. If the breach is non-continuing, such as sub-letting without consent, waiver is permanent.
+> 
+> Forfeiture can be exercised by peaceable re-entry or court order. If the premises are residential or mixed residential and commercial, a court order must be obtained.
 
 ## Breach of a Rent Covenant
 
@@ -271,21 +264,20 @@ This is the case even where the head-tenant cannot get relief himself. The court
 
 In summary, under the above provisions, the court usually allows the lease to continue on condition that the tenant pays off the arrears.
 
-```ad-summary
-**Step 1:** There must be a breach of covenant.
-
-**Step 2:** There must be a forfeiture clause in the lease.
-
-**Step 3:** The landlord must not have waived the right to forfeit: distinguish here between a continuing and non-continuing breach.
-
-**Breach of rent covenant:**
-
-**Step 4:** The landlord must have served a demand for payment, or the lease must waive this right.
-
-**Step 5:** The landlord can then forfeit the lease for the breach of covenant by peaceable re-entry or court order. However, if the tenancy is residential, the landlord must obtain a court order.
-
-**Step 6:** The tenant, and any sub-tenant, can apply for relief from forfeiture. Relief is the court's discretion to allow the lease to continue. Relief can be applied for regardless of whether the right has been exercised by court order or peaceable re-entry.
-```
+> [!summary]
+> **Step 1:** There must be a breach of covenant.
+> 
+> **Step 2:** There must be a forfeiture clause in the lease.
+> 
+> **Step 3:** The landlord must not have waived the right to forfeit: distinguish here between a continuing and non-continuing breach.
+> 
+> **Breach of rent covenant:**
+> 
+> **Step 4:** The landlord must have served a demand for payment, or the lease must waive this right.
+> 
+> **Step 5:** The landlord can then forfeit the lease for the breach of covenant by peaceable re-entry or court order. However, if the tenancy is residential, the landlord must obtain a court order.
+> 
+> **Step 6:** The tenant, and any sub-tenant, can apply for relief from forfeiture. Relief is the court's discretion to allow the lease to continue. Relief can be applied for regardless of whether the right has been exercised by court order or peaceable re-entry.
 
 ## Breach of Other Covenants
 
@@ -356,10 +348,8 @@ If the breach is not capable of remedy, the landlord must merely give the tenant
 
 The tenant may then apply for relief from forfeiture. 'Relief' means the court’s discretion to allow the lease to continue and thereby end the forfeiture process. This discretion to grant relief is an ancient equitable jurisdiction, but is now enshrined in various statutes, as explained below.
 
-```ad-statute
-title: s 146(2) LPA 1925
-Where a lessor is proceeding, by action or otherwise, to enforce such a right of re-entry or forfeiture, the lessee may, in the lessor’s action, if any, or in any action brought by himself, apply to the court for relief; and the court may grant or refuse relief, as the court, having regard to the proceedings and conduct of the parties under the foregoing provisions of this section, and to all the other circumstances, thinks fit; and in case of relief may grant it on such terms, if any, as to costs, expenses, damages, compensation, penalty, or otherwise, including the granting of an injunction to restrain any like breach in the future, as the court, in the circumstances of each case, thinks fit.
-```
+> [!statute] s 146(2) LPA 1925
+> Where a lessor is proceeding, by action or otherwise, to enforce such a right of re-entry or forfeiture, the lessee may, in the lessor’s action, if any, or in any action brought by himself, apply to the court for relief; and the court may grant or refuse relief, as the court, having regard to the proceedings and conduct of the parties under the foregoing provisions of this section, and to all the other circumstances, thinks fit; and in case of relief may grant it on such terms, if any, as to costs, expenses, damages, compensation, penalty, or otherwise, including the granting of an injunction to restrain any like breach in the future, as the court, in the circumstances of each case, thinks fit.
 
 LPA 1925, s 146(2) provides that, where the landlord is proceeding by action or otherwise to enforce forfeiture, the tenant may in the landlord’s action, or in any action brought by himself, apply to the court for relief.
 
@@ -382,20 +372,19 @@ The judicial dislike of peaceable re-entry as a method of forfeiture is apparent
 
 LPA 1925, s 146(4) allows a subtenant to apply to the court for relief against forfeiture for breach of other covenants. It is a matter of discretion whether a subtenant will be granted relief. An unlawful subtenant (where no consent was given for the subletting) is unlikely to get relief ([[St Marylebone Property Co v Tesco Stores Ltd [1988] 2 EGLR 40]]). The House of Lords’ interpretation of s 146(2) in Billson must surely apply equally to s 146(4), so that a subtenant must apply for relief within a reasonable time after peaceable re-entry.
 
-```ad-summary
-**Step 1:** There must be a breach of covenant.
-
-**Step 2:** There must be a forfeiture clause in the lease.
-
-**Step 3:** The landlord must not have waived the right to forfeit: distinguish here between a continuing and non-continuing breach.
-
-**Breach of a non rent covenant:**
-
-**Step 4:** The landlord must have served a LPA 1925, s 146 Notice.
-
-(Does the breach relate to a repair covenant? Consider does the additional protection under **LP(R)A 1938 or LPA 1925, s 147** apply?)
-
-**Step 5:** The landlord can then forfeit the lease for the breach of covenant by peaceable re-entry or court order. However, if the tenancy is residential, the landlord must obtain a court order.
-
-**Step 6:** The tenant, and any sub-tenant, can apply for relief from forfeiture. Relief is the court's discretion to allow the lease to continue. Relief can be applied for regardless of whether the right has been exercised by court order or peaceable re-entry.
-```
+> [!summary]
+> **Step 1:** There must be a breach of covenant.
+> 
+> **Step 2:** There must be a forfeiture clause in the lease.
+> 
+> **Step 3:** The landlord must not have waived the right to forfeit: distinguish here between a continuing and non-continuing breach.
+> 
+> **Breach of a non rent covenant:**
+> 
+> **Step 4:** The landlord must have served a LPA 1925, s 146 Notice.
+> 
+> (Does the breach relate to a repair covenant? Consider does the additional protection under **LP(R)A 1938 or LPA 1925, s 147** apply?)
+> 
+> **Step 5:** The landlord can then forfeit the lease for the breach of covenant by peaceable re-entry or court order. However, if the tenancy is residential, the landlord must obtain a court order.
+> 
+> **Step 6:** The tenant, and any sub-tenant, can apply for relief from forfeiture. Relief is the court's discretion to allow the lease to continue. Relief can be applied for regardless of whether the right has been exercised by court order or peaceable re-entry.

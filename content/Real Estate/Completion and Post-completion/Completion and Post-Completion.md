@@ -119,9 +119,8 @@ Law Society wording:
 
 > In consideration of you today completing the purchase of [insert description of property] we hereby undertake forthwith to pay over to [insert name of lender] the money required to discharge the mortgage/legal charge dated [insert date of charge] and to forward the receipted mortgage/Form DS1 to you as soon as it is received by us from [insert name of lender].
 
-```ad-note
-Above wording should be amended if ED or e-DS1 system is used. 
-```
+> [!note]
+> Above wording should be amended if ED or e-DS1 system is used. 
 
 Although acceptance of such an undertaking is not entirely risk-free, it is not negligent to rely on such undertakings except in “exceptional circumstances” ([[Pat el v Daybells  
 [2001] EWCA Civ 1229]]).
@@ -241,9 +240,8 @@ Where registered land is transferred, an application for registration of the dea
 
 Land Registry operates an early completion policy. Applies to all applications to discharge the whole of a registered charge where other applications are made (such as an application to register the transfer of the property to the buyer) but no evidence of satisfaction of the charge is supplied (perhaps because the lender has been slow in executing the DS1).
 
-```ad-important
-A buyer purchasing a property with a new mortgage will be registered as the proprietor, but the seller’s mortgage will remain on the title until evidence of discharge is provided, and the buyer’s mortgage will rank in priority behind the seller’s mortgage on the register.
-```
+> [!important]
+> A buyer purchasing a property with a new mortgage will be registered as the proprietor, but the seller’s mortgage will remain on the title until evidence of discharge is provided, and the buyer’s mortgage will rank in priority behind the seller’s mortgage on the register.
 
 Where there is a restriction on the register preventing a disposal or the registration of a new charge without the consent of the existing lender, proof of satisfaction of the charge or evidence of compliance with the restriction must be provided to Land Registry within **20 working days** (which can be extended to 40 working days on application); if this is not done, Land Registry will cancel the buyer’s applications for discharge, transfer and charge.
 
@@ -311,17 +309,15 @@ SCPC 10.3: Contractual entitlement to compensation given to the seller where the
 
 SCPC 9.1.2/ 9.1.3: where the sale is with vacant possession and the money due on completion is not paid by 2pm on the day of actual completion, for the purposes of compensation, completion is deemed to have taken place the next working day (unless seller has not vacated by 2pm).
 
-```ad-example
-If buyer's money did not arrive until 2.15pm on Friday,seller would be entitled to interest for 3 days. 
-```
+> [!example]
+> If buyer's money did not arrive until 2.15pm on Friday,seller would be entitled to interest for 3 days. 
 
 ## Service of Notice to Complete
 
 When it appears a delay in completion is not likely to be resolved quickly, consideration may be given to the service of a notice to complete, with the effect of making time of the essence of the contract. Then the aggrieved party has the option to terminate the contract immediately.
 
-```ad-warning
-Making time of the essence imposes a condition which binds both parties. So if previously aggrieved party $A$ makes time of the essence, and subsequently is unable to complete, $B$ could then terminate the contract at the specified new completion date.
-```
+> [!warning]
+> Making time of the essence imposes a condition which binds both parties. So if previously aggrieved party $A$ makes time of the essence, and subsequently is unable to complete, $B$ could then terminate the contract at the specified new completion date.
 
 SCPC 9.8: on service of a notice to complete, completion must take place within 10 working days (exclusive of the date of service) and time is of the essence.
 
@@ -361,9 +357,8 @@ On completion, the terms of the contract merge with the transfer deed in so far 
 
 SCPC 10.1 restricts the remedies available for a breach of contract. Buyer entitled to damages only if there is a material difference in the tenure/ value of the property. Entitled to terminate contract only if the error/ omission results from fraud/ recklessness or where otherwise obliged to accept property differing substantially in quality, quantity or tenure from expectations.
 
-```ad-example
-So the buyer is only entitled to damages for an undisclosed incumbrance if this caused a material difference in the value of the land. 
-```
+> [!example]
+> So the buyer is only entitled to damages for an undisclosed incumbrance if this caused a material difference in the value of the land. 
 
 Exclusion clauses contained in contracts for the sale of land (except those relating to the exclusion of liability for misrepresentation) are not subject to the reasonableness test in the Unfair Contract Terms Act 1977.
 
@@ -454,9 +449,8 @@ s 1 Misrepresentation Act 1967: where a misrepresentation has become incorporate
 
 Knowledge gained by a solicitor in the course of a transaction is deemed to be known by the solicitor’s client, whether or not this is in fact the case.
 
-```ad-example
-Where a solicitor gives an incorrect reply to pre-contract enquiries, the solicitor’s knowledge, and also their misstatement, is attributable to the client who w ill be liable to the buyer in misrepresentation ([[CEMP Properties (UK) Ltd v Dentsply Research and Development Corporation (No 1) (1989) 2 EGLR 192]]). In such a situation, the solicitor would be liable to their own client in negligence.
-```
+> [!example]
+> Where a solicitor gives an incorrect reply to pre-contract enquiries, the solicitor’s knowledge, and also their misstatement, is attributable to the client who w ill be liable to the buyer in misrepresentation ([[CEMP Properties (UK) Ltd v Dentsply Research and Development Corporation (No 1) (1989) 2 EGLR 192]]). In such a situation, the solicitor would be liable to their own client in negligence.
 
 ### Exclusion Clauses
 

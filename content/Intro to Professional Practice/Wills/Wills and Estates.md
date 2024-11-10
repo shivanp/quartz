@@ -85,9 +85,8 @@ IHT subject to 'general anti-abuse rule' (GAAR) introduced by Finance Act 2013 d
 
 Chargeable transfers eat up the nil rate band.
 
-```ad-warning
-It is not correct to say that the property falling into the nil rate band is "exempt". When something is exempt it has no IHT implications.
-```
+> [!warning]
+> It is not correct to say that the property falling into the nil rate band is "exempt". When something is exempt it has no IHT implications.
 
 ## Transfers on Death
 
@@ -124,16 +123,13 @@ But does not include:
 
 ### 2. Value Transferred
 
-```ad-guid
-title: General principle - s 160 IHTA 1984
-Assets are valued for IHT pruposes at 'the price which the property might reasonably be expected to fetch if sold on open market' **immediately before** death.
-```
+> [!guid] General principle - s 160 IHTA 1984
+> Assets are valued for IHT pruposes at 'the price which the property might reasonably be expected to fetch if sold on open market' **immediately before** death.
 
 With assets such as land, may need negotiations with the district valuer to reach an agreed valuation.
 
-```ad-defn
-The value of an asset agreed for IHT purposes is known as the **probate value**.
-```
+> [!defn]
+> The value of an asset agreed for IHT purposes is known as the **probate value**.
 
 Where death causes the value of an asset to increase or decrease, this will be taken into account (important for e.g., life insurance policies).
 
@@ -146,19 +142,15 @@ Where death causes the value of an asset to increase or decrease, this will be t
 
 #### Spouse/ Civil Partner Exemption
 
-```ad-statute
-title: s 18 IHTA 1984
-A transfer of value is an exempt transfer to the extent that the value transferred is attributable to property which becomes comprised in the estate of the transferor’s spouse or civil partner.
-```
+> [!statute] s 18 IHTA 1984
+> A transfer of value is an exempt transfer to the extent that the value transferred is attributable to property which becomes comprised in the estate of the transferor’s spouse or civil partner.
 
 The spouse exemption can apply in conjunction with the rule applicable to qualifying interest in possession trusts, that IHT is charged as if the person with the right to income owned the capital. So if a trust is validly created with income for life for a spouse, remainder to children, the whole estate will be spouse exempt on the settlor's death.
 
 #### Charity Exemption
 
-```ad-statute
-title: s 23(1) IHTA 1984
-Transfers of value are exempt to the extent that the values transferred by them are attributable to property which is given to charities.
-```
+> [!statute] s 23(1) IHTA 1984
+> Transfers of value are exempt to the extent that the values transferred by them are attributable to property which is given to charities.
 
 A similar exemption applies to gifts to certain bodies, bodies providing a public benefit, and to political parties.
 
@@ -189,10 +181,8 @@ Note:
 
 The relief operates to reduce the agricultural value of agricultural property by a certain percentage.
 
-```ad-defn
-title: Agricultural value
-The value of the property if it were subject to a perpetual covenant prohibiting its use other than for agriculture. 
-```
+> [!defn] Agricultural value
+> The value of the property if it were subject to a perpetual covenant prohibiting its use other than for agriculture. 
 
 Reduction of 100% is allowed where:
 
@@ -230,10 +220,8 @@ Not applicable to the residence nil rate band which should be available in full 
 
 This is available in addition to the nil rate band if the deceased dies owning a 'qualifying residential interest' which is 'closely inherited'.
 
-```ad-defn
-title: Qualifying residential interest
-An interest in a dwelling house which has at any time been the deceased’s residence and which forms part of the deceased’s estate.
-```
+> [!defn] Qualifying residential interest
+> An interest in a dwelling house which has at any time been the deceased’s residence and which forms part of the deceased’s estate.
 
 For a property to be **‘closely inherited’**, it must pass to:
 
@@ -249,17 +237,13 @@ Finance Bill 2016 introduced a downsizing allowance; allowing PRs to claim RNRB 
 
 ## Potentially Exempt Transfers (PETs)
 
-```ad-defn
-title: PET
-Any gift made by an individual to another **individual or into a disabled trust** (IHTA 1984, s 3A(1A)), to the extent in either case that the gift would otherwise be chargeable.
-```
+> [!defn] PET
+> Any gift made by an individual to another **individual or into a disabled trust** (IHTA 1984, s 3A(1A)), to the extent in either case that the gift would otherwise be chargeable.
 
 ### 1. Transfer of Value
 
-```ad-defn
-title: Transfer of value
-Any lifetime disposition made by the transferor which reduces the value of their estate (s 3(1) IHTA 1984)
-```
+> [!defn] Transfer of value
+> Any lifetime disposition made by the transferor which reduces the value of their estate (s 3(1) IHTA 1984)
 
 Some dispositions are excluded:
 
@@ -268,10 +252,8 @@ Some dispositions are excluded:
 
 ### 2. Value Transferred
 
-```ad-defn
-title: Value transferred
-The amount by which the value of the transferor's estate is less than it would have been but for the transfer (s 3(1) IHTA 1984). 
-```
+> [!defn] Value transferred
+> The amount by which the value of the transferor's estate is less than it would have been but for the transfer (s 3(1) IHTA 1984). 
 
 Recall, the transferor's **estate** is the aggregate of all the property to which they are beneficially entitled.
 
@@ -292,13 +274,11 @@ The usual exemptions/ reliefs apply:
 - Business and agricultural property relief.
 	- Only available if transferee still owns the property or qualifying replacement when transferor dies.
 
-```ad-test
-title: Order of application
-Apply exemptions and reliefs in the following order:
-1. Spouse/ civil partner/ charity exemptions
-2. Business/ agricultural property reliefs
-3. 'Lifetime only' exemptions
-```
+> [!test] Order of application
+> Apply exemptions and reliefs in the following order:
+> 1. Spouse/ civil partner/ charity exemptions
+> 2. Business/ agricultural property reliefs
+> 3. 'Lifetime only' exemptions
 
 #### Lifetime Exemptions
 
@@ -315,9 +295,8 @@ Any value remaining after exemptions and reliefs applied is potentially exempt. 
 
 ## Lifetime Chargeable Transfers (LCTs)
 
-```ad-note
-An LCT is made to a company or trust. 
-```
+> [!note]
+> An LCT is made to a company or trust. 
 
 Any lifetime transfer which does not fall within the definition of a PET is an LCT. The aim is to close loopholes involving companies and trusts.
 
@@ -335,9 +314,8 @@ First identify transfer of value, calculate value transferred and apply exemptio
 
 #### Cumulation
 
-```ad-important
-Chargeable transfers made in the 7 years before the current chargeable transfer reduce the nil rate band available to that current transfer. 
-```
+> [!important]
+> Chargeable transfers made in the 7 years before the current chargeable transfer reduce the nil rate band available to that current transfer. 
 
 Note that while the transferor is alive, any PETs made by the transferor are ignored for cumulation purposes because they may never become chargeable.
 
@@ -363,9 +341,8 @@ Rate of tax applicable to **chargeable transfers** made within 7 years of death 
 - 40% on balance (note 36% charity rate not available).
 - But subject to tapering relief, see below.
 
-```ad-tip
-Draw a timeline. 
-```
+> [!tip]
+> Draw a timeline. 
 
 #### Tapering Relief
 
@@ -407,9 +384,8 @@ Payment will usually be obtained by people holding property in a representative 
 
 ### Estate Rate
 
-```ad-defn
-The average rate of tax applicable to each item of property in the estate.
-```
+> [!defn]
+> The average rate of tax applicable to each item of property in the estate.
 
 Tax is divided between the various assets in the estate proportionately, according to their value. So multiply the value of the asset by the estate rate to calculate the tax liability of an asset.
 
@@ -422,9 +398,8 @@ PRs are liable for IHT attributable to the non-settled estate: any property whic
 - Property vesting in PRs
 - Property to which the deceased was beneficially entitled immediately before death.
 
-```ad-note
-PR liability limited to the value of assets received/ would have received but for their own negligence or default. 
-```
+> [!note]
+> PR liability limited to the value of assets received/ would have received but for their own negligence or default. 
 
 Concurrently liable with the PRs is ‘any person in whom property is vested…at any time after  
 the death or who at any such time is beneficially entitled to an interest in possession in the  
@@ -505,12 +480,10 @@ If an individual does not dispose of property by will, it can pass on death acco
 
 ## Requirements of a Valid Will
 
-```ad-test
-title: Valid will
-To create a valid will, a testator must have
-1. the necessary capacity and intention, and
-2. must observe the formalities for execution of wills laid down in the Wills Act 1837. 
-```
+> [!test] Valid will
+> To create a valid will, a testator must have
+> 1. the necessary capacity and intention, and
+> 2. must observe the formalities for execution of wills laid down in the Wills Act 1837. 
 
 ### Capacity
 
@@ -549,11 +522,10 @@ The burden of proving the testator's knowledge and approval falls on the person 
 
 #### Conduct
 
-```ad-conduct
-Those regulated by the SRA are required to act with honesty and integrity and in the best interests of clients (Principles 4, 5 and 7). They must not abuse their position by taking unfair advantage of clients, and they must not act if there is a significant risk that the duty to act in the best interests of the client conflicts with their own interests. There is such a risk where someone prepares a will which benefits themselves or someone close to them.
-
-It is therefore sensible for firms to have a policy of refusing to act where a client proposes to make a gift of significant value to a fee earner or member of their family unless the client takes independent legal advice.
-```
+> [!conduct]
+> Those regulated by the SRA are required to act with honesty and integrity and in the best interests of clients (Principles 4, 5 and 7). They must not abuse their position by taking unfair advantage of clients, and they must not act if there is a significant risk that the duty to act in the best interests of the client conflicts with their own interests. There is such a risk where someone prepares a will which benefits themselves or someone close to them.
+> 
+> It is therefore sensible for firms to have a policy of refusing to act where a client proposes to make a gift of significant value to a fee earner or member of their family unless the client takes independent legal advice.
 
 #### Challenging
 
@@ -576,28 +548,26 @@ For a party to prove it has been the victim of undue influence, needs to show:
 
 #### Formalities
 
-```ad-statute
-title: s 9 Wills Act 1837
-Signing and attestation of wills
-
-(1) No will shall be valid unless—
-
-- (a) it is in writing, and signed by the testator, or by some other person in his presence and by his direction; and
-
-- (b) it appears that the testator intended by his signature to give effect to the will; and
-
-- (c) the signature is made or acknowledged by the testator in the presence of two or more witnesses present at the same time; and
-
-- (d) each witness either—
-	- (i) attests and signs the will; or
-	- (ii) acknowledges his signature,
-
-	in the presence of the testator (but not necessarily in the presence of any other witness),
-
-but no form of attestation shall be necessary.
-
-(2) For the purposes of paragraphs (c) and (d) of subsection (1), in relation to wills made on or after 31 January 2020 and on or before 31 January, “presence” includes presence by means of videoconference or other visual transmission.
-```
+> [!statute] s 9 Wills Act 1837
+> Signing and attestation of wills
+> 
+> (1) No will shall be valid unless—
+> 
+> - (a) it is in writing, and signed by the testator, or by some other person in his presence and by his direction; and
+> 
+> - (b) it appears that the testator intended by his signature to give effect to the will; and
+> 
+> - (c) the signature is made or acknowledged by the testator in the presence of two or more witnesses present at the same time; and
+> 
+> - (d) each witness either—
+> 	- (i) attests and signs the will; or
+> 	- (ii) acknowledges his signature,
+> 
+> 	in the presence of the testator (but not necessarily in the presence of any other witness),
+> 
+> but no form of attestation shall be necessary.
+> 
+> (2) For the purposes of paragraphs (c) and (d) of subsection (1), in relation to wills made on or after 31 January 2020 and on or before 31 January, “presence” includes presence by means of videoconference or other visual transmission.
 
 A will made on actual military service or by a mariner or seaman at sea is valid and may be in any form, including a mere oral statement: Wills Act 1837, s 11.
 
@@ -620,10 +590,8 @@ Must be:
 
 #### Proof and Presumptions
 
-```ad-defn
-title: Attestation clause
-If the will includes a clause which recites that the s 9 formalities were observed ("attestation clause"), a presumption of due execution is raised. The will is valid unless there is proof that the formalities were not observed.
-```
+> [!defn] Attestation clause
+> If the will includes a clause which recites that the s 9 formalities were observed ("attestation clause"), a presumption of due execution is raised. The will is valid unless there is proof that the formalities were not observed.
 
 If there is no attestation clause, the district judge will require an affidavit of due execution from a witness/ affidavit of handwriting evidence from the testator/ will refer the case to a judge.
 
@@ -671,11 +639,9 @@ Basic rule: alterations invalid unless it can be proved they were made before th
 
 Basic rule:
 
-```ad-statute
-title: s 24 Wills Act 1837 - A will shall be construed to speak from the death of the testator.
-
-Every will shall be construed, with reference to the real estate and personal estate comprised in it, to speak and take effect as if it had been executed immediately before the death of the testator, unless a contrary intention shall appear by the will. 
-```
+> [!statute] s 24 Wills Act 1837 - A will shall be construed to speak from the death of the testator.
+> 
+> Every will shall be construed, with reference to the real estate and personal estate comprised in it, to speak and take effect as if it had been executed immediately before the death of the testator, unless a contrary intention shall appear by the will. 
 
 #### Ademption
 
@@ -685,10 +651,8 @@ If the nature of an asset has changed since the will was made, ask whether the a
 
 Suppose 'my car' is gifted in the will, but subsequently the testator bought a new car. Then generally the gift is adeemed.
 
-```ad-defn
-title: Codicil
-A supplement to a will which, to be valid, must be executed in the same way as a will. A testator may wish to add to or change a will in a minor way and so may execute a supplementary codicil.
-```
+> [!defn] Codicil
+> A supplement to a will which, to be valid, must be executed in the same way as a will. A testator may wish to add to or change a will in a minor way and so may execute a supplementary codicil.
 
 A codicil has the effect of republishing the will as at the date of the codicil. So the property referred to is the property at the date of the codicil (i.e., references to items in the will are references to the items on the date of republication).
 
@@ -700,11 +664,9 @@ Where no conditions to the contrary are imposed in the will, a gift vests on the
 
 #### S 184 LPA 1925
 
-```ad-statute
-title: s 184 LPA 1925 - Presumption of survivorship in regard to claims to property.
-
-In all cases where, after the commencement of this Act, two or more persons have died in circumstances rendering it uncertain which of them survived the other or others, such deaths shall (subject to any order of the court), for all purposes affecting the title to property, be presumed to have occurred in order of seniority, and accordingly the younger shall be deemed to have survived the elder. 
-```
+> [!statute] s 184 LPA 1925 - Presumption of survivorship in regard to claims to property.
+> 
+> In all cases where, after the commencement of this Act, two or more persons have died in circumstances rendering it uncertain which of them survived the other or others, such deaths shall (subject to any order of the court), for all purposes affecting the title to property, be presumed to have occurred in order of seniority, and accordingly the younger shall be deemed to have survived the elder. 
 
 #### Survivorship Clauses
 
@@ -751,10 +713,8 @@ References to “children” means only biological children and not step-childre
 
 Persons who have obtained a full gender recognition certificate from the Gender Recognition Panel are legally recognised in the acquired gender.
 
-```ad-statute
-title: s 15 Gender Recognition Act 2004 
-The fact that a person’s gender has become the acquired gender under the Act does not affect the disposal or devolution of property under a will or other instrument made before 4 April 2005.
-```
+> [!statute] s 15 Gender Recognition Act 2004
+> The fact that a person’s gender has become the acquired gender under the Act does not affect the disposal or devolution of property under a will or other instrument made before 4 April 2005.
 
 But it will do if the will is made after that date. s 18 GRA 2004: where the disposition or evolution of any property under a will or other instrument (made on or after the appointed day) is different from what it would be but for the fact that a person’s gender has become the acquired gender under the Act, an application may be made to the High Court where expectations have been defeated.
 
@@ -772,10 +732,8 @@ The intestacy rules impose a trust over all the property (real and personal) in 
 
 A spouse is the person to whom the deceased was married at their death, whether or not they were living together. Civil partners are treated in the same way as spouses. Former spouses excluded.
 
-```ad-defn
-title: Issue
-Includes all direct descendants, as well as adopted children and remoter descendants. Step children not included. 
-```
+> [!defn] Issue
+> Includes all direct descendants, as well as adopted children and remoter descendants. Step children not included. 
 
 #### Entitlement
 
@@ -1066,9 +1024,8 @@ Where there is tax to pay on delivery of an IHT400, the PRs must arrange for the
 - Obtaining a grant on credit
 	- The grant of probate can be obtained on credit in exceptional circumstances where PRs can demonstrate that it is impossible to pay IHT in advance.
 
-```ad-conduct
-An undertaking should be limiited to "such proceeds as come into the solicitor's control".
-```
+> [!conduct]
+> An undertaking should be limiited to "such proceeds as come into the solicitor's control".
 
 ## Excepted Estates
 
@@ -1088,30 +1045,24 @@ There are 3 categories of excepted estates.
 | Category 2 - 'exempt' estates        | Estates where the bulk of the estate attracts the spouse/ civil partner or charity exemption. The gross value of the estate + specified transfers must not exceed £3 million. Net chargeable estate after deduction of liabilities and exemptions must not exceed nil rate threshold. |
 | Category 3 - 'non-domiciled' estates | Where the deceased was never domiciled or treated as domiciled in the UK, and owned only limited assets in the UK.                                                                                                                                                                                                                                                                                      |
 
-```ad-defn
-title: Specified transfers
-Chargeable transfers of cash, personal chattels, tangible moveable property, quoted shares, or an interest in land, made in the 7 years before death. When valuing specified transfers, business and agricultural property relief is ignored. 
-```
+> [!defn] Specified transfers
+> Chargeable transfers of cash, personal chattels, tangible moveable property, quoted shares, or an interest in land, made in the 7 years before death. When valuing specified transfers, business and agricultural property relief is ignored. 
 
-```ad-defn
-title: Specified exempt transfers
-Transfers of value made in 7 years before death which fall under one of the exceptions:
-- s 18 (transfers between spouses (or civil partners));
-- s 23 (gifts to charities);
-- s 24 (gifts to political parties);
-- s 24A (gifts to housing associations);
-- s 27 (maintenance funds for historic buildings, etc); or
-- s 28 (employee trusts).
-```
+> [!defn] Specified exempt transfers
+> Transfers of value made in 7 years before death which fall under one of the exceptions:
+> - s 18 (transfers between spouses (or civil partners));
+> - s 23 (gifts to charities);
+> - s 24 (gifts to political parties);
+> - s 24A (gifts to housing associations);
+> - s 27 (maintenance funds for historic buildings, etc); or
+> - s 28 (employee trusts).
 
 ### Procedure
 
 On the application of grant, PRs provide details of the deceased, the value of their estate and details of any nil rate band.
 
-```ad-defn
-title: Estate
-For this purpose, estate means the total of the death estate + specified transfers + specified exempt transfers made $\leq 7$ years before death.
-```
+> [!defn] Estate
+> For this purpose, estate means the total of the death estate + specified transfers + specified exempt transfers made $\leq 7$ years before death.
 
 HMRC will select a random sample to review within 60 days of the application for grant.
 
@@ -1230,18 +1181,16 @@ Completed whenever there is a will, and irrespective of whether the grant sought
 
 Completed where the deceased died without a valid will.
 
-```ad-statute
-title: r 22 NCPR 1987
-(1) Where the deceased died on or after 1 January 1926, wholly intestate, the person or persons having a beneficial interest in the estate shall be entitled to a grant of administration in the following classes in order of priority, namely—
-- (a) the surviving husband or wife;
-- (b) the children of the deceased and the issue of any deceased child who died before the deceased;
-- (c) the father and mother of the deceased;
-- (d) brothers and sisters of the whole blood and the issue of any deceased brother or sister of the whole blood who died before the deceased;
-- (e) brothers and sisters of the half blood and the issue of any deceased brother or sister of the half blood who died before the deceased;
-- (f) grandparents;
-- (g) uncles and aunts of the whole blood and the issue of any deceased uncle or aunt of the whole blood who died before the deceased;
-- (h) uncles and aunts of the half blood and the issue of any deceased uncle or aunt of the half blood who died before the deceased.
-```
+> [!statute] r 22 NCPR 1987
+> (1) Where the deceased died on or after 1 January 1926, wholly intestate, the person or persons having a beneficial interest in the estate shall be entitled to a grant of administration in the following classes in order of priority, namely—
+> - (a) the surviving husband or wife;
+> - (b) the children of the deceased and the issue of any deceased child who died before the deceased;
+> - (c) the father and mother of the deceased;
+> - (d) brothers and sisters of the whole blood and the issue of any deceased brother or sister of the whole blood who died before the deceased;
+> - (e) brothers and sisters of the half blood and the issue of any deceased brother or sister of the half blood who died before the deceased;
+> - (f) grandparents;
+> - (g) uncles and aunts of the whole blood and the issue of any deceased uncle or aunt of the whole blood who died before the deceased;
+> - (h) uncles and aunts of the half blood and the issue of any deceased uncle or aunt of the half blood who died before the deceased.
 
 ### Clearing Off
 
@@ -1293,25 +1242,23 @@ If a person entitled to be the PR (either as the executor under a will, or by vi
 The office of executor is personal to the executor appointed by the testator in their will.  
 Because it is an office of personal trust an executor cannot assign that office (although they can appoint an attorney).
 
-```ad-statute
-title: s 7 AEA 1925
-(1) An executor of a sole or last surviving executor of a testator is the executor of that testator.
-
-This provision shall not apply to an executor who does not prove the will of his testator, and, in the case of an executor who on his death leaves surviving him some other executor of his testator who afterwards proves the will of that testator, it shall cease to apply on such probate being granted.
-
-(2) So long as the chain of such representation is unbroken, the last executor in the chain is the executor of every preceding testator.
-
-(3) The chain of such representation is broken by—
-- (a) an intestacy; or
-- (b) the failure of a testator to appoint an executor; or
-- (c) the failure to obtain probate of a will;
-
-but is not broken by a temporary grant of administration if probate is subsequently granted.
-
-(4) Every person in the chain of representation to a testator—
-- (a) has the same rights in respect of the real and personal estate of that testator as the original executor would have had if living; and
-- (b) is, to the extent to which the estate whether real or personal of that testator has come to his hands, answerable as if he were an original executor.
-```
+> [!statute] s 7 AEA 1925
+> (1) An executor of a sole or last surviving executor of a testator is the executor of that testator.
+> 
+> This provision shall not apply to an executor who does not prove the will of his testator, and, in the case of an executor who on his death leaves surviving him some other executor of his testator who afterwards proves the will of that testator, it shall cease to apply on such probate being granted.
+> 
+> (2) So long as the chain of such representation is unbroken, the last executor in the chain is the executor of every preceding testator.
+> 
+> (3) The chain of such representation is broken by—
+> - (a) an intestacy; or
+> - (b) the failure of a testator to appoint an executor; or
+> - (c) the failure to obtain probate of a will;
+> 
+> but is not broken by a temporary grant of administration if probate is subsequently granted.
+> 
+> (4) Every person in the chain of representation to a testator—
+> - (a) has the same rights in respect of the real and personal estate of that testator as the original executor would have had if living; and
+> - (b) is, to the extent to which the estate whether real or personal of that testator has come to his hands, answerable as if he were an original executor.
 
 ### Grant *de Bonis Non administratis*
 
@@ -1366,17 +1313,13 @@ But PR holds office for life, so must deal with further assets and liabilities i
 
 ## PR Duties
 
-```ad-statute
-title: s 25, Administration of Estates Act 1925
-The personal representative of a deceased person shall be under a duty to collect and get in the real and personal estate of the deceased and administer it according to law.
-```
+> [!statute] s 25, Administration of Estates Act 1925
+> The personal representative of a deceased person shall be under a duty to collect and get in the real and personal estate of the deceased and administer it according to law.
 
 PR **personally liable** for losses to the estate resulting from any breach of duty they commit.
 
-```ad-statute
-title: s 61 Trustee Act 1925 - Power to relieve trustee from personal liability.
-If it appears to the court that a trustee, whether appointed by the court or otherwise, is or may be personally liable for any breach of trust, whether the transaction alleged to be a breach of trust occurred before or after the commencement of this Act, but has acted honestly and reasonably, and ought fairly to be excused for the breach of trust and for omitting to obtain the directions of the court in the matter in which he committed such breach, then the court may relieve him either wholly or partly from personal liability for the same. 
-```
+> [!statute] s 61 Trustee Act 1925 - Power to relieve trustee from personal liability.
+> If it appears to the court that a trustee, whether appointed by the court or otherwise, is or may be personally liable for any breach of trust, whether the transaction alleged to be a breach of trust occurred before or after the commencement of this Act, but has acted honestly and reasonably, and ought fairly to be excused for the breach of trust and for omitting to obtain the directions of the court in the matter in which he committed such breach, then the court may relieve him either wholly or partly from personal liability for the same. 
 
 There may be a clause in the will providing protection from liability for mistakes made in good faith.
 
@@ -1455,30 +1398,28 @@ Note that the provisions of s 31 TA 1925 may be excluded or varied by a trust in
 
 #### Power of Maintenance
 
-```ad-statute
-title: s 31 TA 1925 -  Power to apply income for maintenance and to accumulate surplus income during a minority.
-
-(1) Where any property is held by trustees in trust for any person for any interest whatsoever, whether vested or contingent, then, subject to any prior interests or charges affecting that property—
-- (i) during the infancy of any such person, if his interest so long continues, the trustees may, at their sole discretion, pay to his parent or guardian, if any, or otherwise apply for or towards his maintenance, education, or benefit, the whole or such part, if any, of the income of that property as the trustees may think fit, whether or not there is—
-	- (a) any other fund applicable to the same purpose; or
-	- (b) any person bound by law to provide for his maintenance or education; and
-- (ii) if such person on attaining the age of eighteen years has not a vested interest in such income, the trustees shall thenceforth pay the income of that property and of any accretion thereto under subsection (2) of this section to him, until he either attains a vested interest therein or dies, or until failure of his interest:
-
-(2) During the infancy of any such person, if his interest so long continues, the trustees shall accumulate all the residue of that income by investing it, and any profits from so investing it from time to time in authorised investments, and shall hold those accumulations as follows:—
-- (i) If any such person—
-	- (a) attains the age of eighteen years, or marries under that age or forms a civil partnership under that age, and his interest in such income during his infancy, or until his marriage or his formation of a civil partnership, is a vested interest or;
-	- (b) on attaining the age of eighteen years or on marriage, or formation of a civil partnership, under that age becomes entitled to the property from which such income arose in fee simple, absolute or determinable, or absolutely, or for an entailed interest;
-- the trustees shall hold the accumulations in trust for such person absolutely, but without prejudice to any provision with respect thereto contained in any settlement by him made under any statutory powers during his infancy, and so that the receipt of such person after marriage or formation of a civil partnership, and though still an infant shall be a good discharge, and
-- (ii) In any other case the trustees shall, notwithstanding that such person had a vested interest in such income, hold the accumulations as an accretion to the capital of the property from which such accumulations arose, and as one fund with such capital for all purposes, and so that, if such property is settled land, such accumulations shall be held upon the same trusts as if the same were capital money arising therefrom;
-
-but the trustees may, at any time during the infancy of such person if his interest so long continues, apply those accumulations, or any part thereof, as if they were income arising in the then current year.
-
-(3) This section applies in the case of a contingent interest only if the limitation or trust carries the intermediate income of the property, but it applies to a future or contingent legacy by the parent of, or a person standing in loco parentis to, the legatee, if and for such period as, under the general law, the legacy carries interest for the maintenance of the legatee, and in any such case as last aforesaid the rate of interest shall (if the income available is sufficient, and subject to any rules of court to the contrary) be five pounds per centum per annum.
-
-(4) This section applies to a vested annuity in like manner as if the annuity were the income of property held by trustees in trust to pay the income thereof to the annuitant for the same period for which the annuity is payable, save that in any case accumulations made during the infancy of the annuitant shall be held in trust for the annuitant or his personal representatives absolutely.
-
-(5) This section does not apply where the instrument, if any, under which the interest arises came into operation before the commencement of this Act.
-```
+> [!statute] s 31 TA 1925 -  Power to apply income for maintenance and to accumulate surplus income during a minority.
+> 
+> (1) Where any property is held by trustees in trust for any person for any interest whatsoever, whether vested or contingent, then, subject to any prior interests or charges affecting that property—
+> - (i) during the infancy of any such person, if his interest so long continues, the trustees may, at their sole discretion, pay to his parent or guardian, if any, or otherwise apply for or towards his maintenance, education, or benefit, the whole or such part, if any, of the income of that property as the trustees may think fit, whether or not there is—
+> 	- (a) any other fund applicable to the same purpose; or
+> 	- (b) any person bound by law to provide for his maintenance or education; and
+> - (ii) if such person on attaining the age of eighteen years has not a vested interest in such income, the trustees shall thenceforth pay the income of that property and of any accretion thereto under subsection (2) of this section to him, until he either attains a vested interest therein or dies, or until failure of his interest:
+> 
+> (2) During the infancy of any such person, if his interest so long continues, the trustees shall accumulate all the residue of that income by investing it, and any profits from so investing it from time to time in authorised investments, and shall hold those accumulations as follows:—
+> - (i) If any such person—
+> 	- (a) attains the age of eighteen years, or marries under that age or forms a civil partnership under that age, and his interest in such income during his infancy, or until his marriage or his formation of a civil partnership, is a vested interest or;
+> 	- (b) on attaining the age of eighteen years or on marriage, or formation of a civil partnership, under that age becomes entitled to the property from which such income arose in fee simple, absolute or determinable, or absolutely, or for an entailed interest;
+> - the trustees shall hold the accumulations in trust for such person absolutely, but without prejudice to any provision with respect thereto contained in any settlement by him made under any statutory powers during his infancy, and so that the receipt of such person after marriage or formation of a civil partnership, and though still an infant shall be a good discharge, and
+> - (ii) In any other case the trustees shall, notwithstanding that such person had a vested interest in such income, hold the accumulations as an accretion to the capital of the property from which such accumulations arose, and as one fund with such capital for all purposes, and so that, if such property is settled land, such accumulations shall be held upon the same trusts as if the same were capital money arising therefrom;
+> 
+> but the trustees may, at any time during the infancy of such person if his interest so long continues, apply those accumulations, or any part thereof, as if they were income arising in the then current year.
+> 
+> (3) This section applies in the case of a contingent interest only if the limitation or trust carries the intermediate income of the property, but it applies to a future or contingent legacy by the parent of, or a person standing in loco parentis to, the legatee, if and for such period as, under the general law, the legacy carries interest for the maintenance of the legatee, and in any such case as last aforesaid the rate of interest shall (if the income available is sufficient, and subject to any rules of court to the contrary) be five pounds per centum per annum.
+> 
+> (4) This section applies to a vested annuity in like manner as if the annuity were the income of property held by trustees in trust to pay the income thereof to the annuitant for the same period for which the annuity is payable, save that in any case accumulations made during the infancy of the annuitant shall be held in trust for the annuitant or his personal representatives absolutely.
+> 
+> (5) This section does not apply where the instrument, if any, under which the interest arises came into operation before the commencement of this Act.
 
 Where a minor has a vested interest in trust property (or a contingent interest which carries the intermediate income), the trustees have a wide statutory power under [s 31 TA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/19/section/31) to pay the income as they think fit. The trustees may:
 
@@ -1501,36 +1442,33 @@ Because the power of maintenance only applies during the minority of a beneficia
 
 If it is not exercised at this time, all accumulated income will become part of the trust capital and the beneficiary will not be able to access it until their interest in the capital vests.
 
-```ad-example
-A testator leaves an estate on trust for A (26), B (19) and C (16) in equal shares upon their reaching 25.
-
-A has reached the age of 25 so their share has vested in possession and should be distributed.
-
-B’s share has vested in interest. Until B reaches 25, the income generated by B’s share must be paid to B. (Note that B has _Saunders v Vautier_ rights so could choose to collapse their share before this).
-
-C is a minor and until C reaches the age of 18 the trustees have the power (but not the obligation) to pay income to C’s parent or guardian (or otherwise apply it for C’s maintenance, education and benefit e.g., by paying school fees directly to the school). Income not used is accumulated.
-```
+> [!example]
+> A testator leaves an estate on trust for A (26), B (19) and C (16) in equal shares upon their reaching 25.
+> 
+> A has reached the age of 25 so their share has vested in possession and should be distributed.
+> 
+> B’s share has vested in interest. Until B reaches 25, the income generated by B’s share must be paid to B. (Note that B has _Saunders v Vautier_ rights so could choose to collapse their share before this).
+> 
+> C is a minor and until C reaches the age of 18 the trustees have the power (but not the obligation) to pay income to C’s parent or guardian (or otherwise apply it for C’s maintenance, education and benefit e.g., by paying school fees directly to the school). Income not used is accumulated.
 
 S 31 is commonly expressly amended to defer a beneficiary's right to income, meaning they become entitled to both income and capital at the same time.
 
 #### Power to Advance Capital
 
-```ad-statute
-title: s 32 TA 1925 - Power of advancement
-
-(1) Trustees may at any time or times pay or apply any capital money subject to a trust, or transfer or apply any other property forming part of the capital of the trust property, for the advancement or benefit, in such manner as they may, in their absolute discretion, think fit, of any person entitled to the capital of the trust property or of any share thereof, whether absolutely or contingently on his attaining any specified age or on the occurrence of any other event, or subject to a gift over on his death under any specified age or on the occurrence of any other event, and whether in possession or in remainder or reversion, and such payment, transfer or application may be made notwithstanding that the interest of such person is liable to be defeated by the exercise of a power of appointment or revocation, or to be diminished by the increase of the class to which he belongs:
-
-Provided that—
-
-- (a) property (including any money) so paid, transferred or applied for the advancement or benefit of any person must not, altogether, represent more than the presumptive or vested share or interest of that person in the trust property; and
-- (b) if that person is or becomes absolutely and indefeasibly entitled to a share in the trust property the money or other property so paid, transferred or applied shall be brought into account as part of such share; and
-- (c) no such payment, transfer or application shall be made so as to prejudice any person entitled to any prior life or other interest, whether vested or contingent, in the money or other property paid, transferred or applied unless such person is in existence and of full age and consents in writing to such payment or application.
-- (1A) In exercise of the foregoing power trustees may pay, transfer or apply money or other property on the basis (express or implied) that it shall be treated as a proportionate part of the capital out of which it was paid, transferred or applied, for the purpose of bringing it into account in accordance with proviso (b) to subsection (1) of this section.
-
-(2) This section does not apply to capital money arising under the M1 Settled Land Act 1925.
-
-(3) This section does not apply to trusts constituted or created before the commencement of this Act.
-```
+> [!statute] s 32 TA 1925 - Power of advancement
+> 
+> (1) Trustees may at any time or times pay or apply any capital money subject to a trust, or transfer or apply any other property forming part of the capital of the trust property, for the advancement or benefit, in such manner as they may, in their absolute discretion, think fit, of any person entitled to the capital of the trust property or of any share thereof, whether absolutely or contingently on his attaining any specified age or on the occurrence of any other event, or subject to a gift over on his death under any specified age or on the occurrence of any other event, and whether in possession or in remainder or reversion, and such payment, transfer or application may be made notwithstanding that the interest of such person is liable to be defeated by the exercise of a power of appointment or revocation, or to be diminished by the increase of the class to which he belongs:
+> 
+> Provided that—
+> 
+> - (a) property (including any money) so paid, transferred or applied for the advancement or benefit of any person must not, altogether, represent more than the presumptive or vested share or interest of that person in the trust property; and
+> - (b) if that person is or becomes absolutely and indefeasibly entitled to a share in the trust property the money or other property so paid, transferred or applied shall be brought into account as part of such share; and
+> - (c) no such payment, transfer or application shall be made so as to prejudice any person entitled to any prior life or other interest, whether vested or contingent, in the money or other property paid, transferred or applied unless such person is in existence and of full age and consents in writing to such payment or application.
+> - (1A) In exercise of the foregoing power trustees may pay, transfer or apply money or other property on the basis (express or implied) that it shall be treated as a proportionate part of the capital out of which it was paid, transferred or applied, for the purpose of bringing it into account in accordance with proviso (b) to subsection (1) of this section.
+> 
+> (2) This section does not apply to capital money arising under the M1 Settled Land Act 1925.
+> 
+> (3) This section does not apply to trusts constituted or created before the commencement of this Act.
 
 A beneficiary who expects to receive capital from a trust at a future date may wish to receive their capital before it vests in possession.
 
@@ -1573,15 +1511,14 @@ Any such payment must be brought into account when the beneficiary becomes absol
 
 Trustees have a choice between treating the share advanced as a **proportionate share of the overall trust value or its strict monetary value**. The choice they make could have significant consequences for both the beneficiary who receives the advancement and all the other beneficiaries. This is best illustrated by way of example.
 
-```ad-example
-Trustees hold a trust fund worth £20,000 on trust for A, B, C and D in equal shares when they reach 18. The trustees exercise the power of advancement to pay £5,000 to A. The trustees must choose whether this is to be treated as A's proportionate share of the fund. This could make a significant difference to A as £5,000 would amount to 100% of A's share in the trust fund at the date it was paid.
-
-If the £5,000 is treated as A’s proportionate share, A will no longer be entitled to anything from the trust fund, regardless of how much the fund is worth when A reaches 18.
-
-For example, if the fund grows to £25,000 this will be shared equally between B, C and D (£8,333 each).
-
-If the £5,000 is not treated as A’s proportionate share, the trustees will take A’s payment into account before making their distributions, bringing the total trust value to £30,000. That is then shared equally between all four beneficiaries. B,C and D each receive £7,500. A has already had £5,000 so is entitled to an additional £2,500.
-```
+> [!example]
+> Trustees hold a trust fund worth £20,000 on trust for A, B, C and D in equal shares when they reach 18. The trustees exercise the power of advancement to pay £5,000 to A. The trustees must choose whether this is to be treated as A's proportionate share of the fund. This could make a significant difference to A as £5,000 would amount to 100% of A's share in the trust fund at the date it was paid.
+> 
+> If the £5,000 is treated as A’s proportionate share, A will no longer be entitled to anything from the trust fund, regardless of how much the fund is worth when A reaches 18.
+> 
+> For example, if the fund grows to £25,000 this will be shared equally between B, C and D (£8,333 each).
+> 
+> If the £5,000 is not treated as A’s proportionate share, the trustees will take A’s payment into account before making their distributions, bringing the total trust value to £30,000. That is then shared equally between all four beneficiaries. B,C and D each receive £7,500. A has already had £5,000 so is entitled to an additional £2,500.
 
 > [!summary]
 > - Adult beneficiaries with vested interests in trust property will usually have a right to receive the trust income as it arises. Those with contingent interests will only have a right to income if their interest ‘carries the intermediate income’.
@@ -1631,10 +1568,8 @@ These are expenses incident to the proper performance of the duties of a PR. Inc
 
 The statutory order for payment of debts is set out in AEA 1925, Sch 1, Part II (s 34(3) AEA 1925).
 
-```ad-test
-title: General rule
-When choosing assets to pay funeral/ testamentary expenses and debts, assets forming part of the reside are to be used before property given to specific legatees. 
-```
+> [!test] General rule
+> When choosing assets to pay funeral/ testamentary expenses and debts, assets forming part of the reside are to be used before property given to specific legatees. 
 
 #### Subject to
 
@@ -1645,9 +1580,8 @@ The above order is subject to:
 
 ### Insolvent Estate
 
-```ad-defn
-An estate is insolvent if the assets are insufficient to discharge in full the funeral, testamentary and administration expenses, debts and liabilities.
-```
+> [!defn]
+> An estate is insolvent if the assets are insufficient to discharge in full the funeral, testamentary and administration expenses, debts and liabilities.
 
 In doubtful cases, PRs should administer the estate as if it is insolvent. For an insolvent estate being administered out of court, follow the order of distribution in Administration of Insolvent Estates of Deceased Persons Order 1986.
 
@@ -1696,9 +1630,8 @@ The amount of IHT payable may have to be adjusted since the IHT account was subm
 
 PRs often force to sell assets to raise cash to pay for debts, tax liabilities or legacies. If PRs end up selling assets for less than their value at the date of death, they can claim loss on sale relief.
 
-```ad-important
-Where ‘qualifying investments’ are sold within 12 months of death for less than their market value at the date of death (ie ‘probate value’) then the sale price may be substituted for the market value at death and the IHT liability adjusted accordingly (IHTA 1984, ss 178–189).
-```
+> [!important]
+> Where ‘qualifying investments’ are sold within 12 months of death for less than their market value at the date of death (ie ‘probate value’) then the sale price may be substituted for the market value at death and the IHT liability adjusted accordingly (IHTA 1984, ss 178–189).
 
 - ‘Qualifying investments’ are shares or securities which are quoted on a recognised stock exchange at the date of death, and also holdings in authorised unit trusts.
 - Relief is not automatic; must be claimed.
@@ -1744,9 +1677,8 @@ HMRC must apply for a clearance certificate using form IHT30. They will reply wi
 
 #### Deceased's Liability
 
-```ad-action
-Immediately following the death, the PRs must make a return to HMRC of the income and capital gains of the deceased for the period starting on 6 April before the death and ending with the date of death.
-```
+> [!action]
+> Immediately following the death, the PRs must make a return to HMRC of the income and capital gains of the deceased for the period starting on 6 April before the death and ending with the date of death.
 
 - Any liability to tax is a debt of the deceased, to be paid by PRs during administration.
 - Any tax refund represents an asset.
@@ -1759,13 +1691,11 @@ For each income tax year (or part) during the administration period, the PRs mus
 
 PRs can make a **one-off informal payment** of all income tax and CGT at the end of administration, unless the estate is classified as a complex estate.
 
-```ad-defn
-title: Complex estate
-An estate is considered complex if either: 
-1. the value of the estate exceeds £2.5 million; or 
-2. tax due for the whole of the administration period exceeds £10,000; or 
-3. the value of assets sold in a tax year exceeds £500,000.
-```
+> [!defn] Complex estate
+> An estate is considered complex if either: 
+> 1. the value of the estate exceeds £2.5 million; or 
+> 2. tax due for the whole of the administration period exceeds £10,000; or 
+> 3. the value of assets sold in a tax year exceeds £500,000.
 
 ##### Exception
 
@@ -1845,16 +1775,13 @@ Company shares are transferred y share transfer form, unless held by a nominee c
 
 Personal representatives vest the legal estate in land in the person entitled (whether beneficially or as trustee) by means of an assent, which will then become a document of title to the legal estate.
 
-```ad-tip
-If PRs continue to hold the property in their changed capacity as trustees, PRs should 'assent' to this to formally vest the legal estate in themselves as trustees. 
-```
+> [!tip]
+> If PRs continue to hold the property in their changed capacity as trustees, PRs should 'assent' to this to formally vest the legal estate in themselves as trustees. 
 
 #### Assent Formalities
 
-```ad-statute
-title: s 36(4) AEA 1925
-An assent to the vesting of a legal estate shall be in writing, signed by the personal representative, and shall name the person in whose favour it is given and shall operate to vest in that person the legal estate to which it relates; and an assent not in writing or not in favour of a named person shall not be effectual to pass a legal estate.
-```
+> [!statute] s 36(4) AEA 1925
+> An assent to the vesting of a legal estate shall be in writing, signed by the personal representative, and shall name the person in whose favour it is given and shall operate to vest in that person the legal estate to which it relates; and an assent not in writing or not in favour of a named person shall not be effectual to pass a legal estate.
 
 The Land Registration Rules 2003 specify the form of an assent further.
 

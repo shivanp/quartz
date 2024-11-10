@@ -104,11 +104,10 @@ If the title is not registered within two months of any of the above events, the
 
 #### Practical Point
 
-```ad-warning
-When buying unregistered land, it is therefore always necessary to check whether the title should already have been registered.
-
-If it is discovered that the land should have been registered after some earlier disposition but has not been, the seller **must** be required to register the title before the transaction.
-```
+> [!warning]
+> When buying unregistered land, it is therefore always necessary to check whether the title should already have been registered.
+> 
+> If it is discovered that the land should have been registered after some earlier disposition but has not been, the seller **must** be required to register the title before the transaction.
 
 ## Principles of Registration
 
@@ -132,9 +131,8 @@ The register should be a clear and comprehensive account of the ownership and ri
 
 The transparent simplicity of the mirror principle for recording third party interests against an estate has never been fully realised due to the existence of overriding interests.
 
-```ad-defn
-An **overriding interest** is an interest that does not appear on the register but will still be binding on the owner of the legal estate and any buyer of it. Their full title under the LRA 2002 is _'unregistered interests which override registered dispositions_’.
-```
+> [!defn]
+> An **overriding interest** is an interest that does not appear on the register but will still be binding on the owner of the legal estate and any buyer of it. Their full title under the LRA 2002 is _'unregistered interests which override registered dispositions_’.
 
 Overriding interests have attracted criticism since the system of land registration was first established in 1925. They are, nevertheless, retained by the LRA 2002, although their number has been vastly reduced.
 
@@ -154,18 +152,16 @@ This principle simplified land conveyancing, making the process of investigating
 
 This is one of the advantages of registered land over unregistered land. If there is an error with the register, it will be corrected and anyone who has suffered any loss will be compensated ([s 23 LRA 2002](https://www.legislation.gov.uk/ukpga/2002/9/section/23)). You often see the compensation referred to as 'state indemnity'.
 
-```ad-note
-Prior to 13 October 2003, a copy of the entries on the register was issued to the registered
-proprietor in the form of a land certificate. If there was a mortgage over the land, a charge
-certificate in similar form, but having the original mortgage deed attached, was issued instead to the lender, the land certificate being retained in the Registry. Land and charge certificates were abolished as from 13 October 2003 and existing certificates are no longer required on a subsequent registration. Land Registry now issues a Title Information Document (TID) to a registered proprietor, which contains a copy of the entries on the register. It is not admissible as evidence of ownership, though, and does not need to be produced on a subsequent
-disposition of the land.
-```
+> [!note]
+> Prior to 13 October 2003, a copy of the entries on the register was issued to the registered
+> proprietor in the form of a land certificate. If there was a mortgage over the land, a charge
+> certificate in similar form, but having the original mortgage deed attached, was issued instead to the lender, the land certificate being retained in the Registry. Land and charge certificates were abolished as from 13 October 2003 and existing certificates are no longer required on a subsequent registration. Land Registry now issues a Title Information Document (TID) to a registered proprietor, which contains a copy of the entries on the register. It is not admissible as evidence of ownership, though, and does not need to be produced on a subsequent
+> disposition of the land.
 
 ## Registered Title
 
-```ad-defn
-The Land Registry registered title documents are known as the **Official Copy.**
-```
+> [!defn]
+> The Land Registry registered title documents are known as the **Official Copy.**
 
 When a piece of land is registered for the first time, it is given a unique title number and the details of the landowner and rights that benefit/burden a piece of land are recorded.
 
@@ -204,14 +200,12 @@ Specifically, subject to:
 3. where the proprietor is a trustee, minor interests (third-party rights) of which he has notice, for example the interests of the beneficiaries under the trust; and
 4. where the land is leasehold, the express and implied covenants and obligations under the lease.
 
-```ad-danger
-title: Absolute title $\neq$ perfect title
-1. s 9(3) LRA 2002: Registrar has a discretion to overlook minor defects in the title and to grant an absolute title, so curing the defect.
-2. The State guarantee takes effect subject to entries on the register which might make the land totally unsuitable for a client’s needs.
-3. Land Registry often makes ‘non-guaranteed’ entries on an absolute title. 
-	- The register might state that a particular deed ‘is expressed’ to have some effect. 
-	- This means that Land Registry does not guarantee that it does have that effect.
-```
+> [!danger] Absolute title $\neq$ perfect title
+> 1. s 9(3) LRA 2002: Registrar has a discretion to overlook minor defects in the title and to grant an absolute title, so curing the defect.
+> 2. The State guarantee takes effect subject to entries on the register which might make the land totally unsuitable for a client’s needs.
+> 3. Land Registry often makes ‘non-guaranteed’ entries on an absolute title. 
+> 	- The register might state that a particular deed ‘is expressed’ to have some effect. 
+> 	- This means that Land Registry does not guarantee that it does have that effect.
 
 #### Possessory Title
 
@@ -225,9 +219,8 @@ title: Absolute title $\neq$ perfect title
 - The registration has the same effect as registration with an absolute title, except that the **State’s guarantee of the title does not apply to the specified defect.**
 - Can be given to a freehold or leasehold.
 
-```ad-example
-The title submitted for first registration showed that a transaction within the title had been carried out in breach of trust. In this situation, the proprietor would take his interest in the land subject to the interests (if any) of the beneficiaries under the trust.
-```
+> [!example]
+> The title submitted for first registration showed that a transaction within the title had been carried out in breach of trust. In this situation, the proprietor would take his interest in the land subject to the interests (if any) of the beneficiaries under the trust.
 
 #### Good Leasehold Title
 
@@ -256,10 +249,8 @@ This contains:
 - Cross-references to superior and inferior titles where appropriate.
 - Where the land is leasehold, brief details of the lease under which the land is held will be given on the property register.
 
-```ad-note
-title: Boundary plan
-Although the right does exist for a landowner to have his boundaries determined by the Land Registry, this right is rarely used and the boundaries shown on the plan supplied by the Registry will give only a general indication of the position of the boundaries. Extraneous vidence (e.g., from pre-registration deeds) may be required to prove the exact position of boundaries.
-```
+> [!note] Boundary plan
+> Although the right does exist for a landowner to have his boundaries determined by the Land Registry, this right is rarely used and the boundaries shown on the plan supplied by the Registry will give only a general indication of the position of the boundaries. Extraneous vidence (e.g., from pre-registration deeds) may be required to prove the exact position of boundaries.
 
 ### Proprietorship Register
 
@@ -296,11 +287,10 @@ With the exception of those deemed by the LRA 2002 to be 'overriding', only inte
 
 Failure to register means the transaction is **not legally recognised (LRA 2002, s 27(1))**.
 
-```ad-example
-- The effect of this is that the buyer of a freehold estate is not recognised as the new legal owner until registration has taken place;
-- The tenant of a lease over 7 years is not recognised as having a legal lease until the lease is registered
-- A legal mortgage is not created until it has been registered at the Land Registry
-```
+> [!example]
+> - The effect of this is that the buyer of a freehold estate is not recognised as the new legal owner until registration has taken place;
+> - The tenant of a lease over 7 years is not recognised as having a legal lease until the lease is registered
+> - A legal mortgage is not created until it has been registered at the Land Registry
 
 This ensures the register is an **accurate reflection of a piece of land** at any one time and kept up to date.
 

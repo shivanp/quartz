@@ -10,9 +10,8 @@ title: Mortgages
 
 ![[mortgages 1_1.jpg]]
 
-```ad-defn
-A mortgage is a bundle of proprietary rights granted to the lender (the mortgagee) as security for a loan.
-```
+> [!defn]
+> A mortgage is a bundle of proprietary rights granted to the lender (the mortgagee) as security for a loan.
 
 ## Legal Mortgages
 
@@ -20,11 +19,9 @@ Per LPA 1925, s 1(2)(c) a mortgage is capable of being a legal interest in land.
 
 ### Deed
 
-```ad-statute
-title: [s 52(1) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/52)
-
-All conveyances of land or of any interest therein are void for the purpose of conveying or creating a legal estate unless made by deed.
-```
+> [!statute] [s 52(1) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/52)
+> 
+> All conveyances of land or of any interest therein are void for the purpose of conveying or creating a legal estate unless made by deed.
 
 To be valid, the deed must comply with the requirements set out in [s 1 LP(MP)A 1989](https://www.legislation.gov.uk/ukpga/1989/34/section/1):
 
@@ -38,15 +35,13 @@ The mortgage deed must then be registered at the Land Registry ([s 27(2)(f) LRA 
 
 Dispositions are required to be registered:
 
-```ad-statute
-title: [s 27 LRA 2002](https://www.legislation.gov.uk/ukpga/2002/9/section/27)
-
-(1) If a disposition of a registered estate or registered charge is required to be completed by registration, it does not operate at law until the relevant registration requirements are met.
-
-(2) In the case of a registered estate, the following are the dispositions which are required to be completed by registration—…
-
-(f) the grant of a legal charge
-```
+> [!statute] [s 27 LRA 2002](https://www.legislation.gov.uk/ukpga/2002/9/section/27)
+> 
+> (1) If a disposition of a registered estate or registered charge is required to be completed by registration, it does not operate at law until the relevant registration requirements are met.
+> 
+> (2) In the case of a registered estate, the following are the dispositions which are required to be completed by registration—…
+> 
+> (f) the grant of a legal charge
 
 ## Legal Vs Equitable
 
@@ -162,9 +157,8 @@ The solicitor must:
 - keep a detailed attendance note and confirm everything in writing
 - send certificate to Bank.
 
-```ad-warning
-The House of Lords in Etridge said these steps should be taken in every non-commercial case where a private individual offers his property as security for another person's debts.
-```
+> [!warning]
+> The House of Lords in Etridge said these steps should be taken in every non-commercial case where a private individual offers his property as security for another person's debts.
 
 ## Priority of Mortgages Over Registered Land
 
@@ -203,25 +197,24 @@ If protected by the entry of a notice, an equitable mortgage over registered lan
 
 However, an equitable mortgage not protected by a notice, will not take priority (i.e., lose its priority) to a subsequent registrable disposition of either a registered estate or a registered charge ([LRA 2002, s 29(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/29)). (i.e., a transfer of the legal estate for value or the grant of a legal mortgage)
 
-```ad-example
-A borrower grants a mortgage to Lender A. Although the mortgage is granted by a valid deed, Lender A fails to register the mortgage at the Land Registry – it is a **defective legal mortgage**. However, because it is in writing, signed by both the borrower and Lender A and contains the agreed mortgage term, the mortgages take effect an **equitable mortgage**.
-
-The borrower subsequently enters into a second mortgage with Lender B. The mortgage is granted by valid deed, which Lender B registers. The mortgage therefore takes effect as **a valid legal mortgage**.
-
-As a **registrable disposition of a legal charge over a registered estate**, the legal mortgage in favour of Lender B will rank ahead of the equitable mortgage in favour of Lender A.
-
-The borrower then enters into a further mortgage with Lender C. Although the borrower and Lender C enter into a document labelled as a deed, the borrower’s signature is not witnessed. There is no valid execution and the **legal mortgage is defective**. As the document is in writing, contains all the agreed terms and is signed by the borrower and Lender C, there is an **equitable mortgage**, which Lender C proceeds to **note on the charges register** of the borrower’s registered title.
-
-If the borrower defaults in their mortgage repayments and the land has to be sold, who then gets paid first? Which mortgage ranks in priority?
-
-Lender A has an equitable mortgage which was created first, but not protected. Lender B has a legal mortgage. Lender C has an equitable mortgage which has been duly protected.
-
-Lender B will get paid first. It take priority of Lender A’s equitable mortgage because the equitable mortgage was not protected by notice at the Land Registry.
-
-Lender A will then get paid second because Lender A and C both have equitable mortgages and as between competing equitable mortgages, the order of creation determines priority.
-
-The fact Lender C protected its equitable mortgage by the entry of a notice, does not affect priority here. However, if a subsequent legal mortgage were entered into by the borrower, Lender C would take priority over this because it has protected its interest.
-```
+> [!example]
+> A borrower grants a mortgage to Lender A. Although the mortgage is granted by a valid deed, Lender A fails to register the mortgage at the Land Registry – it is a **defective legal mortgage**. However, because it is in writing, signed by both the borrower and Lender A and contains the agreed mortgage term, the mortgages take effect an **equitable mortgage**.
+> 
+> The borrower subsequently enters into a second mortgage with Lender B. The mortgage is granted by valid deed, which Lender B registers. The mortgage therefore takes effect as **a valid legal mortgage**.
+> 
+> As a **registrable disposition of a legal charge over a registered estate**, the legal mortgage in favour of Lender B will rank ahead of the equitable mortgage in favour of Lender A.
+> 
+> The borrower then enters into a further mortgage with Lender C. Although the borrower and Lender C enter into a document labelled as a deed, the borrower’s signature is not witnessed. There is no valid execution and the **legal mortgage is defective**. As the document is in writing, contains all the agreed terms and is signed by the borrower and Lender C, there is an **equitable mortgage**, which Lender C proceeds to **note on the charges register** of the borrower’s registered title.
+> 
+> If the borrower defaults in their mortgage repayments and the land has to be sold, who then gets paid first? Which mortgage ranks in priority?
+> 
+> Lender A has an equitable mortgage which was created first, but not protected. Lender B has a legal mortgage. Lender C has an equitable mortgage which has been duly protected.
+> 
+> Lender B will get paid first. It take priority of Lender A’s equitable mortgage because the equitable mortgage was not protected by notice at the Land Registry.
+> 
+> Lender A will then get paid second because Lender A and C both have equitable mortgages and as between competing equitable mortgages, the order of creation determines priority.
+> 
+> The fact Lender C protected its equitable mortgage by the entry of a notice, does not affect priority here. However, if a subsequent legal mortgage were entered into by the borrower, Lender C would take priority over this because it has protected its interest.
 
 #### Postponement
 
@@ -231,13 +224,12 @@ Lenders can agree to alter the position that would apply according to the priori
 
 Any agreement would need to be **registered** at the Land Registry.
 
-```ad-important
-Mortgagees will also often require an express waiver or postponement to be included in a mortgage agreement so that the rights of any person living at the mortgaged property with the mortgagor are postponed to the interests of the mortgagee.
-
-This is important for the lender to be able to enforce their security and take possession of the mortgaged property in the event of default.
-
-If the lender’s interest in the land does not rank in priority to the interest of a person in occupation (not a party to the mortgage) then the lender would not be able to take possession of the land in order to exercise its power of sale.
-```
+> [!important]
+> Mortgagees will also often require an express waiver or postponement to be included in a mortgage agreement so that the rights of any person living at the mortgaged property with the mortgagor are postponed to the interests of the mortgagee.
+> 
+> This is important for the lender to be able to enforce their security and take possession of the mortgaged property in the event of default.
+> 
+> If the lender’s interest in the land does not rank in priority to the interest of a person in occupation (not a party to the mortgage) then the lender would not be able to take possession of the land in order to exercise its power of sale.
 
 ## Rights of the Lender
 
@@ -334,24 +326,22 @@ Most lenders observe the Protocol. However, if they do not, they can suffer dela
 
 ##### Statutory Jurisdiction to Postpone
 
-```ad-statute
-title: [Administration of Justice Act (AJA) 1970, s 36](https://www.legislation.gov.uk/ukpga/1970/31/section/36)
-
-(1) Where the mortgagee under a mortgage of land which consists of or includes a dwelling-house brings an action in which he claims possession of the mortgaged property, not being an action for foreclosure in which a claim for possession of the mortgaged property is also made, the court may exercise any of the powers conferred on it by subsection (2) below if it appears to the court that in the event of its exercising the power the mortgagor is likely to be able within a reasonable period to pay any sums due under the mortgage or to remedy a default consisting of a breach of any other obligation arising under or by virtue of the mortgage. 
-
-(2) The court—
-
-(a) may adjourn the proceedings, or
-
-(b) on giving judgment, or making an order, for delivery of possession of the mortgaged property, or at any time before the execution of such judgment or order, may—
-
-- (i) stay or suspend execution of the judgment or order, or
-- (ii) postpone the date for delivery of possession,
-
-for such period or periods as the court thinks reasonable. 
-
-(3) Any such adjournment, stay, suspension or postponement as is referred to in subsection (2) above may be made subject to such conditions with regard to payment by the mortgagor of any sum secured by the mortgage or the remedying of any default as the court thinks fit.
-```
+> [!statute] [Administration of Justice Act (AJA) 1970, s 36](https://www.legislation.gov.uk/ukpga/1970/31/section/36)
+> 
+> (1) Where the mortgagee under a mortgage of land which consists of or includes a dwelling-house brings an action in which he claims possession of the mortgaged property, not being an action for foreclosure in which a claim for possession of the mortgaged property is also made, the court may exercise any of the powers conferred on it by subsection (2) below if it appears to the court that in the event of its exercising the power the mortgagor is likely to be able within a reasonable period to pay any sums due under the mortgage or to remedy a default consisting of a breach of any other obligation arising under or by virtue of the mortgage. 
+> 
+> (2) The court—
+> 
+> (a) may adjourn the proceedings, or
+> 
+> (b) on giving judgment, or making an order, for delivery of possession of the mortgaged property, or at any time before the execution of such judgment or order, may—
+> 
+> - (i) stay or suspend execution of the judgment or order, or
+> - (ii) postpone the date for delivery of possession,
+> 
+> for such period or periods as the court thinks reasonable. 
+> 
+> (3) Any such adjournment, stay, suspension or postponement as is referred to in subsection (2) above may be made subject to such conditions with regard to payment by the mortgagor of any sum secured by the mortgage or the remedying of any default as the court thinks fit.
 
 The section does not:
 
@@ -361,15 +351,14 @@ The section does not:
 
 The section does apply where the property is wholly or partly residential, although need not be the borrower’s home. It enables the court to adjourn possession proceedings or stay or postpone execution of the possession order. In order to be able to do this, it must appear to the court that the borrower is likely to be able to pay any sums due (or remedy any other default) within a reasonable period.
 
-```ad-summary
-- Possession proceedings must have started
-- The mortgaged property must be fully or partly residential
-- Borrower must be able to pay ‘any sums due’
-	- ‘any sums due’ means the arrears and accrued interest, and not the whole of the mortgage debt.
-- ‘within a reasonable period’
-	- In [[Cheltenham & Gloucester Building Society v Norgan [1996] 1 All E.R. 449]] the Court of Appeal said that the starting point for pinpointing a ‘reasonable period’ was the remainder of the mortgage term.
-- Subject to such conditions ‘as the court thinks fit’
-```
+> [!summary]
+> - Possession proceedings must have started
+> - The mortgaged property must be fully or partly residential
+> - Borrower must be able to pay ‘any sums due’
+> 	- ‘any sums due’ means the arrears and accrued interest, and not the whole of the mortgage debt.
+> - ‘within a reasonable period’
+> 	- In [[Cheltenham & Gloucester Building Society v Norgan [1996] 1 All E.R. 449]] the Court of Appeal said that the starting point for pinpointing a ‘reasonable period’ was the remainder of the mortgage term.
+> - Subject to such conditions ‘as the court thinks fit’
 
 More cases:
 
@@ -398,12 +387,10 @@ Most mortgage documents will include an express power of sale and will set out e
 
 In the absence of an express power, a right to sell can be implied under [LPA 1925, s 101(1)(i)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/101) unless it is excluded or modified in the mortgage deed.
 
-```ad-statute
-title:  [LPA 1925, s 101(1)(i)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/101)
-(1) A mortgagee, where the mortgage is made by deed, shall, by virtue of this Act, have the following powers, to the like extent as if they had been in terms conferred by the mortgage deed, but not further (namely):
-
-(i) A power, **when the mortgage money has become due**, to sell, or to concur with any other person in selling, the mortgaged property, or any part thereof, either subject to prior charges or not, and **either together or in lots, by public auction or by private contract**, subject to such conditions respecting title, or evidence of title, or other matter, as the mortgagee thinks fit, with power to vary any contract for sale, and to buy in at an auction, or to rescind any contract for sale, and to re-sell, without being answerable for any loss occasioned thereby;
-```
+> [!statute] [LPA 1925, s 101(1)(i)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/101)
+> (1) A mortgagee, where the mortgage is made by deed, shall, by virtue of this Act, have the following powers, to the like extent as if they had been in terms conferred by the mortgage deed, but not further (namely):
+> 
+> (i) A power, **when the mortgage money has become due**, to sell, or to concur with any other person in selling, the mortgaged property, or any part thereof, either subject to prior charges or not, and **either together or in lots, by public auction or by private contract**, subject to such conditions respecting title, or evidence of title, or other matter, as the mortgagee thinks fit, with power to vary any contract for sale, and to buy in at an auction, or to rescind any contract for sale, and to re-sell, without being answerable for any loss occasioned thereby;
 
 #### When Does the Right Arise?
 

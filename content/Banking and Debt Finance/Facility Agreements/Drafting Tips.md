@@ -26,9 +26,8 @@ date modified: Sunday, December 10th 2023, 12:41:39 am
 	- Use headings and contents table.
 	- Drafting must work in practice, e.g., references to business days.
 
-```ad-warning
-If using precedents, ensure conformity of terminology and check if any standard clauses have been removed/ amended. 
-```
+> [!warning]
+> If using precedents, ensure conformity of terminology and check if any standard clauses have been removed/ amended. 
 
 ## Techniques
 

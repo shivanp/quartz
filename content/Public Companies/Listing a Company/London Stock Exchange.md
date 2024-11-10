@@ -68,15 +68,13 @@ Stamp Duty collected by CREST during transactions.
 
 ## Regulation
 
-```ad-statute
-title: s 19 FSMA 2000 - The general prohibition.
-
-(1) No person may carry on a regulated activity in the United Kingdom, or purport to do so, unless he is—
-- (a) an authorised person; or
-- (b) an exempt person.
-
-(2) The prohibition is referred to in this Act as the general prohibition.
-```
+> [!statute] s 19 FSMA 2000 - The general prohibition.
+> 
+> (1) No person may carry on a regulated activity in the United Kingdom, or purport to do so, unless he is—
+> - (a) an authorised person; or
+> - (b) an exempt person.
+> 
+> (2) The prohibition is referred to in this Act as the general prohibition.
 
 The Financial Conduct Authority (FCA) has granted a recognition order to the Stock Exchange under s 290 of the FSMA 2000. This means that the Stock Exchange is a ‘recognised investment exchange’ ("RIE") and, therefore, under s 285(2) of the 2000 Act, is exempt from the general prohibition.
 

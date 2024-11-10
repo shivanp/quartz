@@ -13,9 +13,8 @@ date modified: Sunday, December 10th 2023, 12:39:23 am
 
 Lender will require a clear bankruptcy search against the name of the buyer/ borrower before releasing mortgage funds. Unless a full search of the register has been made on Form K15, the lender's solicitor should submit Form K16 electronically to Land Registry, completed with full and correct names of the borrower. A search certificate will be returned. If there is an adverse entry revealed, lender's instructions must be immediately obtained.
 
-```ad-conduct
-If the bankruptcy search reveals an adverse entry, the buyer's solicitor can certify that the entry does not relate to the borrower (relates to someone else with the same name). But this is construed as an undertaking given by the solicitor. 
-```
+> [!conduct]
+> If the bankruptcy search reveals an adverse entry, the buyer's solicitor can certify that the entry does not relate to the borrower (relates to someone else with the same name). But this is construed as an undertaking given by the solicitor. 
 
 Can also check Insolvency Service website, which will also reveal date of birth.
 

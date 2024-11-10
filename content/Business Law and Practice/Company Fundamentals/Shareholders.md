@@ -13,18 +13,15 @@ date modified: Saturday, September 24th 2022, 7:33:37 pm
 
 ## Promoters
 
-```ad-defn
-title: Promoter
-One who undertakes to form a company with reference to a given project and to set it going, and who takes the necessary steps to accomplish that purpose ([[Twycross v Grant (1877) 2 CPD 469]])
-```
+> [!defn] Promoter
+> One who undertakes to form a company with reference to a given project and to set it going, and who takes the necessary steps to accomplish that purpose ([[Twycross v Grant (1877) 2 CPD 469]])
 
 Note, this does not include professional advisers who help set up the company.
 
 ### Fiduciary Duty
 
-```ad-important
-A promoter is placed in a **fiduciary relationship** with the company once it has formed. 
-```
+> [!important]
+> A promoter is placed in a **fiduciary relationship** with the company once it has formed. 
 
 The primary fiduciary duty of the promoter is not to make a ‘secret profit’ when forming the company.
 
@@ -54,16 +51,12 @@ To become a shareholder in a private company (s 112):
 
 Persons who signed the [[Memorandum]] of association as 'subscribers' automatically become the first shareholders of the company when the Registrar of Companies issues the certificate of incorporation (ss 112(1) & 16(5)).
 
-```ad-statute
-title: s 112 - The members of a company 
-(1) The subscribers of a company's memorandum are deemed to have agreed to become members of the company, and on its registration become members and must be entered as such in its register of members.
-(2) Every other person who agrees to become a member of a company, and whose name is entered in its register of members, is a member of the company.
-```
+> [!statute] s 112 - The members of a company
+> (1) The subscribers of a company's memorandum are deemed to have agreed to become members of the company, and on its registration become members and must be entered as such in its register of members.
+> (2) Every other person who agrees to become a member of a company, and whose name is entered in its register of members, is a member of the company.
 
-```ad-statute
-title: s 16(5) - Effect of registration 
-In the case of a company having a share capital, the subscribers to the memorandum become holders of the shares specified in the statement of capital and initial shareholdings.
-```
+> [!statute] s 16(5) - Effect of registration
+> In the case of a company having a share capital, the subscribers to the memorandum become holders of the shares specified in the statement of capital and initial shareholdings.
 
 ### Buying Shares
 
@@ -88,46 +81,42 @@ If a shareholder goes bankrupt, the bankrupt's property, including their shares,
 
 ## Register of Members
 
-```ad-statute
-title: s 113 - Register of members
-
-(1) Every company must keep a register of its members.
-
-(2) There must be entered in the register—
-- (a) the names and addresses of the members,
-- (b) the date on which each person was registered as a member, and
-- (c) the date at which any person ceased to be a member.
-
-(3) In the case of a company having a share capital, there must be entered in the register, with the names and addresses of the members, a statement of—
-- (a) the shares held by each member, distinguishing each share—
-	- (i) by its number (so long as the share has a number), and
-	- (ii) where the company has more than one class of issued shares, by its class, and
-- (b) the amount paid or agreed to be considered as paid on the shares of each member.
-
-(4) If the company has converted any of its shares into stock, and given notice of the conversion to the registrar, the register of members must show the amount and class of stock held by each member instead of the amount of shares and the particulars relating to shares specified above.
-
-(5) In the case of joint holders of shares or stock in a company, the company's register of members must state the names of each joint holder.
-
-In other respects joint holders are regarded for the purposes of this Chapter as a single member (so that the register must show a single address).
-
-(6) In the case of a company that does not have a share capital but has more than one class of members, there must be entered in the register, with the names and addresses of the members, a statement of the class to which each member belongs.
-
-(7) If a company makes default in complying with this section an offence is committed by—
-- (a) the company, and
-- (b) every officer of the company who is in default.
-
-(8) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
-```
+> [!statute] s 113 - Register of members
+> 
+> (1) Every company must keep a register of its members.
+> 
+> (2) There must be entered in the register—
+> - (a) the names and addresses of the members,
+> - (b) the date on which each person was registered as a member, and
+> - (c) the date at which any person ceased to be a member.
+> 
+> (3) In the case of a company having a share capital, there must be entered in the register, with the names and addresses of the members, a statement of—
+> - (a) the shares held by each member, distinguishing each share—
+> 	- (i) by its number (so long as the share has a number), and
+> 	- (ii) where the company has more than one class of issued shares, by its class, and
+> - (b) the amount paid or agreed to be considered as paid on the shares of each member.
+> 
+> (4) If the company has converted any of its shares into stock, and given notice of the conversion to the registrar, the register of members must show the amount and class of stock held by each member instead of the amount of shares and the particulars relating to shares specified above.
+> 
+> (5) In the case of joint holders of shares or stock in a company, the company's register of members must state the names of each joint holder.
+> 
+> In other respects joint holders are regarded for the purposes of this Chapter as a single member (so that the register must show a single address).
+> 
+> (6) In the case of a company that does not have a share capital but has more than one class of members, there must be entered in the register, with the names and addresses of the members, a statement of the class to which each member belongs.
+> 
+> (7) If a company makes default in complying with this section an offence is committed by—
+> - (a) the company, and
+> - (b) every officer of the company who is in default.
+> 
+> (8) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
 
 Note that the system is very different for publicly traded companies, which have thousands of shares held in electronic form.
 
-```ad-question
-title: Can [[Private companies]] elect not to keep their own register of members?
-- Yes - s 128D(2) CA 2006 - if they ensure necessary information is filed and kept up-to-date on the Companies House central register. 
-- All shareholders must agree for this election to be valid (s 128B(2)(a)), and the Registrar of Companies must be notified (CA 2006, ss 128B(3) and 128C(1)). 
-- During the time that this election not to have a register of members is in force, the company must notify the Registrar of Companies as soon as is reasonably practicable of any information that otherwise would have gone into the register of members (s 128E(2)). 
-- This election can be withdrawn and the register of members reactivated following the procedure in s 128J.
-```
+> [!question] Can [[Private companies]] elect not to keep their own register of members?
+> - Yes - s 128D(2) CA 2006 - if they ensure necessary information is filed and kept up-to-date on the Companies House central register. 
+> - All shareholders must agree for this election to be valid (s 128B(2)(a)), and the Registrar of Companies must be notified (CA 2006, ss 128B(3) and 128C(1)). 
+> - During the time that this election not to have a register of members is in force, the company must notify the Registrar of Companies as soon as is reasonably practicable of any information that otherwise would have gone into the register of members (s 128E(2)). 
+> - This election can be withdrawn and the register of members reactivated following the procedure in s 128J.
 
 ### Content and Form
 
@@ -137,31 +126,27 @@ title: Can [[Private companies]] elect not to keep their own register of members
 
 #### Single Shareholder
 
-```ad-statute
-title: s 123 - Single member companies
-(1) If a limited company is formed under this Act with only one member there shall be entered in the company's register of members, with the name and address of the sole member, a statement that the company has only one member.
-
-(2) If the number of members of a limited company falls to one, or if an unlimited company with only one member becomes a limited company on re-registration, there shall upon the occurrence of that event be entered in the company's register of members, with the name and address of the sole member—
-- (a) a statement that the company has only one member, and
-- (b) the date on which the company became a company having only one member.
-
-(3) If the membership of a limited company increases from one to two or more members, there shall upon the occurrence of that event be entered in the company's register of members, with the name and address of the person who was formerly the sole member—
-- (a) a statement that the company has ceased to have only one member, and
-- (b) the date on which that event occurred.
-```
+> [!statute] s 123 - Single member companies
+> (1) If a limited company is formed under this Act with only one member there shall be entered in the company's register of members, with the name and address of the sole member, a statement that the company has only one member.
+> 
+> (2) If the number of members of a limited company falls to one, or if an unlimited company with only one member becomes a limited company on re-registration, there shall upon the occurrence of that event be entered in the company's register of members, with the name and address of the sole member—
+> - (a) a statement that the company has only one member, and
+> - (b) the date on which the company became a company having only one member.
+> 
+> (3) If the membership of a limited company increases from one to two or more members, there shall upon the occurrence of that event be entered in the company's register of members, with the name and address of the person who was formerly the sole member—
+> - (a) a statement that the company has ceased to have only one member, and
+> - (b) the date on which that event occurred.
 
 #### Entering Information
 
 ##### Promptness
 
-```ad-statute
-title: s 771(1)
-When a transfer of shares in or debentures of a company has been lodged with the company, the company must either—
-- (a) register the transfer, or
-- (b) give the transferee notice of refusal to register the transfer, together with its reasons for the refusal,
-
-as soon as practicable and in any event within two months after the date on which the transfer is lodged with it. 
-```
+> [!statute] s 771(1)
+> When a transfer of shares in or debentures of a company has been lodged with the company, the company must either—
+> - (a) register the transfer, or
+> - (b) give the transferee notice of refusal to register the transfer, together with its reasons for the refusal,
+> 
+> as soon as practicable and in any event within two months after the date on which the transfer is lodged with it. 
 
 ##### Prospective Shareholder Status
 
@@ -183,26 +168,24 @@ It may at the same time order the company to pay damages to a wronged person and
 
 Under s 114(1), where the company does not keep this information on the public register at Companies House, the register of members must be kept either at the company’s registered office, or at its ‘single alternative inspection location’ (SAIL) if specified under s 1136.
 
-```ad-statute
-title: s 116 - Rights to inspect and require copies
-
-(1) The register and the index of members' names must be open to the inspection—
-- (a) of any member of the company without charge, and
-- (b) of any other person on payment of such fee as may be prescribed.
-
-(2) Any person may require a copy of a company's register of members, or of any part of it, on payment of such fee as may be prescribed.
-
-(3) A person seeking to exercise either of the rights conferred by this section must make a request to the company to that effect.
-
-(4) The request must contain the following information—
-- (a) in the case of an individual, his name and address;
-- (b) in the case of an organisation, the name and address of an individual responsible for making the request on behalf of the organisation;
-- (c) the purpose for which the information is to be used; and
-- (d) whether the information will be disclosed to any other person, and if so—
-	- (i) where that person is an individual, his name and address,
-	- (ii) where that person is an organisation, the name and address of an individual responsible for receiving the information on its behalf, and
-	- (iii) the purpose for which the information is to be used by that person.
-```
+> [!statute] s 116 - Rights to inspect and require copies
+> 
+> (1) The register and the index of members' names must be open to the inspection—
+> - (a) of any member of the company without charge, and
+> - (b) of any other person on payment of such fee as may be prescribed.
+> 
+> (2) Any person may require a copy of a company's register of members, or of any part of it, on payment of such fee as may be prescribed.
+> 
+> (3) A person seeking to exercise either of the rights conferred by this section must make a request to the company to that effect.
+> 
+> (4) The request must contain the following information—
+> - (a) in the case of an individual, his name and address;
+> - (b) in the case of an organisation, the name and address of an individual responsible for making the request on behalf of the organisation;
+> - (c) the purpose for which the information is to be used; and
+> - (d) whether the information will be disclosed to any other person, and if so—
+> 	- (i) where that person is an individual, his name and address,
+> 	- (ii) where that person is an organisation, the name and address of an individual responsible for receiving the information on its behalf, and
+> 	- (iii) the purpose for which the information is to be used by that person.
 
 ##### Responding to Request
 
@@ -213,10 +196,8 @@ The company has five working days under s 117(1) of the CA 2006, either to:
 2. Apply to the court to disallow the request (if it thinks the request is not for a ‘proper purpose’) and thus prevent inspection or copying of the register.
 	- Onus is on the company to show that the request was made for an improper purpose ([[Burberry Group plc v Richard Charles Fox-Davies [2014] EWCA Civ 604]])
 
-```ad-note
-title: Rationale 
-To protect privacy of shareholders where company is involved in controversial work.
-```
+> [!note] Rationale
+> To protect privacy of shareholders where company is involved in controversial work.
 
 ##### Non-compliance Consequences
 
@@ -232,13 +213,12 @@ make a statement which is materially misleading, false or deceptive.
 
 s 790M of the CA 2006 requires companies to keep a ‘PSC register’ (Persons of Significant Control). The register must be made available for public inspection. Note that this requirement applies only to private companies and public companies that are not publicly traded.
 
-```ad-defn
-A person off significant control is an individual or ‘relevant legal entity’ (RLE) (s 790C(6)), who (s 790 & Sch 1A):
-1. owns $>25\%$ of the shares in the company (this would include non-voting shares, such as preference shares); or
-2. owns or controls $>25\%$ of the voting rights in the company (this would usually be ordinary shares); or
-3. has the right to appoint or remove a majority of the board of directors of the company; or
-4. has the right to exercise, or who actually exercises, significant influence or control over the company.
-```
+> [!defn]
+> A person off significant control is an individual or ‘relevant legal entity’ (RLE) (s 790C(6)), who (s 790 & Sch 1A):
+> 1. owns $>25\%$ of the shares in the company (this would include non-voting shares, such as preference shares); or
+> 2. owns or controls $>25\%$ of the voting rights in the company (this would usually be ordinary shares); or
+> 3. has the right to appoint or remove a majority of the board of directors of the company; or
+> 4. has the right to exercise, or who actually exercises, significant influence or control over the company.
 
 ### Obligation on Company
 
@@ -332,12 +312,11 @@ Breach of contract remedies available if parties breach terms. Advantages of put
 - The shareholder must also prove that they have been affected in their capacity as a shareholder, although this has been given a very wide interpretation ([[Gamlestaden Fastigheter v Baltic Partners Limited [2008] 1 BCLC 468]]).
 - It is not necessary to prove that the value of the shareholder’s shares has been adversely affected, although frequently this will happened
 
-```ad-example
-1. non-payment of dividends;
-2. directors awarding themselves excessive remuneration;
-3. directors exercising their powers for an improper purpose (eg to ‘freeze out’ a minority shareholder); and
-4. exclusion from management in a small company (eg one formed on the understanding that all those involved will share the running of the business and the profits).
-```
+> [!example]
+> 1. non-payment of dividends;
+> 2. directors awarding themselves excessive remuneration;
+> 3. directors exercising their powers for an improper purpose (eg to ‘freeze out’ a minority shareholder); and
+> 4. exclusion from management in a small company (eg one formed on the understanding that all those involved will share the running of the business and the profits).
 
 | Case                                                                                  | Ratio                                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -367,12 +346,10 @@ Generally limited: directors control things day-to-day. The shareholders can cha
 
 Generally, the principle of majority rule governs companies.
 
-```ad-question
-title: What happens if directors breach their duties to the company?
-Rule in [[Foss v Harbottle [1843]]]:
-1. Proper claimant rule: the company, rather than shareholder, must bring a claim for a wrong done to the company. 
-2. Internal management rule: courts will not interfere with the internal management of a company acting within its powers. So when a wrong is alleged, it is for a majority of shareholders to decide whether to make a claim on behalf of the company or to ratify the wrong by ordinary resolution. 
-```
+> [!question] What happens if directors breach their duties to the company?
+> Rule in [[Foss v Harbottle [1843]]]:
+> 1. Proper claimant rule: the company, rather than shareholder, must bring a claim for a wrong done to the company. 
+> 2. Internal management rule: courts will not interfere with the internal management of a company acting within its powers. So when a wrong is alleged, it is for a majority of shareholders to decide whether to make a claim on behalf of the company or to ratify the wrong by ordinary resolution. 
 
 ### Statutory Protection
 
@@ -400,9 +377,8 @@ The company’s articles must be ‘bona fide for the benefit of the company as 
 
 See [[Derivative claims]]. There are circumstances in which a minority shareholder is permitted to bring a ‘derivative claim’ in the company’s name for a wrong committed against the company.
 
-```ad-warning
-This is an exception to the rule in [[Foss v Harbottle [1843]]]. Can only be used where the minority shareholder wishes to make a claim in respect of a wrong committed against them, rather than against the property. 
-```
+> [!warning]
+> This is an exception to the rule in [[Foss v Harbottle [1843]]]. Can only be used where the minority shareholder wishes to make a claim in respect of a wrong committed against them, rather than against the property. 
 
 A claim may be brought by any shareholder under s 260(3) of the CA 2006 for an actual or proposed act or omission involving negligence, default, breach of duty or breach of trust by a  
 director. There is no need to demonstrate any actual loss suffered by the company, or indeed any benefit gained by the directors.

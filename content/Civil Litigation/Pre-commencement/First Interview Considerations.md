@@ -16,18 +16,15 @@ Solicitor needs to:
 - Explain issues and options
 - Agree next steps
 
-```ad-defn
-The scope of the work to be done for the client is formally known as the solicitor's "retainer".  
-```
+> [!defn]
+> The scope of the work to be done for the client is formally known as the solicitor's "retainer".  
 
 ## Professional Conduct
 
 ### Duty of Confidentiality
 
-```ad-statute
-title: Para 6.3 Code for Solicitors
-A solicitor is under a duty to maintain the confidentiality of their client's affairs except the client's prior authority is obtained to disclose particular information, or if the solicitor is required or permitted by law to do so. 
-```
+> [!statute] Para 6.3 Code for Solicitors
+> A solicitor is under a duty to maintain the confidentiality of their client's affairs except the client's prior authority is obtained to disclose particular information, or if the solicitor is required or permitted by law to do so. 
 
 If a solicitor holds confidential information on (former) client A, they should not risk breaching confidentiality by acting, or continuing to act, for another client (B) on a matter where:
 
@@ -40,10 +37,9 @@ See [[Professional Conduct and Regulation 1#Ch 12 LF Confidentiality]].
 
 A solicitor should not act for two or more clients where this would cause a conflict of interest.
 
-```ad-defn
-A conflict of interests exists if the
-solicitor owes separate duties to act in the best interests of two or more clients in relation to the same or related matters, and those duties conflict or there is a significant risk that those duties may conflict.
-```
+> [!defn]
+> A conflict of interests exists if the
+> solicitor owes separate duties to act in the best interests of two or more clients in relation to the same or related matters, and those duties conflict or there is a significant risk that those duties may conflict.
 
 See [[Professional Conduct and Regulation 1#Ch 13 LF Conflicts of Interest]].
 
@@ -51,10 +47,8 @@ See [[Professional Conduct and Regulation 1#Ch 13 LF Conflicts of Interest]].
 
 See [[Professional Conduct and Regulation 2#Ch 15 Money Laundering]].
 
-```ad-question
-title: A solicitor should ask: 
-Who is my client and am I authorised to act?
-```
+> [!question] A solicitor should ask:
+> Who is my client and am I authorised to act?
 
 ### Officer of Court
 
@@ -76,10 +70,8 @@ If you don't give clients regular cost information, can be bound by original cos
 
 The solicitor should explain the distinction between solicitor and client costs, and the costs that may be awarded between parties in litigation.
 
-```ad-statute
-title: r 44.2(2)(a) CPR 1998
-As a general rule the unsuccessful party in litigation will be ordered to pay the costs of the successful party.
-```
+> [!statute] r 44.2(2)(a) CPR 1998
+> As a general rule the unsuccessful party in litigation will be ordered to pay the costs of the successful party.
 
 If a client wins the case, they will still have to pay their own solicitor's costs, and then they will receive their costs from the opponent. But it is normal for the costs awarded to be less than the actual legal cost paid.
 
@@ -87,10 +79,8 @@ Even if successful, the court has the power to reduce costs to reflect any unrea
 
 ### Contingency Fee Arrangements
 
-```ad-defn
-title: Contingency fee arrangement
-The client only pays a fee if they are successful.
-```
+> [!defn] Contingency fee arrangement
+> The client only pays a fee if they are successful.
 
 These used to be completely illegal – solicitors could only charge clients on a time basis. Currently, only two types are legal:
 
@@ -99,10 +89,8 @@ These used to be completely illegal – solicitors could only charge clients on 
 
 ### Conditional Fee Arrangements
 
-```ad-defn
-title: Conditional fee arrangement (CFA)
-‘An agreement with a person providing advocacy or litigation services which provides for his fees and expenses, or any part of them, to be payable only in specified circumstances’ - s 58(2)(a) of the Courts and Legal Services Act 1990 (CLSA 1990)
-```
+> [!defn] Conditional fee arrangement (CFA)
+> ‘An agreement with a person providing advocacy or litigation services which provides for his fees and expenses, or any part of them, to be payable only in specified circumstances’ - s 58(2)(a) of the Courts and Legal Services Act 1990 (CLSA 1990)
 
 (Circumstances are winning the case).
 
@@ -130,16 +118,14 @@ If the opponent is ordered to pay costs, these cannot include the success fee, w
 
 The solicitor is taking a risk here, so they should perform a thorough risk assessment (likely damages, chances of client succeeding, likely time taken etc.). This might take time and research, and the success fee should not be set arbitrarily.
 
-```ad-question
-title: Can you accept a client suggested success fee which is exorbitant?
-No:
-- principle 2 - upholding public trust and confidence, 
-- principle 4 - acting with honesty, 
-- principle 5 - acting with integrity, 
-- principle 6 - acting in best interests of client,
-- para 1.2 - solicitor must not abuse their position by taking unfair advantage of the client, 
-- para 8.7 - ensuring clients receive the best possible information about how their matter will be priced.
-```
+> [!question] Can you accept a client suggested success fee which is exorbitant?
+> No:
+> - principle 2 - upholding public trust and confidence, 
+> - principle 4 - acting with honesty, 
+> - principle 5 - acting with integrity, 
+> - principle 6 - acting in best interests of client,
+> - para 1.2 - solicitor must not abuse their position by taking unfair advantage of the client, 
+> - para 8.7 - ensuring clients receive the best possible information about how their matter will be priced.
 
 #### Liability for Costs
 
@@ -151,12 +137,10 @@ Can mitigate by purchasing after-the-event insurance (AEI). The solicitor should
 
 Key statute:
 
-```ad-statute
-title: s 58AA(3)(a) CLSA 1990
-An agreement between a person providing advocacy services, litigation services or claims management services and the recipient of those services which provides that—
-- (i) the recipient is to make a payment to the person providing the services if the recipient obtains a specified financial benefit in connection with the matter in relation to which the services are provided, and
-- (ii) the amount of that payment is to be determined by reference to the amount of the financial benefit obtained.
-```
+> [!statute] s 58AA(3)(a) CLSA 1990
+> An agreement between a person providing advocacy services, litigation services or claims management services and the recipient of those services which provides that—
+> - (i) the recipient is to make a payment to the person providing the services if the recipient obtains a specified financial benefit in connection with the matter in relation to which the services are provided, and
+> - (ii) the amount of that payment is to be determined by reference to the amount of the financial benefit obtained.
 
 It means that if the client receives damages, the solicitor's fee is an agreed percentage of those damages.
 
@@ -184,14 +168,11 @@ The terms and conditions of a DBA must specify:
 - (ii) the circumstances in which the representative’s payment, expenses and costs, or part of them, are payable; and
 - (iii) the reason for setting the amount of the payment at the level agreed.
 
-```ad-question
-title: Is a DBA valid if it contains a clause which provides that the client must pay the solicitors’ normal fees and disbursements if they terminate the retainer prematurely?
-Yes, see [[Zuberi v Lexlaw Ltd [2021] EWCA Civ 16]]. The case is also authority for the use of so-called ‘hybrid DBAs’. For example, a law firm may receive concurrent funding via both a DBA and some other form of retainer; this might consist of the DBA in the event of the claim’s success and discounted hourly rate fees in the event of the claim’s failure. Alternatively, a DBA might comprise one or other of the methods of funding for different stages of the legal proceedings.
-```
+> [!question] Is a DBA valid if it contains a clause which provides that the client must pay the solicitors’ normal fees and disbursements if they terminate the retainer prematurely?
+> Yes, see [[Zuberi v Lexlaw Ltd [2021] EWCA Civ 16]]. The case is also authority for the use of so-called ‘hybrid DBAs’. For example, a law firm may receive concurrent funding via both a DBA and some other form of retainer; this might consist of the DBA in the event of the claim’s success and discounted hourly rate fees in the event of the claim’s failure. Alternatively, a DBA might comprise one or other of the methods of funding for different stages of the legal proceedings.
 
-```ad-warning
-Slightly different provisions for the DBA for personal injury claims/ employment matters.
-```
+> [!warning]
+> Slightly different provisions for the DBA for personal injury claims/ employment matters.
 
 ### Insurance
 
@@ -235,12 +216,10 @@ Recall the need to assess viability, liability, and quantum.
 
 A solicitor must ascertain when the limitation period began and when it will expire. Continually review this.
 
-```ad-question
-title: What if claim forms are sent to the court very close to the expiration date?
-Per [[St Helens Metropolitan BC v Barnes [2006] EWCA Civ 1372]], 
-> Proceedings are started when the court issues a claim form at the request of the claimant (see rule 7.2) but where the claim form as issued was received in the court office on a date earlier than the date on which it was issued by the court, the claim is ‘brought’ for the purposes of the Limitation Act 1980 and
-> any other relevant statute on that earlier date.
-```
+> [!question] What if claim forms are sent to the court very close to the expiration date?
+> Per [[St Helens Metropolitan BC v Barnes [2006] EWCA Civ 1372]], 
+> > Proceedings are started when the court issues a claim form at the request of the claimant (see rule 7.2) but where the claim form as issued was received in the court office on a date earlier than the date on which it was issued by the court, the claim is ‘brought’ for the purposes of the Limitation Act 1980 and
+> > any other relevant statute on that earlier date.
 
 The Limitation Act 1980 (LA 1980) (as amended) prescribes fixed periods of time for issuing
 
@@ -266,9 +245,8 @@ Additionally, there is a long-stop limitation period of 15 years from the date o
 
 ### Person Under Disability
 
-```ad-defn
-Either a child (under 18) or a protected party (a person of unsound mind under the meaning of the Mental Capacity Act 2005 who is incapable of managing and administering their property and affairs).
-```
+> [!defn]
+> Either a child (under 18) or a protected party (a person of unsound mind under the meaning of the Mental Capacity Act 2005 who is incapable of managing and administering their property and affairs).
 
 When the claimant is a person under disability when a right of action accrues, the limitation
 
@@ -288,10 +266,8 @@ Check if any limitation period is specified in the contract.
 
 Different remedies available – remember contract law. The most common one is damages.
 
-```ad-defn
-title: Quantum
-How much D will pay to V if liability is proved (or vice versa if not).
-```
+> [!defn] Quantum
+> How much D will pay to V if liability is proved (or vice versa if not).
 
 ### Damages
 
@@ -319,9 +295,8 @@ the court observed that this duty means looking at what the claimant
 
 A debt action is a particular type of contract claim. The claimant is claiming a sum which D promised to pay under the contract. Note that in debt actions, V has no duty to mitigate their loss.
 
-```ad-example
-If the buyer takes delivery for goods but fails to pay, the action is for debt.
-```
+> [!example]
+> If the buyer takes delivery for goods but fails to pay, the action is for debt.
 
 ### Quantum
 
@@ -333,24 +308,22 @@ Think about the evidence you have to prove the loss. Figures or estimates?
 
 Viability of a claim depends on a number of questions.
 
-```ad-note
-title: Considerations
-- Who is the prospective defendant?
-- Is there more than one possible defendant?
-- Where is the defendant?
-- Is the defendant solvent?
-- Where are the defendant’s assets?
-- What are those assets worth?
-- Will the defendant be able to pay any judgment?
-- What can the client afford to pay?
-- Does the client have any suitable BEI?
-- Is the case suitable for a CFA or DBA and/or AEI cover?
-- Does the client qualify for public funding or require third-party funding?
-- How much time and resources will the client have to commit to investigate and deal
-with the case?
-- Does a cost–benefit analysis suggest the desirability of a quicker and cheaper solution
-than litigation can offer?
-```
+> [!note] Considerations
+> - Who is the prospective defendant?
+> - Is there more than one possible defendant?
+> - Where is the defendant?
+> - Is the defendant solvent?
+> - Where are the defendant’s assets?
+> - What are those assets worth?
+> - Will the defendant be able to pay any judgment?
+> - What can the client afford to pay?
+> - Does the client have any suitable BEI?
+> - Is the case suitable for a CFA or DBA and/or AEI cover?
+> - Does the client qualify for public funding or require third-party funding?
+> - How much time and resources will the client have to commit to investigate and deal
+> with the case?
+> - Does a cost–benefit analysis suggest the desirability of a quicker and cheaper solution
+> than litigation can offer?
 
 ### Defendants and Status
 
@@ -459,10 +432,8 @@ In [[Tate & Lyle Food and Distribution Ltd v Greater London Council [1982] 1 WLR
 
 > One looks, therefore, not at the profit which the defendant wrongly made out of the money he withheld – this would indeed involve a scrutiny of the defendant’s financial position – but at the cost to the [claimant] of being deprived of the money which he should have had. I feel satisfied that in commercial cases, the interest is intended to reflect the rate at which the [claimant] would have had to borrow money to supply the place of that which was withheld.
 
-```ad-defn
-title: Commercial case
-Generally, one where all parties are in business and the claim is based on the transaction of trade and commerce. 
-```
+> [!defn] Commercial case
+> Generally, one where all parties are in business and the claim is based on the transaction of trade and commerce. 
 
 In non-commercial cases, the courts award interest at their discretion under s 35A of the SCA 1981 or s 69 of the CCA 1984 at 8% pa. Traditionally, in commercial cases, the award of interest has been at 1% or 2% over base rate. However, in J[[aura v Ahmed [2002] EWCA Civ 210]], the Court of Appeal held that it is permissible for a judge to depart from this conventional rate if it is necessary to reflect the higher rate at which the claimant had to borrow, e.g., if the claimant was a small businessperson who could only borrow from a bank at 3% pa over base rate.
 
@@ -491,10 +462,8 @@ In international cases, consider:
 
 ### Arbitration
 
-```ad-defn
-title: Arbitration
-Adjudication operating outside the normal court process, by which a third party reaches a decision binding on the parties in dispute. 
-```
+> [!defn] Arbitration
+> Adjudication operating outside the normal court process, by which a third party reaches a decision binding on the parties in dispute. 
 
 Many business contracts specify using arbitration rather than litigation.
 
@@ -506,9 +475,8 @@ Advantages:
 - Often more practical than the solutions a court has power to order
 - Decisions binding on parties.
 
-```ad-important
-The winning party to an arbitration can apply to the High Court for permission to enforce the arbitration award as if it were a court judgment (Arbitration Act 1996, s 66).
-```
+> [!important]
+> The winning party to an arbitration can apply to the High Court for permission to enforce the arbitration award as if it were a court judgment (Arbitration Act 1996, s 66).
 
 Disadvantages:
 
@@ -520,20 +488,16 @@ Disadvantages:
 
 Independent third parties helps parties reach a solution. The third party will often suggest a solution to the parties but not impose one (known as ‘non-determinative ADR’). But sometimes the third party will impose a solution (known as ‘determinative ADR’). The decision to use ADR is voluntary; the parties choose the process and either of them can withdraw at any time before a settlement is reached.
 
-```ad-example
-title: ADR examples
-- mediation
-- expert appraisal
-- expert determination
-```
+> [!example] ADR examples
+> - mediation
+> - expert appraisal
+> - expert determination
 
 Under the CPR 1998, the courts actively encourage parties to use some form of ADR.
 
-```ad-question
-title: Can a court order that parties must use an ADR method?
-
-No, held the Court of Appeal in [[Halsey v Milton Keynes General NHS Trust [2004] EWCA Civ 576]]. 
-```
+> [!question] Can a court order that parties must use an ADR method?
+> 
+> No, held the Court of Appeal in [[Halsey v Milton Keynes General NHS Trust [2004] EWCA Civ 576]]. 
 
 Distinguish this from Early Neutral Evaluation, which the court can order parties to engage with since it is part of the court process (unlike mediation etc.).
 

@@ -10,14 +10,12 @@ date modified: Sunday, December 10th 2023, 12:41:16 am
 
 ## Constitution and Documents
 
-```ad-statute
-title: s 7 CA 2006
-(1) A company is formed under this Act by one or more persons—
-- (a) subscribing their names to a memorandum of association (see section 8), and
-- (b) complying with the requirements of this Act as to registration (see sections 9 to 13).
-
-(2) A company may not be so formed for an unlawful purpose.
-```
+> [!statute] s 7 CA 2006
+> (1) A company is formed under this Act by one or more persons—
+> - (a) subscribing their names to a memorandum of association (see section 8), and
+> - (b) complying with the requirements of this Act as to registration (see sections 9 to 13).
+> 
+> (2) A company may not be so formed for an unlawful purpose.
 
 s 20 CA 2006 provides that the [[Articles of Association]] of a 2006 Act company are to be those set out in model Articles created by statutory instrument, except to the extent the [[Business Law and Practice/Company Fundamentals/Shareholders]] substitute their own Articles. There is one set of model Articles for private limited [[companies]] and another for public limited [[companies]]. Both sets of model Articles are to be found in the Companies (Model Articles) Regulations 2008.
 
@@ -31,12 +29,10 @@ When a company is formed:
 - The members of a limited company have limited liability.
 	- There is a limit on the amount of money a shareholder is liable to contribute to a limited company in insolvent liquidation. The extent of this liability is set out in section 74(2)(d) of the Insolvency Act 1986.
 
-```ad-statute
-title: s 74(2)(d) IA 1986
-In the case of a company limited by shares, no contribution is required  
-from any member exceeding the amount (if any) unpaid on the shares in  
-respect of which he is liable as a present or past member.
-```
+> [!statute] s 74(2)(d) IA 1986
+> In the case of a company limited by shares, no contribution is required  
+> from any member exceeding the amount (if any) unpaid on the shares in  
+> respect of which he is liable as a present or past member.
 
 ## Separate Personality
 
@@ -64,16 +60,14 @@ Although forming a company by registration without the need for a royal charter 
 - Directors run the company day-to-day
 	- Take daily decisions such as entering into contracts
 
-```ad-statute
-title: s 112 CA 2006
-(1) The subscribers of a company’s memorandum are deemed to have  
-agreed to become members of the company, and on its registration  
-become members and must be entered as such in its register of  
-members.  
-(2) Every other person who agrees to become a member of a company,  
-and whose name is entered in its register of members, is a member of  
-the company.
-```
+> [!statute] s 112 CA 2006
+> (1) The subscribers of a company’s memorandum are deemed to have  
+> agreed to become members of the company, and on its registration  
+> become members and must be entered as such in its register of  
+> members.  
+> (2) Every other person who agrees to become a member of a company,  
+> and whose name is entered in its register of members, is a member of  
+> the company.
 
 ### Group of [[Companies]]
 
@@ -136,9 +130,8 @@ Designed to help third parties in deciding whether to deal with the company.
 
 ### Maintenance of Capital
 
-```ad-defn
-The money invested by shareholders in a company is known as share capital.
-```
+> [!defn]
+> The money invested by shareholders in a company is known as share capital.
 
 It is a fundamental rule of company law that the share capital belongs to the company and not to the shareholders. The share capital is treated as a special fund within the company and
 
@@ -146,6 +139,5 @@ given extra protection by the law. This is so that it is available to repay the 
 
 Its effects are most clearly demonstrated in s 830 CA 2006. This provision allows a company to make distributions to its shareholders only out of distributable profits. Put simply, a company can pay money to its shareholders only from available profits, which do not touch the share capital.
 
-```ad-note
-Most private companies have a share capital of £100 or less.
-```
+> [!note]
+> Most private companies have a share capital of £100 or less.

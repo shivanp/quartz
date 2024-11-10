@@ -12,10 +12,8 @@ Includes company secretary, directors, managers and auditors.
 
 ## Company Secretary
 
-```ad-statute
-title: s 270(1)
-A private company is not required to have a secretary.
-```
+> [!statute] s 270(1)
+> A private company is not required to have a secretary.
 
 The company secretary is an officer of the company (s 1121).
 
@@ -33,33 +31,31 @@ The company secretary is an officer of the company (s 1121).
 
 #### Register of Secretaries
 
-```ad-statute
-title: s 275 - Duty to keep register of secretaries
-
-(1) A company must keep a register of its secretaries.
-
-(2) The register must contain the required particulars (see sections 277 to 279) of the person who is, or persons who are, the secretary or joint secretaries of the company.
-
-(3) The register must be kept available for inspection—
-- (a) at the company's registered office, or
-- (b) at a place specified in regulations under section 1136.
-
-(4) The company must give notice to the registrar—
-- (a) of the place at which the register is kept available for inspection, and
-- (b) of any change in that place,
-
-unless it has at all times been kept at the company's registered office.
-
-(5) The register must be open to the inspection—
-- (a) of any member of the company without charge, and
-- (b) of any other person on payment of such fee as may be prescribed.
-
-(6) If default is made in complying with subsection (1), (2) or (3), or if default is made for 14 days in complying with subsection (4), or if an inspection required under subsection (5) is refused, an offence is committed by—
-- (a) the company, and
-- (b) every officer of the company who is in default.
-
-For this purpose a shadow director is treated as an officer of the company. 
-```
+> [!statute] s 275 - Duty to keep register of secretaries
+> 
+> (1) A company must keep a register of its secretaries.
+> 
+> (2) The register must contain the required particulars (see sections 277 to 279) of the person who is, or persons who are, the secretary or joint secretaries of the company.
+> 
+> (3) The register must be kept available for inspection—
+> - (a) at the company's registered office, or
+> - (b) at a place specified in regulations under section 1136.
+> 
+> (4) The company must give notice to the registrar—
+> - (a) of the place at which the register is kept available for inspection, and
+> - (b) of any change in that place,
+> 
+> unless it has at all times been kept at the company's registered office.
+> 
+> (5) The register must be open to the inspection—
+> - (a) of any member of the company without charge, and
+> - (b) of any other person on payment of such fee as may be prescribed.
+> 
+> (6) If default is made in complying with subsection (1), (2) or (3), or if default is made for 14 days in complying with subsection (4), or if an inspection required under subsection (5) is refused, an offence is committed by—
+> - (a) the company, and
+> - (b) every officer of the company who is in default.
+> 
+> For this purpose a shadow director is treated as an officer of the company. 
 
 Private companies can elect not to keep their own register, but to hold everything centrally with Companies House instead (s 279A).
 
@@ -97,10 +93,8 @@ Every private company must have at least one director (s 154(1)), and every publ
 
 company must have at least two (s 154(2)).
 
-```ad-statute
-title: s 250 - "Director"
-In the Companies Acts, “director” includes any person occupying the position of director, by whatever name called. 
-```
+> [!statute] s 250 - "Director"
+> In the Companies Acts, “director” includes any person occupying the position of director, by whatever name called. 
 
 ### Executive Director
 
@@ -128,10 +122,8 @@ NED can still be liable to the company, for example, for breach of their directo
 
 #### Shadow Director
 
-```ad-defn
-title: Shadow director
-A person in accordance with whose directions or instructions the directors of the company are accustomed to act.
-```
+> [!defn] Shadow director
+> A person in accordance with whose directions or instructions the directors of the company are accustomed to act.
 
 | Case | Ratio |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
@@ -149,14 +141,12 @@ Someone who assumes to act as a director but has in fact not been validly appoin
 
 Case law has held that such a person may fall within the definition of a ‘director’ under s 250(1) and under the IA 1986 (e.g., [[Re Hydrodam (Corby) Ltd [1994] 2 BCLC 180]]).
 
-```ad-test
-title: De facto director relevant factors
-1. Whether they have assumed responsibility to act as a director.
-2. Whether or not they acted as a director must be determined objectively. It does not matter whether the individual thought they were acting as a director.
-3. Whether the company considered the individual to be a director and held them out as such, and whether third parties considered that they were a director
-4. Look at the acts in their context and determine their cumulative effect.
-5. The fact that a person is consulted about directorial decisions, or is asked for approval, does not in general make them a director because they are not making the decision.
-```
+> [!test] De facto director relevant factors
+> 1. Whether they have assumed responsibility to act as a director.
+> 2. Whether or not they acted as a director must be determined objectively. It does not matter whether the individual thought they were acting as a director.
+> 3. Whether the company considered the individual to be a director and held them out as such, and whether third parties considered that they were a director
+> 4. Look at the acts in their context and determine their cumulative effect.
+> 5. The fact that a person is consulted about directorial decisions, or is asked for approval, does not in general make them a director because they are not making the decision.
 
 An individual director of a corporate director of another company is not a de facto director of that other company, and could therefore not be held personally liable for the unlawful payment of a dividend ([[Holland v The Commissioners for HMRC [2010] UKSC 51]]) – corporate veil.
 
@@ -170,12 +160,10 @@ Usually, another director can be appointed as an alternate director.
 
 It is possible to have a corporate director of a company [[(Holland v The Commissioners for HMRC [2010] UKSC 51]]). But subject to:
 
-```ad-statute
-title: s 155 - Companies required to have at least one director who is a natural person
-(1) A company must have at least one director who is a natural person.
-
-(2) This requirement is met if the office of director is held by a natural person as a corporation sole or otherwise by virtue of an office.
-```
+> [!statute] s 155 - Companies required to have at least one director who is a natural person
+> (1) A company must have at least one director who is a natural person.
+> 
+> (2) This requirement is met if the office of director is held by a natural person as a corporation sole or otherwise by virtue of an office.
 
 ##### Upcoming Changes
 
@@ -196,35 +184,30 @@ Directors appointed in accordance with the process set out in the articles.
 
 Articles may provide for the ineligibility of a director.
 
-```ad-example
-title: Art 18(d) MA
-A person ceases to be a director as soon as a registered medical practitioner who is treating that person gives a written opinion to the company stating that that person has become physically or mentally incapable of acting as a director and may remain so for more than three months.
-```
+> [!example] Art 18(d) MA
+> A person ceases to be a director as soon as a registered medical practitioner who is treating that person gives a written opinion to the company stating that that person has become physically or mentally incapable of acting as a director and may remain so for more than three months.
 
 ##### Procedure for Appointment
 
 CA 2006 does not stipulate a procedure for appointing directors, so this is generally governed by the Articles of the company. MA deals with this as follows:
 
-```ad-statute
-title: MA 17
-(1) Any person who is willing to act as a director, and is permitted by law to do so, may be appointed to be a director—
-- (a) by ordinary resolution, or
-- (b) by a decision of the directors.
-```
+> [!statute] MA 17
+> (1) Any person who is willing to act as a director, and is permitted by law to do so, may be appointed to be a director—
+> - (a) by ordinary resolution, or
+> - (b) by a decision of the directors.
 
 Decision of directors is usually used since this is easier. But ALWAYS check the Articles for any modifications.
 
 ###### Ordinary Resolution
 
-```ad-action
-1. Special notice of the resolution to appoint a new director must be given by the proposing shareholders, as required by s 168(2).
-2. Ordinary resolution
-3. Send to registrar a statement by the company that the person has consented to act in that capacity (s 167(2)(b)).
-	- For the first director or directors of the company, this is set out on Form IN01 (see 3.8.1 above). 
-	- For directors appointed after incorporation, the company must sign the statement on Form AP01 (individual) or on Form AP02 (corporate)
-4. As soon as reasonably practicable after the notification of appointment of a new director has been made, the Registrar of Companies must send information on the roles and duties of a director to that director (s 1079B)
-5. Also if the director is an employee, need to satisfy service contract formalities. 
-```
+> [!action]
+> 1. Special notice of the resolution to appoint a new director must be given by the proposing shareholders, as required by s 168(2).
+> 2. Ordinary resolution
+> 3. Send to registrar a statement by the company that the person has consented to act in that capacity (s 167(2)(b)).
+> 	- For the first director or directors of the company, this is set out on Form IN01 (see 3.8.1 above). 
+> 	- For directors appointed after incorporation, the company must sign the statement on Form AP01 (individual) or on Form AP02 (corporate)
+> 4. As soon as reasonably practicable after the notification of appointment of a new director has been made, the Registrar of Companies must send information on the roles and duties of a director to that director (s 1079B)
+> 5. Also if the director is an employee, need to satisfy service contract formalities. 
 
 ```mermaid
 graph TD
@@ -254,10 +237,8 @@ There is a multi-layered legal relationship between directors and their company 
 
  Broad general authority, e.g.,
 
-```ad-statute
-title: MA 3 - Directors' General Authority
-Subject to the articles, the directors are responsible for the management of the company’s business, for which purpose they may exercise all the powers of the company.
-```
+> [!statute] MA 3 - Directors' General Authority
+> Subject to the articles, the directors are responsible for the management of the company’s business, for which purpose they may exercise all the powers of the company.
 
 #### Joint
 
@@ -269,12 +250,10 @@ There are certain decisions for which shareholders hold a veto, e.g., substantia
 
 Shareholders have a reserve power:
 
-```ad-statute
-title: MA 4
-(1) The shareholders may, by special resolution, direct the directors to take, or refrain from taking, specified action.
-
-(2) No such special resolution invalidates anything which the directors have done before the passing of the resolution.
-```
+> [!statute] MA 4
+> (1) The shareholders may, by special resolution, direct the directors to take, or refrain from taking, specified action.
+> 
+> (2) No such special resolution invalidates anything which the directors have done before the passing of the resolution.
 
 #### Delegation of Power
 
@@ -300,9 +279,8 @@ id2 --> |Signs contract on <br/> principal's behalf| id3
 
 ### Actual Authority
 
-```ad-defn
-Actual authority is where the principal (the company) gives the agent (the director) specific prior consent to the agent’s actions.
-```
+> [!defn]
+> Actual authority is where the principal (the company) gives the agent (the director) specific prior consent to the agent’s actions.
 
 > An ‘actual’ authority is a legal relationship between principal and agent created by a consensual agreement to which they alone are the parties. … To this agreement the third party is a stranger; he may be totally ignorant of the existence of any authority on the part of the agent. Nevertheless, if the agent does enter into a contract pursuant to the ‘actual’ authority, it does create contractual rights and liabilities between the principal and the third party.  
 > [[Freeman and Lockyer v Buckhurst Park Properties (Mangal) Ltd [1964] 2 QB 480]]
@@ -319,9 +297,8 @@ May be express or implied.
 
 ### Apparent Authority
 
-```ad-defn
-Apparent authority is where the agent (the director) acts without the principal’s (the company) prior consent but still binds the principal (the company) in the contract with the third party. **The principal (the company) is estopped from denying the agent’s (the director) authority.**
-```
+> [!defn]
+> Apparent authority is where the agent (the director) acts without the principal’s (the company) prior consent but still binds the principal (the company) in the contract with the third party. **The principal (the company) is estopped from denying the agent’s (the director) authority.**
 
 > An ‘apparent’ authority, on the other hand, is a legal relationship between the principal and the third party created by a representation, made by the principal to the third party, intended to be and in fact acted on by the third party, that the agent has authority … To the relationship so created, the agent is a stranger.  
 > [[Freeman and Lockyer v Buckhurst Park Properties (Mangal) Ltd [1964] 2 QB 480]]
@@ -330,9 +307,8 @@ Apparent authority cannot arise by the agent's own actions, only by those of the
 
 **Ostensible or apparent authority arises where there has been some holding out or representation on which a third party has relied that the agent acting on the company's behalf had authority to enter into the contract in question.**
 
-```ad-example
-If a company appoints A as a finance director, from the perspective of a third party, A almost certainly has apparent authority to enter into a contract for a purchase order, deriving from his position as finance director.
-```
+> [!example]
+> If a company appoints A as a finance director, from the perspective of a third party, A almost certainly has apparent authority to enter into a contract for a purchase order, deriving from his position as finance director.
 
 The agent has no actual authority but can still bind the principal. Three cases:
 
@@ -499,10 +475,8 @@ An executive director is an employee of the company, so should be given a writte
 
 The board has authority to enter service contracts with directors (e.g., MA 3 & 19).
 
-```ad-question
-title: Does the director need to declare a conflict of interest when their service contract is discussed?
-No, a formal declaration to the board of a personal interest will not be necessary due to s 177(6).
-```
+> [!question] Does the director need to declare a conflict of interest when their service contract is discussed?
+> No, a formal declaration to the board of a personal interest will not be necessary due to s 177(6).
 
 - The director will often be prevented under the articles from voting and counting in the quorum for that board meeting for reasons of fairness.
 - But this can create problems if there are only two directors, and the quorum for board meetings is two.
@@ -538,33 +512,31 @@ A service contract is defined in s 227(1) to include a contract under which the 
 
 ### Register of Directors
 
-```ad-statute
-title: s 162 - Register of directors
-
-(1) Every company must keep a register of its directors.
-
-(2) The register must contain the required particulars (see sections 163, 164 and 166) of each person who is a director of the company.
-
-(3) The register must be kept available for inspection—
-- (a) at the company's registered office, or
-- (b) at a place specified in regulations under section 1136.
-
-(4) The company must give notice to the registrar—
-- (a) of the place at which the register is kept available for inspection, and
-- (b) of any change in that place,
-
-unless it has at all times been kept at the company's registered office.
-
-(5) The register must be open to the inspection—
-- (a) of any member of the company without charge, and
-- (b) of any other person on payment of such fee as may be prescribed.
-
-(6) If default is made in complying with subsection (1), (2) or (3) or if default is made for 14 days in complying with subsection (4), or if an inspection required under subsection (5) is refused, an offence is committed by—
-- (a) the company, and
-- (b) every officer of the company who is in default.
-
-For this purpose a shadow director is treated as an officer of the company. 
-```
+> [!statute] s 162 - Register of directors
+> 
+> (1) Every company must keep a register of its directors.
+> 
+> (2) The register must contain the required particulars (see sections 163, 164 and 166) of each person who is a director of the company.
+> 
+> (3) The register must be kept available for inspection—
+> - (a) at the company's registered office, or
+> - (b) at a place specified in regulations under section 1136.
+> 
+> (4) The company must give notice to the registrar—
+> - (a) of the place at which the register is kept available for inspection, and
+> - (b) of any change in that place,
+> 
+> unless it has at all times been kept at the company's registered office.
+> 
+> (5) The register must be open to the inspection—
+> - (a) of any member of the company without charge, and
+> - (b) of any other person on payment of such fee as may be prescribed.
+> 
+> (6) If default is made in complying with subsection (1), (2) or (3) or if default is made for 14 days in complying with subsection (4), or if an inspection required under subsection (5) is refused, an offence is committed by—
+> - (a) the company, and
+> - (b) every officer of the company who is in default.
+> 
+> For this purpose a shadow director is treated as an officer of the company. 
 
 There are different particulars to be entered depending on whether the director is a human or corporate director – see ss 163 & 164.
 
@@ -625,9 +597,8 @@ Possible for company to insert a 'Bushell v Faith' clause into its articles: see
 
 Might seem contrary to s 168 CA 2006. But such weighted voting clauses allowed because requirement for ordinary resolution not changed, just that way votes are amassed make it easier for director/ shareholder to survive. They represent an internal agreement amongst shareholders as to the weight their vote carries on a specific resolution.
 
-```ad-action
-Check whether it is possible to remove the Bushell v Faith clause by passing a special resolution under s 21 CA 2006 at a GM, or whether the director has weighted voting rights for this. 
-```
+> [!action]
+> Check whether it is possible to remove the Bushell v Faith clause by passing a special resolution under s 21 CA 2006 at a GM, or whether the director has weighted voting rights for this. 
 
 Also check directors' service contract – can be expensive to get rid of the director.
 

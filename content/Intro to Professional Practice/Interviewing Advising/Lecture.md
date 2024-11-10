@@ -49,26 +49,25 @@ Intro:
 - Maintain good eye contact.
 - Then, “if you don't mind, I'll now make some notes”
 
-```ad-tip
-Suggested pneumonic:
-- Characters
-	- Who is involved
-- History
-	- Of the company
-	- Constitution
-	- When formed
-	- Financial position
-- Assets
-	- Company assets
-	- Client circumstances, their own assets
-	- Circumstances of others involved.
-- Relationships
-	- Who gets on with who
-	- Any people connected
-- Attitudes
-	- How does everyone feel about this proposal, how do you feel. 
-	- How does the client feel about going to court?
-```
+> [!tip]
+> Suggested pneumonic:
+> - Characters
+> 	- Who is involved
+> - History
+> 	- Of the company
+> 	- Constitution
+> 	- When formed
+> 	- Financial position
+> - Assets
+> 	- Company assets
+> 	- Client circumstances, their own assets
+> 	- Circumstances of others involved.
+> - Relationships
+> 	- Who gets on with who
+> 	- Any people connected
+> - Attitudes
+> 	- How does everyone feel about this proposal, how do you feel. 
+> 	- How does the client feel about going to court?
 
 ## Advising
 

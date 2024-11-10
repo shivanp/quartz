@@ -44,9 +44,8 @@ min_depth: 1
 
 Seller will need these to hand at an early stage.
 
-```ad-statute
-EPCs were introduced to comply with the European Energy Performance of Buildings Directive (Directive 2002/91), which has now been revoked and replaced by the Energy Performance of Buildings Directive 2010 (EPB Directive 2010/31/EU). The requirements for EPCs are contained in the Energy Performance of Buildings (England and Wales) Regulations 2012 (SI 2012/3118). 
-```
+> [!statute]
+> EPCs were introduced to comply with the European Energy Performance of Buildings Directive (Directive 2002/91), which has now been revoked and replaced by the Energy Performance of Buildings Directive 2010 (EPB Directive 2010/31/EU). The requirements for EPCs are contained in the Energy Performance of Buildings (England and Wales) Regulations 2012 (SI 2012/3118). 
 
 These require, where a building is to be sold or rented out, that the seller or landlord must make an EPC available free of charge at the earliest opportunity.
 
@@ -71,9 +70,8 @@ The Green Deal was launched in January 2013 and is a government initiative that 
 
 Repayments are spread over a period of up to 25 years through a separate charge added to the property owner’s electricity bill. The charge (which should not be more than the estimated energy bill savings) is payable by the occupier from time to time, so on a sale and purchase it will transfer to the buyer.
 
-```ad-action
-Ensure that the contract for sale includes an acknowledgement by the buyer that the bill payer at the property is obliged to make payments under the Green Deal plan.
-```
+> [!action]
+> Ensure that the contract for sale includes an acknowledgement by the buyer that the bill payer at the property is obliged to make payments under the Green Deal plan.
 
 If the seller fails to disclose the existence of a Green Deal plan or obtain the necessary acknowledgment from the buyer, the Secretary of State may (but is not obliged to) cancel the liability of the buyer to make payments under the Green Deal plan and may require the seller to pay compensation.
 
@@ -81,9 +79,8 @@ In July 2015, the Government stopped funding the Green Deal Finance Company, set
 
 ### Minimum Energy Efficiency Standard
 
-```ad-important
-From April 2018 it has been unlawful to grant or renew tenancies of buildings that do not have at least a rating of E, the minimum energy efficiency standard (MEES). 
-```
+> [!important]
+> From April 2018 it has been unlawful to grant or renew tenancies of buildings that do not have at least a rating of E, the minimum energy efficiency standard (MEES). 
 
 MEES was introduced by the Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015 (SI 2015/ 962) (the MEES Regulations), which also provide that a landlord cannot continue to let a domestic privately rented (PR) property on or after 1 April 2020, or a non-domestic PR property on or after 1 April 2023, unless the property complies with MEES.
 
@@ -93,9 +90,8 @@ A breach of the MEES Regulations is not a criminal offence. If a landlord lets o
 
 ## Purpose of Taking Instructions
 
-```ad-tip
-The purpose of taking instructions is for the solicitor to obtain from their client sufficient information to enable them to carry out the whole of the client’s transaction, not just to enable them to take the first or next step in that transaction.
-```
+> [!tip]
+> The purpose of taking instructions is for the solicitor to obtain from their client sufficient information to enable them to carry out the whole of the client’s transaction, not just to enable them to take the first or next step in that transaction.
 
 Unless full instructions are taken, the solicitor is in danger of overlooking matters which are relevant to the transaction but which the client had not thought to mention specifically to them.
 
@@ -107,9 +103,8 @@ Where possible, take instructions from the client in person. This allows for rap
 
 Say the estate agent contacts the solicitor with instructions. These must be confirmed directly with the client. Where there is more than one client, direct confirmation of instructions must be obtained from all clients ([[Penn v Bristol and West Building Society and Others [1995] 2 FLR 938]]).
 
-```ad-warning
-A solicitor who acts for a client without authority may be liable to anyone who suffers loss as a result of this under the principle of **breach of warranty of authority**. Under the law of agency, an agent (i.e. the solicitor) is deemed to warrant that they have the authority to act on behalf of their principal (i.e. the client) and is liable for any loss suffered by someone who relies on this.
-```
+> [!warning]
+> A solicitor who acts for a client without authority may be liable to anyone who suffers loss as a result of this under the principle of **breach of warranty of authority**. Under the law of agency, an agent (i.e. the solicitor) is deemed to warrant that they have the authority to act on behalf of their principal (i.e. the client) and is liable for any loss suffered by someone who relies on this.
 
 ### Preparing for Interview
 
@@ -212,22 +207,19 @@ See [[Professional Conduct and Regulation 1#Financial Services Regulation]].
 
 unless you are arranging the execution of a mortgage chosen independently by the client or on the advice of an authorised person. General advice as to what type of loan to take out will not require authorisation as it will not amount to a ‘specified activity’.
 
-```ad-defn
-title: Regulated Mortgage Contract
-A regulated mortgage contract is a contract which meets the following conditions at the time it is entered into:
-1. the borrower is an individual or a trustee;
-2. the lender takes a first legal charge over property in the UK; and
-3. at least 40% of the property is occupied by the borrower or a member of his immediate family, or is intended for their occupation.
-```
+> [!defn] Regulated Mortgage Contract
+> A regulated mortgage contract is a contract which meets the following conditions at the time it is entered into:
+> 1. the borrower is an individual or a trustee;
+> 2. the lender takes a first legal charge over property in the UK; and
+> 3. at least 40% of the property is occupied by the borrower or a member of his immediate family, or is intended for their occupation.
 
 If a specified activity is involved, and you are not authorised, need to rely on the 'professional firms exemption'. Allows firms operating under it to arrange or advise on a
 
 regulated mortgage contract, subject to certain conditions, even though they are not authorised by the regulators.
 
-```ad-note
-The ability to ‘advise’ under the
-professional firms' exemption does not include recommending a client to enter into a regulated mortgage contract, except where that advice consists of an endorsement of a recommendation given to the client by an authorised person.
-```
+> [!note]
+> The ability to ‘advise’ under the
+> professional firms' exemption does not include recommending a client to enter into a regulated mortgage contract, except where that advice consists of an endorsement of a recommendation given to the client by an authorised person.
 
 ## Sources of Finance
 

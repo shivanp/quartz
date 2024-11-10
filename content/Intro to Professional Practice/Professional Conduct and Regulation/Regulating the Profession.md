@@ -215,23 +215,22 @@ Where payment is made from the Fund, the SRA will seek to be subrogated to the r
 
 Codes of Conduct impose an obligation on solicitors and firms to ensure clients understand the regulatory protections available to them.
 
-```ad-summary
-(1) The SRA is em powered by the Solicitors Act 1974 to publish rules and requirements  
-for the regulation of conduct of solicitors, recog nised/licensed bodies, m embers of recognised/licensed bodies, and em ployees of recognis ed/licens ed bodies/sole  
-practices.  
-(2) These rules and requirements are enforced by the SRA and the Leg al Ombudsm an.  
-(3) The SRA deals with breaches of the requirements of professional conduct, whereas the Legal Ombudsm an primarily deals with com plaints about services provided by legal practitioners, including solicitors.
-(4) The Legal Ombudsm an deals with com plaints relating to an act/om iss ion by a legal practitioner and which relates to services provided by the practitioner. The client does not need to suffer any loss as a result of the service provide d in order to raise the issue.  
-(5) The SRA may impose disciplinary sanctions for a breach of the requirem ents of  
-professional conduct, or in serious cas es may refer the m atter to the Solicitors  
-Disciplinary Tribunal.  
-(6) The Legal Ombudsman has num erous sanctions at its disposal. These include  
-directing the solicitor to limit their fees, or directing the solicitor to com pensate the client up to £50,000. The SRA/Legal Ombudsman has no power to pay  
-compensation to the client itself.  
-(7) The Solicitors Disciplinary Tribunal m ay fine a solicitor, suspend the solicitor or, as an ultim ate sanction, strike the solicitor of f the roll.  
-(8) A solicitor will be negligent if they breach a duty of care to their client and  
-foreseeable loss results as a consequence of that breach. Where the solicitor has  
-been negligent, they may be sued by the client for damages.  
-(9) The SRA Compensation Fund is maintained by the SRA. Payment m ay be made from  
-the Fund when a client has suffered loss as a result of a defaulting practitioner’s act or om iss ion or to cover claims against uninsured firms.
-```
+> [!summary]
+> (1) The SRA is em powered by the Solicitors Act 1974 to publish rules and requirements  
+> for the regulation of conduct of solicitors, recog nised/licensed bodies, m embers of recognised/licensed bodies, and em ployees of recognis ed/licens ed bodies/sole  
+> practices.  
+> (2) These rules and requirements are enforced by the SRA and the Leg al Ombudsm an.  
+> (3) The SRA deals with breaches of the requirements of professional conduct, whereas the Legal Ombudsm an primarily deals with com plaints about services provided by legal practitioners, including solicitors.
+> (4) The Legal Ombudsm an deals with com plaints relating to an act/om iss ion by a legal practitioner and which relates to services provided by the practitioner. The client does not need to suffer any loss as a result of the service provide d in order to raise the issue.  
+> (5) The SRA may impose disciplinary sanctions for a breach of the requirem ents of  
+> professional conduct, or in serious cas es may refer the m atter to the Solicitors  
+> Disciplinary Tribunal.  
+> (6) The Legal Ombudsman has num erous sanctions at its disposal. These include  
+> directing the solicitor to limit their fees, or directing the solicitor to com pensate the client up to £50,000. The SRA/Legal Ombudsman has no power to pay  
+> compensation to the client itself.  
+> (7) The Solicitors Disciplinary Tribunal m ay fine a solicitor, suspend the solicitor or, as an ultim ate sanction, strike the solicitor of f the roll.  
+> (8) A solicitor will be negligent if they breach a duty of care to their client and  
+> foreseeable loss results as a consequence of that breach. Where the solicitor has  
+> been negligent, they may be sued by the client for damages.  
+> (9) The SRA Compensation Fund is maintained by the SRA. Payment m ay be made from  
+> the Fund when a client has suffered loss as a result of a defaulting practitioner’s act or om iss ion or to cover claims against uninsured firms.

@@ -104,10 +104,8 @@ A depository is a bank appointed on behalf of a clearing system dealing with a p
 
 Using a depository also allows the bonds to be kept in jurisdictions other than those of the clearing systems (tax advantages). The use of a depository to hold the bonds is sometimes known as ‘immobilisation’.
 
-```ad-question 
-title: When can a global note not be placed with a common depository?
-Some issuers will want their securities to be recognised by the European Central Bank as ‘eligible collateral’ for the euro central banking system (Eurosystem). From July 2006, securities are only eligible as Eurosystem collateral if their global form is held by the clearing system themselves and not at a common depository.
-```
+> [!question] When can a global note not be placed with a common depository?
+> Some issuers will want their securities to be recognised by the European Central Bank as ‘eligible collateral’ for the euro central banking system (Eurosystem). From July 2006, securities are only eligible as Eurosystem collateral if their global form is held by the clearing system themselves and not at a common depository.
 
 ## Legal Advisers
 
@@ -168,10 +166,8 @@ The prospectus is the document which provides detailed information about an issu
 
 ### Subscription/ Underwriting Agreement
 
-```ad-defn
-title: Subscription agreement 
-The subscription agreement is a contract between the issuer, the lead manager and the co-managers which records the basis on which the issuer will sell, and the managers will buy, the bonds on issue.
-```
+> [!defn] Subscription agreement
+> The subscription agreement is a contract between the issuer, the lead manager and the co-managers which records the basis on which the issuer will sell, and the managers will buy, the bonds on issue.
 
 Most London market bonds work on the basis that the syndicate will subscribe for all of the bonds between them, even if they cannot place them with investors. Under the terms of the subscription agreement, the liability of the syndicate members to the issuer of an issue is joint and several (key difference with a syndicated loan).
 

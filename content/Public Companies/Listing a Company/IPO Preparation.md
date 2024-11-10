@@ -99,13 +99,11 @@ Print the prospectus and documentation!
 
 ## Timing
 
-```ad-question
-title: Is the company ready to float? 
-Ask: 
-1. Will the company meet the regulatory requirements for an IPO laid down by the FCA (in relation to listing) and the Stock Exchange (in relation to trading)?
-2. Will investors perceive the company to be an attractive investment opportunity?
-
-```
+> [!question] Is the company ready to float?
+> Ask: 
+> 1. Will the company meet the regulatory requirements for an IPO laid down by the FCA (in relation to listing) and the Stock Exchange (in relation to trading)?
+> 2. Will investors perceive the company to be an attractive investment opportunity?
+> 
 
 ### Regulatory Requirements
 
@@ -113,9 +111,8 @@ s 75(4) FSMA 2000: the FCA cannot grant an application for listing unless satisf
 
 A premium listing requires compliance with the full set of conditions for listing as set out in the Listing Rules and elsewhere. A standard listing requires compliance only with those listing conditions required under relevant EU law.
 
-```ad-note
-Most companies choose a premium listing, for prestige.
-```
+> [!note]
+> Most companies choose a premium listing, for prestige.
 
 There are multiple categories of listing within the premium and standard segments. 4 categories for premium listings; we only care about the “commercial company” category. 5 categories for standard listing; depending on the type of security listed.
 
@@ -222,9 +219,8 @@ Having a public offer does not preclude institutional investors from participati
 
 Involves the marketing of shares either already in issue or not yet in issue to specified persons, or clients of the sponsor or other securities house assisting the placing. Typically, this involves the sponsor offering the shares in the company seeking to float to institutional investors.
 
-```ad-warning
-The definition of a placing in the Listing Rules states that it does not involve an offer to the public. This means it will not involve a general offer to private investors at large, but has no impact on the separate definition of offer to the public under s 85(1) of the FSMA 2000 regarding the need to prepare a prospectus.
-```
+> [!warning]
+> The definition of a placing in the Listing Rules states that it does not involve an offer to the public. This means it will not involve a general offer to private investors at large, but has no impact on the separate definition of offer to the public under s 85(1) of the FSMA 2000 regarding the need to prepare a prospectus.
 
 Advantages:
 
@@ -297,8 +293,7 @@ The board must comply with principles of corporate governance. Consider if chang
 
 Consider any historic breaches of the law and remedy them if possible.
 
-```ad-action
-Consider if:
-- IPO arrangements will give rise to any [[Financial assistance]] issues
-- s 580: no share should be issued at a discount to its nominal value.
-```
+> [!action]
+> Consider if:
+> - IPO arrangements will give rise to any [[Financial assistance]] issues
+> - s 580: no share should be issued at a discount to its nominal value.

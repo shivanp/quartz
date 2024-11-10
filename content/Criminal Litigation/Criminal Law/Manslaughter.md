@@ -86,12 +86,11 @@ The defendant could become liable if they became aware of a fact during the comm
 
 In [[R v Ball [1989] Crim LR 730]] the reasonable person was given knowledge they would have gained from being in the defendant's shoes a while before the unlawful act. The reasonable person will therefore have any special knowledge which the defendant has. This has now been confirmed by the Court of Appeal in [[R v Farnon [2015] EWCA Crim 351]].
 
-```ad-summary
-We could summarise the legal principles from the cases on the act being dangerous as follows:
-- The sober and reasonable person knows everything they would have known if they had been in the defendant's shoes at the time of the offence.
-- The sober and reasonable person has any special knowledge that the defendant has or ought to have known.
-- Being reasonable, they do not make any unreasonable mistakes made by the defendant.
-```
+> [!summary]
+> We could summarise the legal principles from the cases on the act being dangerous as follows:
+> - The sober and reasonable person knows everything they would have known if they had been in the defendant's shoes at the time of the offence.
+> - The sober and reasonable person has any special knowledge that the defendant has or ought to have known.
+> - Being reasonable, they do not make any unreasonable mistakes made by the defendant.
 
 ### The Unlawful Act Caused the Death of the Victim
 
@@ -118,28 +117,27 @@ This concerns situations where the deceased voluntarily consumes the drug, in aw
 
 Where the deceased is aware of what they are taking, could the supplier of drugs still be convicted? Does it make a difference if the supplier of drugs does more than simply supplying, such as by mixing a particular 'cocktail' of drugs, or filling the syringe before passing it on to V? The issues fell to be determined by the House of Lords in [[R v Kennedy [2007] 3 WLR 612]].
 
-```ad-summary
-
-In **_DPP v Newbury_ _and Jones_** the court stated that to be guilty of the offence the prosecution must prove that:
-
-(1) **The defendant intentionally (voluntarily) did an act**- which results in the death of a person (D does not need intention regarding the consequences which flow from the act)
-
-**(2) The act was unlawful**- It must be:
-- A criminal act- rather than a civil one, **_R v Franklin,_** the _actus reus_ and _mens rea_ of the offence must be proven,**_R v Lamb_** and there must be no valid defence,**_R v Scarlett._**
-- An intrinsically unlawful act- it cannot be a lawful act which becomes which becomes unlawful only because of the negligent or reckless manner in which it is performed e.g. driving, **_Andrews v DPP_**.
-- An act rather than an omission, **_R v Lowe._**
-
-**(3) The unlawful act was dangerous**- an objective test which asks if all sober and reasonable people would inevitably recognise must subject the other person to, at least, the risk of some harm, albeit not serious harm, **_R v Church_**.
-- Physical, not emotional harm but includes shock that produces physical effects, **_Dawson._**
-- The sober and reasonable person knows everything they would have known if they had been in the defendant's shoes at the time of the offence, **_Dawson, Watson._**
-- The sober and reasonable person has any special knowledge that the defendant has or ought to have known, **_Ball_**.
-- Being reasonable, they do not make any unreasonable mistakes made by the defendant,**_Ball_**.
-
-(4) **The unlawful act caused the death of the victim-** the act must have both factually and legally caused the death of the victim. If D:
-- directly administers a drug to V, D causes V’s death as consent by the V is no defence- **_Cato._**
-- merely supplies V with the drugs, or assists V, D does not cause V’s death, so long as V is a fully informed and responsible adult who freely and voluntarily self-administers, **_Kennedy_**.
-
-```
+> [!summary]
+> 
+> In **_DPP v Newbury_ _and Jones_** the court stated that to be guilty of the offence the prosecution must prove that:
+> 
+> (1) **The defendant intentionally (voluntarily) did an act**- which results in the death of a person (D does not need intention regarding the consequences which flow from the act)
+> 
+> **(2) The act was unlawful**- It must be:
+> - A criminal act- rather than a civil one, **_R v Franklin,_** the _actus reus_ and _mens rea_ of the offence must be proven,**_R v Lamb_** and there must be no valid defence,**_R v Scarlett._**
+> - An intrinsically unlawful act- it cannot be a lawful act which becomes which becomes unlawful only because of the negligent or reckless manner in which it is performed e.g. driving, **_Andrews v DPP_**.
+> - An act rather than an omission, **_R v Lowe._**
+> 
+> **(3) The unlawful act was dangerous**- an objective test which asks if all sober and reasonable people would inevitably recognise must subject the other person to, at least, the risk of some harm, albeit not serious harm, **_R v Church_**.
+> - Physical, not emotional harm but includes shock that produces physical effects, **_Dawson._**
+> - The sober and reasonable person knows everything they would have known if they had been in the defendant's shoes at the time of the offence, **_Dawson, Watson._**
+> - The sober and reasonable person has any special knowledge that the defendant has or ought to have known, **_Ball_**.
+> - Being reasonable, they do not make any unreasonable mistakes made by the defendant,**_Ball_**.
+> 
+> (4) **The unlawful act caused the death of the victim-** the act must have both factually and legally caused the death of the victim. If D:
+> - directly administers a drug to V, D causes V’s death as consent by the V is no defence- **_Cato._**
+> - merely supplies V with the drugs, or assists V, D does not cause V’s death, so long as V is a fully informed and responsible adult who freely and voluntarily self-administers, **_Kennedy_**.
+> 
 
 ## Gross Negligence Manslaughter
 
@@ -155,9 +153,8 @@ Defining the precise nature of negligence has proved problematic for the courts.
 
 The leading case on gross negligence manslaughter is the House of Lords decision [[R v Adomako [1995] 1 AC 171]].  
 
-```ad-important
-It was held that in cases of gross negligence manslaughter, the jury should be directed on gross negligence manslaughter as whether, having regard to the risk of death involved, the conduct of the defendant was so bad in all the circumstances as to amount to a criminal act or omission. 
-```
+> [!important]
+> It was held that in cases of gross negligence manslaughter, the jury should be directed on gross negligence manslaughter as whether, having regard to the risk of death involved, the conduct of the defendant was so bad in all the circumstances as to amount to a criminal act or omission. 
 
 In Adomako, the defendant was a locum anaesthetist during an operation to correct a detached retina. He failed to notice that a tube had become dislodged during the course of the operation, and this resulted in the patient being deprived of oxygen. The patient suffered a cardiac arrest and died. The defendant was convicted of manslaughter. Adomako appealed to the House of Lords on the basis that the correct test for this form of manslaughter should be recklessness, not negligence.
 
@@ -229,11 +226,10 @@ In order to establish criminal liability the facts must be such that, in the opi
 
 In [[A-G's Ref (No 2 of 1999) [2000] QB 796]] the Court of Appeal held that proof of gross negligence did not require proof of any particular state of mind, and did not require evidence as to the accused's state of mind.
 
-```ad-example
-[[Prentice and Sullman]]: Their appeal was heard with **_Adomako_** in the Court of Appeal. Both were junior doctors. P was required to administer a routine lumbar injection to a 16 year old cancer sufferer. He had not done this before and was concerned about whether he should. He consulted the registrar, who arranged for S (who had only done the procedure once) to supervise. S took the wrong drug from a box of drugs provided and handed it to P who injected. Because it was the wrong drug, the patient died from a reaction to it. In the circumstances, the mistakes by the defendants were in part brought about by the failures of others, including the failure of more senior doctors to prepare and advise them or supervise them properly, inadequacies in the way the drugs were stored (different drugs with similar labels in the same box). 
-
-Therefore the mistakes of the defendants were not ‘grossly negligent’ – contrast with **_Singh_** where there were also multiple people responsible but all were experienced and individually able to address the problems.
-```
+> [!example]
+> [[Prentice and Sullman]]: Their appeal was heard with **_Adomako_** in the Court of Appeal. Both were junior doctors. P was required to administer a routine lumbar injection to a 16 year old cancer sufferer. He had not done this before and was concerned about whether he should. He consulted the registrar, who arranged for S (who had only done the procedure once) to supervise. S took the wrong drug from a box of drugs provided and handed it to P who injected. Because it was the wrong drug, the patient died from a reaction to it. In the circumstances, the mistakes by the defendants were in part brought about by the failures of others, including the failure of more senior doctors to prepare and advise them or supervise them properly, inadequacies in the way the drugs were stored (different drugs with similar labels in the same box). 
+> 
+> Therefore the mistakes of the defendants were not ‘grossly negligent’ – contrast with **_Singh_** where there were also multiple people responsible but all were experienced and individually able to address the problems.
 
 ## Conclusions
 
@@ -247,11 +243,10 @@ It is not possible to draw firm conclusions from these cases, given that the iss
 - If someone has seen a high risk of death or has a ‘couldn’t care less’ attitude to a high risk of death, it seems clear that they are highly likely to be convicted.
 - The defendant’s state of mind may also work in their favour: if the defendant genuinely did not believe there was a risk, this is a factor that the court can take into account.
 
-```ad-summary
-The basic requirements for gross negligence manslaughter as laid down in **_Adomako_** are as follows:
-- **The existence of a duty of care-** everyone has a general duty to take care to avoid injury **by a positive act** to their neighbour. Liability can arise for **an omission** in circumstances where the defendant is under a specific duty to act.
-- **Breach of that duty-** the question is one of whether the defendant's acts fell below the standard expected of a reasonable person. The reasonable person will be attributed with any special skill used by the defendant.
-- **The breach causes death-** factual and legal causation principles apply.
-- **There was a risk of death-** there must ‘be an obvious and serious risk not merely of injury or even serious injury, but of death’, **_Singh_**.
-- **The breach of duty was so bad as to amount to 'gross negligence’-** whether, having regard to the risk of death involved, the conduct of the defendant was so bad in all the circumstances as to amount in their judgment to a criminal act or omission, **_Adomako_**. Factually specific but some themes can be drawn from the case law in this area.
-```
+> [!summary]
+> The basic requirements for gross negligence manslaughter as laid down in **_Adomako_** are as follows:
+> - **The existence of a duty of care-** everyone has a general duty to take care to avoid injury **by a positive act** to their neighbour. Liability can arise for **an omission** in circumstances where the defendant is under a specific duty to act.
+> - **Breach of that duty-** the question is one of whether the defendant's acts fell below the standard expected of a reasonable person. The reasonable person will be attributed with any special skill used by the defendant.
+> - **The breach causes death-** factual and legal causation principles apply.
+> - **There was a risk of death-** there must ‘be an obvious and serious risk not merely of injury or even serious injury, but of death’, **_Singh_**.
+> - **The breach of duty was so bad as to amount to 'gross negligence’-** whether, having regard to the risk of death involved, the conduct of the defendant was so bad in all the circumstances as to amount in their judgment to a criminal act or omission, **_Adomako_**. Factually specific but some themes can be drawn from the case law in this area.

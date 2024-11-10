@@ -10,10 +10,9 @@ title: What is land
 
 ## Statutory Definition
 
-```ad-defn
-“Land” includes land of any tenure, and mines and minerals, whether or not held apart from the surface, buildings or parts of buildings (whether the division is horizontal, vertical or made in any other way) and other corporeal hereditaments; also a manor, an advowson, and a rent and other incorporeal hereditaments, and an easement, right, privilege, or benefit in, over, or derived from land; . . . and “mines and minerals” include any strata or seam of minerals or substances in or under any land, and powers of working and getting the same . . .; and “manor” includes a lordship, and reputed manor or lordship; and “hereditament” means any real property which on an intestacy occurring before the commencement of this Act might have devolved upon an heir;
-([s 205(1)(ix) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/205))
-```
+> [!defn]
+> “Land” includes land of any tenure, and mines and minerals, whether or not held apart from the surface, buildings or parts of buildings (whether the division is horizontal, vertical or made in any other way) and other corporeal hereditaments; also a manor, an advowson, and a rent and other incorporeal hereditaments, and an easement, right, privilege, or benefit in, over, or derived from land; . . . and “mines and minerals” include any strata or seam of minerals or substances in or under any land, and powers of working and getting the same . . .; and “manor” includes a lordship, and reputed manor or lordship; and “hereditament” means any real property which on an intestacy occurring before the commencement of this Act might have devolved upon an heir;
+> ([s 205(1)(ix) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/205))
 
 There is a much higher degree of formality required to transfer land compared to other forms of property. A deed must be used to transfer land. A buyer of a piece of land will want to know what is included. A buyer of land gets everything that falls within the legal definition of land ([s 62 LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/62)).
 

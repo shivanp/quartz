@@ -40,11 +40,10 @@ Following, tracing and claiming underpin equitable proprietary claims. The funct
 | Tracing   | Tracing is the process of ‘identifying a new asset as the substitute for the old’ ([Foskett v McKeown [2001] 1 AC 102](app://obsidian.md/Foskett%20v%20McKeown%20[2001]%201%20AC%20102). Generally, one asset is the traceable proceed of another if there is ‘a series of direct substitutions’ between them ([Relfo Ltd (in liquidation) v Varsani [2014] EWCA Civ 360](app://obsidian.md/Relfo%20Ltd%20(in%20liquidation)%20v%20Varsani%20[2014]%20EWCA%20Civ%20360)). |
 | Claiming  | Claiming is the assertion of a personal or proprietary right in relation to misapplied trust property or its traceable proceeds ([[Foskett v McKeown [2001] 1 AC 102]]).                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-```ad-example
-T misapplies £1,000 (cash) of a trust fund and gifts it to X. X uses the cash to buy a painting.
-
-The beneficiaries can follow the £1,000 from T to X and then trace it into the painting because X exchanged the £1,000 for the painting. The painting is the substitute for the £1,000.
-```
+> [!example]
+> T misapplies £1,000 (cash) of a trust fund and gifts it to X. X uses the cash to buy a painting.
+> 
+> The beneficiaries can follow the £1,000 from T to X and then trace it into the painting because X exchanged the £1,000 for the painting. The painting is the substitute for the £1,000.
 
 A claimant can use the equitable following, tracing and claiming rules if two conditions are satisfied: [[ Re Diplock [1948] Ch 465]]:
 
@@ -53,9 +52,8 @@ A claimant can use the equitable following, tracing and claiming rules if two co
 
 The conditions are easily satisfied in cases involving misapplication of property subject to an express trust. Beneficiaries have an equitable proprietary interest in trust property, and the standard relationship between an express trustee and the beneficiaries is a fiduciary one.
 
-```ad-note
-For simplicity, the examples used all involve express trusts but they are not the only circumstances in which you will be expected to apply the tracing rules.
-```
+> [!note]
+> For simplicity, the examples used all involve express trusts but they are not the only circumstances in which you will be expected to apply the tracing rules.
 
 The court will also easily acknowledge the satisfaction of the Diplock conditions in cases involving trusts arising by operation of law (such as where a constructive trust is imposed as a remedy for breach of fiduciary duty). This then allows tracing into property acquired using the profit from a breach of the no-profit rule.
 
@@ -86,13 +84,12 @@ Tracing can be difficult when misapplied trust money (or its traceable proceed) 
 - Tracing involving a mixture of trustee and beneficiary funds
 - Tracing involving a mixture of beneficiary and innocent third party funds.
 
-```ad-example
-Consider the following examples. In each case ‘T’ is the trustee and ‘X’ is an innocent third party.
-- T misapplies £1,000 of the trust fund and uses it to purchase shares.
-- T misapplies £1,000 of the trust fund and gifts it to X. X uses the £1,000 to purchase shares.
-- T misapplies £1,000 of the trust fund and adds it to their current bank account which is already credited with £1,000. T subsequently withdraws £1,000 from the account and uses it to purchase shares.
-- T misapplies £1,000 of the trust fund and gifts it to X. X adds the £1,000 to their current bank account which is already credited with £1,000. X subsequently withdraws £1,000 from the account and uses it to purchase shares.
-```
+> [!example]
+> Consider the following examples. In each case ‘T’ is the trustee and ‘X’ is an innocent third party.
+> - T misapplies £1,000 of the trust fund and uses it to purchase shares.
+> - T misapplies £1,000 of the trust fund and gifts it to X. X uses the £1,000 to purchase shares.
+> - T misapplies £1,000 of the trust fund and adds it to their current bank account which is already credited with £1,000. T subsequently withdraws £1,000 from the account and uses it to purchase shares.
+> - T misapplies £1,000 of the trust fund and gifts it to X. X adds the £1,000 to their current bank account which is already credited with £1,000. X subsequently withdraws £1,000 from the account and uses it to purchase shares.
 
 In each of these examples, the beneficiary can ‘vindicate’ their equitable proprietary interest in the £1,000 by tracing it into, and asserting an interest in, the shares and/or the bank account. But the extent and nature of the claims are different because each is determined by the application of different ‘tracing’ and ‘claiming’ rules.
 
@@ -100,49 +97,45 @@ In each of these examples, the beneficiary can ‘vindicate’ their equitable p
 
 The simplest tracing exercise is one in which an asset is acquired exclusively with misapplied trust money (or its traceable proceed).
 
-```ad-example
-1. T misapplies £1,000 of the trust fund and uses the money to purchase shares for £1,000.
-
-The shares are the traceable proceeds of the trust fund because the trust money was exchanged for the shares. The beneficiary can trace into the shares and then make a proprietary claim in respect of them.
-
-2. T then sells the shares and uses the proceeds of sale to purchase a bicycle and a television.
-
-The bicycle and television are the traceable proceeds of the trust fund. T exchanged the shares for money (paid by the purchaser) and then exchanged the money for the bicycle and television. Thus, there is a series of direct substitutions between the misapplied trust money and the bicycle and television.
-```
+> [!example]
+> 1. T misapplies £1,000 of the trust fund and uses the money to purchase shares for £1,000.
+> 
+> The shares are the traceable proceeds of the trust fund because the trust money was exchanged for the shares. The beneficiary can trace into the shares and then make a proprietary claim in respect of them.
+> 
+> 2. T then sells the shares and uses the proceeds of sale to purchase a bicycle and a television.
+> 
+> The bicycle and television are the traceable proceeds of the trust fund. T exchanged the shares for money (paid by the purchaser) and then exchanged the money for the bicycle and television. Thus, there is a series of direct substitutions between the misapplied trust money and the bicycle and television.
 
 ### Tracing: Mixed Funds
 
 Tracing is more difficult when misapplied trust money (or its traceable proceed) is mixed with money derived from other sources.
 
-```ad-tip
-Most tracing cases involve money mixed in bank accounts and, as a result, the tracing rules have been largely formulated by reference to bank accounts. But the rules are not limited to money or bank accounts. They also apply to physical mixtures of fungible goods ([[Foskett v McKeown [2001] 1 AC 102]]).
-```
+> [!tip]
+> Most tracing cases involve money mixed in bank accounts and, as a result, the tracing rules have been largely formulated by reference to bank accounts. But the rules are not limited to money or bank accounts. They also apply to physical mixtures of fungible goods ([[Foskett v McKeown [2001] 1 AC 102]]).
 
 There are two principal types of mixed fund:
 
 - A mixed fund comprising misapplied trust money and the trustee’s own money (‘a wrongful mixture’)
 - A mixed fund comprising misapplied trust money and money derived from one or more innocent third parties (‘an innocent mixture’)
 
-```ad-sum
-In cases where the whole of a mixed fund is used to acquire a single asset, tracing is reasonably straightforward, as the beneficiary can trace into that asset. Tracing is more difficult in cases where only part of a mixed fund is used in connection with a particular transaction. Different rules apply to wrongful mixtures and innocent mixtures. Broadly, the rules on wrongful mixtures reflect the principle that trustees must act on behalf of beneficiaries, rather than profiting for themselves, while the rules on innocent mixtures are aimed at maintaining fairness between innocent parties.
-```
+> [!sum]
+> In cases where the whole of a mixed fund is used to acquire a single asset, tracing is reasonably straightforward, as the beneficiary can trace into that asset. Tracing is more difficult in cases where only part of a mixed fund is used in connection with a particular transaction. Different rules apply to wrongful mixtures and innocent mixtures. Broadly, the rules on wrongful mixtures reflect the principle that trustees must act on behalf of beneficiaries, rather than profiting for themselves, while the rules on innocent mixtures are aimed at maintaining fairness between innocent parties.
 
 ### Withdrawals From Wrongful Mixtures
 
 In cases where the whole of a mixed fund is used to acquire a single asset tracing is reasonably straightforward. For example:
 
-```ad-example
-- T misapplies £1,000 of the trust fund. 
-- T pays the £1,000 into their current bank account which is already credited with £1,000
-- T withdraws £2,000 (cash) from the account and uses it to purchase shares
-
-The shares are the traceable proceeds of the trust fund because:
-- £1,000 was credited to T’s bank account in exchange for the trust money
-- T exchanged the sum credited to the account for £2,000 (cash)
-- T exchanged the cash for the shares
-
-Thus, there is a series of direct substitutions between the misapplied trust money and the shares.
-```
+> [!example]
+> - T misapplies £1,000 of the trust fund. 
+> - T pays the £1,000 into their current bank account which is already credited with £1,000
+> - T withdraws £2,000 (cash) from the account and uses it to purchase shares
+> 
+> The shares are the traceable proceeds of the trust fund because:
+> - £1,000 was credited to T’s bank account in exchange for the trust money
+> - T exchanged the sum credited to the account for £2,000 (cash)
+> - T exchanged the cash for the shares
+> 
+> Thus, there is a series of direct substitutions between the misapplied trust money and the shares.
 
 Tracing is more difficult in cases where only part of a mixed fund is used in connection with a particular transaction. Different rules apply to wrongful mixtures and innocent mixtures. The courts have developed three tracing rules in connection with wrongful mixtures. The rule applicable to any given case is determined by its facts.
 
@@ -154,9 +147,8 @@ The rules can be conveniently described by reference to three factual models. Ea
 
 #### The Hallett Model
 
-```ad-example
-T misapplies £1,000 of the trust fund. T pays it into their current bank account which has a nil balance. T pays £1,000 of their own money into the account, increasing the sum credited to the account to £2,000. T withdraws £1,000 from the account and applies it for their own benefit. £1,000 is still credited to the account.
-```
+> [!example]
+> T misapplies £1,000 of the trust fund. T pays it into their current bank account which has a nil balance. T pays £1,000 of their own money into the account, increasing the sum credited to the account to £2,000. T withdraws £1,000 from the account and applies it for their own benefit. £1,000 is still credited to the account.
 
 In [[Re Hallett’s Estate (1880) 13 Ch D 696]], the trustee argued that, since he paid the trust money into the account before his own money, the trust money should be treated as having been withdrawn from the account before his money, meaning the sum credited to the account was his.
 
@@ -164,9 +156,8 @@ The Court of Appeal rejected the argument. Jessel MR said that the trustee ‘ca
 
 #### The Oatway Model
 
-```ad-example
-T misapplies £1,000 of the trust fund. T pays it into their current bank account which is already credited with £1,000. T withdraws £1,000 from the account and uses it to purchase shares. T withdraws £1,000 from the account and dissipates it. (Dissipation means applying money in such a way that there is no traceable proceed e.g. when it is used to pay for a pure service such as a haircut or a massage.)
-```
+> [!example]
+> T misapplies £1,000 of the trust fund. T pays it into their current bank account which is already credited with £1,000. T withdraws £1,000 from the account and uses it to purchase shares. T withdraws £1,000 from the account and dissipates it. (Dissipation means applying money in such a way that there is no traceable proceed e.g. when it is used to pay for a pure service such as a haircut or a massage.)
 
 In [[Re Oatway [1903] 2 Ch 356]], the trustee tried to rely on Re Hallett’s Estate to claim the shares. Joyce J rejected this argument, concluding that the trustee had dissipated their own funds.
 
@@ -174,9 +165,8 @@ Although in Hallett the facts meant it made sense to conclude that the trustee h
 
 #### Shalson Model
 
-```ad-example
-T misapplies £1,000 of the trust fund. T pays it into their current bank account which is already credited with £1,000. T withdraws £1,000 from the account and uses it to purchase shares which have increased in value. £1,000 is still credited to the account
-```
+> [!example]
+> T misapplies £1,000 of the trust fund. T pays it into their current bank account which is already credited with £1,000. T withdraws £1,000 from the account and uses it to purchase shares which have increased in value. £1,000 is still credited to the account
 
 In [[Shalson v Russo [2003] EWHC 1637 (Ch)]], the trustee argued that, since he had not dissipated any money and the sum credited to the account was sufficient to restore the misapplied trust money, the sum used to purchase the shares should be treated as his money.
 
@@ -184,21 +174,19 @@ Rimer J rejected this argument, concluding that the beneficiary could attribute 
 
 #### Summary
 
-```ad-sum
-**Basic rule**: Where a trustee makes withdrawals from a wrongful mixture, some of which (or their traceable proceeds) are dissipated, the beneficiary can treat the dissipation as the trustee’s money and attribute the identifiable funds (or traceable proceeds) to the trust, regardless of the order in which the withdrawals are made.
+> [!sum]
+> **Basic rule**: Where a trustee makes withdrawals from a wrongful mixture, some of which (or their traceable proceeds) are dissipated, the beneficiary can treat the dissipation as the trustee’s money and attribute the identifiable funds (or traceable proceeds) to the trust, regardless of the order in which the withdrawals are made.
+> 
+> **Cherry picking**: In cases where withdrawals from a wrongful mixture result in the identification of multiple assets into which a beneficiary could potentially trace:
+> - In cases where the only contest is between the beneficiary and the trustee, the beneficiary can attribute the most profitable applications of the mixed fund to the trust money.
+> - In other cases (e.g. cases in which the beneficiary is competing with the unsecured creditors of a bankrupt trustee) the basic rule still applies (i.e. the beneficiary can attribute any part of the mixed fund which is dissipated to the trustee) but the beneficiary cannot attribute the most profitable applications of the fund to the misapplied trust money.
 
-**Cherry picking**: In cases where withdrawals from a wrongful mixture result in the identification of multiple assets into which a beneficiary could potentially trace:
-- In cases where the only contest is between the beneficiary and the trustee, the beneficiary can attribute the most profitable applications of the mixed fund to the trust money.
-- In other cases (e.g. cases in which the beneficiary is competing with the unsecured creditors of a bankrupt trustee) the basic rule still applies (i.e. the beneficiary can attribute any part of the mixed fund which is dissipated to the trustee) but the beneficiary cannot attribute the most profitable applications of the fund to the misapplied trust money.
-```
-
-```ad-example
-T misapplies £1,000 of the trust fund. T pays it into their current bank account which is already credited with £1,000. T withdraws £500 from the account and dissipates it. T withdraws £500 from the account and uses it to purchase shares which have increased in value to £1,000. £1,000 is still credited to the account
-
-If the only contest is between the beneficiary and the trustee, the beneficiary can ‘cherry pick’ the most profitable applications of the mixed fund. The beneficiary can treat the dissipated £500 as the trustee’s money, but the £500 spent on the shares as trust money. The remaining £1,000 in the account is £500 trust money and £500 trustee money. This results in the trust fund having proprietary interests in assets worth £1,500.
-
-If the contest is between the beneficiary and the trustee’s unsecured creditors, the beneficiary can only attribute the trust money to the sum credited to the account, i.e. the trustee has dissipated £500 of their own money and spent £500 of their own money on shares (meaning an asset of £1,000 is available to repay creditors). The £1,000 in the account is all trust money.
-```
+> [!example]
+> T misapplies £1,000 of the trust fund. T pays it into their current bank account which is already credited with £1,000. T withdraws £500 from the account and dissipates it. T withdraws £500 from the account and uses it to purchase shares which have increased in value to £1,000. £1,000 is still credited to the account
+> 
+> If the only contest is between the beneficiary and the trustee, the beneficiary can ‘cherry pick’ the most profitable applications of the mixed fund. The beneficiary can treat the dissipated £500 as the trustee’s money, but the £500 spent on the shares as trust money. The remaining £1,000 in the account is £500 trust money and £500 trustee money. This results in the trust fund having proprietary interests in assets worth £1,500.
+> 
+> If the contest is between the beneficiary and the trustee’s unsecured creditors, the beneficiary can only attribute the trust money to the sum credited to the account, i.e. the trustee has dissipated £500 of their own money and spent £500 of their own money on shares (meaning an asset of £1,000 is available to repay creditors). The £1,000 in the account is all trust money.
 
 ### Withdrawals From Innocent Mixtures
 
@@ -207,28 +195,24 @@ The two most common examples of innocent mixtures are cases where:
 - Money from two or more trusts is mixed by a common trustee
 - An innocent recipient of misapplied trust money mixes it with their own money
 
-```ad-example
-title: Mixing of funds from multiple trusts
-T misapplies £1,000 of the trust fund A and mixes it with £1,000 from trust fund B. T withdraws £500 from the mixed fund and dissipates it.
+> [!example] Mixing of funds from multiple trusts
+> T misapplies £1,000 of the trust fund A and mixes it with £1,000 from trust fund B. T withdraws £500 from the mixed fund and dissipates it.
+> 
+> The general rule applying to withdrawals from an innocent mixture is that withdrawals are attributed rateably to the contributors to the mixture: [[Re Diplock [1948] Ch 465]].
+> 
+> 1/2 of the dissipated £500 was from trust A and 1/2 was from trust B. Therefore, trust A and B also share the £1,500 that remains in the mixed fund in these proportions.
+> 
+> Each trust fund has a proprietary claim worth £750 over the money in the mixed fund (and a personal claim of £250 against the trustee in respect of their share of the dissipated money).
 
-The general rule applying to withdrawals from an innocent mixture is that withdrawals are attributed rateably to the contributors to the mixture: [[Re Diplock [1948] Ch 465]].
-
-1/2 of the dissipated £500 was from trust A and 1/2 was from trust B. Therefore, trust A and B also share the £1,500 that remains in the mixed fund in these proportions.
-
-Each trust fund has a proprietary claim worth £750 over the money in the mixed fund (and a personal claim of £250 against the trustee in respect of their share of the dissipated money).
-```
-
-```ad-example
-title: Funds mixed by innocent party
-
-T misapplies £1,000 (cash) of the trust fund and gifts it to X, an innocent volunteer. X puts the cash into their wallet, which already contains £500 of their own money. X removes £600 from the wallet and dissipates it. X’s wallet still contains £900.
-
-If the funds had been dissipated by T, we would treat T’s £600 as dissipated, meaning the £900 is trust money. This would not seem fair here as X does not know about the breach of trust.
-
-The rule from [[Re Diplock [1948] Ch 465]] therefore applies again here, even though the funds were mixed by X:
-- Since 2/3 of the £1,500 was trust money, and 1/3 was X’s money, withdrawals from the £1,500 are attributed to X and the trust in those fractions.
-- Therefore, £400 of the £600 which was dissipated is attributable to the trust money, as is £600 of the £900 in the wallet.
-```
+> [!example] Funds mixed by innocent party
+> 
+> T misapplies £1,000 (cash) of the trust fund and gifts it to X, an innocent volunteer. X puts the cash into their wallet, which already contains £500 of their own money. X removes £600 from the wallet and dissipates it. X’s wallet still contains £900.
+> 
+> If the funds had been dissipated by T, we would treat T’s £600 as dissipated, meaning the £900 is trust money. This would not seem fair here as X does not know about the breach of trust.
+> 
+> The rule from [[Re Diplock [1948] Ch 465]] therefore applies again here, even though the funds were mixed by X:
+> - Since 2/3 of the £1,500 was trust money, and 1/3 was X’s money, withdrawals from the £1,500 are attributed to X and the trust in those fractions.
+> - Therefore, £400 of the £600 which was dissipated is attributable to the trust money, as is £600 of the £900 in the wallet.
 
 ### Innocent Mixtures in Current Accounts
 
@@ -236,15 +220,12 @@ This general rule does not apply to withdrawals from an innocent mixture in a cu
 
 #### Clayton's Case
 
-```ad-test
-title: Rule in Clayton's case
+> [!test] Rule in Clayton's case
+> 
+> Technically, the rule applying to withdrawals from a current bank account is the rule in [[Clayton’s Case (1816) 1 Mer 529]]. Grant MR stated: ‘it is the sum first paid in that is first drawn out.’ The rule is commonly described as ‘the first in, first out’ rule.
 
-Technically, the rule applying to withdrawals from a current bank account is the rule in [[Clayton’s Case (1816) 1 Mer 529]]. Grant MR stated: ‘it is the sum first paid in that is first drawn out.’ The rule is commonly described as ‘the first in, first out’ rule.
-```
-
-```ad-example
-T misapplies £1,000 of trust fund A and pays it into a current bank account (‘the account’). T misapplies £1,000 of trust fund B and pays it into the account. T withdraws £1,000 from the account and uses it to purchase shares. T misapplies £1,000 of trust fund C and pays it into the account. T withdraws £1,000 from the account and dissipates it. £1,000 is still credited to the account.
-```
+> [!example]
+> T misapplies £1,000 of trust fund A and pays it into a current bank account (‘the account’). T misapplies £1,000 of trust fund B and pays it into the account. T withdraws £1,000 from the account and uses it to purchase shares. T misapplies £1,000 of trust fund C and pays it into the account. T withdraws £1,000 from the account and dissipates it. £1,000 is still credited to the account.
 
 If Clayton’s Case is applied, the shares are the traceable proceeds of fund A because fund A was paid into the account first and the shares were purchased with the first £1,000 withdrawn. The second £1,000 withdrawn from the account (and dissipated) is attributable to fund B. And the sum credited to the account is the traceable proceed of fund C.
 
@@ -264,21 +245,17 @@ If the rule in Clayton’s Case is not applied, one of two alternative methods i
 
 #### Pari Passu Ex Post Facto Method
 
-```ad-test
-title: Pari passu ex post facto method
-
-This involves identifying the amounts contributed to the account by each individual contributor attributing all the withdrawals from the account fractionally to all the contributors, regardless of the order in which the payments were made. This method is called the ‘ex post facto’ method because it is static. It involves a single calculation after the event.
-```
+> [!test] Pari passu ex post facto method
+> 
+> This involves identifying the amounts contributed to the account by each individual contributor attributing all the withdrawals from the account fractionally to all the contributors, regardless of the order in which the payments were made. This method is called the ‘ex post facto’ method because it is static. It involves a single calculation after the event.
 
 If applied to the above example, the total sum contributed to the account is £3,000. Each fund contributed £1,000 to the total. Thus, all withdrawals from the account (and the shares and the sum credited to the account) are attributable to each of the three trusts in $\frac{1}{3}$ shares.
 
 #### Rolling Charge Method
 
-```ad-test
-title: Rolling charge method
-
-Each individual withdrawal is attributed fractionally to the contributors to the account immediately before the withdrawal: the fraction attributed to any specific contributor being equivalent to their fractional contribution to the account immediately before the withdrawal. This is called the ‘rolling charge’ method because it is dynamic. It requires the contributors’ fractional contributions to be recalculated every time a sum is credited to the account. The order in which the payments were made can therefore affect the amounts attributed to individuals.
-```
+> [!test] Rolling charge method
+> 
+> Each individual withdrawal is attributed fractionally to the contributors to the account immediately before the withdrawal: the fraction attributed to any specific contributor being equivalent to their fractional contribution to the account immediately before the withdrawal. This is called the ‘rolling charge’ method because it is dynamic. It requires the contributors’ fractional contributions to be recalculated every time a sum is credited to the account. The order in which the payments were made can therefore affect the amounts attributed to individuals.
 
 As a matter of principle, the rolling charge method should be applied in preference to the ex post facto method ([[Barlow Clowes International Ltd (in liquidation) v Vaughan [1992] 4 All ER 22]]). However, if the rolling charge method is too complex or expensive to apply, the ex post facto method should be applied. To date, there are no examples of the rolling charge method being applied.
 
@@ -315,17 +292,15 @@ Where an asset is purchased exclusively with trust money (or its traceable proce
 
 The beneficiary will normally exercise the option in the most advantageous way. If the traceable proceeds have increased in value, it will usually be preferable to claim them. If they have decreased in value, it will usually be preferable to make the personal claim.
 
-```ad-example
-A trustee misapplies £1,000 from a trust fund and uses it to purchase shares. The shares have increased in value to £1,500.
+> [!example]
+> A trustee misapplies £1,000 from a trust fund and uses it to purchase shares. The shares have increased in value to £1,500.
+> 
+> The beneficiary can trace into the shares. As they have increased in value, the preferable option is to assert beneficial ownership of the shares, meaning the beneficiary now has an asset worth £1,500 in place of the original £1,000 from the trust fund.
 
-The beneficiary can trace into the shares. As they have increased in value, the preferable option is to assert beneficial ownership of the shares, meaning the beneficiary now has an asset worth £1,500 in place of the original £1,000 from the trust fund.
-```
-
-```ad-example
-A trustee misapplies £1,000 from a trust fund and uses it to purchase shares. The shares have decreased in value to £500.
-
-The beneficiary can trace into the shares. As they have decreased in value, the preferable option is to sue the trustee for £1,000 and assert an equitable lien over the shares to secure that claim. When the shares are sold, the proceeds will be used in part payment of the debt. The trustee will still owe the trust fund the rest.
-```
+> [!example]
+> A trustee misapplies £1,000 from a trust fund and uses it to purchase shares. The shares have decreased in value to £500.
+> 
+> The beneficiary can trace into the shares. As they have decreased in value, the preferable option is to sue the trustee for £1,000 and assert an equitable lien over the shares to secure that claim. When the shares are sold, the proceeds will be used in part payment of the debt. The trustee will still owe the trust fund the rest.
 
 ### Wrongful Mixtures
 
@@ -338,17 +313,15 @@ The rationale is that, since the trustee is a wrongdoer, their interest must be 
 
 Where beneficiaries claim a proportionate share of an asset which has increased in value, they capture a corresponding proportion of the increase.
 
-```ad-example
-A trustee mixes £500 of their own money with £500 of trust money and uses it to purchase shares. The shares have increased in value to £1,500.
+> [!example]
+> A trustee mixes £500 of their own money with £500 of trust money and uses it to purchase shares. The shares have increased in value to £1,500.
+> 
+> The beneficiary can trace into the shares. The best option is to claim a proportionate share i.e. 50% of the shares. This gives the beneficiary an asset worth £750 in place of the original £500.
 
-The beneficiary can trace into the shares. The best option is to claim a proportionate share i.e. 50% of the shares. This gives the beneficiary an asset worth £750 in place of the original £500.
-```
-
-```ad-example
-A trustee mixes £500 of their own money with £500 of trust money and uses it to purchase shares. The shares have decreased in value to £500.
-
-The beneficiary can trace into the shares. The best option is to claim an equitable lien over the shares. The first £500 of the sale proceeds will be used in payment of the debt. In this case, the beneficiary will recover the full £500 and there will be nothing left for the trustee.
-```
+> [!example]
+> A trustee mixes £500 of their own money with £500 of trust money and uses it to purchase shares. The shares have decreased in value to £500.
+> 
+> The beneficiary can trace into the shares. The best option is to claim an equitable lien over the shares. The first £500 of the sale proceeds will be used in payment of the debt. In this case, the beneficiary will recover the full £500 and there will be nothing left for the trustee.
 
 ### Innocent Mixtures
 
@@ -359,27 +332,24 @@ Where an asset is purchased with misapplied trust money (or its traceable procee
 
 The courts have not yet considered whether beneficiaries can assert an equitable lien limited to the value of their proportionate share in the asset.
 
-```ad-example
-A trustee mixes £500 from trust A with £500 from trust B and uses it to purchase shares. The shares have increased in value to £1,500.
+> [!example]
+> A trustee mixes £500 from trust A with £500 from trust B and uses it to purchase shares. The shares have increased in value to £1,500.
+> 
+> The beneficiaries of trust A and B can both trace into the shares and claim a 50% share. Each has an interest in assets worth £750.
 
-The beneficiaries of trust A and B can both trace into the shares and claim a 50% share. Each has an interest in assets worth £750.
-```
-
-```ad-example
-A trustee mixes £500 from trust A with £500 of from trust B and uses it to purchase shares. The shares have decreased in value to £500.
-
-The beneficiaries of trust A and B can trace into the shares and claim a 50% share. Each has an interest worth £250. If they make this claim, it will be in full satisfaction of their proprietary rights under the trust (so if the trustee is solvent they might want to sue them for £500 instead).
-```
+> [!example]
+> A trustee mixes £500 from trust A with £500 of from trust B and uses it to purchase shares. The shares have decreased in value to £500.
+> 
+> The beneficiaries of trust A and B can trace into the shares and claim a 50% share. Each has an interest worth £250. If they make this claim, it will be in full satisfaction of their proprietary rights under the trust (so if the trustee is solvent they might want to sue them for £500 instead).
 
 Where assets are acquired using a mixture of trustee funds and funds from more than one innocent party, the same rules apply as above. This can result in situations which feel unfair in comparison to cases involving just one trust. It is, however, consistent with the broad principle that no innocent parties (including unsecured creditors) should be preferred over others.
 
-```ad-example
-A trustee mixes £500 of their own money with £500 from trust A and £500 from trust B. The trustee uses the £1,500 to buy shares.
-
-If the shares increase in value, each beneficiary will want to (and can) claim a 1/3 share.
-
-If the shares decrease in value each beneficiary is still limited to a 1/3 share. If the trustee is solvent, it may therefore be preferable not to make a proprietary claim at all but simply sue the trustee for the misapplied £500. If the trustee is insolvent, it is almost certainly preferable for the beneficiaries to assert their proprietary rights. The remaining 1/3 is then available to other creditors.
-```
+> [!example]
+> A trustee mixes £500 of their own money with £500 from trust A and £500 from trust B. The trustee uses the £1,500 to buy shares.
+> 
+> If the shares increase in value, each beneficiary will want to (and can) claim a 1/3 share.
+> 
+> If the shares decrease in value each beneficiary is still limited to a 1/3 share. If the trustee is solvent, it may therefore be preferable not to make a proprietary claim at all but simply sue the trustee for the misapplied £500. If the trustee is insolvent, it is almost certainly preferable for the beneficiaries to assert their proprietary rights. The remaining 1/3 is then available to other creditors.
 
 ### Improving the Trustee's Property
 
@@ -390,17 +360,15 @@ But it has been suggested ([[Foskett v McKeown [2001] 1 AC 102]]) that beneficia
 - An equitable lien on the asset to secure repayment of the trust money used to maintain or improve it.
 - A proportionate share of the asset if it increases in value by reason of the maintenance or improvement.
 
-```ad-example
-A trustee owns a house worth £150,000. The trustee misapplies £20,000 of trust money and uses it to build an extension on the house. As a result of the extension, the house is now worth £200,000.
+> [!example]
+> A trustee owns a house worth £150,000. The trustee misapplies £20,000 of trust money and uses it to build an extension on the house. As a result of the extension, the house is now worth £200,000.
+> 
+> The beneficiaries can trace the £20,000 into the trustee’s house. As the house has increased in value by £50,000, Foskett suggests that the beneficiaries should be able to trace into the proportion of the house attributable to the increase. As £50,000 is 25% of the total value, the beneficiaries may assert a right to a 25% share of the house.
 
-The beneficiaries can trace the £20,000 into the trustee’s house. As the house has increased in value by £50,000, Foskett suggests that the beneficiaries should be able to trace into the proportion of the house attributable to the increase. As £50,000 is 25% of the total value, the beneficiaries may assert a right to a 25% share of the house.
-```
-
-```ad-example
-A trustee owns a house worth £150,000. The trustee misapplies £20,000 of trust money and uses it to repair the roof of the house. The repairs do not result in an increase in value.
-
-The beneficiaries can trace the £20,000 into the trustee’s house. As there has been no increase in value, Foskett suggests that the beneficiaries should be entitled to secure their £20,000 personal claim against the trustee’s house.
-```
+> [!example]
+> A trustee owns a house worth £150,000. The trustee misapplies £20,000 of trust money and uses it to repair the roof of the house. The repairs do not result in an increase in value.
+> 
+> The beneficiaries can trace the £20,000 into the trustee’s house. As there has been no increase in value, Foskett suggests that the beneficiaries should be entitled to secure their £20,000 personal claim against the trustee’s house.
 
 ### Improving a Third Party's Property
 
@@ -416,22 +384,20 @@ This approach appears to have been endorsed in [[Foskett v McKeown [2001] 1 AC 1
 
 Where misapplied trust money (or its traceable proceed) is dissipated by the payment of a debt, the beneficiaries can be ‘subrogated’ to the rights of the creditor.
 
-```ad-example
-Consider the situation where T misapplies £10,000 (cash) of trust property uses it to pay off the mortgage on their personal home.
-
-The beneficiaries can be subrogated to the mortgage lender’s security interest (treating the beneficiaries as if they had lent the money to the trustee, and allowing them to take a security interest over the trustee’s house). [[Boscawen v Bajwa [1996] 1 WLR 328]].
-```
+> [!example]
+> Consider the situation where T misapplies £10,000 (cash) of trust property uses it to pay off the mortgage on their personal home.
+> 
+> The beneficiaries can be subrogated to the mortgage lender’s security interest (treating the beneficiaries as if they had lent the money to the trustee, and allowing them to take a security interest over the trustee’s house). [[Boscawen v Bajwa [1996] 1 WLR 328]].
 
 ## Defences
 
 The principal defence to an equitable proprietary claim is that of the purchaser of a legal interest without notice of the trust.
 
-```ad-example
-A trustee takes £100 from a trust fund (in breach of trust) and uses it to purchase shares. The trustee sells the shares to a third party (who has no idea, and no reason to know, that the shares are the traceable proceeds of a breach of trust) for £150. The trustee dissipates the £150 sale proceeds.
-
-The beneficiary cannot make a proprietary claim against the purchaser. The purchaser has provided consideration in good faith and has no notice of the breach.
-
-The beneficiary can only assert an interest in the sale proceeds. Once the proceeds are dissipated, no proprietary claims remain.
-
-The beneficiary has a personal claim against the trustee for £150. (Note that this is still more than the original £100 taken from the trust fund, demonstrating the benefits of tracing even in the absence of a proprietary claim.)
-```
+> [!example]
+> A trustee takes £100 from a trust fund (in breach of trust) and uses it to purchase shares. The trustee sells the shares to a third party (who has no idea, and no reason to know, that the shares are the traceable proceeds of a breach of trust) for £150. The trustee dissipates the £150 sale proceeds.
+> 
+> The beneficiary cannot make a proprietary claim against the purchaser. The purchaser has provided consideration in good faith and has no notice of the breach.
+> 
+> The beneficiary can only assert an interest in the sale proceeds. Once the proceeds are dissipated, no proprietary claims remain.
+> 
+> The beneficiary has a personal claim against the trustee for £150. (Note that this is still more than the original £100 taken from the trust fund, demonstrating the benefits of tracing even in the absence of a proprietary claim.)

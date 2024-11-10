@@ -8,10 +8,8 @@ title: Fixtures
 
 # Fixtures
 
-```ad-quote
-title: Maxim
-"Quidquid Plantatur Solo, Solo Cedit" - whatever is attached to the land becomes part of the land.
-```
+> [!quote] Maxim
+> "Quidquid Plantatur Solo, Solo Cedit" - whatever is attached to the land becomes part of the land.
 
 This principle is encapsulated in modern land law in the LPA 1925’s definition of ‘land’ which includes “other corporeal hereditaments” i.e., things attached/fixed to the land, what we ‘fixtures’ in practice.
 

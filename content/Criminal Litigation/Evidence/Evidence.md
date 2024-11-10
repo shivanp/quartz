@@ -70,28 +70,23 @@ Pre-CJA 2003 there was a common law rule that hearsay evidence was inadmissible 
 
 Note that under the legislation, the term “matter stated” is used rather than hearsay.
 
-```ad-test
-To decide whether the hearsay rules apply ([[R v Twist and Others [2011] EWCA Crim 1143]]):
-```
+> [!test]
+> To decide whether the hearsay rules apply ([[R v Twist and Others [2011] EWCA Crim 1143]]):
 
-```ad-example
-title: Hearsay examples
-- A witness repeating at trial what she has been told by another person
-- A statement from a witness being read out at trial instead of the witness attending court to give oral evidence
-- A police officer repeating at trial a confession made to them by D
-- A business document being introduced in evidence at trial
-```
+> [!example] Hearsay examples
+> - A witness repeating at trial what she has been told by another person
+> - A statement from a witness being read out at trial instead of the witness attending court to give oral evidence
+> - A police officer repeating at trial a confession made to them by D
+> - A business document being introduced in evidence at trial
 
 ## Admissibility
 
-```ad-statute
-title: s 114 CJA 2003
-(1) In criminal proceedings a statement not made in oral evidence in the proceedings is admissible as evidence of any matter stated if, but only if—
-- (a) any provision of this Chapter or any other statutory provision makes it admissible,
-- (b) any rule of law preserved by section 118 makes it admissible,
-- (c) all parties to the proceedings agree to it being admissible, or
-- (d) the court is satisfied that it is in the interests of justice for it to be admissible.
-```
+> [!statute] s 114 CJA 2003
+> (1) In criminal proceedings a statement not made in oral evidence in the proceedings is admissible as evidence of any matter stated if, but only if—
+> - (a) any provision of this Chapter or any other statutory provision makes it admissible,
+> - (b) any rule of law preserved by section 118 makes it admissible,
+> - (c) all parties to the proceedings agree to it being admissible, or
+> - (d) the court is satisfied that it is in the interests of justice for it to be admissible.
 
 ### Statutory Provision
 
@@ -111,66 +106,58 @@ Hearsay is admissible under a statutory provision in the following situations.
 
 #### Witness Unavailable to Attend
 
-```ad-statute
-title: s 116 CJA 2003 - Cases where a witness is unavailable
-(1) In criminal proceedings a statement not made in oral evidence in the proceedings is admissible as evidence of any matter stated if—
-- (a) oral evidence given in the proceedings by the person who made the statement **would be admissible** as evidence of that matter,
-- (b) the person who made the statement (the relevant person) is **identified** to the court’s satisfaction, and
-- (c) any of the five conditions mentioned in subsection (2) is satisfied.
-
-(2) The conditions are—
-- (a) that the relevant person is **dead**;
-- (b) that the relevant person is unfit to be a witness because of his **bodily or mental condition**;
-- (c) that the relevant person is **outside the United Kingdom** and it is not reasonably practicable to secure his attendance;
-- (d) that the relevant person **cannot be found** although such steps as it is reasonably practicable to take to find him have been taken;
-- (e) that through **fear** the relevant person does not give (or does not continue to give) oral evidence in the proceedings, either at all or in connection with the subject matter of the statement, and the court gives leave for the statement to be given in evidence.
-
-(3) For the purposes of subsection (2)(e) “fear” is to be **widely construed** and (for example) includes fear of the death or injury of another person or of financial loss.
-
-(4) Leave may be given under subsection (2)(e) only if the court considers that the statement ought to be admitted in the **interests of justice**, having regard—
-- (a) to the statement’s contents,
-- (b) to any risk that its admission or exclusion will result in unfairness to any party to the proceedings (and in particular to how difficult it will be to challenge the statement if the relevant person does not give oral evidence),
-- (c) in appropriate cases, to the fact that a direction under section 19 of the Youth Justice and Criminal Evidence Act 1999 (c. 23) (special measures for the giving of evidence by fearful witnesses etc) could be made in relation to the relevant person, and
-- (d) to any other relevant circumstances.
-```
+> [!statute] s 116 CJA 2003 - Cases where a witness is unavailable
+> (1) In criminal proceedings a statement not made in oral evidence in the proceedings is admissible as evidence of any matter stated if—
+> - (a) oral evidence given in the proceedings by the person who made the statement **would be admissible** as evidence of that matter,
+> - (b) the person who made the statement (the relevant person) is **identified** to the court’s satisfaction, and
+> - (c) any of the five conditions mentioned in subsection (2) is satisfied.
+> 
+> (2) The conditions are—
+> - (a) that the relevant person is **dead**;
+> - (b) that the relevant person is unfit to be a witness because of his **bodily or mental condition**;
+> - (c) that the relevant person is **outside the United Kingdom** and it is not reasonably practicable to secure his attendance;
+> - (d) that the relevant person **cannot be found** although such steps as it is reasonably practicable to take to find him have been taken;
+> - (e) that through **fear** the relevant person does not give (or does not continue to give) oral evidence in the proceedings, either at all or in connection with the subject matter of the statement, and the court gives leave for the statement to be given in evidence.
+> 
+> (3) For the purposes of subsection (2)(e) “fear” is to be **widely construed** and (for example) includes fear of the death or injury of another person or of financial loss.
+> 
+> (4) Leave may be given under subsection (2)(e) only if the court considers that the statement ought to be admitted in the **interests of justice**, having regard—
+> - (a) to the statement’s contents,
+> - (b) to any risk that its admission or exclusion will result in unfairness to any party to the proceedings (and in particular to how difficult it will be to challenge the statement if the relevant person does not give oral evidence),
+> - (c) in appropriate cases, to the fact that a direction under section 19 of the Youth Justice and Criminal Evidence Act 1999 (c. 23) (special measures for the giving of evidence by fearful witnesses etc) could be made in relation to the relevant person, and
+> - (d) to any other relevant circumstances.
 
 ![[s 116 CJA 2003.png]]
 
-```ad-note
-The requirement under s 116(1)(a) menas that a statement can be admissible under s 116 only if it is first-hand hearsay. 
-```
+> [!note]
+> The requirement under s 116(1)(a) menas that a statement can be admissible under s 116 only if it is first-hand hearsay. 
 
-```ad-test
-title: Fear cases
-[[R v Riat and Others [2012] EWCA Crim 1509]] suggested a 6-stage test for whether a court would grant leave in a fear case:
-1. Is there a specific statutory justification (or ‘gateway’) permitting the admission of hearsay evidence (CJA 2003, ss 116–118)?
-2. What material is there which can help to test or assess the hearsay (CJA 2003, s 124)?
-3. Is there a specific ‘interests of justice’ test at the admissibility stage?
-4. If there is no other justification or gateway, should the evidence nevertheless be considered for admission on the ground that admission is, despite the difficulties, in the interests of justice (CJA 2003, s 114(1)(d))?
-5. Even if prima facie admissible, ought the evidence to be ruled inadmissible (PACE 1984, s 78 and/or CJA 2003, s 126)?
-6. If the evidence is admitted, should the case subsequently be stopped under s 125 of the CJA 2003?
-
-The importance of the evidence to the prosecution case is an important consideration in answering these questions. 
-```
+> [!test] Fear cases
+> [[R v Riat and Others [2012] EWCA Crim 1509]] suggested a 6-stage test for whether a court would grant leave in a fear case:
+> 1. Is there a specific statutory justification (or ‘gateway’) permitting the admission of hearsay evidence (CJA 2003, ss 116–118)?
+> 2. What material is there which can help to test or assess the hearsay (CJA 2003, s 124)?
+> 3. Is there a specific ‘interests of justice’ test at the admissibility stage?
+> 4. If there is no other justification or gateway, should the evidence nevertheless be considered for admission on the ground that admission is, despite the difficulties, in the interests of justice (CJA 2003, s 114(1)(d))?
+> 5. Even if prima facie admissible, ought the evidence to be ruled inadmissible (PACE 1984, s 78 and/or CJA 2003, s 126)?
+> 6. If the evidence is admitted, should the case subsequently be stopped under s 125 of the CJA 2003?
+> 
+> The importance of the evidence to the prosecution case is an important consideration in answering these questions. 
 
 #### Documentary Hearsay
 
-```ad-statute
-title: s 117 CJA 2003 - Business and other documents
-(1) In criminal proceedings a statement contained in a document is admissible as evidence of any matter stated if—
-- (a) oral evidence given in the proceedings would be admissible as evidence of that matter,
-- (b) the requirements of subsection (2) are satisfied, and
-- (c) the requirements of subsection (5) are satisfied, in a case where subsection (4) requires them to be.
+> [!statute] s 117 CJA 2003 - Business and other documents
+> (1) In criminal proceedings a statement contained in a document is admissible as evidence of any matter stated if—
+> - (a) oral evidence given in the proceedings would be admissible as evidence of that matter,
+> - (b) the requirements of subsection (2) are satisfied, and
+> - (c) the requirements of subsection (5) are satisfied, in a case where subsection (4) requires them to be.
+> 
+> (2) The requirements of this subsection are satisfied if—
+> - (a) the document or the part containing the statement was **created or received by a person in the course of a trade, business, profession** or other occupation, or as the holder of a paid or unpaid office,
+> - (b) the person who supplied the information contained in the statement (the relevant person) had or may reasonably be supposed to have had **personal knowledge of the matters dealt with**, and
+> - (c) **each person** (if any) through whom the information was supplied from the relevant person to the person mentioned in paragraph (a) **received the information in the course of a trade**, business, profession or other occupation, or as the holder of a paid or unpaid office.
 
-(2) The requirements of this subsection are satisfied if—
-- (a) the document or the part containing the statement was **created or received by a person in the course of a trade, business, profession** or other occupation, or as the holder of a paid or unpaid office,
-- (b) the person who supplied the information contained in the statement (the relevant person) had or may reasonably be supposed to have had **personal knowledge of the matters dealt with**, and
-- (c) **each person** (if any) through whom the information was supplied from the relevant person to the person mentioned in paragraph (a) **received the information in the course of a trade**, business, profession or other occupation, or as the holder of a paid or unpaid office.
-```
-
-```ad-note
-Multiple hearsay in documents is admissible if s 117(2)(c) is satisfied. 
-```
+> [!note]
+> Multiple hearsay in documents is admissible if s 117(2)(c) is satisfied. 
 
 Generally, the exception ensures the admissibility of business records.
 
@@ -189,73 +176,63 @@ The court retains a discretionary power to make a direction that a statement sha
 
 ##### Producing Document
 
-```ad-statute
-title: s 133 CJA 2003 - Proof of statements in documents
-
-Where a statement in a document is admissible as evidence in criminal proceedings, the statement may be proved by producing either—
-- (a) the document, or
-- (b) (whether or not the document exists) a copy of the document or of the material part of it,
-
-authenticated in whatever way the court may approve. 
-```
+> [!statute] s 133 CJA 2003 - Proof of statements in documents
+> 
+> Where a statement in a document is admissible as evidence in criminal proceedings, the statement may be proved by producing either—
+> - (a) the document, or
+> - (b) (whether or not the document exists) a copy of the document or of the material part of it,
+> 
+> authenticated in whatever way the court may approve. 
 
 ## Multiple Hearsay: Additional Requirements
 
 If the hearsay is multiple hearsay, additional requirements must be met:
 
-```ad-statute
-title: s 121 CJA 2003 - Additional requirement for admissibility of multiple hearsay
-
-(1) A hearsay statement is not admissible to prove the fact that an earlier hearsay statement was made unless—
-- (a) either of the statements is admissible under section 117 [business document], 119 [previous inconsistent statement by witness] or 120 [previous consistent statement by witness],
-- (b) all parties to the proceedings so agree, or
-- (c) the court is satisfied that the value of the evidence in question, taking into account how reliable the statements appear to be, is so high that the interests of justice require the later statement to be admissible for that purpose.
-
-(2) In this section “hearsay statement” means a statement, not made in oral evidence, that is relied on as evidence of a matter stated in it.
-```
+> [!statute] s 121 CJA 2003 - Additional requirement for admissibility of multiple hearsay
+> 
+> (1) A hearsay statement is not admissible to prove the fact that an earlier hearsay statement was made unless—
+> - (a) either of the statements is admissible under section 117 [business document], 119 [previous inconsistent statement by witness] or 120 [previous consistent statement by witness],
+> - (b) all parties to the proceedings so agree, or
+> - (c) the court is satisfied that the value of the evidence in question, taking into account how reliable the statements appear to be, is so high that the interests of justice require the later statement to be admissible for that purpose.
+> 
+> (2) In this section “hearsay statement” means a statement, not made in oral evidence, that is relied on as evidence of a matter stated in it.
 
 ## Challenging Credibility
 
 If hearsay is admitted, the other party will not have the opportunity to cross-examine the maker of the statement. s 124 CJA 2003 aims to compensate.
 
-```ad-statute
-title: s 124 CJA 2003 - Credibility
-(1) This section applies if in criminal proceedings—
-- (a) a statement not made in oral evidence in the proceedings is admitted as evidence of a matter stated, and
-- (b) the maker of the statement does not give oral evidence in connection with the subject matter of the statement.
-
-(2) In such a case—
-- (a) any evidence which (if he had given such evidence) would have been **admissible as relevant** to his credibility as a witness is so admissible in the proceedings;
-- (b) evidence may with the court’s leave be given of any matter which (if he had given such evidence) could have been put to him in **cross-examination as relevant** to his credibility as a witness but of which evidence could not have been adduced by the cross-examining party;
-```
+> [!statute] s 124 CJA 2003 - Credibility
+> (1) This section applies if in criminal proceedings—
+> - (a) a statement not made in oral evidence in the proceedings is admitted as evidence of a matter stated, and
+> - (b) the maker of the statement does not give oral evidence in connection with the subject matter of the statement.
+> 
+> (2) In such a case—
+> - (a) any evidence which (if he had given such evidence) would have been **admissible as relevant** to his credibility as a witness is so admissible in the proceedings;
+> - (b) evidence may with the court’s leave be given of any matter which (if he had given such evidence) could have been put to him in **cross-examination as relevant** to his credibility as a witness but of which evidence could not have been adduced by the cross-examining party;
 
 s 124(2)(b) includes evidence that the witnesses had previous convictions for offences where he had been untruthful.
 
 ## Unconvincing Evidence
 
-```ad-statute
-title: s 125 CJA 2003 - Stopping the case where evidence is unconvincing
-
-(1) If on a defendant’s trial before a judge and jury for an offence the court is satisfied at any time after the close of the case for the prosecution that—
-- (a) the case against the defendant is based wholly or partly on a statement not made in oral evidence in the proceedings, and
-- (b) the evidence provided by the statement is so unconvincing that, considering its importance to the case against the defendant, his conviction of the offence would be unsafe,
-
-the court must either direct the jury to acquit the defendant of the offence or, if it considers that there ought to be a retrial, discharge the jury. 
-```
+> [!statute] s 125 CJA 2003 - Stopping the case where evidence is unconvincing
+> 
+> (1) If on a defendant’s trial before a judge and jury for an offence the court is satisfied at any time after the close of the case for the prosecution that—
+> - (a) the case against the defendant is based wholly or partly on a statement not made in oral evidence in the proceedings, and
+> - (b) the evidence provided by the statement is so unconvincing that, considering its importance to the case against the defendant, his conviction of the offence would be unsafe,
+> 
+> the court must either direct the jury to acquit the defendant of the offence or, if it considers that there ought to be a retrial, discharge the jury. 
 
 ## Excluding Evidence Discretion
 
-```ad-statute
-title: s 126 CJA 2003 - Court’s general discretion to exclude evidence
-
-(1) In criminal proceedings the court may refuse to admit a statement as evidence of a matter stated if—
-- (a) the statement was made otherwise than in oral evidence in the proceedings, and
-- (b) the court is satisfied that **the case for excluding the statement, taking account of the danger that to admit it would result in undue waste of time, substantially outweighs the case for admitting it**, taking account of the value of the evidence.
-
-(2) Nothing in this Chapter prejudices—
-- (a) any power of a court to exclude evidence under section 78 of the Police and Criminal Evidence Act 1984 (exclusion of unfair evidence), or
-- (b) any other power of a court to exclude evidence at its discretion (whether by preventing questions from being put or otherwise).
-```
+> [!statute] s 126 CJA 2003 - Court’s general discretion to exclude evidence
+> 
+> (1) In criminal proceedings the court may refuse to admit a statement as evidence of a matter stated if—
+> - (a) the statement was made otherwise than in oral evidence in the proceedings, and
+> - (b) the court is satisfied that **the case for excluding the statement, taking account of the danger that to admit it would result in undue waste of time, substantially outweighs the case for admitting it**, taking account of the value of the evidence.
+> 
+> (2) Nothing in this Chapter prejudices—
+> - (a) any power of a court to exclude evidence under section 78 of the Police and Criminal Evidence Act 1984 (exclusion of unfair evidence), or
+> - (b) any other power of a court to exclude evidence at its discretion (whether by preventing questions from being put or otherwise).
 
 ## Admitting Hearsay Procedure
 
@@ -266,9 +243,8 @@ Part 20 CrimPR rules on admitting hearsay apply to cases where:
 3. the evidence is **multiple hearsay** (s 121); or
 4. either the prosecution or the defence rely on s 117(1) for the admission of a **written witness statement** prepared for use in criminal proceedings (CrimPR, r 20.2).
 
-```ad-note
-If D made a confession at the time of arrest, Part 20 rules do not apply to the arresting officer giving details of the confession at trial. 
-```
+> [!note]
+> If D made a confession at the time of arrest, Part 20 rules do not apply to the arresting officer giving details of the confession at trial. 
 
 A party must give notice of their intention to adduce hearsay evidence at trial. There are time limits for this.
 
@@ -286,35 +262,29 @@ A party must give notice of their intention to adduce hearsay evidence at trial.
 		- Service of evidence, if no notice required
 		- D pleading not guilty.
 
-```ad-statute
-title: r 20.5 CrimPR
-(1) The court may—
-- (a) shorten or extend (even after it has expired) a time limit under this Part;
-- (b) allow an application or notice to be in a different form to one set out in the Practice Direction, or to be made or given orally; and
-- (c) dispense with the requirement for notice to introduce hearsay evidence.
-
-(2) A party who wants an extension of time must—
-- (a) apply when serving the application or notice for which it is needed; and
-- (b) explain the delay.
-```
+> [!statute] r 20.5 CrimPR
+> (1) The court may—
+> - (a) shorten or extend (even after it has expired) a time limit under this Part;
+> - (b) allow an application or notice to be in a different form to one set out in the Practice Direction, or to be made or given orally; and
+> - (c) dispense with the requirement for notice to introduce hearsay evidence.
+> 
+> (2) A party who wants an extension of time must—
+> - (a) apply when serving the application or notice for which it is needed; and
+> - (b) explain the delay.
 
 # Confession Evidence
 
 ## Definition
 
-```ad-defn
-title: Confession
-Any statement wholly or partly adverse to the person who made it, whether made to a person in authority or not and whether made in words or otherwise (s 82(1) PACE 1984).
-```
+> [!defn] Confession
+> Any statement wholly or partly adverse to the person who made it, whether made to a person in authority or not and whether made in words or otherwise (s 82(1) PACE 1984).
 
 ## Admissibility
 
 ### Confessions
 
-```ad-statute
-title: s 76(1) PACE 1984
-In any proceedings a confession made by an accused person may be given in evidence against him in so far as it is relevant to any matter in issue in the proceedings and is not excluded by the court in pursuance of this section.
-```
+> [!statute] s 76(1) PACE 1984
+> In any proceedings a confession made by an accused person may be given in evidence against him in so far as it is relevant to any matter in issue in the proceedings and is not excluded by the court in pursuance of this section.
 
 Proposition: A **pre-trial confession** is admissible in trial to prove D's guilt.
 
@@ -348,14 +318,12 @@ D can challenge the admissibility of a confession by arguing:
 
 If challenging on ground (2), use
 
-```ad-statute
-title: s 72(2) PACE 1984
-If, in any proceedings where the prosecution proposes to give in evidence a confession made by an accused person, it is represented to the court that the confession was or may have been obtained—
-- (a) by **oppression** of the person who made it; or
-- (b) in consequence of **anything said or done** which was likely, in the circumstances existing at the time, to render **unreliable** any confession which might be made by him in consequence thereof,
-
-the court shall not allow the confession to be given in evidence against him except in so far as the prosecution proves to the court beyond reasonable doubt that the confession (notwithstanding that it may be true) was not obtained as aforesaid. 
-```
+> [!statute] s 72(2) PACE 1984
+> If, in any proceedings where the prosecution proposes to give in evidence a confession made by an accused person, it is represented to the court that the confession was or may have been obtained—
+> - (a) by **oppression** of the person who made it; or
+> - (b) in consequence of **anything said or done** which was likely, in the circumstances existing at the time, to render **unreliable** any confession which might be made by him in consequence thereof,
+> 
+> the court shall not allow the confession to be given in evidence against him except in so far as the prosecution proves to the court beyond reasonable doubt that the confession (notwithstanding that it may be true) was not obtained as aforesaid. 
 
 If this is raised, the burden of proof is on the prosecution to show beyond a reasonable doubt that the confession was not so obtained.
 
@@ -367,45 +335,38 @@ If this is raised, the burden of proof is on the prosecution to show beyond a re
 
 Although s 76(2)(b) does not require deliberate misconduct on the part of the police, the thing which is said or done will usually involve an alleged breach of Code C.
 
-```ad-example
-- Denying a suspect refreshments/ rest between interviews
-- Offering a suspect an inducement to confess
-- Misrepresentating the strength of the prosecution case
-- Questioning a suspect in an inappropriate way
-- Questioning a suspect who the police should have known was not in a fit state to be interviewed
-- Threatening a suspect.
-```
+> [!example]
+> - Denying a suspect refreshments/ rest between interviews
+> - Offering a suspect an inducement to confess
+> - Misrepresentating the strength of the prosecution case
+> - Questioning a suspect in an inappropriate way
+> - Questioning a suspect who the police should have known was not in a fit state to be interviewed
+> - Threatening a suspect.
 
-```ad-question
-title: Being denied access to legal advice
-- Being denied access to legal advice at the police station is a breach of Code C and s 58 PACE 1984. 
-- This will not alone lead to the exclusion of the confession
-- Must be a **causal link** between the breach and the unreliability of the confession subsequently made ("but for" test)
-```
+> [!question] Being denied access to legal advice
+> - Being denied access to legal advice at the police station is a breach of Code C and s 58 PACE 1984. 
+> - This will not alone lead to the exclusion of the confession
+> - Must be a **causal link** between the breach and the unreliability of the confession subsequently made ("but for" test)
 
 Note that the causal link is needed for any unreliability argument, not just legal advice.
 
 ### Co-defendant Confession Evidence
 
-```ad-statute
-title: s 76A PACE 1984 - Confessions may be given in evidence for co-accused
-(1) In any proceedings a **confession made by an accused** person may be given **in evidence for another** person charged in the same proceedings (a co-accused) in so far as it is relevant to any matter in issue in the proceedings and is **not excluded** by the court in pursuance of this section.
-
-(2) If, in any proceedings where a co-accused proposes to give in evidence a confession made by an accused person, it is represented to the court that the confession was or may have been obtained—
-- (a) by oppression of the person who made it; or
-- (b) in consequence of anything said or done which was likely, in the circumstances existing at the time, to render **unreliable** any confession which might be made by him in consequence thereof,
-
-the court shall **not allow** the confession to be given in evidence for the co-accused except in so far as it is proved to the court on the **balance of probabilities** that the confession (notwithstanding that it may be true) was **not so obtained**.
-```
+> [!statute] s 76A PACE 1984 - Confessions may be given in evidence for co-accused
+> (1) In any proceedings a **confession made by an accused** person may be given **in evidence for another** person charged in the same proceedings (a co-accused) in so far as it is relevant to any matter in issue in the proceedings and is **not excluded** by the court in pursuance of this section.
+> 
+> (2) If, in any proceedings where a co-accused proposes to give in evidence a confession made by an accused person, it is represented to the court that the confession was or may have been obtained—
+> - (a) by oppression of the person who made it; or
+> - (b) in consequence of anything said or done which was likely, in the circumstances existing at the time, to render **unreliable** any confession which might be made by him in consequence thereof,
+> 
+> the court shall **not allow** the confession to be given in evidence for the co-accused except in so far as it is proved to the court on the **balance of probabilities** that the confession (notwithstanding that it may be true) was **not so obtained**.
 
 ## Challenging Admissibility – S 78
 
-```ad-statute
-title: s 78 PACE 1984 - Exclusion of unfair evidence
-(1) In any proceedings the court may **refuse to allow evidence** on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the **fairness of the proceedings** that the court ought not to admit it.
-
-(2) Nothing in this section shall prejudice any rule of law requiring a court to exclude evidence.
-```
+> [!statute] s 78 PACE 1984 - Exclusion of unfair evidence
+> (1) In any proceedings the court may **refuse to allow evidence** on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the **fairness of the proceedings** that the court ought not to admit it.
+> 
+> (2) Nothing in this section shall prejudice any rule of law requiring a court to exclude evidence.
 
 This provides the court with the discretion to exclude confession evidence.
 
@@ -461,17 +422,15 @@ If the alleged misconduct by D is connected to the offence with which he has bee
 
 ## 7 Gateways
 
-```ad-statute
-title: s 101(1) CJA 2003 - D's bad character
-In criminal proceedings evidence of the defendant’s bad character is admissible if, but only if—
-- (a) all parties to the proceedings agree to the evidence being admissible,
-- (b) the evidence is adduced by the defendant himself or is given in answer to a question asked by him in cross-examination and intended to elicit it,
-- (c) it is important explanatory evidence,
-- (d) it is relevant to an important matter in issue between the defendant and the prosecution,
-- (e) it has substantial probative value in relation to an important matter in issue between the defendant and a co-defendant,
-- (f) it is evidence to correct a false impression given by the defendant, or
-- (g) the defendant has made an attack on another person’s character.
-```
+> [!statute] s 101(1) CJA 2003 - D's bad character
+> In criminal proceedings evidence of the defendant’s bad character is admissible if, but only if—
+> - (a) all parties to the proceedings agree to the evidence being admissible,
+> - (b) the evidence is adduced by the defendant himself or is given in answer to a question asked by him in cross-examination and intended to elicit it,
+> - (c) it is important explanatory evidence,
+> - (d) it is relevant to an important matter in issue between the defendant and the prosecution,
+> - (e) it has substantial probative value in relation to an important matter in issue between the defendant and a co-defendant,
+> - (f) it is evidence to correct a false impression given by the defendant, or
+> - (g) the defendant has made an attack on another person’s character.
 
 ![[7-gateways.png]]
 
@@ -479,12 +438,10 @@ In criminal proceedings evidence of the defendant’s bad character is admissibl
 
 “Important matter” means a matter of substantial importance in the context of the case as a whole (s 112(1) CJA 2003).
 
-```ad-statute
-title: s 103(1) CJA 2003 - “Matter in issue between the defendant and the prosecution”
-For the purposes of section 101(1)(d) the matters in issue between the defendant and the prosecution include—
-- (a) the question whether the defendant has a **propensity to commit offences** of the kind with which he is charged, except where his having such a propensity makes it no more likely that he is guilty of the offence;
-- (b) the question whether the defendant has a **propensity to be untruthful**, except where it is not suggested that the defendant’s case is untruthful in any respect.
-```
+> [!statute] s 103(1) CJA 2003 - “Matter in issue between the defendant and the prosecution”
+> For the purposes of section 101(1)(d) the matters in issue between the defendant and the prosecution include—
+> - (a) the question whether the defendant has a **propensity to commit offences** of the kind with which he is charged, except where his having such a propensity makes it no more likely that he is guilty of the offence;
+> - (b) the question whether the defendant has a **propensity to be untruthful**, except where it is not suggested that the defendant’s case is untruthful in any respect.
 
 Only the prosecution may adduce evidence of D's bad character (s 103(6)).
 
@@ -492,20 +449,18 @@ Only the prosecution may adduce evidence of D's bad character (s 103(6)).
 
 ### Propensity to Commit Offences of the Kind Charged
 
-```ad-statute
-title: s 103(2)-(5)
-(2) Where subsection (1)(a) applies, a defendant’s propensity to commit offences of the kind with which he is charged may (without prejudice to any other way of doing so) be established by evidence that he has been convicted of—
-- (a) an offence of the **same description** as the one with which he is charged, or
-- (b) an offence of the **same category** as the one with which he is charged.
-
-(3) Subsection (2) does not apply in the case of a particular defendant if the court is satisfied, by reason of the **length of time** since the conviction or for any other reason, that it would be **unjust** for it to apply in his case.
-
-(4) For the purposes of subsection (2)—
-- (a) two offences are of the same description as each other if the statement of the offence in a written charge or indictment would, in each case, be in the same terms;
-- (b) two offences are of the same category as each other if they belong to the same category of offences prescribed for the purposes of this section by an order made by the Secretary of State.
-
-(5) A category prescribed by an order under subsection (4)(b) must consist of offences of the same type.
-```
+> [!statute] s 103(2)-(5)
+> (2) Where subsection (1)(a) applies, a defendant’s propensity to commit offences of the kind with which he is charged may (without prejudice to any other way of doing so) be established by evidence that he has been convicted of—
+> - (a) an offence of the **same description** as the one with which he is charged, or
+> - (b) an offence of the **same category** as the one with which he is charged.
+> 
+> (3) Subsection (2) does not apply in the case of a particular defendant if the court is satisfied, by reason of the **length of time** since the conviction or for any other reason, that it would be **unjust** for it to apply in his case.
+> 
+> (4) For the purposes of subsection (2)—
+> - (a) two offences are of the same description as each other if the statement of the offence in a written charge or indictment would, in each case, be in the same terms;
+> - (b) two offences are of the same category as each other if they belong to the same category of offences prescribed for the purposes of this section by an order made by the Secretary of State.
+> 
+> (5) A category prescribed by an order under subsection (4)(b) must consist of offences of the same type.
 
 #### Offences of the Same Description
 
@@ -559,14 +514,11 @@ Propensity to be untruthful $P_u$ $\subset$ Propensity to be dishonest. Previous
 
 ### Excluding Evidence – S 101(3) CJA 2003
 
-```ad-statute
-title: s 101(3) CJA 2003
-The court must not admit evidence under subsection (1)(d) or (g) if, on an application by the defendant to exclude it, it appears to the court that the admission of the evidence would have such an **adverse effect on the fairness** of the proceedings that the court ought not to admit it.
-```
+> [!statute] s 101(3) CJA 2003
+> The court must not admit evidence under subsection (1)(d) or (g) if, on an application by the defendant to exclude it, it appears to the court that the admission of the evidence would have such an **adverse effect on the fairness** of the proceedings that the court ought not to admit it.
 
-```ad-note
-This is the same test as under s 78 PACE 1984. But under s 78 the court has discretion as to whether to exclude on such grounds, whereas under s 101(3) the court must exclude evidence if the test is satisfied.
-```
+> [!note]
+> This is the same test as under s 78 PACE 1984. But under s 78 the court has discretion as to whether to exclude on such grounds, whereas under s 101(3) the court must exclude evidence if the test is satisfied.
 
 Powers likely to be used when:
 
@@ -614,9 +566,8 @@ Evidence of a defendant’s bad character which is adduced under one gateway **m
 
 ## Conduct
 
-```ad-question
-You are representing Dave who is charged with an offence of possession of cocaine with intent to supply, contrary to s5(3) Misuse of Drugs Act 1971. Dave has pleaded not guilty. The CPS advise you that they plan to make an application to adduce evidence of Dave’s bad character. They have disclosed to you a list of  Dave's previous convictions. You  immediately notice that the record does not include a recent conviction for possession of cannabis with intent to supply that Dave has told you about in an earlier consultation. Dave pleaded guilty to this earlier offence.
-```
+> [!question]
+> You are representing Dave who is charged with an offence of possession of cocaine with intent to supply, contrary to s5(3) Misuse of Drugs Act 1971. Dave has pleaded not guilty. The CPS advise you that they plan to make an application to adduce evidence of Dave’s bad character. They have disclosed to you a list of  Dave's previous convictions. You  immediately notice that the record does not include a recent conviction for possession of cannabis with intent to supply that Dave has told you about in an earlier consultation. Dave pleaded guilty to this earlier offence.
 
 If the CPS find out about the conviction for possession of cannabis with intent to supply, they are likely to argue that it should be admissible as evidence at Dave’s trial as it establishes a propensity to commit the same type of offence with which he is now charged. Note that you cannot tell the CPS about the conviction without your client’s consent, in accordance with your duty of confidentiality under the SRA Code of Conduct, paragraph 6.3 (although of course you must not mislead the court about it either, given your obligation in the SRA Code of Conduct, paragraph 1.4).
 

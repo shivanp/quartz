@@ -39,15 +39,13 @@ A partner as certain responsibilities towards others and corresponding rights.
 
 ## Utmost Good Faith
 
-```ad-important
-By common law, a partnership is a relationship onto which is imposed a duty of utmost fairness and good faith from one partner to another. 
-```
+> [!important]
+> By common law, a partnership is a relationship onto which is imposed a duty of utmost fairness and good faith from one partner to another. 
 
 Perhaps the most fundamental obligation imposed on a partner is the duty to conduct oneself with complete good faith towards co-partners in all partnership dealings and transactions. This duty is fiduciary in nature and an inherent obligation of partnership. Partners must conduct themselves towards one another with the ‘highest standard of honour’, integrity and openness, even where their interests conflict.
 
-```ad-example
-In [[Helmore and Smith]] one judge said that he could not conceive of a stronger case of a fiduciary relationship than that which exists between partners. For example, in _Law and Law_ the court said that a partner negotiating to buy the share of another partner and who is in possession of facts material to that negotiation, is under a duty to disclose those facts to the selling partner and not to conceal what the seller does not know, even if to do so will affect the price the seller will demand. This obligation is now reflected to a large extent by the terms of section 28 of the Partnership Act.
-```
+> [!example]
+> In [[Helmore and Smith]] one judge said that he could not conceive of a stronger case of a fiduciary relationship than that which exists between partners. For example, in _Law and Law_ the court said that a partner negotiating to buy the share of another partner and who is in possession of facts material to that negotiation, is under a duty to disclose those facts to the selling partner and not to conceal what the seller does not know, even if to do so will affect the price the seller will demand. This obligation is now reflected to a large extent by the terms of section 28 of the Partnership Act.
 
 ### Applications in PA 1890
 
@@ -65,9 +63,8 @@ Lastly, whilst section 19 of the Partnership Act permits the statutory duties un
 
 In fact, it is common practice to impose a contractual duty of good faith to sit alongside the equitable duty so as to provide contractual remedies to sit alongside the equitable remedy.
 
-```ad-example
-The doctrine of caveat emptor does not apply to partners' dealings with one another. So in negotiating to sell the partnership business premises owned by them, a partner must not suppress information which will affect the valuation.
-```
+> [!example]
+> The doctrine of caveat emptor does not apply to partners' dealings with one another. So in negotiating to sell the partnership business premises owned by them, a partner must not suppress information which will affect the valuation.
 
 Key case: [[Broadhurse v Broadhurst]].
 

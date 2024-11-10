@@ -38,14 +38,11 @@ any of the following:
 3. an enactment; and
 4. a necessary consent or licence for the grant of the lease given before 19 June 2006.
 
-```ad-defn
-title: Prescribed clauses leases
-A lease for which use of the prescribed clauses is compulsory. 
-```
+> [!defn] Prescribed clauses leases
+> A lease for which use of the prescribed clauses is compulsory. 
 
-```ad-action
-If an applicant claims that a lease is not a prescribed clauses lease due to one of these exceptions, a conveyancer’s certificate or other evidence must be supplied with the application for registration.
-```
+> [!action]
+> If an applicant claims that a lease is not a prescribed clauses lease due to one of these exceptions, a conveyancer’s certificate or other evidence must be supplied with the application for registration.
 
 Prescribed clauses must appear at the beginning of a lease. Sch 1A Land Registration Rules 2003 sets out the required wording of prescribed clauses and gives instructions as to how the prescribed clauses must be completed.
 
@@ -75,10 +72,9 @@ After the operative words: “with full/ limited title guarantee”. Any express
 
 Take care when setting the commencement date of the term. This can be set at an earlier date than the actual start of the lease.
 
-```ad-warning
-- "from 1st November" means the lease starts on 2nd November. 
-- "from and including 1st November" means the lease starts on 1st November. 
-```
+> [!warning]
+> - "from 1st November" means the lease starts on 2nd November. 
+> - "from and including 1st November" means the lease starts on 1st November. 
 
 ### Parcels Clause
 
@@ -113,10 +109,8 @@ Four of the main covenants found in leases are introduced: repair, alterations, 
 
 The basic rule is that a tenant may do all the things that an owner of an estate can do unless the lease prohibits such actions. For this reason, leases are drafted in a prohibitory or negative manner, setting out what the tenant cannot do by way of a number of tenant covenants. A lease will also contain covenants given by the landlord.
 
-```ad-defn
-title: Leasehold covenant
-A promise contained in a lease given by a landlord or a tenant.
-```
+> [!defn] Leasehold covenant
+> A promise contained in a lease given by a landlord or a tenant.
 
 ## Types of Covenant
 
@@ -138,9 +132,8 @@ The courts have considered the test of 'reasonableness’, especially in respect
 
 [[International Drilling Fluids Ltd v Louisville Investments (Uxbridge) Ltd [1986] Ch 513]] stated the basic principles to be applied in determining the reasonableness of a landlord’s decision and made it clear that a landlord is not entitled to refuse his consent on grounds which have nothing to do with the landlord and tenant relationship.
 
-```ad-example
-It would not be reasonable for a landlord to refuse consent on the basis that he did not like the proposed assignee, or he supported a different football team. It must be something to do with, for example, the proposed assignee’s ability to pay the rent or bad references.
-```
+> [!example]
+> It would not be reasonable for a landlord to refuse consent on the basis that he did not like the proposed assignee, or he supported a different football team. It must be something to do with, for example, the proposed assignee’s ability to pay the rent or bad references.
 
 ## Alterations and Improvements
 
@@ -177,10 +170,8 @@ If the tenant agrees to an absolute covenant against alterations, the tenant wil
 
 A qualified covenant against alterations prohibits alterations without the landlord's prior consent. The [Landlord and Tenant Act (‘LTA’) 1927, s 19(2)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/19) applies to 'qualified' **alterations** covenants.
 
-```ad-statute
-title: s 19(2) LTA 1927
-In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against the making of improvements without a licence or consent, such covenant condition or agreement shall be deemed, notwithstanding any express provision to the contrary, to be **subject to a proviso that such licence or consent is not to be unreasonably withheld**; but this proviso does not preclude the right to require as a condition of such licence or consent the payment of a reasonable sum in respect of any damage to or diminution in the value of the premises or any neighbouring premises belonging to the landlord, and of any legal or other expenses properly incurred in connection with such licence or consent nor, in the case of an improvement which does not add to the letting value of the holding, does it preclude the right to require as a condition of such licence or consent, where such a requirement would be reasonable, an undertaking on the part of the tenant to reinstate the premises in the condition in which they were before the improvement was executed.
-```
+> [!statute] s 19(2) LTA 1927
+> In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against the making of improvements without a licence or consent, such covenant condition or agreement shall be deemed, notwithstanding any express provision to the contrary, to be **subject to a proviso that such licence or consent is not to be unreasonably withheld**; but this proviso does not preclude the right to require as a condition of such licence or consent the payment of a reasonable sum in respect of any damage to or diminution in the value of the premises or any neighbouring premises belonging to the landlord, and of any legal or other expenses properly incurred in connection with such licence or consent nor, in the case of an improvement which does not add to the letting value of the holding, does it preclude the right to require as a condition of such licence or consent, where such a requirement would be reasonable, an undertaking on the part of the tenant to reinstate the premises in the condition in which they were before the improvement was executed.
 
 Where there is a qualified covenant against alteration then LTA 1927, s 19(2) implies into a qualified covenant against improvements a proviso that the landlord’s consent is not to be unreasonably withheld. It therefore **converts a qualified covenant against alterations that amount to improvements into a fully qualified one**.
 
@@ -190,9 +181,8 @@ LTA 1927, s 19(2) only applies to 'improvements’. What then constitutes an ‘
 
 The leading case is [[Lambert v FW Woolworth & Co Limited [1938] Ch 833]] which held that 'improvements' are to be construed widely as works which improve the premises from the **tenant’s perspective**.
 
-```ad-tip
-If the works will increase the value or usefulness of the premises to the tenant then they will constitute an improement, even if they result in a reduction in the value of the landlord's reversionary interest. 
-```
+> [!tip]
+> If the works will increase the value or usefulness of the premises to the tenant then they will constitute an improement, even if they result in a reduction in the value of the landlord's reversionary interest. 
 
 LTA 1927, s 19(2) allows the landlord to require as a condition of giving consent:
 
@@ -233,9 +223,8 @@ Consider the following:
 
 ### Rent Suspension
 
-```ad-warning
-In the absence of an express term to the contrary, rent will continue to be payable even if the property is rendered unusable.
-```
+> [!warning]
+> In the absence of an express term to the contrary, rent will continue to be payable even if the property is rendered unusable.
 
 The tenant should ensure that the lease provides for the payment of rent to be suspended during any period that the premises cannot be occupied following damage by an insured risk.
 
@@ -247,9 +236,8 @@ If the building is totally destroyed, it will only be in exceptional circumstanc
 
 A lease will often contain a tenant covenant relating to the use of the premises. A landlord will want control over what the tenant is to use the premises for, e.g., for residential use or a specific business purpose. A tenant may be able to change the use of the premises depending upon the type of covenant.
 
-```ad-action
-When you are acting for a tenant, you should consider the user provisions carefully, to ensure that they are not going to cause your client any problems in his occupation of the unit, or if he should wish to assign the lease.
-```
+> [!action]
+> When you are acting for a tenant, you should consider the user provisions carefully, to ensure that they are not going to cause your client any problems in his occupation of the unit, or if he should wish to assign the lease.
 
 Both parties should consider any impact of competition legislation ([[Martin Retail Group Ltd v Crawley Borough Council (24 December 2013, Central London County Court)]]).
 
@@ -257,18 +245,15 @@ Both parties should consider any impact of competition legislation ([[Martin Ret
 
 [LTA 1927, s 19(3)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/19) applies to 'qualified' **user** covenants.
 
-```ad-statute
-title: s 19(3) LTA 1927
-In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against the alteration of the user of the demised premises, without licence or consent, such covenant condition or agreement shall, if the alteration **does not involve any structural alteration** of the premises, be deemed, notwithstanding any express provision to the contrary, to be subject to a proviso that **no fine or sum of money in the nature of a fine, whether by way of increase of rent or otherwise, shall be payable for or in respect of such licence or consent**; but this proviso does not preclude the right of the landlord to require payment of a reasonable sum in respect of any damage to or diminution in the value of the premises or any neighbouring premises belonging to him and of any legal or other expenses incurred in connection with such licence or consent. 
-```
+> [!statute] s 19(3) LTA 1927
+> In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against the alteration of the user of the demised premises, without licence or consent, such covenant condition or agreement shall, if the alteration **does not involve any structural alteration** of the premises, be deemed, notwithstanding any express provision to the contrary, to be subject to a proviso that **no fine or sum of money in the nature of a fine, whether by way of increase of rent or otherwise, shall be payable for or in respect of such licence or consent**; but this proviso does not preclude the right of the landlord to require payment of a reasonable sum in respect of any damage to or diminution in the value of the premises or any neighbouring premises belonging to him and of any legal or other expenses incurred in connection with such licence or consent. 
 
 If the change of use does involve a change to the structure, the landlord can increase the rent or charge the tenant a lump sum (in the statute referred to as a 'fine' or 'premium') in return for the consent.
 
 The landlord will be entitled to recover its costs and expenses involved in the application for consent, e.g., surveyor’s fees and legal fees.
 
-```ad-warning
-There is no statutory implication that the landlord's consent cannot be unreasonably withheld. So a tenant would much prefer the covenant to be fully qualified. 
-```
+> [!warning]
+> There is no statutory implication that the landlord's consent cannot be unreasonably withheld. So a tenant would much prefer the covenant to be fully qualified. 
 
 ## Flats
 
@@ -287,10 +272,8 @@ Considerations:
 
 ### Who Does What
 
-```ad-defn
-title: "Full repairing lease" 
-The tenant has full responsibility for the repair of the whole property - respondible for carrying out the repairs and bearing the cost. 
-```
+> [!defn] "Full repairing lease"
+> The tenant has full responsibility for the repair of the whole property - respondible for carrying out the repairs and bearing the cost. 
 
 If the demised premises form part of a larger property, a "full repairing lease" places direct responsibility for repairing the demised premises on the tenant. It also makes the tenant indirectly responsible for the cost (or a proportion of the cost) of repairs to the structure, exterior and common parts of the property through the service charge.
 
@@ -318,13 +301,11 @@ Under a general repairing covenant, the tenant must, according to the Court of A
 
 Many leases require the tenant to keep the demised premises in "good repair", "good and tenantable repair" or "substantial repair". It is uncertain whether the additional words add anything to the obligation to "repair" and there is case law to suggest that generally they do not (_Proudfoot v Hart (1890) 25 QBD 42_). A covenant that requires the tenant to keep the property "in good repair and condition" is more onerous than one that specifies "good repair" alone.
 
-```ad-warning
-**A covenant to keep the premises in repair also entails an obligation to put them in repair first**, if at the time of the letting they were out of repair ([[Proudfoot v Hart (1890) LR 25 QBD 42]]). Rationale: if the tenant covenants to keep property in repair, the tenant cannot perform this covenant unless the tenant first puts the property into repair (_[Payne v Haine [1847] 16 M&W 41](https://uk.practicallaw.thomsonreuters.com/D-009-7105?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=47d8e69b58514ba1976c981efd5911b3)_). This can be a very onerous obligation if the premises are in a state of disrepair at the beginning of the term.
-```
+> [!warning]
+> **A covenant to keep the premises in repair also entails an obligation to put them in repair first**, if at the time of the letting they were out of repair ([[Proudfoot v Hart (1890) LR 25 QBD 42]]). Rationale: if the tenant covenants to keep property in repair, the tenant cannot perform this covenant unless the tenant first puts the property into repair (_[Payne v Haine [1847] 16 M&W 41](https://uk.practicallaw.thomsonreuters.com/D-009-7105?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=47d8e69b58514ba1976c981efd5911b3)_). This can be a very onerous obligation if the premises are in a state of disrepair at the beginning of the term.
 
-```ad-action
-Before taking the lease, the tenant should inspect the property (and the building of which it forms part) for disrepair and then assess the potential repair costs.
-```
+> [!action]
+> Before taking the lease, the tenant should inspect the property (and the building of which it forms part) for disrepair and then assess the potential repair costs.
 
 #### Schedule of Condition
 
@@ -399,9 +380,8 @@ Ambiguous:
 
 The scope of repairing obligation will coincide with the physical extent of the demised premises. Where the demised premises are part of a larger property, each tenant will be responsible for repairing its demised property and the landlord will maintain the exterior, structure and common parts.
 
-```ad-action
-Ensure there is no overlap/ gap in repairing obligations, e.g., windows, ceilings. 
-```
+> [!action]
+> Ensure there is no overlap/ gap in repairing obligations, e.g., windows, ceilings. 
 
 #### Mechanical, Electrical Services and Plant
 
@@ -429,9 +409,8 @@ To make the clause more acceptable to a covenantor, the covenantee may be prepar
 
 When a landlord enters into a repairing covenant, there will be no breach unless and until he has notice (no matter from what source) of the lack of repair.
 
-```ad-action
-When acting for a landlord, you should include a tenant’s covenant to notify the landlord of the need to repair. If the tenant fails to do this, he will also be in breach of covenant and liable to the landlord for damages
-```
+> [!action]
+> When acting for a landlord, you should include a tenant’s covenant to notify the landlord of the need to repair. If the tenant fails to do this, he will also be in breach of covenant and liable to the landlord for damages
 
 If the part of the property in question is in the control of the landlord, for example the common parts, then the landlord’s liability does not depend upon his having received notice of the disrepair.
 
@@ -455,66 +434,60 @@ Usually assignment, sub-letting and/or sharing with group companies is allowed i
 
 Absolute prohibition usually unacceptable to tenants. So there is usually a qualified/ fully qualified prohibition.
 
-```ad-important
-A qualified covenant can be converted into a fully qualified covenant by the operation of s 19(1)(a) LTA 1927. 
-```
+> [!important]
+> A qualified covenant can be converted into a fully qualified covenant by the operation of s 19(1)(a) LTA 1927. 
 
 The Landlord and Tenant Act 1988 further strengthened the position of a tenant seeking  
 consent to assign, sub-let, charge or part with possession. The Act applies where the lease  
 contains a fully qualified covenant against alienation (whether express or implied by statute). The Act still applies even if the fully qualified covenant is subject to s 19(1A) of the Landlord and Tenant Act 1927.
 
-```ad-statute
-title: s 1 LTA 1988 - Qualified duty to consent to assigning, underletting etc. of premises.
+> [!statute] s 1 LTA 1988 - Qualified duty to consent to assigning, underletting etc. of premises.
+> 
+> (1) This section applies in any case where—
+> - (a) a tenancy includes a covenant on the part of the tenant not to enter into one or more of the following transactions, that is—
+> 	- (i) assigning,
+> 	- (ii) underletting,
+> 	- (iii) charging, or
+> 	- (iv) parting with the possession of,
+> - the premises comprised in the tenancy or any part of the premises without the consent of the landlord or some other person, but
+> - (b) the covenant is subject to the qualification that the consent is not to be unreasonably withheld (whether or not it is also subject to any other qualification).
+> 
+> (2) In this section and section 2 of this Act—
+> - (a) references to a proposed transaction are to any assignment, underletting, charging or parting with possession to which the covenant relates, and
+> - (b) references to the person who may consent to such a transaction are to the person who under the covenant may consent to the tenant entering into the proposed transaction.
+> 
+> (3) Where there is served on the person who may consent to a proposed transaction a written application by the tenant for consent to the transaction, he owes a duty to the tenant within a reasonable time—
+> - (a) to give consent, except in a case where it is reasonable not to give consent,
+> - (b) to serve on the tenant written notice of his decision whether or not to give consent specifying in addition—
+> 	- (i) if the consent is given subject to conditions, the conditions,
+> 	- (ii) if the consent is withheld, the reasons for withholding it.
+> 
+> (4) Giving consent subject to any condition that is not a reasonable condition does not satisfy the duty under subsection (3)(a) above.
+> 
+> (5) For the purposes of this Act it is reasonable for a person not to give consent to a proposed transaction only in a case where, if he withheld consent and the tenant completed the transaction, the tenant would be in breach of a covenant.
+> 
+> (6) It is for the person who owed any duty under subsection (3) above—
+> - (a) if he gave consent and the question arises whether he gave it within a reasonable time, to show that he did,
+> - (b) if he gave consent subject to any condition and the question arises whether the condition was a reasonable condition, to show that it was,
+> - (c) if he did not give consent and the question arises whether it was reasonable for him not to do so, to show that it was reasonable,
+> 
+> and, if the question arises whether he served notice under that subsection within a reasonable time, to show that he did.
 
-(1) This section applies in any case where—
-- (a) a tenancy includes a covenant on the part of the tenant not to enter into one or more of the following transactions, that is—
-	- (i) assigning,
-	- (ii) underletting,
-	- (iii) charging, or
-	- (iv) parting with the possession of,
-- the premises comprised in the tenancy or any part of the premises without the consent of the landlord or some other person, but
-- (b) the covenant is subject to the qualification that the consent is not to be unreasonably withheld (whether or not it is also subject to any other qualification).
-
-(2) In this section and section 2 of this Act—
-- (a) references to a proposed transaction are to any assignment, underletting, charging or parting with possession to which the covenant relates, and
-- (b) references to the person who may consent to such a transaction are to the person who under the covenant may consent to the tenant entering into the proposed transaction.
-
-(3) Where there is served on the person who may consent to a proposed transaction a written application by the tenant for consent to the transaction, he owes a duty to the tenant within a reasonable time—
-- (a) to give consent, except in a case where it is reasonable not to give consent,
-- (b) to serve on the tenant written notice of his decision whether or not to give consent specifying in addition—
-	- (i) if the consent is given subject to conditions, the conditions,
-	- (ii) if the consent is withheld, the reasons for withholding it.
-
-(4) Giving consent subject to any condition that is not a reasonable condition does not satisfy the duty under subsection (3)(a) above.
-
-(5) For the purposes of this Act it is reasonable for a person not to give consent to a proposed transaction only in a case where, if he withheld consent and the tenant completed the transaction, the tenant would be in breach of a covenant.
-
-(6) It is for the person who owed any duty under subsection (3) above—
-- (a) if he gave consent and the question arises whether he gave it within a reasonable time, to show that he did,
-- (b) if he gave consent subject to any condition and the question arises whether the condition was a reasonable condition, to show that it was,
-- (c) if he did not give consent and the question arises whether it was reasonable for him not to do so, to show that it was reasonable,
-
-and, if the question arises whether he served notice under that subsection within a reasonable time, to show that he did.
-```
-
-```ad-summary
-When the tenant has made written application for consent, the landlord owes a duty, within a reasonable time, to give consent, unless it is reasonable not to do so. In addition, the landlord must serve on the tenant written notice of his decision whether or not to give consent, specifying in addition the conditions he is imposing, or the reasons why he is withholding consent. The burden of proving the reasonableness of any refusal or any conditions imposed is on the landlord.
-```
+> [!summary]
+> When the tenant has made written application for consent, the landlord owes a duty, within a reasonable time, to give consent, unless it is reasonable not to do so. In addition, the landlord must serve on the tenant written notice of his decision whether or not to give consent, specifying in addition the conditions he is imposing, or the reasons why he is withholding consent. The burden of proving the reasonableness of any refusal or any conditions imposed is on the landlord.
 
 ### Covenants Against Assigning Commercial Leases
 
-```ad-statute
-title: s 19(1A) LTA 1927
-Where the landlord and the tenant under a qualifying lease have entered into an agreement specifying for the purposes of this subsection—
-- (a) any circumstances in which the landlord may withhold his licence or consent to an assignment of the demised premises or any part of them, or
-- (b) any conditions subject to which any such licence or consent may be granted,
-
-then the landlord—
-- (i) shall not be regarded as unreasonably withholding his licence or consent to any such assignment if he withholds it on the ground (and it is the case) that any such circumstances exist, and
-- (ii) if he gives any such licence or consent subject to any such conditions, shall not be regarded as giving it subject to unreasonable conditions;
-
-and section 1 of the Landlord and Tenant Act 1988 (qualified duty to consent to assignment etc.) shall have effect subject to the provisions of this subsection.
-```
+> [!statute] s 19(1A) LTA 1927
+> Where the landlord and the tenant under a qualifying lease have entered into an agreement specifying for the purposes of this subsection—
+> - (a) any circumstances in which the landlord may withhold his licence or consent to an assignment of the demised premises or any part of them, or
+> - (b) any conditions subject to which any such licence or consent may be granted,
+> 
+> then the landlord—
+> - (i) shall not be regarded as unreasonably withholding his licence or consent to any such assignment if he withholds it on the ground (and it is the case) that any such circumstances exist, and
+> - (ii) if he gives any such licence or consent subject to any such conditions, shall not be regarded as giving it subject to unreasonable conditions;
+> 
+> and section 1 of the Landlord and Tenant Act 1988 (qualified duty to consent to assignment etc.) shall have effect subject to the provisions of this subsection.
 
 These rules enable the landlord and tenant to agree in advance (i.e., in the covenant against assigning) specified circumstances in which the landlord may withhold his consent to an assignment and specified conditions subject to which consent to assignment may be given. If the landlord withholds consent because any of those specified circumstances exist, or imposes any of those specified conditions on his consent, he will not be taken to be acting unreasonably.
 

@@ -9,10 +9,8 @@ date modified: Sunday, December 10th 2023, 12:39:53 am
 
 ## Introduction
 
-```ad-statute
-title: Para 6.3 Codes of Conduct
-You [must] keep the affairs of current and former clients confidential unless disclosure is required or permitted by law or the client consents. 
-```
+> [!statute] Para 6.3 Codes of Conduct
+> You [must] keep the affairs of current and former clients confidential unless disclosure is required or permitted by law or the client consents. 
 
 - Obligation of confidentiality extends beyond obviously confidential information given to a solicitor by their client and includes all information about a client or matter, regardless of the source of information.
 - Firms must have good systems in place – Code of Conduct for Firms

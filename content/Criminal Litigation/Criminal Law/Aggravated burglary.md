@@ -9,19 +9,17 @@ date modified: Sunday, December 10th 2023, 12:40:25 am
 
 ## Statute
 
-```ad-statute
-title: [s 10 Theft Act 1968](https://www.legislation.gov.uk/ukpga/1968/60/section/10)
-
-(1) A person is guilty of aggravated burglary if he commits any burglary and at the time has with him any firearm or imitation firearm, any weapon of offence, or any explosive; and for this purpose –
-
-(a) ‘firearm’ includes an airgun or airpistol, and ‘imitation firearm’ means anything which has the appearance of being a firearm, whether capable of being discharged or not; and
-
-(b) ‘weapon of offence’ means any article made or adapted for use for causing injury to or incapacitating a person, or intended by the person having it with him for such use; and
-
-(c) ‘explosive’ means any article manufactured for the purpose of producing a practical effect by explosion, or intended by the person having it with him for that purpose.
-
-(2) A person guilty of aggravated burglary shall on conviction on indictment be liable to imprisonment for life.
-```
+> [!statute] [s 10 Theft Act 1968](https://www.legislation.gov.uk/ukpga/1968/60/section/10)
+> 
+> (1) A person is guilty of aggravated burglary if he commits any burglary and at the time has with him any firearm or imitation firearm, any weapon of offence, or any explosive; and for this purpose –
+> 
+> (a) ‘firearm’ includes an airgun or airpistol, and ‘imitation firearm’ means anything which has the appearance of being a firearm, whether capable of being discharged or not; and
+> 
+> (b) ‘weapon of offence’ means any article made or adapted for use for causing injury to or incapacitating a person, or intended by the person having it with him for such use; and
+> 
+> (c) ‘explosive’ means any article manufactured for the purpose of producing a practical effect by explosion, or intended by the person having it with him for that purpose.
+> 
+> (2) A person guilty of aggravated burglary shall on conviction on indictment be liable to imprisonment for life.
 
 ## Purpose
 

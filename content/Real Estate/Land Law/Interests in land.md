@@ -14,9 +14,8 @@ All land is owned by the Crown. The freehold and leasehold estates are proprieta
 
 An interest in the land does not give a right to possess the land in the way an estate does, rather it gives the interest holder the right to do something on the land, or restrict what can be done on the land. As a proprietary right, an interest is a very powerful right in the land, which can be recovered (as an action ‘in rem’) and capable of enforcement against third parties i.e., new owners of the land burdened by the interest.
 
-```ad-defn
-Interests are proprietary rights to use/enjoy the land. Interests are also sometimes referred to as **incumbrances** on an estate.
-```
+> [!defn]
+> Interests are proprietary rights to use/enjoy the land. Interests are also sometimes referred to as **incumbrances** on an estate.
 
 ## Distinguishing Proprietary and Personal Rights
 
@@ -26,19 +25,17 @@ Parliament has therefore limited the number of rights that are capable of being 
 
 If a right has not been recognised by LPA 1925, s 1 as having proprietary status then it will only ever be personal in nature. An example of such a right is a licence, which is not an interest in land but rather a personal right against the grantor.
 
-```ad-statute
-title: s 1 LPA 1925
-
-(2) The only interests or charges in or over land which are capable of subsisting or of being conveyed or created at law are—
-
-(a) An **easement,** right, or privilege in or over land for an interest equivalent to an estate in fee simple absolute in possession or a term of years absolute; ..
-
-(c) A charge by way of **legal mortgage** …
-
-(e) **Rights of entry** exercisable over or in respect of a legal term of years absolute, or annexed, for any purpose, to a legal rent charge.
-
-(3) All other estates, interests, and charges in or over land take effect as equitable interests.
-```
+> [!statute] s 1 LPA 1925
+> 
+> (2) The only interests or charges in or over land which are capable of subsisting or of being conveyed or created at law are—
+> 
+> (a) An **easement,** right, or privilege in or over land for an interest equivalent to an estate in fee simple absolute in possession or a term of years absolute; ..
+> 
+> (c) A charge by way of **legal mortgage** …
+> 
+> (e) **Rights of entry** exercisable over or in respect of a legal term of years absolute, or annexed, for any purpose, to a legal rent charge.
+> 
+> (3) All other estates, interests, and charges in or over land take effect as equitable interests.
 
 The rights under s 1(2)(a), (c) and (e) are **legal interests.** The rights under s 1(3) are those which have been recognised by courts as having proprietary status. Such interests will only take effect in equity.
 
@@ -60,9 +57,8 @@ An easement is a proprietary right to use land which belongs to somebody else. T
 
 An easement must be granted for a term equivalent to one of the legal estates (i.e., forever, like the freehold, or for a certain period, like a lease) to be a legal easement: LPA 1925, s 1(2)(a).
 
-```ad-example
-Rights of way, drainage, storage, and parking on neighbouring land.
-```
+> [!example]
+> Rights of way, drainage, storage, and parking on neighbouring land.
 
 ### Right of Way
 
@@ -75,9 +71,8 @@ A **rentcharge** is very uncommon. It is a legal right to receive a periodic sum
 
 A right of entry in a lease is also known as a ‘**forfeiture clause**’.
 
-```ad-note
-Rights of entry are not considered other than in the context of forfeiture.
-```
+> [!note]
+> Rights of entry are not considered other than in the context of forfeiture.
 
 ## Equitable Interests
 
@@ -89,9 +84,8 @@ Restrictive covenants are negative in nature, they prevent a landowner from doin
 
 A restrictive covenant is not a recognised legal interest in the land. It falls under LPA 1925, s 1 (3) as being an equitable interest and was recognised by the courts as being an interest in the land in the 1840s.
 
-```ad-example
-Promise not to sell alcohol from the land, promise not to build on the land, promise to only use the land for residential purposes.
-```
+> [!example]
+> Promise not to sell alcohol from the land, promise not to build on the land, promise to only use the land for residential purposes.
 
 ### Estate Contract
 
@@ -99,9 +93,8 @@ The estate contract is a contractual right to a legal estate, whether freehold o
 
 Equity will order specific performance of a contract to create or transfer a legal estate, because each piece of land is regarded as unique. This, together with the maxim that ‘equity sees that as done what ought to be done’, results in an equitable interest arising from the contract.
 
-```ad-example
-A contract to buy land, a contract to grant a lease, an option to purchase land, a right of pre-emption.
-```
+> [!example]
+> A contract to buy land, a contract to grant a lease, an option to purchase land, a right of pre-emption.
 
 ### Interests in a Trust of Land
 
@@ -116,17 +109,15 @@ The trustees and beneficiaries can be the same or different people.
 
 A trust of land can be created expressly, see [[Creation of express trusts]]
 
-```ad-example
-A piece of land is transferred to A to hold in trust for B. A is the trustee, the legal owner of the land. B is the beneficiary and has an equitable interest in the land.
-```
+> [!example]
+> A piece of land is transferred to A to hold in trust for B. A is the trustee, the legal owner of the land. B is the beneficiary and has an equitable interest in the land.
 
 #### Implied Trust
 
 A trust of land can be created impliedly.
 
-```ad-example
-A and B buy a house together, each contributing 50% of the purchase price. The land is transferred to A only. A is the legal owner of the land. Equity recognises B’s contribution and implies a trust. A and B are both beneficiaries. B has an equitable interest in the land.
-```
+> [!example]
+> A and B buy a house together, each contributing 50% of the purchase price. The land is transferred to A only. A is the legal owner of the land. Equity recognises B’s contribution and implies a trust. A and B are both beneficiaries. B has an equitable interest in the land.
 
 ## Legal Vs Equitable Interests
 

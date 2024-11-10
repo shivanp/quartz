@@ -14,9 +14,8 @@ date modified: Sunday, December 10th 2023, 12:41:08 am
 
 General Meetings are usually called by the board of directors ([s 302 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/302)) by passing a board resolution at a Board Meeting ([[Brown v La Trinidad (1887) 37 Ch. D. 1]]). This is usually passed by a simple majority vote of directors, or can be passed by a signed directors' written resolution.
 
-```ad-note
-On a board resolution just to call a GM, MA stipulates that MA 14 restrictions on quorum and voting do not apply, since the board meeting decision is seen as purely procedural.
-```
+> [!note]
+> On a board resolution just to call a GM, MA stipulates that MA 14 restrictions on quorum and voting do not apply, since the board meeting decision is seen as purely procedural.
 
 The Board must give 14 clear days' notice of a General Meeting ([s 307(1) CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/307) & [s 360 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/360)). The exception is where the **short notice procedure** is used (s 307(4)-(6)): if $\geq 90\%$ of shareholders with voting rights agree, the general meeting can take place on short notice, e.g., immediately after the board meeting (note this requisite percentage can be changed between 90-95% in the Articles).
 
@@ -94,29 +93,27 @@ If shareholders exercise their s 314(1) rights to have a statement circulated be
 
 ### Length
 
-```ad-statute
-title: s 307 - Notice required of a GM
-
-(1) A general meeting of a private company (other than an adjourned meeting) must be called by notice of at least 14 days.
-
-(2) A general meeting of a public company (other than an adjourned meeting) must be called by notice of—
-- (a) in the case of an annual general meeting, at least 21 days, and
-- (b) in any other case, at least 14 days.
-
-(3) The company's articles may require a longer period of notice than that specified in subsection (1) or (2).
-
-(4) A general meeting may be called by shorter notice than that otherwise required if shorter notice is agreed by the members.
-
-(5) The shorter notice must be agreed to by a majority in number of the members having a right to attend and vote at the meeting, being a majority who—
-- (a) together hold not less than the requisite percentage in nominal value of the shares giving a right to attend and vote at the meeting (excluding any shares in the company held as treasury shares), or
-- (b) in the case of a company not having a share capital, together represent not less than the requisite percentage of the total voting rights at that meeting of all the members.
-
-(6) The requisite percentage is—
-- (a) in the case of a private company, 90% or such higher percentage (not exceeding 95%) as may be specified in the company's articles;
-- (b) in the case of a public company, 95%.
-
-(7) Subsections (5) and (6) do not apply to an annual general meeting of a public company (see instead section 337(2)).
-```
+> [!statute] s 307 - Notice required of a GM
+> 
+> (1) A general meeting of a private company (other than an adjourned meeting) must be called by notice of at least 14 days.
+> 
+> (2) A general meeting of a public company (other than an adjourned meeting) must be called by notice of—
+> - (a) in the case of an annual general meeting, at least 21 days, and
+> - (b) in any other case, at least 14 days.
+> 
+> (3) The company's articles may require a longer period of notice than that specified in subsection (1) or (2).
+> 
+> (4) A general meeting may be called by shorter notice than that otherwise required if shorter notice is agreed by the members.
+> 
+> (5) The shorter notice must be agreed to by a majority in number of the members having a right to attend and vote at the meeting, being a majority who—
+> - (a) together hold not less than the requisite percentage in nominal value of the shares giving a right to attend and vote at the meeting (excluding any shares in the company held as treasury shares), or
+> - (b) in the case of a company not having a share capital, together represent not less than the requisite percentage of the total voting rights at that meeting of all the members.
+> 
+> (6) The requisite percentage is—
+> - (a) in the case of a private company, 90% or such higher percentage (not exceeding 95%) as may be specified in the company's articles;
+> - (b) in the case of a public company, 95%.
+> 
+> (7) Subsections (5) and (6) do not apply to an annual general meeting of a public company (see instead section 337(2)).
 
 - 14 clear days' notice (ss 307(1) & 360).
 - Notice period usually includes weekends and bank holidays.
@@ -125,10 +122,9 @@ title: s 307 - Notice required of a GM
 
 #### Deemed Delivery
 
-```ad-attention
-
-In addition to the minimum 14 clear days’ notice period, it is usually necessary under s 1147 of the CA 2006 to add a further 48 hours before the GM can be held, unless the company’s articles state otherwise. This is because s 1147 provides that a document (including a notice of a GM) is deemed to have been received by the intended recipient 48 hours after it was sent by post or electronically.
-```
+> [!attention]
+> 
+> In addition to the minimum 14 clear days’ notice period, it is usually necessary under s 1147 of the CA 2006 to add a further 48 hours before the GM can be held, unless the company’s articles state otherwise. This is because s 1147 provides that a document (including a notice of a GM) is deemed to have been received by the intended recipient 48 hours after it was sent by post or electronically.
 
 ### Short Notice
 
@@ -146,22 +142,20 @@ There are circumstances for which short notice cannot be used, e.g., s 168 remov
 
 But:
 
-```ad-statute
-title: s 313 - Accidental failure to give notice of resolution or meeting
-
-(1) Where a company gives notice of—
-- (a) a general meeting, or
-- (b) a resolution intended to be moved at a general meeting,
-
-any accidental failure to give notice to one or more persons shall be disregarded for the purpose of determining whether notice of the meeting or resolution (as the case may be) is duly given.
-
-(2) Except in relation to notice given under—
-- (a) section 304 (notice of meetings required by members),
-- (b) section 305 (notice of meetings called by members), or
-- (c) section 339 (notice of resolutions at AGMs proposed by members),
-
-subsection (1) has effect subject to any provision of the company's articles
-```
+> [!statute] s 313 - Accidental failure to give notice of resolution or meeting
+> 
+> (1) Where a company gives notice of—
+> - (a) a general meeting, or
+> - (b) a resolution intended to be moved at a general meeting,
+> 
+> any accidental failure to give notice to one or more persons shall be disregarded for the purpose of determining whether notice of the meeting or resolution (as the case may be) is duly given.
+> 
+> (2) Except in relation to notice given under—
+> - (a) section 304 (notice of meetings required by members),
+> - (b) section 305 (notice of meetings called by members), or
+> - (c) section 339 (notice of resolutions at AGMs proposed by members),
+> 
+> subsection (1) has effect subject to any provision of the company's articles
 
 ## Quorum
 
@@ -212,24 +206,22 @@ Two methods for passing both ordinary resolutions (s 282) and special resolution
 
 Under [MA 42](https://www.gov.uk/government/publications/model-articles-for-private-companies-limited-by-shares/model-articles-for-private-companies-limited-by-shares#votinggen) a resolution put to the vote of a General Meeting must be decided on a show of hands unless a poll is demanded in accordance with the Articles. [MA 44](https://www.gov.uk/government/publications/model-articles-for-private-companies-limited-by-shares/model-articles-for-private-companies-limited-by-shares#pollvotes) deals with the right to demand a poll vote as follows:
 
-```ad-statute
-title: MA 44 - Poll votes
-(1) A poll on a resolution may be demanded—
-- (a) in advance of the general meeting where it is to be put to the vote, or
-- (b) at a general meeting, either before a show of hands on that resolution or immediately after the result of a show of hands on that resolution is declared.
-
-(2) A poll may be demanded by—
-- (a) the chairman of the meeting;
-- (b) the directors;
-- (c) two or more persons having the right to vote on the resolution; or
-- (d) a person or persons representing **not less than one tenth of the total voting rights** of all the shareholders having the right to vote on the resolution.
-
-(3) A demand for a poll may be withdrawn if—
-- (a) the poll has not yet been taken, and
-- (b) the chairman of the meeting consents to the withdrawal.
-
-(4) Polls must be taken immediately and in such manner as the chairman of the meeting directs.
-```
+> [!statute] MA 44 - Poll votes
+> (1) A poll on a resolution may be demanded—
+> - (a) in advance of the general meeting where it is to be put to the vote, or
+> - (b) at a general meeting, either before a show of hands on that resolution or immediately after the result of a show of hands on that resolution is declared.
+> 
+> (2) A poll may be demanded by—
+> - (a) the chairman of the meeting;
+> - (b) the directors;
+> - (c) two or more persons having the right to vote on the resolution; or
+> - (d) a person or persons representing **not less than one tenth of the total voting rights** of all the shareholders having the right to vote on the resolution.
+> 
+> (3) A demand for a poll may be withdrawn if—
+> - (a) the poll has not yet been taken, and
+> - (b) the chairman of the meeting consents to the withdrawal.
+> 
+> (4) Polls must be taken immediately and in such manner as the chairman of the meeting directs.
 
 If the vote is a poll vote, it is taken in writing with one vote per share, usually immediately ([[R v Chillington Iron Co (1825) 29 ChD 159]]); but votes cast in advance of the meeting may also be included in a poll vote, subject to the articles of the company (s 322A).
 
@@ -242,13 +234,11 @@ This right cannot be excluded: [s 321(1) CA 2006](https://www.legislation.gov.uk
 
 ### Proxies
 
-```ad-statute
-title: s 324 - Rights to appoint proxies
-
-(1) A member of a company is entitled to appoint another person as his proxy to exercise all or any of his rights to attend and to speak and vote at a meeting of the company.
-
-(2) In the case of a company having a share capital, a member may appoint more than one proxy in relation to a meeting, provided that each proxy is appointed to exercise the rights attached to a different share or shares held by him, or (as the case may be) to a different £10, or multiple of £10, of stock held by him.
-```
+> [!statute] s 324 - Rights to appoint proxies
+> 
+> (1) A member of a company is entitled to appoint another person as his proxy to exercise all or any of his rights to attend and to speak and vote at a meeting of the company.
+> 
+> (2) In the case of a company having a share capital, a member may appoint more than one proxy in relation to a meeting, provided that each proxy is appointed to exercise the rights attached to a different share or shares held by him, or (as the case may be) to a different £10, or multiple of £10, of stock held by him.
 
 - Corporate shareholders must appoint a representative to attend GMs ([s 323 CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/323)).
 - The proxy must vote in accordance with the wishes of the shareholder who appointed the proxy (s 322A).

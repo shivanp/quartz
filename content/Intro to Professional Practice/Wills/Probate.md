@@ -188,9 +188,8 @@ Where there is tax to pay on delivery of an IHT400, the PRs must arrange for the
 - Obtaining a grant on credit
 	- The grant of probate can be obtained on credit in exceptional circumstances where PRs can demonstrate that it is impossible to pay IHT in advance.
 
-```ad-conduct
-An undertaking should be limiited to "such proceeds as come into the solicitor's control".
-```
+> [!conduct]
+> An undertaking should be limiited to "such proceeds as come into the solicitor's control".
 
 ## Excepted Estates
 
@@ -213,30 +212,24 @@ There are 3 categories of excepted estates.
 | Category 2 - 'exempt' estates        | Estates where the bulk of the estate attracts the spouse/ civil partner or charity exemption. The gross value of the estate + specified transfers must not exceed £3 million. Net chargeable estate after deduction of liabilities and exemptions must not exceed nil rate threshold. |
 | Category 3 - 'non-domiciled' estates | Where the deceased was never domiciled or treated as domiciled in the UK, and owned only limited assets in the UK.                                                                                                                                                                                                                                                                                      |
 
-```ad-defn
-title: Specified transfers
-Chargeable transfers of cash, personal chattels, tangible moveable property, quoted shares, or an interest in land, made in the 7 years before death. When valuing specified transfers, business and agricultural property relief is ignored. 
-```
+> [!defn] Specified transfers
+> Chargeable transfers of cash, personal chattels, tangible moveable property, quoted shares, or an interest in land, made in the 7 years before death. When valuing specified transfers, business and agricultural property relief is ignored. 
 
-```ad-defn
-title: Specified exempt transfers
-Transfers of value made in 7 years before death which fall under one of the exceptions:
-- s 18 (transfers between spouses (or civil partners));
-- s 23 (gifts to charities);
-- s 24 (gifts to political parties);
-- s 24A (gifts to housing associations);
-- s 27 (maintenance funds for historic buildings, etc); or
-- s 28 (employee trusts).
-```
+> [!defn] Specified exempt transfers
+> Transfers of value made in 7 years before death which fall under one of the exceptions:
+> - s 18 (transfers between spouses (or civil partners));
+> - s 23 (gifts to charities);
+> - s 24 (gifts to political parties);
+> - s 24A (gifts to housing associations);
+> - s 27 (maintenance funds for historic buildings, etc); or
+> - s 28 (employee trusts).
 
 ### Procedure
 
 On the application of grant, PRs provide details of the deceased, the value of their estate and details of any nil rate band.
 
-```ad-defn
-title: Estate
-For this purpose, estate means the total of the death estate + specified transfers + specified exempt transfers made $\leq 7$ years before death.
-```
+> [!defn] Estate
+> For this purpose, estate means the total of the death estate + specified transfers + specified exempt transfers made $\leq 7$ years before death.
 
 HMRC will select a random sample to review within 60 days of the application for grant.
 
@@ -355,18 +348,16 @@ Completed whenever there is a will, and irrespective of whether the grant sought
 
 Completed where the deceased died without a valid will.
 
-```ad-statute
-title: r 22 NCPR 1987
-(1) Where the deceased died on or after 1 January 1926, wholly intestate, the person or persons having a beneficial interest in the estate shall be entitled to a grant of administration in the following classes in order of priority, namely—
-- (a) the surviving husband or wife;
-- (b) the children of the deceased and the issue of any deceased child who died before the deceased;
-- (c) the father and mother of the deceased;
-- (d) brothers and sisters of the whole blood and the issue of any deceased brother or sister of the whole blood who died before the deceased;
-- (e) brothers and sisters of the half blood and the issue of any deceased brother or sister of the half blood who died before the deceased;
-- (f) grandparents;
-- (g) uncles and aunts of the whole blood and the issue of any deceased uncle or aunt of the whole blood who died before the deceased;
-- (h) uncles and aunts of the half blood and the issue of any deceased uncle or aunt of the half blood who died before the deceased.
-```
+> [!statute] r 22 NCPR 1987
+> (1) Where the deceased died on or after 1 January 1926, wholly intestate, the person or persons having a beneficial interest in the estate shall be entitled to a grant of administration in the following classes in order of priority, namely—
+> - (a) the surviving husband or wife;
+> - (b) the children of the deceased and the issue of any deceased child who died before the deceased;
+> - (c) the father and mother of the deceased;
+> - (d) brothers and sisters of the whole blood and the issue of any deceased brother or sister of the whole blood who died before the deceased;
+> - (e) brothers and sisters of the half blood and the issue of any deceased brother or sister of the half blood who died before the deceased;
+> - (f) grandparents;
+> - (g) uncles and aunts of the whole blood and the issue of any deceased uncle or aunt of the whole blood who died before the deceased;
+> - (h) uncles and aunts of the half blood and the issue of any deceased uncle or aunt of the half blood who died before the deceased.
 
 ### Clearing Off
 
@@ -419,25 +410,23 @@ If a person entitled to be the PR (either as the executor under a will, or by vi
 The office of executor is personal to the executor appointed by the testator in their will.  
 Because it is an office of personal trust an executor cannot assign that office (although they can appoint an attorney).
 
-```ad-statute
-title: s 7 AEA 1925
-(1) An executor of a sole or last surviving executor of a testator is the executor of that testator.
-
-This provision shall not apply to an executor who does not prove the will of his testator, and, in the case of an executor who on his death leaves surviving him some other executor of his testator who afterwards proves the will of that testator, it shall cease to apply on such probate being granted.
-
-(2) So long as the chain of such representation is unbroken, the last executor in the chain is the executor of every preceding testator.
-
-(3) The chain of such representation is broken by—
-- (a) an intestacy; or
-- (b) the failure of a testator to appoint an executor; or
-- (c) the failure to obtain probate of a will;
-
-but is not broken by a temporary grant of administration if probate is subsequently granted.
-
-(4) Every person in the chain of representation to a testator—
-- (a) has the same rights in respect of the real and personal estate of that testator as the original executor would have had if living; and
-- (b) is, to the extent to which the estate whether real or personal of that testator has come to his hands, answerable as if he were an original executor.
-```
+> [!statute] s 7 AEA 1925
+> (1) An executor of a sole or last surviving executor of a testator is the executor of that testator.
+> 
+> This provision shall not apply to an executor who does not prove the will of his testator, and, in the case of an executor who on his death leaves surviving him some other executor of his testator who afterwards proves the will of that testator, it shall cease to apply on such probate being granted.
+> 
+> (2) So long as the chain of such representation is unbroken, the last executor in the chain is the executor of every preceding testator.
+> 
+> (3) The chain of such representation is broken by—
+> - (a) an intestacy; or
+> - (b) the failure of a testator to appoint an executor; or
+> - (c) the failure to obtain probate of a will;
+> 
+> but is not broken by a temporary grant of administration if probate is subsequently granted.
+> 
+> (4) Every person in the chain of representation to a testator—
+> - (a) has the same rights in respect of the real and personal estate of that testator as the original executor would have had if living; and
+> - (b) is, to the extent to which the estate whether real or personal of that testator has come to his hands, answerable as if he were an original executor.
 
 ### Grant *de Bonis Non administratis*
 

@@ -61,10 +61,8 @@ The police are not obliged to provide the solicitor with evidence, but will usua
 
 If the investigating officer refuses to make any disclosure, or discloses only a very limited amount of information, the solicitor should point out to him that in those circumstances the solicitor cannot properly advise the client as to the nature of the case against him and will only be able to advise the client to give a ‘no comment’ interview.
 
-```ad-statute
-title: para 11.1A, Code C
-Before a person is interviewed, they and, if they are represented, their solicitor must be given sufficient information to enable them to understand the nature of any such offence, and why they are suspected of committing it.
-```
+> [!statute] para 11.1A, Code C
+> Before a person is interviewed, they and, if they are represented, their solicitor must be given sufficient information to enable them to understand the nature of any such offence, and why they are suspected of committing it.
 
 ### Significant statements/ Silences
 
@@ -109,9 +107,8 @@ If representing both suspects, they should not disclose anything between suspect
 
 And always have regard to the overriding duty not to mislead the court.
 
-```ad-important
-Co-accused who are represented by the same solicitor may attempt to use that solicitor to pass information between each other so that they can jointly fabricate a defence and give the police a consistent ‘story’. To guard against this, the solicitor should ensure that before telling the second client what they have been told by the first client, they obtain an account of the second client’s version of events.
-```
+> [!important]
+> Co-accused who are represented by the same solicitor may attempt to use that solicitor to pass information between each other so that they can jointly fabricate a defence and give the police a consistent ‘story’. To guard against this, the solicitor should ensure that before telling the second client what they have been told by the first client, they obtain an account of the second client’s version of events.
 
 ### Disclosure to TP
 
@@ -144,11 +141,10 @@ Client has 4 options:
 | Selective silence    | None                                                                                                                                                                                                                                                                                                                    | Makes it look like D has something to hide/ has no satisfactory answer to some questions.                                                                                                                                                                                                                                                                                                                                                                                              |
 | Written statement    | Client needs to place his version of events on record, but may perform badly under interview (if young, emotional, or first conviction). Avoids adverse inferences under s 34 CJPOA 1994 **if it sets out all the facts**. The statement should say no more than is necessary to prevent the drawing of adverse inferences. | Gives the police extra information.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-```ad-important
-- If advising a "no comment" interview, make a full written note of the reasons for advising this. This may become evidence at trial. 
-- If producing a written statement, standard practice is to hand it to the police during the interview. But hand it in after the police have decided to charge the suspect, if the evidence against them is particularly weak (to avoid the statement containing a partial admission which means the suspect can be charged). 
-- Solicitor will occasionally take a written statement but keep it on file rather than handing it to the police, if the defence is existent but weak/ has plot holes. 
-```
+> [!important]
+> - If advising a "no comment" interview, make a full written note of the reasons for advising this. This may become evidence at trial. 
+> - If producing a written statement, standard practice is to hand it to the police during the interview. But hand it in after the police have decided to charge the suspect, if the evidence against them is particularly weak (to avoid the statement containing a partial admission which means the suspect can be charged). 
+> - Solicitor will occasionally take a written statement but keep it on file rather than handing it to the police, if the defence is existent but weak/ has plot holes. 
 
 ![[no-comment-decision.png]]
 

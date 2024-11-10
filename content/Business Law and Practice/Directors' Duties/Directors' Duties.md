@@ -71,12 +71,10 @@ Directors. Recall s 250(1): includes any person occupying the position of direct
 
 Directors owe their duties to the company (CA 2006, s 170(1)).
 
-```ad-question
-title: Who can take action?
-- The company itself (acting through the board of directors) must take action against a director for breach of these duties, as any wrong is committed against the company itself.
--  In limited circumstances, the shareholders may bring a derivative action on behalf of the company to enforce the company’s rights.
-- Exceptionally, the directors might owe a duty to shareholders as well as to the company where, for example, they agreed to act as agents for the shareholders, or if they assumed responsibility for giving advice to the shareholders on their shareholdings, but this would seem to be relevant only in small family companies ([[Platt v Platt [1999] 2 BCLC 745]])
-```
+> [!question] Who can take action?
+> - The company itself (acting through the board of directors) must take action against a director for breach of these duties, as any wrong is committed against the company itself.
+> -  In limited circumstances, the shareholders may bring a derivative action on behalf of the company to enforce the company’s rights.
+> - Exceptionally, the directors might owe a duty to shareholders as well as to the company where, for example, they agreed to act as agents for the shareholders, or if they assumed responsibility for giving advice to the shareholders on their shareholdings, but this would seem to be relevant only in small family companies ([[Platt v Platt [1999] 2 BCLC 745]])
 
 A director may also owe duties to the creditors of their company rather than to the shareholders if the company is insolvent or approaching insolvency (s 172(3)).
 
@@ -103,12 +101,10 @@ Note that s 172 and 175 duties overlap in many cases.
 
 ## S 171
 
-```ad-statute
-title: s 171 - Duty to act within powers
-A director of a company must—
-- (a) act in accordance with the company’s constitution, and
-- (b) only exercise powers for the purposes for which they are conferred.
-```
+> [!statute] s 171 - Duty to act within powers
+> A director of a company must—
+> - (a) act in accordance with the company’s constitution, and
+> - (b) only exercise powers for the purposes for which they are conferred.
 
 Details:
 
@@ -137,21 +133,19 @@ Note the overlap between the duty to promote the success of the company (s 172) 
 
 Success = long-term increase in company's value.
 
-```ad-statute
-title: s 172 - Duty to promote the success of the company
-
-(1) A director of a company must act in the way he considers, in good faith, would be most likely to promote the success of the company for the benefit of its members as a whole, and in doing so have regard (amongst other matters) to—
-- (a) the likely consequences of any decision in the long term,
-- (b) the interests of the company's employees,
-- (c) the need to foster the company's business relationships with suppliers, customers and others,
-- (d) the impact of the company's operations on the community and the environment,
-- (e) the desirability of the company maintaining a reputation for high standards of business conduct, and
-- (f) the need to act fairly as between members of the company.
-
-(2) Where or to the extent that the purposes of the company consist of or include purposes other than the benefit of its members, subsection (1) has effect as if the reference to promoting the success of the company for the benefit of its members were to achieving those purposes.
-
-(3) The duty imposed by this section has effect subject to any enactment or rule of law requiring directors, in certain circumstances, to consider or act in the interests of creditors of the company.
-```
+> [!statute] s 172 - Duty to promote the success of the company
+> 
+> (1) A director of a company must act in the way he considers, in good faith, would be most likely to promote the success of the company for the benefit of its members as a whole, and in doing so have regard (amongst other matters) to—
+> - (a) the likely consequences of any decision in the long term,
+> - (b) the interests of the company's employees,
+> - (c) the need to foster the company's business relationships with suppliers, customers and others,
+> - (d) the impact of the company's operations on the community and the environment,
+> - (e) the desirability of the company maintaining a reputation for high standards of business conduct, and
+> - (f) the need to act fairly as between members of the company.
+> 
+> (2) Where or to the extent that the purposes of the company consist of or include purposes other than the benefit of its members, subsection (1) has effect as if the reference to promoting the success of the company for the benefit of its members were to achieving those purposes.
+> 
+> (3) The duty imposed by this section has effect subject to any enactment or rule of law requiring directors, in certain circumstances, to consider or act in the interests of creditors of the company.
 
 ### Interpretation
 
@@ -192,13 +186,11 @@ N.B. if this seems confusing, get even more confused by [an acadmic opinion](htt
 
 ## S 173
 
-```ad-statute
-title: s 173 - Duty to exercise independent judgment
-(1) A director of a company must exercise independent judgment.
-(2) This duty is not infringed by his acting –
-- (a) in accordance with an agreement duly entered into by the company that restricts the future exercise of discretion by its directors, or
-- (b) in a way authorised by the company’s constitution.
-```
+> [!statute] s 173 - Duty to exercise independent judgment
+> (1) A director of a company must exercise independent judgment.
+> (2) This duty is not infringed by his acting –
+> - (a) in accordance with an agreement duly entered into by the company that restricts the future exercise of discretion by its directors, or
+> - (b) in a way authorised by the company’s constitution.
 
 Where the board is able to establish that it was in the best interests of the company to enter into an agreement which fetters the discretion of the directors, this will not be a breach of s 173.
 
@@ -211,13 +203,11 @@ The duty is a restatement of the previous fiduciary duty that a director must no
 
 ## S 174
 
-```ad-statute
-title: s 174 - Duty to exercise reasonable care, skill and diligence
-(1) A director of a company must exercise reasonable care, skill and diligence.
-(2) This means the care, skill and diligence that would be exercised by a reasonably diligent person with-
-- (a) the general knowledge, skill and experience that may reasonably be expected of a person carrying out the functions carried out by the director in relation to the company, and
-- (b) the general knowledge, skill and experience that the director has.
-```
+> [!statute] s 174 - Duty to exercise reasonable care, skill and diligence
+> (1) A director of a company must exercise reasonable care, skill and diligence.
+> (2) This means the care, skill and diligence that would be exercised by a reasonably diligent person with-
+> - (a) the general knowledge, skill and experience that may reasonably be expected of a person carrying out the functions carried out by the director in relation to the company, and
+> - (b) the general knowledge, skill and experience that the director has.
 
 ### Interpretation
 
@@ -227,9 +217,8 @@ In early cases, the standard expected of directors was subjective, so poor direc
 
 But [[Donoghue v Stevenson [1932] AC 562]] brought recognition of general duty of care and raised standard expected of directors to objective/ subjective test. This standard was borrowed on the [[Wrongful trading]] test used in s 214(4) IA 1986.
 
-```ad-test
-The minimum standard expected of a director is that objectively expected of a director in that position, but then this can be subjectively raised if a particular director has special knowledge/ skill and experience. 
-```
+> [!test]
+> The minimum standard expected of a director is that objectively expected of a director in that position, but then this can be subjectively raised if a particular director has special knowledge/ skill and experience. 
 
 [[Re D’Jan of London Ltd [1994] 1 BCLC 561 ChD]]: director's actions will be measured against the conduct expected of a reasonably diligent person.
 
@@ -251,28 +240,26 @@ There will usually also be a term in the director's service contract that they w
 
 ## S 175
 
-```ad-statute
-title: s 175 - Duty to avoid conflicts of interest
-(1) A director of a company must avoid a situation in which he has, or can have, a direct or indirect interest that conflicts, or possibly may conflict, with the interests of the company.
-
-(2) This applies in particular to the exploitation of any property, information or opportunity (and it is immaterial whether the company could take advantage of the property, information or opportunity).
-
-(3) This duty does not apply to a conflict of interest arising in relation to a transaction or arrangement with the company.
-
-(4) This duty is not infringed—
-- (a) if the situation cannot reasonably be regarded as likely to give rise to a conflict of interest; or
-- (b) if the matter has been authorised by the directors.
-
-(5) Authorisation may be given by the directors—
-- (a) where the company is a private company and nothing in the company's constitution invalidates such authorisation, by the matter being proposed to and authorised by the directors; or
-- (b) where the company is a public company and its constitution includes provision enabling the directors to authorise the matter, by the matter being proposed to and authorised by them in accordance with the constitution.
-
-(6) The authorisation is effective only if—
-- (a) any requirement as to the quorum at the meeting at which the matter is considered is met without counting the director in question or any other interested director, and
-- (b) the matter was agreed to without their voting or would have been agreed to if their votes had not been counted.
-
-(7) Any reference in this section to a conflict of interest includes a conflict of interest and duty and a conflict of duties.
-```
+> [!statute] s 175 - Duty to avoid conflicts of interest
+> (1) A director of a company must avoid a situation in which he has, or can have, a direct or indirect interest that conflicts, or possibly may conflict, with the interests of the company.
+> 
+> (2) This applies in particular to the exploitation of any property, information or opportunity (and it is immaterial whether the company could take advantage of the property, information or opportunity).
+> 
+> (3) This duty does not apply to a conflict of interest arising in relation to a transaction or arrangement with the company.
+> 
+> (4) This duty is not infringed—
+> - (a) if the situation cannot reasonably be regarded as likely to give rise to a conflict of interest; or
+> - (b) if the matter has been authorised by the directors.
+> 
+> (5) Authorisation may be given by the directors—
+> - (a) where the company is a private company and nothing in the company's constitution invalidates such authorisation, by the matter being proposed to and authorised by the directors; or
+> - (b) where the company is a public company and its constitution includes provision enabling the directors to authorise the matter, by the matter being proposed to and authorised by them in accordance with the constitution.
+> 
+> (6) The authorisation is effective only if—
+> - (a) any requirement as to the quorum at the meeting at which the matter is considered is met without counting the director in question or any other interested director, and
+> - (b) the matter was agreed to without their voting or would have been agreed to if their votes had not been counted.
+> 
+> (7) Any reference in this section to a conflict of interest includes a conflict of interest and duty and a conflict of duties.
 
 Note that the Explanatory Notes to s 175 comment that the duty under s 175(4) to (6) is not infringed if
 
@@ -323,21 +310,19 @@ If a director breaches this duty, they will be obliged to account for any profit
 
 ## S 176
 
-```ad-statute
-title: s 176 - Duty not to accept benefits from third parties
-
-(1) A director of a company must not accept a benefit from a third party conferred by reason of—
-- (a) his being a director, or
-- (b) his doing (or not doing) anything as director.
-
-(2) A “third party” means a person other than the company, an associated body corporate or a person acting on behalf of the company or an associated body corporate.
-
-(3) Benefits received by a director from a person by whom his services (as a director or otherwise) are provided to the company are not regarded as conferred by a third party.
-
-(4) This duty is not infringed if the acceptance of the benefit cannot reasonably be regarded as likely to give rise to a conflict of interest.
-
-(5) Any reference in this section to a conflict of interest includes a conflict of interest and duty and a conflict of duties.
-```
+> [!statute] s 176 - Duty not to accept benefits from third parties
+> 
+> (1) A director of a company must not accept a benefit from a third party conferred by reason of—
+> - (a) his being a director, or
+> - (b) his doing (or not doing) anything as director.
+> 
+> (2) A “third party” means a person other than the company, an associated body corporate or a person acting on behalf of the company or an associated body corporate.
+> 
+> (3) Benefits received by a director from a person by whom his services (as a director or otherwise) are provided to the company are not regarded as conferred by a third party.
+> 
+> (4) This duty is not infringed if the acceptance of the benefit cannot reasonably be regarded as likely to give rise to a conflict of interest.
+> 
+> (5) Any reference in this section to a conflict of interest includes a conflict of interest and duty and a conflict of duties.
 
 ### Interpretation
 
@@ -351,29 +336,27 @@ Note that this duty is absolute and there is **no** provision for authorisation 
 
 ## S 177
 
-```ad-statute
-title: s 177 - Duty to declare interest in proposed transaction or arrangement
-(1) If a director is in any way, directly or indirectly, interested in a proposed transaction or arrangement with the company, he must declare the nature and extent of that interest to the other directors.
-
-(2) The declaration may (but need not) be made—
-- (a) at a meeting of the directors, or
-- (b) by notice to the directors in accordance with—
-	- (i) section 184 (notice in writing), or
-	- (ii) section 185 (general notice).
-
-(3) If a declaration of interest under this section proves to be, or becomes, inaccurate or incomplete, a further declaration must be made.
-
-(4) Any declaration required by this section must be made before the company enters into the transaction or arrangement.
-
-(5) This section does not require a declaration of an interest of which the director is not aware or where the director is not aware of the transaction or arrangement in question. For this purpose a director is treated as being aware of matters of which he ought reasonably to be aware.
-
-(6) A director need not declare an interest—
-- (a) if it cannot reasonably be regarded as likely to give rise to a conflict of interest;
-- (b) if, or to the extent that, the other directors are already aware of it (and for this purpose the other directors are treated as aware of anything of which they ought reasonably to be aware); or
-- (c) if, or to the extent that, it concerns terms of his service contract that have been or are to be considered—
-	- (i) by a meeting of the directors, or
-	- (ii) by a committee of the directors appointed for the purpose under the company's constitution.
-```
+> [!statute] s 177 - Duty to declare interest in proposed transaction or arrangement
+> (1) If a director is in any way, directly or indirectly, interested in a proposed transaction or arrangement with the company, he must declare the nature and extent of that interest to the other directors.
+> 
+> (2) The declaration may (but need not) be made—
+> - (a) at a meeting of the directors, or
+> - (b) by notice to the directors in accordance with—
+> 	- (i) section 184 (notice in writing), or
+> 	- (ii) section 185 (general notice).
+> 
+> (3) If a declaration of interest under this section proves to be, or becomes, inaccurate or incomplete, a further declaration must be made.
+> 
+> (4) Any declaration required by this section must be made before the company enters into the transaction or arrangement.
+> 
+> (5) This section does not require a declaration of an interest of which the director is not aware or where the director is not aware of the transaction or arrangement in question. For this purpose a director is treated as being aware of matters of which he ought reasonably to be aware.
+> 
+> (6) A director need not declare an interest—
+> - (a) if it cannot reasonably be regarded as likely to give rise to a conflict of interest;
+> - (b) if, or to the extent that, the other directors are already aware of it (and for this purpose the other directors are treated as aware of anything of which they ought reasonably to be aware); or
+> - (c) if, or to the extent that, it concerns terms of his service contract that have been or are to be considered—
+> 	- (i) by a meeting of the directors, or
+> 	- (ii) by a committee of the directors appointed for the purpose under the company's constitution.
 
 ### Aim
 
@@ -406,9 +389,8 @@ MA 14(1): the director who made the declaration cannot vote as a director regard
 
 See ss 177(5) & 177(6).
 
-```ad-note
-If one of the two exceptions applies and the company has unamended MA, the director concerned will still not be able to vote or count in the quorum on the matter under discussion as art 14 of the model articles of private companies is still applicable.
-```
+> [!note]
+> If one of the two exceptions applies and the company has unamended MA, the director concerned will still not be able to vote or count in the quorum on the matter under discussion as art 14 of the model articles of private companies is still applicable.
 
 A declaration does not need to be made where there is just one director of a company whose articles require only one director.
 
@@ -475,26 +457,24 @@ Where directors are able to authorise conduct which would otherwise constitute a
 
 ### Ratification by Shareholders (s 239)
 
-```ad-statute
-title: s 139 - Ratification of acts of directors
-
-(1) This section applies to the ratification by a company of conduct by a director amounting to negligence, default, breach of duty or breach of trust in relation to the company.
-
-(2) The decision of the company to ratify such conduct must be made by resolution of the members of the company.
-
-(3) Where the resolution is proposed as a written resolution neither the director (if a member of the company) nor any member connected with him is an eligible member.
-
-(4) Where the resolution is proposed at a meeting, it is passed only if the necessary majority is obtained disregarding votes in favour of the resolution by the director (if a member of the company) and any member connected with him.
-
-This does not prevent the director or any such member from attending, being counted towards the quorum and taking part in the proceedings at any meeting at which the decision is considered.
-
-(5) For the purposes of this section—
-- (a) “conduct” includes acts and omissions;
-- (b) “director” includes a former director;
-- (c) a shadow director is treated as a director; and
-- (d) in section 252 (meaning of “connected person”), subsection (3) does not apply (exclusion of person who is himself a director).
-...
-```
+> [!statute] s 139 - Ratification of acts of directors
+> 
+> (1) This section applies to the ratification by a company of conduct by a director amounting to negligence, default, breach of duty or breach of trust in relation to the company.
+> 
+> (2) The decision of the company to ratify such conduct must be made by resolution of the members of the company.
+> 
+> (3) Where the resolution is proposed as a written resolution neither the director (if a member of the company) nor any member connected with him is an eligible member.
+> 
+> (4) Where the resolution is proposed at a meeting, it is passed only if the necessary majority is obtained disregarding votes in favour of the resolution by the director (if a member of the company) and any member connected with him.
+> 
+> This does not prevent the director or any such member from attending, being counted towards the quorum and taking part in the proceedings at any meeting at which the decision is considered.
+> 
+> (5) For the purposes of this section—
+> - (a) “conduct” includes acts and omissions;
+> - (b) “director” includes a former director;
+> - (c) a shadow director is treated as a director; and
+> - (d) in section 252 (meaning of “connected person”), subsection (3) does not apply (exclusion of person who is himself a director).
+> ...
 
 - The conduct of a director which amounts to breach of duty, negligence, default or breach of trust can be ratified by shareholders (disregarding the votes of directors involved, if also a shareholder, or any connected persons ([s 239(4) CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/239)))
 - The company cannot then take any action against the director for the breach.
@@ -513,13 +493,11 @@ Basically an equity thing. [s 1157(1) CA 2006](https://www.legislation.gov.uk/uk
 
 The director may apply to court for relief before a claim is made (s 1157(2)).
 
-```ad-test
-title: Court granting equitable relief
-In [[Re HLC Environmental Projects Ltd [2013] EWHC 2876 Ch]], a three part test was established. Need that the director:
-- Acted honestly,
-- acted reasonably, and
-- considering the circumstances of case, ought fairly to be excused. 
-```
+> [!test] Court granting equitable relief
+> In [[Re HLC Environmental Projects Ltd [2013] EWHC 2876 Ch]], a three part test was established. Need that the director:
+> - Acted honestly,
+> - acted reasonably, and
+> - considering the circumstances of case, ought fairly to be excused. 
 
 The burden of proving honesty and reasonableness lies on the director. It is only if both of these are established that the court needs to consider the third element.
 
@@ -616,19 +594,15 @@ If a director in their personal capacity, or someone "connected" to the director
 
 [^1]: Strictly, Article 190 doesn't specify resolution required, so by s 281(3) can pass an ordinary resolution
 
-```ad-defn
-title: Substantial (s 191)
-An asset is a substantial asset in relation to a company if its value:
-- Exceeds 10% of the company's asset value and is more than £5,000, or
-- Exceeds £100,000
+> [!defn] Substantial (s 191)
+> An asset is a substantial asset in relation to a company if its value:
+> - Exceeds 10% of the company's asset value and is more than £5,000, or
+> - Exceeds £100,000
+> 
+> These values should be determined at the date the contract is entered into (s 191(5)). The value of a series of contracts will be aggregated to determine if the threshold has been met (s 190(5)). 
 
-These values should be determined at the date the contract is entered into (s 191(5)). The value of a series of contracts will be aggregated to determine if the threshold has been met (s 190(5)). 
-```
-
-```ad-defn
-title: Non-cash
-Any property, or interest in property, other than cash (s 1163). So note this inclues property rights (e.g., lease) and security (e.g., mortgage, floating charge). 
-```
+> [!defn] Non-cash
+> Any property, or interest in property, other than cash (s 1163). So note this inclues property rights (e.g., lease) and security (e.g., mortgage, floating charge). 
 
 ## Requirements
 
@@ -680,31 +654,25 @@ Approval by shareholders is not required:
 
 s 195 sets out the consequences of a substantial property transaction being entered into without shareholder approval.
 
-```ad-statute
-title: s 195(2)
-The arrangement, and any transaction entered into in pursuance of the arrangement (whether by the company or any other person), is voidable at the instance of the company, unless—
-- (a) restitution of any money or other asset that was the subject matter of the arrangement or transaction is no longer possible,
-- (b) the company has been indemnified in pursuance of this section by any other persons for the loss or damage suffered by it, or
-- (c) rights acquired in good faith, for value and without actual notice of the contravention by a person who is not a party to the arrangement or transaction would be affected by the avoidance.
-```
+> [!statute] s 195(2)
+> The arrangement, and any transaction entered into in pursuance of the arrangement (whether by the company or any other person), is voidable at the instance of the company, unless—
+> - (a) restitution of any money or other asset that was the subject matter of the arrangement or transaction is no longer possible,
+> - (b) the company has been indemnified in pursuance of this section by any other persons for the loss or damage suffered by it, or
+> - (c) rights acquired in good faith, for value and without actual notice of the contravention by a person who is not a party to the arrangement or transaction would be affected by the avoidance.
 
 For the directors involved (and those connected under s 195(4)), consequences set out in s195(3). They are liable to account to the company for any profits made and to indemnify company for any losses incurred.
 
-```ad-statute
-title: s 195(3)
-Whether or not the arrangement or any such transaction has been avoided, each of the persons specified in subsection (4) is liable—
-- (a) to account to the company for any gain that he has made directly or indirectly by the arrangement or transaction, and
-- (b) (jointly and severally with any other person so liable under this section) to indemnify the company for any loss or damage resulting from the arrangement or transaction.
-```
+> [!statute] s 195(3)
+> Whether or not the arrangement or any such transaction has been avoided, each of the persons specified in subsection (4) is liable—
+> - (a) to account to the company for any gain that he has made directly or indirectly by the arrangement or transaction, and
+> - (b) (jointly and severally with any other person so liable under this section) to indemnify the company for any loss or damage resulting from the arrangement or transaction.
 
-```ad-statute
-title: s 195(4)
-The persons so liable are—
-- (a) any director of the company or of its holding company with whom the company entered into the arrangement in contravention of section 190,
-- (b) any person with whom the company entered into the arrangement in contravention of that section who is connected with a director of the company or of its holding company,
-- (c) the director of the company or of its holding company with whom any such person is connected, and
-- (d) any other director of the company who authorised the arrangement or any transaction entered into in pursuance of such an arrangement.
-```
+> [!statute] s 195(4)
+> The persons so liable are—
+> - (a) any director of the company or of its holding company with whom the company entered into the arrangement in contravention of section 190,
+> - (b) any person with whom the company entered into the arrangement in contravention of that section who is connected with a director of the company or of its holding company,
+> - (c) the director of the company or of its holding company with whom any such person is connected, and
+> - (d) any other director of the company who authorised the arrangement or any transaction entered into in pursuance of such an arrangement.
 
 ```mermaid
 graph TD
@@ -732,32 +700,30 @@ id3.2 --> |No| id4.2
 
 # Loans to Directors
 
-```ad-statute
-title: s 197 - Loans to directors: requirement of members' approval
-
-(1) A company may not—
-- (a) make a loan to a director of the company or of its holding company, or
-- (b) give a guarantee or provide security in connection with a loan made by any person to such a director,
-
-unless the transaction has been approved by a resolution of the members of the company.
-
-(2) If the director is a director of the company's holding company, the transaction must also have been approved by a resolution of the members of the holding company.
-
-(3) A resolution approving a transaction to which this section applies must not be passed unless a memorandum setting out the matters mentioned in subsection (4) is made available to members—
-- (a) in the case of a written resolution, by being sent or submitted to every eligible member at or before the time at which the proposed resolution is sent or submitted to him;
-- (b) in the case of a resolution at a meeting, by being made available for inspection by members of the company both—
-	- (i) at the company's registered office for not less than 15 days ending with the date of the meeting, and
-	- (ii) at the meeting itself.
-
-(4)The matters to be disclosed are—
-- (a) the nature of the transaction,
-- (b) the amount of the loan and the purpose for which it is required, and
-- (c) the extent of the company's liability under any transaction connected with the loan.
-
-(5)No approval is required under this section on the part of the members of a body corporate that—
-- (a) is not a UK-registered company, or
-- (b) is a wholly-owned subsidiary of another body corporate.
-```
+> [!statute] s 197 - Loans to directors: requirement of members' approval
+> 
+> (1) A company may not—
+> - (a) make a loan to a director of the company or of its holding company, or
+> - (b) give a guarantee or provide security in connection with a loan made by any person to such a director,
+> 
+> unless the transaction has been approved by a resolution of the members of the company.
+> 
+> (2) If the director is a director of the company's holding company, the transaction must also have been approved by a resolution of the members of the holding company.
+> 
+> (3) A resolution approving a transaction to which this section applies must not be passed unless a memorandum setting out the matters mentioned in subsection (4) is made available to members—
+> - (a) in the case of a written resolution, by being sent or submitted to every eligible member at or before the time at which the proposed resolution is sent or submitted to him;
+> - (b) in the case of a resolution at a meeting, by being made available for inspection by members of the company both—
+> 	- (i) at the company's registered office for not less than 15 days ending with the date of the meeting, and
+> 	- (ii) at the meeting itself.
+> 
+> (4)The matters to be disclosed are—
+> - (a) the nature of the transaction,
+> - (b) the amount of the loan and the purpose for which it is required, and
+> - (c) the extent of the company's liability under any transaction connected with the loan.
+> 
+> (5)No approval is required under this section on the part of the members of a body corporate that—
+> - (a) is not a UK-registered company, or
+> - (b) is a wholly-owned subsidiary of another body corporate.
 
 Company loans to directors, although permitted, may also be subject to requirement of shareholder approval by ordinary resolution. Before shareholders can be asked to approve a loan to a director (or a director of a holding company) they must be given information about nature of transaction, amount of loan, purpose of loan and company's liability (s 197(4) in the form of a memorandum ([s 197(3) CA 2006](https://www.legislation.gov.uk/ukpga/2006/46/section/197)).
 
@@ -771,15 +737,11 @@ Loan vs remuneration: [[Currencies Direct Ltd v Ellis [2003] BCLC 482, CA]].
 
 ## Quasi-loans and Credit Transactions
 
-```ad-defn
-title: Quasi-loan
-Arises where the company meets some financial obligation of the director on the understanding that the director will reimburse it later (s 199(1)).
-```
+> [!defn] Quasi-loan
+> Arises where the company meets some financial obligation of the director on the understanding that the director will reimburse it later (s 199(1)).
 
-```ad-defn
-title: Credit transaction
-The company provides the director with goods or services and the director pays the company for these in instalments over time.
-```
+> [!defn] Credit transaction
+> The company provides the director with goods or services and the director pays the company for these in instalments over time.
 
 For a public company, or a company associated with a public company, prior shareholder approval is needed before entering into either a quasi-loan (s 198(3)) or credit transaction (s 201(3)). The restrictions extend to where these arrangements are made to a connected person of a public company or a company associated with a public company (CA 2006, ss 200(2) and 201(2)).
 
@@ -800,13 +762,11 @@ s 209 | Money lending companies (where loan is made in the ordinary course of bu
 
 In relation to transaction, the arrangement is voidable at the instance of the company, subject to certain exceptions:
 
-```ad-statute
-title: s 213(2)
-The transaction or arrangement is voidable at the instance of the company, unless—
-- (a) restitution of any money or other asset that was the subject matter of the transaction or arrangement is no longer possible,
-- (b) the company has been indemnified for any loss or damage resulting from the transaction or arrangement, or
-- (c) rights acquired in good faith, for value and without actual notice of the contravention by a person who is not a party to the transaction or arrangement would be affected by the avoidance.
-```
+> [!statute] s 213(2)
+> The transaction or arrangement is voidable at the instance of the company, unless—
+> - (a) restitution of any money or other asset that was the subject matter of the transaction or arrangement is no longer possible,
+> - (b) the company has been indemnified for any loss or damage resulting from the transaction or arrangement, or
+> - (c) rights acquired in good faith, for value and without actual notice of the contravention by a person who is not a party to the transaction or arrangement would be affected by the avoidance.
 
 Directors involved (and those connected) liable to account to the company for any profits made and to indemnify the company for any loss incurred. It is possible for shareholders to ratify the failure to obtain shareholder approval (s 214).
 
@@ -826,22 +786,20 @@ An executive director is an employee of the company, so should be given a writte
 
 s 217: any payment for loss of office to a director needs to be approved by shareholders by way of an ordinary resolution.
 
-```ad-statute
-title: s 217 - Payment by company: requirement of members' approval
-(1) A company may not make a payment for loss of office to a director of the company unless the payment has been approved by a resolution of the members of the company.
-
-(2) A company may not make a payment for loss of office to a director of its holding company unless the payment has been approved by a resolution of the members of each of those companies.
-
-(3) A resolution approving a payment to which this section applies must not be passed unless a memorandum setting out particulars of the proposed payment (including its amount) is made available to the members of the company whose approval is sought—
-- (a) in the case of a written resolution, by being sent or submitted to every eligible member at or before the time at which the proposed resolution is sent or submitted to him;
-- (b) in the case of a resolution at a meeting, by being made available for inspection by the members both—
-	- (i) at the company's registered office for not less than 15 days ending with the date of the meeting, and
-	- (ii) at the meeting itself. 
-
-(4) No approval is required under this section on the part of the members of a body corporate that—
-- (a) is not a UK-registered company, or
-- (b) is a wholly-owned subsidiary of another body corporate.
-```
+> [!statute] s 217 - Payment by company: requirement of members' approval
+> (1) A company may not make a payment for loss of office to a director of the company unless the payment has been approved by a resolution of the members of the company.
+> 
+> (2) A company may not make a payment for loss of office to a director of its holding company unless the payment has been approved by a resolution of the members of each of those companies.
+> 
+> (3) A resolution approving a payment to which this section applies must not be passed unless a memorandum setting out particulars of the proposed payment (including its amount) is made available to the members of the company whose approval is sought—
+> - (a) in the case of a written resolution, by being sent or submitted to every eligible member at or before the time at which the proposed resolution is sent or submitted to him;
+> - (b) in the case of a resolution at a meeting, by being made available for inspection by the members both—
+> 	- (i) at the company's registered office for not less than 15 days ending with the date of the meeting, and
+> 	- (ii) at the meeting itself. 
+> 
+> (4) No approval is required under this section on the part of the members of a body corporate that—
+> - (a) is not a UK-registered company, or
+> - (b) is a wholly-owned subsidiary of another body corporate.
 
 Two exceptions:
 

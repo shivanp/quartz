@@ -148,11 +148,10 @@ Easterbrook and Fischel, *Limited Liability and the Corporation* (1985) 52 Univ 
 
 > "'piercing' seems to happen freakishly. Like lightning, it is rare, severe, and unprincipled".
 
-```ad-note
-So final principle is that the veil can be pierced where:
-
-> "a person is under an existing legal obligation or liability or subject to an existing legal restriction which he deliberately evades or whose enforcement he deliberately frustrates by interposing a company under his control"
-```
+> [!note]
+> So final principle is that the veil can be pierced where:
+> 
+> > "a person is under an existing legal obligation or liability or subject to an existing legal restriction which he deliberately evades or whose enforcement he deliberately frustrates by interposing a company under his control"
 
 Lady Hale:
 

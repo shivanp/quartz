@@ -35,10 +35,8 @@ SC 5.1.2 and SCPC 8.2.4(a) provide that the seller is under no obligation to ins
 
 In practice, it is likely that the seller will keep up his policy until completion, and if the seller has a mortgage, he will be required to do so.
 
-```ad-question
-title: What if there are two policies?
-There is a dnager that on a claim being made, each insurance firm would reduce the payout based on the existence of the other police. SC 5.1.5, SCPC 8.2.4(b): if there is a reduction to the payment made to the buyer for this reason, the purchase price is to be reduced accordingly. 
-```
+> [!question] What if there are two policies?
+> There is a dnager that on a claim being made, each insurance firm would reduce the payout based on the existence of the other police. SC 5.1.5, SCPC 8.2.4(b): if there is a reduction to the payment made to the buyer for this reason, the purchase price is to be reduced accordingly. 
 
 Except where the seller is required by a condition of the contract of sale or his mortgage or lease to maintain his policy, he could cancel his insurance policy on exchange of contracts, but in practice he would be unwise to do so (eg, in case the buyer failed to complete).
 

@@ -37,38 +37,35 @@ All charges (remember this includes mortgages) may be registered, with the follo
 2. a charge created by a member of Lloyd’s to secure its obligations in connection with its underwriting business;
 3. a charge excluded by any other Act.
 
-```ad-statute
-title: s 859A CA 2006 - Charges created by a company
+> [!statute] s 859A CA 2006 - Charges created by a company
+> 
+> (1) Subject to subsection (6), this section applies where a company creates a charge.
+> 
+> (2) The registrar must register the charge if, before the end of the period allowed for delivery, the company or any person interested in the charge delivers to the registrar for registration a section 859D statement of particulars.
+> 
+> (3) Where the charge is created or evidenced by an instrument, the registrar is required to register it only if a certified copy of the instrument is delivered to the registrar with the statement of particulars.
+> 
+> (4) “The period allowed for delivery” is 21 days beginning with the day after the date of creation of the charge (see section 859E), unless an order allowing an extended period is made under section 859F(3).
+> 
+> (5) Where an order is made under section 859F(3) a copy of the order must be delivered to the registrar with the statement of particulars.
+> 
+> (6) This section does not apply to—
+> - (a) a charge in favour of a landlord on a cash deposit given as a security in connection with the lease of land;
+> - (b) a charge created by a member of Lloyd's (within the meaning of the Lloyd's Act 1982 F2) to secure its obligations in connection with its underwriting business at Lloyd's;
+> - (c) a charge excluded from the application of this section by or under any other Act.
+> 
+> (7) In this Part—
+> 
+> “cash” includes foreign currency,
+> 
+> “charge” includes—
+> - (a) a mortgage;
+> - (b) a standard security, assignation in security, and any other right in security constituted under the law of Scotland, including any heritable security, but not including a pledge, and
+> 
+> “company” means a UK-registered company.
 
-(1) Subject to subsection (6), this section applies where a company creates a charge.
-
-(2) The registrar must register the charge if, before the end of the period allowed for delivery, the company or any person interested in the charge delivers to the registrar for registration a section 859D statement of particulars.
-
-(3) Where the charge is created or evidenced by an instrument, the registrar is required to register it only if a certified copy of the instrument is delivered to the registrar with the statement of particulars.
-
-(4) “The period allowed for delivery” is 21 days beginning with the day after the date of creation of the charge (see section 859E), unless an order allowing an extended period is made under section 859F(3).
-
-(5) Where an order is made under section 859F(3) a copy of the order must be delivered to the registrar with the statement of particulars.
-
-(6) This section does not apply to—
-- (a) a charge in favour of a landlord on a cash deposit given as a security in connection with the lease of land;
-- (b) a charge created by a member of Lloyd's (within the meaning of the Lloyd's Act 1982 F2) to secure its obligations in connection with its underwriting business at Lloyd's;
-- (c) a charge excluded from the application of this section by or under any other Act.
-
-(7) In this Part—
-
-“cash” includes foreign currency,
-
-“charge” includes—
-- (a) a mortgage;
-- (b) a standard security, assignation in security, and any other right in security constituted under the law of Scotland, including any heritable security, but not including a pledge, and
-
-“company” means a UK-registered company.
-```
-
-```ad-warning
-Charges over shares are, strictly speaking, exempt from registration under the Companies Act 2006 because of the effect of the Financial Collateral Arrangements (No. 2) Regulations 2003 (as amended). However, in practice, security over shares is usually registered, even when registration is not strictly required, because often the share security document covers more than just the shares, thereby giving rise to the concern that payments on the shares (e.g. dividends) may be book debts and, therefore, the security may be registrable.
-```
+> [!warning]
+> Charges over shares are, strictly speaking, exempt from registration under the Companies Act 2006 because of the effect of the Financial Collateral Arrangements (No. 2) Regulations 2003 (as amended). However, in practice, security over shares is usually registered, even when registration is not strictly required, because often the share security document covers more than just the shares, thereby giving rise to the concern that payments on the shares (e.g. dividends) may be book debts and, therefore, the security may be registrable.
 
 #### Who Registers
 
@@ -76,14 +73,13 @@ Either the company or “any person interested in the charge” (s 859A(2)). Thi
 
 #### Requirements
 
-```ad-action
-Once agreement has been entered into, the company/ any person interested in the charge should deliver (s 859A(2)):
-
-1. A s 859D statement of particulars to Companies House (s 859A(2))
-	- This will usually be Form MR01 for a company (or MR08 where there is no charge instrument) or the equivalent forms LLMR01 and LLMR08 for a limited liability partnership.
-2. A certified copy of the instrument creating the charge (s 859A(3))
-3. The requisite fee
-```
+> [!action]
+> Once agreement has been entered into, the company/ any person interested in the charge should deliver (s 859A(2)):
+> 
+> 1. A s 859D statement of particulars to Companies House (s 859A(2))
+> 	- This will usually be Form MR01 for a company (or MR08 where there is no charge instrument) or the equivalent forms LLMR01 and LLMR08 for a limited liability partnership.
+> 2. A certified copy of the instrument creating the charge (s 859A(3))
+> 3. The requisite fee
 
 s 859G allows certain details to be obscured in the certified copy of the charge instrument (known as ‘redaction’), such as
 
@@ -174,9 +170,8 @@ Registration of charges applies to all charges created by UK companies/ LLPs, ev
 
 The Bills of Sale Acts 1878 and 1882 impose registration requirements on security created by individuals.
 
-```ad-note
-The Acts require most written, non-possessory charges given by an individual or a partnership over tangible property to be registered in prescribed form at the Supreme Court as a bill of sale.
-```
+> [!note]
+> The Acts require most written, non-possessory charges given by an individual or a partnership over tangible property to be registered in prescribed form at the Supreme Court as a bill of sale.
 
 IA 1986, s 344 requires most forms of assignment of a trader’s book debts to be registered as a bill of sale if they are to be valid against a trustee in bankruptcy.
 
@@ -207,9 +202,8 @@ IA 1986, s 344 requires most forms of assignment of a trader’s book debts to b
 
 [[Dearle v Hall (1828) 3 Russ 1]] establishes a rule of priority applicable to all assignments or charges of equitable interests and any interest in debts.
 
-```ad-action
-To ensure priority, notice of the charge or assignment must be given to the third party which owes the obligation.
-```
+> [!action]
+> To ensure priority, notice of the charge or assignment must be given to the third party which owes the obligation.
 
 The same rule applies to charges. The rule will not apply, however, where a subsequent assignee (or chargee) knows of the earlier assignment when taking its assignment. Thus, registration of the security at the Companies Registry will usually defeat the rule.
 
@@ -237,12 +231,10 @@ Participants restricted so that:
 		- More robust than contingent debt subordination.
 - The pooled money will then be distributed in accordance with the agreement.
 
-```ad-question
-title: Does a turnover trust create a proprietory interest over the debt which requires registration as a charge under CA 2006?
-[[SSSL Realisations Limited [2004] EWHC (Ch) 1760]] held that the turnover trust in that case did not create a charge: it did create a proprietory right, but since it was limited to the debt owed there was no charge over the ‘junior’ creditor’s property.
-
-Some practitioners register anyway just to be sure. 
-```
+> [!question] Does a turnover trust create a proprietory interest over the debt which requires registration as a charge under CA 2006?
+> [[SSSL Realisations Limited [2004] EWHC (Ch) 1760]] held that the turnover trust in that case did not create a charge: it did create a proprietory right, but since it was limited to the debt owed there was no charge over the ‘junior’ creditor’s property.
+> 
+> Some practitioners register anyway just to be sure. 
 
 There is also **structural subordination**: ordinary shareholders automatically subordinated to debt-holding creditors because debts must be repaid before capital can be realised.
 
@@ -256,9 +248,8 @@ Subordination between shareholders through preference shares.
 
 ## Tacking
 
-```ad-defn
-Tacking is the ability to secure new advances under existing security.
-```
+> [!defn]
+> Tacking is the ability to secure new advances under existing security.
 
 Depends on the asset:
 
@@ -297,9 +288,8 @@ In the absence of any specific agreement, the rule in [[Clayton’s Case (1816) 
 
 Subject to contrary agreement, once a guaranteed liability has been fixed in value, any payment by the borrower to the bank will be deemed to reduce the guaranteed debt.
 
-```ad-action
-Can be avoided by specifying the guarantee to be ‘continuing’, or alternatively an ‘all monies guarantee’.
-```
+> [!action]
+> Can be avoided by specifying the guarantee to be ‘continuing’, or alternatively an ‘all monies guarantee’.
 
 ## Fixed or Floating
 
@@ -310,10 +300,8 @@ Floating charge advantages (for the bank):
 	- After changes made by the EA 2002, this is relevant only to ‘specialised’ financial structures.
 - The holder of a ‘qualifying floating charge’ (as defined by IA 1986, Sch B1, para 14) can appoint an administrator using an out-of-court procedure.
 
-```ad-defn
-title: “Lightweight”/ “Phantom” floating charge
-Charge taken primarily for the purpose of allowing the bank to appoint an administrative receiver.
-```
+> [!defn] “Lightweight”/ “Phantom” floating charge
+> Charge taken primarily for the purpose of allowing the bank to appoint an administrative receiver.
 
 Floating charge disadvantages:
 
@@ -328,10 +316,8 @@ See also [[Common Securities]].
 
 ## Hardening Periods
 
-```ad-defn
-title: Hardening period
-A period during which the security is vulnerable to provision in IA 1986 for setting aside certain transactions. 
-```
+> [!defn] Hardening period
+> A period during which the security is vulnerable to provision in IA 1986 for setting aside certain transactions. 
 
 Possible grounds for setting aside security:
 
@@ -347,13 +333,11 @@ Before lending, check the capacity of the borrower to provide security.
 
 The powers and limitations on trustees will be found in the trust deed.
 
-```ad-statute
-title: s 16 TA 1925 - Power to raise money by sale, mortgage, &c.
-
-(1) Where trustees are authorised by the instrument, if any, creating the trust or by law to pay or apply capital money subject to the trust for any purpose or in any manner, they shall have and shall be deemed always to have had power to raise the money required by sale, conversion, calling in, or mortgage of all or any part of the trust property for the time being in possession.
-
-(2) This section applies notwithstanding anything to the contrary contained in the instrument, if any, creating the trust, but does not apply to trustees of property held for charitable purposes, or to trustees of a settlement for the purposes of the Settled Land Act, 1925, not being also the statutory owners.
-```
+> [!statute] s 16 TA 1925 - Power to raise money by sale, mortgage, &c.
+> 
+> (1) Where trustees are authorised by the instrument, if any, creating the trust or by law to pay or apply capital money subject to the trust for any purpose or in any manner, they shall have and shall be deemed always to have had power to raise the money required by sale, conversion, calling in, or mortgage of all or any part of the trust property for the time being in possession.
+> 
+> (2) This section applies notwithstanding anything to the contrary contained in the instrument, if any, creating the trust, but does not apply to trustees of property held for charitable purposes, or to trustees of a settlement for the purposes of the Settled Land Act, 1925, not being also the statutory owners.
 
 So trustees are granted the power to grant security provided that borrowing is authorised and for the purpose of the trust, regardless of what the trust deed says.
 
@@ -389,9 +373,8 @@ CA 2006 **removed** the prohibition in relation to private companies, so now pro
 
 The consequences of unlawful financial assistance are that the transaction will be held void and the company, and any officer in default, will be liable to a fine/ up to two years in prison.
 
-```ad-important
-The rules on financial assistance are relevant in the context of share purchases and do not apply where the buyer is acquiring the target company's assets.
-```
+> [!important]
+> The rules on financial assistance are relevant in the context of share purchases and do not apply where the buyer is acquiring the target company's assets.
 
 #### Purpose
 
@@ -434,58 +417,54 @@ These provide that financial assistance is not prohibited:
 
 These exceptions can be difficult to rely on ([[Brady v Brady [1989] AC 755]]) since they are extremely narrowly construed by the courts.
 
-```ad-statute
-title: s 678 - Assistance for acquisition of shares in public company
+> [!statute] s 678 - Assistance for acquisition of shares in public company
+> 
+> (1) Where a person is acquiring or proposing to acquire shares in a public company, it is not lawful for that company, or a company that is a subsidiary of that company, to give financial assistance directly or indirectly for the purpose of the acquisition **before or at the same time** as the acquisition takes place.
+> 
+> (2) Subsection (1) does not prohibit a company from giving financial assistance for the acquisition of shares in it or its holding company if—
+> - (a) the company's principal purpose in giving the assistance is not to give it for the purpose of any such acquisition, or
+> - (b) the giving of the assistance for that purpose is only an incidental part of some larger purpose of the company,
+> 
+> and the assistance is given in good faith in the interests of the company.
+> 
+> (3) Where—
+> - (a) a person has acquired shares in a company, and
+> - (b) a liability **has been incurred** (by that or another person) for the purpose of the acquisition,
+> 
+> it is not lawful for that company, or a company that is a subsidiary of that company, to give financial assistance directly or indirectly for the purpose of **reducing or discharging the liability** if, **at the time the assistance is given**, the company in which the shares were acquired is a public company.
+> 
+> (4) Subsection (3) does not prohibit a company from giving financial assistance if—
+> - (a) the company's principal purpose in giving the assistance is not to reduce or discharge any liability incurred by a person for the purpose of the acquisition of shares in the company or its holding company, or
+> - (b) the reduction or discharge of any such liability is only an incidental part of some larger purpose of the company,
+> 
+> and the assistance is given in good faith in the interests of the company.
+> 
+> (5) This section has effect subject to sections 681 and 682 (unconditional and conditional exceptions to prohibition).
 
-(1) Where a person is acquiring or proposing to acquire shares in a public company, it is not lawful for that company, or a company that is a subsidiary of that company, to give financial assistance directly or indirectly for the purpose of the acquisition **before or at the same time** as the acquisition takes place.
-
-(2) Subsection (1) does not prohibit a company from giving financial assistance for the acquisition of shares in it or its holding company if—
-- (a) the company's principal purpose in giving the assistance is not to give it for the purpose of any such acquisition, or
-- (b) the giving of the assistance for that purpose is only an incidental part of some larger purpose of the company,
-
-and the assistance is given in good faith in the interests of the company.
-
-(3) Where—
-- (a) a person has acquired shares in a company, and
-- (b) a liability **has been incurred** (by that or another person) for the purpose of the acquisition,
-
-it is not lawful for that company, or a company that is a subsidiary of that company, to give financial assistance directly or indirectly for the purpose of **reducing or discharging the liability** if, **at the time the assistance is given**, the company in which the shares were acquired is a public company.
-
-(4) Subsection (3) does not prohibit a company from giving financial assistance if—
-- (a) the company's principal purpose in giving the assistance is not to reduce or discharge any liability incurred by a person for the purpose of the acquisition of shares in the company or its holding company, or
-- (b) the reduction or discharge of any such liability is only an incidental part of some larger purpose of the company,
-
-and the assistance is given in good faith in the interests of the company.
-
-(5) This section has effect subject to sections 681 and 682 (unconditional and conditional exceptions to prohibition).
-```
-
-```ad-statute
-title: s 679 - Assistance by public company for acquisition of shares in its private holding company
-
-(1) Where a person is acquiring or proposing to acquire shares in a private company, it is not lawful for a public company that is a subsidiary of that company to give financial assistance directly or indirectly for the purpose of the acquisition **before or at the same time** as the acquisition takes place.
-
-(2) Subsection (1) does not prohibit a company from giving financial assistance for the acquisition of shares in its holding company if—
-- (a) the company's principal purpose in giving the assistance is not to give it for the purpose of any such acquisition, or
-- (b) the giving of the assistance for that purpose is only an incidental part of some larger purpose of the company,
-
-and the assistance is given in good faith in the interests of the company.
-
-(3) Where—
-- (a) a person has acquired shares in a private company, and
-- (b) a liability **has been incurred** (by that or another person) for the purpose of the acquisition,
-
-it is not lawful for a public company that is a subsidiary of that company to give financial assistance directly or indirectly for the purpose of **reducing or discharging the liability**.
-
-(4) Subsection (3) does not prohibit a company from giving financial assistance if—
-- (a) the company's principal purpose in giving the assistance is not to reduce or discharge any liability incurred by a person for the purpose of the acquisition of shares in its holding company, or
-- (b) the reduction or discharge of any such liability is only an incidental part of some larger purpose of the company,
-
-and the assistance is given in good faith in the interests of the company.
-
-(5) This section has effect subject to sections 681 and 682 (unconditional and conditional exceptions to prohibition).
-
-```
+> [!statute] s 679 - Assistance by public company for acquisition of shares in its private holding company
+> 
+> (1) Where a person is acquiring or proposing to acquire shares in a private company, it is not lawful for a public company that is a subsidiary of that company to give financial assistance directly or indirectly for the purpose of the acquisition **before or at the same time** as the acquisition takes place.
+> 
+> (2) Subsection (1) does not prohibit a company from giving financial assistance for the acquisition of shares in its holding company if—
+> - (a) the company's principal purpose in giving the assistance is not to give it for the purpose of any such acquisition, or
+> - (b) the giving of the assistance for that purpose is only an incidental part of some larger purpose of the company,
+> 
+> and the assistance is given in good faith in the interests of the company.
+> 
+> (3) Where—
+> - (a) a person has acquired shares in a private company, and
+> - (b) a liability **has been incurred** (by that or another person) for the purpose of the acquisition,
+> 
+> it is not lawful for a public company that is a subsidiary of that company to give financial assistance directly or indirectly for the purpose of **reducing or discharging the liability**.
+> 
+> (4) Subsection (3) does not prohibit a company from giving financial assistance if—
+> - (a) the company's principal purpose in giving the assistance is not to reduce or discharge any liability incurred by a person for the purpose of the acquisition of shares in its holding company, or
+> - (b) the reduction or discharge of any such liability is only an incidental part of some larger purpose of the company,
+> 
+> and the assistance is given in good faith in the interests of the company.
+> 
+> (5) This section has effect subject to sections 681 and 682 (unconditional and conditional exceptions to prohibition).
+> 
 
 ### Types
 
@@ -589,9 +568,8 @@ If the provision of financial assistance is not in accordance with the directors
 
 A director may also be liable for disqualification as a result of a company's involvement in a prohibited transaction (*[section 1](https://uk.westlaw.com/5-506-8501?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=fc9f4d9e83af4b4c8d47bf5847a3205c), [Company Directors Disqualification Act 1986](https://uk.westlaw.com/4-505-7796?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=fc9f4d9e83af4b4c8d47bf5847a3205c)*).
 
-```ad-note
-Misfeasance can include illegal financial assistance (s 212)
-```
+> [!note]
+> Misfeasance can include illegal financial assistance (s 212)
 
 #### Recipient Liability
 

@@ -11,10 +11,8 @@ There are various ways a bank might choose to enhance its prospects of repayment
 
 ## Guarantees and Comfort Letters
 
-```ad-defn
-title: Obligors
-The borrower, together with any third parties willing to support the borrower's repayment obligations. 
-```
+> [!defn] Obligors
+> The borrower, together with any third parties willing to support the borrower's repayment obligations. 
 
 Guarantors are also known as sureties.
 
@@ -33,9 +31,8 @@ An indemnity creates an obligation to indemnify a party for a specified loss whi
 
 It is possible for both a guarantee and an indemnity to be given at the same time. For the lender, it is essential that a guarantee of a loan is supported by an indemnity if the lender is to be properly protected.
 
-```ad-action
-When including both an indemnity and a guarantee in the same document, it is very important to spell out the terms of the obligations, as the onus will be on the lender to prove that the document is both a primary and secondary obligation. The title of the document will not determine whether it is a guarantee or an indemnity, or both, and neither will the practice of referring to a guarantor and indemnifier simply as a guarantor, even though this is widespread.
-```
+> [!action]
+> When including both an indemnity and a guarantee in the same document, it is very important to spell out the terms of the obligations, as the onus will be on the lender to prove that the document is both a primary and secondary obligation. The title of the document will not determine whether it is a guarantee or an indemnity, or both, and neither will the practice of referring to a guarantor and indemnifier simply as a guarantor, even though this is widespread.
 
 Assume that A has borrowed money from B, and so A owes a contractual obligation to repay that money to B.
 
@@ -109,10 +106,8 @@ The guarantee document should postpone the rights until such time as the bank ha
 - The courts also consider the extent to which the promise can be construed as being the main purpose of the transaction (a guarantee) or incidental to the main purpose of the transaction (an indemnity) (_[Harburg India Rubber Comb Co v Martin [1902] 1 KB 778](https://uk.westlaw.com/D-000-5044?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=31b1b10b11a346b28acbfa5d800fec19)_).
 - Identifying a guarantee involves making a distinction between the promisor having a mere motive for making the promise and having a “real interest” in (that is, deriving actual benefit from) the underlying transaction (_[Pitts v Jones [2007] EWCA Civ 1301](https://uk.westlaw.com/D-000-2980?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=31b1b10b11a346b28acbfa5d800fec19)_).
 
-```ad-defn
-title: Principle of co-extensiveness
-The key feature of a guarantee that a guarantor is only liable to the beneficiary to the same extent as the underlying obligor.
-```
+> [!defn] Principle of co-extensiveness
+> The key feature of a guarantee that a guarantor is only liable to the beneficiary to the same extent as the underlying obligor.
 
 #### Principle Debtor
 
@@ -142,20 +137,15 @@ The generally accepted view is that a principal debtor clause is unlikely to con
 	- The term “financial assistance” includes the provision of guarantees, security or indemnities and any form of assistance whereby the net assets of the assisting company are reduced to a material extent or where the assisting company has no net assets.
 	- Penalties include the guarantee/ indemnity being void, and directors being liable for a fine and $\leq 2$ years imprisonment.
 
-```ad-test
-title: Rule in Clayton's case
+> [!test] Rule in Clayton's case
+> 
+> Technically, the rule applying to withdrawals from a current bank account is the rule in [[Clayton’s Case (1816) 1 Mer 529]]. Grant MR stated: ‘it is the sum first paid in that is first drawn out.’ The rule is commonly described as ‘the first in, first out’ rule.
 
-Technically, the rule applying to withdrawals from a current bank account is the rule in [[Clayton’s Case (1816) 1 Mer 529]]. Grant MR stated: ‘it is the sum first paid in that is first drawn out.’ The rule is commonly described as ‘the first in, first out’ rule.
-```
+> [!example]
+> T misapplies £1,000 of trust fund A and pays it into a current bank account (‘the account’). T misapplies £1,000 of trust fund B and pays it into the account. T withdraws £1,000 from the account and uses it to purchase shares. T misapplies £1,000 of trust fund C and pays it into the account. T withdraws £1,000 from the account and dissipates it. £1,000 is still credited to the account.
 
-```ad-example
-T misapplies £1,000 of trust fund A and pays it into a current bank account (‘the account’). T misapplies £1,000 of trust fund B and pays it into the account. T withdraws £1,000 from the account and uses it to purchase shares. T misapplies £1,000 of trust fund C and pays it into the account. T withdraws £1,000 from the account and dissipates it. £1,000 is still credited to the account.
-```
-
-```ad-important
-title: Illegality
-Azimut-Bennetti v Healay – if the underlying obligation was void for public policy (e.g. as a penalty), then the guarantee will also be void for reasons of public policy and there is nothing that the guarantee can say to change it.
-```
+> [!important] Illegality
+> Azimut-Bennetti v Healay – if the underlying obligation was void for public policy (e.g. as a penalty), then the guarantee will also be void for reasons of public policy and there is nothing that the guarantee can say to change it.
 
 ### Insolvency Act 1986
 
@@ -189,9 +179,8 @@ This may undermine a bank's security, so it is common for the bank to require re
 
 A right to set a debt owed by a creditor to a debtor against the debtor’s debt, and so reduce or extinguish that debt.
 
-```ad-tip
-Basically the right to take money from the borrower's current account if it defaults on its loan. 
-```
+> [!tip]
+> Basically the right to take money from the borrower's current account if it defaults on its loan. 
 
 3 ways in which a bank is likely to have a right of set-off against the borrower:
 
@@ -201,9 +190,8 @@ Basically the right to take money from the borrower's current account if it defa
 | Contractual set-off        | Most security documents supporting a loan will enhance the equitable right of set-off by allowing the bank to set off unliquidated (contingent) claims. |
 | Set-off on liquidation     | r 490 Insolvency Rules 1986 provides for mandatory set-off. Basically, any ‘mutual’ credits, debts or dealings can be set off so long as the bank did not know of the petition for insolvency against the borrower when it gave credit. Set off of contingent claims also allowed.                                                                                                                                                         |
 
-```ad-note
-The right of set-off is particularly important if a debtor is in danger of becoming insolvent (but no petition has been lodged), since it allows access to the debtor’s unsecured assets (ie, cash) without risk of being a transaction at an undervalue or a preference under IA 1986, ss 238 and 239.
-```
+> [!note]
+> The right of set-off is particularly important if a debtor is in danger of becoming insolvent (but no petition has been lodged), since it allows access to the debtor’s unsecured assets (ie, cash) without risk of being a transaction at an undervalue or a preference under IA 1986, ss 238 and 239.
 
 ### Banker's Right of Combination
 
@@ -225,12 +213,10 @@ Banks didn't like this, so successfully lobbied for the right to block an admini
 
 #### Administrative Receiver pre-EA 2002
 
-```ad-statute
-title: s 29(2) IA 1986
-“Administrative receiver” means—
-- (a) a receiver or manager of the whole (or substantially the whole) of a company’s property appointed by or on behalf of the holders of any debentures of the company secured by a charge which, as created, was a floating charge, or by such a charge and one or more other securities; or
-- (b) a person who would be such a receiver or manager but for the appointment of some other person as the receiver of part of the company’s property.
-```
+> [!statute] s 29(2) IA 1986
+> “Administrative receiver” means—
+> - (a) a receiver or manager of the whole (or substantially the whole) of a company’s property appointed by or on behalf of the holders of any debentures of the company secured by a charge which, as created, was a floating charge, or by such a charge and one or more other securities; or
+> - (b) a person who would be such a receiver or manager but for the appointment of some other person as the receiver of part of the company’s property.
 
 The term ‘debenture’ ‘includes … bonds and any other securities of a company …’. So long as a bank held security (which included a floating charge) over ‘all or substantially all’ of a borrower’s assets, it could appoint an administrative receiver, with wide-ranging powers to manage the business and sell assets to repay the bank debt and, crucially, the power to block an administration order and moratorium.
 
@@ -262,9 +248,8 @@ In addition to any floating charges created before 15 September 2003, there are 
 
 Applies only to specialist financing.
 
-```ad-summary
-Where the bank holds a ‘qualifying floating charge’ created after 15 September 2003, but does not fall within one of the eight statutory exceptions, it will be permitted to appoint an administrator only to realise security on insolvency. The bank’s administrator must consider the two prior purposes of administration before realising assets on the bank’s behalf.
-```
+> [!summary]
+> Where the bank holds a ‘qualifying floating charge’ created after 15 September 2003, but does not fall within one of the eight statutory exceptions, it will be permitted to appoint an administrator only to realise security on insolvency. The bank’s administrator must consider the two prior purposes of administration before realising assets on the bank’s behalf.
 
 ### Peripheral Benefits
 

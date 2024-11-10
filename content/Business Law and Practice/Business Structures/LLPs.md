@@ -71,10 +71,8 @@ Then Companies House issues a certificate of registration. Name must end with �
 
 Section 6(2) provides for limitations to be placed on a member’s actual authority. So, an LLP is not bound if the member has no authority to act for the LLP in that matter and the third party in question knows that fact.
 
-```ad-question
-title: Apparent authority
-The extent of the apparent authority will be determined by the nature of the business concerned, and therefore what constitutes the ‘normal course’ of that business.
-```
+> [!question] Apparent authority
+> The extent of the apparent authority will be determined by the nature of the business concerned, and therefore what constitutes the ‘normal course’ of that business.
 
 ## Property and Charges
 
@@ -95,15 +93,13 @@ Fewer restrictions on the right of action of members. The Court of Appeal held i
 
 ## LLP Agreement
 
-```ad-statute
-title: s 5 LLPA 2000
-(1) Except as far as otherwise provided by this Act or any other enactment, the mutual rights and duties of the members of a limited liability partnership, and the mutual rights and duties of a limited liability partnership and its members, shall be governed—
-- (a) by agreement between the members, or between the limited liability partnership and its members, or
-- (b) in the absence of agreement as to any matter, by any provision made in relation to that matter by regulations under section 15(c).
-
-(2) An agreement made before the incorporation of a limited liability partnership between the persons who subscribe their names to the incorporation document may impose obligations on the limited liability partnership (to take effect at any time after its incorporation).
-
-```
+> [!statute] s 5 LLPA 2000
+> (1) Except as far as otherwise provided by this Act or any other enactment, the mutual rights and duties of the members of a limited liability partnership, and the mutual rights and duties of a limited liability partnership and its members, shall be governed—
+> - (a) by agreement between the members, or between the limited liability partnership and its members, or
+> - (b) in the absence of agreement as to any matter, by any provision made in relation to that matter by regulations under section 15(c).
+> 
+> (2) An agreement made before the incorporation of a limited liability partnership between the persons who subscribe their names to the incorporation document may impose obligations on the limited liability partnership (to take effect at any time after its incorporation).
+> 
 
 Some default rules:
 

@@ -16,27 +16,25 @@ Note that the statutory rules, laid out under [ss 260-263 CA 2006](https://www.l
 
 This means there are still scenarios in which the old case law is relevant.
 
-```ad-statute
-title:s 260 CA 2006
-(1) This Chapter applies to proceedings in England and Wales or Northern Ireland by a member of a company—
-- (a) in respect of a cause of action vested in the company, and
-- (b) seeking relief on behalf of the company.
-
-This is referred to in this Chapter as a “derivative claim”.
-
-(2) A derivative claim may only be brought—
-- (a) under this Chapter, or
-- (b) in pursuance of an order of the court in proceedings under section 994 (proceedings for protection of members against unfair prejudice).
-
-(3) A derivative claim under this Chapter may be brought only in respect of a cause of action arising from an actual or proposed act or omission involving negligence, default, breach of duty or breach of trust by a director of the company. The cause of action may be against the director or another person (or both).
-
-(4) It is immaterial whether the cause of action arose before or after the person seeking to bring or continue the derivative claim became a member of the company.
-
-(5) For the purposes of this Chapter—
-- (a) “director” includes a former director;
-- (b) a shadow director is treated as a director; and
-- (c) references to a member of a company include a person who is not a member but to whom shares in the company have been transferred or transmitted by operation of law. 
-```
+> [!statute] s 260 CA 2006
+> (1) This Chapter applies to proceedings in England and Wales or Northern Ireland by a member of a company—
+> - (a) in respect of a cause of action vested in the company, and
+> - (b) seeking relief on behalf of the company.
+> 
+> This is referred to in this Chapter as a “derivative claim”.
+> 
+> (2) A derivative claim may only be brought—
+> - (a) under this Chapter, or
+> - (b) in pursuance of an order of the court in proceedings under section 994 (proceedings for protection of members against unfair prejudice).
+> 
+> (3) A derivative claim under this Chapter may be brought only in respect of a cause of action arising from an actual or proposed act or omission involving negligence, default, breach of duty or breach of trust by a director of the company. The cause of action may be against the director or another person (or both).
+> 
+> (4) It is immaterial whether the cause of action arose before or after the person seeking to bring or continue the derivative claim became a member of the company.
+> 
+> (5) For the purposes of this Chapter—
+> - (a) “director” includes a former director;
+> - (b) a shadow director is treated as a director; and
+> - (c) references to a member of a company include a person who is not a member but to whom shares in the company have been transferred or transmitted by operation of law. 
 
 ## Foss V Harbottle
 
@@ -68,9 +66,8 @@ Derivative claims can be brought under CA 2006 Part 11.
 - Grounds for bringing a claim: any act or omission, actual or proposed, involving negligence, default, breach of duty or breach of trust by a director—s260(3).
 - It is immaterial whether the cause of action arose before or after the claimant became a shareholder (s 260(4)).
 
-```ad-important
-There is no need to demonstrate any actual loss suffered by the company, or any benefit gained by the directors. 
-```
+> [!important]
+> There is no need to demonstrate any actual loss suffered by the company, or any benefit gained by the directors. 
 
 A member bringing a derivative claim under s 260 must apply to court for permission to continue the claim (s 261-263). This involves two hearings:
 

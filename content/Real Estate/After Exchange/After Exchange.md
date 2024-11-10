@@ -171,13 +171,12 @@ Signature of the seller is required to transfer the legal estate (s 52 LPA 1925)
 
 Deed must be delivered: parties must be intended to be bound by it. This takes effect on delivery. Common for the buyer to deliver the transfer to the seller “in escrow” (conditionally) so the operation of the transfer is postponed until completion.
 
-```ad-action
-The letter accompanying the transfer should explain to the client: 
-- Contents and puropse
-- Clear instructions relating to execution of the transfer
-- When to return by
-- Ask client not to date the transfer
-```
+> [!action]
+> The letter accompanying the transfer should explain to the client: 
+> - Contents and puropse
+> - Clear instructions relating to execution of the transfer
+> - When to return by
+> - Ask client not to date the transfer
 
 ## Other
 
@@ -197,9 +196,8 @@ A transfer of the whole of a registered title will follow TR1.
 
 Lender will require a clear bankruptcy search against the name of the buyer/ borrower before releasing mortgage funds. Unless a full search of the register has been made on Form K15, the lender's solicitor should submit Form K16 electronically to Land Registry, completed with full and correct names of the borrower. A search certificate will be returned. If there is an adverse entry revealed, lender's instructions must be immediately obtained.
 
-```ad-conduct
-If the bankruptcy search reveals an adverse entry, the buyer's solicitor can certify that the entry does not relate to the borrower (relates to someone else with the same name). But this is construed as an undertaking given by the solicitor. 
-```
+> [!conduct]
+> If the bankruptcy search reveals an adverse entry, the buyer's solicitor can certify that the entry does not relate to the borrower (relates to someone else with the same name). But this is construed as an undertaking given by the solicitor. 
 
 Can also check Insolvency Service website, which will also reveal date of birth.
 
@@ -402,14 +400,13 @@ To be prepared and sent to any agents.
 	(b) abstract or epitome to be marked up as compared with the original deeds (in  
 	respect of any document the original of which is not handed over on completion).
 
-```ad-summary
--   In anticipation of completion, the TR1 which will transfer the legal title from the seller to the buyer will need to be executed.  The seller will always execute this document and the buyer will also do so if the buyer is "doing something" in the TR1 such as giving an indemnity covenant or declaring a beneficial interest under a trust. 
--   On completion, the buyer's solicitor will send the balance of the purchase price (as the seller will already have been given the deposit on exchange). 
--   On receipt of the money, the seller's solicitor will complete the transaction by dating the TR1.  
--   Once the TR1 has been dated, the buyer's solicitor will need to date the mortgage deed.  This cannot be done until after the TR1 has been dated, as technically, the buyer does not own the property until then and so would not be in a position to grant a mortgage over it. 
--   The seller's solicitor will send the TR1 to the buyer's solicitor.   SDLT must then be paid, if due.  The application to register the buyer as the new registered proprietor cannot take place until this has been done. 
--   Once SDLT, if due, has been paid, an application to Land Registry must be made to have the buyer registered as the new registered proprietor of the land in the title and to register the new mortgage.  This must be done before the expiry of the priority period of the OS1 search that should have been carried out prior to completion. 
--   Land Registry will process the application for registration and insert buyer as the new registered proprietor and the details of the new charge.  Once this has been done, Land Registry will forward an official copy of the entries on the register, known as a Title Information Document (or TID) to the buyer's solicitor.  Although this is not strictly a document of title, it is for buyer to keep as evidence that it is the new owner. It should be checked to ensure that the transfer has been correctly carried out. 
--   Once the TID has been checked, the solicitor acting for the buyer will need to deal with the safe custody of the TID and other papers.  Where the property has been bought with the aid of a mortgage, as here, it is usual for these papers to be lodged with the lender. 
--   Finally, when all the above matters have been dealt with and the bill paid, it is possible to close the file.
-```
+> [!summary]
+> -   In anticipation of completion, the TR1 which will transfer the legal title from the seller to the buyer will need to be executed.  The seller will always execute this document and the buyer will also do so if the buyer is "doing something" in the TR1 such as giving an indemnity covenant or declaring a beneficial interest under a trust. 
+> -   On completion, the buyer's solicitor will send the balance of the purchase price (as the seller will already have been given the deposit on exchange). 
+> -   On receipt of the money, the seller's solicitor will complete the transaction by dating the TR1.  
+> -   Once the TR1 has been dated, the buyer's solicitor will need to date the mortgage deed.  This cannot be done until after the TR1 has been dated, as technically, the buyer does not own the property until then and so would not be in a position to grant a mortgage over it. 
+> -   The seller's solicitor will send the TR1 to the buyer's solicitor.   SDLT must then be paid, if due.  The application to register the buyer as the new registered proprietor cannot take place until this has been done. 
+> -   Once SDLT, if due, has been paid, an application to Land Registry must be made to have the buyer registered as the new registered proprietor of the land in the title and to register the new mortgage.  This must be done before the expiry of the priority period of the OS1 search that should have been carried out prior to completion. 
+> -   Land Registry will process the application for registration and insert buyer as the new registered proprietor and the details of the new charge.  Once this has been done, Land Registry will forward an official copy of the entries on the register, known as a Title Information Document (or TID) to the buyer's solicitor.  Although this is not strictly a document of title, it is for buyer to keep as evidence that it is the new owner. It should be checked to ensure that the transfer has been correctly carried out. 
+> -   Once the TID has been checked, the solicitor acting for the buyer will need to deal with the safe custody of the TID and other papers.  Where the property has been bought with the aid of a mortgage, as here, it is usual for these papers to be lodged with the lender. 
+> -   Finally, when all the above matters have been dealt with and the bill paid, it is possible to close the file.

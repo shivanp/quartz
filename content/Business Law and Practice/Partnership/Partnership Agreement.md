@@ -84,9 +84,8 @@ Each partner's role should be explicitly stated. Anything agreed is binding betw
 
 Unless agreed to the contrary, all partnership decisions will be made on the basis of a simple majority, except decisions on changing the nature of the business or on introduction of a new partner, which require unanimity.
 
-```ad-note
-Anything contained in the agreement is a term of the contract between the partners so cannot be altered without the consent of all parties to the contract. The consent could be built into the contract itself - the agreement might contain provision for altering its terms (e.g., with a majority vote).
-```
+> [!note]
+> Anything contained in the agreement is a term of the contract between the partners so cannot be altered without the consent of all parties to the contract. The consent could be built into the contract itself - the agreement might contain provision for altering its terms (e.g., with a majority vote).
 
 In a joint venture between companies, a decision-making mechanism will need to be included in the agreement.
 
@@ -118,19 +117,15 @@ Possible provisions and effects:
 
 #### Death or Bankruptcy
 
-```ad-statute
-title: s 33 PA 1890
-Unless there is contrary agreement, the death or bankruptcy of a partner will automatically cause dissolution of the entire partnership. 
-```
+> [!statute] s 33 PA 1890
+> Unless there is contrary agreement, the death or bankruptcy of a partner will automatically cause dissolution of the entire partnership. 
 
 Sensible to add a provision saying if other partners buy out, the partnership will continue. In a joint venture between companies, the agreement will need a mechanism for unwinding if one party becomes insolvent.
 
 #### Court Order
 
-```ad-statute
-title: s 35 PA 1890
-On certain grounds, the court can make an order for dissolution. This allows the partner to break their agreement with the other partners without being liable for breach of contract.
-```
+> [!statute] s 35 PA 1890
+> On certain grounds, the court can make an order for dissolution. This allows the partner to break their agreement with the other partners without being liable for breach of contract.
 
 #### Retirement
 
@@ -150,12 +145,10 @@ When a person ceases to be a partner because of retirement, expulsion, death or 
 
 If the agreement is silent and settlement cannot be reached:
 
-```ad-statute
-title: s 42 PA 1890
-If a person ceases to be a partner and others continue in the partnership, but there is a delay in final payment of the former partner's share, the former partner/ their estate is entitled to receive either:
-- Interest at 5% on the aount of their share, or
-- Such share of the profits as is attributable to the use of the outgoing partner's share.
-```
+> [!statute] s 42 PA 1890
+> If a person ceases to be a partner and others continue in the partnership, but there is a delay in final payment of the former partner's share, the former partner/ their estate is entitled to receive either:
+> - Interest at 5% on the aount of their share, or
+> - Such share of the profits as is attributable to the use of the outgoing partner's share.
 
 Provisions drafted here should include:
 
@@ -173,10 +166,8 @@ There should always be a provision limiting an outgoing partner's freedom to com
 
 In [[Bridge and Deacons]] it was held that restraint of trade clauses must only protect a legitimate interest, such as a business and its goodwill, a share of which has been acquired from the partner being restrained. Secondly, they must do no more is than is necessary to protect that interest.
 
-```ad-defn
-title: Non-competition clause
-A commonly used clause prevents a person from being involved in any way in a competing business. 
-```
+> [!defn] Non-competition clause
+> A commonly used clause prevents a person from being involved in any way in a competing business. 
 
 ##### Other Forms of Restraint
 
@@ -189,32 +180,30 @@ To avoid expense, delay and adverse publicity, the agreement may provide that ce
 
 #### Sharing Between Partners
 
-```ad-statute
-title: s 24 PA 1890
-The interests of partners in the partnership property and their rights and duties in relation to the partnership shall be determined, subject to any agreement express or implied between the partners, by the following rules:—
-
-(1) All the partners are entitled to share equally in the capital and profits of the business, and must contribute equally towards the losses whether of capital or otherwise sustained by the firm.
-
-(2) The firm must indemnify every partner in respect of payments made and personal liabilities incurred by him—
-
-- (a) In the ordinary and proper conduct of the business of the firm; or,
-
-- (b) In or about anything necessarily done for the preservation of the business or property of the firm.
-
-(3) A partner making, for the purpose of the partnership, any actual payment or advance beyond the amount of capital which he has agreed to subscribe, is entitled to interest at the rate of five per cent. per annum from the date of the payment or advance.
-
-(4) A partner is not entitled, before the ascertainment of profits, to interest on the capital subscribed by him.
-
-(5) Every partner may take part in the management of the partnership business.
-
-(6) No partner shall be entitled to remuneration for acting in the partnership business.
-
-(7) No person may be introduced as a partner without the consent of all existing partners.
-
-(8) Any difference arising as to ordinary matters connected with the partnership business may be decided by a majority of the partners, but no change may be made in the nature of the partnership business without the consent of all existing partners.
-
-(9) The partnership books are to be kept at the place of business of the partnership (or the principal place, if there is more than one), and every partner may, when he thinks fit, have access to and inspect and copy any of them.
-```
+> [!statute] s 24 PA 1890
+> The interests of partners in the partnership property and their rights and duties in relation to the partnership shall be determined, subject to any agreement express or implied between the partners, by the following rules:—
+> 
+> (1) All the partners are entitled to share equally in the capital and profits of the business, and must contribute equally towards the losses whether of capital or otherwise sustained by the firm.
+> 
+> (2) The firm must indemnify every partner in respect of payments made and personal liabilities incurred by him—
+> 
+> - (a) In the ordinary and proper conduct of the business of the firm; or,
+> 
+> - (b) In or about anything necessarily done for the preservation of the business or property of the firm.
+> 
+> (3) A partner making, for the purpose of the partnership, any actual payment or advance beyond the amount of capital which he has agreed to subscribe, is entitled to interest at the rate of five per cent. per annum from the date of the payment or advance.
+> 
+> (4) A partner is not entitled, before the ascertainment of profits, to interest on the capital subscribed by him.
+> 
+> (5) Every partner may take part in the management of the partnership business.
+> 
+> (6) No partner shall be entitled to remuneration for acting in the partnership business.
+> 
+> (7) No person may be introduced as a partner without the consent of all existing partners.
+> 
+> (8) Any difference arising as to ordinary matters connected with the partnership business may be decided by a majority of the partners, but no change may be made in the nature of the partnership business without the consent of all existing partners.
+> 
+> (9) The partnership books are to be kept at the place of business of the partnership (or the principal place, if there is more than one), and every partner may, when he thinks fit, have access to and inspect and copy any of them.
 
 Generally, the Act aims for equality between partners. That is not always wanted, and sometimes more sophisticated rights and duties are more appropriate to a particular partnership. As a result, the terms implied by the Partnership Act are often overridden.
 

@@ -62,9 +62,8 @@ IHT subject to 'general anti-abuse rule' (GAAR) introduced by Finance Act 2013 d
 
 Chargeable transfers eat up the nil rate band.
 
-```ad-warning
-It is not correct to say that the property falling into the nil rate band is "exempt". When something is exempt it has no IHT implications.
-```
+> [!warning]
+> It is not correct to say that the property falling into the nil rate band is "exempt". When something is exempt it has no IHT implications.
 
 ## Transfers on Death
 
@@ -101,16 +100,13 @@ But does not include:
 
 ### 2. Value Transferred
 
-```ad-guid
-title: General principle - s 160 IHTA 1984
-Assets are valued for IHT pruposes at 'the price which the property might reasonably be expected to fetch if sold on open market' **immediately before** death.
-```
+> [!guid] General principle - s 160 IHTA 1984
+> Assets are valued for IHT pruposes at 'the price which the property might reasonably be expected to fetch if sold on open market' **immediately before** death.
 
 With assets such as land, may need negotiations with the district valuer to reach an agreed valuation.
 
-```ad-defn
-The value of an asset agreed for IHT purposes is known as the **probate value**.
-```
+> [!defn]
+> The value of an asset agreed for IHT purposes is known as the **probate value**.
 
 Where death causes the value of an asset to increase or decrease, this will be taken into account (important for e.g., life insurance policies).
 
@@ -123,19 +119,15 @@ Where death causes the value of an asset to increase or decrease, this will be t
 
 #### Spouse/ Civil Partner Exemption
 
-```ad-statute
-title: s 18 IHTA 1984
-A transfer of value is an exempt transfer to the extent that the value transferred is attributable to property which becomes comprised in the estate of the transferor’s spouse or civil partner.
-```
+> [!statute] s 18 IHTA 1984
+> A transfer of value is an exempt transfer to the extent that the value transferred is attributable to property which becomes comprised in the estate of the transferor’s spouse or civil partner.
 
 The spouse exemption can apply in conjunction with the rule applicable to qualifying interest in possession trusts, that IHT is charged as if the person with the right to income owned the capital. So if a trust is validly created with income for life for a spouse, remainder to children, the whole estate will be spouse exempt on the settlor's death.
 
 #### Charity Exemption
 
-```ad-statute
-title: s 23(1) IHTA 1984
-Transfers of value are exempt to the extent that the values transferred by them are attributable to property which is given to charities.
-```
+> [!statute] s 23(1) IHTA 1984
+> Transfers of value are exempt to the extent that the values transferred by them are attributable to property which is given to charities.
 
 A similar exemption applies to gifts to certain bodies, bodies providing a public benefit, and to political parties.
 
@@ -166,10 +158,8 @@ Note:
 
 The relief operates to reduce the agricultural value of agricultural property by a certain percentage.
 
-```ad-defn
-title: Agricultural value
-The value of the property if it were subject to a perpetual covenant prohibiting its use other than for agriculture. 
-```
+> [!defn] Agricultural value
+> The value of the property if it were subject to a perpetual covenant prohibiting its use other than for agriculture. 
 
 Reduction of 100% is allowed where:
 
@@ -207,10 +197,8 @@ Not applicable to the residence nil rate band which should be available in full 
 
 This is available in addition to the nil rate band if the deceased dies owning a 'qualifying residential interest' which is 'closely inherited'.
 
-```ad-defn
-title: Qualifying residential interest
-An interest in a dwelling house which has at any time been the deceased’s residence and which forms part of the deceased’s estate.
-```
+> [!defn] Qualifying residential interest
+> An interest in a dwelling house which has at any time been the deceased’s residence and which forms part of the deceased’s estate.
 
 For a property to be **‘closely inherited’**, it must pass to:
 
@@ -226,17 +214,13 @@ Finance Bill 2016 introduced a downsizing allowance; allowing PRs to claim RNRB 
 
 ## Potentially Exempt Transfers (PETs)
 
-```ad-defn
-title: PET
-Any gift made by an individual to another **individual or into a disabled trust** (IHTA 1984, s 3A(1A)), to the extent in either case that the gift would otherwise be chargeable.
-```
+> [!defn] PET
+> Any gift made by an individual to another **individual or into a disabled trust** (IHTA 1984, s 3A(1A)), to the extent in either case that the gift would otherwise be chargeable.
 
 ### 1. Transfer of Value
 
-```ad-defn
-title: Transfer of value
-Any lifetime disposition made by the transferor which reduces the value of their estate (s 3(1) IHTA 1984)
-```
+> [!defn] Transfer of value
+> Any lifetime disposition made by the transferor which reduces the value of their estate (s 3(1) IHTA 1984)
 
 Some dispositions are excluded:
 
@@ -245,10 +229,8 @@ Some dispositions are excluded:
 
 ### 2. Value Transferred
 
-```ad-defn
-title: Value transferred
-The amount by which the value of the transferor's estate is less than it would have been but for the transfer (s 3(1) IHTA 1984). 
-```
+> [!defn] Value transferred
+> The amount by which the value of the transferor's estate is less than it would have been but for the transfer (s 3(1) IHTA 1984). 
 
 Recall, the transferor's **estate** is the aggregate of all the property to which they are beneficially entitled.
 
@@ -269,13 +251,11 @@ The usual exemptions/ reliefs apply:
 - Business and agricultural property relief.
 	- Only available if transferee still owns the property or qualifying replacement when transferor dies.
 
-```ad-test
-title: Order of application
-Apply exemptions and reliefs in the following order:
-1. Spouse/ civil partner/ charity exemptions
-2. Business/ agricultural property reliefs
-3. 'Lifetime only' exemptions
-```
+> [!test] Order of application
+> Apply exemptions and reliefs in the following order:
+> 1. Spouse/ civil partner/ charity exemptions
+> 2. Business/ agricultural property reliefs
+> 3. 'Lifetime only' exemptions
 
 #### Lifetime Exemptions
 
@@ -292,9 +272,8 @@ Any value remaining after exemptions and reliefs applied is potentially exempt. 
 
 ## Lifetime Chargeable Transfers (LCTs)
 
-```ad-note
-An LCT is made to a company or trust. 
-```
+> [!note]
+> An LCT is made to a company or trust. 
 
 Any lifetime transfer which does not fall within the definition of a PET is an LCT. The aim is to close loopholes involving companies and trusts.
 
@@ -312,9 +291,8 @@ First identify transfer of value, calculate value transferred and apply exemptio
 
 #### Cumulation
 
-```ad-important
-Chargeable transfers made in the 7 years before the current chargeable transfer reduce the nil rate band available to that current transfer. 
-```
+> [!important]
+> Chargeable transfers made in the 7 years before the current chargeable transfer reduce the nil rate band available to that current transfer. 
 
 Note that while the transferor is alive, any PETs made by the transferor are ignored for cumulation purposes because they may never become chargeable.
 
@@ -340,9 +318,8 @@ Rate of tax applicable to **chargeable transfers** made within 7 years of death 
 - 40% on balance (note 36% charity rate not available).
 - But subject to tapering relief, see below.
 
-```ad-tip
-Draw a timeline. 
-```
+> [!tip]
+> Draw a timeline. 
 
 #### Tapering Relief
 
@@ -384,9 +361,8 @@ Payment will usually be obtained by people holding property in a representative 
 
 ### Estate Rate
 
-```ad-defn
-The average rate of tax applicable to each item of property in the estate.
-```
+> [!defn]
+> The average rate of tax applicable to each item of property in the estate.
 
 Tax is divided between the various assets in the estate proportionately, according to their value. So multiply the value of the asset by the estate rate to calculate the tax liability of an asset.
 
@@ -399,9 +375,8 @@ PRs are liable for IHT attributable to the non-settled estate: any property whic
 - Property vesting in PRs
 - Property to which the deceased was beneficially entitled immediately before death.
 
-```ad-note
-PR liability limited to the value of assets received/ would have received but for their own negligence or default. 
-```
+> [!note]
+> PR liability limited to the value of assets received/ would have received but for their own negligence or default. 
 
 Concurrently liable with the PRs is ‘any person in whom property is vested…at any time after  
 the death or who at any such time is beneficially entitled to an interest in possession in the  

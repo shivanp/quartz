@@ -130,9 +130,8 @@ Active voice where possible. Overusing passive voice can make the sentence seem 
 2. The committee will consider the matter at the next meeting
 3. The solicitor gave notice.
 
-```ad-note
-There are times when the passive should be used to sound more objective and detached (e.g., the allegations are denied). Also use the passive voice where the subject of the legal action is irrelevant. 
-```
+> [!note]
+> There are times when the passive should be used to sound more objective and detached (e.g., the allegations are denied). Also use the passive voice where the subject of the legal action is irrelevant. 
 
 #### Precision
 

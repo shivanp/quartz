@@ -15,15 +15,11 @@ Different types of loan security have different effects:
 - Security under which ownership in the secured asset is transferred to the bank
 - Security under which a bank has actual (or "constructive") possession of the secured asset.
 
-```ad-defn
-title: Ownership
-Having (legal or equitable) title to an asset.
-```
+> [!defn] Ownership
+> Having (legal or equitable) title to an asset.
 
-```ad-defn
-title: Possession
-Having physical possession of an asset.
-```
+> [!defn] Possession
+> Having physical possession of an asset.
 
 ## Giving Rights Over Assets
 
@@ -43,9 +39,8 @@ This allows the borrower to use the charged assets unless and until any “enfor
 
 On an ‘enforcement event’, under its contractual rights in the charge document, the bank may require the borrower to sell the asset, or the bank may take possession of, and sell, the asset, or appoint a receiver to do the same (this carries less risk for the bank since the receiver acts as the borrower’s agent).
 
-```ad-tip
-If the borrower sells an asset subject to a fixed charge, the rights created by the charge usually remain with the asset.
-```
+> [!tip]
+> If the borrower sells an asset subject to a fixed charge, the rights created by the charge usually remain with the asset.
 
 ## Floating Charges
 
@@ -56,13 +51,12 @@ A fixed charge is still unsuitable to secure assets which a borrower might want 
 - Unlike a fixed charge, a floating charge specifically allows the borrower to deal with the charged assets in the **ordinary course of business** (construed widely).
 - Possible to create more than one floating charge over the same group of assets.
 
-```ad-defn
-In [[Re Yorkshire Woolcombers Association [1904] AC 355]], a floating charge was defined as
-
-- A class of assets, present and future; and
-- Which in the ordinary course of the company's business changes from time to time; and
-- It is contemplated that until the holders of the charge take steps to enforce it, the company may carry on business in the ordinary way as far as concerns the assets charged.
-```
+> [!defn]
+> In [[Re Yorkshire Woolcombers Association [1904] AC 355]], a floating charge was defined as
+> 
+> - A class of assets, present and future; and
+> - Which in the ordinary course of the company's business changes from time to time; and
+> - It is contemplated that until the holders of the charge take steps to enforce it, the company may carry on business in the ordinary way as far as concerns the assets charged.
 
 Subsequent cases have emphasised the third characteristic identified by Romer LJ. Thus, if a charge allows a borrower to deal with the charged assets without the bank’s consent, it almost certainly will not be a fixed charge. Similarly, if a borrower is not free to deal with secured assets without the bank’s consent, the security will be fixed even if it is described as ‘floating’ in the security document ([[Russell Cooke Trust Company Ltd v Elliott [2007] EWHC 1443 (Ch)]]).
 
@@ -74,10 +68,8 @@ However, the assets subject to crystallisation of the floating charge are **not*
 
 If the company receives more assets of the same class after crystallisation, these are automatically subject to the crystallisation charge ([[NW Robbie and Co v Whitney Warehouse Co Ltd [1963] 1 WLR 1324, CA]]). The triggering events for crystallisation are set out in contract.
 
-```ad-note
-title: Partial crystallisation
-Most charges provide for crystallisation to be simultaneously effective over all the assets secured by the charge. There is, however, no reason why a floating charge should not be partially crystallised.
-```
+> [!note] Partial crystallisation
+> Most charges provide for crystallisation to be simultaneously effective over all the assets secured by the charge. There is, however, no reason why a floating charge should not be partially crystallised.
 
 - Advantages
 	- Allows the company to deal with the secured assets on a day-to-day basis.
@@ -120,9 +112,8 @@ Circumstances precipitating crystallisation commonly agreed contractually betwee
 
 #### Post-crystallisation
 
-```ad-important
-A floating charge creates an immediate security interest but does not attach to any individual asset until crystallisation. 
-```
+> [!important]
+> A floating charge creates an immediate security interest but does not attach to any individual asset until crystallisation. 
 
 Crystallisation does not in itself create a new charge to be registered under the CA 2006 ([[Re Manurewa Transport Ltd [1971] NZLR 909]]).
 
@@ -153,10 +144,9 @@ Subject to the security provider's right to require the creditor to transfer the
 
 A type of mortgage (known as “charge by way of legal mortgage” or “charge by deed expressed to be by way of legal mortgage”–s 87 LPA 1925) is usually taken over land. Ownership will remain vested in the security provider in this case.
 
-```ad-tip
-A mortgage can therefore be thought of as an ‘enhanced’ charge, since it gives rights over an asset which are backed with a transfer of legal or equitable title.
-$$\text{Mortgage} = \text{Right of appropriation} + \text{Transfer of ownership}$$
-```
+> [!tip]
+> A mortgage can therefore be thought of as an ‘enhanced’ charge, since it gives rights over an asset which are backed with a transfer of legal or equitable title.
+> $\text{Mortgage} = \text{Right of appropriation} + \text{Transfer of ownership}$
 
 Subject to contrary intention (and statutory restrictions in the case of land), a (legal) mortgage entitles the bank to take immediate possession of the mortgaged asset. But taking possession is not required to perfect the security.
 
@@ -181,9 +171,8 @@ There is little practical difference between an equitable mortgage and equitable
 
 ##### Disadvantages of Equitable Mortgages
 
-```ad-warning
-An equitable mortgage can be ignored by a bona fide purchaser (or ‘security taker’) for value of the legal title to an asset without notice (actual or constructive) of the equitable security.
-```
+> [!warning]
+> An equitable mortgage can be ignored by a bona fide purchaser (or ‘security taker’) for value of the legal title to an asset without notice (actual or constructive) of the equitable security.
 
 But this disadvantage is largely overcome if the equitable security is registered since this provides notice of the security to anyone searching the register.
 
@@ -193,9 +182,8 @@ An equitable mortgage may not benefit from the ‘automatic’ powers vested in 
 
 ### Pledge
 
-```ad-defn
-A pledge is a way of creating security by the actual (or constructive) delivery of a tangible movable asset to a creditor, to be held until the performance of an obligation (eg, repaying a debt). The bank will take possession while the borrower retains ownership.
-```
+> [!defn]
+> A pledge is a way of creating security by the actual (or constructive) delivery of a tangible movable asset to a creditor, to be held until the performance of an obligation (eg, repaying a debt). The bank will take possession while the borrower retains ownership.
 
 There is a right to sell the asset to settle the debt owed, upon the giving of reasonable notice.
 
@@ -203,10 +191,8 @@ There is a right to sell the asset to settle the debt owed, upon the giving of r
 
 The security is the possession of an asset. A pledged asset must be “delivered” by the borrower. This can be through physical delivery or “constructive delivery” i.e., vesting control (e.g., keys to a safe deposit box).
 
-```ad-note
-title: Delivery of documents
-Assets may be pledged by delivery of documents, if these documents effectively provide control. So holding the share certificate of a registered share does not give sufficient control, even if accompanied by a blank stock transfer form. 
-```
+> [!note] Delivery of documents
+> Assets may be pledged by delivery of documents, if these documents effectively provide control. So holding the share certificate of a registered share does not give sufficient control, even if accompanied by a blank stock transfer form. 
 
 The pledge ends when the pledged asset is returned to the borrower. The most important right implied by a pledge is the right to sell pledged assets to meet a defaulted debt.
 
@@ -253,24 +239,21 @@ An assignment by way of security can be legal or equitable:
 
 Assignment ‘by way of charge’ is expressly excluded from s 136 and so assigning rights by way of security will constitute a legal assignment only if it is an absolute assignment with a proviso for re-assignment on satisfaction of the secured obligation.
 
-```ad-statute
-title: 136 - Legal assignments of things in action.
-
-(1) Any absolute assignment by writing under the hand of the assignor (not purporting to be by way of charge only) of any debt or other legal thing in action, of which **express notice in writing** has been given to the debtor, trustee or other person from whom the assignor would have been entitled to claim such debt or thing in action, is effectual in law (subject to equities having priority over the right of the assignee) to pass and transfer from the date of such notice—
-- (a) the legal right to such debt or thing in action;
-- (b) all legal and other remedies for the same; and
-- (c) the power to give a good discharge for the same without the concurrence of the assignor:
-
-Provided that, if the debtor, trustee or other person liable in respect of such debt or thing in action has notice—
-- (a) that the assignment is disputed by the assignor or any person claiming under him; or
-- (b) of any other opposing or conflicting claims to such debt or thing in action;he may, if he thinks fit, either call upon the persons making claim thereto to interplead concerning the same, or pay the debt or other thing in action into court under the provisions of the M1Trustee Act, 1925.
-```
+> [!statute] 136 - Legal assignments of things in action.
+> 
+> (1) Any absolute assignment by writing under the hand of the assignor (not purporting to be by way of charge only) of any debt or other legal thing in action, of which **express notice in writing** has been given to the debtor, trustee or other person from whom the assignor would have been entitled to claim such debt or thing in action, is effectual in law (subject to equities having priority over the right of the assignee) to pass and transfer from the date of such notice—
+> - (a) the legal right to such debt or thing in action;
+> - (b) all legal and other remedies for the same; and
+> - (c) the power to give a good discharge for the same without the concurrence of the assignor:
+> 
+> Provided that, if the debtor, trustee or other person liable in respect of such debt or thing in action has notice—
+> - (a) that the assignment is disputed by the assignor or any person claiming under him; or
+> - (b) of any other opposing or conflicting claims to such debt or thing in action;he may, if he thinks fit, either call upon the persons making claim thereto to interplead concerning the same, or pay the debt or other thing in action into court under the provisions of the M1Trustee Act, 1925.
 
 Assignments by way of security will always include a provision (either explicit or implied) for reassignment on satisfaction of the debt. Priority between assignments depends on notice being given to the third party.
 
-```ad-warning
-It is not possible to take a legal assignment over future choses in action. So an assignment can never cover e.g., future debts. 
-```
+> [!warning]
+> It is not possible to take a legal assignment over future choses in action. So an assignment can never cover e.g., future debts. 
 
 ## Terminology
 

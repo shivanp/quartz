@@ -14,46 +14,35 @@ Most [[easements]], whether grants or reservations, are created expressly. They 
 
 Easements are very powerful proprietary rights. The fact that they exist necessarily affects the value and amenity of both the dominant and servient land.
 
-```ad-example
-The existence of a right of way adds value to the dominant land by enhancing accessibility; but the same right adversely affects the servient land. The servient owner cannot build over the route of the right of way, and cannot block it. That will affect the value and amenity of the servient land.
-```
+> [!example]
+> The existence of a right of way adds value to the dominant land by enhancing accessibility; but the same right adversely affects the servient land. The servient owner cannot build over the route of the right of way, and cannot block it. That will affect the value and amenity of the servient land.
 
 Easements are capable of being legal [[interests in land]]:
 
-```ad-statute
-title: [s 1(2) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/1)
-
-‘The only interests or charges in or over land which are capable of being created or subsisting at law are:
-(a) An easement…for an interest equivalent to an estate in fee simple absolute in possession or a term of years absolute’
-```
+> [!statute] [s 1(2) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/1)
+> 
+> ‘The only interests or charges in or over land which are capable of being created or subsisting at law are:
+> (a) An easement…for an interest equivalent to an estate in fee simple absolute in possession or a term of years absolute’
 
 Therefore, an easement granted or reserved potentially forever can be legal, and an easement granted or reserved for a set period can be legal.
 
-```ad-example
-title: Example: legal easement
+> [!example] Example: legal easement
+> 
+> A owns a large piece of freehold land which adjoins a main road. A sells part of the freehold land to B. In the transfer deed, A grants B a right of way across the driveway on A’s retained land. There is no time limit to the easement. As it is granted for the benefit of B’s freehold land it is deemed to be granted for the equivalent of the freehold estate and potentially legal as it fits the definition in LPA 1925, s 1(2)(a).
 
-A owns a large piece of freehold land which adjoins a main road. A sells part of the freehold land to B. In the transfer deed, A grants B a right of way across the driveway on A’s retained land. There is no time limit to the easement. As it is granted for the benefit of B’s freehold land it is deemed to be granted for the equivalent of the freehold estate and potentially legal as it fits the definition in LPA 1925, s 1(2)(a).
-```
-
-```ad-example
-title: Example: legal easement
-
-A owns a large piece of freehold land which adjoins a main road. A grants a ten-year lease of part of the land to B. In the lease, A grants B a right of way across the driveway on A’s retained land. This right is deemed to be granted for the equivalent of the leasehold term and potentially legal as it fits the definition in LPA 1925, s 1(2)(a).
-```
+> [!example] Example: legal easement
+> 
+> A owns a large piece of freehold land which adjoins a main road. A grants a ten-year lease of part of the land to B. In the lease, A grants B a right of way across the driveway on A’s retained land. This right is deemed to be granted for the equivalent of the leasehold term and potentially legal as it fits the definition in LPA 1925, s 1(2)(a).
 
 An easement for a period which is not forever and is not a set term can only ever be equitable:
 
-```ad-statute
-title: [s 1(3) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/1)
+> [!statute] [s 1(3) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/1)
+> 
+> ‘All other estates, interests, and charges in or over land take effect as equitable interests.’
 
-‘All other estates, interests, and charges in or over land take effect as equitable interests.’
-```
-
-```ad-example
-title: Example: equitable easement
-
-A owns a large piece of freehold land which adjoins a main road. A sells part of it to B. B intends to construct a parking area on B’s land. In the transfer deed, A grants B a right to park two cars on A’s retained land until six months after B obtains planning permission for alternative parking on B’s land. The parking right is granted for a term that is neither forever or for a set period of time. It does not fit the definition in LPA 1925, s 1(2)(a) and can only ever be an equitable easement.
-```
+> [!example] Example: equitable easement
+> 
+> A owns a large piece of freehold land which adjoins a main road. A sells part of it to B. B intends to construct a parking area on B’s land. In the transfer deed, A grants B a right to park two cars on A’s retained land until six months after B obtains planning permission for alternative parking on B’s land. The parking right is granted for a term that is neither forever or for a set period of time. It does not fit the definition in LPA 1925, s 1(2)(a) and can only ever be an equitable easement.
 
 ## Express Legal Easement Formalities
 
@@ -124,9 +113,8 @@ The easement may be implied into a document from which it was omitted, either a 
 
 This method is of **very narrow scope.**
 
-```ad-important
-An easement will be implied by necessity where it can be shown that its existence is essential in order that any use of the dominant tenement can be made. It is not enough that the right in question merely adds to the enjoyment of the dominant tenement. The only type of easement which can be implied this way is a right of way to otherwise landlocked land. Without a right of way, the land cannot be accessed at all. Any other rights merely enhance the use of the land; they are not essential to it.
-```
+> [!important]
+> An easement will be implied by necessity where it can be shown that its existence is essential in order that any use of the dominant tenement can be made. It is not enough that the right in question merely adds to the enjoyment of the dominant tenement. The only type of easement which can be implied this way is a right of way to otherwise landlocked land. Without a right of way, the land cannot be accessed at all. Any other rights merely enhance the use of the land; they are not essential to it.
 
 > “An easement of necessity is an easement without which the property cannot be used at all, and not merely necessary to the reasonable enjoyment of the property.”  
 > Stirling J in [[Union Lighterage Company v London Graving Dock Company [1902] 2 Ch 557]]
@@ -154,14 +142,12 @@ The easement may be implied into a document from which it was omitted, either a 
 
 This method has a narrow scope.
 
-```ad-test
-title: Common intention
-
-An easement will be implied by common intention where 
-1. Land is sold or leased for a particular purpose
-2. The purpose is known to both parties
-3. The easement is essential to achieve the common purpose.
-```
+> [!test] Common intention
+> 
+> An easement will be implied by common intention where 
+> 1. Land is sold or leased for a particular purpose
+> 2. The purpose is known to both parties
+> 3. The easement is essential to achieve the common purpose.
 
 An easement may also be implied by the common intention of the parties when it is necessary for the enjoyment of some expressly granted easement. For example, a right to park in a parking space usually also requires a right of way to enable the holder of the right to reach the parking space.
 
@@ -223,15 +209,14 @@ Requirements:
 
 Since the operation of the rule in Wheeldon v Burrows can lead to easements being created without the parties involved having given due regard to them, in practice the rule in Wheeldon v Burrows is commonly expressly excluded from the relevant transfer, contract, or lease.
 
-```ad-example
-A seller owns two fields and uses an access road across one field to gain access to the other field from the road. There is common ownership and a quasi-easement.
-
-The seller sells/leases the dominant land without granting an express easement to the dominant owner to use the access road. The dominant land is not landlocked, it has a less convenient route to the road.
-
-The right to use the access is continuous and apparent, necessary for the reasonable enjoyment of the dominant land and in use by the common owner at the date of the transfer/lease. The Dominant land has an implied easement over the main access running across the servient land.
-
-Note that the rule would also operate if the common owner sold the servient land to A and the dominant land to B contemporaneously.
-```
+> [!example]
+> A seller owns two fields and uses an access road across one field to gain access to the other field from the road. There is common ownership and a quasi-easement.
+> 
+> The seller sells/leases the dominant land without granting an express easement to the dominant owner to use the access road. The dominant land is not landlocked, it has a less convenient route to the road.
+> 
+> The right to use the access is continuous and apparent, necessary for the reasonable enjoyment of the dominant land and in use by the common owner at the date of the transfer/lease. The Dominant land has an implied easement over the main access running across the servient land.
+> 
+> Note that the rule would also operate if the common owner sold the servient land to A and the dominant land to B contemporaneously.
 
 ### Status
 
@@ -248,11 +233,9 @@ In circumstances where someone has not acquired an easement expressly, it may be
 
 This method of implied acquisition is available where someone is claiming to have been **granted** an easement impliedly; it is **not** possible for an easement to have been impliedly **reserved** by the LPA 1925, s 62. It will only imply an easement into a **conveyance** (i.e., a deed), not into a contract.
 
-```ad-statute
-title: [s 62 LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/62)
-
-“a conveyance of land includes all easements, rights and advantages enjoyed with that land.”
-```
+> [!statute] [s 62 LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/62)
+> 
+> “a conveyance of land includes all easements, rights and advantages enjoyed with that land.”
 
 ### Traditional Interpretation
 
@@ -287,11 +270,10 @@ However, more recent cases of [[P&S Platt v Crouch [2003] EWCA Civ 1110]] and [[
 
 These cases have therefore applied LPA 1925, s 62 to a different set of circumstances.
 
-```ad-tip
-So the upgrade effect operates in two circumstances:
-1. When there is prior diversity of occupation, in other words landlord and tenant situations like in [[Wright v Macadam [1949] 2 kb 744]]. In these cases, the easement is implied when the lease has expired and the land is re-let to the same tenant; or to a different tenant; or may even be sold to the same or a different owner.
-2. It also applies to quasi-easement situations like [[P&S Platt v Crouch [2003] EWCA Civ 1110]] to imply the easement into the first lease or transfer deed. The right must be continuous and apparent.
-```
+> [!tip]
+> So the upgrade effect operates in two circumstances:
+> 1. When there is prior diversity of occupation, in other words landlord and tenant situations like in [[Wright v Macadam [1949] 2 kb 744]]. In these cases, the easement is implied when the lease has expired and the land is re-let to the same tenant; or to a different tenant; or may even be sold to the same or a different owner.
+> 2. It also applies to quasi-easement situations like [[P&S Platt v Crouch [2003] EWCA Civ 1110]] to imply the easement into the first lease or transfer deed. The right must be continuous and apparent.
 
 ### Status
 
@@ -343,12 +325,10 @@ The question of what is required for a claim to an implied easement of common in
 
 So the law can be summarised as:
 
-```ad-test
-title: Common intention (Stafford v Lee)
-An easement of common intention will be implied where, on the balance of probabilities and considering all the circumstances of the case, 
-- there is evidence of a common intention between the parties that the land was to be put to some definite and particular use or purpose, and 
-- an easement is necessary to give effect to that stated use or purpose. 
-```
+> [!test] Common intention (Stafford v Lee)
+> An easement of common intention will be implied where, on the balance of probabilities and considering all the circumstances of the case, 
+> - there is evidence of a common intention between the parties that the land was to be put to some definite and particular use or purpose, and 
+> - an easement is necessary to give effect to that stated use or purpose. 
 
 This criterion was applied in [[Donovan v Rana [2014] EWCA Civ 99]], where the Ranas were allowed to dig up land to install and connect utilities to the main services, which was implied by the sale of land for the purposes of residential development.
 

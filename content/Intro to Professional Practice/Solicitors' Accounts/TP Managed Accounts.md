@@ -12,19 +12,15 @@ date modified: Sunday, December 10th 2023, 12:39:49 am
 
 ## Rules
 
-```ad-statute
-title: r 11.1 Accounts' Rules
-You may enter into arrangements with a client to use a third party managed account for the purpose of receiving payments from or on behalf of, or making payments to or on behalf of, the client in respect of regulated services delivered by you to the client, only if:
-- (a) use of the account does not result in you receiving or holding the client's money; and
-- (b) you take reasonable steps to ensure, before accepting instructions, that the client is informed of and understands:
-	- (i) the terms of the contractual arrangements relating to the use of the third party managed account, and in particular how any fees for use of the third party managed account will be paid and who will bear them; and
-	- (ii) the client's right to terminate the agreement and dispute payment requests made by you.
-```
+> [!statute] r 11.1 Accounts' Rules
+> You may enter into arrangements with a client to use a third party managed account for the purpose of receiving payments from or on behalf of, or making payments to or on behalf of, the client in respect of regulated services delivered by you to the client, only if:
+> - (a) use of the account does not result in you receiving or holding the client's money; and
+> - (b) you take reasonable steps to ensure, before accepting instructions, that the client is informed of and understands:
+> 	- (i) the terms of the contractual arrangements relating to the use of the third party managed account, and in particular how any fees for use of the third party managed account will be paid and who will bear them; and
+> 	- (ii) the client's right to terminate the agreement and dispute payment requests made by you.
 
-```ad-statute
-title: r 11.2
-You obtain regular statements from the provider of the third party managed account and ensure that these accurately reflect all transactions on the account.
-```
+> [!statute] r 11.2
+> You obtain regular statements from the provider of the third party managed account and ensure that these accurately reflect all transactions on the account.
 
 To protect client money and assets (para 4.2 SRA Code for Solicitors) and to act in the best interests of each client (Principle 7), a solicitor must ensure that a decision to use a TPMA is appropriate in each individual case.
 

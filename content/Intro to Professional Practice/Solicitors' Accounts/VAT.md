@@ -19,12 +19,11 @@ See also [[Property Taxation#VAT]].
 
 ### Output Tax
 
-```ad-defn
-VAT is chargeable on the supply of goods or services where the supply is (s 4(1) VAT Act 1994)
-1. a taxable supply 
-2. made by a taxable person 
-3. in the course or furtherance of a business carried out by them. 
-```
+> [!defn]
+> VAT is chargeable on the supply of goods or services where the supply is (s 4(1) VAT Act 1994)
+> 1. a taxable supply 
+> 2. made by a taxable person 
+> 3. in the course or furtherance of a business carried out by them. 
 
 | Element            | Explanation                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,18 +33,15 @@ VAT is chargeable on the supply of goods or services where the supply is (s 4(1)
 | Taxable person     | A person who is or is required to be registered under the Act. Value of taxable supplies in 12 months must exceed £85,000. Voluntary registration is always permitted.                                                                                                                                                                                                                        |
 | Business           | Includes any trade, profession, or vocation, as well as provisions by some clubs/ associations. Where a person in the course of business accepts any office, any service supplied by them as holder of the office shall be treated as supplied in the course of business.                                                                                                                                                                                                                                                                                                                                                                                               |
 
-```ad-example
-If a law firm is selling off old office equipment, the sales also attract VAT. 
-```
+> [!example]
+> If a law firm is selling off old office equipment, the sales also attract VAT. 
 
 ### Input Tax
 
 If a taxable person is charged VAT on the supply of goods services for the purposes of their business, they may deduct the tax charged to them from the amount of output tax which they account for to HMRC (s 25(2) VATA 1994).
 
-```ad-question
-title: What is a taxable person makes both taxable and exempt supplies?
-They are partly exempt and may recover a proportion of input tax charged to them. Exception: when exempt supplies fall within de miimus limits, they can be ignored. 
-```
+> [!question] What is a taxable person makes both taxable and exempt supplies?
+> They are partly exempt and may recover a proportion of input tax charged to them. Exception: when exempt supplies fall within de miimus limits, they can be ignored. 
 
 ### Value of Supply
 
@@ -101,15 +97,13 @@ The principle behind this is that there is a distinction between [[Nell Gwynn Ho
 - Expenses paid to a 3rd party incurred in the course of making your own supply of services to the client which are part of the whole of the services rendered to the client.
 - Expenses for specific services that have been supplied by the 3rd party to your client, and you have acted as a client's known and authorised representative in paying the third party.
 
-```ad-example
-title: Disbursements
-- IHT
-- CGT
-- Stampt duty
-- Estate agents' fees
-- Counsel's fees - even though the solicitor is responsible for ensuring payment. 
-- Land Registry fees for registration of title
-```
+> [!example] Disbursements
+> - IHT
+> - CGT
+> - Stampt duty
+> - Estate agents' fees
+> - Counsel's fees - even though the solicitor is responsible for ensuring payment. 
+> - Land Registry fees for registration of title
 
 Broadly, these can be divided into the categories of statutory charges and charges for the professional services of a 3rd party.
 
@@ -117,13 +111,11 @@ Broadly, these can be divided into the categories of statutory charges and charg
 
 Items which are a necessary part of the service supplied to a client.
 
-```ad-example
-title: Not disbursements
-- Telephone charges
-- Postage and photocopying charges
-- Travelling expenses incurred by solicitor ([[Rowe & Maw (A Firm) v Customs and Excise Commissioners [1975] 1 WLR 1291]])
-- Electronic search fee ([[Brabners LLP v HMRC [2017] UKFTT 0666 (TC)]])
-```
+> [!example] Not disbursements
+> - Telephone charges
+> - Postage and photocopying charges
+> - Travelling expenses incurred by solicitor ([[Rowe & Maw (A Firm) v Customs and Excise Commissioners [1975] 1 WLR 1291]])
+> - Electronic search fee ([[Brabners LLP v HMRC [2017] UKFTT 0666 (TC)]])
 
 #### Search Fees
 
@@ -173,9 +165,8 @@ If the invoice is addressed to the firm, the supply is treated as made to the fi
 - Firm charges client output tax on the firm's professional charges, and the disbursement
 - Firm provides 1 invoice to cover the above.
 
-```ad-warning
-A disbursement paid on the principal method must be paid out of the business bank account, even if there is client money available. Supply is treated as being made to the firm, not the client. 
-```
+> [!warning]
+> A disbursement paid on the principal method must be paid out of the business bank account, even if there is client money available. Supply is treated as being made to the firm, not the client. 
 
 ### Counsel Fees
 

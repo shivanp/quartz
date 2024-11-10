@@ -63,17 +63,15 @@ If the alleged misconduct by D is connected to the offence with which he has bee
 
 ## 7 Gateways
 
-```ad-statute
-title: s 101(1) CJA 2003 - D's bad character
-In criminal proceedings evidence of the defendant’s bad character is admissible if, but only if—
-- (a) all parties to the proceedings agree to the evidence being admissible,
-- (b) the evidence is adduced by the defendant himself or is given in answer to a question asked by him in cross-examination and intended to elicit it,
-- (c) it is important explanatory evidence,
-- (d) it is relevant to an important matter in issue between the defendant and the prosecution,
-- (e) it has substantial probative value in relation to an important matter in issue between the defendant and a co-defendant,
-- (f) it is evidence to correct a false impression given by the defendant, or
-- (g) the defendant has made an attack on another person’s character.
-```
+> [!statute] s 101(1) CJA 2003 - D's bad character
+> In criminal proceedings evidence of the defendant’s bad character is admissible if, but only if—
+> - (a) all parties to the proceedings agree to the evidence being admissible,
+> - (b) the evidence is adduced by the defendant himself or is given in answer to a question asked by him in cross-examination and intended to elicit it,
+> - (c) it is important explanatory evidence,
+> - (d) it is relevant to an important matter in issue between the defendant and the prosecution,
+> - (e) it has substantial probative value in relation to an important matter in issue between the defendant and a co-defendant,
+> - (f) it is evidence to correct a false impression given by the defendant, or
+> - (g) the defendant has made an attack on another person’s character.
 
 ![[7-gateways.png]]
 
@@ -81,12 +79,10 @@ In criminal proceedings evidence of the defendant’s bad character is admissibl
 
 “Important matter” means a matter of substantial importance in the context of the case as a whole (s 112(1) CJA 2003).
 
-```ad-statute
-title: s 103(1) CJA 2003 - “Matter in issue between the defendant and the prosecution”
-For the purposes of section 101(1)(d) the matters in issue between the defendant and the prosecution include—
-- (a) the question whether the defendant has a **propensity to commit offences** of the kind with which he is charged, except where his having such a propensity makes it no more likely that he is guilty of the offence;
-- (b) the question whether the defendant has a **propensity to be untruthful**, except where it is not suggested that the defendant’s case is untruthful in any respect.
-```
+> [!statute] s 103(1) CJA 2003 - “Matter in issue between the defendant and the prosecution”
+> For the purposes of section 101(1)(d) the matters in issue between the defendant and the prosecution include—
+> - (a) the question whether the defendant has a **propensity to commit offences** of the kind with which he is charged, except where his having such a propensity makes it no more likely that he is guilty of the offence;
+> - (b) the question whether the defendant has a **propensity to be untruthful**, except where it is not suggested that the defendant’s case is untruthful in any respect.
 
 Only the prosecution may adduce evidence of D's bad character (s 103(6)).
 
@@ -94,20 +90,18 @@ Only the prosecution may adduce evidence of D's bad character (s 103(6)).
 
 ### Propensity to Commit Offences of the Kind Charged
 
-```ad-statute
-title: s 103(2)-(5)
-(2) Where subsection (1)(a) applies, a defendant’s propensity to commit offences of the kind with which he is charged may (without prejudice to any other way of doing so) be established by evidence that he has been convicted of—
-- (a) an offence of the **same description** as the one with which he is charged, or
-- (b) an offence of the **same category** as the one with which he is charged.
-
-(3) Subsection (2) does not apply in the case of a particular defendant if the court is satisfied, by reason of the **length of time** since the conviction or for any other reason, that it would be **unjust** for it to apply in his case.
-
-(4) For the purposes of subsection (2)—
-- (a) two offences are of the same description as each other if the statement of the offence in a written charge or indictment would, in each case, be in the same terms;
-- (b) two offences are of the same category as each other if they belong to the same category of offences prescribed for the purposes of this section by an order made by the Secretary of State.
-
-(5) A category prescribed by an order under subsection (4)(b) must consist of offences of the same type.
-```
+> [!statute] s 103(2)-(5)
+> (2) Where subsection (1)(a) applies, a defendant’s propensity to commit offences of the kind with which he is charged may (without prejudice to any other way of doing so) be established by evidence that he has been convicted of—
+> - (a) an offence of the **same description** as the one with which he is charged, or
+> - (b) an offence of the **same category** as the one with which he is charged.
+> 
+> (3) Subsection (2) does not apply in the case of a particular defendant if the court is satisfied, by reason of the **length of time** since the conviction or for any other reason, that it would be **unjust** for it to apply in his case.
+> 
+> (4) For the purposes of subsection (2)—
+> - (a) two offences are of the same description as each other if the statement of the offence in a written charge or indictment would, in each case, be in the same terms;
+> - (b) two offences are of the same category as each other if they belong to the same category of offences prescribed for the purposes of this section by an order made by the Secretary of State.
+> 
+> (5) A category prescribed by an order under subsection (4)(b) must consist of offences of the same type.
 
 #### Offences of the Same Description
 
@@ -161,14 +155,11 @@ Propensity to be untruthful $P_u$ $\subset$ Propensity to be dishonest. Previous
 
 ### Excluding Evidence – S 101(3) CJA 2003
 
-```ad-statute
-title: s 101(3) CJA 2003
-The court must not admit evidence under subsection (1)(d) or (g) if, on an application by the defendant to exclude it, it appears to the court that the admission of the evidence would have such an **adverse effect on the fairness** of the proceedings that the court ought not to admit it.
-```
+> [!statute] s 101(3) CJA 2003
+> The court must not admit evidence under subsection (1)(d) or (g) if, on an application by the defendant to exclude it, it appears to the court that the admission of the evidence would have such an **adverse effect on the fairness** of the proceedings that the court ought not to admit it.
 
-```ad-note
-This is the same test as under s 78 PACE 1984. But under s 78 the court has discretion as to whether to exclude on such grounds, whereas under s 101(3) the court must exclude evidence if the test is satisfied.
-```
+> [!note]
+> This is the same test as under s 78 PACE 1984. But under s 78 the court has discretion as to whether to exclude on such grounds, whereas under s 101(3) the court must exclude evidence if the test is satisfied.
 
 Powers likely to be used when:
 
@@ -216,9 +207,8 @@ Evidence of a defendant’s bad character which is adduced under one gateway **m
 
 ## Conduct
 
-```ad-question
-You are representing Dave who is charged with an offence of possession of cocaine with intent to supply, contrary to s5(3) Misuse of Drugs Act 1971. Dave has pleaded not guilty. The CPS advise you that they plan to make an application to adduce evidence of Dave’s bad character. They have disclosed to you a list of  Dave's previous convictions. You  immediately notice that the record does not include a recent conviction for possession of cannabis with intent to supply that Dave has told you about in an earlier consultation. Dave pleaded guilty to this earlier offence.
-```
+> [!question]
+> You are representing Dave who is charged with an offence of possession of cocaine with intent to supply, contrary to s5(3) Misuse of Drugs Act 1971. Dave has pleaded not guilty. The CPS advise you that they plan to make an application to adduce evidence of Dave’s bad character. They have disclosed to you a list of  Dave's previous convictions. You  immediately notice that the record does not include a recent conviction for possession of cannabis with intent to supply that Dave has told you about in an earlier consultation. Dave pleaded guilty to this earlier offence.
 
 If the CPS find out about the conviction for possession of cannabis with intent to supply, they are likely to argue that it should be admissible as evidence at Dave’s trial as it establishes a propensity to commit the same type of offence with which he is now charged. Note that you cannot tell the CPS about the conviction without your client’s consent, in accordance with your duty of confidentiality under the SRA Code of Conduct, paragraph 6.3 (although of course you must not mislead the court about it either, given your obligation in the SRA Code of Conduct, paragraph 1.4).
 

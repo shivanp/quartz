@@ -19,17 +19,15 @@ Additional claims are defined in r 20.2 to include counterclaims and additional 
 
 If D wishes to counterclaim, they should file particulars of the counterclaim with their defence → no need to request permission from the court to make a counter-claim. Else, permission needed.
 
-```ad-statute
-title: r 20.4 - Defendant’s counterclaim against the claimant
-
-(1) A defendant may make a counterclaim against a claimant by filing particulars of the counterclaim.
-
-(2) A defendant may make a counterclaim against a claimant—
-- (a) without the court’s permission if he files it with his defence; or
-- (b) at any other time with the court’s permission.
-
-(3) Part 10 (acknowledgment of service) does not apply to a claimant who wishes to defend a counterclaim. 
-```
+> [!statute] r 20.4 - Defendant’s counterclaim against the claimant
+> 
+> (1) A defendant may make a counterclaim against a claimant by filing particulars of the counterclaim.
+> 
+> (2) A defendant may make a counterclaim against a claimant—
+> - (a) without the court’s permission if he files it with his defence; or
+> - (b) at any other time with the court’s permission.
+> 
+> (3) Part 10 (acknowledgment of service) does not apply to a claimant who wishes to defend a counterclaim. 
 
 #### Responding
 
@@ -41,13 +39,11 @@ This will usually be a reply and defence. If the claimant fails to file a defenc
 
 ### Contribution/ Indemnity (r 20.6)
 
-```ad-statute
-title: r 20.6 - Defendant’s claim for contribution or indemnity from co-defendant
-
-A defendant who has filed an acknowledgment of service or a defence may make a Part 20 claim for contribution or indemnity against another defendant by—
-- (a) filing a notice containing a statement of the nature and grounds of his claim; and
-- (b) serving that notice on the other defendant.
-```
+> [!statute] r 20.6 - Defendant’s claim for contribution or indemnity from co-defendant
+> 
+> A defendant who has filed an acknowledgment of service or a defence may make a Part 20 claim for contribution or indemnity against another defendant by—
+> - (a) filing a notice containing a statement of the nature and grounds of his claim; and
+> - (b) serving that notice on the other defendant.
 
 #### Permission
 
@@ -67,33 +63,29 @@ If an additional claim is not issued at that time, the court’s permission will
 
 ### Service (r 20.8)
 
-```ad-statute
-title: r 20.8 - Service of a Part 20 claim form
-(1) Where a Part 20 claim may be made without the court’s permission, the Part 20 claim form must—
-- (a) in the case of a counterclaim, be served on every other party when a copy of the defence is served;
-- (b) in the case of any other Part 20 claim, be served on the person against whom it is made within 14 days after the date on which the party making the Part 20 claim files his defence.
-
-(2) Paragraph (1) does not apply to a claim for contribution or indemnity made in accordance with rule 20.6.
-
-(3) Where the court gives permission to make a Part 20 claim it will at the same time give directions as to the service of the Part 20 claim. 
-```
+> [!statute] r 20.8 - Service of a Part 20 claim form
+> (1) Where a Part 20 claim may be made without the court’s permission, the Part 20 claim form must—
+> - (a) in the case of a counterclaim, be served on every other party when a copy of the defence is served;
+> - (b) in the case of any other Part 20 claim, be served on the person against whom it is made within 14 days after the date on which the party making the Part 20 claim files his defence.
+> 
+> (2) Paragraph (1) does not apply to a claim for contribution or indemnity made in accordance with rule 20.6.
+> 
+> (3) Where the court gives permission to make a Part 20 claim it will at the same time give directions as to the service of the Part 20 claim. 
 
 ### Judgment in Default (r 20.11)
 
 Special rules apply where the additional claim is not a counterclaim or a claim by a defendant for an indemnity or contribution against another defendant under r 20.6.
 
-```ad-statute
-title: r 20.11
-(1) This rule applies if—
-- (a) the Part 20 claim is not—
-	- (i) a counterclaim; or
-	- (ii) a claim by a defendant for contribution(GL) or indemnity(GL) against another defendant under rule 20.6; and
-- (b) the party against whom a Part 20 claim is made fails to file an acknowledgment of service or defence in respect of the Part 20 claim.
-
-(2) The party against whom the Part 20 claim is made—
-- (a) is deemed to admit the Part 20 claim, and is bound by any judgment or decision in the main proceedings in so far as it is relevant to any matter arising in the Part 20 claim;
-- (b) subject to paragraph (3), if default judgment under Part 12 is given against the Part 20 claimant, the Part 20 claimant may obtain judgment in respect of the Part 20 claim by filing a request in the relevant practice form.
-```
+> [!statute] r 20.11
+> (1) This rule applies if—
+> - (a) the Part 20 claim is not—
+> 	- (i) a counterclaim; or
+> 	- (ii) a claim by a defendant for contribution(GL) or indemnity(GL) against another defendant under rule 20.6; and
+> - (b) the party against whom a Part 20 claim is made fails to file an acknowledgment of service or defence in respect of the Part 20 claim.
+> 
+> (2) The party against whom the Part 20 claim is made—
+> - (a) is deemed to admit the Part 20 claim, and is bound by any judgment or decision in the main proceedings in so far as it is relevant to any matter arising in the Part 20 claim;
+> - (b) subject to paragraph (3), if default judgment under Part 12 is given against the Part 20 claimant, the Part 20 claimant may obtain judgment in respect of the Part 20 claim by filing a request in the relevant practice form.
 
 ### Directions (r 20.13)
 

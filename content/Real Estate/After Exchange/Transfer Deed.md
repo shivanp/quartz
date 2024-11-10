@@ -50,13 +50,12 @@ Signature of the seller is required to transfer the legal estate (s 52 LPA 1925)
 
 Deed must be delivered: parties must be intended to be bound by it. This takes effect on delivery. Common for the buyer to deliver the transfer to the seller “in escrow” (conditionally) so the operation of the transfer is postponed until completion.
 
-```ad-action
-The letter accompanying the transfer should explain to the client: 
-- Contents and puropse
-- Clear instructions relating to execution of the transfer
-- When to return by
-- Ask client not to date the transfer
-```
+> [!action]
+> The letter accompanying the transfer should explain to the client: 
+> - Contents and puropse
+> - Clear instructions relating to execution of the transfer
+> - When to return by
+> - Ask client not to date the transfer
 
 ## Other
 

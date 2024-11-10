@@ -62,9 +62,8 @@ If the bond issue is to be listed, a draft of the prospectus or listing particul
 
 Lead manager helps the issuer's directors in roadshows to potential investors. Check roadshow material to ensure it complies with ss 21 and 25 of the FSMA 2000.
 
-```ad-note
-Sections 21–25 of the FSMA 2000 make it an offence for any person other than an ‘authorised person’ (ie, authorised to carry on regulated activity under the FSMA 2000) to ‘in the course of business, communicate an invitation or inducement to engage in investment activity’ (or to cause the same) in the UK, unless its contents have been approved by an authorised person (or an exemption applies).
-```
+> [!note]
+> Sections 21–25 of the FSMA 2000 make it an offence for any person other than an ‘authorised person’ (ie, authorised to carry on regulated activity under the FSMA 2000) to ‘in the course of business, communicate an invitation or inducement to engage in investment activity’ (or to cause the same) in the UK, unless its contents have been approved by an authorised person (or an exemption applies).
 
 ## Launch and Syndication
 

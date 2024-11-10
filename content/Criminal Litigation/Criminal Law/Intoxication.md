@@ -79,18 +79,16 @@ A crime was categorised as one of basic intent where the defendant could be conv
 
 An example of a basic intent offence is battery, as D must intend or be reckless as to applying unlawful force on another.
 
-```ad-example
-title: Basic intent offence examples
-
-- Unlawful act manslaughter
-- Gross negligence manslaughter
-- Malicious wounding/ inflicting GBH, s 20
-- Assault occasioning ABH, s 47
-- Battery
-- Assault
-- Basic criminal damage and aggravated criminal damage, s 1(1) and s 1(2) Criminal Damage Act 1971
-- Burglary under s 9(1)(b) where D has fulfilled the last element by causing GBH.
-```
+> [!example] Basic intent offence examples
+> 
+> - Unlawful act manslaughter
+> - Gross negligence manslaughter
+> - Malicious wounding/ inflicting GBH, s 20
+> - Assault occasioning ABH, s 47
+> - Battery
+> - Assault
+> - Basic criminal damage and aggravated criminal damage, s 1(1) and s 1(2) Criminal Damage Act 1971
+> - Burglary under s 9(1)(b) where D has fulfilled the last element by causing GBH.
 
 #### Specific Intent Offences
 
@@ -98,17 +96,15 @@ Crimes of specific intent were those where intention was the only form of mens r
 
 An example of a specific intent offence is murder as D must intend to kill or cause grievous bodily harm, recklessness is not enough.
 
-```ad-example
-title: Specific intent offence examples
-- Murder
-- Wounding or grievous bodily harm with intent, section 18 Offences Against the Person Act (‘OAPA’) 1861
-- Theft
-- Robbery
-- All burglary under s 9(1)(a) Theft Act 1968
-- Burglary under s 9(1)(b) where D has fulfilled the last element by:
-	- Stealing
-	- Attempting to steal or attempting to cause GBH
-```
+> [!example] Specific intent offence examples
+> - Murder
+> - Wounding or grievous bodily harm with intent, section 18 Offences Against the Person Act (‘OAPA’) 1861
+> - Theft
+> - Robbery
+> - All burglary under s 9(1)(a) Theft Act 1968
+> - Burglary under s 9(1)(b) where D has fulfilled the last element by:
+> 	- Stealing
+> 	- Attempting to steal or attempting to cause GBH
 
 #### Controversy
 
@@ -156,9 +152,8 @@ id2 --> id3("Did D still form the necessary mens rea? <br/> (Pordage, caveated b
 
 The second way that intoxication can impact legal analysis is as an influencing factor on another legal principle or defence. Generally, intoxication will not enable a defendant to rely on a defence, whether the crime they have committed is one of specific or basic intent.
 
-```ad-summary
-- **Self-defence** - D cannot rely on a drunken mistake as to the need to use self-defence.
-- **Loss of control and diminished responsibility** - can still be pleaded if D was intoxicated but it does impact various aspects of the legal analysis.
-- **Consent** - if the jury are satisfied that V consented to the accidental infliction of injury or D (even wrongly) believed that V consented (due to their intoxication), D may have a defence, Richardson & Irwin.
-- **Statutory defences** - where these allow for an honest belief, D will be able to use the defence even if their belief is due to voluntary intoxication, see Jaggard v Dickinson on the lawful excuse defence for criminal damage.
-```
+> [!summary]
+> - **Self-defence** - D cannot rely on a drunken mistake as to the need to use self-defence.
+> - **Loss of control and diminished responsibility** - can still be pleaded if D was intoxicated but it does impact various aspects of the legal analysis.
+> - **Consent** - if the jury are satisfied that V consented to the accidental infliction of injury or D (even wrongly) believed that V consented (due to their intoxication), D may have a defence, Richardson & Irwin.
+> - **Statutory defences** - where these allow for an honest belief, D will be able to use the defence even if their belief is due to voluntary intoxication, see Jaggard v Dickinson on the lawful excuse defence for criminal damage.

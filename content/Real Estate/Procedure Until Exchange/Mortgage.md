@@ -96,11 +96,9 @@ Will usually include:
 	- Gives lender the power to refuse any request by the borrower to take out another loan secured on the property from a different lender.
 	- First lender may want to make further advance to the borrower and ensure this is secured by the first legal mortgage (“tacking”). But tacking is complicated and simpler to prohibit subsequent mortgages.
 
-```ad-note
-title: Floating charges
-
-Where the lender has also taken a floating charge, the negative pledge supports the floating charge and gives it effective priority. A properly registered first legal mortgage will automatically have priority over any legal mortgage created later in time. Any second mortgage that is granted in favour of a new lender will take priority over the floating charge unless the new lender has notice of the negative pledge at the time it takes the security. If it does have notice, priority is reversed and the new lender’s security, although valid, will rank behind the floating charge. So, a negative pledge is an effective way to prevent the borrower creating a second mortgage which would take priority over the first lender’s floating charge.
-```
+> [!note] Floating charges
+> 
+> Where the lender has also taken a floating charge, the negative pledge supports the floating charge and gives it effective priority. A properly registered first legal mortgage will automatically have priority over any legal mortgage created later in time. Any second mortgage that is granted in favour of a new lender will take priority over the floating charge unless the new lender has notice of the negative pledge at the time it takes the security. If it does have notice, priority is reversed and the new lender’s security, although valid, will rank behind the floating charge. So, a negative pledge is an effective way to prevent the borrower creating a second mortgage which would take priority over the first lender’s floating charge.
 
 The borrower’s solicitor is under an obligation to explain the nature and effect of the mortgage documentation to the client in whatever level of detail is appropriate.
 

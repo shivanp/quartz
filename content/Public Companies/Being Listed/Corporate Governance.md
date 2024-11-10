@@ -60,12 +60,10 @@ Associated guidance includes:
 
 Premium listed companies are not subject to a formal requirement to comply with UK CGC.
 
-```ad-action
-title: Comply or explain
-Premium listed companies subject to a requirement to include in its annual financial report a statement, known as a ‘disclosure statement’, which details:
-1. how it has **applied the principles** set out in the UK CGC in a way which would enable shareholders to evaluate how the principles have been applied (LR 9.8.6R(5)); and
-2. **whether it has complied** throughout the relevant accounting period with the code provisions set out in the UK CGC and, if it has not, which provisions it has not complied with, the period of non-compliance, and why it has not complied (LR 9.8.6R(6)).
-```
+> [!action] Comply or explain
+> Premium listed companies subject to a requirement to include in its annual financial report a statement, known as a ‘disclosure statement’, which details:
+> 1. how it has **applied the principles** set out in the UK CGC in a way which would enable shareholders to evaluate how the principles have been applied (LR 9.8.6R(5)); and
+> 2. **whether it has complied** throughout the relevant accounting period with the code provisions set out in the UK CGC and, if it has not, which provisions it has not complied with, the period of non-compliance, and why it has not complied (LR 9.8.6R(6)).
 
 This encourages compliance because any failure to comply risks adverse publicity. Companies which do not comply are often subject to shareholder pressure.
 
@@ -77,9 +75,8 @@ Overseas companies with a premium listing must also comply (LR 9.8.6R(5) and (6)
 
 The Corporate Governance Rules require a listed company (premium or standard) to include a corporate governance statement in its directors’ report in the company’s annual report (DTR 7.2.1R), or in a separate report or on the company’s website (DTR 7.2.9R), containing the information set out in DTR 7.
 
-```ad-note
-There is some overlap with the requirements of DTR 7 and the Listing Rules and the UK CGC. Where a listed company chooses to ‘explain’ rather than ‘comply’ with the UK CGC, it will have to show that it still meets the minimum requirements in DTR 7.
-```
+> [!note]
+> There is some overlap with the requirements of DTR 7 and the Listing Rules and the UK CGC. Where a listed company chooses to ‘explain’ rather than ‘comply’ with the UK CGC, it will have to show that it still meets the minimum requirements in DTR 7.
 
 ### Key Features
 
@@ -157,10 +154,8 @@ It is really the institutional investors who enforce the UK CGC by making life d
 - New voluntary code published by the FRC.
 - Purpose: to improve corporate governance and long-term returns to shareholders through promoting better dialogue between shareholders and the boards of directors of listed companies.
 
-```ad-defn
-title: Stewardship 
-The responsible allocation, management and oversight of capital to create long-term value for clients and beneficiaries leading to sustainable benefits for the economy, the environment and society (Stewardship Code).
-```
+> [!defn] Stewardship
+> The responsible allocation, management and oversight of capital to create long-term value for clients and beneficiaries leading to sustainable benefits for the economy, the environment and society (Stewardship Code).
 
 - Operates on an ‘apply and explain’ basis.
 - Institutional investors who wish to apply the Stewardship Code must submit an annual compliance report to the FRC.

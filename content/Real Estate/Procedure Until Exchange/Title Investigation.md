@@ -112,9 +112,8 @@ See [[Common Title Problems]].
 
 If the buyer’s solicitor’s investigation of title reveals any problem then the buyer should raise a ‘requisition on title’ of the seller’s solicitor.
 
-```ad-defn
-A requisition is a question asked about the problem which requires a remedy from the seller.
-```
+> [!defn]
+> A requisition is a question asked about the problem which requires a remedy from the seller.
 
 If the seller ultimately cannot show good title then the buyer may consider whether defective title indemnity insurance is available (perhaps at the seller’s cost) in order to protect him should he decide to proceed and accept the defect.
 

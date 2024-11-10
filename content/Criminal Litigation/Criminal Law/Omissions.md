@@ -83,6 +83,5 @@ If a person accidently started a fire in a house, the person has a duty to take 
 - The defendant cannot cause by omission.
 - The defendant can fail to uncause when D has a duty to uncause, but this is different to causing.
 
-```ad-example
-If V self-injects dangerous drugs into their own arm and suffers an overdose, the cause of V's death is their own act of self-injection. The drugs are causing V to die. But if the supplier of the drug is present when V overdoses, the supplier will have a duty to try to uncause what V has caused.
-```
+> [!example]
+> If V self-injects dangerous drugs into their own arm and suffers an overdose, the cause of V's death is their own act of self-injection. The drugs are causing V to die. But if the supplier of the drug is present when V overdoses, the supplier will have a duty to try to uncause what V has caused.

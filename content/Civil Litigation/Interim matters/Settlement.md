@@ -35,17 +35,14 @@ Where none of the parties is a litigant in person, it will often be possible to 
 
 The court has theoretical power not to approve a proposed order, but will only be referred to a judge if it appears incorrect/ unclear.
 
-```ad-test
-title: Formalities for a consent order: r 40.6(7)
-1. the order agreed by the parties must be drawn up in the terms agreed;
-2. it must be expressed as being ‘By Consent’;
-3. it must be signed by the legal representative acting for each of the parties to whom the order relates.
-```
+> [!test] Formalities for a consent order: r 40.6(7)
+> 1. the order agreed by the parties must be drawn up in the terms agreed;
+> 2. it must be expressed as being ‘By Consent’;
+> 3. it must be signed by the legal representative acting for each of the parties to whom the order relates.
 
-```ad-important
-1. The terms of a consent order will be open to public inspection. 
-2. The terms agreed must be within the powers of a court to order. 
-```
+> [!important]
+> 1. The terms of a consent order will be open to public inspection. 
+> 2. The terms agreed must be within the powers of a court to order. 
 
 If the parties want any terms to be confidential and/or beyond the powers of a court to order, they should use a Tomlin order.
 
@@ -53,20 +50,17 @@ If the parties want any terms to be confidential and/or beyond the powers of a c
 
 A Tomlin order **stays the claim on agreed terms** that are set out in a schedule to the order, an agreement annexed to the order or a separate document.
 
-```ad-tip
-The key to drafting a Tomlin order correctly is to appreciate that certain terms must appear in the order itself, whilst others can be put in the schedule, agreement or separate document.
-```
+> [!tip]
+> The key to drafting a Tomlin order correctly is to appreciate that certain terms must appear in the order itself, whilst others can be put in the schedule, agreement or separate document.
 
 which comes from:
 
-```ad-statute
-title: PD 40B, para 3.5
-Where the parties draw up a consent order in the form of a stay of proceedings on agreed terms, disposing of the proceedings, and where the terms are recorded in a schedule to the order, any direction for:
-1. payment of money out of court, or
-2. payment and assessment of costs
-
-should be contained in the body of the order and not in the schedule.
-```
+> [!statute] PD 40B, para 3.5
+> Where the parties draw up a consent order in the form of a stay of proceedings on agreed terms, disposing of the proceedings, and where the terms are recorded in a schedule to the order, any direction for:
+> 1. payment of money out of court, or
+> 2. payment and assessment of costs
+> 
+> should be contained in the body of the order and not in the schedule.
 
 Where one party is to pay another party’s costs and/or the parties want the amount of those costs assessed by the court (known as a *detailed assessment*), that direction must go in the order.
 
@@ -83,9 +77,8 @@ Moreover, because there is a possibility that a party may not perform its part o
 
 Whether the terms of the settlement are recorded in a schedule to the Tomlin order, an agreement annexed to the document or a separate document depends largely on the degree of confidentiality required.
 
-```ad-statute
-Under r 5.4B and r 5.4C, parties and non-parties can apply for permission to obtain copies of documents filed with the court.
-```
+> [!statute]
+> Under r 5.4B and r 5.4C, parties and non-parties can apply for permission to obtain copies of documents filed with the court.
 
 Therefore, the only way to ensure complete confidentiality is to **record the settlement in a separate document which is referred to in the schedule and clearly identifiable but not filed with the court**. In [[Zenith Logistics Services (UK) Ltd & Others v Coury [2020] EWHC 774 (QB)]], the court confirmed that the fact the terms were referred to but not set out in the schedule was entirely unobjectionable. The reason was to preserve confidentiality so that the terms were not accessible to third parties. And there was no breach of the ‘open justice’ principle.
 
@@ -115,9 +108,8 @@ Before litigation starts, parties can make 'without prejudice' offers to settle.
 
 Part 36 offer has been made must not normally be communicated to the trial judge (or to any judge allocated in advance to conduct the trial) until the case has been decided.
 
-```ad-warning
-If a defendant makes a Part 36 offer and the claimant fails to obtain a judgment more advantageous than that offer, the claimant will usually suffer severe financial penalties
-```
+> [!warning]
+> If a defendant makes a Part 36 offer and the claimant fails to obtain a judgment more advantageous than that offer, the claimant will usually suffer severe financial penalties
 
 ### Form and Content
 
@@ -157,9 +149,8 @@ r 36.10(3): possible to withdraw/ change terms only if court agrees. The offeror
 
 Suppose a defendant wishes to decrease the amount they previously offered. They should serve a notice of variation of the original offer under r 36.9(4). This preserves the relevant period of the original offer for the purpose of costs where the offeree fails to beat the less advantageous offer.
 
-```ad-important
-By r 36.17(7), where a Part 36 offer is withdrawn or its terms made less advantageous to the offeree, and the offeree has beaten the less advantageous offer, the financial consequences of r 36.17 will not apply to it.
-```
+> [!important]
+> By r 36.17(7), where a Part 36 offer is withdrawn or its terms made less advantageous to the offeree, and the offeree has beaten the less advantageous offer, the financial consequences of r 36.17 will not apply to it.
 
 ### Clarification
 
@@ -177,10 +168,8 @@ Where monetary and/or non-monetary remedies are sought, it is possible that an o
 
 Where a Part 36 offer is accepted, **the claim is stayed**. This does not affect the power of the court to enforce the terms of a Part 36 offer and deal with any question of costs.
 
-```ad-question
-title: Is an agreement reached by the acceptance of a Part 36 offer void if that Part 36 offer was a clear and obvious mistake that was appreciated by the Part 36 offeree at the point of acceptance? 
-Yes, and to that extent the doctrine of common law mistake can apply to a Part 36 offer ([[O’Grady v B15 Group Ltd [2022] EWHC 67 (QB)]]).
-```
+> [!question] Is an agreement reached by the acceptance of a Part 36 offer void if that Part 36 offer was a clear and obvious mistake that was appreciated by the Part 36 offeree at the point of acceptance?
+> Yes, and to that extent the doctrine of common law mistake can apply to a Part 36 offer ([[O’Grady v B15 Group Ltd [2022] EWHC 67 (QB)]]).
 
 Where a claimant accepts a defendant’s Part 36 offer that is, or includes, an offer to pay a  
 single sum of money, that sum must be paid to the claimant within **14 days** of the date of  
@@ -239,10 +228,8 @@ Effects of r 36.17(3) is:
 1. D pays V's costs from when those costs were first incurred until the relevant period expired (21 days, usually)
 2. V pays D's costs from expiry of relevant period (day 22) until judgment. Costs should be agreed by the parties, or otherwise will be assessed on the standard basis. Also pays **interest** on these costs from when each item was incurred.
 
-```ad-question
-title: Why is the standard basis rather than the indemnity basis used as the starting point for r 36.16(3)(a)?
-Indemnity costs only appropriate when conduct of a paying party is unreasonable to a high degree. So there must be something taking the case outside the norm. Ask: was there a point when the reasonable claimant would have concluded that the offer represented a better outcome than the likely outcome at trial. 
-```
+> [!question] Why is the standard basis rather than the indemnity basis used as the starting point for r 36.16(3)(a)?
+> Indemnity costs only appropriate when conduct of a paying party is unreasonable to a high degree. So there must be something taking the case outside the norm. Ask: was there a point when the reasonable claimant would have concluded that the offer represented a better outcome than the likely outcome at trial. 
 
 So the pursuit of a weak claim will not normally, on its own, justify an order for indemnity costs. But pursuit of a hopeless claim may lead to an order. Interest is not payable on costs until after judgment. This is usually at the normal commercial rate.
 
@@ -288,9 +275,8 @@ If judgment against D is at least as advantageous as V's Part 36, court must ord
 
 D refuses V's Part 36 and V obtains a judgment the same or better than Part 36 ⇾ D is likely to pay a heavy price. Whereas the other way around, V unlikely to pay a heavy price. So Part 36 has the effect of pressurising defendants.
 
-```ad-action
-Since the penalties in r 36.17(4) are imposed as from the expiry of the relevant period, the earlier the claimant makes their offer, the greater the pressure on the defendant.
-```
+> [!action]
+> Since the penalties in r 36.17(4) are imposed as from the expiry of the relevant period, the earlier the claimant makes their offer, the greater the pressure on the defendant.
 
 Note that the court retains ultimate discretion; it can choose to award some of the s 36.17(4) penalties, but not others.
 
@@ -302,21 +288,18 @@ Means better in monetary terms, by no matter how small an amount.
 
 Recall, a well-judged offer that is not accepted will lead to an order under r 36.17(3) or (4), unless it would be unjust for the court to make that order.
 
-```ad-statute
-title: r 36.17(5)
-In considering whether it would be unjust to make the orders referred to in paragraphs (3) and (4), the court must take into account all the circumstances of the case including—
-- (a) the terms of any Part 36 offer;
-- (b) the stage in the proceedings when any Part 36 offer was made, including in particular how long before the trial started the offer was made;
-- (c) the information available to the parties at the time when the Part 36 offer was made;
-- (d) the conduct of the parties with regard to the giving of or refusal to give information for the purposes of enabling the offer to be made or evaluated; and
-- (e) whether the offer was a genuine attempt to settle the proceedings.
-```
+> [!statute] r 36.17(5)
+> In considering whether it would be unjust to make the orders referred to in paragraphs (3) and (4), the court must take into account all the circumstances of the case including—
+> - (a) the terms of any Part 36 offer;
+> - (b) the stage in the proceedings when any Part 36 offer was made, including in particular how long before the trial started the offer was made;
+> - (c) the information available to the parties at the time when the Part 36 offer was made;
+> - (d) the conduct of the parties with regard to the giving of or refusal to give information for the purposes of enabling the offer to be made or evaluated; and
+> - (e) whether the offer was a genuine attempt to settle the proceedings.
 
 Note these are just examples which do not constrain the creativity of the court.
 
-```ad-warning
-In determining whether or not it is unjust to make orders rr 36.17(3) & (4), the court cannot consider by how much the judgment against D was more advantageous than the Part 36 offer ([[JLE v Warrington & Halton Hospitals NHS Foundation Trust [2019] EWHC 1582 (QB)]])
-```
+> [!warning]
+> In determining whether or not it is unjust to make orders rr 36.17(3) & (4), the court cannot consider by how much the judgment against D was more advantageous than the Part 36 offer ([[JLE v Warrington & Halton Hospitals NHS Foundation Trust [2019] EWHC 1582 (QB)]])
 
 The test of unjustness should be separately applied to each of the four consequences.
 

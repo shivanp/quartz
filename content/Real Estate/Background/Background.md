@@ -105,9 +105,8 @@ Although the seller has a limited duty to disclose defects in legal title, *cave
 
 The buyer should check proof of ownership sent by the seller. Resolve queries through 'requisitions'. These are questions or requests addressed to the seller, requiring them to resolve any apparent problems with the seller's ownership, or 'title'.
 
-```ad-warning
-The contract normally includes a clause excluding the buyer from questioning the seller's title once contracts for sale and purchase have been entered into. 
-```
+> [!warning]
+> The contract normally includes a clause excluding the buyer from questioning the seller's title once contracts for sale and purchase have been entered into. 
 
 ### Searches
 
@@ -121,9 +120,8 @@ The buyer's solicitor must check the client is able to proceed with the transact
 
 Once the draft contract has been agreed, it is prepared for the client's signature. Two copies: the buyer signs one and the seller signs another. These are then exchanged.
 
-```ad-tip
-Prior to physical exchange, which is effected through the post, it is usual for the parties to agree over the telephone that the contract should come into existence at the moment of the  telephone call. This is often referred to as ‘telephonic exchange’.
-```
+> [!tip]
+> Prior to physical exchange, which is effected through the post, it is usual for the parties to agree over the telephone that the contract should come into existence at the moment of the  telephone call. This is often referred to as ‘telephonic exchange’.
 
 ### Exchange of Contracts
 
@@ -137,11 +135,10 @@ Although it is often necessary for the buyer to insure the property on exchange,
 
 Although it was the seller’s solicitor’s duty to prepare the contract, customarily it was the buyer’s solicitor who prepared the transfer deed itself. However, it is increasingly common for the contract to provide that the seller will draft the transfer. This will then be provided to the buyer at the same time as the draft contract. This can help to prevent delays between exchange and completion.
 
-```ad-note
-The contract states what the parties have agreed to do; the transfer deed
-carries it out. In other words, the transfer deed activates the terms of the contract and brings
-them alive.
-```
+> [!note]
+> The contract states what the parties have agreed to do; the transfer deed
+> carries it out. In other words, the transfer deed activates the terms of the contract and brings
+> them alive.
 
 The transfer deed can then be ‘engrossed’, i.e., a copy is prepared containing any agreed amendments; this is the copy which will be signed by the parties.
 
@@ -155,11 +152,9 @@ The lender needs to be certain that the property which it is accepting as securi
 
 #### Acting for Buyer or Lender
 
-```ad-question
-title: Is it a conflict of interest to act as solicitor for both the buyer and the buyer's lender?
-
-Frequently, in a residential transaction, the solicitor who is acting for the buyer will also be instructed to act for the buyer’s lender. Acting for more than one party in a transaction is restricted by para 6.2 of the SRA Codes of Conduct, but acting for buyer and lender in a residential transaction is usually  permitted.
-```
+> [!question] Is it a conflict of interest to act as solicitor for both the buyer and the buyer's lender?
+> 
+> Frequently, in a residential transaction, the solicitor who is acting for the buyer will also be instructed to act for the buyer’s lender. Acting for more than one party in a transaction is restricted by para 6.2 of the SRA Codes of Conduct, but acting for buyer and lender in a residential transaction is usually  permitted.
 
 ##### Buyer's Lender's Solicitor
 
@@ -246,9 +241,8 @@ A covenant is a promise relating to land. Covenants are usually contained in a t
 
 This is an area of law which arose at the time of the industrial revolution in the mid-nineteenth century, when landowners were selling part of their land for industrial and housing development. In order to preserve the quality and value of what they had left, the landowners imposed strict covenants as to what could and could not be done on the land sold off.
 
-```ad-example
-For example, they might require the buyer to covenant not to develop the land without the consent of the seller; or may covenant not to use the land for manufacturing or industrial purposes; or may covenant to use it for residences, maybe even restricting the number of houses which can be built on the land. All of these covenants have the effect of preserving the value of the seller’s retained land because they eliminate the possibility of the adjoining land being used for a purpose which would reduce the attractiveness, quality and value of the retained land.
-```
+> [!example]
+> For example, they might require the buyer to covenant not to develop the land without the consent of the seller; or may covenant not to use the land for manufacturing or industrial purposes; or may covenant to use it for residences, maybe even restricting the number of houses which can be built on the land. All of these covenants have the effect of preserving the value of the seller’s retained land because they eliminate the possibility of the adjoining land being used for a purpose which would reduce the attractiveness, quality and value of the retained land.
 
 #### Terminology
 
@@ -265,9 +259,8 @@ Almost inevitably, the dominant and servient land will be sold or transferred to
 
 Covenants impose two main types of obligation: positive and negative. A positive covenant is a promise actively to do something.
 
-```ad-example
-The promise to do something will usually involve spending money: it could be a direct obligation to pay money, perhaps towards the upkeep of a shared facility such as a driveway, a parking area, or a communal garden. The covenant could involve payment of money, which is not directly stated. For example, there could be an obligation for the covenantor to maintain a fence, a wall, or a roof; or to paint the exterior of a house every two years. This will inevitably involve some sort of expenditure. But it does not necessarily involve money. A covenant to keep a garden tidy may not involve expenditure but it does require time and effort to fulfil and is therefore a positive obligation.
-```
+> [!example]
+> The promise to do something will usually involve spending money: it could be a direct obligation to pay money, perhaps towards the upkeep of a shared facility such as a driveway, a parking area, or a communal garden. The covenant could involve payment of money, which is not directly stated. For example, there could be an obligation for the covenantor to maintain a fence, a wall, or a roof; or to paint the exterior of a house every two years. This will inevitably involve some sort of expenditure. But it does not necessarily involve money. A covenant to keep a garden tidy may not involve expenditure but it does require time and effort to fulfil and is therefore a positive obligation.
 
  A negative or, more properly, a restrictive covenant is a promise not to do a specific thing on the land. It restricts the use of the land in some way.
 
@@ -278,15 +271,13 @@ There are many examples: not to use land for industrial, or retail, or hot food 
 > ‘Only such a covenant as can be complied with without expenditure of money will be enforced’ against a successor covenantor.’  
 > Lindley LJ, [[Haywood v Brunswick Permanent Benefit Building Society (1881) 8 QBD 403]]
 
-```ad-test
-title: Hand in pocket test
-
-The test for identifying whether a covenant is positive or restrictive is set out in [[Haywood v Brunswick Permanent Benefit Building Society (1881) 8 QBD 403]]
-
-This is known as the ‘hand in pocket’ test. If covenantors have to put their hands in their pockets to find money to spend to perform the covenant, it is positive.
-
-‘Time is money’ so any covenant which requires expenditure of money, effort or time falls within the definition of positive covenants’.
-```
+> [!test] Hand in pocket test
+> 
+> The test for identifying whether a covenant is positive or restrictive is set out in [[Haywood v Brunswick Permanent Benefit Building Society (1881) 8 QBD 403]]
+> 
+> This is known as the ‘hand in pocket’ test. If covenantors have to put their hands in their pockets to find money to spend to perform the covenant, it is positive.
+> 
+> ‘Time is money’ so any covenant which requires expenditure of money, effort or time falls within the definition of positive covenants’.
 
 Deciding whether a covenant is positive or restrictive is a matter of looking at the substance not form: look beyond the words used and ask ‘what is the essence of the obligation?’
 
@@ -301,12 +292,11 @@ Mixed covenants, which impose positive and restrictive obligations, can be inter
 
 This approach can be taken if the positive and restrictive aspects of the obligation can be separated to create two separate ‘stand alone’ covenants; one positive and one restrictive.
 
-```ad-example
-A covenant to paint the exterior of a building every two years and not to paint the front door red
-This covenant can be split.
-- To paint the exterior every two years: positive.
-- Not to paint the front door red: restrictive.
-```
+> [!example]
+> A covenant to paint the exterior of a building every two years and not to paint the front door red
+> This covenant can be split.
+> - To paint the exterior every two years: positive.
+> - Not to paint the front door red: restrictive.
 
 #### One Obligation with Condition
 
@@ -316,11 +306,10 @@ This approach is taken if the mixed covenant cannot be split into two separate o
 
 The additional element, which cannot stand alone as a covenant, is viewed as being simply a condition attached to an overall positive or restrictive obligation.
 
-```ad-example
-A covenant not to build on the servient land without the consent of the dominant owner. This covenant cannot be split. 
-- Not to build’ is the main obligation: restrictive covenant.
-- ‘Without consent’ is not a stand alone obligation. Seeking consent only operates as part of the main obligation: positive condition attached.
-```
+> [!example]
+> A covenant not to build on the servient land without the consent of the dominant owner. This covenant cannot be split. 
+> - Not to build’ is the main obligation: restrictive covenant.
+> - ‘Without consent’ is not a stand alone obligation. Seeking consent only operates as part of the main obligation: positive condition attached.
 
 ### Enforceability of Freehold Covenants
 
@@ -341,15 +330,13 @@ Equity has developed rules which allow the burden of certain covenants to pass t
 
 The formalities for creating a restrictive covenant are set out in [LPA 1925, s 53(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/53): in writing and signed by the grantor. A restrictive covenant is a proprietary right: [LPA 1925, s 1(3)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/1).
 
-```ad-test
-title: Tulk v Moxhay rules
-
-The equitable rules began with the case of [[Tulk v Moxhay (1848) 2 Ph 774]]. There are 4 aspects to the rule:
-1) The covenant must be restrictive
-2) It must accommodate the dominant tenement
-3) There must be intention for the burden to run
-4) There must be notice of the covenant
-```
+> [!test] Tulk v Moxhay rules
+> 
+> The equitable rules began with the case of [[Tulk v Moxhay (1848) 2 Ph 774]]. There are 4 aspects to the rule:
+> 1) The covenant must be restrictive
+> 2) It must accommodate the dominant tenement
+> 3) There must be intention for the burden to run
+> 4) There must be notice of the covenant
 
 #### The Covenant Must Be Restrictive
 
@@ -381,10 +368,9 @@ This can be shown expressly or impliedly.
 
 The covenant is worded in such a way as to make it clear that successors are to be bound:
 
-```ad-example
-- ‘A hereby covenants with B for himself and his successors in title to land known as…’ or
-- ‘A hereby covenants with the intention of binding land known as…’
-```
+> [!example]
+> - ‘A hereby covenants with B for himself and his successors in title to land known as…’ or
+> - ‘A hereby covenants with the intention of binding land known as…’
 
 ##### Impliedly
 
@@ -432,9 +418,8 @@ The case of [[Renals v Cowlishaw (1878) 9 ChD 125]] sets out 3 ways in which the
 
 ##### Annexation
 
-```ad-defn
-Annexation occurs when the covenant is made in such a way that the benefit becomes a permanent part of the dominant land itself. It therefore passes automatically when the dominant land is sold, without being specifically mentioned in the transfer deed.
-```
+> [!defn]
+> Annexation occurs when the covenant is made in such a way that the benefit becomes a permanent part of the dominant land itself. It therefore passes automatically when the dominant land is sold, without being specifically mentioned in the transfer deed.
 
 Annexation occurs in one of two main ways:
 
@@ -451,16 +436,13 @@ Annexation occurs in one of two main ways:
 	- This would appear to make express words of annexation unnecessary, as it seems to make annexation automatic.
 	- However, [[Roake v Chadha [1984] 1 WLR 40]] held that s 78(1) can be expressly excluded. This can happen if an alternative method of passing the benefit is stipulated in the original transfer deed.
 
-```ad-statute
-title: s 78(1) LPA 1925
-A covenant relating to any land of the covenantee shall be deemed to be made with the covenantee and his successors in title and the persons deriving title under him or them, and shall have effect as if such successors and other persons were expressed.
-```
+> [!statute] s 78(1) LPA 1925
+> A covenant relating to any land of the covenantee shall be deemed to be made with the covenantee and his successors in title and the persons deriving title under him or them, and shall have effect as if such successors and other persons were expressed.
 
 ##### Assignment
 
-```ad-defn
-Assignment is the express transfer of the benefit of a covenant alongside a transfer of the dominant land.
-```
+> [!defn]
+> Assignment is the express transfer of the benefit of a covenant alongside a transfer of the dominant land.
 
 This occurs where the benefit of the covenant has not been annexed at the outset. The benefit can nevertheless be assigned when the dominant land is transferred. As the benefit exists separately from the land itself, it is treated as a separate interest in the land and must be transferred every time the land is transferred.
 
@@ -468,34 +450,30 @@ The separate assignment of the benefit must comply with the formalities in [LPA 
 
 ##### Building Scheme
 
-```ad-defn
-If the parties intended to create a scheme of reciprocal local laws in a building scheme, the benefit of restrictive covenants passes to all new owners.
-```
+> [!defn]
+> If the parties intended to create a scheme of reciprocal local laws in a building scheme, the benefit of restrictive covenants passes to all new owners.
 
 When a new housing estate is built, all houses are sold subject to the same covenants. New owners who wish to enforce a covenant against a neighbour may struggle to show that the benefit of a particular covenant has passed to them.
 
 Building schemes resolve this problem relating to restrictive covenants only. If the conditions of a building scheme are met, the covenants are treated as a set of by-laws enforceable by and against all owners. It is not necessary to show specifically that the benefit of a particular covenant has passed to a claimant.
 
-```ad-test
-title: Building scheme
-The conditions are set out in [[Ellison v Reacher [1908] 2 Ch 374]]:
-1) All buyers buy from the same seller
-2) The seller divided the estate into plots
-3) The covenants were intended to benefit all plots
-4) Each buyer buys on the understanding that the covenants are intended to benefit all plots.
-
-Later cases have interpreted these rules as **guidelines** rather than strict requirements.
-
-A court will need to be satisfied that it was the intention of the parties to create a **scheme of mutually enforceable obligations**.
-```
+> [!test] Building scheme
+> The conditions are set out in [[Ellison v Reacher [1908] 2 Ch 374]]:
+> 1) All buyers buy from the same seller
+> 2) The seller divided the estate into plots
+> 3) The covenants were intended to benefit all plots
+> 4) Each buyer buys on the understanding that the covenants are intended to benefit all plots.
+> 
+> Later cases have interpreted these rules as **guidelines** rather than strict requirements.
+> 
+> A court will need to be satisfied that it was the intention of the parties to create a **scheme of mutually enforceable obligations**.
 
 ##### Original Covenantee
 
 When dominant land is sold, the original covenantee technically still has the benefit of the covenant and can sue on it. This is based on contractual principles. However, it is highly unlikely that an original covenantee would wish to enforce a covenant in these circumstances. Even if action was taken, it is hard to envisage any loss which could be suffered by an original covenantee who no longer owns the dominant land.
 
-```ad-example
-A covenant not to build on servient land is of no value to a covenantee once the dominant land is sold. A breach of the covenant causes the original covenantee no loss.
-```
+> [!example]
+> A covenant not to build on servient land is of no value to a covenantee once the dominant land is sold. A breach of the covenant causes the original covenantee no loss.
 
 ### Equitable Remedies
 
@@ -515,9 +493,8 @@ If the breach has already occurred, the claimant can apply for a mandatory injun
 
 Equitable remedies are awarded subject to general equitable principles and maxims. ‘Delay defeats equity’ – a claimant must not wait too long before applying for an injunction.
 
-```ad-note
-A claimant who wishes to apply for an injunction in respect of building work being carried out in breach of covenant must act immediately. If the claimant waits until the building is complete and then applies for a mandatory injunction to knock the building down, the application is likely to be refused.
-```
+> [!note]
+> A claimant who wishes to apply for an injunction in respect of building work being carried out in breach of covenant must act immediately. If the claimant waits until the building is complete and then applies for a mandatory injunction to knock the building down, the application is likely to be refused.
 
 #### Damages in Lieu of Injunctions
 
@@ -533,9 +510,8 @@ It must be shown that the burden has passed to a successor covenantor at common 
 
 On the assumption that C can show that the benefit has passed, the problem as far as C is concerned relates to the burden.
 
-```ad-important
-It is the general rule at common law that the burden of the covenant does not pass ([[Austerberry v Oldham Corporation [1885] AC 29 ChD 750]]).
-```
+> [!important]
+> It is the general rule at common law that the burden of the covenant does not pass ([[Austerberry v Oldham Corporation [1885] AC 29 ChD 750]]).
 
 The effect of the rule is that at common law, C cannot sue D direct as the burden of the covenant has not passed to D. If the burden of a covenant does not pass, that does not mean that it disappears. It remains with the original covenantor permanently. This means that it is the original covenantor has the burden of the covenant and can be sued.
 
@@ -604,9 +580,8 @@ Unfortunately, commonhold has not proved a popular way of holding land.
 
 ##### Restriction: S 40 LRA 2002
 
-```ad-note
-This is the most commonly used way of making the burden of positive covenants run on registered land.
-```
+> [!note]
+> This is the most commonly used way of making the burden of positive covenants run on registered land.
 
 A covenantee can put a restriction on the **proprietorship register of the burdened land**. This states that no transfer of the burdened land can be registered without the consent of the covenantee. As a condition of giving consent to the transaction, the covenantee takes a direct covenant from the purchaser of the burdened land.
 
@@ -636,23 +611,20 @@ Under normal contractual principles, the benefit of a covenant can be expressly 
 
 Where there is no express assignment, the benefit of a covenant may pass to a successor covenantee if certain conditions are met. This involves the benefit automatically passing every time the land is transferred, as long as the conditions are met.
 
-```ad-test
-title: Implied assignment
-
-The conditions of implied assignment are set out in [[P&A Swift Investments Ltd v Combined English Stores Group plc [1989] AC 632]]:
-1. The covenant must touch and concern the land
-2. There must have been an intention that the benefit should run with the dominant land
-3. The original covenantee must have a legal estate in the dominant land
-4. The successor covenantee must hold a legal estate in the dominant land
-```
+> [!test] Implied assignment
+> 
+> The conditions of implied assignment are set out in [[P&A Swift Investments Ltd v Combined English Stores Group plc [1989] AC 632]]:
+> 1. The covenant must touch and concern the land
+> 2. There must have been an intention that the benefit should run with the dominant land
+> 3. The original covenantee must have a legal estate in the dominant land
+> 4. The successor covenantee must hold a legal estate in the dominant land
 
 #### The Covenant Must Touch and Concern the Land
 
 The covenant must benefit the dominant land itself, it must affect the nature, quality, use or value of the land. It must not be expressed to be personal and should only benefit the dominant owner for the time being, so that, if separated from the land, it ceases to be of any advantage to them.
 
-```ad-example
-A covenant to maintain a house on the burdened land does touch and concern the dominant land as it preserves the quality of the environment and therefore the value of the dominant land.
-```
+> [!example]
+> A covenant to maintain a house on the burdened land does touch and concern the dominant land as it preserves the quality of the environment and therefore the value of the dominant land.
 
 #### Intention That Benefit Runs with Dominant Land
 
@@ -660,9 +632,8 @@ Intention of the parties can be shown expressly or impliedly through statute.
 
 If there is no express intention, [LPA 1925, s 78](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/78) implies an intention for the benefit to pass unless it is expressly excluded.
 
-```ad-example
-A covenant drafted ‘for the benefit of land known as 5 High Street’ or ‘with the covenantee and successors in title to land known as 5 High Street’ shows express intention
-```
+> [!example]
+> A covenant drafted ‘for the benefit of land known as 5 High Street’ or ‘with the covenantee and successors in title to land known as 5 High Street’ shows express intention
 
 The original covenantee must have a legal estate in the dominant land, and the successor covenantee must hold a legal estate in the dominant land. The original covenantee must have owned a legal estate when the covenant was made, and that the successor must own a legal estate at the time of enforcement.
 
@@ -678,9 +649,8 @@ The methods by which a freehold covenant can be brought to an end are discharge,
 
 Restrictive covenants, once validly granted, last forever. Over time, these can become obsolete and can unduly restrict the use of the servient land.
 
-```ad-example
-A covenant not to build on land might have benefitted the dominant tenement whilst that land was used for residential purposes, but no longer does if the dominant land is now a factory.
-```
+> [!example]
+> A covenant not to build on land might have benefitted the dominant tenement whilst that land was used for residential purposes, but no longer does if the dominant land is now a factory.
 
 There are various ways in which a covenant can be discharged or modified. Discharge if a covenant means that it is no longer valid. Modification of a covenant means that the scope of the covenant is altered, but it is not completely invalidated.
 
@@ -698,31 +668,25 @@ To avoid this, the servient owner can apply to the [[Tribunals#Upper Tribunal]] 
 
 [Law of Property Act 1925, s 84(1)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/84) gives the Lands Chamber the power ‘wholly or partially to discharge or modify any… restriction’.
 
-```ad-warning
-This provision only applies to restrictive covenants.
-```
+> [!warning]
+> This provision only applies to restrictive covenants.
 
-```ad-statute
-title: [LPA 1925, s 84(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/84)
+> [!statute] [LPA 1925, s 84(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/84)
+> 
+> A servient owner may apply to the tribunal for a declaration to discharge or modify a covenant on the basis that the covenant has become obsolete due to changes in the character of the property or neighbourhood.
 
-A servient owner may apply to the tribunal for a declaration to discharge or modify a covenant on the basis that the covenant has become obsolete due to changes in the character of the property or neighbourhood.
-```
-
-```ad-example
-A covenant to use property only as a residence may be obsolete if the surrounding area is now business, retail of mixed use.
-```
+> [!example]
+> A covenant to use property only as a residence may be obsolete if the surrounding area is now business, retail of mixed use.
 
 [s 84(1)(aa)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/84) enables an application to be made on the basis that the covenant impedes reasonable use of the servient land. The applicant must show either that the covenant confers no practical value, or that it is contrary to public interest. The tribunal must be satisfied that financial compensation would be adequate for the dominant owner.
 
-```ad-example
-A covenant restricting the density of houses on a plot may confer no practical value on the dominant land if that land is itself densely developed.
-```
+> [!example]
+> A covenant restricting the density of houses on a plot may confer no practical value on the dominant land if that land is itself densely developed.
 
 S 84(1)(b) applies where the dominant owners have agreed, expressly or impliedly, to discharge.
 
-```ad-example
-An application here may be appropriate where the parties have expressly agreed a release in principle, or where the dominant owner has tolerated a long-term breach. In this instance, the tribunal will decide the level of compensation to be paid, thereby preventing the dominant owner holding the servient owner to ransom.
-```
+> [!example]
+> An application here may be appropriate where the parties have expressly agreed a release in principle, or where the dominant owner has tolerated a long-term breach. In this instance, the tribunal will decide the level of compensation to be paid, thereby preventing the dominant owner holding the servient owner to ransom.
 
 S 84(1)(c) enables an application to be made where discharge if a covenant will not 'injure' the dominant owners.
 
@@ -753,10 +717,8 @@ However, the tribunal has a balancing act to do: on the one hand it will be wary
 
 ### Definition
 
-```ad-defn
-title: Easement
-An easement is a proprietary right to use land which belongs to somebody else. The use is more limited than an exclusive right to occupy or use.
-```
+> [!defn] Easement
+> An easement is a proprietary right to use land which belongs to somebody else. The use is more limited than an exclusive right to occupy or use.
 
 The person who receives the benefit of the easement is the grantee and their land, which is benefitted by the easement, is the *dominant tenement*. The person who grants the easement land is the grantor and their land, which is burdened by the easement, is the *servient tenement*.
 
@@ -764,33 +726,28 @@ The person who receives the benefit of the easement is the grantee and their lan
 
 An easement is capable of being a legal interest in land if it fulfils the requirements as to duration.
 
-```ad-statute
-title: LPA 1925, s 1(2)(a)
+> [!statute] LPA 1925, s 1(2)(a)
+> 
+> ‘An easement…for an estate equivalent to an estate in fee simple absolute in possession or a term of years absolute’.
 
-‘An easement…for an estate equivalent to an estate in fee simple absolute in possession or a term of years absolute’.
-```
-
-```ad-example
-A right of way granted when part of freehold land is sold will be granted forever. A right of drainage granted in a five-year lease will be granted for the term of that lease.
-```
+> [!example]
+> A right of way granted when part of freehold land is sold will be granted forever. A right of drainage granted in a five-year lease will be granted for the term of that lease.
 
 ### Equitable Easements
 
 If an easement is **not** granted for the equivalent of a freehold or leasehold estate, it can only be equitable.
 
-```ad-example
-A right to park which is granted ‘until the alternative parking facility is completed’ can only be equitable as it is not granted forever or for a set/certain period of time.
-```
+> [!example]
+> A right to park which is granted ‘until the alternative parking facility is completed’ can only be equitable as it is not granted forever or for a set/certain period of time.
 
 #### Positive Easements
 
 The overwhelming majority of easements are positive, in that they allow the holder to use the servient land of another in a particular way.
 
-```ad-example
-- A right of way allows the holder to use a driveway on neighbouring land.
-- A right of drainage allows the holder to use the pipes under that land.
-- A right to park allows the holder to drive onto and park on part of neighbouring land.
-```
+> [!example]
+> - A right of way allows the holder to use a driveway on neighbouring land.
+> - A right of drainage allows the holder to use the pipes under that land.
+> - A right to park allows the holder to drive onto and park on part of neighbouring land.
 
 #### Negative Easements
 
@@ -823,11 +780,10 @@ Do not confuse easements with:
 
 A **grant** exists where C, a landowner, sells or leases part of C’s land to D, and gives to D an easement over the land which C has retained.
 
-```ad-example
-- C owns a large piece of land which adjoins a main road.
-- C sells part of the land to D and retains the part of the land nearest the road.
-- In the transfer deed, C creates a right of way in D’s favour across the driveway on C’s retained land.
-```
+> [!example]
+> - C owns a large piece of land which adjoins a main road.
+> - C sells part of the land to D and retains the part of the land nearest the road.
+> - In the transfer deed, C creates a right of way in D’s favour across the driveway on C’s retained land.
 
 #### Reservation
 
@@ -835,11 +791,10 @@ A **reservation** exists where C sells or leases part of C’s land to D, and re
 
 A reservation is strictly construed against the person reserving it, because they are in a position to reserve exactly what is required and are assumed to have done so. Any attempt by C to extend the right will fail. To interpret the right more widely would be to ‘**derogate from the grant**’ that C has made to D, in that D has a lesser use of the land than originally envisaged ([[Cordell v Second Clanfield Properties Ltd [1969] 2 Ch 9]]).
 
-```ad-example
-- C owns a large piece of land which adjoins a main road.
-- C sells part of the land nearest the road to D and retains the rest.
-- In the transfer deed, C retains a right of way in C’s favour across the driveway on D’s land.
-```
+> [!example]
+> - C owns a large piece of land which adjoins a main road.
+> - C sells part of the land nearest the road to D and retains the rest.
+> - In the transfer deed, C retains a right of way in C’s favour across the driveway on D’s land.
 
 ### Creation of Easements
 
@@ -863,9 +818,8 @@ Three types of prescription:
 2. Prescription under the doctrine of Lost Modern Grant
 3. [Prescription Act 1832](https://www.legislation.gov.uk/ukpga/Will4/2-3/71/contents)
 
-```ad-note
-Prescription will succeed under the Prescription Act 1832 if the user can prove uninterrupted enjoyment for the 20 year period. [No use for 1 year or more = interruption]
-```
+> [!note]
+> Prescription will succeed under the Prescription Act 1832 if the user can prove uninterrupted enjoyment for the 20 year period. [No use for 1 year or more = interruption]
 
 The basic criteria for a prescription are:
 
@@ -900,16 +854,12 @@ In order to enforce an easement, the dominant owner must have the benefit of the
 
 It does not matter whether the easement is legal or equitable, or whether the land is registered or unregistered: the benefit will pass with the dominant land, enabling the dominant owner to enforce it.
 
-```ad-statute
-title: [s 205(1)(ix) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/205)
-‘Land’ includes… an easement, right, privilege, or benefit in, over or derived from land…’
-```
+> [!statute] [s 205(1)(ix) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/205)
+> ‘Land’ includes… an easement, right, privilege, or benefit in, over or derived from land…’
 
-```ad-statute
-title: [s 62(1) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/62)
-
-‘A conveyance of land shall be deemed to include and shall by virtue of this Act be deemed to convey, with the land, all… easements, rights and advantages whatsoever...’
-```
+> [!statute] [s 62(1) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/62)
+> 
+> ‘A conveyance of land shall be deemed to include and shall by virtue of this Act be deemed to convey, with the land, all… easements, rights and advantages whatsoever...’
 
 #### Express Legal Easements: Enforceability Against Servient Owner
 
@@ -951,12 +901,11 @@ To be protected, a **Notice** must be entered in the charges register of the ser
 
 A volunteer (i.e., someone who is gifted or inherits the land) will always be bound, whether the interest is protected or not, [LRA 2002, s 28](https://www.legislation.gov.uk/ukpga/2002/9/section/28).
 
-```ad-summary
-- The easements must be properly created: either [LPA 1925, s 53(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/53) or [LP(MP)A 1989, s 2](https://www.legislation.gov.uk/ukpga/1989/34/section/2)
-- The easements must be protected by Notice in the charges register of the burdened land: [LRA 2002, s 32](https://www.legislation.gov.uk/ukpga/2002/9/section/32)
-- If done, easement binds everyone: [LRA 2002, s 29(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/29)
-- If not done, the purchaser for value is not bound: [LRA 2002, s 29(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/29) but the volunteer is: [s 28](https://www.legislation.gov.uk/ukpga/2002/9/section/28)
-```
+> [!summary]
+> - The easements must be properly created: either [LPA 1925, s 53(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/53) or [LP(MP)A 1989, s 2](https://www.legislation.gov.uk/ukpga/1989/34/section/2)
+> - The easements must be protected by Notice in the charges register of the burdened land: [LRA 2002, s 32](https://www.legislation.gov.uk/ukpga/2002/9/section/32)
+> - If done, easement binds everyone: [LRA 2002, s 29(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/29)
+> - If not done, the purchaser for value is not bound: [LRA 2002, s 29(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/29) but the volunteer is: [s 28](https://www.legislation.gov.uk/ukpga/2002/9/section/28)
 
 ##### Unregistered Land
 
@@ -966,12 +915,11 @@ To be protected, a Class D(iii) Land Charge must be entered in the Land Charges 
 
 A volunteer will always be bound.
 
-```ad-summary
-- The easements must be properly created: either [LPA 1925, s 53(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/53) or [LP(MP)A 1989, s 2](https://www.legislation.gov.uk/ukpga/1989/34/section/2)
-- The easements must be protected by a D(iii) Land Charge: [LCA 1972, s 2(5)(iii)](https://www.legislation.gov.uk/ukpga/1972/61/section/2)
-- If done, easement binds everyone: [LRA 2002, s 198](https://www.legislation.gov.uk/ukpga/2002/9/section/198)
-- If not done, the purchaser for value is not bound: [LCA 1972, s 4(6)](https://www.legislation.gov.uk/ukpga/1972/61/section/4) but the volunteer is.
-```
+> [!summary]
+> - The easements must be properly created: either [LPA 1925, s 53(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/53) or [LP(MP)A 1989, s 2](https://www.legislation.gov.uk/ukpga/1989/34/section/2)
+> - The easements must be protected by a D(iii) Land Charge: [LCA 1972, s 2(5)(iii)](https://www.legislation.gov.uk/ukpga/1972/61/section/2)
+> - If done, easement binds everyone: [LRA 2002, s 198](https://www.legislation.gov.uk/ukpga/2002/9/section/198)
+> - If not done, the purchaser for value is not bound: [LCA 1972, s 4(6)](https://www.legislation.gov.uk/ukpga/1972/61/section/4) but the volunteer is.
 
 ##### Implied Equitable Easement
 
@@ -1013,9 +961,8 @@ d
 
 ![[mortgages 1_1.jpg]]
 
-```ad-defn
-A mortgage is a bundle of proprietary rights granted to the lender (the mortgagee) as security for a loan.
-```
+> [!defn]
+> A mortgage is a bundle of proprietary rights granted to the lender (the mortgagee) as security for a loan.
 
 ### Legal Mortgages
 
@@ -1023,11 +970,9 @@ Per LPA 1925, s 1(2)(c) a mortgage is capable of being a legal interest in land.
 
 #### Deed
 
-```ad-statute
-title: [s 52(1) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/52)
-
-All conveyances of land or of any interest therein are void for the purpose of conveying or creating a legal estate unless made by deed.
-```
+> [!statute] [s 52(1) LPA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/52)
+> 
+> All conveyances of land or of any interest therein are void for the purpose of conveying or creating a legal estate unless made by deed.
 
 To be valid, the deed must comply with the requirements set out in [s 1 LP(MP)A 1989](https://www.legislation.gov.uk/ukpga/1989/34/section/1):
 
@@ -1041,15 +986,13 @@ The mortgage deed must then be registered at the Land Registry ([s 27(2)(f) LRA 
 
 Dispositions are required to be registered:
 
-```ad-statute
-title: [s 27 LRA 2002](https://www.legislation.gov.uk/ukpga/2002/9/section/27)
-
-(1) If a disposition of a registered estate or registered charge is required to be completed by registration, it does not operate at law until the relevant registration requirements are met.
-
-(2) In the case of a registered estate, the following are the dispositions which are required to be completed by registration—…
-
-(f) the grant of a legal charge
-```
+> [!statute] [s 27 LRA 2002](https://www.legislation.gov.uk/ukpga/2002/9/section/27)
+> 
+> (1) If a disposition of a registered estate or registered charge is required to be completed by registration, it does not operate at law until the relevant registration requirements are met.
+> 
+> (2) In the case of a registered estate, the following are the dispositions which are required to be completed by registration—…
+> 
+> (f) the grant of a legal charge
 
 ### Legal Vs Equitable
 
@@ -1120,9 +1063,8 @@ The solicitor must:
 - keep a detailed attendance note and confirm everything in writing
 - send certificate to Bank.
 
-```ad-warning
-The House of Lords in Etridge said these steps should be taken in every non-commercial case where a private individual offers his property as security for another person's debts.
-```
+> [!warning]
+> The House of Lords in Etridge said these steps should be taken in every non-commercial case where a private individual offers his property as security for another person's debts.
 
 ### Priority of Mortgages Over Registered Land
 
@@ -1159,25 +1101,24 @@ If protected by the entry of a notice, an equitable mortgage over registered lan
 
 However, an equitable mortgage not protected by a notice, will not take priority (i.e., lose its priority) to a subsequent registrable disposition of either a registered estate or a registered charge ([LRA 2002, s 29(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/29)). (i.e., a transfer of the legal estate for value or the grant of a legal mortgage)
 
-```ad-example
-A borrower grants a mortgage to Lender A. Although the mortgage is granted by a valid deed, Lender A fails to register the mortgage at the Land Registry – it is a **defective legal mortgage**. However, because it is in writing, signed by both the borrower and Lender A and contains the agreed mortgage term, the mortgages take effect an **equitable mortgage**.
-
-The borrower subsequently enters into a second mortgage with Lender B. The mortgage is granted by valid deed, which Lender B registers. The mortgage therefore takes effect as **a valid legal mortgage**.
-
-As a **registrable disposition of a legal charge over a registered estate**, the legal mortgage in favour of Lender B will rank ahead of the equitable mortgage in favour of Lender A.
-
-The borrower then enters into a further mortgage with Lender C. Although the borrower and Lender C enter into a document labelled as a deed, the borrower’s signature is not witnessed. There is no valid execution and the **legal mortgage is defective**. As the document is in writing, contains all the agreed terms and is signed by the borrower and Lender C, there is an **equitable mortgage**, which Lender C proceeds to **note on the charges register** of the borrower’s registered title.
-
-If the borrower defaults in their mortgage repayments and the land has to be sold, who then gets paid first? Which mortgage ranks in priority?
-
-Lender A has an equitable mortgage which was created first, but not protected. Lender B has a legal mortgage. Lender C has an equitable mortgage which has been duly protected.
-
-Lender B will get paid first. It take priority of Lender A’s equitable mortgage because the equitable mortgage was not protected by notice at the Land Registry.
-
-Lender A will then get paid second because Lender A and C both have equitable mortgages and as between competing equitable mortgages, the order of creation determines priority.
-
-The fact Lender C protected its equitable mortgage by the entry of a notice, does not affect priority here. However, if a subsequent legal mortgage were entered into by the borrower, Lender C would take priority over this because it has protected its interest.
-```
+> [!example]
+> A borrower grants a mortgage to Lender A. Although the mortgage is granted by a valid deed, Lender A fails to register the mortgage at the Land Registry – it is a **defective legal mortgage**. However, because it is in writing, signed by both the borrower and Lender A and contains the agreed mortgage term, the mortgages take effect an **equitable mortgage**.
+> 
+> The borrower subsequently enters into a second mortgage with Lender B. The mortgage is granted by valid deed, which Lender B registers. The mortgage therefore takes effect as **a valid legal mortgage**.
+> 
+> As a **registrable disposition of a legal charge over a registered estate**, the legal mortgage in favour of Lender B will rank ahead of the equitable mortgage in favour of Lender A.
+> 
+> The borrower then enters into a further mortgage with Lender C. Although the borrower and Lender C enter into a document labelled as a deed, the borrower’s signature is not witnessed. There is no valid execution and the **legal mortgage is defective**. As the document is in writing, contains all the agreed terms and is signed by the borrower and Lender C, there is an **equitable mortgage**, which Lender C proceeds to **note on the charges register** of the borrower’s registered title.
+> 
+> If the borrower defaults in their mortgage repayments and the land has to be sold, who then gets paid first? Which mortgage ranks in priority?
+> 
+> Lender A has an equitable mortgage which was created first, but not protected. Lender B has a legal mortgage. Lender C has an equitable mortgage which has been duly protected.
+> 
+> Lender B will get paid first. It take priority of Lender A’s equitable mortgage because the equitable mortgage was not protected by notice at the Land Registry.
+> 
+> Lender A will then get paid second because Lender A and C both have equitable mortgages and as between competing equitable mortgages, the order of creation determines priority.
+> 
+> The fact Lender C protected its equitable mortgage by the entry of a notice, does not affect priority here. However, if a subsequent legal mortgage were entered into by the borrower, Lender C would take priority over this because it has protected its interest.
 
 ##### Postponement
 
@@ -1185,13 +1126,12 @@ The priority rules discussed can be modified to allow a mortgage to take priorit
 
 Any agreement would need to be **registered** at the Land Registry.
 
-```ad-important
-Mortgagees will also often require an express waiver or postponement to be included in a mortgage agreement so that the rights of any person living at the mortgaged property with the mortgagor are postponed to the interests of the mortgagee.
-
-This is important for the lender to be able to enforce their security and take possession of the mortgaged property in the event of default.
-
-If the lender’s interest in the land does not rank in priority to the interest of a person in occupation (not a party to the mortgage) then the lender would not be able to take possession of the land in order to exercise its power of sale.
-```
+> [!important]
+> Mortgagees will also often require an express waiver or postponement to be included in a mortgage agreement so that the rights of any person living at the mortgaged property with the mortgagor are postponed to the interests of the mortgagee.
+> 
+> This is important for the lender to be able to enforce their security and take possession of the mortgaged property in the event of default.
+> 
+> If the lender’s interest in the land does not rank in priority to the interest of a person in occupation (not a party to the mortgage) then the lender would not be able to take possession of the land in order to exercise its power of sale.
 
 ### Rights of the Lender
 
@@ -1288,24 +1228,22 @@ Most lenders observe the Protocol. However, if they do not, they can suffer dela
 
 ###### Statutory Jurisdiction to Postpone
 
-```ad-statute
-title: [Administration of Justice Act (AJA) 1970, s 36](https://www.legislation.gov.uk/ukpga/1970/31/section/36)
-
-(1) Where the mortgagee under a mortgage of land which consists of or includes a dwelling-house brings an action in which he claims possession of the mortgaged property, not being an action for foreclosure in which a claim for possession of the mortgaged property is also made, the court may exercise any of the powers conferred on it by subsection (2) below if it appears to the court that in the event of its exercising the power the mortgagor is likely to be able within a reasonable period to pay any sums due under the mortgage or to remedy a default consisting of a breach of any other obligation arising under or by virtue of the mortgage. 
-
-(2) The court—
-
-(a) may adjourn the proceedings, or
-
-(b) on giving judgment, or making an order, for delivery of possession of the mortgaged property, or at any time before the execution of such judgment or order, may—
-
-- (i) stay or suspend execution of the judgment or order, or
-- (ii) postpone the date for delivery of possession,
-
-for such period or periods as the court thinks reasonable. 
-
-(3) Any such adjournment, stay, suspension or postponement as is referred to in subsection (2) above may be made subject to such conditions with regard to payment by the mortgagor of any sum secured by the mortgage or the remedying of any default as the court thinks fit.
-```
+> [!statute] [Administration of Justice Act (AJA) 1970, s 36](https://www.legislation.gov.uk/ukpga/1970/31/section/36)
+> 
+> (1) Where the mortgagee under a mortgage of land which consists of or includes a dwelling-house brings an action in which he claims possession of the mortgaged property, not being an action for foreclosure in which a claim for possession of the mortgaged property is also made, the court may exercise any of the powers conferred on it by subsection (2) below if it appears to the court that in the event of its exercising the power the mortgagor is likely to be able within a reasonable period to pay any sums due under the mortgage or to remedy a default consisting of a breach of any other obligation arising under or by virtue of the mortgage. 
+> 
+> (2) The court—
+> 
+> (a) may adjourn the proceedings, or
+> 
+> (b) on giving judgment, or making an order, for delivery of possession of the mortgaged property, or at any time before the execution of such judgment or order, may—
+> 
+> - (i) stay or suspend execution of the judgment or order, or
+> - (ii) postpone the date for delivery of possession,
+> 
+> for such period or periods as the court thinks reasonable. 
+> 
+> (3) Any such adjournment, stay, suspension or postponement as is referred to in subsection (2) above may be made subject to such conditions with regard to payment by the mortgagor of any sum secured by the mortgage or the remedying of any default as the court thinks fit.
 
 The section does not:
 
@@ -1315,15 +1253,14 @@ The section does not:
 
 The section does apply where the property is wholly or partly residential, although need not be the borrower’s home. It enables the court to adjourn possession proceedings or stay or postpone execution of the possession order. In order to be able to do this, it must appear to the court that the borrower is likely to be able to pay any sums due (or remedy any other default) within a reasonable period.
 
-```ad-summary
-- Possession proceedings must have started
-- The mortgaged property must be fully or partly residential
-- Borrower must be able to pay ‘any sums due’
-	- ‘any sums due’ means the arrears and accrued interest, and not the whole of the mortgage debt.
-- ‘within a reasonable period’
-	- In [[Cheltenham & Gloucester Building Society v Norgan [1996] 1 All E.R. 449]] the Court of Appeal said that the starting point for pinpointing a ‘reasonable period’ was the remainder of the mortgage term.
-- Subject to such conditions ‘as the court thinks fit’
-```
+> [!summary]
+> - Possession proceedings must have started
+> - The mortgaged property must be fully or partly residential
+> - Borrower must be able to pay ‘any sums due’
+> 	- ‘any sums due’ means the arrears and accrued interest, and not the whole of the mortgage debt.
+> - ‘within a reasonable period’
+> 	- In [[Cheltenham & Gloucester Building Society v Norgan [1996] 1 All E.R. 449]] the Court of Appeal said that the starting point for pinpointing a ‘reasonable period’ was the remainder of the mortgage term.
+> - Subject to such conditions ‘as the court thinks fit’
 
 More cases:
 
@@ -1350,12 +1287,10 @@ Most mortgage documents will include an express power of sale and will set out e
 
 In the absence of an express power, a right to sell can be implied under [LPA 1925, s 101(1)(i)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/101) unless it is excluded or modified in the mortgage deed.
 
-```ad-statute
-title:  [LPA 1925, s 101(1)(i)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/101)
-(1) A mortgagee, where the mortgage is made by deed, shall, by virtue of this Act, have the following powers, to the like extent as if they had been in terms conferred by the mortgage deed, but not further (namely):
-
-(i) A power, **when the mortgage money has become due**, to sell, or to concur with any other person in selling, the mortgaged property, or any part thereof, either subject to prior charges or not, and **either together or in lots, by public auction or by private contract**, subject to such conditions respecting title, or evidence of title, or other matter, as the mortgagee thinks fit, with power to vary any contract for sale, and to buy in at an auction, or to rescind any contract for sale, and to re-sell, without being answerable for any loss occasioned thereby;
-```
+> [!statute] [LPA 1925, s 101(1)(i)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/101)
+> (1) A mortgagee, where the mortgage is made by deed, shall, by virtue of this Act, have the following powers, to the like extent as if they had been in terms conferred by the mortgage deed, but not further (namely):
+> 
+> (i) A power, **when the mortgage money has become due**, to sell, or to concur with any other person in selling, the mortgaged property, or any part thereof, either subject to prior charges or not, and **either together or in lots, by public auction or by private contract**, subject to such conditions respecting title, or evidence of title, or other matter, as the mortgagee thinks fit, with power to vary any contract for sale, and to buy in at an auction, or to rescind any contract for sale, and to re-sell, without being answerable for any loss occasioned thereby;
 
 ##### When Does the Right Arise?
 
@@ -1506,9 +1441,8 @@ The practical significance of holding land as a joint tenant or as a tenant in c
 
 This means that the notional interest of the deceased joint tenant accrues to the surviving joint tenants. It is incorrect to say that the deceased joint tenant’s ‘share’ goes to the surviving joint tenants, as of course a joint tenant does not have a ‘share’ in the first place.
 
-```ad-note
-The right of survivorship will only apply to co-owners holding the land as joint tenants.
-```
+> [!note]
+> The right of survivorship will only apply to co-owners holding the land as joint tenants.
 
 Survivorship operates automatically as soon as the joint tenant dies. This means that the interest accrues immediately on death and is unaffected by any provision in a will, or by the intestacy rules if there is no will. This is because a will is of no effect until after death, by which time the survivorship has already operated. Therefore, any provision in a will which purports to leave a joint tenant’s interest to someone will have no effect: [[Re Caines deceased [1978] 1 WLR 540]].
 
@@ -1563,20 +1497,19 @@ Where there is no specific wording, a rebuttable presumption of a tenancy in com
 - land is a business asset ([[Lake v Craddock (1732) 3 P Wms 158]]); and
 - the purchase price of a non-domestic property has been paid in unequal shares ([[Bull v Bull [1955] 1 QB 234]]).
 
-```ad-summary
-Legal Title
-- Maximum of 4 Trustees (i.e. 4 legal owners registered at the Land Registry)
-- All must be ‘sui juris’ (+18 and of sound mind)
-- Must hold as joint tenants. This means the 4 unities must be present and the right of survivorship applies.
-- The joint tenancy cannot be severed into a tenancy in common
-
-Equitable Title
-- Unlimited number can hold
-- Can be held by U18’s and those that lack mental capacity
-- Can be held as joint tenancy or tenancy in common
-- Equitable joint tenancy can be severed into tenancy in common
-- Survivorship also applies to equitable joint tenancy, but not to an equitable tenancy in common
-```
+> [!summary]
+> Legal Title
+> - Maximum of 4 Trustees (i.e. 4 legal owners registered at the Land Registry)
+> - All must be ‘sui juris’ (+18 and of sound mind)
+> - Must hold as joint tenants. This means the 4 unities must be present and the right of survivorship applies.
+> - The joint tenancy cannot be severed into a tenancy in common
+> 
+> Equitable Title
+> - Unlimited number can hold
+> - Can be held by U18’s and those that lack mental capacity
+> - Can be held as joint tenancy or tenancy in common
+> - Equitable joint tenancy can be severed into tenancy in common
+> - Survivorship also applies to equitable joint tenancy, but not to an equitable tenancy in common
 
 ### Severance
 
@@ -1589,9 +1522,8 @@ The imposition of a trust involves the separation of legal and equitable title. 
 > Severance…is the process of separating off the share of a joint tenant, so that the concurrent ownership will continue, but the right of survivorship will no longer apply. The parties will hold separate shares as tenants in common.  
 > Dillon LJ in [[Harris v Goddard [1983] 1 WLR 1203]]
 
-```ad-note
-Severance does not destroy co-ownership but simply changes the basis on which the parties hold the equitable interest in the future.
-```
+> [!note]
+> Severance does not destroy co-ownership but simply changes the basis on which the parties hold the equitable interest in the future.
 
 #### Details
 
@@ -1610,15 +1542,13 @@ If a beneficial (equitable) joint tenancy is created, it is open to any joint te
 
 It is important to understand that severance does not bring co-ownership to an end: it simply changes the basis on which the equitable co-owners continue to hold the equitable title. Severance is the process of converting an equitable interest held as a joint tenancy into an interest held as a tenancy in common.
 
-```ad-statute
-title: s 36(2) LPA 1925
-
-No severance of a joint tenancy of a legal estate, so as to create a tenancy in common in land, shall be permissible, whether by operation of law or otherwise, but this subsection does not affect the right of a joint tenant to release his interest to the other joint tenants, or the right to sever a joint tenancy in an equitable interest whether or not the legal estate is vested in the joint tenants:
-
-Provided that, where a legal estate (not being settled land) is vested in joint tenants beneficially, and any tenant desires to sever the joint tenancy in equity, he shall give to the other joint tenants a notice in writing of such desire or do such other acts or things as would, in the case of personal estate, have been effectual to sever the tenancy in equity, and thereupon the land shall be held in trust on terms which would have been requisite for giving effect to the beneficial interests if there had been an actual severance.
-
-Nothing in this Act affects the right of a survivor of joint tenants, who is solely and beneficially interested, to deal with his legal estate as if it were not held in trust.
-```
+> [!statute] s 36(2) LPA 1925
+> 
+> No severance of a joint tenancy of a legal estate, so as to create a tenancy in common in land, shall be permissible, whether by operation of law or otherwise, but this subsection does not affect the right of a joint tenant to release his interest to the other joint tenants, or the right to sever a joint tenancy in an equitable interest whether or not the legal estate is vested in the joint tenants:
+> 
+> Provided that, where a legal estate (not being settled land) is vested in joint tenants beneficially, and any tenant desires to sever the joint tenancy in equity, he shall give to the other joint tenants a notice in writing of such desire or do such other acts or things as would, in the case of personal estate, have been effectual to sever the tenancy in equity, and thereupon the land shall be held in trust on terms which would have been requisite for giving effect to the beneficial interests if there had been an actual severance.
+> 
+> Nothing in this Act affects the right of a survivor of joint tenants, who is solely and beneficially interested, to deal with his legal estate as if it were not held in trust.
 
 It is not possible to sever a legal joint tenancy; only an equitable one. This is to preserve the simplicity of the legal title. If legal trustees could sever the joint tenancy and leave an interest held as a tenancy in common to other(s), that would complicate the legal title for two reasons: first, the number of legal owners could grow, not shrink! Second, documents would be required to prove that the new holders had actually acquired title properly. With a joint tenancy, the only document required on the death of a joint tenant is a copy of that person’s death certificate.
 
@@ -1662,22 +1592,20 @@ The severance must take place during the joint tenant’s lifetime. Making a wil
 
 If a joint tenant successfully severs the equitable joint tenancy, that person will, in future, hold a tenancy in common which is an equal share, based on the number of former joint tenants not on the proportion of contributions made to the initial price: [[Goodman v Gallant [1986] Fam 106]].
 
-```ad-example
-A, B, C and D are the legal owners of property, which they hold on trust for themselves and E and F as joint tenants in equity. D wishes to sever the joint tenancy so that he can leave his share of the property to G in his will.
+> [!example]
+> A, B, C and D are the legal owners of property, which they hold on trust for themselves and E and F as joint tenants in equity. D wishes to sever the joint tenancy so that he can leave his share of the property to G in his will.
+> 
+> It is not possible to sever the legal joint tenancy, so D will continue to have the administrative responsibilities of a legal trustee. The equitable joint tenancy can be severed, and if D does this by one of the methods recognised in **LPA s 36(2)**, D will have a one-sixth separate equitable share as tenant in common.
+> - A B C and D hold legal title as joint tenants.
+> - A B C E F hold 5/6 as JTs.
+> - D has 1/6 as TIC.
 
-It is not possible to sever the legal joint tenancy, so D will continue to have the administrative responsibilities of a legal trustee. The equitable joint tenancy can be severed, and if D does this by one of the methods recognised in **LPA s 36(2)**, D will have a one-sixth separate equitable share as tenant in common.
-- A B C and D hold legal title as joint tenants.
-- A B C E F hold 5/6 as JTs.
-- D has 1/6 as TIC.
-```
-
-```ad-example
-A and B are the legal owners of property, which they hold on trust for themselves as joint tenants in equity. B wishes to sever the joint tenancy so that he can leave his share of the property to C in his will.
-
-It is not possible to sever the legal joint tenancy, so B will continue to have the administrative responsibilities of a legal trustee. The equitable joint tenancy can be severed, and if B does this by one of the methods recognised in LPA s 36(2), A and B will each have a 50% equitable share as tenant in common. It is not possible for A to continue as a joint tenant.
-- A and B hold legal title as joint tenants.
-- A and B hold 50% each as TIC.
-```
+> [!example]
+> A and B are the legal owners of property, which they hold on trust for themselves as joint tenants in equity. B wishes to sever the joint tenancy so that he can leave his share of the property to C in his will.
+> 
+> It is not possible to sever the legal joint tenancy, so B will continue to have the administrative responsibilities of a legal trustee. The equitable joint tenancy can be severed, and if B does this by one of the methods recognised in LPA s 36(2), A and B will each have a 50% equitable share as tenant in common. It is not possible for A to continue as a joint tenant.
+> - A and B hold legal title as joint tenants.
+> - A and B hold 50% each as TIC.
 
 MERMAID3
 
@@ -1705,17 +1633,15 @@ A notice in writing must be served correctly in order to sever the joint tenancy
 
 Difficulties regarding when and whether a notice has been properly served are resolved by **Law of Property Act 1925, s 196(3) and s 196(4)** and related case law.
 
-```ad-statute
-title: s 196 LPA 1925
-
-(1) Any notice required or authorised to be served or given by this Act shall be in writing.
-
-(2) Any notice required or authorised by this Act to be served on a lessee or mortgagor shall be sufficient, although only addressed to the lessee or mortgagor by that designation, without his name, or generally to the persons interested, without any name, and notwithstanding that any person to be affected by the notice is absent, under disability, unborn, or unascertained.
-
-(3) Any notice required or authorised by this Act to be served shall be sufficiently served if it is left at the last-known place of abode or business in the United Kingdom of the lessee, lessor, mortgagee, mortgagor, or other person to be served, or, in case of a notice required or authorised to be served on a lessee or mortgagor, is affixed or left for him on the land or any house or building comprised in the lease or mortgage, or, in case of a mining lease, is left for the lessee at the office or counting-house of the mine.
-
-(4) Any notice required or authorised by this Act to be served shall also be sufficiently served, if it is sent by post in a registered letter addressed to the lessee, lessor, mortgagee, mortgagor, or other person to be served, by name, at the aforesaid place of abode or business, office, or counting-house, and if that letter is not returned [F1by the postal operator (within the meaning of [F2Part 3 of the Postal Services Act 2011]) concerned] undelivered; and that service shall be deemed to be made at the time at which the registered letter would in the ordinary course be delivered.
-```
+> [!statute] s 196 LPA 1925
+> 
+> (1) Any notice required or authorised to be served or given by this Act shall be in writing.
+> 
+> (2) Any notice required or authorised by this Act to be served on a lessee or mortgagor shall be sufficient, although only addressed to the lessee or mortgagor by that designation, without his name, or generally to the persons interested, without any name, and notwithstanding that any person to be affected by the notice is absent, under disability, unborn, or unascertained.
+> 
+> (3) Any notice required or authorised by this Act to be served shall be sufficiently served if it is left at the last-known place of abode or business in the United Kingdom of the lessee, lessor, mortgagee, mortgagor, or other person to be served, or, in case of a notice required or authorised to be served on a lessee or mortgagor, is affixed or left for him on the land or any house or building comprised in the lease or mortgage, or, in case of a mining lease, is left for the lessee at the office or counting-house of the mine.
+> 
+> (4) Any notice required or authorised by this Act to be served shall also be sufficiently served, if it is sent by post in a registered letter addressed to the lessee, lessor, mortgagee, mortgagor, or other person to be served, by name, at the aforesaid place of abode or business, office, or counting-house, and if that letter is not returned [F1by the postal operator (within the meaning of [F2Part 3 of the Postal Services Act 2011]) concerned] undelivered; and that service shall be deemed to be made at the time at which the registered letter would in the ordinary course be delivered.
 
 A notice can be served by handing it over personally. If it is posted it will be deemed to be served if it has been left at the ‘last known place of abode or business’ of the joint tenants. This means that it could be served by the severing joint tenant leaving it there, or by postal delivery there. If it is made by registered post and not returned undelivered, it will be deemed served at the time a registered item would in the ordinary course of events be delivered.
 
@@ -1746,23 +1672,19 @@ The unilateral acts can be subdivided into acts of total alienation; partial ali
 - Partial alienation: acts of ‘partial’ alienation occur where the severing owner temporarily disposes of the interest, by way of mortgage or lease. This is partial alienation because when the loan is repaid or the lease expires, the holder will take the interest back unencumbered.
 - Involuntary alienation: this occurs when the joint tenant is declared bankrupt by the court. It is ‘involuntary’ as this will happen against the will of the joint tenant!
 
-```ad-example
-title: Sale as an act of total alienation
-It is very common for one joint tenant to ‘buy out’ another. The sale will have the effect of severing the equitable joint tenancy and the purchaser will acquire the interest as a tenant in common. The legal title will remain unaffected as the legal joint tenancy cannot be severed. Imagine that A B C and D own property as beneficial joint tenants. B has been offered a job in another city and sells his equitable interest to C.
+> [!example] Sale as an act of total alienation
+> It is very common for one joint tenant to ‘buy out’ another. The sale will have the effect of severing the equitable joint tenancy and the purchaser will acquire the interest as a tenant in common. The legal title will remain unaffected as the legal joint tenancy cannot be severed. Imagine that A B C and D own property as beneficial joint tenants. B has been offered a job in another city and sells his equitable interest to C.
+> 
+> Position before the sale: the usual rules on co-ownership operate and ABC & D are legal joint tenants holding the property on trust for themselves as equitable joint tenants.
+> 
+> Position after the sale: ABC & D continue as legal joint tenants as the legal title cannot be severed. B’s equitable interest is severed on sale to C, who holds it as a tenant in common. C remains a joint tenant with A & D as to the remaining equitable title.
 
-Position before the sale: the usual rules on co-ownership operate and ABC & D are legal joint tenants holding the property on trust for themselves as equitable joint tenants.
-
-Position after the sale: ABC & D continue as legal joint tenants as the legal title cannot be severed. B’s equitable interest is severed on sale to C, who holds it as a tenant in common. C remains a joint tenant with A & D as to the remaining equitable title.
-```
-
-```ad-example
-title:Mortgage as an act of partial alienation
-Most property purchases are funded by mortgage finance. Where all legal joint tenants act together to create a legal mortgage or charge over the property as security for a loan, this does not result in severance, because the joint tenants are charging the legal estate. The equitable estate remains unaffected.
-
-If an equitable joint tenant mortgages his/her equitable interest, that will be an act of severance, resulting in a tenancy in common.
-
-Where one joint tenant fraudulently tries to mortgage/sell the entire property. In this case, the disposition is deemed to be a mortgage/sale of the equitable interest.
-```
+> [!example] Mortgage as an act of partial alienation
+> Most property purchases are funded by mortgage finance. Where all legal joint tenants act together to create a legal mortgage or charge over the property as security for a loan, this does not result in severance, because the joint tenants are charging the legal estate. The equitable estate remains unaffected.
+> 
+> If an equitable joint tenant mortgages his/her equitable interest, that will be an act of severance, resulting in a tenancy in common.
+> 
+> Where one joint tenant fraudulently tries to mortgage/sell the entire property. In this case, the disposition is deemed to be a mortgage/sale of the equitable interest.
 
 See [[First National Security v Hegarty [1985] QB 850]]
 
@@ -1786,17 +1708,16 @@ In [[Burgess v Rawnsley [1975] Ch 429]], Sir John Pennycuick acknowledged that s
 
 See [[Gore and Snell v Carpenter [1990] 60 P&CR 456]] and [[Davis v Smith [2011] EWCA Civ 1603]].
 
-```ad-summary
-**Law of Property Act 1925, s 36(2)** states that an equitable joint tenancy can be severed by ‘other acts or things…’.
-
-According to the case of **Williams v Hensman** this behaviour can be unilateral acts, mutual agreement or mutual conduct.
-
-Examples of unilateral acts operating on a share include selling, mortgaging, or gifting a share; or being declared bankrupt.
-
-Severance by mutual agreement occurs when the joint tenants all agree, expressly or impliedly, to change the basis on which they continue to hold the equitable title to the property
-
-Severance by mutual conduct may occur when the parties embark on a ‘course of dealings’ which demonstrates that they are treating their shares in the property as separate. This may cover ongoing negotiations, but it is unclear exactly what will suffice here.
-```
+> [!summary]
+> **Law of Property Act 1925, s 36(2)** states that an equitable joint tenancy can be severed by ‘other acts or things…’.
+> 
+> According to the case of **Williams v Hensman** this behaviour can be unilateral acts, mutual agreement or mutual conduct.
+> 
+> Examples of unilateral acts operating on a share include selling, mortgaging, or gifting a share; or being declared bankrupt.
+> 
+> Severance by mutual agreement occurs when the joint tenants all agree, expressly or impliedly, to change the basis on which they continue to hold the equitable title to the property
+> 
+> Severance by mutual conduct may occur when the parties embark on a ‘course of dealings’ which demonstrates that they are treating their shares in the property as separate. This may cover ongoing negotiations, but it is unclear exactly what will suffice here.
 
 #### Bevan
 
@@ -1866,35 +1787,32 @@ One of the most important brakes on the trustee’s powers is contained in [TLAT
 
 This means that if the trustees wish to sell the property they are obliged to consult the beneficiaries, but need not give effect to their wishes unless it is deemed to be in the general interest of the trust.
 
-```ad-statute
-title: s 6 TLATA 1996
-(1) For the purpose of exercising their functions as trustees, the trustees of land have in relation to the land subject to the trust all the powers of an absolute owner.
+> [!statute] s 6 TLATA 1996
+> (1) For the purpose of exercising their functions as trustees, the trustees of land have in relation to the land subject to the trust all the powers of an absolute owner.
+> 
+> (2) Where in the case of any land subject to a trust of land each of the beneficiaries interested in the land is a person of full age and capacity who is absolutely entitled to the land, the powers conferred on the trustees by subsection (1) include the power to convey the land to the beneficiaries even though they have not required the trustees to do so; and where land is conveyed by virtue of this subsection—
+> 
+> - (a) the beneficiaries shall do whatever is necessary to secure that it vests in them, and
+> 
+> - (b) if they fail to do so, the court may make an order requiring them to do so.
+> 
+> (3) The trustees of land have power to acquire land under the power conferred by section 8 of the Trustee Act 2000.
+> 
+> (5) In exercising the powers conferred by this section trustees shall have regard to the rights of the beneficiaries.
+> 
+> (6) The powers conferred by this section shall not be exercised in contravention of, or of any order made in pursuance of, any other enactment or any rule of law or equity.
+> 
+> (7) The reference in subsection (6) to an order includes an order of any court or of the Charity Commission.
+> 
+> (8) Where any enactment other than this section confers on trustees authority to act subject to any restriction, limitation or condition, trustees of land may not exercise the powers conferred by this section to do any act which they are prevented from doing under the other enactment by reason of the restriction, limitation or condition.
+> 
+> (9) The duty of care under section 1 of the Trustee Act 2000 applies to trustees of land when exercising the powers conferred by this section.
 
-(2) Where in the case of any land subject to a trust of land each of the beneficiaries interested in the land is a person of full age and capacity who is absolutely entitled to the land, the powers conferred on the trustees by subsection (1) include the power to convey the land to the beneficiaries even though they have not required the trustees to do so; and where land is conveyed by virtue of this subsection—
-
-- (a) the beneficiaries shall do whatever is necessary to secure that it vests in them, and
-
-- (b) if they fail to do so, the court may make an order requiring them to do so.
-
-(3) The trustees of land have power to acquire land under the power conferred by section 8 of the Trustee Act 2000.
-
-(5) In exercising the powers conferred by this section trustees shall have regard to the rights of the beneficiaries.
-
-(6) The powers conferred by this section shall not be exercised in contravention of, or of any order made in pursuance of, any other enactment or any rule of law or equity.
-
-(7) The reference in subsection (6) to an order includes an order of any court or of the Charity Commission.
-
-(8) Where any enactment other than this section confers on trustees authority to act subject to any restriction, limitation or condition, trustees of land may not exercise the powers conferred by this section to do any act which they are prevented from doing under the other enactment by reason of the restriction, limitation or condition.
-
-(9) The duty of care under section 1 of the Trustee Act 2000 applies to trustees of land when exercising the powers conferred by this section.
-```
-
-```ad-summary
-Trustees - hold legal title
-- Have the powers of an absolute owner (s 6(1)) but must have regard to the rights of the beneficiaries (s 6(5))
-- Duty of care imposed in s 6(9) and Trustee Act 2000 s 1
-- Duty to consult beneficiaries of full age and give effect to the wishes of those beneficiaries or, in the case of a dispute, to the wishes of the majority by value of the combined interests.
-```
+> [!summary]
+> Trustees - hold legal title
+> - Have the powers of an absolute owner (s 6(1)) but must have regard to the rights of the beneficiaries (s 6(5))
+> - Duty of care imposed in s 6(9) and Trustee Act 2000 s 1
+> - Duty to consult beneficiaries of full age and give effect to the wishes of those beneficiaries or, in the case of a dispute, to the wishes of the majority by value of the combined interests.
 
 #### Rights of Beneficiaries
 
@@ -1913,19 +1831,17 @@ Beneficiaries have a right to occupy trust property: [TLATA 1996, s 12](https://
 1. It must be shown that the land was intended for occupation by those beneficiaries: TLATA 1996, s 12(1).
 2. It must be shown that the land is suitable for occupation by the particular beneficiaries: TLATA 1996, s 12(2).
 
-```ad-statute
-title: s 12 TLATA 1996
-
-(1) A beneficiary who is beneficially entitled to an interest in possession in land subject to a trust of land is entitled by reason of his interest to occupy the land at any time if at that time—
-
-- (a) the purposes of the trust include making the land available for his occupation (or for the occupation of beneficiaries of a class of which he is a member or of beneficiaries in general), or
-
-- (b) the land is held by the trustees so as to be so available.
-
-(2) Subsection (1) does not confer on a beneficiary a right to occupy land if it is either unavailable or unsuitable for occupation by him.
-
-(3) This section is subject to section 13.
-```
+> [!statute] s 12 TLATA 1996
+> 
+> (1) A beneficiary who is beneficially entitled to an interest in possession in land subject to a trust of land is entitled by reason of his interest to occupy the land at any time if at that time—
+> 
+> - (a) the purposes of the trust include making the land available for his occupation (or for the occupation of beneficiaries of a class of which he is a member or of beneficiaries in general), or
+> 
+> - (b) the land is held by the trustees so as to be so available.
+> 
+> (2) Subsection (1) does not confer on a beneficiary a right to occupy land if it is either unavailable or unsuitable for occupation by him.
+> 
+> (3) This section is subject to section 13.
 
 It is clear from above that where a couple owns a home jointly, each will have the right to occupy it, as the property is both intended and suitable for occupation by them.
 
@@ -1945,11 +1861,10 @@ If a beneficiary is already in occupation of the land, the trustees cannot exerc
 
 These provisions weaken the apparently strong right to occupy considerably.
 
-```ad-summary
-Beneficiaries - hold Equitable title
-- Right to be consulted if 18+ (s 11)
-- Right to occupy the land (s 12) if the land was intended for and is suitable for occupation, but can be restricted if two or more beneficiaries have the right to occupy (s 13). Conditions can also be imposed, such as paying outgoings.
-```
+> [!summary]
+> Beneficiaries - hold Equitable title
+> - Right to be consulted if 18+ (s 11)
+> - Right to occupy the land (s 12) if the land was intended for and is suitable for occupation, but can be restricted if two or more beneficiaries have the right to occupy (s 13). Conditions can also be imposed, such as paying outgoings.
 
 ### Dispute Resolution
 
@@ -1965,19 +1880,17 @@ Trusts of Land and Appointment of Trustees Act 1996 (TLATA 1996) does not simply
 
 [TLATA 1996, s 14](https://www.legislation.gov.uk/ukpga/1996/47/section/14) gives courts jurisdiction to hear applications regarding disputes which involve co-owned land. Anyone with an interest in the land can apply to the court for an order relating to it.
 
-```ad-statute
-title: s 14 TLATA 1996
-(1) Any person who is a trustee of land or has an interest in property subject to a trust of land may make an application to the court for an order under this section.
-
-(2) On an application for an order under this section the court may make any such order—
-- (a) relating to the exercise by the trustees of any of their functions (including an order relieving them of any obligation to obtain the consent of, or to consult, any person in connection with the exercise of any of their functions), or
-- (b) declaring the nature or extent of a person’s interest in property subject to the trust,
-as the court thinks fit.
-
-(3) The court may not under this section make any order as to the appointment or removal of trustees.
-
-(4) The powers conferred on the court by this section are exercisable on an application whether it is made before or after the commencement of this Act.
-```
+> [!statute] s 14 TLATA 1996
+> (1) Any person who is a trustee of land or has an interest in property subject to a trust of land may make an application to the court for an order under this section.
+> 
+> (2) On an application for an order under this section the court may make any such order—
+> - (a) relating to the exercise by the trustees of any of their functions (including an order relieving them of any obligation to obtain the consent of, or to consult, any person in connection with the exercise of any of their functions), or
+> - (b) declaring the nature or extent of a person’s interest in property subject to the trust,
+> as the court thinks fit.
+> 
+> (3) The court may not under this section make any order as to the appointment or removal of trustees.
+> 
+> (4) The powers conferred on the court by this section are exercisable on an application whether it is made before or after the commencement of this Act.
 
 - Applicants could be trustees; beneficiaries; mortgagees of the legal or equitable title; trustees in bankruptcy; people who hold charging orders etc.
 - The court may order trustees to do something eg: sell; or allow a beneficiary into occupation. It cannot order one beneficiary to ‘buy out’ the another
@@ -1987,28 +1900,25 @@ as the court thinks fit.
 
 The court must apply all factors in [s 15 TLATA 1996](https://www.legislation.gov.uk/ukpga/1996/47/section/15) in reaching its decision in relation to s 14 applications. It cannot pick and choose which factors to apply: all relevant factors must be considered equally. Each must be considered carefully and a decision made as to whether it leans towards granting an application for, say, an order for sale, or against it.
 
-```ad-statute
-title: s 15 TLATA 1996
-(1) The matters to which the court is to have regard in determining an application for an order under section 14 include—
-- (a) the intentions of the person or persons (if any) who created the trust,
-- (b) the purposes for which the property subject to the trust is held,
-- (c) the welfare of any minor who occupies or might reasonably be expected to occupy any land subject to the trust as his home, and
-- (d) the interests of any secured creditor of any beneficiary.
-
-(2) In the case of an application relating to the exercise in relation to any land of the powers conferred on the trustees by section 13, the matters to which the court is to have regard also include the circumstances and wishes of each of the beneficiaries who is (or apart from any previous exercise by the trustees of those powers would be) entitled to occupy the land under section 12.
-
-(3) In the case of any other application, other than one relating to the exercise of the power mentioned in section 6(2), the matters to which the court is to have regard also include the circumstances and wishes of any beneficiaries of full age and entitled to an interest in possession in property subject to the trust or (in case of dispute) of the majority (according to the value of their combined interests).
-
-(4) This section does not apply to an application if section 335A of the M1Insolvency Act 1986 (which is inserted by Schedule 3 and relates to applications by a trustee of a bankrupt) applies to it.
-```
+> [!statute] s 15 TLATA 1996
+> (1) The matters to which the court is to have regard in determining an application for an order under section 14 include—
+> - (a) the intentions of the person or persons (if any) who created the trust,
+> - (b) the purposes for which the property subject to the trust is held,
+> - (c) the welfare of any minor who occupies or might reasonably be expected to occupy any land subject to the trust as his home, and
+> - (d) the interests of any secured creditor of any beneficiary.
+> 
+> (2) In the case of an application relating to the exercise in relation to any land of the powers conferred on the trustees by section 13, the matters to which the court is to have regard also include the circumstances and wishes of each of the beneficiaries who is (or apart from any previous exercise by the trustees of those powers would be) entitled to occupy the land under section 12.
+> 
+> (3) In the case of any other application, other than one relating to the exercise of the power mentioned in section 6(2), the matters to which the court is to have regard also include the circumstances and wishes of any beneficiaries of full age and entitled to an interest in possession in property subject to the trust or (in case of dispute) of the majority (according to the value of their combined interests).
+> 
+> (4) This section does not apply to an application if section 335A of the M1Insolvency Act 1986 (which is inserted by Schedule 3 and relates to applications by a trustee of a bankrupt) applies to it.
 
 When we are considering co-owned land, we need not be concerned with the factor in **TLATA 1996, s 15(a)** as this relates to expressly created lifetime trusts, or will trusts, and not to everyday co-ownership. It is where someone sits down to bequeath their assets through a trust to create wealth for their family. TLATA 1996, s 15(b) requires the court to consider: "the purposes for which the property subject to the trust is held".
 
 If that purpose is still continuing, it will weigh against an order for sale being made. The contrasting cases [[In re Ever’s Trust [1980] 1 WLR 1327]] and [[Jones v Challenger [1961] 1 QB 176]] illustrate this.
 
-```ad-note
-These cases were decided under a different statutory regime, before TLATA 1996 came into force, but there is no reason to think that, were they to be decided today, the outcome would be any different.
-```
+> [!note]
+> These cases were decided under a different statutory regime, before TLATA 1996 came into force, but there is no reason to think that, were they to be decided today, the outcome would be any different.
 
 ##### S 15(c)
 
@@ -2032,17 +1942,16 @@ Further cases:
 
 Finally, do not forget the general sweeper in s 15(3). The court must have regard to the wishes of the beneficiaries who are over 18. If there is a dispute, the court shall have regard to the majority (in respect of value of interest held.)
 
-```ad-summary
-**TLATA 1996 s 14** allows anyone with an interest in land to apply to the court for an order in relation to that land.
-
-The usual form of order requested is an order for sale of the property, which can be postponed for a period of time.
-
-In making its decision, the court must have regard to the criteria in **TLATA 1996, s 15.**
-
-All criteria should be weighed even-handedly: the purpose for which the land was bought; the interests of minors; the interests of secured creditors; and the circumstances and wishes of beneficiaries of full age.
-
-In practice, greater weight tends to be given to the interests of creditors, especially where the debt has spiralled out of control, or there is sufficient equity in the property to purchase an alternative.
-```
+> [!summary]
+> **TLATA 1996 s 14** allows anyone with an interest in land to apply to the court for an order in relation to that land.
+> 
+> The usual form of order requested is an order for sale of the property, which can be postponed for a period of time.
+> 
+> In making its decision, the court must have regard to the criteria in **TLATA 1996, s 15.**
+> 
+> All criteria should be weighed even-handedly: the purpose for which the land was bought; the interests of minors; the interests of secured creditors; and the circumstances and wishes of beneficiaries of full age.
+> 
+> In practice, greater weight tends to be given to the interests of creditors, especially where the debt has spiralled out of control, or there is sufficient equity in the property to purchase an alternative.
 
 When land is co-owned, owned under a trust of land.
 
@@ -2057,9 +1966,8 @@ Summary of conduct issues most likely to be encountered in a conveyancing transa
 
 ## Acting for Seller and Buyer
 
-```ad-question
-Can a solicitor act for both the buyer and seller in a conveyancing transaction?
-```
+> [!question]
+> Can a solicitor act for both the buyer and seller in a conveyancing transaction?
 
 Occasionally, the parties to a conveyancing transaction ask if one solicitor or one firm of solicitors can act for both parties. The parties usually request this as a way of saving duplication of time and expense.
 
@@ -2089,11 +1997,10 @@ If there is a conflict, or a significant risk of one, the solicitor or firm can 
 - The other exception to the general prohibition in para 6.2 is contained in para 6.2(b) and applies when the clients are competing for the same objective.
 	- This cannot apply to a seller and buyer in a conveyancing transaction as they are not competing for the same asset and therefore do not satisfy the definition of ‘competing for the same objective’.
 
-```ad-summary
-So a solicitor or firm may only act for both parties in a conveyancing transaction in the rare instances where they are satisfied that there is no existing conflict of interest and no significant risk of a conflict arising in future, or there is a conflict of interest but the parties share a substantially common interest. This will be difficult to establish where the land or interest in land is being transferred for value.
-
-Many solicitors and firms therefore take the view that it is best never to act for both buyer and seller in a property transaction, even where this could be justified under the SRA Codes.
-```
+> [!summary]
+> So a solicitor or firm may only act for both parties in a conveyancing transaction in the rare instances where they are satisfied that there is no existing conflict of interest and no significant risk of a conflict arising in future, or there is a conflict of interest but the parties share a substantially common interest. This will be difficult to establish where the land or interest in land is being transferred for value.
+> 
+> Many solicitors and firms therefore take the view that it is best never to act for both buyer and seller in a property transaction, even where this could be justified under the SRA Codes.
 
 ### Steps to Take if You Act
 
@@ -2114,32 +2021,27 @@ It is usually acceptable to act for joint buyers. It may be necessary to advise 
 
 As soon as the buyer’s solicitor receives instructions to act for the lender, they are effectively acting for both parties in one transaction (i.e., for both lender and borrower). They have two clients and owe a duty to both (see [[Mortgage Express v Bowerman & Partners (A Firm) [1996] 2 All ER 836]]). Acting for borrower and lender is possible unless, under para 6.2 of the SRA Codes, the solicitor or firm has a conflict of interest or a significant risk of a conflict.
 
-```ad-question
-title: When might there be a conflict between a buyer and lender?
-1. The terms of the mortgage offer are unfair to the borrower (e.g., an extortionate rate of interest is being charged);
-2. Instructions reveal that the buyer would be in breach of one of the terms of the offer (e.g., by allowing tenants into possession of the property);
-3. The buyer is unable to comply with the lender’s terms (e.g., to provide the balance of the purchase price from his own funds);
-4. The mortgage documentation requires negotiation between the parties (but see below). 
-```
+> [!question] When might there be a conflict between a buyer and lender?
+> 1. The terms of the mortgage offer are unfair to the borrower (e.g., an extortionate rate of interest is being charged);
+> 2. Instructions reveal that the buyer would be in breach of one of the terms of the offer (e.g., by allowing tenants into possession of the property);
+> 3. The buyer is unable to comply with the lender’s terms (e.g., to provide the balance of the purchase price from his own funds);
+> 4. The mortgage documentation requires negotiation between the parties (but see below). 
 
 Note that (4) is more finely balanced. In residential transactions, the borrower will often be borrowing from a high street bank or building society, where the mortgage is offered on standard terms and conditions. Arguably, there is either no conflict of interest or, if there is, there is a ‘substantially common interest’ under para 6.2 in that both the borrower and the lender want a good and marketable title to the property to be acquired.
 
-```ad-guid
-title: Law Society guidance (June 2020) 
-It may be acceptable to act for both borrower and lender where:
-1. the mortgage is on standard terms, 
-2. a significant part of the lender’s activities consists of lending, 
-3. the mortgaged property is the borrower’s private residence and 
-4. the certificate of title required by the lender is in the form approved by the Law Society and UK Finance.
-
-The risk of conflict is high ‘if the mortgage is not a standard mortgage … of property to be used as the borrower’s private residence’.
-```
+> [!guid] Law Society guidance (June 2020)
+> It may be acceptable to act for both borrower and lender where:
+> 1. the mortgage is on standard terms, 
+> 2. a significant part of the lender’s activities consists of lending, 
+> 3. the mortgaged property is the borrower’s private residence and 
+> 4. the certificate of title required by the lender is in the form approved by the Law Society and UK Finance.
+> 
+> The risk of conflict is high ‘if the mortgage is not a standard mortgage … of property to be used as the borrower’s private residence’.
 
 Sometimes, the lender may ask the borrower’s solicitor to act for both the lender and the borrower on the title investigation and searches and enquiries but instruct its own solicitors to negotiate the loan documentation.
 
-```ad-warning
-If a solicitor is aware that their buyer client is attempting to perpetrate a mortgage fraud, they must stop acting for that client immediately and their duty of confidentiality to the buyer client is discharged. 
-```
+> [!warning]
+> If a solicitor is aware that their buyer client is attempting to perpetrate a mortgage fraud, they must stop acting for that client immediately and their duty of confidentiality to the buyer client is discharged. 
 
 ## Acting for Joint Borrowers
 
@@ -2147,14 +2049,12 @@ Provided no conflict of interest exists or is likely to exist, there is no rule 
 
 The House of Lords, in the case of [[RBS v Etridge (No 2) [2002] 2 AC 773]] laid down detailed guidance for solicitors acting in such a situation.
 
-```ad-summary
-title: Recall
-- The burden of proof that a landowner entered into a charge because of undue influence rests on the landowner.
-- Where there is a special relationship (parent and child; solicitor and client; but not husband and wife), there is a rebuttable presumption that there has been undue influence.
-- In the case of husband and wife, there is no such presumption. However, where a wife proposes to charge the matrimonial home as a security for a bank loan to her husband, or to a company through which he operates his business, a lender is put on enquiry because, prima facie, such transaction is not to the wife’s advantage.
-- Where the lender is put on such enquiry, it need do no more than take reasonable steps to satisfy itself that the practical implications of the proposed transaction have been explained and understood. 
-- This usually involves hiring a solicitor to advise the wife. 
-```
+> [!summary] Recall
+> - The burden of proof that a landowner entered into a charge because of undue influence rests on the landowner.
+> - Where there is a special relationship (parent and child; solicitor and client; but not husband and wife), there is a rebuttable presumption that there has been undue influence.
+> - In the case of husband and wife, there is no such presumption. However, where a wife proposes to charge the matrimonial home as a security for a bank loan to her husband, or to a company through which he operates his business, a lender is put on enquiry because, prima facie, such transaction is not to the wife’s advantage.
+> - Where the lender is put on such enquiry, it need do no more than take reasonable steps to satisfy itself that the practical implications of the proposed transaction have been explained and understood. 
+> - This usually involves hiring a solicitor to advise the wife. 
 
 Solicitor should ensure to:
 
@@ -2163,13 +2063,11 @@ Solicitor should ensure to:
 - Explain wife has a choice
 - Check whether wife wants the solicitor to write to the lender confirming that matters have been explained to her.
 
-```ad-question
-title: What if the solicitor thinks the transaction is not in the best interests of the wife?
-- They should give reasoned advice to that effect.
-- Ultimately the decision is for the wife. 
-- The Etridge guidelines on what advice should be given and how it should be given must be followed, even where a wife insists on a very short meeting and appears determined to proceed regardless of the solicitor’s advice ([[Padden v Bevan Ashford Solicitors [2011] EWCA Civ 1616]]). 
-- If it is ‘glaringly obvious’ that the wife is being ‘grievously wronged’, the solicitor should decline to act.
-```
+> [!question] What if the solicitor thinks the transaction is not in the best interests of the wife?
+> - They should give reasoned advice to that effect.
+> - Ultimately the decision is for the wife. 
+> - The Etridge guidelines on what advice should be given and how it should be given must be followed, even where a wife insists on a very short meeting and appears determined to proceed regardless of the solicitor’s advice ([[Padden v Bevan Ashford Solicitors [2011] EWCA Civ 1616]]). 
+> - If it is ‘glaringly obvious’ that the wife is being ‘grievously wronged’, the solicitor should decline to act.
 
 If a solicitor or firm is satisfied that it can act under the SRA Codes, there is no rule
 
@@ -2177,9 +2075,8 @@ of law preventing one solicitor acting for both the husband and wife. The same p
 
 ## Contract Races
 
-```ad-defn
-A contract race occurs when a seller enters into the conveyancing process with two or more prospective buyers at the same time. The buyers are competing with each other, and the winner of the race is the buyer who is ready to exchange contracts first.
-```
+> [!defn]
+> A contract race occurs when a seller enters into the conveyancing process with two or more prospective buyers at the same time. The buyers are competing with each other, and the winner of the race is the buyer who is ready to exchange contracts first.
 
 ### Disclosure
 
@@ -2196,10 +2093,8 @@ The solicitor must explain to the client that they are required to comply with t
 
 If the seller wants to proceed with the contract race, having obtained his client’s authority, the seller’s solicitor should disclose the seller’s decision to conduct a contract race direct to the solicitor acting for each prospective buyer, or, where no solicitor is acting, to the prospective buyer(s) in person.
 
-```ad-question
-title: What if the seller refuses to allow the solicitor to notify all prospective buyers?
-If the seller refuses to allow the solicitor to notify all the prospective buyers of the contract race, the solicitor cannot disclose the contract race to the prospective buyers as they have a duty of confidentiality to their client under para 6.3. Instead, if they consider that paras 1.2 or 1.4 would be breached by the non-disclosure, they must decline to act to avoid breaching Principle 2 (acting with integrity).
-```
+> [!question] What if the seller refuses to allow the solicitor to notify all prospective buyers?
+> If the seller refuses to allow the solicitor to notify all the prospective buyers of the contract race, the solicitor cannot disclose the contract race to the prospective buyers as they have a duty of confidentiality to their client under para 6.3. Instead, if they consider that paras 1.2 or 1.4 would be breached by the non-disclosure, they must decline to act to avoid breaching Principle 2 (acting with integrity).
 
 In certain circumstances, it may be possible to act under the exception in para 6.2(b), as the clients have a conflict of interest but are competing for the same objective, particularly where the clients are sophisticated users of legal services and effective safeguards, such as information barriers, can be put in place, as this will make it more likely that the conditions in para 6.2(i)–(iii) have been complied with.
 
@@ -2211,9 +2106,8 @@ If the seller gets a better offer and withdraws acceptable of the first offer, t
 
 See [[Intro to Professional Practice/Professional Conduct and Regulation/Undertakings]].
 
-```ad-defn
-An undertaking is a statement, made by a solicitor or their firm, that the solicitor or the firm will do something or cause something to be done, or refrain from doing something, given to someone who reasonably places reliance on it.
-```
+> [!defn]
+> An undertaking is a statement, made by a solicitor or their firm, that the solicitor or the firm will do something or cause something to be done, or refrain from doing something, given to someone who reasonably places reliance on it.
 
 In conveyancing contexts where it is standard practice for a solicitor to give an undertaking, The Law Society has agreed standard wording for undertakings.
 
@@ -2221,10 +2115,9 @@ All the general rules on undertakings apply equally in the context of conveyanci
 
 Failure to honour an undertaking constitutes professional misconduct.
 
-```ad-warning
-Unlike an undertaking given by an
-individual solicitor or a traditional partnership, an undertaking given by an incorporated law firm is not capable of being enforced under the court’s supervisory jurisdiction over solicitors as officers of the court ([[Harcus Sinclair v Your Lawyers [2021] UKSC 32]]). However, it may be enforceable as a contract (or deed), by an action for breach of trust or negligence or in professional disciplinary proceedings.
-```
+> [!warning]
+> Unlike an undertaking given by an
+> individual solicitor or a traditional partnership, an undertaking given by an incorporated law firm is not capable of being enforced under the court’s supervisory jurisdiction over solicitors as officers of the court ([[Harcus Sinclair v Your Lawyers [2021] UKSC 32]]). However, it may be enforceable as a contract (or deed), by an action for breach of trust or negligence or in professional disciplinary proceedings.
 
 ## Dealing with Non-solicitors
 
@@ -2252,18 +2145,16 @@ However, in such a situation, the solicitor must bear in mind that the interests
 - **Great care must be taken not to create a contractual relationship with the unrepresented opponent** (thereby putting the solicitor in breach of para 6.2 of the SRA Codes), or to become involved in possible breaches of the Legal Services Act 2007.
 	- i.e., don't want to create a contract to be the opponent's solicitor implied through conduct
 
-```ad-guid
-Where a transaction is over £5,000 in value and one of the parties is unrepresented, Land Registry requires a solicitor making certain applications (including applications to register a transfer or discharge a mortgage) to provide certified details and evidence of the unrepresented party’s identity.
-```
+> [!guid]
+> Where a transaction is over £5,000 in value and one of the parties is unrepresented, Land Registry requires a solicitor making certain applications (including applications to register a transfer or discharge a mortgage) to provide certified details and evidence of the unrepresented party’s identity.
 
 ## Money Laundering
 
 See [[Money Laundering]].
 
-```ad-defn
-Money laundering is the conversion, concealment or disguise of the
-proceeds of crime, so as to make it appear that they come from a legitimate source.
-```
+> [!defn]
+> Money laundering is the conversion, concealment or disguise of the
+> proceeds of crime, so as to make it appear that they come from a legitimate source.
 
 Firms must:
 
@@ -2271,19 +2162,17 @@ Firms must:
 - Appoint a nominated officer
 - Obtain verification of the identity of each of the firm's clients.
 
-```ad-guid
-The Legal Sector Affinity Group, the anti-money laundering supervisors for the legal sector, issues guidance on anti-money laundering for the legal profession.
-```
+> [!guid]
+> The Legal Sector Affinity Group, the anti-money laundering supervisors for the legal sector, issues guidance on anti-money laundering for the legal profession.
 
 ## Mortgage Fraud
 
 Mortgage fraud occurs where individuals defraud a lender through the mortgage process.
 
-```ad-example
-- The borrower overstates his income in order to obtain a higher mortgage,
-- A husband forges his wife’s signature
-- The price shown in the transfer is not the price actually paid by the buyer.
-```
+> [!example]
+> - The borrower overstates his income in order to obtain a higher mortgage,
+> - A husband forges his wife’s signature
+> - The price shown in the transfer is not the price actually paid by the buyer.
 
 Potential consequences for a solicitor in acting/ continuing to act for a client committing mortgage fraud:
 
@@ -2296,9 +2185,8 @@ Potential consequences for a solicitor in acting/ continuing to act for a client
 
 The duty of confidentiality to the borrower is discharged only where the solicitor is satisfied of a strong prima facie case that the borrower is using them to further a fraud or other criminal purpose.
 
-```ad-guid
-The Law Society suggests that this test may be satisfied if a client makes a deliberate misrepresentation on their mortgage application.
-```
+> [!guid]
+> The Law Society suggests that this test may be satisfied if a client makes a deliberate misrepresentation on their mortgage application.
 
 If the duty of confidentiality is not released, the solicitor should return the mortgage documents to the lender, stating only that they are ceasing to act due to professional reasons. In practice, this may result in the lender withdrawing its mortgage offer.
 
@@ -2444,9 +2332,8 @@ When an exempt supply is made, any input tax incurred in connection with that su
 
 Notification of the option to HMRC is necessary for it to be effective.
 
-```ad-note
-If the option to tax is exercised, tax is chargeable at standard rate. 
-```
+> [!note]
+> If the option to tax is exercised, tax is chargeable at standard rate. 
 
 ### Residential Properties
 
@@ -2493,15 +2380,14 @@ If VAT is chargeable in a property transaction, it is necessary to ensure that t
 
 Seller has the option to tax. If the option to tax is exercised, see above for impact of standard conditions.
 
-```ad-action
-The buyer should be warned of the dangers of the seller opting to tax prior to completion in respect of an old commercial building. Consider:
-1. Incorporating condition A1 in Part 2 of SCPCs.
-	-  Provides that the sale does not constitute a supply for VAT purposes and the seller will not opt to tax. 
-	- Exception: A1.3: if there is a change in law between exchange and completion that makes the sale of the property a VATable supply, the buyer will have to pay VAT. 
-2. Incorporating a special condition that disapplies SCPC 2 and provides that the purchase price is inclusive of VAT. 
-	- Eliminates the risk of the exception above
-	- But seller may not agree. 
-```
+> [!action]
+> The buyer should be warned of the dangers of the seller opting to tax prior to completion in respect of an old commercial building. Consider:
+> 1. Incorporating condition A1 in Part 2 of SCPCs.
+> 	-  Provides that the sale does not constitute a supply for VAT purposes and the seller will not opt to tax. 
+> 	- Exception: A1.3: if there is a change in law between exchange and completion that makes the sale of the property a VATable supply, the buyer will have to pay VAT. 
+> 2. Incorporating a special condition that disapplies SCPC 2 and provides that the purchase price is inclusive of VAT. 
+> 	- Eliminates the risk of the exception above
+> 	- But seller may not agree. 
 
 #### Commercial Lease
 
@@ -2580,10 +2466,9 @@ ATED chargeable on companies, collective investment vehicles and partnerships wh
 
 Required for any activity constituting 'development'.
 
-```ad-defn
-1. The carrying out of building, engineering, mining or other operations in, on, over or under land. This can include the erection of new buildings and alteration to existing buildings; and/or
-2. The making of any material change in the use of any buildings or other land.
-```
+> [!defn]
+> 1. The carrying out of building, engineering, mining or other operations in, on, over or under land. This can include the erection of new buildings and alteration to existing buildings; and/or
+> 2. The making of any material change in the use of any buildings or other land.
 
 Material is a question of fact and degree in each case.
 
@@ -2619,11 +2504,10 @@ Note:
 	- Extension/ alteration of an office building, shop, financial or professional services establishment, industrial unit or warehouse.
 		- Subject to restrictions.
 
-```ad-warning
-- Consider conditions imposed under GPDO
-- Rights may be excluded/ varied in certain areas, e.g., conservation areas or areas of outstanding natural beauty. 
-- LPA has the power to restrict GPDO in its area ("Article 4 Direction").
-```
+> [!warning]
+> - Consider conditions imposed under GPDO
+> - Rights may be excluded/ varied in certain areas, e.g., conservation areas or areas of outstanding natural beauty. 
+> - LPA has the power to restrict GPDO in its area ("Article 4 Direction").
 
 ##### Overlapping LPA Powers
 
@@ -2713,9 +2597,8 @@ Include:
 	- Recipient cannot appeal.
 - Injunction.
 
-```ad-danger
-Non-compliance with an operative enforcement or other notice is a **criminal** offence.
-```
+> [!danger]
+> Non-compliance with an operative enforcement or other notice is a **criminal** offence.
 
 ## Listed Buildings & Conservation Areas
 
@@ -2757,11 +2640,10 @@ Care must be taken when seller unable to produce proof of compliance:
 - Structural concerns
 	- Could lead to expensive repairs/ remedial work.
 
-```ad-action
-- The buyer should consider asking the seller to obtain a regularisation certificate from the local authority which will list the work required to bring the building up to the correct standard. 
-- Insurance can be obtained in cases where proof of building regulation consent is not forthcoming
-- The buyer’s lender must also be informed of any breach, who may insist on a full survey. 
-```
+> [!action]
+> - The buyer should consider asking the seller to obtain a regularisation certificate from the local authority which will list the work required to bring the building up to the correct standard. 
+> - Insurance can be obtained in cases where proof of building regulation consent is not forthcoming
+> - The buyer’s lender must also be informed of any breach, who may insist on a full survey. 
 
 ## Transactional Matters
 

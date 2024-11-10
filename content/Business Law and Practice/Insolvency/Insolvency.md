@@ -47,17 +47,15 @@ Legislation: IA 1986. Aims of insolvency law:
 3. Promote corporate rescues
 4. Control/ punish directors.
 
-```ad-statute
-title: s 122(1) IA 1986 - Circumstances in which company may be wound up by the court.
-
-A company may be wound up by the court if—
-- (a) the company has by special resolution resolved that the company be wound up by the court,
-- (b) being a public company which was registered as such on its original incorporation, the company has not been issued with a trading certificate under section 761 of the Companies Act 2006 (requirement as to minimum share capital) and more than a year has expired since it was so registered,
-- (c) it is an old public company, within the meaning of the Schedule 3 to the Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009,
-- (d) the company does not commence its business within a year from its incorporation or suspends its business for a whole year;
-- (f) **the company is unable to pay its debts,**
-- (g) the court is of the opinion that it is just and equitable that the company should be wound up.
-```
+> [!statute] s 122(1) IA 1986 - Circumstances in which company may be wound up by the court.
+> 
+> A company may be wound up by the court if—
+> - (a) the company has by special resolution resolved that the company be wound up by the court,
+> - (b) being a public company which was registered as such on its original incorporation, the company has not been issued with a trading certificate under section 761 of the Companies Act 2006 (requirement as to minimum share capital) and more than a year has expired since it was so registered,
+> - (c) it is an old public company, within the meaning of the Schedule 3 to the Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009,
+> - (d) the company does not commence its business within a year from its incorporation or suspends its business for a whole year;
+> - (f) **the company is unable to pay its debts,**
+> - (g) the court is of the opinion that it is just and equitable that the company should be wound up.
 
 Test | Description
 ---|---
@@ -93,9 +91,8 @@ As well as the above, a secured creditor can:
 - Appoint an LPA receiver
 - Appoint an administrative receiver (if security for the debt was created before 15/09/03)
 
-```ad-warning
-If serving a statutory demand, the secured creditor must be careful to only serve this for the unsecured element of the debt, else it may lose its security. 
-```
+> [!warning]
+> If serving a statutory demand, the secured creditor must be careful to only serve this for the unsecured element of the debt, else it may lose its security. 
 
 # Directors' Duties on Insolvency
 
@@ -238,14 +235,12 @@ Recall that under fraudulent trading, a claim could be brought against any perso
 
 ### Requirements for Liability
 
-```ad-tip
-title:Wrongful Trading (s 214(2)/246ZB(2))
-
-For a director to be liable for wrongful trading, the court must be satisfied that the company has gone into insolvent [[Liquidation]] or insolvent administration, and 
-1. At some time before the commencement of the winding up or insolvent administration (for convenience, that time is referred to as the ‘point of no return’)
-2. The director knew or ought to have concluded that
-3. There was no reasonable prospect that the company would avoid going into insolvent [[liquidation]] (or insolvent administration).
-```
+> [!tip] Wrongful Trading (s 214(2)/246ZB(2))
+> 
+> For a director to be liable for wrongful trading, the court must be satisfied that the company has gone into insolvent [[Liquidation]] or insolvent administration, and 
+> 1. At some time before the commencement of the winding up or insolvent administration (for convenience, that time is referred to as the ‘point of no return’)
+> 2. The director knew or ought to have concluded that
+> 3. There was no reasonable prospect that the company would avoid going into insolvent [[liquidation]] (or insolvent administration).
 
 For these purposes, a company goes into insolvent liquidation/ administration at a time when its assets are insufficient for the payment of its debts and other liabilities, and the expenses of the winding up/ administration (s 214(6) / 246ZB(6)).
 
@@ -322,9 +317,8 @@ The risk of action for wrongful trading can be of concern to directors, particul
 
 # Liquidation
 
-```ad-defn
-Liquidation is the process by which a company's business is wound up, and its assets transferred to creditors and (if there is a surplus of assets over liabilities) to its members.
-```
+> [!defn]
+> Liquidation is the process by which a company's business is wound up, and its assets transferred to creditors and (if there is a surplus of assets over liabilities) to its members.
 
 Basic steps:
 
@@ -387,9 +381,8 @@ The court will consider all relevant factors and may dismiss the petition if the
 
 If the winding-up petition is accepted and a winding-up order is made, the Official Receiver, a civil servant or court official will automatically become a liquidator. Must decide whether it is appropriate to appoint an insolvency practitioner as liquidator in their place. This will generally be done if $>50\%$ creditors by value choose a private practice insolvency practitioner.
 
-```ad-note
-Where a commercial debt is owed to a landlord and the Commercial Rent (Coronavirus) Act 2020 applies, a legally binding arbitration procss will be available to seek to resolve disputes about pandemic related debt. 
-```
+> [!note]
+> Where a commercial debt is owed to a landlord and the Commercial Rent (Coronavirus) Act 2020 applies, a legally binding arbitration procss will be available to seek to resolve disputes about pandemic related debt. 
 
 ### Consequences of Winding up Order
 
@@ -555,12 +548,11 @@ The appointment may only be made where the order is reasonably likely to achieve
 
 See [[AA Mutual International Insurance Co Ltd [2004] EWHC Ch 1]].
 
-```ad-action
-As soon as reasonably practicable after making the application, the applicant must notify:
-1. any person who has appointed (or is entitled to appoint) an administrative receiver of the company;
-2. any qualifying floating charge holder (QFCH) who may be entitled to appoint an administrator; and
-3. such other persons as may be prescribed by the IR 2016.
-```
+> [!action]
+> As soon as reasonably practicable after making the application, the applicant must notify:
+> 1. any person who has appointed (or is entitled to appoint) an administrative receiver of the company;
+> 2. any qualifying floating charge holder (QFCH) who may be entitled to appoint an administrator; and
+> 3. such other persons as may be prescribed by the IR 2016.
 
 ### Out of Court Procedure
 
@@ -570,26 +562,22 @@ The following parties may appoint an administrator using the out-of-court proced
 - The [[directors]] (Sch B1 para 22(2)); or
 - A [[Qualifying Floating Charge]] holder (Sch B1 para 14)
 
-```ad-defn
-title: Qualifying Floating Charge Holder 'QFCH'
-TLDR: The holder of a floating charge created after 15 September 2003 relating to the whole or substantially the whole of the company's property ([Sch B1 para 14 IA 1986](https://www.legislation.gov.uk/ukpga/1986/45/schedule/B1)). 
-
----
-
-A qualifying floating charge (QFC) is one where the charge document:
-- (a) states that para 14 of Sch B1 to the IA 1986 applies to it and–
-	- (i) purports to empower the holder of the floating charge to appoint an administrator of the company, or
-	- (ii) purports to empower the holder of the floating charge to make an appointment which would be the appointment of an administrative receiver within the meaning given by s 29(2) of the IA 1986; and
-- (b) is a QFC which, on its own or with other security held by the same lender, relates to the whole, or substantially the whole, of the company’s property (para 14(3)).
-```
+> [!defn] Qualifying Floating Charge Holder 'QFCH'
+> TLDR: The holder of a floating charge created after 15 September 2003 relating to the whole or substantially the whole of the company's property ([Sch B1 para 14 IA 1986](https://www.legislation.gov.uk/ukpga/1986/45/schedule/B1)). 
+> 
+> ---
+> 
+> A qualifying floating charge (QFC) is one where the charge document:
+> - (a) states that para 14 of Sch B1 to the IA 1986 applies to it and–
+> 	- (i) purports to empower the holder of the floating charge to appoint an administrator of the company, or
+> 	- (ii) purports to empower the holder of the floating charge to make an appointment which would be the appointment of an administrative receiver within the meaning given by s 29(2) of the IA 1986; and
+> - (b) is a QFC which, on its own or with other security held by the same lender, relates to the whole, or substantially the whole, of the company’s property (para 14(3)).
 
 The most common method of appointing an administrator is by directors using the out-of-court procedure.
 
-```ad-warning
-title: Exception
-
-Directors **cannot** use the out-of-court procedure where a creditor has presented a petition for the winding up of the company. The directors can then apply to court for an administration order, or the qualifying floating charge holder can use the out-of-court procedure to appoint an administrator. 
-```
+> [!warning] Exception
+> 
+> Directors **cannot** use the out-of-court procedure where a creditor has presented a petition for the winding up of the company. The directors can then apply to court for an administration order, or the qualifying floating charge holder can use the out-of-court procedure to appoint an administrator. 
 
 ### Statutory Moratorium
 
@@ -613,12 +601,11 @@ The floating charge must be enforceable, due to the occurrence of some trigger e
 
 It is not possible for a QFCH to appoint an administrator out-of-court under IA 1986, Sch B1, para 14 where there is a provisional liquidator or an administrative receiver already appointed, or the company is already being wound up.
 
-```ad-action
-Notice of appointment has to be filed at court by the lender together with various documents. The notice must include a statutory declaration by the lender to the effect that:
-1. the lender is the holder of a QFC in respect of the company’s property;
-2. the floating charge has become enforceable; and
-3. the appointment is in accordance with IA 1986, Sch B1.
-```
+> [!action]
+> Notice of appointment has to be filed at court by the lender together with various documents. The notice must include a statutory declaration by the lender to the effect that:
+> 1. the lender is the holder of a QFC in respect of the company’s property;
+> 2. the floating charge has become enforceable; and
+> 3. the appointment is in accordance with IA 1986, Sch B1.
 
 Once these documents have been filed at court (and the other parts of Sch B1, para 18 are complied with) the administration begins.
 
@@ -768,9 +755,8 @@ A CVA is binding on all unsecured creditors (as regards past but not future debt
 
 But secured/ preferential creditors are **not** bound unless they unanimously consent to the CVA ([s 4 IA 1986](https://www.legislation.gov.uk/ukpga/1986/45/section/4)).
 
-```ad-note
-There is no statutory moratorium under a CVA, but a company could use the moratorium created by CIGA 2020 while creating a CVA proposal to be voted on. 
-```
+> [!note]
+> There is no statutory moratorium under a CVA, but a company could use the moratorium created by CIGA 2020 while creating a CVA proposal to be voted on. 
 
 ### Using CVAs
 
@@ -833,18 +819,14 @@ The court can sanction a Plan if it is **just and equitable** to do so, even if:
 - It brings about a cramdown of shareholders;
 	- Shareholders are forced to accept the Plan, even if it means diluting equity by creating [[debt-for-equity swaps]].
 
-```ad-test
-title: Cross-class cram down
-Will be ordered when:
-1. Court satisfied that no member of the dissenting classes will be any worse off under the plan than they would have been under the 'relevant alternative'
-2. At least one class that would benefit from the relevant alternative has voted in favour of the plan
-3. The court is prepared to sanction the plan. 
-```
+> [!test] Cross-class cram down
+> Will be ordered when:
+> 1. Court satisfied that no member of the dissenting classes will be any worse off under the plan than they would have been under the 'relevant alternative'
+> 2. At least one class that would benefit from the relevant alternative has voted in favour of the plan
+> 3. The court is prepared to sanction the plan. 
 
-```ad-defn
-title: Relevant alternative
-What the court considers to be most likely to occur if the plan is not sanctioned by the court (usually liquidation). 
-```
+> [!defn] Relevant alternative
+> What the court considers to be most likely to occur if the plan is not sanctioned by the court (usually liquidation). 
 
 #### Usage
 
@@ -960,9 +942,8 @@ This includes the cost of selling assets secured by a floating charge, and the c
 
 The prescribed part fund is calculated by reference to a percentage of the company's net property which is subject to floating charges (50% of the first £10,000 of net floating charge realisations, plus 20% of anything thereafter, up to £800,000 limit). This is set aside for distribution to the company's unsecured creditors ([s 176A IA 1986](https://www.legislation.gov.uk/ukpga/1986/45/section/176)). ‘Net property’ means the proceeds of selling property other than that which is subject to a fixed charge, after deduction of the liquidator’s expenses and any preferential debts.
 
-```ad-important
-Secured creditors are not allowed to have access to the ring-fenced fund for any unsecured portion of their debts ([[Re Airbase (UK) Ltd v HMRC [2008] EWHC 124 (Ch)]]).
-```
+> [!important]
+> Secured creditors are not allowed to have access to the ring-fenced fund for any unsecured portion of their debts ([[Re Airbase (UK) Ltd v HMRC [2008] EWHC 124 (Ch)]]).
 
 The pot of money is reserved to be shared rateably among the unsecured creditors when they are paid. For this purpose, a floating charge holder who suffers a shortfall on floating charge realisations does **not** share in the prescribed part fund, although the shortfall does constitute an unsecured claim against the company.
 
@@ -991,10 +972,8 @@ The shareholders who participate in the equity of the company will rank last. Th
 
 In most insolvent liquidations, the shareholders are unlikely to receive any value from their shares.
 
-```ad-defn
-title: Rank and abate equally
-Means that all creditors in a particular category share the money available.
-```
+> [!defn] Rank and abate equally
+> Means that all creditors in a particular category share the money available.
 
 # Voidable Transactions
 
@@ -1062,10 +1041,8 @@ But then in [[Hill v Spread Trustee Company Limited [2006] EWCA Civ 542]] it was
 
 So the law is now uncertain given the differences in views between these cases.
 
-```ad-note
-title: TLDR
-Granting of security is unlikely to be  a transactino at an undervalue.
-```
+> [!note] TLDR
+> Granting of security is unlikely to be  a transactino at an undervalue.
 
 Similar uncertainty exists around whether a dividend, lawfully paid, could amount to a transaction at any undervalue. [[BTI 2014 LLC v Sequana SA & others [2019] EWCA Civ 112]] suggests that a dividend can be attacked as a transaction at an undervalue.
 
@@ -1162,17 +1139,14 @@ The preference is voidable if:
 - It is proved that the company was insolvent (on either a cash flow or balance sheet basis) at the time of the transaction or became so as a result of it (s 240(2)).
 - It is proved that the company was ‘influenced … by a desire’ to prefer the creditor (s 239(5)). This is a **subjective** test (as opposed to an intention to prefer, which is objective). The company must have positively wished to put the party in a better position ([[Re MC Bacon Ltd [1990] BCLC 324]]).
 
-```ad-warning
-Here there is no statutory presumption of knowledge of insolvency where the preference is given to a person who is connected with the company (in contrast to TUV).
-```
+> [!warning]
+> Here there is no statutory presumption of knowledge of insolvency where the preference is given to a person who is connected with the company (in contrast to TUV).
 
-```ad-example
-title: Preference examples
-- Making an unsecured creditor secured;
-- Paying one unsecured creditor before other unsecured creditors
-- Allowing a supplier of goods to change its T&Cs to include a retention of title clause where none existed previously. 
-- Allowing a creditor to enter judgment against the company when the company has a good defence of the claim. 
-```
+> [!example] Preference examples
+> - Making an unsecured creditor secured;
+> - Paying one unsecured creditor before other unsecured creditors
+> - Allowing a supplier of goods to change its T&Cs to include a retention of title clause where none existed previously. 
+> - Allowing a creditor to enter judgment against the company when the company has a good defence of the claim. 
 
 ### Connected Persons
 
@@ -1213,12 +1187,11 @@ Even if the above requirements are met, a floating charge will be valid to the e
 
 s 245(2) effect: if a floating charge is granted to secure the repayment of a new loan made on or after the creation of the charge, then it will be valid.
 
-```ad-example
-
-An example of when a floating charge would be void is where an existing unsecured creditor is granted a floating charge by a company which is insolvent and the charge purports to secure the repayment of existing monies owed to that creditor.
-
-If s 245 did not apply, such an unsecured creditor would thereby improve its position in the order of priority if the company later went into an insolvency procedure, which would be unfair on the company’s other unsecured creditors. However, if (and to the extent that) an existing unsecured creditor provides further credit to the company (or to the extent that any other new credit is given by a new creditor) then that creditor is entitled to have the protection of a valid floating charge.
-```
+> [!example]
+> 
+> An example of when a floating charge would be void is where an existing unsecured creditor is granted a floating charge by a company which is insolvent and the charge purports to secure the repayment of existing monies owed to that creditor.
+> 
+> If s 245 did not apply, such an unsecured creditor would thereby improve its position in the order of priority if the company later went into an insolvency procedure, which would be unfair on the company’s other unsecured creditors. However, if (and to the extent that) an existing unsecured creditor provides further credit to the company (or to the extent that any other new credit is given by a new creditor) then that creditor is entitled to have the protection of a valid floating charge.
 
 ### Avoidance of Floating Charges
 

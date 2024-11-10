@@ -74,9 +74,8 @@ Where registered land is transferred, an application for registration of the dea
 
 Land Registry operates an early completion policy. Applies to all applications to discharge the whole of a registered charge where other applications are made (such as an application to register the transfer of the property to the buyer) but no evidence of satisfaction of the charge is supplied (perhaps because the lender has been slow in executing the DS1).
 
-```ad-important
-A buyer purchasing a property with a new mortgage will be registered as the proprietor, but the seller’s mortgage will remain on the title until evidence of discharge is provided, and the buyer’s mortgage will rank in priority behind the seller’s mortgage on the register.
-```
+> [!important]
+> A buyer purchasing a property with a new mortgage will be registered as the proprietor, but the seller’s mortgage will remain on the title until evidence of discharge is provided, and the buyer’s mortgage will rank in priority behind the seller’s mortgage on the register.
 
 Where there is a restriction on the register preventing a disposal or the registration of a new charge without the consent of the existing lender, proof of satisfaction of the charge or evidence of compliance with the restriction must be provided to Land Registry within **20 working days** (which can be extended to 40 working days on application); if this is not done, Land Registry will cancel the buyer’s applications for discharge, transfer and charge.
 

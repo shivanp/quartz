@@ -62,9 +62,8 @@ See [[Existing obligation]].
 
 ## Doctrine of Consideration
 
-```ad-info
-
-From Contract Law, McKendrick
-```
+> [!info]
+> 
+> From Contract Law, McKendrick
 
 As the law of contract has developed, the functions of the doctrine of consideration have gradually changed. During the 19th Century, the doctrines of offer and acceptance and intention to create legal relations were superimposed upon the 16th Century requirement of consideration and made to perform the same functions. Now the judiciary adopt a more flexible approach, such as in [[Williams v Roffey Bros & Nichol (Contractors) Ltd [1991] 1 QB 1]]. Russel LJ: 'the courts nowadays should be more ready to find its existence so as to reflect the intention of the parties to the contract where the bargaining powers are not unequal and where the finding of consideration reflects the true intention of the parties' (controversial).

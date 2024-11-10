@@ -18,30 +18,28 @@ The aim was to simplify the legal system and cut costs. Further changes occurred
 
 A civil justice system that was just, fair and easily understood, as well as being reasonable in cost and timescales. Woolf thought it necessary to transfer control of litigation from the parties to the court. The court then imposes strict timetables, backed by a system of sanctions.
 
-```ad-statute
-title: r 1.1 CPR 1998
-(1) These Rules are a new procedural code with the overriding objective of enabling the court to deal with cases justly.
-
-(2) Dealing with a case justly includes, so far as is practicable—
-
-- (a) ensuring that the parties are on an equal footing;
-
-- (b) saving expense;
-
-- (c) dealing with the case in ways which are proportionate—
-
-	- (i) to the amount of money involved;
-	
-	- (ii) to the importance of the case;
-	
-	- (iii) to the complexity of the issues; and
-	
-	- (iv) to the financial position of each party;
-
-- (d) ensuring that it is dealt with expeditiously and fairly; and
-
-- (e) allotting to it an appropriate share of the court’s resources, while taking into account the need to allot resources to other cases.
-```
+> [!statute] r 1.1 CPR 1998
+> (1) These Rules are a new procedural code with the overriding objective of enabling the court to deal with cases justly.
+> 
+> (2) Dealing with a case justly includes, so far as is practicable—
+> 
+> - (a) ensuring that the parties are on an equal footing;
+> 
+> - (b) saving expense;
+> 
+> - (c) dealing with the case in ways which are proportionate—
+> 
+> 	- (i) to the amount of money involved;
+> 	
+> 	- (ii) to the importance of the case;
+> 	
+> 	- (iii) to the complexity of the issues; and
+> 	
+> 	- (iv) to the financial position of each party;
+> 
+> - (d) ensuring that it is dealt with expeditiously and fairly; and
+> 
+> - (e) allotting to it an appropriate share of the court’s resources, while taking into account the need to allot resources to other cases.
 
 ### Unequal Representation
 
@@ -57,29 +55,23 @@ In addition, note that in his Final Report, Lord Woolf suggested that:
 
 The overriding objective must be kept in mind at all times when conducting civil litigation by the court:
 
-```ad-statute
-title: r 1.2 CPR
-The court must seek to give effect to the overriding objective when it—
-- (a) exercises any power given to it by the Rules; or
-- (b) interprets any rule.
-```
+> [!statute] r 1.2 CPR
+> The court must seek to give effect to the overriding objective when it—
+> - (a) exercises any power given to it by the Rules; or
+> - (b) interprets any rule.
 
 and by the parties:
 
-```ad-statute
-title: r 1.3 CPR
-The parties are required to help the court to further the overriding objective. 
-```
+> [!statute] r 1.3 CPR
+> The parties are required to help the court to further the overriding objective. 
 
 #### Parties' Duty
 
 All other rules are designed to try to achieve the overriding objective. Observe that r 1.3 imposes a positive duty on solicitors and their clients to help the court further the overriding objective. This applies to dealings (including correspondence) between legal representatives as well as dealings with the court.
 
-```ad-question
-title: Does this mean a party to litigation owes a duty to the other party?
-No - [[Woodward v Phoenix Healthcare Distribution Ltd [2018] EWHC 2152 (Ch)]]. HHJ Hodge: 
-> In my judgment, the culture introduced by the CPR does not require a solicitor who has in no way contributed to a mistake on the part of his opponent, or his opponent’s solicitors, to draw attention to that mistake. That is, in my judgment, not required by CPR 1.3; and it does not amount to ‘technical game playing'.
-```
+> [!question] Does this mean a party to litigation owes a duty to the other party?
+> No - [[Woodward v Phoenix Healthcare Distribution Ltd [2018] EWHC 2152 (Ch)]]. HHJ Hodge: 
+> > In my judgment, the culture introduced by the CPR does not require a solicitor who has in no way contributed to a mistake on the part of his opponent, or his opponent’s solicitors, to draw attention to that mistake. That is, in my judgment, not required by CPR 1.3; and it does not amount to ‘technical game playing'.
 
 See also [[Hannigan v Hannigan [2000] 2 FCR 650]].
 
@@ -93,36 +85,34 @@ A solicitor is also bound by the standards of professional conduct set by the SR
 
 Under CPR 1998, the court has a duty to manage cases and will determine the pace of litigation. Governed by Rule 1.4
 
-```ad-statute
-title: r 1.4 CPR
-(1) The court must further the overriding objective by actively managing cases.
-
-(2) Active case management includes —
-
-- (a) encouraging the parties to co-operate with each other in the conduct of the proceedings;
-
-- (b) identifying the issues at an early stage;
-
-- (c) deciding promptly which issues need full investigation and trial and accordingly disposing summarily of the others;
-
-- (d) deciding the order in which issues are to be resolved;
-
-- (e) encouraging the parties to use an alternative dispute resolution(GL) procedure if the court considers that appropriate and facilitating the use of such procedure;
-
-- (f) helping the parties to settle the whole or part of the case;
-
-- (g) fixing timetables or otherwise controlling the progress of the case;
-
-- (h) considering whether the likely benefits of taking a particular step justify the cost of taking it;
-
-- (i) dealing with as many aspects of the case as it can on the same occasion;
-
-- (j) dealing with the case without the parties needing to attend at court;
-
-- (k) making use of technology; and
-
-- (l) giving directions to ensure that the trial of a case proceeds quickly and efficiently.
-```
+> [!statute] r 1.4 CPR
+> (1) The court must further the overriding objective by actively managing cases.
+> 
+> (2) Active case management includes —
+> 
+> - (a) encouraging the parties to co-operate with each other in the conduct of the proceedings;
+> 
+> - (b) identifying the issues at an early stage;
+> 
+> - (c) deciding promptly which issues need full investigation and trial and accordingly disposing summarily of the others;
+> 
+> - (d) deciding the order in which issues are to be resolved;
+> 
+> - (e) encouraging the parties to use an alternative dispute resolution(GL) procedure if the court considers that appropriate and facilitating the use of such procedure;
+> 
+> - (f) helping the parties to settle the whole or part of the case;
+> 
+> - (g) fixing timetables or otherwise controlling the progress of the case;
+> 
+> - (h) considering whether the likely benefits of taking a particular step justify the cost of taking it;
+> 
+> - (i) dealing with as many aspects of the case as it can on the same occasion;
+> 
+> - (j) dealing with the case without the parties needing to attend at court;
+> 
+> - (k) making use of technology; and
+> 
+> - (l) giving directions to ensure that the trial of a case proceeds quickly and efficiently.
 
 #### Vulnerable Parties or Witnesses
 
@@ -261,27 +251,22 @@ Parties may apply to the court for any specific orders that may be required.
 
 ### Causes of Action
 
-```ad-defn
-title: Cause of action
-A cause of action is the legal basis of a claim. e.g., breach of contract, negligence, negligenct misstatement, misrepresentation, nuisance... 
-```
+> [!defn] Cause of action
+> A cause of action is the legal basis of a claim. e.g., breach of contract, negligence, negligenct misstatement, misrepresentation, nuisance... 
 
-```ad-example
-title: Breach of contract
-To succeed in a claim for breach of contract, need to establish:
-- (a) contract (its formation – parties, date, written or oral, subject matter (goods, goods and
-- services/materials and work, services), consideration);
-- (b) terms relied on (express and/or implied);
-- (c) breach of those terms;
-- (d) factual consequences of the breach of those terms;
-- (e) damage and loss.
-```
+> [!example] Breach of contract
+> To succeed in a claim for breach of contract, need to establish:
+> - (a) contract (its formation – parties, date, written or oral, subject matter (goods, goods and
+> - services/materials and work, services), consideration);
+> - (b) terms relied on (express and/or implied);
+> - (c) breach of those terms;
+> - (d) factual consequences of the breach of those terms;
+> - (e) damage and loss.
 
 Often, solicitors record their analysis in a table. Continually review issues in dispute and how they will be proved.
 
-```ad-important
-Key case analysis points are:
-1. Viability
-2. Liability
-3. Quantum
-```
+> [!important]
+> Key case analysis points are:
+> 1. Viability
+> 2. Liability
+> 3. Quantum

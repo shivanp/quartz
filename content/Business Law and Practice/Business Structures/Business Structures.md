@@ -133,10 +133,8 @@ In summary, the lesson of accidental partnerships is to regulate a venture with 
 
 ### Unlimited Company
 
-```ad-defn
-title: Unlimited company
-A company which does not limit the liability of its members (s 3(4) CA 2006)
-```
+> [!defn] Unlimited company
+> A company which does not limit the liability of its members (s 3(4) CA 2006)
 
 Very rare; one example is Land Rover pre-2013.
 
@@ -144,9 +142,8 @@ A key advantage is that company finances do not need to be made public.
 
 ### Limited Company
 
-```ad-defn
-A company in which the liability of its members is limited by its constitution (CA 2006 s 3(1)). 
-```
+> [!defn]
+> A company in which the liability of its members is limited by its constitution (CA 2006 s 3(1)). 
 
 #### Limiting Liability
 
@@ -165,10 +162,8 @@ Can be easier to make changes to ownership than in a company limited by shares.
 
 Almost all companies are private limited companies. One of the biggest is Iceland.
 
-```ad-defn
-title: Private limited company
-Any company that is not a public company (s 4(1))
-```
+> [!defn] Private limited company
+> Any company that is not a public company (s 4(1))
 
 An Ltd cannot raise money from members of the public at large by issuing securities such as shares (s 755 CA 2006).
 
@@ -192,9 +187,8 @@ A public company may apply to join a UK stock market. Note that not all do. Two 
 - London Stock Exchange's Main Market
 - Alternative Investment Market
 
-```ad-warning
-There is no obligation on a public company to join a stock market. Those which choose not to are called unlisted (e.g., John Lewis)
-```
+> [!warning]
+> There is no obligation on a public company to join a stock market. Those which choose not to are called unlisted (e.g., John Lewis)
 
 #### Main Market
 
@@ -459,10 +453,8 @@ Then Companies House issues a certificate of registration. Name must end with �
 
 Section 6(2) provides for limitations to be placed on a member’s actual authority. So, an LLP is not bound if the member has no authority to act for the LLP in that matter and the third party in question knows that fact.
 
-```ad-question
-title: Apparent authority
-The extent of the apparent authority will be determined by the nature of the business concerned, and therefore what constitutes the ‘normal course’ of that business.
-```
+> [!question] Apparent authority
+> The extent of the apparent authority will be determined by the nature of the business concerned, and therefore what constitutes the ‘normal course’ of that business.
 
 ## Property and Charges
 
@@ -483,15 +475,13 @@ Fewer restrictions on the right of action of members. The Court of Appeal held i
 
 ## LLP Agreement
 
-```ad-statute
-title: s 5 LLPA 2000
-(1) Except as far as otherwise provided by this Act or any other enactment, the mutual rights and duties of the members of a limited liability partnership, and the mutual rights and duties of a limited liability partnership and its members, shall be governed—
-- (a) by agreement between the members, or between the limited liability partnership and its members, or
-- (b) in the absence of agreement as to any matter, by any provision made in relation to that matter by regulations under section 15(c).
-
-(2) An agreement made before the incorporation of a limited liability partnership between the persons who subscribe their names to the incorporation document may impose obligations on the limited liability partnership (to take effect at any time after its incorporation).
-
-```
+> [!statute] s 5 LLPA 2000
+> (1) Except as far as otherwise provided by this Act or any other enactment, the mutual rights and duties of the members of a limited liability partnership, and the mutual rights and duties of a limited liability partnership and its members, shall be governed—
+> - (a) by agreement between the members, or between the limited liability partnership and its members, or
+> - (b) in the absence of agreement as to any matter, by any provision made in relation to that matter by regulations under section 15(c).
+> 
+> (2) An agreement made before the incorporation of a limited liability partnership between the persons who subscribe their names to the incorporation document may impose obligations on the limited liability partnership (to take effect at any time after its incorporation).
+> 
 
 Some default rules:
 

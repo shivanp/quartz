@@ -73,14 +73,12 @@ There is also a general statutory power to appoint new trustees in [s 36 Trustee
 
 This power may be exercised by the persons nominated in the trust instrument to appoint trustees or, if there are no such persons, by the surviving or continuing trustees. If all the trustees have died, the power is exercisable by the personal representatives of the last to die ([s18(2) TA 1925](https://www.legislation.gov.uk/ukpga/Geo5/15-16/19/section/18)).
 
-```ad-statute
-title: s 36(6) TA 1925
-Where, in the case of any trust, there are not more than three trustees—]
-- (a) the person or persons nominated for the purpose of appointing new trustees by the instrument, if any, creating the trust; or
-- (b) if there is no such person, or no such person able and willing to act, then the trustee or trustees for the time being;
-
-may, by writing, appoint another person or other persons to be an additional trustee or additional trustees, but it shall not be obligatory to appoint any additional trustee, unless the instrument, if any, creating the trust, or any statutory enactment provides to the contrary, nor shall the number of trustees be increased beyond four by virtue of any such appointment
-```
+> [!statute] s 36(6) TA 1925
+> Where, in the case of any trust, there are not more than three trustees—]
+> - (a) the person or persons nominated for the purpose of appointing new trustees by the instrument, if any, creating the trust; or
+> - (b) if there is no such person, or no such person able and willing to act, then the trustee or trustees for the time being;
+> 
+> may, by writing, appoint another person or other persons to be an additional trustee or additional trustees, but it shall not be obligatory to appoint any additional trustee, unless the instrument, if any, creating the trust, or any statutory enactment provides to the contrary, nor shall the number of trustees be increased beyond four by virtue of any such appointment
 
 ### Saunders V Vautier Rights
 

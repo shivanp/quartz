@@ -44,9 +44,8 @@ If existing rights are to be enjoyed by the tenant, the tenant should investigat
 
 Easements expressly granted in a lease after 13/10/03 must be completed by registration in the case of a registered estate. If the easements are not registered, they only take effect in equity.
 
-```ad-warning
-Easements expressly granted in a lease must be registered to be effective, even ifi the lease itself is incapable of registration. 
-```
+> [!warning]
+> Easements expressly granted in a lease must be registered to be effective, even ifi the lease itself is incapable of registration. 
 
 ## Rights Excepted and Reserved
 
@@ -56,22 +55,16 @@ Exceptions and reservations deal with rights benefitting the landlord:
 - Rights enabling the landlord to develop a neighbouring property without interference
 - Rights assisting the landlord in ensuring the tenant complies with the terms of the lease.
 
-```ad-defn
-title: Exception
-Something that exists and is (or would be) part of the thing granted, but which is excluded from the grant (for example, mineral rights).
-```
+> [!defn] Exception
+> Something that exists and is (or would be) part of the thing granted, but which is excluded from the grant (for example, mineral rights).
 
-```ad-defn
-title: Reservation
-Something that is not in existence at the date of the grant but which arises out of the demise.
-```
+> [!defn] Reservation
+> Something that is not in existence at the date of the grant but which arises out of the demise.
 
 Sometimes a right over the property in favour of the landlord, such as a right of way, is technically in the nature of a new grant by the tenant to the landlord. But in practice no one cares.
 
-```ad-question
-title: How widely should reservations be interpreted?
-_[Rees v Windsor-Clive [2020] EWCA Civ 816](https://uk.westlaw.com/D-105-0126?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=8480f1faa9a046d89d64dd6a4fb84a19)_: reservations are not always to be given their narrowest possible interpretation. In every case, it is a question of interpreting the clause in question in its context. If rights of entry are reserved for reasonable purposes, which is a very common formulation, the derogation from grant principle does not require the court to give a right of entry the narrowest possible interpretation.
-```
+> [!question] How widely should reservations be interpreted?
+> _[Rees v Windsor-Clive [2020] EWCA Civ 816](https://uk.westlaw.com/D-105-0126?originationContext=document&transitionType=PLDocumentLink&contextData=(sc.Default)&ppcid=8480f1faa9a046d89d64dd6a4fb84a19)_: reservations are not always to be given their narrowest possible interpretation. In every case, it is a question of interpreting the clause in question in its context. If rights of entry are reserved for reasonable purposes, which is a very common formulation, the derogation from grant principle does not require the court to give a right of entry the narrowest possible interpretation.
 
 ### Common Exceptions and Reservations
 

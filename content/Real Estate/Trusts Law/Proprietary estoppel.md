@@ -81,9 +81,8 @@ The third element of a proprietary estoppel claim is detriment to the claimant i
 
 Robert Walker LJ also explained that the court must determine whether conduct is detrimental on the assumption that the defendant will dishonour the assurance.
 
-```ad-example
-Imagine that B assures A that B will give A a commercial farm and that, in reliance on that assurance, A does not make any provision for their pension because they believe that they will be given an income-yielding farm. On one view, A’s failure to make such provision is not detrimental: A has saved an expense. However, once it is assumed that B is going to dishonour the assurance, A’s failure to make such provision is clearly detrimental because A will be less well off in their old age.
-```
+> [!example]
+> Imagine that B assures A that B will give A a commercial farm and that, in reliance on that assurance, A does not make any provision for their pension because they believe that they will be given an income-yielding farm. On one view, A’s failure to make such provision is not detrimental: A has saved an expense. However, once it is assumed that B is going to dishonour the assurance, A’s failure to make such provision is clearly detrimental because A will be less well off in their old age.
 
 The most obvious examples of detriment are expenditure (see Pascoe above) and the provision of services without payment or for less than their market value (see Greasley and Thorner above). However, detriment is not limited to expenditure, services or other quantifiable financial detriment. For example, in Gillett the court held that the claimant had acted to his detriment by subordinating himself to the defendant and allowing the defendant to make significant choices concerning the claimant and his family such as, for example, where and how the claimant’s children should be educated. A claimant also acts to their detriment if they pass up opportunities to better themselves or to live a better life, e.g., by choosing to not pursue educational, employment or business opportunities: Gillett; [[Henry v Henry [2010] UKPC 3]].
 
@@ -150,13 +149,12 @@ In the 1990s, there was a concerted effort by some commentators and judges to as
 
 Although the assimilation project still has its advocates, it has lost much of its force and has very little judicial support.
 
-```ad-summary
-- Proprietary estoppel is an equitable doctrine by which a claimant can informally acquire property (or personal) rights
-- In ‘assurance’ cases, the claimant must prove assurance, reliance, detriment and unconscionability
-- The assurance must relate to a right in or over identified property
-- Detriment is not a narrow concept and it includes expenditure, the provision of services and many other types of conduct
-- Reliance is a causal connection between the assurance and the detriment
-- A proprietary estoppel claim is only available if the defendant’s conduct is unconscionable and shocks the conscience of the court
-- The court has a broad discretion to fashion a remedy
-- The remedy should be fashioned so as to avoid an unconscionable result
-```
+> [!summary]
+> - Proprietary estoppel is an equitable doctrine by which a claimant can informally acquire property (or personal) rights
+> - In ‘assurance’ cases, the claimant must prove assurance, reliance, detriment and unconscionability
+> - The assurance must relate to a right in or over identified property
+> - Detriment is not a narrow concept and it includes expenditure, the provision of services and many other types of conduct
+> - Reliance is a causal connection between the assurance and the detriment
+> - A proprietary estoppel claim is only available if the defendant’s conduct is unconscionable and shocks the conscience of the court
+> - The court has a broad discretion to fashion a remedy
+> - The remedy should be fashioned so as to avoid an unconscionable result

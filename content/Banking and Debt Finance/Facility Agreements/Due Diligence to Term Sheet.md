@@ -39,9 +39,8 @@ Fact finding exercise. Scope of investigation depends on risk of transaction, si
 - Borrower may immediately accept bank's draft, or negotiate (requiring re-approval by credit department). Bank may involve advisers.
 - Solicitors instructed to put together initial draft facility agreement on the basis of the term sheet.
 
-```ad-note
-A solicitor can obtain copies of a corporate borrower's registered documents to get information. But if the borrower has not filed returns propely, this would result in a fine for the company and its officers.But there is no provision for compensating a 3rd party who suffers loss. 
-```
+> [!note]
+> A solicitor can obtain copies of a corporate borrower's registered documents to get information. But if the borrower has not filed returns propely, this would result in a fine for the company and its officers.But there is no provision for compensating a 3rd party who suffers loss. 
 
 ### Acquisition Finance
 

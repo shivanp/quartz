@@ -57,15 +57,11 @@ min_depth: 0
 
 ## Domestic and Euromarkets
 
-```ad-defn
-title: Domestic market
-A market in a currency in its currency of origin. 
-```
+> [!defn] Domestic market
+> A market in a currency in its currency of origin. 
 
-```ad-defn
-title: Euromarkets
-"Euro" means currency held outside the currency's country of origin. Euromarkets are international markets. 
-```
+> [!defn] Euromarkets
+> "Euro" means currency held outside the currency's country of origin. Euromarkets are international markets. 
 
 - Eurocurrency market means the FX market.
 - Eurosecurities are international securities (e.g., dollar denominated bond issued by Tesco, or sterling bond issued by Tesco intended to raise sterling from overseas investors).
@@ -99,9 +95,8 @@ However, if a non-British company issues a sterling instrument (to ‘domestic�
 
 ## Bonds and Notes
 
-```ad-defn
-Certificate of debt under which the issuer obligates itself to pay the principal to the bondholder on a specified date.
-```
+> [!defn]
+> Certificate of debt under which the issuer obligates itself to pay the principal to the bondholder on a specified date.
 
 Characteristics:
 
@@ -111,18 +106,16 @@ Characteristics:
 - May or may not be listed
 - Interest bearing/ issued at a discount to face value at redemption
 
-```ad-note
-title: Terminology
-Note used to be reserved for securities with a short maturity/ floating rate coupon and bond for everything else. Now terms used interchangeably. 
-
-Refer to:
-- ‘floating rate notes’, not ‘floating rate bonds’;
-- a ‘global note’, rather than a ‘global bond’;
-- securities issued under a programme as ‘notes’, not ‘bonds’;
-- securities issued under a securitisation as ‘notes’, not ‘bonds’.
-
-If in doubt, use the term ‘note’ rather than ‘bond’.
-```
+> [!note] Terminology
+> Note used to be reserved for securities with a short maturity/ floating rate coupon and bond for everything else. Now terms used interchangeably. 
+> 
+> Refer to:
+> - ‘floating rate notes’, not ‘floating rate bonds’;
+> - a ‘global note’, rather than a ‘global bond’;
+> - securities issued under a programme as ‘notes’, not ‘bonds’;
+> - securities issued under a securitisation as ‘notes’, not ‘bonds’.
+> 
+> If in doubt, use the term ‘note’ rather than ‘bond’.
 
 ### Fixed Rate Bonds
 
@@ -162,9 +155,8 @@ A bond which is subject to a ‘collar’ is similar to an FRN in that its rate 
 
 Do not pay any interest. Bond issued at a discount. Return achieved on maturity. Bond appreciates as the date of maturity becomes closer.
 
-```ad-tip
-As interest rates fall, the price of a zero coupon bond already in issue will rise since the yield it offers can be lower but still compete with equivalent interest-bearing bonds. 
-```
+> [!tip]
+> As interest rates fall, the price of a zero coupon bond already in issue will rise since the yield it offers can be lower but still compete with equivalent interest-bearing bonds. 
 
 Zero coupon bonds advantage: investor taxed on capital gain rather than income.
 
@@ -182,10 +174,9 @@ Provide the bondholder with the option to convert the bond into shares in the is
 
 Once a bondholder converts, the issuer will create new shares to be given in exchange for the bond, which is then redeemed in consideration for the issue of shares.
 
-```ad-action
-- The directors should ensure there are no restrictions on allotment in the articles.
-- New shares are effectively issued for cash consideration so existing shareholders may have pre-emption rights to disapply. 
-```
+> [!action]
+> - The directors should ensure there are no restrictions on allotment in the articles.
+> - New shares are effectively issued for cash consideration so existing shareholders may have pre-emption rights to disapply. 
 
 A convertible bond will also specify the ‘conversion price’. This is the price at which the shares a bondholder receives in exchange for its bond will be valued upon conversion.
 
@@ -198,10 +189,8 @@ Issuer attraction:
 - Interest rate offered on a convertible bond will be less than an equivalent non-convertible bond.
 - Equity financing can be deferred if the issuer feels the share price is currently undervalued.
 
-```ad-note
-title: CoCo bonds
-Convertible capital bonds (also known as ‘CoCo bonds’) are a type of convertible bond that converts into equity at the happening of a defined event as opposed to the issuer’s or investor’s option. The trigger point is typically related to a bank’s regulatory position.
-```
+> [!note] CoCo bonds
+> Convertible capital bonds (also known as ‘CoCo bonds’) are a type of convertible bond that converts into equity at the happening of a defined event as opposed to the issuer’s or investor’s option. The trigger point is typically related to a bank’s regulatory position.
 
 #### Bonds with Warrants (options)
 
@@ -361,9 +350,8 @@ Bonds typically take:
 - Many of these restrictions are imposed on issues made to the public in order to protect unsophisticated investors/ policies of investment control or taxation.
 - To avoid contravening any restrictions which might apply to it, a bond will include contractual restrictions on the institutions selling the issue (the ‘syndicate’). These are known as ‘selling restrictions’.
 
-```ad-note
-The most commonly applicable selling restrictions are those imposed under US tax and securities laws. Some of these require that definitive bonds cannot be delivered for a period (usually 40 days) after issue (known as a ‘lock-up’ period). More commonly, there will be a restricted period during which definitive bonds may be offered only to certain investors. So temporary global note helps. 
-```
+> [!note]
+> The most commonly applicable selling restrictions are those imposed under US tax and securities laws. Some of these require that definitive bonds cannot be delivered for a period (usually 40 days) after issue (known as a ‘lock-up’ period). More commonly, there will be a restricted period during which definitive bonds may be offered only to certain investors. So temporary global note helps. 
 
 Once any lock-up period expires, the temporary global note must be exchanged for either a permanent global note (permanent version of the temporary global note), or bonds in definitive form (separate certificates representing each bond).
 
@@ -375,10 +363,8 @@ The main advantage of using a permanent global note rather than definitive bonds
 
 But leaves bondholders without a bearer instrument with which to prove ownership. In circumstances where it is important that the investor has legal ownership of the debt obligation represented by the bond, the terms and conditions require the issuer to print definitive bearer bonds and distribute them to the investors. The permanent global notes state the circumstances in which definitives should be printed.
 
-```ad-warning
-title: Potential issue
-Even if the global note states that the issuer must print definitive bonds (providing the investor with legal ownership), the issuer may refuse to comply with that condition.
-```
+> [!warning] Potential issue
+> Even if the global note states that the issuer must print definitive bonds (providing the investor with legal ownership), the issuer may refuse to comply with that condition.
 
 Solution:
 
@@ -439,9 +425,8 @@ The consequences of negotiability work in favour of a transferee who purchases t
 3. the purchaser can sue the issuer directly in the case of a dispute over the bond, and does not need to join the transferor in a claim;
 4. if a ‘holder in due course’ presents a stolen bond, the issuer must pay out on that bond as well as on any replacement bond it has issued to the original bondholder.
 
-```ad-action
-An issuer will not usually provide a replacement bond without first obtaining an indemnity from the original bondholder to the effect that they will recompense the issuer if it has to pay out on the original bond.
-```
+> [!action]
+> An issuer will not usually provide a replacement bond without first obtaining an indemnity from the original bondholder to the effect that they will recompense the issuer if it has to pay out on the original bond.
 
 ## Registered Vs Bearer Bonds
 
@@ -483,9 +468,8 @@ If any of these parties goes into liquidation in possession of the investor’s 
 
 The final link in the chain is that between the clearing system and the depositary bank. This relationship is subject not only to the local law of the relevant clearing system, but also to the law of the jurisdiction in which the depository is situated.
 
-```ad-action
-Participant msut ensure that the proprietary rights in the bearer securities are not in any way transferred to the depository bank. Often participants take a legal opinion from a local lawyer to this effect. 
-```
+> [!action]
+> Participant msut ensure that the proprietary rights in the bearer securities are not in any way transferred to the depository bank. Often participants take a legal opinion from a local lawyer to this effect. 
 
 # Bond Issue
 
@@ -586,10 +570,8 @@ A depository is a bank appointed on behalf of a clearing system dealing with a p
 
 Using a depository also allows the bonds to be kept in jurisdictions other than those of the clearing systems (tax advantages). The use of a depository to hold the bonds is sometimes known as ‘immobilisation’.
 
-```ad-question 
-title: When can a global note not be placed with a common depository?
-Some issuers will want their securities to be recognised by the European Central Bank as ‘eligible collateral’ for the euro central banking system (Eurosystem). From July 2006, securities are only eligible as Eurosystem collateral if their global form is held by the clearing system themselves and not at a common depository.
-```
+> [!question] When can a global note not be placed with a common depository?
+> Some issuers will want their securities to be recognised by the European Central Bank as ‘eligible collateral’ for the euro central banking system (Eurosystem). From July 2006, securities are only eligible as Eurosystem collateral if their global form is held by the clearing system themselves and not at a common depository.
 
 ## Legal Advisers
 
@@ -650,10 +632,8 @@ The prospectus is the document which provides detailed information about an issu
 
 ### Subscription/ Underwriting Agreement
 
-```ad-defn
-title: Subscription agreement 
-The subscription agreement is a contract between the issuer, the lead manager and the co-managers which records the basis on which the issuer will sell, and the managers will buy, the bonds on issue.
-```
+> [!defn] Subscription agreement
+> The subscription agreement is a contract between the issuer, the lead manager and the co-managers which records the basis on which the issuer will sell, and the managers will buy, the bonds on issue.
 
 Most London market bonds work on the basis that the syndicate will subscribe for all of the bonds between them, even if they cannot place them with investors. Under the terms of the subscription agreement, the liability of the syndicate members to the issuer of an issue is joint and several (key difference with a syndicated loan).
 
@@ -867,9 +847,8 @@ The ISM was introduced 5 years ago to try to stop people listing bonds in Irelan
 
 ## Approved Prospectus
 
-```ad-tip
-A prospectus approved by the UKLA is essentially required (as a prerequisite) if a bond issue is to be offered to the public or admitted to trading on the Main Market.
-```
+> [!tip]
+> A prospectus approved by the UKLA is essentially required (as a prerequisite) if a bond issue is to be offered to the public or admitted to trading on the Main Market.
 
 Following the UK’s exit from the EU, passporting (or “mutual recognition”) of prospectuses is no longer possible.
 
@@ -915,9 +894,8 @@ The information may vary depending on:
 - The circumstances of the issuer.
 - In respect of non-equity securities, whether or not the securities have a denomination per unit of at least EUR100,000 or are to be traded only on a regulated market, or specific segment thereof, to which only qualified investors have access for the purpose of trading those securities.
 
-```ad-tip
-The level of detail required in a prospectus will depend on whether it is a ‘retail’ (ie ‘nonexempt’) or ‘wholesale’ (ie ‘exempt’) offer. The ‘wholesale’ regime requires less detailed disclosure, but applies only if the securities are denominated at or above €100,000.
-```
+> [!tip]
+> The level of detail required in a prospectus will depend on whether it is a ‘retail’ (ie ‘nonexempt’) or ‘wholesale’ (ie ‘exempt’) offer. The ‘wholesale’ regime requires less detailed disclosure, but applies only if the securities are denominated at or above €100,000.
 
 ### Prospectus Format
 
@@ -1164,9 +1142,8 @@ If the bond issue is to be listed, a draft of the prospectus or listing particul
 
 Lead manager helps the issuer's directors in roadshows to potential investors. Check roadshow material to ensure it complies with ss 21 and 25 of the FSMA 2000.
 
-```ad-note
-Sections 21–25 of the FSMA 2000 make it an offence for any person other than an ‘authorised person’ (ie, authorised to carry on regulated activity under the FSMA 2000) to ‘in the course of business, communicate an invitation or inducement to engage in investment activity’ (or to cause the same) in the UK, unless its contents have been approved by an authorised person (or an exemption applies).
-```
+> [!note]
+> Sections 21–25 of the FSMA 2000 make it an offence for any person other than an ‘authorised person’ (ie, authorised to carry on regulated activity under the FSMA 2000) to ‘in the course of business, communicate an invitation or inducement to engage in investment activity’ (or to cause the same) in the UK, unless its contents have been approved by an authorised person (or an exemption applies).
 
 ## Launch and Syndication
 

@@ -112,33 +112,27 @@ The only equitable interests that cannot be protected by way of a land charge ar
 
 Once the land charge is entered on the Land Charges Register, the interest will be binding on a purchaser ([LPA, s 198](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/198)). This is so irrespective of the state of the purchaser’s knowledge. This overcomes the uncertainty associated with the old doctrine of notice, at least in respect of those interests which are able to be protected by a land charge.
 
-```ad-warning
-Of course, entry of a land charge does not guarantee the validity of the interest in question, so that if something is protected which is not actually an interest in land, protection by entry of a land charge will not confer validity on it.
-```
+> [!warning]
+> Of course, entry of a land charge does not guarantee the validity of the interest in question, so that if something is protected which is not actually an interest in land, protection by entry of a land charge will not confer validity on it.
 
-```ad-statute
-title:s 198 LPA 1925
-
-(1) The registration of any instrument or matter in any register kept under the Land Charges Act 1972 or any local land charges register, **shall be deemed to constitute actual notice of such instrument or matter**, and of the fact of such registration, to all persons and for all purposes connected with the land affected, as from the date of registration or other prescribed date and so long as the registration continues in force.
-
-(2) This section operates without prejudice to the provisions of this Act respecting the making of further advances by a mortgagee, and applies only to instruments and matters required or authorised to be registered in any such register. 
-```
+> [!statute] s 198 LPA 1925
+> 
+> (1) The registration of any instrument or matter in any register kept under the Land Charges Act 1972 or any local land charges register, **shall be deemed to constitute actual notice of such instrument or matter**, and of the fact of such registration, to all persons and for all purposes connected with the land affected, as from the date of registration or other prescribed date and so long as the registration continues in force.
+> 
+> (2) This section operates without prejudice to the provisions of this Act respecting the making of further advances by a mortgagee, and applies only to instruments and matters required or authorised to be registered in any such register. 
 
 ## Effect of Non-entry of Land Charge
 
-```ad-statute
-title: s 4 LCA 1972
+> [!statute] s 4 LCA 1972
+> 
+> (5) A land charge of Class B and a land charge **of Class C (other than an estate contract**) created or arising on or after 1st January 1926 shall be **void as against a purchaser of the land** charged with it, or of any interest in such land, unless the land charge is registered in the appropriate register before the completion of the purchase.
+> 
+> (6) An **estate contract** and a **land charge of Class** D created or entered into on or after 1st January 1926 shall be **void as against a purchaser for money or money’s worth …** of a legal estate in the land charged with it, unless the land charge is registered in the appropriate register before the completion of the purchase.
+> 
+> (8) A land charge of **Class F** shall be **void as against a purchaser of the land** charged with it, or of any interest in such land, unless the land charge is registered in the appropriate register before the completion of the purchase.
 
-(5) A land charge of Class B and a land charge **of Class C (other than an estate contract**) created or arising on or after 1st January 1926 shall be **void as against a purchaser of the land** charged with it, or of any interest in such land, unless the land charge is registered in the appropriate register before the completion of the purchase.
-
-(6) An **estate contract** and a **land charge of Class** D created or entered into on or after 1st January 1926 shall be **void as against a purchaser for money or money’s worth …** of a legal estate in the land charged with it, unless the land charge is registered in the appropriate register before the completion of the purchase.
-
-(8) A land charge of **Class F** shall be **void as against a purchaser of the land** charged with it, or of any interest in such land, unless the land charge is registered in the appropriate register before the completion of the purchase.
-```
-
-```ad-warning
-There is a difference betweeen 'purchaser for value' and purchaser for money or monies worth. The latter doesn't include marriage consideration and stuff. 
-```
+> [!warning]
+> There is a difference betweeen 'purchaser for value' and purchaser for money or monies worth. The latter doesn't include marriage consideration and stuff. 
 
 Although different is terminology used depending on the land charge in question, the effect of this provision is that non-protection of an interest will make it void against a purchaser of the land, but not against someone who is gifted or who inherits the land
 
@@ -154,19 +148,18 @@ In view of the provisions of LPA 1925, s 198(1) (entry of a land charge is notic
 
 This is a cumbersome process when investigating title of unregistered land.
 
-```ad-summary
-- Land charges are a means of protecting the majority of equitable interests created over unregistered land post 1926.
-
-- The Land Charges Register is a mini scheme of registration that therefore applies to unregistered land only.
-
-- The holder of an equitable interest created post 1926 must register the correct land charge (eg Class C(IV)for an estate contract) against the name (as it appears in the title deeds) of the unregistered landowner of the burdened land.
-
-- Correct registration of a land charge constitutes ‘actual notice’ and means the equitable interest will be binding on a third party.
-
-- Failure to register a land charge correctly means it will not be binding on a purchaser of the land. Actual knowledge is irrelevant. It would still, however, be binding on someone who is gifted or inherits the land.
-
-- A purchaser of unregistered land must do a full search of the Land Charges Register against the full names of all estate owners as spelt in the title deeds in order to discover the existence of any equitable interests.
-```
+> [!summary]
+> - Land charges are a means of protecting the majority of equitable interests created over unregistered land post 1926.
+> 
+> - The Land Charges Register is a mini scheme of registration that therefore applies to unregistered land only.
+> 
+> - The holder of an equitable interest created post 1926 must register the correct land charge (eg Class C(IV)for an estate contract) against the name (as it appears in the title deeds) of the unregistered landowner of the burdened land.
+> 
+> - Correct registration of a land charge constitutes ‘actual notice’ and means the equitable interest will be binding on a third party.
+> 
+> - Failure to register a land charge correctly means it will not be binding on a purchaser of the land. Actual knowledge is irrelevant. It would still, however, be binding on someone who is gifted or inherits the land.
+> 
+> - A purchaser of unregistered land must do a full search of the Land Charges Register against the full names of all estate owners as spelt in the title deeds in order to discover the existence of any equitable interests.
 
 # Doctrine of Notice
 
@@ -182,9 +175,8 @@ Unfortunately, not all equitable interests could be protected under the LCA 1972
 
 ## Equity's Darling
 
-```ad-defn
-'Equity’s Darling' is a '**bona fide purchaser for value of a legal estate without notice'** of the equitable interest.
-```
+> [!defn]
+> 'Equity’s Darling' is a '**bona fide purchaser for value of a legal estate without notice'** of the equitable interest.
 
 A buyer has to prove all of the elements below if he is to take property free from any of these equitable interests which affect that property i.e., to be ‘equity’s darling’:
 
@@ -216,9 +208,8 @@ For example, in the case of [[Hunt v Luck [1902] 1 Ch 428 1]] the presence of a 
 
 This is governed by [LPA 1925, s 199(1)(ii)(b)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/199).
 
-```ad-defn
-Imputed notice is notice received by the buyer’s agent, for example the solicitor on a land purchase. Where the agent has notice, whether actual or constructive, of an interest, that knowledge is imputed to the buyer.
-```
+> [!defn]
+> Imputed notice is notice received by the buyer’s agent, for example the solicitor on a land purchase. Where the agent has notice, whether actual or constructive, of an interest, that knowledge is imputed to the buyer.
 
 Key case: [[Kingsnorth Finance Co Ltd v Tizard [1986] 1 WLR 783 1]].
 
@@ -238,15 +229,14 @@ From the perspective of the buyer:
 
 From the perspective of the owner of the interest, the interest is fragile because it could be destroyed forever if a bona fide purchaser for value of a legal estate without notice purchased the land. This would be through no fault of the owner of the interest and in circumstances where the owner could not have done anything to protect it.
 
-```ad-summary
-Before 1926, the doctrine of notice applied to all equitable interests over unregistered land. A purchaser of unregistered land would be bound by an equitable interest unless it could show it was ‘equity’s darling’.
-
-‘Equity’s darling’ is a bona fide purchaser for value without notice. Most purchasers of land can establish they are a ‘bona fide purchaser for value’. However, it is harder for a purchaser to establish they are ‘without notice’.
-
-Notice can be actual, constructive or imputed knowledge of the equitable interest.
-- Actual notice is that the purchaser actually knows of the equitable interest.
-- A purchaser will have constructive notice of an interest a prudent person would have found out about.
-- A purchaser will have imputed notice of anything its agent knows about or ought to know about.
-
-The doctrine of notice now only applies to equitable [[easements]] and restrictive covenants created pre-1926 and beneficial interests behind a trust.
-```
+> [!summary]
+> Before 1926, the doctrine of notice applied to all equitable interests over unregistered land. A purchaser of unregistered land would be bound by an equitable interest unless it could show it was ‘equity’s darling’.
+> 
+> ‘Equity’s darling’ is a bona fide purchaser for value without notice. Most purchasers of land can establish they are a ‘bona fide purchaser for value’. However, it is harder for a purchaser to establish they are ‘without notice’.
+> 
+> Notice can be actual, constructive or imputed knowledge of the equitable interest.
+> - Actual notice is that the purchaser actually knows of the equitable interest.
+> - A purchaser will have constructive notice of an interest a prudent person would have found out about.
+> - A purchaser will have imputed notice of anything its agent knows about or ought to know about.
+> 
+> The doctrine of notice now only applies to equitable [[easements]] and restrictive covenants created pre-1926 and beneficial interests behind a trust.
