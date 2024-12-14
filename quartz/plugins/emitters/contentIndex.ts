@@ -49,31 +49,36 @@ function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndex): string {
 }
 
 function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, limit?: number): string {
-  const base = cfg.baseUrl ?? ""
+  const base = cfg.baseUrl ?? "";
 
-  const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<item>
-    <title>${escapeHTML(content.title)}</title>
-    <link>https://${joinSegments(base, encodeURI(slug))}</link>
-    <guid>https://${joinSegments(base, encodeURI(slug))}</guid>
-    <description>${content.richContent ?? content.description}</description>
-    <pubDate>${content.date?.toUTCString()}</pubDate>
-  </item>`
+  const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => {
+    if (typeof content.title !== 'string') {
+      throw new TypeError('Expected content.title to be a string');
+    }
+    return `<item>
+      <title>${escapeHTML(content.title)}</title>
+      <link>https://${joinSegments(base, encodeURI(slug))}</link>
+      <guid>https://${joinSegments(base, encodeURI(slug))}</guid>
+      <description>${content.richContent ?? content.description}</description>
+      <pubDate>${content.date?.toUTCString()}</pubDate>
+    </item>`;
+  };
 
   const items = Array.from(idx)
+    .filter(([_, content]) => typeof content.title === 'string')
     .sort(([_, f1], [__, f2]) => {
       if (f1.date && f2.date) {
-        return f2.date.getTime() - f1.date.getTime()
+        return f2.date.getTime() - f1.date.getTime();
       } else if (f1.date && !f2.date) {
-        return -1
+        return -1;
       } else if (!f1.date && f2.date) {
-        return 1
+        return 1;
       }
-
-      return f1.title.localeCompare(f2.title)
+      return f1.title.localeCompare(f2.title);
     })
     .map(([slug, content]) => createURLEntry(simplifySlug(slug), content))
     .slice(0, limit ?? idx.size)
-    .join("")
+    .join("");
 
   return `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
@@ -86,7 +91,7 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, limit?: nu
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       ${items}
     </channel>
-  </rss>`
+  </rss>`;
 }
 
 export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {

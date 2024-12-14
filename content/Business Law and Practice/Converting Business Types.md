@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Saturday, September 3rd 2022, 8:37:25 am
-date modified: Sunday, December 10th 2023, 12:41:05 am
+date modified: Sunday, December 10th 2023, 12:41:32 am
 ---
 
 # Converting Business Types

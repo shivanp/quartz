@@ -160,3 +160,31 @@
     font-weight: $semiBoldWeight;
   }
 }
+
+/* Add this to your main stylesheet */
+.admonition {
+  border-left: 4px solid;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+.admonition-title {
+  font-weight: bold;
+}
+
+.admonition-info {
+  border-color: #17a2b8;
+  background-color: #d1ecf1;
+}
+
+.admonition-warning {
+  border-color: #ffc107;
+  background-color: #fff3cd;
+}
+
+.admonition-danger {
+  border-color: #dc3545;
+  background-color: #f8d7da;
+}
+
+/* Add more styles for other types of admonitions as needed */

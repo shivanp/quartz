@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Sunday, December 10th 2023, 12:02:17 am
-date modified: Sunday, December 10th 2023, 12:41:32 am
+date modified: Sunday, December 10th 2023, 12:41:33 am
 ---
 
 # Business types
@@ -198,11 +198,7 @@ There are a number of other, less common forms of company.
 
 ### Community Interest Company
 
-CIC is a form of limited liability company, intended for businesses that wish to use their profits and assets for the public good.
-
-CIC has altruistic, charitable aims and uses a business to improve communities rather than make money.
-
-Such companies are governed by the Companies (Audit, Investigations and Community Enterprise) Act 2004, and set up under the formalities of the CA 2006.
+CIC is a form of limited liability company, intended for businesses that wish to use their profits and assets for the public good. CIC has altruistic, charitable aims and uses a business to improve communities rather than make money. Such companies are governed by the Companies (Audit, Investigations and Community Enterprise) Act 2004, and set up under the formalities of the CA 2006.
 
 ### Charitable Incorporated Organisation
 
@@ -214,22 +210,15 @@ The CIO is intended to provide the advantages of a corporate structure, such as 
 
 The UK Societas is a product of Brexit. Whilst the UK was a member of the EU, it was possible for a UK registered company to form a European public company in accordance with EU Regulation 2157/2001 on the Statute for a European Company. These companies are known as Societas Europaea (SE). They are a single company, or a group of companies, operating in different EU Member States which can operate as a single corporate entity subject to one set of rules valid in all Member States.
 
-The European Public Limited-Liability Company (Amendment etc) (EU Exit) Regulations 2018 amended the Regulation and the European Public Limited Liability Company Regulations 2004 (SI 2004/2326) which  
-supplemented it in the UK. As a result, the UK registered SEs (of which there were only about 25 in existence) were converted into a new corporate form, the UK Societas. The UK Societas is only intended to be a temporary  
-corporate form whilst it decides on which other UK corporate structure to adopt. There is, however, no deadline for this transformation to take place. It is not possible to set up a UK Societas from scratch.
+The European Public Limited-Liability Company (Amendment etc) (EU Exit) Regulations 2018 amended the Regulation and the European Public Limited Liability Company Regulations 2004 (SI 2004/2326) which supplemented it in the UK. As a result, the UK registered SEs (of which there were only about 25 in existence) were converted into a new corporate form, the UK Societas. The UK Societas is only intended to be a temporary corporate form whilst it decides on which other UK corporate structure to adopt. There is, however, no deadline for this transformation to take place. It is not possible to set up a UK Societas from scratch.
 
 ### UK Establishment by Overseas Companies
 
 Applies to a pre-existing foreign company that wishes to operate in the UK and set up a regular physical presence. Law set out in the Overseas Companies Regulations 2009 (SI 2009/1801).
 
-All overseas companies that set up a  
-branch (as defined in the 11th EU Company Law Directive 89/666/EEC) or any other place of business in the UK must register selected details of the establishment within one month of its opening.
+All overseas companies that set up a branch (as defined in the 11th EU Company Law Directive 89/666/EEC) or any other place of business in the UK must register selected details of the establishment within one month of its opening.
 
-Registration is not required if the overseas company does not have a physical presence in the UK.
-
-There are currently approximately 13,000 overseas companies with a UK establishment.
-
-In order to register, the overseas company must submit a registration application form, OS IN01.
+Registration is not required if the overseas company does not have a physical presence in the UK. There are currently approximately 13,000 overseas companies with a UK establishment. In order to register, the overseas company must submit a registration application form, OS IN01.
 
 ### Company Formed by Special Act of Parliament
 
