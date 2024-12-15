@@ -1,0 +1,3 @@
+This concerned the legislature of New South Wales, Australia, which had originally been created by the UK Parliament in 1823.
+
+In 1929, legislation was passed in New South Wales which prohibited the abolition of the upper chamber of the legislature without referendum approval. The following year, the legislature passed two Bills designed to abolish the upper chamber without holding the required referendum. The Privy Council granted injunctions preventing royal assent from being granted to the Bills because they had not been passed in the correct manner.

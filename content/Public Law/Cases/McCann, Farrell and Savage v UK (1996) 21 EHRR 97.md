@@ -1,0 +1,22 @@
+The case concerns the state’s ‘negative’ obligation to refrain from killing, and also the investigative duty on the state to fully investigate cases of killing by state agents. Note that the ECtHR has found this duty to be an inherent part of article 2.
+
+Often known as the 'Death on the Rock' case, (after a TV documentary on the subject), it was brought by the relatives of three alleged IRA members who were shot dead in Gibraltar by members of the British security forces (the SAS).
+
+The killings had been carried out with little in the way of a warning to the deceased, and there was no apparent effort to capture them alive. The UK government’s position was that its intelligence agents believed that the three suspects were about to detonate a bomb, which could have caused serious loss of life. Therefore, it claimed that the killings were a proportionate response to the perceived security risk.
+
+#### McCann: Decision
+
+The ECtHR found no violation of article 2 in relation to the shooting by the frontline SAS soldiers themselves. It accepted that the soldiers honestly believed, in the light of the information that they had been given, that it was necessary to shoot the suspects. The actions which the soldiers took, in obedience to superior orders, were thus perceived as absolutely necessary in order to safeguard innocent lives.
+
+However, the court did find a violation by the UK in relation to the lack of care exercised in the control and organisation of the overall security operation. This obligation, which the UK had breached, was framed as the duty of _command, control and training._ This managerial obligation required the state to be in a position to judge when to apply the use of deadly force and to have mechanisms in place to avoid such force when it is not strictly required.
+
+It was questioned, for instance, why the three suspects were not arrested at the border immediately on their arrival in Gibraltar, if it was believed they were intending to plant a bomb.
+
+The salient paragraphs of McCann, concerning the command, control and training findings, are [202] to [214] ([https://www.bailii.org/eu/cases/ECHR/1995/31.html](https://www.bailii.org/eu/cases/ECHR/1995/31.html))
+
+
+---
+
+The parents of three IRA terrorists killed in a military operation to prevent a bomb attack in Gibraltar, lodged an application with the European Commission of Human Rights complaining that the killings constituted a violation of the [European Convention on Human Rights 1950 Art.2](https://uk.westlaw.com/Document/I1B58031DEC86485FA3AEEFBD8980CD10/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=735c962b20724da1ba2049ef3366d1df&contextData=(sc.Default)) which protects the right to life. The three terrorists had been shot several times at close range by members of the Special Air Service acting upon instructions based upon intelligence assessments that the suspects were intending to detonate a car bomb and were likely to be armed. After the shootings it was discovered that none of the three was carrying weapons or detonating devices, but a car hired by one of them was found to contain a large quantity of explosive. The case was referred to the European Court of Human Rights.
+
+Held: Complaint upheld by a majority of 10 to nine. Article 2 of the European Convention was a fundamental provision which required strict interpretation when considering whether the force used in the defence of persons from unlawful violence was more than absolutely necessary. The UK authorities had made an incomplete hypothesis that there was a suspect car bomb, but had conveyed this as a positive identification to the soldiers involved in the anti-terrorist operation, who believed shooting was necessary in order to prevent the detonation of the bomb. Although there was no premeditated plan to kill the suspects, there had been a breach of Art.2 of the Convention as the authorities had shown a lack of appropriate care and control in carrying out the operation by instructing their soldiers to act on their intelligence assessments which failed to account for a possible margin of error and which were, in the event, erroneous. Having made the decision not to arrest the terrorists at the border, as that may have produced insufficient evidence for trial, it was incumbent upon the authorities to exercise caution when issuing instructions to soldiers who were trained to shoot to kill.

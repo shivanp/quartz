@@ -1,0 +1,13 @@
+Witham wished to sue for defamation but could not afford the court issue fee of £500, as he was unemployed. (His request for a waiver of the fee was dismissed.)
+
+He sought judicial review of the Lord Chancellor's decision in setting the court fees. He argued that his right of access to the court was being denied by the scale of fees and the court's refusal to waive them.
+
+It was held that the Act did not authorise the Lord Chancellor to set fees at such a level that access to the courts, a fundamental right, was denied. The statutory instrument was declared to be _ultra vires_ the Act.
+
+---
+
+### Abstract
+
+W applied for judicial review of the [Supreme Court Fees (Amendment) Order 1996](https://uk.westlaw.com/Document/I764829C0E42311DAA7CF8F68F6EE57AB/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=956c0eba00aa4fec8a03a3d63f574f65&contextData=(sc.Default)), on the grounds that Art.3 of the Order, which repealed provisions excusing litigants in person in receipt of income support from payment of court fees and allowing the Lord Chancellor to reduce or waive the fee in exceptional cases of undue financial hardship, was ultra vires as it violated his right to access to a court. W, who was on income support, wished to bring proceedings in person for defamation, for which no legal aid was available, and contended that he could not afford the fees imposed under the Order.
+
+Held, allowing the application, that there were clearly numerous situations in which people on low incomes would be denied access to a court absolutely under the Order and where no legal aid would be available to assist them. It was not necessary to refer to the jurisprudence of the European Court of Human Rights, as the common law clearly afforded special protection to a person's right of access to a court as a constitutional right, which meant that the executive could not abrogate that right without express provision to that effect being enacted by Parliament. Under the [Supreme Court Act 1981 s.130](https://uk.westlaw.com/Document/I0DBD3EF0E44A11DA8D70A0E70A78ED65/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=956c0eba00aa4fec8a03a3d63f574f65&contextData=(sc.Default)), there was nothing to suggest that court fees might be imposed in a manner that could deny absolutely a person's access to the court and thus Art.3 of the Order was ultra vires.

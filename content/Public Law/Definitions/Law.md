@@ -1,0 +1,1 @@
+The system of rules which a particular country or community recognises as regulating the actions of its members, and which it may enforce by the imposition of penalties

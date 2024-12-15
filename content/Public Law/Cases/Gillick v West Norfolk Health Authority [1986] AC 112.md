@@ -1,0 +1,5 @@
+The court was asked to rule on the question of whether children under 16 could lawfully be given contraception, without the knowledge of their parents. The House of Lords decided that in some circumstances they could, if the minor was sufficiently mature to be able to consent to medical treatment, (referred to since as 'Gillick competence'). There was no prior authority on the point. It was suggested that this was due to that fact that in previous eras, it would have been self-evident that parental authority was required, and the question would not have arisen.
+
+Lord Denning's view, in another case, that "the common law can, and should, keep pace with the times", was cited with approval.
+
+Lord Scarman warned against judges 'failing to keep the law abreast of the society in which they live and work'.

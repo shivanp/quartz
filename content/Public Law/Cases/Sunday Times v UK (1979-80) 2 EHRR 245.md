@@ -1,0 +1,11 @@
+Between 1958 and 1961, the drug thalidomide was prescribed as a sedative to some pregnant women; it was later found to cause serious birth defects. A negligence claim was brought against the drug company. In 1972 the Sunday Times published an article which exposed the tragedy. A High Court order was obtained restricting further publication on the basis that it might affect negotiations between the drug company and the victims in the ongoing court case. The court also made it clear that further publication would constitute contempt of court.
+
+The newspaper took its case to the ECtHR, which held that the UK court order had infringed its freedom of expression. The thalidomide scandal was of undisputed public concern and the public and families of victims had a right to know about it. The ECtHR did not accept that there was any greater "pressing social need" which could justify the restriction on the story. The court order and threat of contempt proceedings were a disproportionate restriction, therefore, on the newspaper’s freedom of expression.
+
+---
+
+### Abstract
+
+The European Court of Human Rights considered an application claiming that a High Court injunction infringed their right to freedom of expression guaranteed by the [European Convention on Human Rights 1950 Art.10](https://uk.westlaw.com/Document/IAE7756732A7B4BBC93274BDE4496FB0F/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=d216a81987dc448682759679d13c24a0&contextData=(sc.Default)) of the European Convention of Human Rights. The injunction had been obtained at the instance of the Attorney General. He had successfully claimed that pending a trial concerning the drug "thalidomide" that it was contempt of court to publish one of the articles in a series aiming to assist possible claimants in respect of that trial.
+
+Held, there had been an interference with the applicants "freedom of expression" secured under Art.10 of the Convention and was neither justified nor necessary under Art.10(2) of the Convention which permits certain restrictions on freedom of expression prescribed by law as necessary in a democratic society.

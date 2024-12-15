@@ -1,0 +1,1 @@
+Statute of Frauds 1677 required that sale of 'goods, wares and merchandise' over £10 in value must be evidenced in writing. The question for the court was whether stocks and shares came within this definition. As only those three types of transaction were mentioned, the court held that only those three transactions were covered; shares were not.

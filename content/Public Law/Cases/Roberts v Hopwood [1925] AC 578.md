@@ -1,0 +1,3 @@
+A metropolitan borough council paid its employees wages which were found by the district auditor to be excessive. The auditor disallowed the excess amount and surcharged the same upon the councillors responsible for the payments. The House of Lords, reversing the decision of the Court of Appeal, held that the disallowance and surcharge were rightly made.
+
+A metropolitan borough council paid its employees wages which were found by the district auditor to be excessive. The auditor disallowed the excess amount and surcharged the same upon the councillors responsible for the payments. The House of Lords, reversing the decision of the Court of Appeal, held that the disallowance and surcharge were rightly made.

@@ -1,0 +1,27 @@
+### Summary
+
+The law did not recognise a general duty to give reasons for administrative decisions.
+
+### Abstract
+
+The appellant Palestinian national (H) appealed against the refusal (_[[2007] EWHC 2630 (Admin), [2008] A.C.D. 10](https://uk.westlaw.com/Document/I1A2684C09A5211DC845ACDC7A80F3274/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=5f7b1b58fe9d4bc0a932a33c0a667dd9&contextData=(sc.Default))_) of his application for judicial review of the respondent secretary of state's decision to grant licences for the export of military equipment to Israel.
+
+It was H's original case that the licences were unlawful, as there was a real risk that the licensed articles would be used against Palestinians for internal repression. However, when H saw the schedule to the secretary of state's summary grounds of defence he conceded that the licences were lawfully issued. The schedule listed each of the items, briefly described them, and then briefly commented on why the grant of the licence would not offend the relevant criteria.
+
+H argued that there was a public law duty to publish reasons, such as those that had been provided in the schedule, in the case of export licences for military equipment to Israel and certain other countries. He submitted that public authorities were obliged at common law to publish reasons for administrative decisions whenever in all the circumstances the court was satisfied that the public interest so required, having regard to certain principles such as proportionality, transparency, public confidence and accountability. The secretary of state submitted that the terms of the [Freedom of Information Act 2000](https://uk.westlaw.com/Document/I5FACCF40E42311DAA7CF8F68F6EE57AB/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=5f7b1b58fe9d4bc0a932a33c0a667dd9&contextData=(sc.Default)) were a strong indication that the court should not find a common law duty to give reasons such as was contended for by H. He argued that the judge below had been right to find that Parliament had set out the parameters for the disclosure of information, and the law should not go further. H argued, in response, that the enactment of the 2000 Act should not be seen as abrogating a common law duty which could be demonstrated to exist.
+
+### Held
+
+Appeal dismissed.
+
+(1) The law did not recognise a general duty to give reasons for an administrative decision, _[R. v Kensington and Chelsea RLBC Ex p. Grillo (1996) 28 H.L.R. 94, [1995] 5 WLUK 171](https://uk.westlaw.com/Document/I8C05ACC0E43611DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=5f7b1b58fe9d4bc0a932a33c0a667dd9&contextData=(sc.Default))_ and _[Stefan v General Medical Council [1999] 1 W.L.R. 1293, [1999] 3 WLUK 124](https://uk.westlaw.com/Document/IBEA414E0E42811DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=5f7b1b58fe9d4bc0a932a33c0a667dd9&contextData=(sc.Default))_ applied. There were exceptions to that for individuals and classes of individuals, and there might be a trend for the exceptions to become the norm and the cases where reasons were not required might appear to be exceptions. However, the general rule had not been departed from. 
+
+(2) The enactment of the 2000 Act would be unlikely to abrogate any previously well-recognised common law duty, unless it did so expressly, which it did not. However, there was no such well-recognised common law duty. The 2000 Act could be seen as Parliament's considered statutory framework for the disclosure of information held by public authorities, whose enactment militated against the incremental judicial perception of a common law duty of the same or any wider extent. 
+
+(3) The [Export Control Act 2002](https://uk.westlaw.com/Document/I5FA07331E42311DAA7CF8F68F6EE57AB/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=5f7b1b58fe9d4bc0a932a33c0a667dd9&contextData=(sc.Default)) and the [Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) Order 2003](https://uk.westlaw.com/Document/I6A865DF0E42311DAA7CF8F68F6EE57AB/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=5f7b1b58fe9d4bc0a932a33c0a667dd9&contextData=(sc.Default)) contained provision for giving reasons to an applicant for a licence whose application was refused, a requirement for an annual report to Parliament and a power for proportionate disclosure of information. That structure showed that Parliament had considered what information should be given and to whom, and argued against a wide common law obligation. 
+
+(4) The 2002 Act was in fact administered with the additional voluntary publication of quarterly reports and assiduous scrutiny by a House of Commons Select Committee. There was in practice a high degree of openness and public accountability. That suggested little necessity for a common law duty. 
+
+(5) The subject matter was generally sensitive, such that unguarded publication was likely to be on occasions damaging. Parliamentary scrutiny, with a possibility of receiving information in closed session, was thus to be seen as preferable. 
+
+(6) H had been unable to formulate a sufficiently confined and principled common law duty. The problem of definition was compounded because H, having conceded that the licences were lawfully issued, now had no more than a nominal interest in the proceedings.

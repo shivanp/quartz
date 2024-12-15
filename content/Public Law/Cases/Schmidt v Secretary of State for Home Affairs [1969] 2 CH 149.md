@@ -1,0 +1,9 @@
+The Secretary of State for the Home Department has power to refuse an alien leave to land, or an extension of his time of stay, without giving any reasons. His act being administrative, the rules of natural justice do not apply. The plaintiffs were given leave to land in the United Kingdom for the purpose of attending education in scientology. The British Government, having been convinced that scientology was socially harmful, declared that it would curb its growth and in pursuance of this policy the Secretary of State for the Home Department rejected the plaintiffs' applications for extension of their stay in this country. The plaintiffs issued a writ challenging the Home Secretary's power and invoking the doctrine of natural justice; Ungoed-Thomas, J. ordered their statement of claim to be struck out. 
+
+On appeal, held, 
+
+(1) that the Secretary of State for the Home Department had power under the Aliens Order 1953 to refuse aliens permission to land or to extend their time of stay and he had acted in the interest of society; and 
+
+(2) that, there being no right of entry or extension of stay, questions of interference with rights and of the applicability of rules of natural justice did not arise. (Dictum of Lord Reid in _[Ridge v Baldwin [1964] A.C. 40, [1963] 3 WLUK 60](https://uk.westlaw.com/Document/I882100E0E42811DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=8e6224185dfe41f98ea71c233d220e0e&contextData=(sc.Default))_ applied; decision of Ungoed-Thomas, J. [1968] 3 All E.R. 795 affirmed). Obiter, per Lord Denning M.R.:
+> The Secretary of State for the Home Department should, in exceptional circumstances, listen to reason as to why he should not apply a certain policy. [Leave to appeal to the House of Lords refused [1969] 1 W.L.R. 338].
+

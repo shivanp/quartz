@@ -1,0 +1,7 @@
+The case concerned an application for a new passport from a UK national, residing in Spain, for whom an arrest warrant had been issued. Everett wished to challenge the refusal by the FCO to approve his application, based on its policy relating to those suspected of past criminal activity.
+
+The Court of Appeal ultimately found against Everett on the facts. But the important aspect of the case was the court's acknowledgement that this was a matter that was suitable for JR.
+
+The FCO failed in its attempts to argue that this was 'non-justiciable', because the power to grant passports fell under the broad umbrella of the prerogative relating to diplomatic relations. The courts again looked to the nature of the power concerned rather than where it came from.
+
+> 'The majority of their Lordships [in _GCHQ_] indicated that whether judicial review of the exercise of prerogative power is open depends upon the subject matter and in particular whether it is justiciable. At the top of the scale of executive functions under the prerogative are matters of high policy, of which examples were given by their Lordships; making treaties, making war, dissolving Parliament … Clearly those matters … are not justiciable. But the grant or refusal of a passport is in a quite different category. It is a matter of administrative decision, affecting the rights of individuals and their freedom to travel.'

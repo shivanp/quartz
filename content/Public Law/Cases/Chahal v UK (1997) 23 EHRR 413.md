@@ -1,0 +1,16 @@
+Chahal was an activist for the cause of Sikh separatism in India who was in the custody of the UK. The UK wanted to deport him to India because of his alleged criminal behaviour while in India, and the Indian government had indicated he would be welcomed back and treated properly.
+
+Chahal successfully argued that, while there would be no officially sanctioned action against him, he would be at 'real risk’ of mistreatment by rogue elements within the Punjab Police, and that their official status (even if their action was not 'officially' sanctioned) would mean that the state would not intervene to protect him.
+
+The case therefore extended the principle in Soering to apply to situations where non-state actors represented the possible cause of the article 3 mistreatment.
+
+---
+C, an Indian citizen, was given indefinite leave to remain in the UK in 1974 after entering illegally. In 1984 he visited the Punjab and, as a result of his involvement in the organisation of passive resistance in support of a Sikh homeland, was detained and tortured by police. On returning to the UK, he became a leading figure among British Sikhs. In 1990 the Secretary of State decided to deport C in the interests of national security and the need to combat terrorism, and he had been held in custody since then. C's application for political asylum was refused and, because the decision to deport concerned national security, he had no right of appeal to an independent tribunal. His case was, however, examined by an advisory panel in 1991, who reported to the Secretary of State, but C was allowed no representation and was not told of the evidence against him. A deportation order was signed and C's application for judicial review failed as, in the absence of evidence of the risk posed to national security, the court was unable to assess whether the Secretary of State's decision to refuse asylum was irrational. C applied to the European Court of Human Rights.
+
+Held, that 
+
+(1) by 12 votes to seven, the [European Convention on Human Rights 1950 Art.3](https://uk.westlaw.com/Document/IC7F7C04FC8E44BEC84CB31238C777298/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=4dc3c8410b354ab18ecab97ff9a02ab5&contextData=(sc.Default)) absolutely prohibited "torture or inhumane or degrading treatment", regardless of the circumstances of the case, and although the court understood the problems faced by states in the fight against terrorism, the main consideration in the decision was not national security but the possibility of ill-treatment of C in India if he was deported. There was substantial evidence of serious human rights abuses by the Indian authorities and their promise of C's safety was not wholly convincing; therefore deportation would violate Art.3; 
+
+(2) unanimously, there had been violations of Art.5.4 in the refusal to allow C recourse to domestic appeal procedures, as it should be possible to find a method of protecting confidential information without denying access to the court system, and 
+
+(3) unanimously, there had been a breach of Art.13, under which C had the right to independent examination of his claim of the risk of ill treatment.

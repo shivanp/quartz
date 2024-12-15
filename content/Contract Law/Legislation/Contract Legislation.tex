@@ -1,0 +1,1499 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{xcolor}
+\definecolor{aliceblue}{HTML}{F0F8FF}
+\definecolor{antiquewhite}{HTML}{FAEBD7}
+\definecolor{aqua}{HTML}{00FFFF}
+\definecolor{aquamarine}{HTML}{7FFFD4}
+\definecolor{azure}{HTML}{F0FFFF}
+\definecolor{beige}{HTML}{F5F5DC}
+\definecolor{bisque}{HTML}{FFE4C4}
+\definecolor{black}{HTML}{000000}
+\definecolor{blanchedalmond}{HTML}{FFEBCD}
+\definecolor{blue}{HTML}{0000FF}
+\definecolor{blueviolet}{HTML}{8A2BE2}
+\definecolor{brown}{HTML}{A52A2A}
+\definecolor{burlywood}{HTML}{DEB887}
+\definecolor{cadetblue}{HTML}{5F9EA0}
+\definecolor{chartreuse}{HTML}{7FFF00}
+\definecolor{chocolate}{HTML}{D2691E}
+\definecolor{coral}{HTML}{FF7F50}
+\definecolor{cornflowerblue}{HTML}{6495ED}
+\definecolor{cornsilk}{HTML}{FFF8DC}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{cyan}{HTML}{00FFFF}
+\definecolor{darkblue}{HTML}{00008B}
+\definecolor{darkcyan}{HTML}{008B8B}
+\definecolor{darkgoldenrod}{HTML}{B8860B}
+\definecolor{darkgray}{HTML}{A9A9A9}
+\definecolor{darkgreen}{HTML}{006400}
+\definecolor{darkgrey}{HTML}{A9A9A9}
+\definecolor{darkkhaki}{HTML}{BDB76B}
+\definecolor{darkmagenta}{HTML}{8B008B}
+\definecolor{darkolivegreen}{HTML}{556B2F}
+\definecolor{darkorange}{HTML}{FF8C00}
+\definecolor{darkorchid}{HTML}{9932CC}
+\definecolor{darkred}{HTML}{8B0000}
+\definecolor{darksalmon}{HTML}{E9967A}
+\definecolor{darkseagreen}{HTML}{8FBC8F}
+\definecolor{darkslateblue}{HTML}{483D8B}
+\definecolor{darkslategray}{HTML}{2F4F4F}
+\definecolor{darkslategrey}{HTML}{2F4F4F}
+\definecolor{darkturquoise}{HTML}{00CED1}
+\definecolor{darkviolet}{HTML}{9400D3}
+\definecolor{deeppink}{HTML}{FF1493}
+\definecolor{deepskyblue}{HTML}{00BFFF}
+\definecolor{dimgray}{HTML}{696969}
+\definecolor{dimgrey}{HTML}{696969}
+\definecolor{dodgerblue}{HTML}{1E90FF}
+\definecolor{firebrick}{HTML}{B22222}
+\definecolor{floralwhite}{HTML}{FFFAF0}
+\definecolor{forestgreen}{HTML}{228B22}
+\definecolor{fuchsia}{HTML}{FF00FF}
+\definecolor{gainsboro}{HTML}{DCDCDC}
+\definecolor{ghostwhite}{HTML}{F8F8FF}
+\definecolor{gold}{HTML}{FFD700}
+\definecolor{goldenrod}{HTML}{DAA520}
+\definecolor{gray}{HTML}{808080}
+\definecolor{green}{HTML}{008000}
+\definecolor{greenyellow}{HTML}{ADFF2F}
+\definecolor{grey}{HTML}{808080}
+\definecolor{honeydew}{HTML}{F0FFF0}
+\definecolor{hotpink}{HTML}{FF69B4}
+\definecolor{indianred}{HTML}{CD5C5C}
+\definecolor{indigo}{HTML}{4B0082}
+\definecolor{ivory}{HTML}{FFFFF0}
+\definecolor{khaki}{HTML}{F0E68C}
+\definecolor{lavender}{HTML}{E6E6FA}
+\definecolor{lavenderblush}{HTML}{FFF0F5}
+\definecolor{lawngreen}{HTML}{7CFC00}
+\definecolor{lemonchiffon}{HTML}{FFFACD}
+\definecolor{lightblue}{HTML}{ADD8E6}
+\definecolor{lightcoral}{HTML}{F08080}
+\definecolor{lightcyan}{HTML}{E0FFFF}
+\definecolor{lightgoldenrodyellow}{HTML}{FAFAD2}
+\definecolor{lightgray}{HTML}{D3D3D3}
+\definecolor{lightgreen}{HTML}{90EE90}
+\definecolor{lightgrey}{HTML}{D3D3D3}
+\definecolor{lightpink}{HTML}{FFB6C1}
+\definecolor{lightsalmon}{HTML}{FFA07A}
+\definecolor{lightseagreen}{HTML}{20B2AA}
+\definecolor{lightskyblue}{HTML}{87CEFA}
+\definecolor{lightslategray}{HTML}{778899}
+\definecolor{lightslategrey}{HTML}{778899}
+\definecolor{lightsteelblue}{HTML}{B0C4DE}
+\definecolor{lightyellow}{HTML}{FFFFE0}
+\definecolor{lime}{HTML}{00FF00}
+\definecolor{limegreen}{HTML}{32CD32}
+\definecolor{linen}{HTML}{FAF0E6}
+\definecolor{magenta}{HTML}{FF00FF}
+\definecolor{maroon}{HTML}{800000}
+\definecolor{mediumaquamarine}{HTML}{66CDAA}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{mediumorchid}{HTML}{BA55D3}
+\definecolor{mediumpurple}{HTML}{9370DB}
+\definecolor{mediumseagreen}{HTML}{3CB371}
+\definecolor{mediumslateblue}{HTML}{7B68EE}
+\definecolor{mediumspringgreen}{HTML}{00FA9A}
+\definecolor{mediumturquoise}{HTML}{48D1CC}
+\definecolor{mediumvioletred}{HTML}{C71585}
+\definecolor{midnightblue}{HTML}{191970}
+\definecolor{mintcream}{HTML}{F5FFFA}
+\definecolor{mistyrose}{HTML}{FFE4E1}
+\definecolor{moccasin}{HTML}{FFE4B5}
+\definecolor{navajowhite}{HTML}{FFDEAD}
+\definecolor{navy}{HTML}{000080}
+\definecolor{oldlace}{HTML}{FDF5E6}
+\definecolor{olive}{HTML}{808000}
+\definecolor{olivedrab}{HTML}{6B8E23}
+\definecolor{orange}{HTML}{FFA500}
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{orchid}{HTML}{DA70D6}
+\definecolor{palegoldenrod}{HTML}{EEE8AA}
+\definecolor{palegreen}{HTML}{98FB98}
+\definecolor{paleturquoise}{HTML}{AFEEEE}
+\definecolor{palevioletred}{HTML}{DB7093}
+\definecolor{papayawhip}{HTML}{FFEFD5}
+\definecolor{peachpuff}{HTML}{FFDAB9}
+\definecolor{peru}{HTML}{CD853F}
+\definecolor{pink}{HTML}{FFC0CB}
+\definecolor{plum}{HTML}{DDA0DD}
+\definecolor{powderblue}{HTML}{B0E0E6}
+\definecolor{purple}{HTML}{800080}
+\definecolor{red}{HTML}{FF0000}
+\definecolor{rosybrown}{HTML}{BC8F8F}
+\definecolor{royalblue}{HTML}{4169E1}
+\definecolor{saddlebrown}{HTML}{8B4513}
+\definecolor{salmon}{HTML}{FA8072}
+\definecolor{sandybrown}{HTML}{F4A460}
+\definecolor{seagreen}{HTML}{2E8B57}
+\definecolor{seashell}{HTML}{FFF5EE}
+\definecolor{sienna}{HTML}{A0522D}
+\definecolor{silver}{HTML}{C0C0C0}
+\definecolor{skyblue}{HTML}{87CEEB}
+\definecolor{slateblue}{HTML}{6A5ACD}
+\definecolor{slategray}{HTML}{708090}
+\definecolor{slategrey}{HTML}{708090}
+\definecolor{snow}{HTML}{FFFAFA}
+\definecolor{springgreen}{HTML}{00FF7F}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{tan}{HTML}{D2B48C}
+\definecolor{teal}{HTML}{008080}
+\definecolor{thistle}{HTML}{D8BFD8}
+\definecolor{tomato}{HTML}{FF6347}
+\definecolor{turquoise}{HTML}{40E0D0}
+\definecolor{violet}{HTML}{EE82EE}
+\definecolor{wheat}{HTML}{F5DEB3}
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{whitesmoke}{HTML}{F5F5F5}
+\definecolor{yellow}{HTML}{FFFF00}
+\definecolor{yellowgreen}{HTML}{9ACD32}
+\usepackage[most]{tcolorbox}
+
+\usepackage{ifthen}
+\provideboolean{admonitiontwoside}
+\makeatletter%
+\if@twoside%
+\setboolean{admonitiontwoside}{true}
+\else%
+\setboolean{admonitiontwoside}{false}
+\fi%
+\makeatother%
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Contract Legislation},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Contract Legislation}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\hypertarget{sale-of-goods-act-1979}{%
+\section{Sale of Goods Act 1979}\label{sale-of-goods-act-1979}}
+
+\href{https://www.legislation.gov.uk/ukpga/1979/54/contents}{Sale of
+Goods Act 1979}, as amended by the Sale and Supply of Goods Act 1994,
+(SGA).
+
+Implied terms set out do not apply to consumer contracts (e.g.~between a
+trader and a consumer) defined in Consumer Rights Act 2015. Similar
+terms but not the same.
+
+Note that s 14(2) imposes strict liability.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.4211}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5789}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Sections
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Explanation
+\end{minipage} \\
+\midrule()
+\endhead
+s 12 & Provides for the implication that the seller has the
+\textbf{right to sell} the goods. Categorised as a condition of the
+contract. \\
+s 13 & Where there is a contract for the sale of goods by description,
+there is an implied term that the goods will \textbf{correspond with the
+description}. Categorised as a condition pursuant to s 13(1A). But
+consider also s 15(A), breach so slight. So in reality more of a HK Fir
+style test. \\
+s 14(2) & Where seller sells goods, implied term that goods supplied are
+of a \textbf{satisfactory quality}. Defined in terms of reasonable
+person test, taking into account description of goods, price etc (s
+14(2A)). Satisfactory means fitness for purposes, appearance and finish,
+freedom from minor defects (if not examined/ highlighted in advance),
+safety, durability (s 14(2B)). Breach is a breach of condition (s
+14(6)). \\
+s 14(3) & Goods should be \textbf{fit for purpose} - whether or not that
+is a purpose for which such goods are commonly supplied, except where
+buyer does not rely/ cannot reasonably rely on skill/judgement of
+seller/credit-broker. Breach classified as a breach of a condition. \\
+s 15 & For sale by sample: \textbf{bulk will correspond with the sample}
+in quality, goods free from any defect not apparent on reasonable
+inspection of sample. Breach is breach of condition. If breach is so
+slight that unreasonable for buyer to reject the goods, breach should be
+treated as breach of warranty (and burden of proof on seller) \\
+s 55 & A seller's liability under above sections can be excluded and/or
+restricted by agreement of parties, subject to Unfair Contract Terms Act
+1977 (UCTA). But UCTA pretty toothless. \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{implied-terms-as-to-title-s-12}{%
+\subsection{Implied Terms as to Title -- S
+12}\label{implied-terms-as-to-title-s-12}}
+
+Section 12 provides for the implication that the seller has the right to
+sell the goods.
+
+The term implied by subsection 12(1) is categorised as a condition of
+the contract. The distinction between conditions and warranties and the
+relevance of that distinction are not detailed in this element.
+
+\hypertarget{correspondence-with-description-s-13}{%
+\subsection{Correspondence with Description -- S
+13}\label{correspondence-with-description-s-13}}
+
+Section 13(1) provides:
+
+\begin{quote}
+``Where there is a contract for the sale of goods by description, there
+is an implied term that the goods will \textbf{correspond with the
+description}''
+\end{quote}
+
+Where goods are described as having certain characteristics and
+specifications then they must correspond with that description.
+
+The term implied by subsection 13(1) is categorised as a condition under
+s13(1A).
+
+\hypertarget{satisfactory-quality-s142}{%
+\subsection{Satisfactory Quality --
+s14(2)}\label{satisfactory-quality-s142}}
+
+Section 14(2) of the Sale of Goods Act 1979 (as amended) provides:
+
+\begin{quote}
+``Where the seller sells goods in the course of a business, there is an
+implied term that the goods supplied under the contract are of
+\textbf{satisfactory quality}''
+\end{quote}
+
+According to s14(2A), the goods are of satisfactory quality if:
+
+\begin{quote}
+``they meet the standard that a reasonable person would regard as
+satisfactory, taking account of any description of the goods, the price
+(if relevant) and all the other relevant circumstances''
+\end{quote}
+
+Section 14(2B) provides a checklist of what may be taken into account in
+assessing whether the goods are of satisfactory quality. These are:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Fitness for all the purposes for which goods of the kind in question
+  are commonly supplied;
+\item
+  Appearance and finish;
+\item
+  Freedom from minor defects;
+\item
+  Safety; and
+\item
+  Durability.
+\end{enumerate}
+
+If goods have a self-evident purpose, eg a hot-water bottle or a pair of
+underpants, this self-evident purpose will clearly be covered by
+s14(2B)(a) as a purpose for which the `goods of the kind in question are
+commonly supplied'.
+
+The exceptions to the implied term as to satisfactory quality are to be
+found in s14(2C)(a) and (b). Thus, there is no condition as regards
+defects specifically drawn to the buyer's attention before the contract
+was made, or, if the buyer examines the goods before the contract is
+made, as regards defects which that examination ought to have revealed.
+Nor will a condition be implied where the seller is not selling in the
+course of a business.
+
+Breach of s14(2) is classified as breach of a condition by s14(6).
+
+\hypertarget{fitness-for-a-particular-purpose-s143}{%
+\subsection{Fitness for a Particular Purpose --
+s14(3)}\label{fitness-for-a-particular-purpose-s143}}
+
+In addition to satisfactory quality, the goods should also be fit for
+purpose.
+
+Section 14(3) states:
+
+\begin{quote}
+``Where the seller sells goods in the course of a business and the
+buyer, expressly or by implication, makes known:
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\tightlist
+\item
+  to the seller, or\\
+\item
+  where the purchase price or part of it is payable by instalments and
+  the goods
+\end{enumerate}
+
+were previously sold by a credit-broker to the seller, to that
+credit-broker, any particular purpose for which the goods are being
+bought, there is an implied term that the goods supplied under the
+contract are \textbf{reasonably fit for that purpose}, whether or not
+that is a purpose for which such goods are commonly supplied, except
+where the circumstances show that the buyer does not rely, or that it is
+unreasonable for him to rely, on the skill or judgment of the seller or
+credit-broker.''
+\end{quote}
+
+The section above makes clear that no implied condition as to fitness
+for a particular purpose arises where the circumstances show that the
+buyer does not rely, or that it is unreasonable for him to rely, on the
+seller's skill or judgment.
+
+Breach of s14(3) is classified as breach of a condition by s14(6).
+
+\hypertarget{sale-by-sample-s-15}{%
+\subsection{Sale by Sample -- S 15}\label{sale-by-sample-s-15}}
+
+Where a sale is by sample, two conditions are implied into the contract
+by the Sale of Goods Act 1979 by virtue of s15(2):
+
+\begin{quote}
+\begin{enumerate}
+\def\labelenumi{(\alph{enumi})}
+\tightlist
+\item
+  that the bulk will correspond with the sample in quality;\\
+\item
+  that the goods will be free from any defect, making their quality
+  unsatisfactory, which would not be apparent on reasonable examination
+  of the sample.
+\end{enumerate}
+\end{quote}
+
+Breach of s15(2) is classified as breach of a condition by s15(3), but
+the remedies available are subject to s15A SGA 1979 (see later in this
+element).
+
+\hypertarget{modification-of-remedies-for-breach-of-condition---s15a}{%
+\subsubsection{Modification of Remedies for Breach of Condition -
+s15A}\label{modification-of-remedies-for-breach-of-condition---s15a}}
+
+Although a breach of ss13, 14(2), 14(3) and 15 is breach of a condition,
+as stated above, this is subject to s15A.
+
+Section 15A provides that if the breach is so slight that it would be
+unreasonable for the buyer to reject the goods and repudiate the
+contract, the breach should be treated as a breach of warranty, which
+will only entitle the buyer to claim damages.
+
+The burden of proving that the breach is so slight and therefore
+unreasonable for the buyer to reject the goods falls on the seller.
+
+\textbf{Contracting out of the implied terms under the Sale of Goods Act
+1979 (as amended)}
+
+Section 55 indicates that a seller's liability under ss12, 13, 14 and 15
+of the SGA 1979 can be excluded and/or restricted by agreement of the
+parties, subject to the Unfair Contract Terms Act 1977 (UCTA).
+
+UCTA does in fact significantly limit the ability to exclude / restrict
+these terms.
+
+Under s 6(1)(a) of UCTA, the implied undertaking as to title contained
+in s 12 SGA 1979 cannot be excluded or restricted.
+
+Under s6(1A) of UCTA, the implied undertakings as to description,
+quality, fitness for purpose or sample contained in ss13-15 of the SGA
+can be excluded / restricted subject to the requirement of
+reasonableness. The detail of this is not addressed in this element.
+
+\hypertarget{supply-of-goods-and-services-act-1982}{%
+\section{Supply of Goods and Services Act
+1982}\label{supply-of-goods-and-services-act-1982}}
+
+Provides for the implication of terms in
+
+\begin{itemize}
+\tightlist
+\item
+  Certain contracts for transfer of property in goods
+\item
+  Contracts for hire of goods
+\item
+  Contracts for supply of services
+\end{itemize}
+
+Implied terms do not apply to consumer contracts defined in Consumer
+Rights Act 2015.
+
+\hypertarget{contracts-for-transfer-of-property-in-goods}{%
+\subsection{Contracts for Transfer of Property in
+Goods}\label{contracts-for-transfer-of-property-in-goods}}
+
+A contract under which one person transfers or agrees to transfer to
+another the property in goods, \textbf{other than} any of the following
+(s 1):
+
+\begin{itemize}
+\tightlist
+\item
+  Contract of sale of goods
+\item
+  Hire purchase agreement
+\item
+  Contract under which property in goods is or is to be transferred in
+  exchange for trading stamps
+\item
+  Transfer made by deed for which there is no consideration other than
+  presumed consideration
+\item
+  Contract intended to operate by way of security
+\end{itemize}
+
+In any contract for transfer of goods, terms will be implied
+corresponding to those implied in case of contracts for sale of goods
+(title (s 2), description (s 3), quality and fitness of purpose (s 4),
+transfer by sample where applicable (s 5)).
+
+\hypertarget{contracts-for-hire-of-goods}{%
+\subsection{Contracts for Hire of
+Goods}\label{contracts-for-hire-of-goods}}
+
+Means a contract under which one person bails or agrees to bail goods to
+another by way of hire (s 6) other than the following:
+
+\begin{itemize}
+\tightlist
+\item
+  Hire purchase agreement, and
+\item
+  Contract under which goods bailed in exchange for trading stamps
+\end{itemize}
+
+In any contract for hire of goods, terms will be implied corresponding
+to those implied in the case of contracts for the sale of goods,
+including
+
+\begin{itemize}
+\tightlist
+\item
+  implied terms about the right to transfer possession (s 7)
+\item
+  implied terms where hire is by description (s 8)
+\item
+  implied terms about quality or fitness (s 9)
+\item
+  implied terms where hire is by sample (s 10)
+\end{itemize}
+
+\hypertarget{contracts-for-the-supply-of-services}{%
+\subsection{Contracts for the Supply of
+Services}\label{contracts-for-the-supply-of-services}}
+
+SGSA provides implied terms:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Care and skill}: where supplier acting in course of business,
+  implied term that the supplier will carry out service with reasonable
+  care and skill (s 13)
+\item
+  \textbf{Time of performance}: where supplier acting in course of
+  business and time for service not fixed by contract, implied term that
+  supplier will carry out service within a reasonable time. What is a
+  reasonable time is a question of fact. (s 14)
+\item
+  \textbf{Consideration}: where consideration for service not determined
+  by contract, implied term that party contracting with supplier will
+  pay a reasonable charge. What is a reasonable charge is a question of
+  fact. (s 15)
+\end{itemize}
+
+\hypertarget{contracting-out-these-terms}{%
+\subsection{Contracting Out These
+Terms}\label{contracting-out-these-terms}}
+
+\begin{itemize}
+\tightlist
+\item
+  For contracts for transfer of goods or hire of goods, under s 11 the
+  supplier may negative or vary these terms, subject to provisions of
+  Unfair Contract Terms Act 1977.
+\item
+  For contracts for supply of services, under s 16, a party may contract
+  out implied terms set out, subject to provisions of UCTA.
+\item
+  But UCTA pretty toothless
+\end{itemize}
+
+\hypertarget{classification-of-terms}{%
+\subsection{Classification of Terms}\label{classification-of-terms}}
+
+s 13 SGSA is an \textbf{innominate term}.
+
+\hypertarget{unfair-contract-terms-act-1977}{%
+\section{Unfair Contract Terms Act
+1977}\label{unfair-contract-terms-act-1977}}
+
+\hypertarget{purpose}{%
+\subsection{Purpose}\label{purpose}}
+
+From preamble of
+\href{https://www.legislation.gov.uk/ukpga/1977/50/contents}{UCTA 1977}:
+
+\begin{quote}
+An Act to impose further limits on the extent to which \ldots{}
+liability for breach of contract, or for negligence or other breach of
+duty, can be avoided by means of contract terms and otherwise.
+\end{quote}
+
+Provisions ensure:
+
+\begin{itemize}
+\tightlist
+\item
+  Certain types of exemption clause have no effect
+\item
+  Other types of exemption clause are effective only so far as they
+  satisfy the requirements of reasonableness
+\end{itemize}
+
+\hypertarget{scope}{%
+\subsection{Scope}\label{scope}}
+
+\hypertarget{consumer-contracts}{%
+\subsubsection{Consumer Contracts}\label{consumer-contracts}}
+
+Provisions do not apply to `consumer contracts'; these are instead
+governed by {[}\protect\hyperlink{consumer-rights-act-2015}{Consumer
+Rights Act 2015}{]}.
+
+\hypertarget{business-liability}{%
+\subsubsection{Business Liability}\label{business-liability}}
+
+s 1(3):
+
+\begin{quote}
+In the case of both contract and tort, sections 2 to 7 apply (except
+where the contrary is stated in section 6(4)) only to \textbf{business
+liability}, that is liability for breach of obligations or duties
+arising---
+\end{quote}
+
+\begin{quote}
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \tightlist
+  \item
+    from things done or to be done by a person in the course of a
+    business (whether his own business or another's); or
+  \end{enumerate}
+\end{itemize}
+\end{quote}
+
+\begin{quote}
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{1}
+  \tightlist
+  \item
+    from the occupation of premises used for business purposes of the
+    occupier;
+  \end{enumerate}
+\end{itemize}
+\end{quote}
+
+The effect of this is:
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Number of parties acting in the course of a business
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Statutory regime applicable
+\end{minipage} \\
+\midrule()
+\endhead
+Both parties & UCTA \\
+One party & CRA 2015 \\
+Neither party & Neither statutory regime applies \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{unfair-clauses}{%
+\subsubsection{Unfair Clauses}\label{unfair-clauses}}
+
+Also note, UCTA \textbf{only applies to exemption clauses} (those which
+limit or exclude liability, either directly or indirectly), not to all
+`unfair' clauses.
+
+\hypertarget{negligence-liability}{%
+\subsection{Negligence Liability}\label{negligence-liability}}
+
+s 1(1):
+
+\begin{quote}
+For the purposes of this Part of this Act, ``negligence'' means the
+breach---
+\end{quote}
+
+\begin{quote}
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \tightlist
+  \item
+    of any obligation, arising from the express or implied terms of a
+    contract, to take reasonable care or exercise reasonable skill in
+    the performance of the contract;
+  \end{enumerate}
+\end{itemize}
+\end{quote}
+
+\begin{quote}
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{1}
+  \tightlist
+  \item
+    of any common law duty to take reasonable care or exercise
+    reasonable skill (but not any stricter duty);
+  \end{enumerate}
+\end{itemize}
+\end{quote}
+
+\begin{enumerate}
+\def\labelenumi{(\alph{enumi})}
+\tightlist
+\item
+  covers duties of care imposed by contract (e.g., a breach of s 13 of
+  Supply of Goods and Services Act 1982, to carry out a service in the
+  course of business with reasonable skill and care). (b) is the tort of
+  negligence!
+\end{enumerate}
+
+\hypertarget{exempting-liability-for-losses-resulting-from-negligence}{%
+\subsubsection{Exempting Liability for Losses Resulting From
+Negligence}\label{exempting-liability-for-losses-resulting-from-negligence}}
+
+s 2(1):
+
+\begin{quote}
+A person cannot by reference to any contract term or to a notice given
+to persons generally or to particular persons exclude or restrict his
+liability for \textbf{death or personal injury} resulting from
+negligence.
+\end{quote}
+
+Accordingly, any attempt to exclude or restrict liability for death or
+personal injury resulting from negligence will be void.
+
+s 2(2):
+
+\begin{quote}
+In the case of \textbf{other loss or damage}, a person cannot so exclude
+or restrict his liability for negligence, except in so far as the term
+or notice satisfies the requirement of reasonableness.
+\end{quote}
+
+\hypertarget{exempting-liability-for-breach-of-statutory-implied-terms-about-quality-of-goods}{%
+\subsubsection{Exempting Liability for Breach of Statutory Implied Terms
+About Quality of
+Goods}\label{exempting-liability-for-breach-of-statutory-implied-terms-about-quality-of-goods}}
+
+s 6(1a):\\
+Liability for breach of s 13-15 of
+{[}\protect\hyperlink{sale-of-goods-act-1979}{Sale of Goods Act 1979}{]}
+(conformity with description or sample, quality or fitness for a
+particular purpose),
+
+\begin{quote}
+{[}\ldots{]} cannot be excluded or restricted by reference to a contract
+term except in so far as the term satisfies the requirement of
+\textbf{reasonableness}.
+\end{quote}
+
+\hypertarget{exempting-liability-arising-in-contract}{%
+\subsubsection{Exempting Liability Arising in
+Contract}\label{exempting-liability-arising-in-contract}}
+
+s 3:
+
+\begin{quote}
+(1)This section applies as between contracting parties where one of them
+deals \ldots{} on the other's \textbf{written standard terms} of
+business.\\
+(2)As against that party, the other cannot by reference to any contract
+term - (a) when himself in breach of contract, exclude or restrict any
+liability of his in respect of the breach; or - (b) claim to be
+entitled--- - (i) to render a contractual performance substantially
+different from that which was reasonably expected of him, or - (ii) in
+respect of the whole or any part of his contractual obligation, to
+render no performance at all,\\
+except in so far as (in any of the cases mentioned above in this
+subsection) the contract term satisfies the requirement of
+\textbf{reasonableness}.
+\end{quote}
+
+`Written standard terms of business' is not defined, but the court uses
+a common sense approach. In {[}{[}St Albans City Council v.
+International Computers Ltd {[}1995{]} FSR 686{]}{]} held that even
+where a party's general terms had been the subject of negotiation, they
+were still dealing on standard terms for purposes of UCTA as terms
+remained effectively untouched.
+
+Recently: if exemption clauses are from one party's standard terms, then
+even if the other party negotiates other clauses, UCTA will apply
+({[}{[}Commercial Management (Investments) Ltd v Mitchell Design and
+Construct Ltd {[}2016{]} EWHC 76 (TCC){]}{]}).
+
+Key requirement here is for dealing on `written standard terms'. So,
+exclusions/ limitations of liability for breach of contract in
+individually negotiated business to business contracts are generally not
+regulated by UCTA. That is, unless they are regulated by other areas of
+UCTA, such as attempts to limit liability for death or personal injury
+caused by negligence.
+
+\hypertarget{reasonableness-test}{%
+\subsection{Reasonableness Test}\label{reasonableness-test}}
+
+Set out in s 11(1). To pass the test, the term:
+
+\begin{quote}
+{[}\ldots{]} shall have been a fair and reasonable one to be included
+having regard to the circumstances which were, or ought reasonably to
+have been, known to or in the contemplation of the parties \textbf{when
+the contract was made}.
+\end{quote}
+
+``Fair and reasonable'' is a difficult test to apply. According to s
+11(2), when applied to s 6-7, this should be considered alongside
+matters specified in Schedule 2 of the Act. Courts have clarified that
+Schedule 2 guidelines may be used more widely, at any time the UCTA
+reasonableness test is being applied ({[}{[}Stewart Gill Ltd v Horatio
+Myer \& Co.~Ltd {[}1992{]} 1 QB 600{]}{]}).
+
+Guiding factors in Schedule 2:
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \tightlist
+  \item
+    the strength of the bargaining positions of the parties relative to
+    each other, taking into account (among other things) alternative
+    means by which the customer's requirements could have been met;
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{1}
+  \tightlist
+  \item
+    whether the customer received an inducement to agree to the term, or
+    in accepting it had an opportunity of entering into a similar
+    contract with other persons, but without having a similar term;
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{2}
+  \tightlist
+  \item
+    whether the customer knew or ought reasonably to have known of the
+    existence and the extent of the term (having regard, among other
+    things, to any custom of the trade and any previous course of
+    dealing between the parties);
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{3}
+  \tightlist
+  \item
+    where the term excludes or restricts any relevant liability if some
+    condition was not complied with, whether it was reasonable at the
+    time of the contract to expect that compliance with that condition
+    would be practicable;
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{4}
+  \tightlist
+  \item
+    whether the goods were manufactured, processed or adapted to the
+    special order of the customer.
+  \end{enumerate}
+\end{itemize}
+
+Reasonableness in case law: {[}{[}George Mitchell (Chester Hall) Ltd v
+Finney Lock Seeds Ltd (1983) 2 AC 803{]}{]}. Lord Bridge emphasised that
+the question of whether an exemption clause is reasonable was largely
+down to judicial discretion. So
+
+\begin{quote}
+``the appellate court should treat the original decision {[}of the trial
+judge{]} with the utmost respect and refrain from interference with it
+unless satisfied that it proceeded on some erroneous principle or was
+plainly and obviously wrong.''
+\end{quote}
+
+This suggests that there will be little precedent value in decisions
+themselves.
+
+\hypertarget{summary}{%
+\subsection{Summary}\label{summary}}
+
+For business-to-business agreements, under UCTA 1977:
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Type of liability
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Limitation
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Reference
+\end{minipage} \\
+\midrule()
+\endhead
+Death or personal injury resulting from negligence & Void &
+\href{https://www.legislation.gov.uk/ukpga/1977/50/section/2}{s 2(1)} \\
+Other loss resulting from negligence & Valid if reasonable &
+\href{https://www.legislation.gov.uk/ukpga/1977/50/section/2}{s 2(2)} \\
+Breach of statutory implied term about quality of goods & Valid if
+reasonable &
+\href{https://www.legislation.gov.uk/ukpga/1977/50/section/6}{6(1A)(a)} \\
+Breach of contract if express term limiting liability is in a negotiated
+agreement & Valid &
+\href{https://www.legislation.gov.uk/ukpga/1977/50/section/3}{s 3} \\
+Breach of contract if express term limiting liability is in a party's
+`standard terms' & Valid if reasonable &
+\href{https://www.legislation.gov.uk/ukpga/1977/50/section/3}{s 3} \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{consumer-rights-act-2015}{%
+\section{Consumer Rights Act 2015}\label{consumer-rights-act-2015}}
+
+Three parts:
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2135}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7865}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Part of Act
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Description
+\end{minipage} \\
+\midrule()
+\endhead
+{[}\protect\hyperlink{cra-2015-part-1}{CRA 2015 Part 1}{]} & Deals with
+consumer contracts for goods, digital content, and services \\
+{[}\protect\hyperlink{cra-2015-part-2}{CRA 2015 Part 2}{]} & Regulates
+unfair terms (in consumer contracts) \\
+CRA 2015 Part 3 & Miscellaneous \\
+\bottomrule()
+\end{longtable}
+
+Applies to contracts between a {[}{[}Trader{]}{]} and a
+{[}{[}Consumer{]}{]}.
+
+s 2(4) says that where a trader claims that an individual was not acting
+for purposes wholly or mainly outside the individual's trade, business,
+craft or profession, then it is for the trader to prove it.
+
+\begin{quote}
+Contracts between a consumer and business entered into prior to 1/10/15
+governed by Sales of Goods Act 1979, Supply of Goods and Services Act
+1982 and Unfair Contract Terms Act 1977.
+\end{quote}
+
+s 48(2) states that contracts of employment are \textbf{not} covered by
+the Act.
+
+\hypertarget{cra-2015-part-1}{%
+\section{CRA 2015 Part 1}\label{cra-2015-part-1}}
+
+\hypertarget{implied-terms}{%
+\subsection{Implied Terms}\label{implied-terms}}
+
+\hypertarget{contracts-for-goods}{%
+\subsubsection{Contracts for Goods}\label{contracts-for-goods}}
+
+Rights:
+
+\begin{itemize}
+\tightlist
+\item
+  Goods should be of a \textbf{satisfactory quality} (s 9)
+\item
+  Goods should be \textbf{reasonably fit for any purpose} which the
+  consumer makes known to the trader that the consumer intends to use
+  the goods for (s 10)
+\item
+  Where goods are sold by description, the goods should match that
+  \textbf{description} (s 11)
+\end{itemize}
+
+\hypertarget{contracts-for-digital-content}{%
+\subsubsection{Contracts for Digital
+Content}\label{contracts-for-digital-content}}
+
+Digital content:
+
+\begin{itemize}
+\tightlist
+\item
+  Should be of \textbf{satisfactory quality} (s 34)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    i.e., should meet the standard that a reasonable person would
+    consider satisfactory (s 34(2))
+  \item
+    RP would consider description, price, all other relevant
+    circumstances
+  \item
+    Such circumstances include `any public statement about specific
+    characteristics of the digital content made by the trader, the
+    producer, or any representative of the trader or producer' (s 34(5))
+  \end{itemize}
+\item
+  Should be reasonably \textbf{fit for purpose} (s 35)
+\item
+  Should match the \textbf{description} of it given by trader to
+  consumer (s 36)
+\end{itemize}
+
+\hypertarget{contracts-for-services}{%
+\subsubsection{Contracts for Services}\label{contracts-for-services}}
+
+Rights:
+
+\begin{itemize}
+\tightlist
+\item
+  Service performed with \textbf{reasonable care and skill} (s 49)
+\item
+  (where a price not agreed) a \textbf{reasonable price} is to be paid
+  (s 51)
+\item
+  (where a time not fixed) service is to be provided in
+  \textbf{reasonable time} (s 52)
+\end{itemize}
+
+s 50(1) provides that anything said or written to the consumer, on or on
+behalf of trader, about trader or service is to be included as a term
+where it is taken into account by the consumer either
+
+\begin{itemize}
+\tightlist
+\item
+  when deciding to enter into contract, or
+\item
+  when making any decision about the service after entering into the
+  contract
+\end{itemize}
+
+\hypertarget{additional-remedies}{%
+\subsection{Additional Remedies}\label{additional-remedies}}
+
+CRA 2015 specifies remedies for consumers when terms breached. These sit
+alongside remedies available to the consumer under general law.
+
+\hypertarget{contracts-for-goods-1}{%
+\subsubsection{Contracts for Goods}\label{contracts-for-goods-1}}
+
+Where goods sold to consumer fail to meet requirements of s 9, s 10 or s
+11, then goods required as non-conforming. Three remedies available to
+consumer:
+
+\begin{itemize}
+\tightlist
+\item
+  Short term right to reject
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Usually available for 30 days from time
+
+    \begin{itemize}
+    \tightlist
+    \item
+      That ownership has passed, and
+    \item
+      The goods have been delivered, and
+    \item
+      In cases where trader required to install goods/ take other setup
+      steps, trader has notified consumer that required steps have been
+      taken (s 22)
+    \end{itemize}
+  \end{itemize}
+\item
+  Right to repair or replacement
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Available unless impossible or disproportionate (unreasonable cost
+    to trader relative to consumer interests and other remedies) (s 23)
+  \end{itemize}
+\item
+  Right to price reduction or final right to reject
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Not entitled to both
+  \item
+    In either case, can only be exercised where
+
+    \begin{itemize}
+    \tightlist
+    \item
+      After one repair or replacement, goods do not conform to contract
+    \item
+      Consumer cannot request repair or replacement since impossible/
+      disproportionate
+    \item
+      Consumer has required trader to repair or replace goods, but
+      trader in breach of requirement to do so in reasonable time
+      without significant inconvenience to consumer (s 24)
+    \item
+      General rule: where final right to reject exercised within 6
+      months (clock running as with short term right to reject), should
+      be full refund with no deduction for use (s 24(10)). Does not
+      apply to motor vehicles and some other exceptions.
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+Consumers cannot treat the contract as at an end as a result of a breach
+of a term implied by s 9, 10 or 11, save to the extent set out above. So
+implied terms are neither conditions nor warranties; the extent to which
+breach gives rise to the right to treat contract as at an end set out in
+the Act.
+
+\hypertarget{contracts-for-digital-goods}{%
+\subsubsection{Contracts for Digital
+Goods}\label{contracts-for-digital-goods}}
+
+s 42: Where digital content is non-conforming in breach of terms implied
+by s 34, s 35 or s 36: two remedial options available:
+
+\begin{itemize}
+\tightlist
+\item
+  Right to repair or replacement
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Within reasonable time and without significant inconvenience (s
+    43(2)(a)) (judged by nature and purpose of digital content (s
+    43(5)))
+  \item
+    When not impossible/ disproportionate (s 43(3))
+  \end{itemize}
+\item
+  Right to price reduction
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Only exercisable where consumer cannot require repair or replacement
+    (impossible or disproportionate), or where trader has failed to
+    replace/repair within reasonable time and without significant
+    inconvenience (s 44)
+  \end{itemize}
+\end{itemize}
+
+s 45: Consumer has a right to receive a refund of all money paid for the
+digital content. Refund must be given in 14 days, using same payment
+method, without imposing any fee.
+
+Digital content which does not conform to the contract at any time
+within 6 months, beginning with the day on which supplied, must be taken
+not to have conformed to the contract when it was supplied (s 42(9)).
+
+Similar to with goods, consumers cannot treat the contract as at an end
+as a result of a breach of a term.
+
+s 46: Where
+
+\begin{itemize}
+\tightlist
+\item
+  Trader supplies digital content to consumer under contract
+\item
+  Digital content causes damage to device or other digital content
+\item
+  Device or digital content damaged belongs to consumer
+\item
+  Damage of a kind which would not have occurred if trader had exercised
+  reasonable care and skill\\
+  then consumer entitled to repair/ compensatory payment.
+\end{itemize}
+
+\hypertarget{contracts-for-services-1}{%
+\subsubsection{Contracts for Services}\label{contracts-for-services-1}}
+
+Where services non-conforming in breach of s 49 (reasonable care and
+skill), two remedial options available:
+
+\begin{itemize}
+\tightlist
+\item
+  Right to require repeat performance
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Reasonable time and without significant inconvenience (s 55(2)(a))
+  \item
+    Not if impossible (s 55(3))
+  \end{itemize}
+\item
+  Right to price reduction (s 56(3))
+
+  \begin{itemize}
+  \tightlist
+  \item
+    When repeat performance impossible
+  \item
+    Or when trader has failed to provide repeat performance within
+    reasonable time and without significant inconvenience to consumer
+  \end{itemize}
+\end{itemize}
+
+Where the services are non-conforming in breach of the term implied by s
+52 (performance within a reasonable time) the remedial option is the
+right to a price reduction.
+
+\hypertarget{cra-2015-part-2}{%
+\section{CRA 2015 Part 2}\label{cra-2015-part-2}}
+
+\hypertarget{scope-1}{%
+\subsection{Scope}\label{scope-1}}
+
+CRA regulates unfair terms in two areas:
+
+\begin{itemize}
+\tightlist
+\item
+  It regulates attempts to exclude/ limit liability for breach of
+  contract (similar to
+  {[}\protect\hyperlink{unfair-contract-terms-act-1977}{Unfair Contract
+  Terms Act 1977}{]}, just for consumer contracts)
+\item
+  It regulates unfair terms more generally
+\end{itemize}
+
+There is no distinction here between contracts on standard terms and
+those that have been individually negotiated.
+
+\hypertarget{breach-of-contract-liability}{%
+\subsection{Breach of Contract
+Liability}\label{breach-of-contract-liability}}
+
+Negligence defined in s 65(4) as breach of:
+
+\begin{quote}
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \tightlist
+  \item
+    Any obligation to take reasonable care or exercise reasonable skill
+    in the performance of a contract where the obligation arises from an
+    express or implied term of the contract,
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{1}
+  \tightlist
+  \item
+    A common law duty to take reasonable care or exercise reasonable
+    skill,
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\alph{enumi})}
+  \setcounter{enumi}{2}
+  \tightlist
+  \item
+    The common duty of care imposed by the Occupiers' Liability Act 1957
+  \end{enumerate}
+\end{itemize}
+\end{quote}
+
+\begin{enumerate}
+\def\labelenumi{(\alph{enumi})}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  is the tort of negligence, (a) is duties of care imposed by contract.
+  Recall, s 49 {[}\protect\hyperlink{cra-2015-part-1}{CRA 2015 Part
+  1}{]} implies a term into a contract for the supply of a service that
+  the supplier will carry out the service with reasonable skill and
+  care. So, breach of such a term would constitute negligence for
+  purposes of CRA.
+\end{enumerate}
+
+\hypertarget{death-or-personal-injury-resulting-from-negligence}{%
+\subsubsection{Death or Personal Injury Resulting From
+Negligence}\label{death-or-personal-injury-resulting-from-negligence}}
+
+s 65(1):
+
+\begin{quote}
+A trader cannot be a term of a consumer contract or by a consumer notice
+exclude or restrict liability for death or personal injury resulting
+from negligence.
+\end{quote}
+
+So any attempts to exclude liability like this will not be binding on
+the consumer.
+
+\hypertarget{implied-terms-about-goods}{%
+\subsubsection{Implied Terms About
+Goods}\label{implied-terms-about-goods}}
+
+s 31 (1):
+
+\begin{quote}
+A term of a contract to supply goods is not binding on the consumer to
+the extent that it would exclude or restrict the trader's liability
+arising under any of these provisions--- - (a) section 9 (goods to be of
+satisfactory quality); - (b) section 10 (goods to be fit for particular
+purpose); - (c) section 11 (goods to be as described);
+\end{quote}
+
+\hypertarget{implied-terms-about-digital-content}{%
+\subsubsection{Implied Terms About Digital
+Content}\label{implied-terms-about-digital-content}}
+
+s 47(1):
+
+\begin{quote}
+A term of a contract to supply digital content is not binding on the
+consumer to the extent that it would exclude or restrict the trader's
+liability arising under any of these provisions--- - (a) section 34
+(digital content to be of satisfactory quality), - (b) section 35
+(digital content to be fit for particular purpose), - (c) section 36
+(digital content to be as described),
+\end{quote}
+
+\hypertarget{implied-terms-about-services}{%
+\subsubsection{Implied Terms About
+Services}\label{implied-terms-about-services}}
+
+s 57(1):
+
+\begin{quote}
+A term of a contract to supply services is not binding on the consumer
+to the extent that it would exclude the trader's liability arising under
+section 49 (service to be performed with reasonable care and skill).
+\end{quote}
+
+This section is complicated but:
+
+\begin{itemize}
+\tightlist
+\item
+  Any attempt to \textbf{entirely exclude} section 49 will \textbf{not}
+  be binding
+\item
+  Any attempt to \textbf{restrict/ limit liability} under section 49
+  will \textbf{not be binding to the extent that it would prevent
+  consumer from recovering price paid}. So liability cannot be limited
+  to less than price paid.
+\end{itemize}
+
+(interpret these in the logical way)
+
+\hypertarget{regulation-of-other-unfair-terms}{%
+\subsection{Regulation of Other Unfair
+Terms}\label{regulation-of-other-unfair-terms}}
+
+s 62(1):
+
+\begin{quote}
+An unfair term of a consumer contract is not binding on the consumer.
+\end{quote}
+
+Note this applies to \textbf{any} term. But this is limited by s 64(1):
+
+\begin{quote}
+A term of a consumer contract may not be assessed for fairness under
+section 62 to the extent that--- - (a) it specifies the main subject
+matter of the contract, or - (b) the assessment is of the
+appropriateness of the price payable under the contract by comparison
+with the goods, digital content or services supplied under it.
+\end{quote}
+
+The above holds provided that the terms are \textbf{transparent} and
+\textbf{prominent} (s 64).
+
+Unfairness if defined in s 62(4):
+
+\begin{quote}
+A term is unfair if, contrary to the requirement of good faith, it
+causes a significant imbalance in the parties' rights and obligations
+under the contract to the detriment of the consumer.
+\end{quote}
+
+This is judged at the time the contract is entered into.
+
+\href{https://www.legislation.gov.uk/ukpga/2015/15/schedule/2/enacted}{Part
+1 Schedule 2} contains a list of terms which `may be regarded as
+unfair'. Interesting inclusion:
+
+\begin{quote}
+A term which has the object or effect of inappropriately excluding or
+limiting the legal rights of the consumer in relation to the trader or
+another party in the event of total or partial non-performance or
+inadequate performance by the trader of any of the contractual
+obligations.
+\end{quote}
+
+\hypertarget{anti-avoidance-provisions}{%
+\subsection{Anti-avoidance Provisions}\label{anti-avoidance-provisions}}
+
+CRA restricts the parties' contractual freedom. Generally it tries to
+cover all the loopholes parties may try to use to get around this too,
+e.g.,
+
+\begin{itemize}
+\tightlist
+\item
+  Using a secondary separate contract containing terms pertaining to the
+  restriction of liabilities (prohibited under s 72)
+\item
+  Making the liability or its enforcement subject to certain onerous
+  conditions (generally prohibited under s 31(2))
+\end{itemize}
+
+\hypertarget{summary-1}{%
+\subsection{Summary}\label{summary-1}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Type of term
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Impact of CRA
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Reference
+\end{minipage} \\
+\midrule()
+\endhead
+Limitation of liability in relation to death or personal injury
+resulting from negligence & Not binding on consumer &
+\href{https://www.legislation.gov.uk/ukpga/2015/15/section/65/enacted}{s
+65(1)} \\
+Limitation of liability in relation to breach of statutory implied terms
+under ss 9-11 about goods & Not binding on consumer &
+\href{https://www.legislation.gov.uk/ukpga/2015/15/section/31/enacted}{s
+31(1)} \\
+Limitation of liability in relation to breach of statutory implied terms
+under ss 34-36 about digital content & Not binding on consumer &
+\href{https://www.legislation.gov.uk/ukpga/2015/15/section/47/enacted}{s
+47(1)} \\
+Limitation of liability in relation to breach of statutory implied terms
+under s 49 about services & Not binding if preventing recovery of price
+paid &
+\href{https://www.legislation.gov.uk/ukpga/2015/15/section/57/enacted}{s
+57} \\
+Transparent and prominent terms specifying main subject of content/
+price & Cannot be assessed for fairness &
+\href{https://www.legislation.gov.uk/ukpga/2015/15/section/64/enacted}{s
+64} \\
+Any other term & Not binding if contrary to the requirement of good
+faith it causes a significant imbalance in parties' rights and
+obligations under the contract, to the detriment of the consumer &
+\href{https://www.legislation.gov.uk/ukpga/2015/15/section/62/enacted}{s
+62} \\
+\bottomrule()
+\end{longtable}
+
+\end{document}

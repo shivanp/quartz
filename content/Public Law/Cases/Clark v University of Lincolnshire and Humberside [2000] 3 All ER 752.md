@@ -1,0 +1,21 @@
+### Summary
+
+C, a former student, appealed against the striking out of her claim for breach of contract against her former university, ULH. ULH supported the judge's ruling that claims for breach of contract against a university were not actionable, and argued that, as it was a statutory body with public functions, C should have sought redress by way of judicial review. It was held that 
+
+(1) the court had jurisdiction in appropriate cases to determine contractual disputes between a student and a university, and 
+
+(2) an individual in C's position could seek redress either by issuing an ordinary civil action or by applying for judicial review.
+
+### Abstract
+
+C, a student of ULH, failed her finals owing to plagiarism on one of the papers she had submitted, but was allowed by the academic appeals board to resubmit the paper for marking since the board accepted that she had not set out to deceive the university. The board of examiners awarded a zero mark, which on appeal was held to be an inappropriate academic response by the governors' appeal committee, but which was confirmed by the academic board. C was allowed a final attempt to resit her finals leading to an award of a third class degree, which was outlined in the student regulations as being the usual award in such cases. 
+
+C then commenced proceedings against ULH, contending that the academic board had misconstrued the meaning of plagiarism and awarded a mark outside academic convention without taking her explanation into account. Later C amended her pleadings to argue that the academic board had failed to comply with a decision of the governors' appeal committee in confirming the zero mark previously held to be inappropriate. 
+
+Furthermore, she argued that ULH was in breach of its contractual regulations in limiting the possible class of degree that could be awarded at a second attempt. C's claim was struck out on the basis that issues relating to a student's academic performance were not susceptible to adjudication by the court and that, as a public law matter, the appropriate remedy was to seek judicial review. C appealed, contending that the court had jurisdiction to deal with the contractual claim.
+
+Held, allowing the appeal, that in the case of a new university with no provision for the supervisory function of a visitor, the judge had been right to strike out the claim as originally pleaded because it was concerned with the award of marks reflecting C's academic competence and therefore fell outside the matters which were capable of adjudication by the court, _[Hines v Birkbeck College [1986] Ch. 524, [1985] 7 WLUK 93](https://uk.westlaw.com/Document/IC09A5C10E42711DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=7717814b9434424db794e8fad32726cc&contextData=(sc.Default))_ applied. 
+
+However, following the amendment of the pleadings, the issue was based on the contractual relationship between C and ULH governed by the student regulations, which C alleged had been breached. The fact that the dispute concerned issues of public law did not prevent C from pursuing the matter by means of an action in contract despite the more generous time limits applicable to private law proceedings, _[O'Reilly v Mackman [1983] 2 A.C. 237, [1982] 11 WLUK 222](https://uk.westlaw.com/Document/I11E00610E42811DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=7717814b9434424db794e8fad32726cc&contextData=(sc.Default))_ doubted. 
+
+Under the [Civil Procedure Rules 1998](https://uk.westlaw.com/Document/I71F54A60E42311DAA7CF8F68F6EE57AB/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=7717814b9434424db794e8fad32726cc&contextData=(sc.Default)) what was crucial was whether there had been an abuse of process in which the court could intervene even where the limitation period was still current. The ability of the court to invoke sanctions under the Rules meant that there was no longer a need to prohibit the use of the contractual route where both public and private law were involved.

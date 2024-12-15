@@ -1,0 +1,5 @@
+### Abstract
+
+The European Court of Human Rights considered the application by five German lawyers who claimed that legislation allowing the inspection of mail and of telephone tapping, infringed the [European Convention on Human Rights 1950 Art.6](https://uk.westlaw.com/Document/IAE1FBD48E5924705BFBD5299078ED2BC/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=7edbc14437d041aab2747646fca7f0ee&contextData=(sc.Search)) as a breach of the right to fair hearing, Art.8 as a breach of the right to respect for correspondence and Art.13 as a breach of the right to have an effective remedy before a national authority in respect of breaches of the Convention.
+
+Held, the applicants were not victims of this law and it was necessary to regard them as such. Art.8(2) of the Convention allowed such legislation to be enacted in the interests of national security and was necessary.

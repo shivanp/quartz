@@ -1,0 +1,21 @@
+### Summary
+
+A duty of confidence could arise in contract or in equity and a confidant should be precluded from disclosing information received in confidence to others. A third party coming into possession of the information was bound by a duty of confidence unless the information was otherwise available to the general public or there was a public interest requiring disclosure.
+
+### Abstract
+
+W, a former member of the British security services who now lived in Tasmania, wrote Spycatcher which contained an account of the activities of MI5.
+
+The book could not be published in the UK under the terms of his contract of service with the Crown and the [Official Secrets Act 1911](https://uk.westlaw.com/Document/I60DA52C1E42311DAA7CF8F68F6EE57AB/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=c4ccde24909440bfa39b924162931198&contextData=(sc.Default)) . W agreed to publish it in Australia and the U.S. The Observer and Guardian newspapers each published in the UK an article on the proceedings in the Australian courts taken by the UK government to stop the publication there which included an outline of the allegations W made. The Attorney- General was granted an interlocutory injunction restraining them from publishing information obtained by W. That was in June 1986. In July 1987 the Sunday Times published extracts from Spycatcher two days before publication of the book in the U.S. The Attorney General obtained interlocutory injunctions restraining them from further publication, but Scott J. discharged them. The judge held that the Sunday Times was liable to account for the profits accruing as a result of the publication. The Court of Appeal dismissed appeals by the Attorney General and a cross-appeal by the Sunday Times.
+
+Held, on appeal by the Attorney General and cross-appeal by the Sunday Times, dismissing the appeals and the cross-appeal, that 
+
+(1) a duty of confidence could arise in contract or in equity and a confidant who acquired information under such a duty should be precluded from disclosing it to others. A third party in possession of information known to be confidential was bound by a duty of confidence unless the duty was extinguished by the information becoming available to the general public or the duty was outweighed by a countervailing public interest requiring disclosure of the information. In seeking to restrain the disclosure of Government secrets, the Crown must show that disclosure was likely to damage or had damaged the public interest before relief could be granted. Since the worldwide publication of Spycatcher, continuation of the injunctions was not necessary and they should be discharged _[Attorney General v Jonathan Cape Ltd [1976] Q.B. 752, [1975] 9 WLUK 44](https://uk.westlaw.com/Document/I694B7020E42711DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=c4ccde24909440bfa39b924162931198&contextData=(sc.Default))_ and _Australia v John Fairfax & Sons Ltd 147 C.L.R. 39_ considered; 
+
+(2) The articles published by the Observer and Guardian did not contain information damaging to the public interest and they were not in breach of their duty of confidentiality; 
+
+(3) The Sunday Times was in breach of its duty of confidence and was not protected by either the defence of prior publication or disclosure of iniquity. Imminent publication in the U.S. did not amount to a justification; and so it was liable to account for the profits; 
+
+(4) Since the information was already in the public domain and no longer confidential, no further damage could be done to the public interest and no further injunctions should be granted; 
+
+(5) Members and former members of the security service owed a lifelong duty of confidence to the Crown. Since the vast majority of them would not disclose confidential information to newspapers, it would not be appropriate to restrain the newspapers from future publication of any information on the allegations in Spycatcher derived from any member or former member of the security service.

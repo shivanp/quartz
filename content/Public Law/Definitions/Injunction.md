@@ -1,0 +1,4 @@
+- Order requiring party to legal proceedings to either do something (mandatory injunction) or refrain from doing something (prohibitory injunction). 
+- Can be interim (before conclusion of legal proceedings) or final
+- Now has statutory backing: section 37 of the [[Senior Courts]] Act 1981
+- Can be unconditional/ conditional

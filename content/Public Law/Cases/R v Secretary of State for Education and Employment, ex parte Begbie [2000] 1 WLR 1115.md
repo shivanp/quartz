@@ -1,0 +1,7 @@
+An undertaking that any children already on a government-funded scheme at an independent school would be able to continue on that scheme was held not to have generated a legitimate expectation. One of the reasons given by Peter Gibson LJ was that it would have been contrary to the requirements of statutory provisions – the [Education (Schools) Act 1997](https://www.legislation.gov.uk/ukpga/1997/59/contents).
+
+---
+
+B, a pupil on the assisted places scheme at a combined private primary and secondary school, appealed against the refusal of an application for judicial review of a decision of the Secretary of State refusing to exercise his discretion under the [Education (Schools) Act 1997 s.2(2)(b)](https://uk.westlaw.com/Document/IAC02B9A0E44F11DA8D70A0E70A78ED65/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=e3978d2c50e643ada9d9fbe9a656da45&contextData=(sc.Default)) to allow B to remain on the assisted places scheme beyond the age of 11, in accordance with a pre election pledge made by his party while in opposition.
+
+Held, dismissing the appeal, that statements made by political parties during elections did not create a legitimate expectation capable of protection in a legal sense. To permit every child in B's situation to remain on the assisted places scheme until the age of 18 would be in excess of the discretion under s.2(2)(b). A political party was not bound by its pre election pledges and a failure to carry them through gave rise to political as opposed to legal implications.

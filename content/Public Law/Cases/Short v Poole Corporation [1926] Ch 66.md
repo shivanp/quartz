@@ -1,0 +1,1 @@
+The Court of Appeal held that a local education authority had the power to dismiss a married woman, who was a teacher in a public elementary school, on the ground that, in the bona fide exercise of its discretion, it came to the conclusion that it was impossible for her to look after her domestic concerns and effectively and satisfactorily to act as a teacher at the same time.

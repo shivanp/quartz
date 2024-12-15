@@ -1,0 +1,19 @@
+In this case, a review panel on residential care was held to lack independence, because some of its members had already been involved in the case at an earlier stage. The court made it clear that in such cases it was important to consider the decision-making process as a whole.
+
+---
+
+### Summary
+
+Transfer of house from claimant to son following stroke - Claimant's ability to pay for residential care reduced due to transfer - Social services of opinion house transferred to reduce payment - Claimant appealed through three-stage appeal process - European Convention on Human Rights Art 6 engaged - Case involved determination of claimant's civil rights and obligations - Decision-making process satisfied Art 6 - No evidence to suggest panel could not have arrived at fair and reasonable recommendation - Where no reason in substance to question objective integrity of first instance process added safeguard of judicial review satisfied Art 6.
+
+### Abstract
+
+The Secretary of State for Health appealed as an interested party from part of a judgment ([2001] EWHC Admin 986, [2002] H.R.L.R. 15) quashing the local authority's decision that B had deprived himself of his house for the purpose of decreasing his liability to residential care fees. The council treated the house, which B had transferred by deed of gift to his son, as notional capital for the purposes of the [National Assistance (Assessment of Resources) Regulations 1992 Reg.25](https://uk.westlaw.com/Document/IFB34DF30E44A11DA8D70A0E70A78ED65/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=00aeb0d885b74b60b3f3fce7ed1b1d6c&contextData=(sc.Default)). B's son invoked the complaints procedure which resulted in a review by a panel. The panel recommended that the complaint be rejected, and the local authority's director of social services adopted the recommendation. The judge's conclusion that the council had failed to apply the correct construction of Reg.25 of the Regulations was not challenged on appeal. However, the Secretary of State challenged the judge's finding that the decision under Reg.25 involved a determination of B's civil rights for the purposes of the [Human Rights Act 1998 Sch.1 Part I Art.6(1)](https://uk.westlaw.com/Document/I2B36F6F0E45011DA8D70A0E70A78ED65/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=00aeb0d885b74b60b3f3fce7ed1b1d6c&contextData=(sc.Default)). The Secretary of State also argued that the availability of judicial review was sufficient to remedy the lack of independence and impartiality that arose from the fact that the Complaints Procedure Directions only required one member of the panel of three to be independent and in this case two of the members were councillors.
+
+Held, allowing the appeal, that 
+
+(1) B's civil rights were engaged in the decision making process, although the reasons for this conclusion differed from the trial judge's reasons. Art.6(1) applied on the simple basis that the case was concerned with the question of what premises B would occupy and upon what terms, which affected his rights in private law; 
+
+(2) even though the panel, as first decision maker, did not independently satisfy Art.6(1) the quality of its decision was by no means valueless, _[Begum v Tower Hamlets LBC [2002] EWCA Civ 239, [2002] 1 W.L.R. 2491, [2002] 3 WLUK 131](https://uk.westlaw.com/Document/I731144E0E42711DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=00aeb0d885b74b60b3f3fce7ed1b1d6c&contextData=(sc.Default))_ applied, and 
+
+(3) there was no evidence that the panel was not able to arrive at a fair and reasonable recommendation. If there was no reason to doubt the integrity of the first instance process then the added safeguard of a judicial review process would very likely satisfy the requirements of Art.6(1) unless there was some special feature of the case to show the contrary.

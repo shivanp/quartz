@@ -1,0 +1,1 @@
+ A teacher was dismissed by school governors. A committee of the council was empowered to approve or prohibit her dismissal and decided to approve it. However, this decision was quashed because three out of ten members of the committee (including the chairman) were also governors.

@@ -1,0 +1,33 @@
+The appellant was a Palestinian whose asylum claim was rejected on appeal by Lady Cosgrove in the Scottish Court of Session. It was subsequently discovered that Lady Cosgrove was a member of the International Association of Jewish Lawyers and Jurists (IAJLJ).
+
+The appellant was involved politically with the PLO and she appealed to the House of Lords on the basis that the IAJLJ was, inter alia, 'anti-Palestinian' and that its president, an Israeli judge, had made certain loaded political comments in speeches.
+
+The Lords distinguished this case from _Pinochet_ on the basis that the IAJLJ had not intervened in the proceedings, whereas Amnesty International had done so in that case. Assessing the case with reference to the _Porter v Magill_ test, the law lords dismissed the appeal. They stated that, if Lady Cosgrove had personally expressed the type of views of the nature complained of in the president’s speeches, she would have been disqualified.
+
+However, there was nothing apart from membership of the Association to link her with any of these views. She had been in no different position than any judge, who might or might not have views about issues which came before the court, but who was expected to put them aside and decide the case according to law.
+
+---
+
+### Summary
+
+The judicial oath sworn by judges did not guarantee impartiality, but bias could not be established by mere membership of an organisation, subscription to a specialist journal or taking an interest in particular reading matter. In the instant case, a fair-minded observer could not have concluded that there was a real possibility of bias where a judge affirming a decision to remove a failed Palestinian asylum seeker to Lebanon was subsequently discovered to be a member of an organisation that allegedly held anti-Palestinian beliefs.
+
+### Abstract
+
+The appellant (H), a woman of Palestinian ethnicity, appealed against a refusal (_[[2007] S.C 303](https://uk.westlaw.com/Document/I64C44550CB9D11DBAB2698C0F19D9B7B/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=190d6a80c007411d8128f2d0fa46a2c7&contextData=(sc.Default))_) to vitiate a decision of the Lord Ordinary not to give permission to appeal against a notice of removal.
+
+H had claimed asylum in the United Kingdom on the basis that she had been politically involved with the Palestinian Liberation Organisation and that she held political opinions that placed her at risk if she was returned to Lebanon. Asylum had been refused. Her appeal against a notice of removal to Lebanon had been dismissed and permission to appeal had been refused. H had sought a review of the refusal of permission to appeal and the Lord Ordinary, dealing with the matter on the papers, had affirmed the decision. 
+
+As a result of internet research, H had subsequently discovered that the Lord Ordinary was a member of the International Association of Jewish Lawyers and Jurists and was a founder member of the Scottish branch of that association. H believed that the association, as evidenced by its policy statements and the content of its quarterly publication "Justice" was anti-Palestinian and had a strong commitment to causes and beliefs at odds with H's own causes and beliefs. The issue for determination was whether and to what extent, the picture presented by H's research would indicate to the fair-minded observer that there was a real possibility that the Lord Ordinary had been biased.
+
+### Held
+
+Appeal dismissed.
+
+There was no suggestion that the Lord Ordinary had ever expressed support for the more extreme views expressed by the association of which she was a member. She was quite simply an intelligent and educated individual whose reaction to the articles, supposing she had read them, was unknown. Judges read large quantities of material that was designed to influence them, but which they were trained to analyse and use as appropriate. People might subscribe to or read publications to become informed about different views, but mere membership of an organisation could not give rise in the eyes of a fair-minded observer to a real possibility of unconscious influence. Such membership did not connote any form of approval or endorsement of that which was said or done by the organisation's officers. No fair-minded person would think that a judge who regularly took one of the leading national newspapers was associating himself with everything that was printed in it and the instant case was, in principle, no different. 
+
+The material on which H relied was an incomplete and one-sided selection of what had been published by the association. The Lord Ordinary's membership of the association might be indicative of interest in legal material outside of that exhibited by H or it may have become an effectively formal membership resulting from a failure to review and cancel the annual subscription. A judge's judicial oath was a symbol of impartiality but not a guarantee. It was a factor to be taken into account along with all other facts, including a judge's training, professional status and experience, R v S (RD) [1997] 3 SCR 484 considered. 
+
+The failure of the Lord Ordinary to disclose membership of the association did not carry great weight in the balancing of factors, since a fair-minded observer was more likely to conclude that it had never crossed her mind that her membership was relevant. Judges could be assumed to be capable of detaching their minds from things contained in reading material that they did not agree with. That is why the complete absence of anything said or done by the judge to associate herself with the published material that H complained of was crucial to what the fair-minded observer would make of the case. Guidance was given about the characteristics of the fair-minded observer, _[Porter v Magill [2001] UKHL 67, [2002] 2 A.C. 357, [2001] 12 WLUK 382](https://uk.westlaw.com/Document/I23D2C010E42811DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=190d6a80c007411d8128f2d0fa46a2c7&contextData=(sc.Default))_ and _Johnson v Johnson [2000] HCA 48, 201 C.L.R. 488_ considered. 
+
+(Per Lord Walker of Gestingthorpe) Those who took on the responsibility of judicial office had to exercise a measure of restraint in associating themselves publicly with controversial causes. Membership of the International Association of Jewish Lawyers and Jurists could not be equated with subscribing to a daily or weekly newspaper.

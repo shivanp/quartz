@@ -1,0 +1,14 @@
+---
+aliases: 
+tags: 
+date created: Sunday, December 10th 2023, 12:02:36 am
+date modified: Sunday, December 10th 2023, 12:38:44 am
+---
+
+# Westdeutsche Landesbank Girozentrale v Islington London Borough Council [1996] AC 669
+
+## Abstract
+
+I appealed against the Court of Appeal's award of compound interest on repayments which I was obliged to make to W in respect of an invalid swap agreement into which the parties had entered. Swap agreements involving local authorities were declared ultra vires and void in _[Hazell v Hammersmith and Fulham LBC [1992] 2 A.C. 1, [1991] 1 WLUK 792](https://uk.westlaw.com/Document/IBBDEA8C0E42711DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=88d3a8444b594205b73fab3989cda9a6&contextData=(sc.Default))_ . I contended that simple interest only, not compound interest, was payable on the repayments.
+
+Held, allowing the appeal, that the court had jurisdiction to award compound rather than simple interest only if the defendant was a fiduciary, _[Burdick v Garrick (1869-70) L.R. 5 Ch. App. 233, [1870] 1 WLUK 83](https://uk.westlaw.com/Document/I7D692070E42711DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=88d3a8444b594205b73fab3989cda9a6&contextData=(sc.Default))_ , _[Wallersteiner v Moir (No.2) [1975] Q.B. 373, [1974] 11 WLUK 84](https://uk.westlaw.com/Document/IEFC8CCF0E42811DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=88d3a8444b594205b73fab3989cda9a6&contextData=(sc.Default))_ applied. I did not owe a fiduciary duty to the bank to account for profits from the invalid swap agreement when the authority did not know, at the time when payment was received, that the agreement was ultra vires and void. To find I personally liable as a trustee would necessarily entail creating an equitable proprietary interest in the moneys received, which would have undesirable implications for third party rights in other cases. Commercial transactions would be impeded by uncertainty as to ownership of assets. Claims for moneys had and received were not based on implied contract, _[Sinclair v Brougham [1914] A.C. 398, [1914] 2 WLUK 42](https://uk.westlaw.com/Document/IA8D447C1E42811DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=88d3a8444b594205b73fab3989cda9a6&contextData=(sc.Default))_ overruled. Despite the bank's strong moral claims, the courts should not develop principles that conferred new powers to award compound interest in circumstances where Parliament, having considered the issue, had made clear that there was no jurisdiction to award compound interest. Simple interest only could be awarded on repayment in respect of ultra vires swap agreements.

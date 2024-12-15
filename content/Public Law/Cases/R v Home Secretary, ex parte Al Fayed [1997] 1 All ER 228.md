@@ -1,0 +1,11 @@
+### Abstract
+
+The Secretary of State refused AF's application for naturalisation under the [British Nationality Act 1981](https://uk.westlaw.com/Document/I602C1160E42311DAA7CF8F68F6EE57AB/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=2d1b4fd745554495bd8cf3cb9adcccf5&contextData=(sc.Default)) . Section 44(2) of the Act stated that the Secretary of State was not obliged to provide reasons for decisions which were at his discretion, and that his decision was not to be subject to appeal or review in any court. AF appealed against the refusal of his application for judicial review.
+
+Held, allowing the appeal, that 
+
+(1) if s.44(2) had not applied to the decision, there would have been a requirement of fairness in deciding AF's application amounting to an obligation on the Secretary of State to give notice to the applicants of the areas causing difficulty in granting the application so that the applicant had the opportunity to address them. This obligation stemmed from the detriment caused to AF by the refusal of his application and the imprecise criterion that the applicant be of good character; 
+
+(2) the apparent ousting of appeal or review in s.44(2) did not relieve the Secretary of State of an obligation to act fairly, nor did it prevent the court from ensuring that this obligation was met. Parliament did not intend that s.44(2) exclude the need for notice to be given to the applicant, as this might allow a minister to unlawfully refuse an applicant naturalisation without being subject to the scrutiny of the courts, _[Attorney General v Ryan [1980] A.C. 718, [1979] 7 WLUK 181](https://uk.westlaw.com/Document/I697C6B30E42711DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=2d1b4fd745554495bd8cf3cb9adcccf5&contextData=(sc.Default))_ applied, although the duty to give notice was limited to complex cases where the applicant would have difficulty making out his case without some indication of the nature of the objections to his application, and 
+
+(3) under s.44(2) the Secretary of State was not obliged to give reasons for his decision, provided the duty of fairness had been discharged by giving the applicant sufficient information as to the nature of any possible objections to allow him to make any representations he felt necessary.

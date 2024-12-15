@@ -1,0 +1,9 @@
+### Summary
+
+An assurance by a local authority, given in the erroneous belief that it was under a duty to provide accommodation with security of tenure, gave rise to a legitimate expectation on the part of the recipient which the authority was bound to take into account when allocating a position on the housing list.
+
+### Abstract
+
+NLBC appealed against a ruling that it was obliged to comply with an assurance previously given to B that he and his family would be provided with accommodation possessing security of tenure. NLBC had given the assurance in the erroneous belief that it was obliged to provide security of tenure to refugee applicants who were accepted to be homeless. The court at first instance held that the assurance gave rise to a legitimate expectation with which NLBC were bound to comply. NLBC contended that in such a situation it would only be obliged to comply with such an assurance if the reason for non compliance was improper or, in the alternative, if the recipient had relied upon the assurances given to his detriment.
+
+Held, allowing the appeal in part, that detriment was not a prerequisite to enforcement, _[R. v Secretary of State for Education and Employment Ex p. Begbie [2000] 1 W.L.R. 1115, [1999] 8 WLUK 228](https://uk.westlaw.com/Document/I65375200E42811DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=650d05757aa74ef4bbf85d47643eddad&contextData=(sc.Search))_ applied. In the instant case although there had been no detriment, NLBC had nevertheless been obliged to take B's legitimate expectation into account when exercising its discretion to allocate its housing stock. On the basis that a decision concerning the precise allocation of housing was the preserve of the authority, the declaration previously granted was set aside and replaced with a declaration that NLBC was bound to take the expectation into account when taking a decision upon allocation.

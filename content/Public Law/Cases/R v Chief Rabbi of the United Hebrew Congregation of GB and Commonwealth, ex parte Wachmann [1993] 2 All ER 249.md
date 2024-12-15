@@ -1,0 +1,11 @@
+### Abstract
+
+W, a Rabbi, applied for leave to apply for judicial review of a decision of the Chief Rabbi that he was not fit to hold rabbinical office. Following certain allegations, the Chief Rabbi set up a commission of investigation which presented its findings and unfavourable conclusion to W's congregation which terminated his employment. W relied on _[R. v Panel on Takeovers and Mergers Ex p. Datafin Plc [1987] Q.B. 815, [1986] 12 WLUK 69](https://uk.westlaw.com/Document/I600CD750E42811DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=a0c0f401161943d2adf30cc877e0563d&contextData=(sc.Search))_ to claim: (1) W did not recognise the Chief Rabbi's jurisdiction to come to such a conclusion; (2) The decision had a public element and so it should be the subject of judicial review and (3) W was unable to pursue his vocation because of a decision which could have been procedurally flawed and there was no other method of redress.
+
+Held: Application for leave was dismissed. 
+
+(1) Although W was pursuing a vocation he was a member of the United Hebrew Congregation of which the Chief Rabbi was head. Thus W had to accept the Chief Rabbi's decisions. 
+
+(2) It was not sufficient for a decision to have a public element. The government had to have an interest in the decisions of non-governmental bodies. It could not be stated that but for the Chief Rabbi's regulation of this field of public life, the government would provide a statutory framework. 
+
+(3) The court would never exercise its jurisdiction over matters of Jewish law. There was no distinction between procedural considerations with reference to the rules of natural justice as there would always be an overlap with what was essentially a matter for religious consideration. The court could not determine whether W was morally and religiously fit for rabbinical office (_[R. v Deputy Governor of Parkhurst Prison Ex p. Leech [1988] A.C. 533, [1988] 2 WLUK 57](https://uk.westlaw.com/Document/I3F7DE150E42811DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=a0c0f401161943d2adf30cc877e0563d&contextData=(sc.Search))_ considered).

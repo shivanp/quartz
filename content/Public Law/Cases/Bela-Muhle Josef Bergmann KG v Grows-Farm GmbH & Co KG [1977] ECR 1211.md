@@ -1,0 +1,7 @@
+The case concerned a regulation passed for the purpose of reducing over-supply of skimmed milk powder in the Community. It attempted to compel farmers to use animal feed derived from skimmed milk powder rather than soya. Soya-based feeds were $\frac{1}{3}$ of the price of milk products. The legality of the regulation was successfully challenged on the basis that it imposed far too onerous a burden on farmers, and was thus disproportionate. 
+
+---
+
+The Landgericht Oldenburg referred a question to the European Court for a preliminary ruling concerning the validity of a skimmed milk Regulation. Similar questions were referred to the court by the College van Beroep voor het Bedrijfsleven, Finanzgericht Hamburg and Finanzgericht Bremen.
+
+Held, discriminatory distribution of costs between different agricultural production sectors imposed by any community rules or arrangements is not justified in achieving the objectives of the common agricultural policy. Under this ruling, [Council Regulation 563/76](https://uk.westlaw.com/Document/I92C609D06852462D97D5DC009E873FEC/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=333b3b67b4704ef986952193d7ddef21&contextData=(sc.Default)) was declared null and void.

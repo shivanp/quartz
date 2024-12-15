@@ -1,0 +1,11 @@
+### Abstract
+
+There is no basis for allowing an application for judicial review of the Foreign Secretary's decision to ratify the Treaty on European Union (Maastricht) 1992 . A applied for judicial review of the decision of the Foreign Secretary to ratify the Maastricht Treaty on the grounds that it would involve an increase in the powers of the European Parliament without the approval of the English Parliament, the social policy protocol would alter Community and hence domestic law without the approval of Parliament, and the ratification of Title V of the Treaty would transfer the Royal Prerogative in connection with the power to enter into treaties without parliamentary approval.
+
+Held, refusing judicial review, that 
+
+(1) the [European Communities (Amendment) Act 1993](https://uk.westlaw.com/Document/I5FD93671E42311DAA7CF8F68F6EE57AB/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=0be837a6b1a0439ba3b2d96e31f7f0fd&contextData=(sc.Default)) referred to the ratification of all the protocols, and hence there was no ratification without parliamentary approval; 
+
+(2) because the social policy protocol was specifically excluded by the [European Communities (Amendment) Act 1993](https://uk.westlaw.com/Document/I5FD93671E42311DAA7CF8F68F6EE57AB/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=0be837a6b1a0439ba3b2d96e31f7f0fd&contextData=(sc.Default)) from the definition of treaties in the [European Communities Act 1972 s.1(2)](https://uk.westlaw.com/Document/I14AB3100E44911DA8D70A0E70A78ED65/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=0be837a6b1a0439ba3b2d96e31f7f0fd&contextData=(sc.Default)) so that it was not incorporated into domestic law, the Government was not altering the content of domestic law; and 
+
+(3) the court had no jurisdiction to consider ratification of Title V of the Treaty which established a common foreign and security policy and involved no question of domestic law. In any event ratification to Title V was an exercise of the prerogative power, and not the abandonment thereof.

@@ -1,0 +1,1 @@
+The decision of a local authority to remove Hook’s market trading licence, because he had urinated in a side street (after the market had closed), was quashed. This was, in part, on the basis that the decision was excessive, and had a disproportionate impact upon the claimant and his livelihood.

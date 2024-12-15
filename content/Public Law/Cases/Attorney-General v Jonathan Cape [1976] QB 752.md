@@ -1,0 +1,23 @@
+### Facts
+
+A Cabinet minister kept a diary of Cabinet discussions and events with the intention to once publish the contents in a book. After the minister’s death, volume one of the book (_Diaries of a Cabinet Minister_) was sent for approval to and rejected by the Secretary of the Cabinet. Despite an undertaking by literary executors not to publish the book without prior notice to the Treasury Solicitor, parts of the book were published without consent. The Attorney-General applied for an injunction against the publishers.
+
+### Issues
+
+The reason for the Attorney-General’s request for an injunction was publishing the book would be contrary to the public interest. More specifically, the doctrine of collective responsibility required details of Cabinet discussions and potential differences to be kept confidential.
+
+### Decision/Outcome
+
+The Court held that it had the power to stop the publication of information that was in breach of confidence based on public policy grounds. The preservation of the doctrine of collective responsibility within the Cabinet was held to be in the public interest. Agreeing with the Attorney-General, the Court found that the revelation of individual Ministers’ views and opinions disclosed within the framework of confidential Cabinet meetings would undermine the doctrine — at least until a certain period of time passed. In this particular case, however, 10 years had passed, and the volume one did not contain any information that should have remained confidential. Consequently, the injunction was rejected and publication was allowed to go ahead.
+
+---
+
+Crossman, a member of Wilson’s Cabinet between 1964 and 1970, wanted to provide a detailed account of Cabinet government in operation. Consequently, he kept a comprehensive diary of Cabinet decisions, intending to publish it following his retirement. Unfortunately for Crossman, he died prematurely; but his widow decided to publish the Diaries.
+
+After extracts appeared in The Sunday Times, the government sought an injunction preventing further publication. It argued that the courts should preserve the confidentiality of three types of ministerial information: firstly, the views of individual Ministers; secondly, confidential advice to Ministers from civil servants; and thirdly, discussions about the appointment or transfer of senior officials. Crossman’s publishers argued that the Cabinet confidentiality duty had no legal basis; it was merely a moral obligation, respected or ignored according to the Minister’s conscience.
+
+Lord Widgery did not find history a helpful guide: ‘I find overwhelming evidence that the doctrine of joint responsibility is generally understood and practised, and equally strong evidence that it is on occasion ignored’. Widgery eventually delivered a puzzling judgment. Firstly, he accepted that Ministers owed each other a legally enforceable duty of confidentiality. However, this duty did not derive from the convention turning into a law. It was created by ‘stretching’ existing common law principles about confidentiality in respect of other types of relationship, particularly marriage and commercial undertakings. But secondly, Widgery held that unless the disclosures threatened national security, the duty would disappear ten years after the relevant events occurred.
+
+The government subsequently established a committee of inquiry, headed by Lord Radcliffe, to make recommendations concerning the publication of Ministers’ diaries or autobiographies. The committee proposed a fifteen-year delay on publication of sensitive material. The proposal has not been given statutory force: given the rapidity with which retired Ministers have subsequently marketed their memoirs, it seems safe to assume that it should not be regarded as a convention.
+
+If analysed formalistically, the judgment does not sweep away Dicey’s claim that conventions are not enforceable by the courts. Technically, the case is not an example of a court enforcing a convention, but accepting that a convention was coincidentally underpinned by existing common law rules. That may seem a semantic distinction. In functionalist terms, we might argue that the court enforced a convention by cloaking it with a common law label. There is no legal impediment to the courts doing so. The common law is recognised to be dynamic. In cases such as Burmah Oil, Lain, and GCHQ, ‘new’ common law principles emerged when judges considered that applying traditional ideas would have produced unsatisfactory results. Parliament may restore the former law by legislation reversing a court decision, but (short of passing legislation forbidding the courts from altering common law principles) it has no power to pre-empt judicial innovation.

@@ -1,0 +1,3 @@
+Working time directive was issued to all states, but UK disliked the idea of people not being allowed to work more than a certain number of hours. ECJ held that the directive was valid, contravening neither the subsidiarity nor proportionality principles. 
+
+ECJ: Under art. 118 the Council has the job of raising health and safety standards through harmonisation. To demonstrate compliance with the subsidiarity principle it has to show that there are transnational aspects to a policy, that it would be insufficient to leave member states to make their own decisions, and that the Community legislature can better achieve the treaty objectives (here promoting health and safety), per protocol 30 and art. 5(2) EC Treaty.

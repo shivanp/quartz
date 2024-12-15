@@ -1,0 +1,5 @@
+### Abstract
+
+The decisions of the Advertising Standards Authority are subject to judicial review. P, a supplier of motor insurance, advertised in leaflets displayed at garages that it did not use middlemen, thereby reducing the cost of insurance. A member of the public complained to the authority as the garages were paid a flat fee for displaying the leaflets. The complaint was considered by a member of the authority's staff who, having considered that there was sufficient ground for investigation, contacted P and prepared a report for the council of the authority. The council upheld the complaint. The report contained a factual inaccuracy suggesting that commissions were paid. P sought judicial review.
+
+Held, granting the application, that the decisions of the authority were open to judicial review as it was carrying out a public duty and was not a domestic or private tribunal. Because of the inaccuracy in the report the applicant had been deprived of the opportunity to present its case to the authority.

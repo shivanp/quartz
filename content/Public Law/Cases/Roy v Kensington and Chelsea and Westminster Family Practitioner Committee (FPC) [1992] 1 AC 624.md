@@ -1,0 +1,1 @@
+A private law claim brought by an NHS doctor was not struck out for abuse of process even though his case involved public law rights concerning the statutory framework for NHS pay. This was because there were private law elements to his case as well.

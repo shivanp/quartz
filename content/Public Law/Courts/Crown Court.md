@@ -1,0 +1,8 @@
+- Senior court of first instance in the **criminal** law
+- Will hear '**indictable only**' (v serious) offences.
+	- These can only be tried in the Crown Court, because they are too serious for the sentencing powers of the Magistrates. 
+	-  Note that these cases still start in [[Magistrates' Court]], which decide whether to grant bail and consider other procedural issues such as reporting restrictions, before passing the case onto Crown Court for trial.
+- Also hears 'either way' offences transferred from the Magistrates' Court.
+- Trials in the Crown Court involve juries in almost all cases.
+- The Crown Court is administered by an executive agency of the Ministry of Justice called **HM Courts and Tribunals Service**.
+- It sits in ~80 locations around England and Wales, the most famous of which is the Old Bailey (Central Criminal Court)

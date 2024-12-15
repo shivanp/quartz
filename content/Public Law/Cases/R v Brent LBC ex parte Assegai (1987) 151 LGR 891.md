@@ -1,0 +1,1 @@
+A local authority is bound, by the rules of natural justice, to accord an individual the right to make representations before it excludes him from its premises on the ground of his conduct.

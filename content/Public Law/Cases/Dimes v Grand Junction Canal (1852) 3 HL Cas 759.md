@@ -1,0 +1,5 @@
+Orders were sought by the GJC company and granted by the Vice-Chancellor. The Lord Chancellor then affirmed the orders. However, he had a large financial interest in the company. Dimes successfully appealed on the basis that the Lord Chancellor should be disqualified for bias, and his affirmation of the orders was set aside.
+
+---
+
+A public company was incorporated. It filed a bill in equity against a landowner in a matter largely involving the interests of the company. The Lord Chancellor had an interest as a shareholder in the company to the amount of several thousand pounds, a fact which was unknown to the defendant in the suit. The cause was heard before the Vice-Chancellor, who granted the relief sought by the company. The Lord Chancellor, on appeal, affirmed the order of the Vice-Chancellor. The Lord Chancellor's Court held that the Lord Chancellor was disqualified on the ground of interest from sitting as a judge in the cause. Also, his decree was voidable and should be reversed.

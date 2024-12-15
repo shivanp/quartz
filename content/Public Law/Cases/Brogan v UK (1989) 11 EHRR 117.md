@@ -1,0 +1,7 @@
+The four applicants were arrested on suspicion of involvement in terrorist activities in Northern Ireland. The applicants were held for periods ranging from four days and 11 hours to six days and 16 1/2 hours. They were questioned about specific terrorist incidents, but none of them was charged or brought before a judicial officer before release. The applicants alleged that [European Convention on Human Rights 1950 Arts. 5(1), 5(2), 5(3), 5(5) and Art.13](https://uk.westlaw.com/Document/I0548EFF6FE1C465F9FB0C2E801F2E90A/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=509c764d9e494e4c9027346fb884d0b0&contextData=(sc.Default)) had been violated.
+
+Held, that 
+
+(1) UK had violated Art.5(3) as none of the applicants had been either brought "promptly" before a judicial authority or released "promptly" following his arrest. Even though the arrests and detentions were motivated by the legitimate aim of protecting the community from terrorism, that was not on its own sufficient to ensure compliance with the specific requirements of Art.5(3); 
+
+(2) UK had violated Art.5(5) as the applicants did not have under Northern Ireland Law an enforceable right to compensation for violation of Art.5(3).

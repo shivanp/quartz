@@ -1,0 +1,3 @@
+Facts: The Home Secretary had set the tariff sentence for McCartney, (an Irish Republican who was serving three discretionary life sentences for the attempted murder of a policeman), at a higher level than for others who had committed more serious crimes of a similar type.
+
+Held: The action of the Home Secretary was inconsistent with the treatment of other similarly affected persons, and so his decision was found to be 'Wednesbury unreasonable'.

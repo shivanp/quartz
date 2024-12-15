@@ -1,0 +1,12 @@
+**Facts:** The Trust was formed to act as an interest group, campaigning to have an archaeological site 'listed' as an ancient monument. The group consisted of people with relevant interest and expertise. A claim was brought against the Secretary of State when he refused to list the site.
+
+**Held:** In refusing to grant the Trust standing, the court held that individuals, who would not individually be given standing, should not gain it collectively just because they had formed themselves into a campaigning group. This was seen by the judge as an artificial device designed to engineer this status.
+
+
+---
+
+### Abstract
+
+The public have no locus standi to seek judicial review of a decision by the Secretary of State not to schedule a particular monument. Following the discovery of the remains of an historical theatre in the course of development work, an application was made to the Secretary of State for the theatre to be listed in the Schedule of Monuments under the [Ancient Monuments and Archaeological Areas Act 1979 s.1](https://uk.westlaw.com/Document/IC9F7B290E44911DA8D70A0E70A78ED65/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=6fe41f991ebe4747bf85de92a81cc97f&contextData=(sc.Default)). The Secretary of State accepted that the theatre was of national importance, but rejected the application on the grounds that the site was not under threat from the developers, that scheduling would cause delay and lead to compensation claims and there was a need to balance the needs of preservation against those of the City's prosperity.
+
+Held, dismissing the application for judicial review, that under the 1979 Act the Secretary of State had a discretion whether or not to schedule a monument, and it had not been shown that he had exercised his discretion improperly. The decision made was a governmental decision, in respect of which members of the public had insufficient interest to seek judicial review. Nor did the public obtain locus standi by making an application to have a building scheduled and having that application refused, _[R. v Inland Revenue Commissioners Ex p. National Federation of Self Employed and Small Businesses Ltd [1982] A.C. 617, [1981] 4 WLUK 105](https://uk.westlaw.com/Document/I4D8C8350E42811DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=6fe41f991ebe4747bf85de92a81cc97f&contextData=(sc.Default))_ applied.

@@ -1,0 +1,18 @@
+The applicant had previously held various licences from the British Boxing Board of Control. These were withdrawn in 1973. Between 1972 and 1975 he applied five times for a manager's licence, failing each time. Applying for the sixth time, he asked for an oral hearing and notification of any unfavourable points so that he could reply to them. These requests were refused, and his application failed again.
+
+Was there a breach of the duty of fairness? Should the applicant have been given fuller reasons for the decisions and/or an oral hearing?
+
+**Held:** There was no breach. The court made some important observations:
+
+1. The case involved the applicant's liberty to work, so a duty of fairness applied.
+2. There is a distinction between forfeiture and application cases: in the former, where a licence is being taken away, the holder will usually be entitled to expect that this will not be done without a good reason. (In other words, a higher level of fairness should be expected.) Therefore, notification of changes and of reasons etc. will be appropriate. In application cases the issue is the general suitability of the applicant, and notification of specific points may not be appropriate or practical.
+3. There is also an intermediate category of 'legitimate expectation' cases. These occur where conditions are laid down for the grant of a licence and an applicant satisfies them, thus entitling him to believe that his application will not be rejected without a good reason.
+4. Applying these principles to the case in question, it was emphasised that McInnes was a mere applicant. The British Boxing Board had acted fairly in the general sense and there was no obligation to provide the applicant with specific reasons for the refusal.
+
+---
+
+In an application, as distinct from the forfeiture category of case, which involves no imputations of dishonesty or deprivation of statutory right, the courts will not normally require the observance of natural justice in the determination of the application. 
+
+Per curiam: The courts must be slow to allow any implied obligation to be fair to be used as a means of bringing before the courts honest decisions of bodies exercising jurisdiction over sporting and other activities. The plaintiff had at times held various licences in relation to boxing and its promotion. All his licences were withdrawn in 1973. Five subsequent applications for a manager's licence were refused. The plaintiff sought a declaration that the board had acted in breach of natural justice in failing to inform him of the case against him or to grant an oral hearing.
+
+Held, the board was under a duty to reach an honest, unbiased conclusion. This case was in the application rather than forfeiture or even expectation class, not involving any slur on character, and the board therefore were not under an obligation to give reasons or grant an oral hearing. ( _[Nagle v Fielden [1966] 2 Q.B. 633, [1966] 2 WLUK 73](https://uk.westlaw.com/Document/I0A22AB80E42811DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=6cbf7685d58742b78afd5d33d2b03680&contextData=(sc.Default))_ followed; _[Enderby Town Football Club v Football Association [1971] Ch. 591, [1970] 10 WLUK 23](https://uk.westlaw.com/Document/IA178FFD0E42711DA8FC2A0F0355337E9/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=6cbf7685d58742b78afd5d33d2b03680&contextData=(sc.Default))_ considered).

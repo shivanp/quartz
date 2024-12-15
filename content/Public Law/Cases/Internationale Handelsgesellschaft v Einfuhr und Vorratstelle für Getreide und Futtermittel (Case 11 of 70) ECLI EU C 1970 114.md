@@ -1,0 +1,1 @@
+The Court of Justice held that EEC law takes precedence over the national constitutions of the Member States, including any fundamental rights provided by these national constitutions.

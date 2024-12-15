@@ -1,0 +1,1 @@
+A panel of councillors appointed by a local authority to determine on behalf of the authority applications for licences was not a judicial body and accordingly its conduct was not susceptible of judicial review.

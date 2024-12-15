@@ -1,0 +1,9 @@
+The applicant was detained in HM Prison, Barlinnie in Glasgow. He complained about the lack of toilet facilities and the small size of the cell, which exacerbated his facial eczema.
+
+The court held that the conditions of detention endured by the applicant and their effect on his physical health amounted to degrading treatment and were a violation of article 3. While it was impractical to move him and all the other prisoners enduring similar conditions to a different prison, the applicant was entitled to have his case for removal considered on an individual basis.
+
+---
+
+In proceedings for judicial review brought by N, a prisoner, the Lord Ordinary found that S, the Scottish Ministers, had acted unlawfully in terms of the [Human Rights Act 1998 s.6](https://uk.westlaw.com/Document/I2B278DA1E45011DA8D70A0E70A78ED65/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=8c386121f3dc49c78c3a579aa2baa309&contextData=(sc.Default)) and ultra vires in terms of the [Scotland Act 1998 s.57](https://uk.westlaw.com/Document/I2004C521E44911DA8D70A0E70A78ED65/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=8c386121f3dc49c78c3a579aa2baa309&contextData=(sc.Default)) , by acting in a manner incompatible with Sch.1 Part I Art.3 of the Human Rights Act 1998 and detaining N in conditions in which he was subjected to inhuman or degrading treatment. N was awarded damages. S reclaimed. The only issue debated was the appropriate standard of proof to be applied in civil domestic proceedings in determining whether or not there had been a breach of Art.3.
+
+Held, granting declarator, that in civil proceedings in which a finding was sought that there had been an act or a failure to act by a public authority which was incompatible with Art.3, the appropriate standard of proof was proof on a balance of probabilities.

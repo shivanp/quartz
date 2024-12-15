@@ -1,0 +1,3 @@
+The House of Lords considered the phrase 'interest, annuities and other annual payments', contained in s. 169 of the Income Tax Act 1952.
+
+The word 'other' at the end of the phrase implied that the first two words (interest and annuities) were also annual. Therefore, the word 'interest' was held to mean 'annual interest’. Noscitur a sociis was used here because it allowed the court to interpret the nature of one of the categories of things included in the legislation.

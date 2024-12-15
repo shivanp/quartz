@@ -1,0 +1,1 @@
+Law concerning relationship between individual and the State.

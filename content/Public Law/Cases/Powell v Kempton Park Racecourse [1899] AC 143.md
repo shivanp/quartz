@@ -1,0 +1,3 @@
+A person was betting in Tattersall's Ring, and the Betting Act 1853, in which the relevant provision contained the phrase; ‘house, office, room or other place’, arose for consideration.
+
+The House of Lords held that the specific words, 'house, office, room' were all indoor spaces; and so, the general words 'other place' would be taken to refer only to indoor areas. As Tattersall's Ring was an open area at Kempton Park Racecourse, the defendant did not commit an offence under the Act.

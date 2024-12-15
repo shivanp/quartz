@@ -1,0 +1,21 @@
+The Home Secretary announced his intention not to bring into force a statutory compensation scheme for criminal injuries, which had been **approved by Parliament**, but instead to introduce a new 'radically different' tariff scheme, using his prerogative power. (This is a form of pure executive power, not legitimated by Parliament.)
+
+By announcing that the agreed statutory provisions would not be implemented, the Home Secretary had acted unlawfully. His decision to introduce a new scheme, which was inconsistent with the statutory scheme, when the statutory provisions remained unrepealed, represented an abuse of his prerogative power and a bypassing of the clear will of Parliament.
+
+---
+
+This case accentuated the importance to the courts of following parliamentary intention if there are any forms of over-lapping statutory and prerogative powers in operation.
+
+The then Home Secretary, Michael Howard, decided to use prerogative powers to introduce a new 'tariff-based' criminal injuries compensation scheme. This was even though Parliament had legislated earlier for a statutory scheme in the Criminal Justice Act 1988. Howard claimed to be able to introduce his scheme, as the statutory scheme had not yet been implemented. His actions were challenged by the FBU.
+
+The law lords found against the Home Secretary on the main issue, again underlining the primacy of statutory law over other forms of common law.
+
+> ‘My Lords, it would be most surprising if, at the present day, prerogative powers could be validly exercised by the executive so as to frustrate the will of Parliament expressed in a statute … The constitutional history of this country is the history of the prerogative powers of the Crown being made subject to the overriding powers of the democratically elected legislature as the sovereign body. The prerogative powers of the Crown remain in existence to the extent that Parliament has not expressly or by implication extinguished them. But under the principle in_… De Keyser …_ if Parliament has conferred on the executive statutory powers to do a particular act, that act can only thereafter be done under the statutory powers so conferred: any pre-existing prerogative power to do the same act is [to that extent] excluded.’
+
+---
+
+### Abstract
+
+When the Secretary of State for the Home Department announced his intention not to bring into force ss.108-117 of the [Criminal Justice Act 1988](https://uk.westlaw.com/Document/I5FF71EB0E42311DAA7CF8F68F6EE57AB/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=b345c09497e74459814c1b16c48a81c9&contextData=(sc.DocLink)) , which contained statutory provisions for a criminal injuries compensation scheme similar to the scheme which had been in force since 1964, and decided instead to introduce a new tariff scheme to replace the existing scheme, F and other bodies applied for judicial review of his decision. The Court of Appeal allowed in part F's appeal against the dismissal of its application, holding that, while under s.171(1) of the Act it was for the Secretary of State for the Home Department to decide when to bring into force the relevant statutory provisions and he could not be said to have acted unlawfully by not implementing the statutory scheme, his decision to introduce a new scheme which was radically different from the scheme which Parliament had approved was unlawful as long as the statutory provisions remained unrepealed. The Secretary of State for the Home Department appealed and F cross appealed.
+
+Held, dismissing the Secretary of State for the Home Department's appeal, and F's cross appeal that under s.171(1) of the Act the Secretary of State for the Home Department had some discretion as to when to introduce the statutory scheme and was not under a legal duty to appoint a commencement date, merely to keep the question of time of implementation under consideration. However, by announcing that the provisions in the Act would not now be implemented, the Secretary of State for the Home Department had acted unlawfully. His decision to introduce a new scheme, which was inconsistent with the statutory scheme, when the statutory provisions remained unrepealed was an abuse of the prerogative power.

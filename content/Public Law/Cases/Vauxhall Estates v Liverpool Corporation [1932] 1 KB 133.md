@@ -1,0 +1,3 @@
+The court looked at the question of the implied repeal of legislation.  
+Avory J said: 
+> ‘I should certainly hold . . that no Act of Parliament can effectively provide that no future Act shall interfere with its provisions . . [I]f they [the two statutes] are inconsistent to that extent [viz. so that they cannot stand together], then the earlier Act is impliedly repealed by the later in accordance with the maxim ‘Leges posteriores priores contrarias abrogant’.’
